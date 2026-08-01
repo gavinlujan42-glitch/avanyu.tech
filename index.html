@@ -3,178 +3,124 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Avanyu Tech is a New Mexico technology company delivering cybersecurity, cloud architecture, modernization, governance, and human-centered digital transformation.">
-  <meta name="theme-color" content="#000000">
-  <title>Avanyu Tech | Built in New Mexico</title>
+  <meta name="description" content="ZIAWOLF Nexus is a unified operations dashboard for websites, CMS platforms, networks, and connected devices.">
+  <meta name="theme-color" content="#020202">
+  <title>ZIAWOLF Nexus | Unified Operations</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&family=Poiret+One&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
 </head>
 <body>
   <div class="grain" aria-hidden="true"></div>
-
-  <header class="site-header">
-    <a class="brand" href="#top" aria-label="Avanyu Tech home">
-      <svg class="brand-mark" viewBox="0 0 80 80" role="img" aria-label="Avanyu water serpent symbol">
-        <circle cx="40" cy="40" r="36"></circle>
-        <path d="M17 47c8-18 19-27 33-27 8 0 14 4 14 10 0 8-9 11-16 8-7-3-13 1-13 7 0 7 9 10 18 7"></path>
-        <path d="M18 55h44M24 63h32"></path>
-      </svg>
-      <span>AVANYU<span class="dot">.</span>TECH</span>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="ZIAWOLF Nexus home">
+      <svg viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="27"/><path d="M17 37c7-15 15-22 25-22 7 0 11 4 11 9 0 7-7 9-13 6-5-2-10 1-10 6 0 6 7 9 14 6"/><path d="M17 45h31"/></svg>
+      <span>ZIAWOLF <b>NEXUS</b></span>
     </a>
-    <nav aria-label="Primary navigation">
-      <a href="#purpose">Purpose</a>
-      <a href="#capabilities">Capabilities</a>
-      <a href="#new-mexico">New Mexico</a>
-      <a class="nav-cta" href="mailto:hello@avanyu.tech">Start a conversation</a>
-    </nav>
+    <div class="system-clock"><span class="pulse"></span><span id="clock">00:00:00</span><small> MDT</small></div>
   </header>
 
   <main id="top">
     <section class="hero">
-      <div class="hero-rings" aria-hidden="true"></div>
-      <div class="hero-symbol" aria-hidden="true">
-        <svg viewBox="0 0 700 700">
-          <circle cx="350" cy="350" r="270"></circle>
-          <circle cx="350" cy="350" r="205"></circle>
-          <path d="M125 404c74-175 170-263 289-263 83 0 139 43 139 105 0 80-91 117-165 78-52-27-112 7-112 64 0 63 72 101 160 69"></path>
-          <path d="M137 487h423M188 550h322"></path>
-        </svg>
-      </div>
-
-      <div class="hero-copy">
-        <p class="eyebrow">A New Mexico technology company</p>
-        <h1>Born from the land.<br><span>Built for what comes next.</span></h1>
-        <p class="hero-lede">Avanyu Tech brings cybersecurity, cloud architecture, digital modernization, and human-centered design together under one clear principle: technology should protect people, strengthen institutions, and create lasting value.</p>
-        <div class="hero-actions">
-          <a class="button primary" href="#capabilities">Explore our capabilities</a>
-          <a class="button secondary" href="#new-mexico">Why New Mexico</a>
-        </div>
-      </div>
-
-      <div class="hero-foot">
-        <span>35.0844° N</span>
-        <span>106.6504° W</span>
-        <span>NEW MEXICO, USA</span>
-      </div>
-    </section>
-
-    <section class="manifesto" id="purpose">
-      <div class="section-number">01</div>
       <div>
-        <p class="eyebrow">Our purpose</p>
-        <h2>Technology with memory, responsibility, and direction.</h2>
+        <p class="eyebrow">Unified operations • New Mexico signal</p>
+        <h1>One horizon.<br><span>Every system.</span></h1>
+        <p class="lede">A single command surface for websites, publishing platforms, network infrastructure, and connected devices. Two umbrellas. One source of operational truth.</p>
       </div>
-      <div class="manifesto-copy">
-        <p>New Mexico has always been a place where ancient knowledge and frontier invention share the same horizon. Avanyu Tech operates in that space.</p>
-        <p>We design secure systems, modernize essential services, and help organizations move forward without losing sight of the people, history, and communities they serve.</p>
+      <div class="hero-orbit" aria-hidden="true"><span></span><span></span><span></span></div>
+      <div class="summary-strip">
+        <div><strong id="totalAssets">18</strong><span>Total assets</span></div>
+        <div><strong class="good" id="healthyAssets">16</strong><span>Healthy</span></div>
+        <div><strong class="warn" id="warningAssets">1</strong><span>Warning</span></div>
+        <div><strong class="bad" id="downAssets">1</strong><span>Down</span></div>
       </div>
     </section>
 
-    <section class="capabilities" id="capabilities">
-      <div class="section-heading">
-        <div>
-          <p class="eyebrow">What we do</p>
-          <h2>Capability carved into every layer.</h2>
+    <section class="command-grid">
+      <article class="umbrella publishing">
+        <header>
+          <div><p class="eyebrow">Umbrella 01</p><h2>Digital Estate</h2></div>
+          <span class="status-chip good">5 / 5 online</span>
+        </header>
+        <p class="section-intro">Domains, CMS platforms, deployments, certificates, backups, and publishing workflows.</p>
+        <div class="asset-list">
+          <button class="asset-row" data-detail="gavinlujan.com|WordPress / Professional hub|Online|42 ms|SSL 87 days|Backup 3h ago">
+            <span class="status-dot good"></span><span><b>gavinlujan.com</b><small>WordPress • Professional hub</small></span><strong>42 ms</strong>
+          </button>
+          <button class="asset-row" data-detail="ziawolf.com|WordPress / Signal network|Online|61 ms|SSL 63 days|Backup 1h ago">
+            <span class="status-dot good"></span><span><b>ziawolf.com</b><small>WordPress • Signal network</small></span><strong>61 ms</strong>
+          </button>
+          <button class="asset-row" data-detail="avanyu.tech|GitHub Pages / Nexus core|Online|35 ms|SSL active|Deploy current">
+            <span class="status-dot good"></span><span><b>avanyu.tech</b><small>GitHub Pages • Nexus core</small></span><strong>35 ms</strong>
+          </button>
+          <button class="asset-row" data-detail="EnchantedDaze|GitHub Pages / Editorial|Online|77 ms|SSL active|Deploy current">
+            <span class="status-dot good"></span><span><b>EnchantedDaze</b><small>GitHub Pages • Editorial</small></span><strong>77 ms</strong>
+          </button>
+          <button class="asset-row" data-detail="ALB|GitHub Pages / Metro atlas|Online|54 ms|SSL active|Deploy current">
+            <span class="status-dot good"></span><span><b>ALB</b><small>GitHub Pages • Metro atlas</small></span><strong>54 ms</strong>
+          </button>
         </div>
-        <p>Strategy through execution. Risk through resilience. Architecture through adoption.</p>
-      </div>
-
-      <div class="capability-grid">
-        <article class="capability-card featured">
-          <span class="card-index">01</span>
-          <div class="card-icon">✦</div>
-          <h3>Cybersecurity & Resilience</h3>
-          <p>Risk assessments, NIST CSF and RMF alignment, Zero Trust strategy, security architecture, incident readiness, and enterprise hardening.</p>
-          <ul>
-            <li>Security program design</li>
-            <li>Governance and controls</li>
-            <li>Operational resilience</li>
-          </ul>
-        </article>
-
-        <article class="capability-card">
-          <span class="card-index">02</span>
-          <div class="card-icon">◇</div>
-          <h3>Cloud & Systems Architecture</h3>
-          <p>Secure, scalable architectures across cloud, hybrid, and on-premises environments, designed for performance, clarity, and control.</p>
-          <ul>
-            <li>Cloud modernization</li>
-            <li>Integration architecture</li>
-            <li>Infrastructure strategy</li>
-          </ul>
-        </article>
-
-        <article class="capability-card">
-          <span class="card-index">03</span>
-          <div class="card-icon">△</div>
-          <h3>Digital Modernization</h3>
-          <p>Roadmaps that turn aging systems, scattered data, and manual workflows into durable platforms and better public experiences.</p>
-          <ul>
-            <li>Legacy transformation</li>
-            <li>Data and workflow design</li>
-            <li>Portfolio modernization</li>
-          </ul>
-        </article>
-
-        <article class="capability-card">
-          <span class="card-index">04</span>
-          <div class="card-icon">◎</div>
-          <h3>Governance & Human Design</h3>
-          <p>Decision frameworks, stakeholder workshops, and operating models that make complex technology understandable, accountable, and usable.</p>
-          <ul>
-            <li>Executive facilitation</li>
-            <li>Technology governance</li>
-            <li>Human-centered adoption</li>
-          </ul>
-        </article>
-      </div>
-    </section>
-
-    <section class="new-mexico" id="new-mexico">
-      <div class="landscape" aria-hidden="true">
-        <div class="moon"></div>
-        <div class="mesa mesa-back"></div>
-        <div class="mesa mesa-front"></div>
-      </div>
-      <div class="nm-content">
-        <p class="eyebrow">Made here. Ready everywhere.</p>
-        <h2>New Mexico is not our backdrop.<br>It is our advantage.</h2>
-        <p>Our state knows scale, distance, scarcity, complexity, and consequence. It also knows ingenuity. New Mexicans build laboratories, protect water, defend networks, preserve cultures, launch spacecraft, grow businesses, and solve problems where failure is not theoretical.</p>
-        <div class="proof-grid">
-          <div><strong>Deep roots</strong><span>Local understanding and long-term commitment</span></div>
-          <div><strong>Wide horizon</strong><span>Enterprise thinking without coastal-groupthink</span></div>
-          <div><strong>Real resilience</strong><span>Solutions designed for demanding environments</span></div>
+        <div class="quick-actions">
+          <button>Publish</button><button>Deploy</button><button>Backup</button><button>Open CMS</button>
         </div>
-      </div>
+      </article>
+
+      <article class="umbrella network">
+        <header>
+          <div><p class="eyebrow">Umbrella 02</p><h2>Network Fabric</h2></div>
+          <span class="status-chip warn">11 / 13 healthy</span>
+        </header>
+        <p class="section-intro">Grasshopper-style visual status for gateways, switches, wireless, servers, sensors, and edge systems.</p>
+        <div class="topology" aria-label="Network topology visualization">
+          <div class="node core good" data-name="Core Gateway"><span>CORE</span><small>Gateway</small></div>
+          <div class="node n1 good" data-name="Santa Fe"><span>SF</span><small>Site</small></div>
+          <div class="node n2 good" data-name="Bernalillo"><span>BER</span><small>Site</small></div>
+          <div class="node n3 warn" data-name="Cloud Edge"><span>CLD</span><small>Latency</small></div>
+          <div class="node n4 good" data-name="Wireless"><span>WIFI</span><small>12 APs</small></div>
+          <div class="node n5 bad" data-name="Field Sensor"><span>IOT</span><small>Offline</small></div>
+          <svg viewBox="0 0 700 330" preserveAspectRatio="none" aria-hidden="true">
+            <path d="M350 165L120 75M350 165L120 255M350 165L580 65M350 165L590 170M350 165L565 275"/>
+          </svg>
+        </div>
+        <div class="network-metrics">
+          <div><span>WAN availability</span><b>99.97%</b></div>
+          <div><span>Avg latency</span><b>38 ms</b></div>
+          <div><span>Packet loss</span><b>0.12%</b></div>
+          <div><span>Active alerts</span><b class="warn">2</b></div>
+        </div>
+      </article>
     </section>
 
-    <section class="principles">
-      <p class="eyebrow">The Avanyu standard</p>
-      <div class="principle-row">
-        <span>Protect what matters.</span>
-        <span>Design for reality.</span>
-        <span>Leave systems stronger.</span>
-      </div>
+    <section class="lower-grid">
+      <article class="panel incidents">
+        <header><div><p class="eyebrow">Signal queue</p><h3>Active Events</h3></div><button id="ackAll">Acknowledge all</button></header>
+        <div class="incident warn"><span>WARN</span><div><b>Cloud edge latency elevated</b><small>Observed 7 minutes ago • threshold 80 ms</small></div><button class="ack">ACK</button></div>
+        <div class="incident bad"><span>DOWN</span><div><b>Field sensor NM-17 unreachable</b><small>Observed 19 minutes ago • last ping 00:21</small></div><button class="ack">ACK</button></div>
+        <div class="incident info"><span>INFO</span><div><b>ziawolf.com backup completed</b><small>Completed 1 hour ago • integrity verified</small></div><button class="ack">ACK</button></div>
+      </article>
+
+      <article class="panel detail-panel">
+        <p class="eyebrow">Inspector</p>
+        <h3 id="detailTitle">Select an asset</h3>
+        <p id="detailSub">Choose a site or topology node to inspect its operational signal.</p>
+        <dl id="detailData"><div><dt>Status</dt><dd>Awaiting selection</dd></div><div><dt>Source</dt><dd>Demo telemetry</dd></div><div><dt>Refresh</dt><dd>30 seconds</dd></div></dl>
+      </article>
     </section>
 
-    <section class="contact" id="contact">
-      <div>
-        <p class="eyebrow">Begin here</p>
-        <h2>Bring us the problem that keeps returning.</h2>
+    <section class="architecture">
+      <p class="eyebrow">Integration path</p>
+      <h2>From visual prototype to live command center.</h2>
+      <div class="architecture-grid">
+        <div><b>Collect</b><span>SNMP, ICMP, REST APIs, webhooks, WordPress, GitHub, DNS and SSL checks</span></div>
+        <div><b>Normalize</b><span>Uptime Kuma, LibreNMS, Zabbix, Prometheus or a lightweight Nexus collector</span></div>
+        <div><b>Command</b><span>Role-based dashboards, alerts, publishing actions, audit logs and executive views</span></div>
       </div>
-      <div class="contact-copy">
-        <p>We work with leaders who need more than another slide deck. Let’s clarify the risk, map the system, and build the path forward.</p>
-        <a class="button primary" href="mailto:hello@avanyu.tech">hello@avanyu.tech</a>
-      </div>
+      <p class="disclaimer">This first release is a front-end operations prototype. Device values are simulated until monitoring collectors and authenticated platform APIs are connected.</p>
     </section>
   </main>
 
-  <footer>
-    <a class="brand footer-brand" href="#top">AVANYU<span class="dot">.</span>TECH</a>
-    <p>New Mexico technology, built with purpose.</p>
-    <p>© 2026 Avanyu Tech. All rights reserved.</p>
-  </footer>
+  <footer><span>ZIAWOLF NEXUS</span><span>Protect the signal. Read the horizon.</span><span>AVANYU.TECH • 2026</span></footer>
 </body>
 </html>
