@@ -1,70 +1,19 @@
 const clock = document.getElementById('clock');
-const formatTime = () => new Intl.DateTimeFormat('en-US', {
-  timeZone: 'America/Denver',
-  hour: '2-digit',
-  minute: '2-digit',
-  second: '2-digit',
-  hour12: false
-}).format(new Date());
+const formatTime = () => new Intl.DateTimeFormat('en-US', {timeZone:'America/Denver',hour:'2-digit',minute:'2-digit',second:'2-digit',hour12:false}).format(new Date());
+function tick(){if(clock)clock.textContent=formatTime()}tick();setInterval(tick,1000);
+const detailTitle=document.getElementById('detailTitle'),detailSub=document.getElementById('detailSub'),detailData=document.getElementById('detailData');
+function renderDetail(title,subtitle,values){detailTitle.textContent=title;detailSub.textContent=subtitle;detailData.innerHTML=values.map(([label,value])=>`<div><dt>${label}</dt><dd>${value}</dd></div>`).join('')}
+document.querySelectorAll('.asset-row').forEach(row=>{row.addEventListener('click',()=>{const[title,subtitle,status,latency,security,recovery]=row.dataset.detail.split('|');renderDetail(title,subtitle,[['Status',status],['Response',latency],['Security',security],['Recovery',recovery]])})});
+document.querySelectorAll('.node').forEach(node=>{node.addEventListener('click',()=>{const state=node.classList.contains('bad')?'Offline':node.classList.contains('warn')?'Warning':'Healthy';renderDetail(node.dataset.name,'Network fabric node',[['Status',state],['Protocol','SNMP / ICMP ready'],['Polling','30 seconds'],['Source','Demo telemetry']])})});
+document.querySelectorAll('.ack').forEach(button=>{button.addEventListener('click',()=>{button.closest('.incident').classList.add('acknowledged');button.textContent='DONE'})});
+document.getElementById('ackAll')?.addEventListener('click',()=>{document.querySelectorAll('.incident').forEach(incident=>incident.classList.add('acknowledged'));document.querySelectorAll('.ack').forEach(button=>button.textContent='DONE')});
+document.querySelectorAll('.quick-actions button').forEach(button=>{button.addEventListener('click',()=>{const original=button.textContent;button.textContent='QUEUED';setTimeout(()=>{button.textContent=original},1400)})});
 
-function tick() {
-  if (clock) clock.textContent = formatTime();
+const architecture=document.querySelector('.architecture');
+if(architecture){
+  const intel=document.createElement('section');
+  intel.className='threat-intel';
+  intel.id='threat-intel';
+  intel.innerHTML=`<div class="intel-header"><div><p class="eyebrow">AVANYU CYBER / AI SECURITY INTELLIGENCE</p><h2>Read the storm.<br><span>Defend the watershed.</span></h2></div><div class="intel-status"><i></i><b>INTELLIGENCE GRID ONLINE</b><small>Curated August 1, 2026 · Weekly refresh</small></div></div><div class="risk-board"><div><span>GLOBAL POSTURE</span><b class="warn">ELEVATED ↗</b><small>AI-enabled operations and critical-infrastructure targeting</small></div><div><span>KEV PRIORITY</span><b>ACTIVE</b><small>CISA catalog drives remediation order</small></div><div><span>OT / WATER</span><b class="bad">HIGH</b><small>Internet exposure, weak identity, manual fallback</small></div><div><span>AI AGENTS</span><b class="warn">WATCH</b><small>Tool access, prompt attacks, autonomy boundaries</small></div></div><div class="source-grid"><a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener"><span>CISA KEV</span><b>Known exploitation</b><small>Authoritative vulnerability prioritization for defenders.</small></a><a href="https://isc.sans.edu/" target="_blank" rel="noopener"><span>SANS ISC</span><b>Internet Storm Center</b><small>Handler diaries, sensor activity and internet-scale observations.</small></a><a href="https://www.cisecurity.org/insights" target="_blank" rel="noopener"><span>CIS / MS-ISAC</span><b>Controls + collective defense</b><small>Benchmarks, guidance, public-sector intelligence and resilience.</small></a><a href="https://www.nist.gov/artificial-intelligence" target="_blank" rel="noopener"><span>NIST</span><b>AI risk and security</b><small>Agent security, AI RMF and continuous monitor-and-update thinking.</small></a><a href="https://attack.mitre.org/" target="_blank" rel="noopener"><span>MITRE ATT&CK</span><b>Adversary behavior</b><small>Translate observed tactics into detection and response.</small></a><a href="https://www.waterisac.org/" target="_blank" rel="noopener"><span>WATER-ISAC</span><b>Sector intelligence</b><small>Water and wastewater cyber and physical threat awareness.</small></a><a href="https://www.cisa.gov/news-events/cybersecurity-advisories" target="_blank" rel="noopener"><span>CISA ADVISORIES</span><b>Joint operations reporting</b><small>Alerts, malware analysis and defensive guidance.</small></a><a href="https://www.cisecurity.org/controls" target="_blank" rel="noopener"><span>CIS CONTROLS</span><b>Actionable safeguards</b><small>Prioritized controls for measurable cyber hygiene.</small></a></div><div class="intel-stream"><article><span>CRITICAL INFRASTRUCTURE</span><b>Water systems remain a priority watch sector</b><p>Operational technology exposure, default credentials and constrained staffing create a narrow margin for error. Preserve manual control and isolate unnecessary remote access.</p></article><article><span>AI SECURITY</span><b>Agent security requires continuous monitoring</b><p>NIST's 2026 work emphasizes that fixed guardrails cannot be treated as permanent protection against adaptive adversaries. Monitor, test and update continuously.</p></article><article><span>SOFTWARE DEFENSE</span><b>CIS is expanding AI-aware secure development guidance</b><p>Updated secure-software practices now account for AI's role in code generation, review, dependency risk and development workflows.</p></article></div><div class="intel-footer"><span><i></i> SOURCES ARE LINKED DIRECTLY · ATTRIBUTION REMAINS EVIDENCE-BASED</span><a href="https://gavinlujan.com/#signal-feed" target="_blank" rel="noopener">OPEN EXECUTIVE VIEW →</a></div>`;
+  architecture.parentNode.insertBefore(intel,architecture);
 }
-tick();
-setInterval(tick, 1000);
-
-const detailTitle = document.getElementById('detailTitle');
-const detailSub = document.getElementById('detailSub');
-const detailData = document.getElementById('detailData');
-
-function renderDetail(title, subtitle, values) {
-  detailTitle.textContent = title;
-  detailSub.textContent = subtitle;
-  detailData.innerHTML = values.map(([label, value]) =>
-    `<div><dt>${label}</dt><dd>${value}</dd></div>`
-  ).join('');
-}
-
-document.querySelectorAll('.asset-row').forEach((row) => {
-  row.addEventListener('click', () => {
-    const [title, subtitle, status, latency, security, recovery] = row.dataset.detail.split('|');
-    renderDetail(title, subtitle, [
-      ['Status', status],
-      ['Response', latency],
-      ['Security', security],
-      ['Recovery', recovery]
-    ]);
-  });
-});
-
-document.querySelectorAll('.node').forEach((node) => {
-  node.addEventListener('click', () => {
-    const state = node.classList.contains('bad') ? 'Offline' : node.classList.contains('warn') ? 'Warning' : 'Healthy';
-    renderDetail(node.dataset.name, 'Network fabric node', [
-      ['Status', state],
-      ['Protocol', 'SNMP / ICMP ready'],
-      ['Polling', '30 seconds'],
-      ['Source', 'Demo telemetry']
-    ]);
-  });
-});
-
-document.querySelectorAll('.ack').forEach((button) => {
-  button.addEventListener('click', () => {
-    button.closest('.incident').classList.add('acknowledged');
-    button.textContent = 'DONE';
-  });
-});
-
-document.getElementById('ackAll')?.addEventListener('click', () => {
-  document.querySelectorAll('.incident').forEach((incident) => incident.classList.add('acknowledged'));
-  document.querySelectorAll('.ack').forEach((button) => button.textContent = 'DONE');
-});
-
-document.querySelectorAll('.quick-actions button').forEach((button) => {
-  button.addEventListener('click', () => {
-    const original = button.textContent;
-    button.textContent = 'QUEUED';
-    setTimeout(() => { button.textContent = original; }, 1400);
-  });
-});
