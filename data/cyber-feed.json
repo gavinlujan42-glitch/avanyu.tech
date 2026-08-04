@@ -1,0 +1,13 @@
+{
+  "updated": "2026-08-03T00:00:00+00:00",
+  "item_count": 5,
+  "sources": ["CISA", "HACKER NEWS", "REDDIT", "SLASHDOT", "OSINT"],
+  "errors": [],
+  "items": [
+    {"source":"CISA","title":"Cybersecurity Alerts & Advisories","url":"https://www.cisa.gov/news-events/cybersecurity-advisories","summary":"Authoritative defensive advisories, threat actor tactics, indicators of compromise, and mitigations.","published":"2026-08-03T00:00:00+00:00"},
+    {"source":"HACKER NEWS","title":"Hacker News technology signal","url":"https://news.ycombinator.com/","summary":"Near-real-time software, AI, infrastructure, research, startup, and technology community reporting.","published":"2026-08-03T00:00:00+00:00"},
+    {"source":"REDDIT","title":"Cybersecurity community signal","url":"https://www.reddit.com/r/cybersecurity/","summary":"Community discussion and practitioner reporting. Claims should be verified against primary sources.","published":"2026-08-03T00:00:00+00:00"},
+    {"source":"SLASHDOT","title":"Slashdot technology and open-source signal","url":"https://slashdot.org/","summary":"Technology, security, science, policy, privacy, and open-source reporting and discussion.","published":"2026-08-03T00:00:00+00:00"},
+    {"source":"OSINT","title":"MITRE ATT&CK defensive knowledge base","url":"https://attack.mitre.org/","summary":"Publicly accessible knowledge of adversary behavior, activity clusters, software, techniques, and mitigations.","published":"2026-08-03T00:00:00+00:00"}
+  ]
+}
