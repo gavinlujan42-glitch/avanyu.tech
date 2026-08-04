@@ -12,7 +12,7 @@
 </head>
 <body>
   <div class="grain" aria-hidden="true"></div>
-  <header class="topbar"><a class="brand" href="#top"><span class="brand-mark">𓆙</span>AVANYU<b>.TECH</b></a><nav><a href="#signal">Signal</a><a href="#actors">Actors</a><a href="#mission">Mission</a><a href="#contact">Collaborate</a></nav><span class="clock"><i></i><b id="clock">--:--:--</b> MDT</span></header>
+  <header class="topbar"><a class="brand" href="#top"><span class="brand-mark">𓆙</span>AVANYU<b>.TECH</b></a><nav><a href="#signal">Signal</a><a href="#actors">Actors</a><a href="#secure-ops">Secure Ops</a><a href="#mission">Mission</a><a href="#contact">Collaborate</a></nav><span class="clock"><i></i><b id="clock">--:--:--</b> MDT</span></header>
   <main id="top">
     <section class="hero">
       <div class="hero-copy"><p class="eyebrow">New Mexico born · Intelligence with consequence</p><h1>Protect the signal.<br><span>Defend the current.</span></h1><p class="lead">Cyber intelligence, AI, water, GIS, and resilient infrastructure—connected as one living system. Avanyu watches the horizon, translates risk, and helps people act with clarity.</p><div class="actions"><a class="primary" href="#signal">Enter the signal</a><a href="#actors">Threat watchlist</a></div><p class="aqua">AQUA ES VIDA <b>·</b> WATER IS LIFE</p></div>
@@ -32,6 +32,24 @@
       <div class="actor-controls"><input id="actorSearch" type="search" placeholder="Search call sign, alias, nexus, affiliation, or tradecraft…"><select id="nexusFilter"><option value="ALL">All reported nexuses</option></select></div>
       <div class="actor-table-wrap"><table><thead><tr><th># / CALL SIGN</th><th>REPORTED NEXUS</th><th>ALIASES / AFFILIATION</th><th>OBSERVED TRADECRAFT</th><th>REFERENCE</th></tr></thead><tbody id="actorRows"></tbody></table></div>
       <p class="intel-note">Attribution is an analytic judgment, not proof of nationality or government control. Defenders should prioritize observed behavior, indicators, affected technology, and mitigations.</p>
+    </section>
+
+
+    <section id="secure-ops" class="section secure-ops">
+      <header class="section-head"><div><p class="eyebrow">Release assurance · domain control · operational readiness</p><h2>SECURE OPS.</h2></div><p>A disciplined command surface for moving Avanyu services from commit to trusted public availability. Every launch passes the same gates: release identity, deployment, DNS, TLS, page integrity, workflow health, and recovery.</p></header>
+      <div class="ops-status" aria-label="Website cutover status">
+        <article><span>PRODUCTION TARGET</span><b>avanyu.tech</b><small>CNAME present on main</small></article>
+        <article><span>RELEASE CHANNEL</span><b>GitHub Pages</b><small>Verify main / repository root</small></article>
+        <article><span>CONTROL STATE</span><b class="ops-verify">VERIFY</b><small>DNS · TLS · HTTP 200</small></article>
+        <article><span>RECOVERY</span><b>Git history</b><small>Known-good rollback point required</small></article>
+      </div>
+      <div class="ops-grid">
+        <article><span>01 / RELEASE</span><h3>Confirm the payload</h3><ul><li>Identify the intended production design</li><li>Record commit SHA and release owner</li><li>Confirm CNAME and publishing source</li></ul></article>
+        <article><span>02 / CUTOVER</span><h3>Secure the route</h3><ul><li>Validate apex and www DNS records</li><li>Remove conflicting A, AAAA, or forwarding</li><li>Enable HTTPS after certificate issuance</li></ul></article>
+        <article><span>03 / AVAILABILITY</span><h3>Prove the page</h3><ul><li>Require HTTPS 200 without redirect loops</li><li>Test CSS, JavaScript, JSON, and fonts</li><li>Run desktop, mobile, CTA, and console checks</li></ul></article>
+        <article><span>04 / OPERATE</span><h3>Watch and recover</h3><ul><li>Verify automation and feed timestamps</li><li>Enable uptime and certificate monitoring</li><li>Retain and test the rollback commit</li></ul></article>
+      </div>
+      <div class="ops-gate"><div><span>LAUNCH AUTHORITY</span><b>GO only when DNS, HTTPS, page assets, workflows, and rollback all pass.</b></div><a href="https://github.com/gavinlujan42-glitch/avanyu.tech" target="_blank" rel="noopener">OPEN RELEASE REPOSITORY ↗</a></div>
     </section>
 
     <section id="mission" class="section mission-section"><div><p class="eyebrow">Technology · Story · Stewardship</p><h2>The winged water dragon lives.</h2><p class="lead">Avanyu is motion, vigilance, renewal, and tenacity—the intelligence to see the storm and the discipline to protect what sustains us. We build secure systems for water, government, enterprise, and the next generation of New Mexico technologists.</p></div><div class="mission-grid"><article><b>WATCH</b><span>Cyber and technology intelligence across trusted public sources</span></article><article><b>UNDERSTAND</b><span>Human-centered analysis that turns signal into accountable decisions</span></article><article><b>PROTECT</b><span>Zero Trust, resilience, modernization, GIS, AI, and water stewardship</span></article><article><b>ENDURE</b><span>Open standards, strong governance, recovery, portability, and memory</span></article></div></section>
