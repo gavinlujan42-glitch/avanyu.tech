@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T10:47:25.540725+00:00",
+  "updated": "2026-08-04T13:06:07.593696+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,10 +28,108 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Different kind of issues in finding a job.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf94zs/different_kind_of_issues_in_finding_a_job/",
+      "summary": "Worked at four companies now, and every single one has had a toxic manager. The first one was a control freak. He’d make us write pointless documentation just to “cover ourselves,” and had me send out feedback forms to literally everyone I worked with on every project. The second manager was incredibly insecure. He micromanaged everything, from the wording in my reports to everyday conversations. If I disagreed with him, he’d threaten disciplinary action. The worst part was he was often just… wr",
+      "published": "2026-08-04T12:37:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Xbox goes down. You can't play games you own on disc",
+      "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
+      "summary": "81 points · 94 comments",
+      "published": "2026-08-04T12:01:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Roame (YC S23) Is Hiring Lead Engineer",
+      "url": "https://www.ycombinator.com/companies/roame/jobs/mqqfa38-lead-full-stack-engineer",
+      "summary": "1 points · 0 comments",
+      "published": "2026-08-04T12:00:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Buckminster Fuller: everything I know",
+      "url": "https://www.bfi.org/about-fuller/everything-i-know/",
+      "summary": "25 points · 11 comments",
+      "published": "2026-08-04T11:33:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
+      "summary": "233 points · 122 comments",
+      "published": "2026-08-04T11:30:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "url": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as \"script kiddies,\" sat at the other end, running public",
+      "published": "2026-08-04T11:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "summary": "24 points · 3 comments",
+      "published": "2026-08-04T11:17:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "url": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied",
+      "published": "2026-08-04T11:16:23+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AI slop pollutes the CVE pipeline with fake vulns",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf7bbf/ai_slop_pollutes_the_cve_pipeline_with_fake_vulns/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-08-04T11:10:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "summary": "22 points · 0 comments",
+      "published": "2026-08-04T11:01:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Russia-Linked 'Midnight Blizzard' Group Hijacks Hotel Wi-Fi With CaptiveCrunch",
+      "url": "https://yro.slashdot.org/story/26/08/04/0523203/russia-linked-midnight-blizzard-group-hijacks-hotel-wi-fi-with-captivecrunch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A Russia-linked group tracked as Midnight Blizzard has compromised hotel and conference Wi-Fi portals worldwide, redirecting guests to phishing pages and fake software updates that steal credentials, session tokens, and other sensitive data. Microsoft says the campaign, dubbed CaptiveCrunch, \"targets traveling employees generally rather than a particular sector,\" reports iTNews. From the report: Midnight Blizzard, tracked internally by Microsoft under its earlier codename NOBELIUM, is attributed",
+      "published": "2026-08-04T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past account boundaries. The database bug is tracked as CVE-2026-58048 (CVSS 4.0 score: 9.4) and affects",
+      "published": "2026-08-04T10:36:27+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Multiple Flaws in Google's Synced Passkey Implementation Allow Attackers to Take Over Your Accounts",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vf6h5r/multiple_flaws_in_googles_synced_passkey/",
       "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
       "published": "2026-08-04T10:27:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
+      "summary": "77 points · 4 comments",
+      "published": "2026-08-04T10:13:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why Large Language Models Fail at Tabular Prediction",
+      "url": "https://arxiv.org/abs/2608.02412",
+      "summary": "15 points · 2 comments",
+      "published": "2026-08-04T10:07:06+00:00"
     },
     {
       "source": "REDDIT",
@@ -51,22 +149,22 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "summary": "18 points · 1 comments",
+      "summary": "117 points · 29 comments",
       "published": "2026-08-04T10:00:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An Honest Review of AI Programming",
+      "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
+      "summary": "21 points · 31 comments",
+      "published": "2026-08-04T09:35:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FFmpeg 9.0",
       "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "summary": "137 points · 18 comments",
+      "summary": "290 points · 50 comments",
       "published": "2026-08-04T09:30:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
-      "summary": "37 points · 34 comments",
-      "published": "2026-08-04T09:27:47+00:00"
     },
     {
       "source": "OSINT",
@@ -81,20 +179,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vf4j0j/code_execution_via_provisioning_packages/",
       "summary": "submitted by /u/netbiosX [link] [comments]",
       "published": "2026-08-04T08:35:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
-      "url": "https://pedroth.github.io/?p=post/NoNeedReact",
-      "summary": "44 points · 37 comments",
-      "published": "2026-08-04T08:11:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "CollectWise (YC F24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
-      "summary": "1 points · 0 comments",
-      "published": "2026-08-04T07:01:26+00:00"
     },
     {
       "source": "OSINT",
@@ -114,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Harness Engineering for Self-Improvement",
       "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "summary": "63 points · 7 comments",
+      "summary": "117 points · 18 comments",
       "published": "2026-08-04T06:17:54+00:00"
     },
     {
@@ -153,13 +237,6 @@
       "published": "2026-08-03T23:58:01+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "summary": "163 points · 59 comments",
-      "published": "2026-08-03T23:24:53+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "An AI-Supervised Remote Exam Went So Badly That 58,000 Students Must Retake It",
       "url": "https://news.slashdot.org/story/26/08/03/233245/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -184,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "983 points · 416 comments",
+      "summary": "1089 points · 454 comments",
       "published": "2026-08-03T21:13:53+00:00"
     },
     {
@@ -223,13 +300,6 @@
       "published": "2026-08-03T19:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "DeepSeek uncovered in a proxyjacking campaign — researchers steered the agent into surrendering a list of over 1,000 victims",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vememq/deepseek_uncovered_in_a_proxyjacking_campaign/",
-      "summary": "submitted by /u/Square_Juggernaut298 [link] [comments]",
-      "published": "2026-08-03T18:54:35+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
       "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
@@ -242,13 +312,6 @@
       "url": "https://entertainment.slashdot.org/story/26/08/03/1637257/samsung-bans-smart-tv-apps-that-share-users-internet-connections?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: Several popular Samsung smart TV apps contain code that share the owner's internet connection with strangers, potentially putting millions of Samsung smart TVs at risk of hijacking, according to new security research published on Monday. Some of these apps claim to have been installed on hundreds of millions of smart TVs in people's homes, per the app developers. At least one of the smart TV apps was a simple Pac-Man game that Samsung had endo",
       "published": "2026-08-03T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "summary": "223 points · 58 comments",
-      "published": "2026-08-03T17:08:46+00:00"
     },
     {
       "source": "OSINT",
@@ -268,15 +331,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
       "url": "https://github.com/leonickson1/Swiftlet",
-      "summary": "192 points · 84 comments",
+      "summary": "230 points · 101 comments",
       "published": "2026-08-03T16:54:15+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Labs for aspiring cloud security engineer",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1veipkw/labs_for_aspiring_cloud_security_engineer/",
-      "summary": "Anyone know of any guided labs out there where I could get hands on exposure? I'm not a complete newbie when it comes to cloud, just want to get a little more experience that I can speak to in interviews. submitted by /u/jaydee288 [link] [comments]",
-      "published": "2026-08-03T16:42:18+00:00"
     },
     {
       "source": "REDDIT",
@@ -289,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "summary": "545 points · 837 comments",
+      "summary": "567 points · 856 comments",
       "published": "2026-08-03T16:27:12+00:00"
     },
     {
@@ -328,13 +384,6 @@
       "published": "2026-08-03T15:04:39+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "summary": "180 points · 170 comments",
-      "published": "2026-08-03T15:00:54+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Company Offering Printed Books To Train AI Stops After 404 Media Coverage",
       "url": "https://news.slashdot.org/story/26/08/03/0714207/company-offering-printed-books-to-train-ai-stops-after-404-media-coverage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -352,7 +401,7 @@
       "source": "HACKER NEWS",
       "title": "Devtools must be open source",
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "summary": "621 points · 206 comments",
+      "summary": "645 points · 213 comments",
       "published": "2026-08-03T14:15:47+00:00"
     },
     {
@@ -361,13 +410,6 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
       "published": "2026-08-03T14:03:11+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "'AI's Decimation of Call Center Jobs Has Begun'",
-      "url": "https://it.slashdot.org/story/26/08/03/031248/ais-decimation-of-call-center-jobs-has-begun?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"AI's decimation of call center jobs has begun,\" reports Bloomberg: Companies including the Commonwealth Bank of Australia, Microsoft Corp., Uber Technologies Inc. and Hyatt Hotels Corp. are using automated chat and phone systems to handle work that previously required humans. In some cases, they've already wiped out sizable chunks of their customer service operations, together representing thousands of workers. The specter of automation has long loomed over the call center industry, which emplo",
-      "published": "2026-08-03T11:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -384,39 +426,11 @@
       "published": "2026-08-03T10:49:06+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "summary": "490 points · 404 comments",
-      "published": "2026-08-03T09:32:07+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
       "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
       "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers. The incident, identified on July 26, also exposed some names",
       "published": "2026-08-03T09:13:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented. Thermo Fisher tracks the issue as CVE-2026-17583 and rates it",
-      "published": "2026-08-03T08:05:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version. N-central is the remote monitoring and management platform",
-      "published": "2026-08-03T06:41:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
-      "published": "2026-08-03T06:40:31+00:00"
     },
     {
       "source": "REDDIT",
@@ -447,13 +461,6 @@
       "published": "2026-08-02T14:17:16+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
-      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
-      "summary": "8 points · 4 comments",
-      "published": "2026-08-01T14:55:32+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
@@ -461,18 +468,18 @@
       "published": "2026-08-01T14:20:30+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
+      "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
+      "summary": "15 points · 3 comments",
+      "published": "2026-07-31T23:13:03+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Amgen says cloud data breach exposed patient health, proprietary info",
       "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
       "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
       "published": "2026-07-31T22:16:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Beauty in my backyard",
-      "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-      "summary": "27 points · 8 comments",
-      "published": "2026-07-31T06:25:48+00:00"
     },
     {
       "source": "OSINT",
@@ -485,15 +492,8 @@
       "source": "HACKER NEWS",
       "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
       "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "summary": "159 points · 130 comments",
+      "summary": "187 points · 149 comments",
       "published": "2026-07-29T16:07:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "That time when I failed the Microsoft interview",
-      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "summary": "68 points · 118 comments",
-      "published": "2026-07-29T10:02:50+00:00"
     },
     {
       "source": "OSINT",
