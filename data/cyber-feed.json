@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T08:03:17.301945+00:00",
+  "updated": "2026-08-04T10:47:25.540725+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,69 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Multiple Flaws in Google's Synced Passkey Implementation Allow Attackers to Take Over Your Accounts",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf6h5r/multiple_flaws_in_googles_synced_passkey/",
+      "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "published": "2026-08-04T10:27:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "HEVD: From Stack Overflows to Modern Pool Grooming",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf60g3/hevd_from_stack_overflows_to_modern_pool_grooming/",
+      "summary": "Hi. I just published a four-part deep dive into windows kernel exploitation, progressing from classic control flow hijacking to modern pool grooming and pure data-only attacks on windows 11. I wanted to highlight the real-world friction of modern security measures. A lot of the focus is on mitigating LFH randomization, and avoiding IoCompleteRequest bugchecks by dodging ReadFile for arbitrary reads. Hope this is helpful or insightful to some of you looking into modern kernel exploitation. submit",
+      "published": "2026-08-04T10:02:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Does your company start asking you to build your tools instead of buying?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf6072/does_your_company_start_asking_you_to_build_your/",
+      "summary": "CISO has asked us to get rid of Dast and Sast and build our own AI scanners submitted by /u/SkyberSec123 [link] [comments]",
+      "published": "2026-08-04T10:01:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "summary": "18 points · 1 comments",
+      "published": "2026-08-04T10:00:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "FFmpeg 9.0",
+      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
+      "summary": "137 points · 18 comments",
+      "published": "2026-08-04T09:30:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
+      "summary": "37 points · 34 comments",
+      "published": "2026-08-04T09:27:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
+      "published": "2026-08-04T09:03:23+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Code Execution via Provisioning Packages",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf4j0j/code_execution_via_provisioning_packages/",
+      "summary": "submitted by /u/netbiosX [link] [comments]",
+      "published": "2026-08-04T08:35:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "You don't need React: creating a minimal UI library in Vanilla JavaScript",
+      "url": "https://pedroth.github.io/?p=post/NoNeedReact",
+      "summary": "44 points · 37 comments",
+      "published": "2026-08-04T08:11:02+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "CollectWise (YC F24) Is Hiring",
       "url": "https://www.ycombinator.com/companies/collectwise/jobs/oEAfzBS-ai-agent-engineer",
@@ -46,6 +109,13 @@
       "url": "https://science.slashdot.org/story/26/08/04/0040200/spain-offers-114-billion-to-get-thirty-meter-telescope-moved-to-canary-islands?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot reader schwit1 shares a report from Behind the Black: In a new bid to get the Thirty Meter Telescope (TMT) to move from Hawaii, which has blocked its construction for more than a decade, the Spanish government has put together a $1.14 billion package that would not only pay for construction on the Canary Islands, but would finance an additional half century of operations. Tech Times provides some additional details: The package is conditional on the TMT International Observator",
       "published": "2026-08-04T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Harness Engineering for Self-Improvement",
+      "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
+      "summary": "63 points · 7 comments",
+      "published": "2026-08-04T06:17:54+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -86,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "There Will Come Soft Rains (1950) [pdf]",
       "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "summary": "136 points · 52 comments",
+      "summary": "163 points · 59 comments",
       "published": "2026-08-03T23:24:53+00:00"
     },
     {
@@ -114,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "832 points · 348 comments",
+      "summary": "983 points · 416 comments",
       "published": "2026-08-03T21:13:53+00:00"
     },
     {
@@ -137,13 +207,6 @@
       "url": "https://slashdot.org/story/26/08/03/1934211/microsoft-ceo-touts-his-own-diy-ai-project-to-wall-street-and-his-20-million-followers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "theodp writes: During Microsoft's 2026Q4 earnings call, CEO Microsoft Satya Nadella took time to tout a dashboard he personally created using AI from a Morgan Stanley analyst's PDF research report, which suggested a rosy payback for the so-called MAG7's ('Magnificent 7' companies) massive capital expenditures on AI (to which Nadella later added a \"not financial advice\" disclaimer). \"It would be fun for you, Adam. I think one of your colleagues put out an ROIC [Return on Invested Capital] documen",
       "published": "2026-08-03T20:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Solo Senior Tech Handling IAM, EDR/Huntress Alerts & Isolated Device Remediation and more… Company Offers 5% Raise feels like slap",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1veo6yf/solo_senior_tech_handling_iam_edrhuntress_alerts/",
-      "summary": "Hi everyone, I’ve been applying to jobs trying to get out of my current company, but I’m not getting a single callback despite doing work well above my title. There’s a Network Engineer and an IT Manager above me, but I’m still the one, titled and paid as help desk, handling IAM, triaging and remediating EDR alerts through Huntress, doing full remediation on isolated/quarantined devices, and managing day-to-day backup jobs for Exchange and M365 across 10+ clients. On top of that I’m still coveri",
-      "published": "2026-08-03T19:59:54+00:00"
     },
     {
       "source": "OSINT",
@@ -184,15 +247,8 @@
       "source": "HACKER NEWS",
       "title": "Smaller, faster, safer: running Kimi and GLM at scale",
       "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "summary": "206 points · 50 comments",
+      "summary": "223 points · 58 comments",
       "published": "2026-08-03T17:08:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "summary": "153 points · 40 comments",
-      "published": "2026-08-03T17:02:10+00:00"
     },
     {
       "source": "OSINT",
@@ -212,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
       "url": "https://github.com/leonickson1/Swiftlet",
-      "summary": "144 points · 54 comments",
+      "summary": "192 points · 84 comments",
       "published": "2026-08-03T16:54:15+00:00"
     },
     {
@@ -230,24 +286,10 @@
       "published": "2026-08-03T16:36:09+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "after graduating for the ones who didn’t get a internship did you go straight to entry level IT jobs for experience or what was your route?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1veifow/after_graduating_for_the_ones_who_didnt_get_a/",
-      "summary": "submitted by /u/thatflaat [link] [comments]",
-      "published": "2026-08-03T16:32:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "summary": "68 points · 52 comments",
-      "published": "2026-08-03T16:32:06+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Ten advances in mathematics and theoretical computer science",
       "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "summary": "524 points · 802 comments",
+      "summary": "545 points · 837 comments",
       "published": "2026-08-03T16:27:12+00:00"
     },
     {
@@ -279,13 +321,6 @@
       "published": "2026-08-03T16:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Twenty Years of Pandoc",
-      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
-      "summary": "218 points · 26 comments",
-      "published": "2026-08-03T15:04:53+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
       "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
@@ -296,14 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: Who is hiring? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49156683",
-      "summary": "165 points · 145 comments",
-      "published": "2026-08-03T15:00:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156682",
-      "summary": "108 points · 253 comments",
+      "summary": "180 points · 170 comments",
       "published": "2026-08-03T15:00:54+00:00"
     },
     {
@@ -324,22 +352,8 @@
       "source": "HACKER NEWS",
       "title": "Devtools must be open source",
       "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "summary": "584 points · 198 comments",
+      "summary": "621 points · 206 comments",
       "published": "2026-08-03T14:15:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
-      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
-      "summary": "304 points · 63 comments",
-      "published": "2026-08-03T14:09:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "INTERPOL report finds AI linked to more than half of cybercrime in Africa",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1veegzz/interpol_report_finds_ai_linked_to_more_than_half/",
-      "summary": "submitted by /u/jivatman [link] [comments]",
-      "published": "2026-08-03T14:07:51+00:00"
     },
     {
       "source": "OSINT",
@@ -347,13 +361,6 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
       "published": "2026-08-03T14:03:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "summary": "290 points · 85 comments",
-      "published": "2026-08-03T13:34:43+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -377,17 +384,10 @@
       "published": "2026-08-03T10:49:06+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Legitimate signed .exe application is flagged as malware and blocked by Google Drive, Microsoft and virustotal",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1ve8uqq/legitimate_signed_exe_application_is_flagged_as/",
-      "summary": "Hi, I made a small Windows app in C#, and I’m honestly losing my mind over this. The app just checks basic computer and network requirements: Windows version, RAM, CPU, free disk space, ping, packet loss, download/upload speed and whether a VPN adapter might be active. At the end it creates an HTML report locally on the desktop. It doesn’t install anything, doesn’t add itself to startup, doesn’t run PowerShell, doesn’t read user files and doesn’t download or execute other programs. I also signed",
-      "published": "2026-08-03T09:45:12+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
       "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "summary": "468 points · 379 comments",
+      "summary": "490 points · 404 comments",
       "published": "2026-08-03T09:32:07+00:00"
     },
     {
@@ -447,11 +447,11 @@
       "published": "2026-08-02T14:17:16+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
-      "published": "2026-08-01T17:17:22+00:00"
+      "source": "HACKER NEWS",
+      "title": "Archaeologists Find Ancient Glyphs in the Amazon",
+      "url": "https://www.nytimes.com/2026/07/31/world/americas/amazon-archaeology-geoglyphs.html",
+      "summary": "8 points · 4 comments",
+      "published": "2026-08-01T14:55:32+00:00"
     },
     {
       "source": "OSINT",
@@ -471,7 +471,7 @@
       "source": "HACKER NEWS",
       "title": "Beauty in my backyard",
       "url": "https://worksinprogress.co/issue/beauty-in-my-backyard/",
-      "summary": "9 points · 0 comments",
+      "summary": "27 points · 8 comments",
       "published": "2026-07-31T06:25:48+00:00"
     },
     {
@@ -485,14 +485,14 @@
       "source": "HACKER NEWS",
       "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
       "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "summary": "128 points · 100 comments",
+      "summary": "159 points · 130 comments",
       "published": "2026-07-29T16:07:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "That time when I failed the Microsoft interview",
       "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-      "summary": "40 points · 61 comments",
+      "summary": "68 points · 118 comments",
       "published": "2026-07-29T10:02:50+00:00"
     },
     {
