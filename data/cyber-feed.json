@@ -1,13 +1,562 @@
 {
-  "updated": "2026-08-03T00:00:00+00:00",
-  "item_count": 5,
-  "sources": ["CISA", "HACKER NEWS", "REDDIT", "SLASHDOT", "OSINT"],
-  "errors": [],
+  "updated": "2026-08-04T05:32:34.363810+00:00",
+  "item_count": 76,
+  "sources": [
+    "CISA",
+    "HACKER NEWS",
+    "REDDIT",
+    "SLASHDOT",
+    "OSINT"
+  ],
+  "errors": [
+    {
+      "source": "CISA",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "error": "HTTPError"
+    },
+    {
+      "source": "REDDIT",
+      "url": "https://www.reddit.com/r/netsec/.rss",
+      "error": "HTTPError"
+    },
+    {
+      "source": "REDDIT",
+      "url": "https://www.reddit.com/r/technology/.rss",
+      "error": "HTTPError"
+    }
+  ],
   "items": [
-    {"source":"CISA","title":"Cybersecurity Alerts & Advisories","url":"https://www.cisa.gov/news-events/cybersecurity-advisories","summary":"Authoritative defensive advisories, threat actor tactics, indicators of compromise, and mitigations.","published":"2026-08-03T00:00:00+00:00"},
-    {"source":"HACKER NEWS","title":"Hacker News technology signal","url":"https://news.ycombinator.com/","summary":"Near-real-time software, AI, infrastructure, research, startup, and technology community reporting.","published":"2026-08-03T00:00:00+00:00"},
-    {"source":"REDDIT","title":"Cybersecurity community signal","url":"https://www.reddit.com/r/cybersecurity/","summary":"Community discussion and practitioner reporting. Claims should be verified against primary sources.","published":"2026-08-03T00:00:00+00:00"},
-    {"source":"SLASHDOT","title":"Slashdot technology and open-source signal","url":"https://slashdot.org/","summary":"Technology, security, science, policy, privacy, and open-source reporting and discussion.","published":"2026-08-03T00:00:00+00:00"},
-    {"source":"OSINT","title":"MITRE ATT&CK defensive knowledge base","url":"https://attack.mitre.org/","summary":"Publicly accessible knowledge of adversary behavior, activity clusters, software, techniques, and mitigations.","published":"2026-08-03T00:00:00+00:00"}
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI's Astra Solved Decades-Old Math Problems For $2,000",
+      "url": "https://science.slashdot.org/story/26/08/04/0054251/openais-astra-solved-decades-old-math-problems-for-2000?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Forbes: The cost of producing new results on ten longstanding mathematical problems just fell to $2,000, according to OpenAI, which says its Astra model generated machine-checkable proofs for questions that had resisted human progress for decades. OpenAI published the work on August 1 and used it to give its next major model family a name: Astra. The results run across group theory, high-dimensional geometry, coding theory, quantum complexity, lattice cry",
+      "published": "2026-08-04T03:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do people with ADHD manage networking?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vey06w/how_do_people_with_adhd_manage_networking/",
+      "summary": "How do you function at your jobs or when starting out when you had ADHD? I’m an undergraduate with no experience yet, and that's why I'm a bit worried cause I don't have a job to start with. I keep hearing that networking is probably the best way to find internships, jobs, and other opportunities. I have severe ADHD and I find socializing and keeping conversations going difficult, especially in professional settings. I’m trying to improve, but it doesn't come naturally to me. For those already w",
+      "published": "2026-08-04T02:44:53+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Has anyone actually had a security incident caused by an AI coding agent yet?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vex55k/has_anyone_actually_had_a_security_incident/",
+      "summary": "Plenty of theory going around about agent risk, but I'm curious about actual cases. An agent that read or leaked credentials, executed something destructive, sent data somewhere it shouldn't, anything that generated a ticket or an IR conversation. If you have seen one: how was it detected, and what changed after? And if you haven't, do you think that's because controls are working or because nobody's looking at that layer? submitted by /u/Ok_Leadership8269 [link] [comments]",
+      "published": "2026-08-04T02:05:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
+      "published": "2026-08-04T00:17:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+      "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
+      "published": "2026-08-03T23:58:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "summary": "84 points · 35 comments",
+      "published": "2026-08-03T23:24:53+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "An AI-Supervised Remote Exam Went So Badly That 58,000 Students Must Retake It",
+      "url": "https://news.slashdot.org/story/26/08/03/233245/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: Earlier this summer, nearly 160,000 applicants took the entrance exam for UNAM, Mexico's largest university. For the first time, they did it completely remotely, using a \"lockdown\" browser and AI-powered webcam proctoring software, over several weeks from late May through early June. It was a disaster. When exam results came in, they bore little resemblance to past results, especially at the top. Between 2021 and 2025, 3.5 percent of test ta",
+      "published": "2026-08-03T23:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Microsoft denies Windows 11 is spying on desktop PCs, reveals what the service actually does",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1verztd/microsoft_denies_windows_11_is_spying_on_desktop/",
+      "summary": "submitted by /u/WPHero [link] [comments]",
+      "published": "2026-08-03T22:23:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
+      "summary": "83 points · 41 comments",
+      "published": "2026-08-03T22:04:49+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Schools Are Ditching Chromebooks For MacBooks By the Thousands",
+      "url": "https://apple.slashdot.org/story/26/08/03/2115259/schools-are-ditching-chromebooks-for-macbooks-by-the-thousands?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple says its lower-cost MacBook Neo is beginning to displace Windows laptops and Chromebooks in K-12 schools, with several districts purchasing thousands of units. According to the company's latest earnings call, nearly half of the large MacBook Neo purchases made by U.S. educational institutions last quarter reportedly replaced competing platforms. 9to5Mac reports: Apple's commentary highlighted some large district deployments moving to Neo Pinellas County Schools, one of the largest district",
+      "published": "2026-08-03T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "LLMs reward expertise",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "summary": "681 points · 276 comments",
+      "published": "2026-08-03T21:13:53+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Is Bringing Xbox 360 Games to PC",
+      "url": "https://games.slashdot.org/story/26/08/03/1940240/microsoft-is-bringing-xbox-360-games-to-pc?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft reportedly plans to let developers bring Xbox 360 games to PC and next-generation Xbox devices, with a gradual rollout expected between 2027 and 2028. A separate disc-to-digital program would also give players transferable digital licenses tied to their physical Xbox discs, preserving the ability to resell or trade them. The Verge reports: With 360 games, developers can opt into making them backward compatible, and they will have control over things like a game's price and if it's avai",
+      "published": "2026-08-03T21:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "url": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
+      "published": "2026-08-03T20:01:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft CEO Touts His Own DIY AI Project To Wall Street and His 20 Million Followers",
+      "url": "https://slashdot.org/story/26/08/03/1934211/microsoft-ceo-touts-his-own-diy-ai-project-to-wall-street-and-his-20-million-followers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "theodp writes: During Microsoft's 2026Q4 earnings call, CEO Microsoft Satya Nadella took time to tout a dashboard he personally created using AI from a Morgan Stanley analyst's PDF research report, which suggested a rosy payback for the so-called MAG7's ('Magnificent 7' companies) massive capital expenditures on AI (to which Nadella later added a \"not financial advice\" disclaimer). \"It would be fun for you, Adam. I think one of your colleagues put out an ROIC [Return on Invested Capital] documen",
+      "published": "2026-08-03T20:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Solo Senior Tech Handling IAM, EDR/Huntress Alerts & Isolated Device Remediation and more… Company Offers 5% Raise feels like slap",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1veo6yf/solo_senior_tech_handling_iam_edrhuntress_alerts/",
+      "summary": "Hi everyone, I’ve been applying to jobs trying to get out of my current company, but I’m not getting a single callback despite doing work well above my title. There’s a Network Engineer and an IT Manager above me, but I’m still the one, titled and paid as help desk, handling IAM, triaging and remediating EDR alerts through Huntress, doing full remediation on isolated/quarantined devices, and managing day-to-day backup jobs for Exchange and M365 across 10+ clients. On top of that I’m still coveri",
+      "published": "2026-08-03T19:59:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+      "published": "2026-08-03T19:25:10+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple's iCloud File Sharing Left Ex-Employees With Access to Secret Documents",
+      "url": "https://apple.slashdot.org/story/26/08/03/195248/apples-icloud-file-sharing-left-ex-employees-with-access-to-secret-documents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple's practice of mixing employees' work files with personal iCloud accounts reportedly left some former staff with continued access to confidential documents, messages, and even new updates after leaving the company. \"The former employees said many Apple files they had been shared on over their careers at the company -- including planning documents for product launch events -- continued to sync to their personal devices through the iCloud storage service after they left Apple,\" reports The In",
+      "published": "2026-08-03T19:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "DeepSeek uncovered in a proxyjacking campaign — researchers steered the agent into surrendering a list of over 1,000 victims",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vememq/deepseek_uncovered_in_a_proxyjacking_campaign/",
+      "summary": "submitted by /u/Square_Juggernaut298 [link] [comments]",
+      "published": "2026-08-03T18:54:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
+      "published": "2026-08-03T18:43:53+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Samsung Bans Smart TV Apps That Share Users' Internet Connections",
+      "url": "https://entertainment.slashdot.org/story/26/08/03/1637257/samsung-bans-smart-tv-apps-that-share-users-internet-connections?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TechCrunch: Several popular Samsung smart TV apps contain code that share the owner's internet connection with strangers, potentially putting millions of Samsung smart TVs at risk of hijacking, according to new security research published on Monday. Some of these apps claim to have been installed on hundreds of millions of smart TVs in people's homes, per the app developers. At least one of the smart TV apps was a simple Pac-Man game that Samsung had endo",
+      "published": "2026-08-03T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "summary": "184 points · 42 comments",
+      "published": "2026-08-03T17:08:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "summary": "147 points · 37 comments",
+      "published": "2026-08-03T17:02:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+      "published": "2026-08-03T17:00:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "As Reddit Stock Falls, CEO Questions Value of Google's AI Overviews",
+      "url": "https://tech.slashdot.org/story/26/08/03/1628248/as-reddit-stock-falls-ceo-questions-value-of-googles-ai-overviews?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Reddit CEO Steve Huffman criticized Google's AI Overviews for summarizing publishers' content without delivering the traffic benefits of traditional search, arguing that users increasingly value Reddit's human perspectives and firsthand experiences. Ars Technica reports: First, there was a letter to investors (PDF), wherein Huffman spun his narrative about Reddit's value proposition and general strategic direction amid the proliferation of AI tools. He wrote: \"As the internet becomes flooded wit",
+      "published": "2026-08-03T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "summary": "67 points · 19 comments",
+      "published": "2026-08-03T16:54:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Labs for aspiring cloud security engineer",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1veipkw/labs_for_aspiring_cloud_security_engineer/",
+      "summary": "Anyone know of any guided labs out there where I could get hands on exposure? I'm not a complete newbie when it comes to cloud, just want to get a little more experience that I can speak to in interviews. submitted by /u/jaydee288 [link] [comments]",
+      "published": "2026-08-03T16:42:18+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Researcher accessed an active c2 server attacking the Brazilian government",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1veijhd/researcher_accessed_an_active_c2_server_attacking/",
+      "summary": "tl;dr: got access to a (likely Chinese) C2 server actively attacking Brazilian government systems. Its files showed AD credential theft, database exports, web shells, cryptominers and persistence. It began when I pulled on the thread of a compromised system. That led to the attackers’ working environment: malware, commands, stolen data, tunnels, a reused Monero wallet and signs of AI/MCP-style orchestration. Then the server went dark. I ❤️ bad opsec by cybercriminals submitted by /u/ugimonster [",
+      "published": "2026-08-03T16:36:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "after graduating for the ones who didn’t get a internship did you go straight to entry level IT jobs for experience or what was your route?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1veifow/after_graduating_for_the_ones_who_didnt_get_a/",
+      "summary": "submitted by /u/thatflaat [link] [comments]",
+      "published": "2026-08-03T16:32:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "summary": "503 points · 769 comments",
+      "published": "2026-08-03T16:27:12+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
+      "published": "2026-08-03T16:24:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
+      "published": "2026-08-03T16:15:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Difficulties Finding a Job",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vehw7y/difficulties_finding_a_job/",
+      "summary": "Hi everyone, I was laid off in late January of this year and I’ve been struggling to find a job in not just Cybersecurity, but even Help Desk and Support roles. For context, I have a masters degree in Cybersecurity, 5 years of IT experience, and I got my Security + certification in March 2026, I’m in the metro Detroit area. I have experience in SalesForce Support, SOC, and most recently IAM. I’m not Entry-Level, but not quite Senior level. I feel like I’m constantly getting rejected for roles I’",
+      "published": "2026-08-03T16:12:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "South Korea Records Its Highest Ever Temperature",
+      "url": "https://news.slashdot.org/story/26/08/03/0721235/south-korea-records-its-highest-ever-temperature?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "South Korea recorded its highest temperature since modern observations began in 1904, with the city of Yangsan reaching 42.5C as temperatures exceeded 40C for a fifth consecutive day. Authorities warned residents to \"immediately stop all outdoor activities.\" The Guardian reports: More than 20 localities in South Korea were under emergency heatwave alerts on Sunday -- a new warning category introduced this year to better address rising temperatures. An emergency alert is issued when areas experie",
+      "published": "2026-08-03T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Twenty Years of Pandoc",
+      "url": "https://pandoc.org/twenty-years-of-pandoc.html",
+      "summary": "166 points · 19 comments",
+      "published": "2026-08-03T15:04:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+      "published": "2026-08-03T15:04:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156683",
+      "summary": "141 points · 129 comments",
+      "published": "2026-08-03T15:00:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: Who wants to be hired? (August 2026)",
+      "url": "https://news.ycombinator.com/item?id=49156682",
+      "summary": "93 points · 219 comments",
+      "published": "2026-08-03T15:00:54+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Company Offering Printed Books To Train AI Stops After 404 Media Coverage",
+      "url": "https://news.slashdot.org/story/26/08/03/0714207/company-offering-printed-books-to-train-ai-stops-after-404-media-coverage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from 404 Media: Following 404 Media's reporting that book database company ISBNdb claimed to source printed books to then sell to AI companies for AI training, the company deleted the part of its website offering the service and walked back claims that it would train AI models, and instead called it \"a test of market interest.\" On July 30, nine days after 404 Media's reporting, ISBNdb added a note to its homepage and an update on its news page about the change",
+      "published": "2026-08-03T15:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
+      "published": "2026-08-03T14:45:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Devtools must be open source",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "summary": "549 points · 191 comments",
+      "published": "2026-08-03T14:15:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Andy Pavlo joins ClickHouse to establish ClickHouse Labs",
+      "url": "https://clickhouse.com/blog/andy-pavlo-joins-clickhouse",
+      "summary": "294 points · 62 comments",
+      "published": "2026-08-03T14:09:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "INTERPOL report finds AI linked to more than half of cybercrime in Africa",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1veegzz/interpol_report_finds_ai_linked_to_more_than_half/",
+      "summary": "submitted by /u/jivatman [link] [comments]",
+      "published": "2026-08-03T14:07:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
+      "published": "2026-08-03T14:03:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
+      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
+      "summary": "280 points · 84 comments",
+      "published": "2026-08-03T13:34:43+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'AI's Decimation of Call Center Jobs Has Begun'",
+      "url": "https://it.slashdot.org/story/26/08/03/031248/ais-decimation-of-call-center-jobs-has-begun?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"AI's decimation of call center jobs has begun,\" reports Bloomberg: Companies including the Commonwealth Bank of Australia, Microsoft Corp., Uber Technologies Inc. and Hyatt Hotels Corp. are using automated chat and phone systems to handle work that previously required humans. In some cases, they've already wiped out sizable chunks of their customer service operations, together representing thousands of workers. The specter of automation has long loomed over the call center industry, which emplo",
+      "published": "2026-08-03T11:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
+      "published": "2026-08-03T11:30:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
+      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
+      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
+      "published": "2026-08-03T10:49:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Legitimate signed .exe application is flagged as malware and blocked by Google Drive, Microsoft and virustotal",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1ve8uqq/legitimate_signed_exe_application_is_flagged_as/",
+      "summary": "Hi, I made a small Windows app in C#, and I’m honestly losing my mind over this. The app just checks basic computer and network requirements: Windows version, RAM, CPU, free disk space, ping, packet loss, download/upload speed and whether a VPN adapter might be active. At the end it creates an HTML report locally on the desktop. It doesn’t install anything, doesn’t add itself to startup, doesn’t run PowerShell, doesn’t read user files and doesn’t download or execute other programs. I also signed",
+      "published": "2026-08-03T09:45:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "summary": "432 points · 359 comments",
+      "published": "2026-08-03T09:32:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
+      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
+      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers. The incident, identified on July 26, also exposed some names",
+      "published": "2026-08-03T09:13:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+      "url": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
+      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented. Thermo Fisher tracks the issue as CVE-2026-17583 and rates it",
+      "published": "2026-08-03T08:05:30+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Massive Debian 13 Linux Kernel Security Update Patches 68 Vulnerabilities",
+      "url": "https://linux.slashdot.org/story/26/08/03/0219205/massive-debian-13-linux-kernel-security-update-patches-68-vulnerabilities?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Slashdot reader prisoninmate shares this report from 9to5Linux: Coming ten days after the previous Linux kernel security update, which only fixed 12 vulnerabilities that may lead to a privilege escalation, denial of service, or information leaks, the new Debian 13 Linux kernel security update is a massive one, and it patches no less than 68 security vulnerabilities in the Linux 6.12 LTS kernel. Debian 13 \"Trixie\" kernel security update are CVE-2026-64530, a use-after-free in the traffic-control ",
+      "published": "2026-08-03T07:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+      "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version. N-central is the remote monitoring and management platform",
+      "published": "2026-08-03T06:41:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
+      "published": "2026-08-03T06:40:31+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
+      "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
+      "published": "2026-08-03T00:00:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+      "published": "2026-08-02T22:31:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "url": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+      "published": "2026-08-02T21:14:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+      "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
+      "published": "2026-08-02T14:17:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "url": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+      "published": "2026-08-01T17:17:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+      "published": "2026-08-01T14:20:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "200 Milliseconds",
+      "url": "https://200ms.thenodebook.com",
+      "summary": "234 points · 66 comments",
+      "published": "2026-08-01T10:17:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
+      "url": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
+      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
+      "published": "2026-08-01T09:03:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+      "published": "2026-07-31T22:16:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "IPC-7351B Electronic Component Zero Orientation [pdf]",
+      "url": "https://scancad.net/wp-content/uploads/2019/02/zero-orientation-cad-libaray.pdf",
+      "summary": "7 points · 1 comments",
+      "published": "2026-07-31T17:54:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "2026-07-30T16:49:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Replacing the Kobo Libra H2O Battery",
+      "url": "https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/",
+      "summary": "63 points · 18 comments",
+      "published": "2026-07-30T07:15:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "summary": "95 points · 50 comments",
+      "published": "2026-07-29T16:07:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "published": "2026-07-22T01:10:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13T15:03:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08T12:31:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02T19:27:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23T16:12:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+      "published": "2026-06-18T17:37:58+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "2026-06-10T14:03:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "url": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
+      "published": "2026-06-09T22:07:28+00:00"
+    }
   ]
 }
