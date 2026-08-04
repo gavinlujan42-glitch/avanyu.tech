@@ -1,0 +1,28 @@
+name: Refresh cyber intelligence feed
+on:
+  schedule:
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cyber-feed-refresh
+  cancel-in-progress: true
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Aggregate public intelligence feeds
+        run: python scripts/update_feed.py
+      - name: Publish changed feed data
+        run: |
+          git config user.name "avanyu-signal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/cyber-feed.json
+          git diff --cached --quiet || git commit -m "Refresh cyber intelligence feed"
+          git push
