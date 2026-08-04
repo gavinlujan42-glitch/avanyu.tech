@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T19:09:43.655431+00:00",
+  "updated": "2026-08-04T20:52:41.241647+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,13 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For'",
+      "url": "https://slashdot.org/story/26/08/04/1833219/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft is introducing AI token budgets for employees, making the cheaper GPT-5.6 its default internal model and telling engineers to focus on business results rather than maximizing AI usage. 404 Media reports: \"As we accelerate our use of GitHub Copilot to deliver on our goals, we all need to be aware of how we consume tokens,\" Jay Parikh, an executive vice president at Microsoft said in an email to Microsoft employees. GitHub is owned by Microsoft, and GitHub Copilot is an AI coding tool. \"",
+      "published": "2026-08-04T20:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
@@ -41,6 +48,20 @@
       "published": "2026-08-04T19:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "How bad was this answer?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfji4g/how_bad_was_this_answer/",
+      "summary": "I had a call with a recruiter about a role I applied to and she asked me a few behaviorial-type questions about my experiences. One question was \"when do you not use AI-generated code?\" I said that I've never used AI-generated code (I don't remember if I used the word 'never' but I meant that I haven't in my current role) and that I write my own for my own experience. I said that it's better for debugging as well, since I know the variable names and what I wrote (I meant the logic of it). I also",
+      "published": "2026-08-04T18:57:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "summary": "256 points · 14 comments",
+      "published": "2026-08-04T18:51:38+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "77 Open VSX extensions found harvesting developer info",
       "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
@@ -51,28 +72,35 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: EdotEnv (YC S26) – Quant Trading RL Envs to Teach LLMs Research",
       "url": "https://edotenv.com/",
-      "summary": "7 points · 2 comments",
+      "summary": "14 points · 5 comments",
       "published": "2026-08-04T18:36:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Waymo – Dallas Open to All",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "summary": "116 points · 105 comments",
+      "published": "2026-08-04T18:29:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Web security is too hard",
       "url": "https://textslashplain.com/2026/08/04/security-is-hard-yall/",
-      "summary": "74 points · 16 comments",
+      "summary": "143 points · 65 comments",
       "published": "2026-08-04T18:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Blackmail Fail (2013)",
       "url": "https://gwern.net/blackmail",
-      "summary": "7 points · 0 comments",
+      "summary": "18 points · 2 comments",
       "published": "2026-08-04T18:11:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why some people mow a lawn better than others",
       "url": "https://pudding.cool/2026/06/mow/",
-      "summary": "31 points · 14 comments",
+      "summary": "104 points · 96 comments",
       "published": "2026-08-04T18:06:12+00:00"
     },
     {
@@ -86,14 +114,14 @@
       "source": "HACKER NEWS",
       "title": "Hop.earth – OpenStreetMap based car racing game",
       "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-      "summary": "24 points · 20 comments",
+      "summary": "48 points · 27 comments",
       "published": "2026-08-04T17:55:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Vlt 1.0 and Hosted Package Registries",
       "url": "https://www.vlt.io/blog/1-0",
-      "summary": "30 points · 4 comments",
+      "summary": "43 points · 10 comments",
       "published": "2026-08-04T17:43:55+00:00"
     },
     {
@@ -119,13 +147,6 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Warp Agent CLI",
-      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
-      "summary": "41 points · 14 comments",
-      "published": "2026-08-04T17:08:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Truemetrics (YC S23) Is Hiring in Berlin – GTM Lead",
       "url": "https://www.ycombinator.com/companies/truemetrics/jobs/bIQQ7tP-founding-gtm-lead",
       "summary": "1 points · 0 comments",
@@ -142,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "summary": "37 points · 6 comments",
+      "summary": "127 points · 39 comments",
       "published": "2026-08-04T16:36:05+00:00"
     },
     {
@@ -156,15 +177,8 @@
       "source": "HACKER NEWS",
       "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
       "url": "https://arxiv.org/abs/2602.16763",
-      "summary": "36 points · 50 comments",
+      "summary": "53 points · 57 comments",
       "published": "2026-08-04T16:10:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Most countries provide between 20 and 40 paid days off",
-      "url": "https://www.not-ship.com/not-ship-summer-vacation/",
-      "summary": "41 points · 23 comments",
-      "published": "2026-08-04T16:06:59+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -172,13 +186,6 @@
       "url": "https://it.slashdot.org/story/26/08/04/0557231/apple-launches-legal-challenge-against-uk-demand-to-access-encrypted-user-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from The Guardian: Apple has launched a new legal challenge against a UK government demand to access its customers' highly encrypted data, a year after the Home Office agreed to abandon its previous request. The US tech company launched the legal complaint last month at the Investigatory Powers Tribunal (IPT), an independent court that has the power to investigate claims that the UK intelligence services have acted unlawfully. The UK government had made a seco",
       "published": "2026-08-04T16:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Keyv and friends compromised in npm supply chain attack",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfeftz/keyv_and_friends_compromised_in_npm_supply_chain/",
-      "summary": "submitted by /u/sdp4n6 [link] [comments]",
-      "published": "2026-08-04T15:59:06+00:00"
     },
     {
       "source": "OSINT",
@@ -191,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "summary": "276 points · 66 comments",
+      "summary": "368 points · 82 comments",
       "published": "2026-08-04T15:16:22+00:00"
     },
     {
@@ -233,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Xbox goes down. You can't play games you own on disc",
       "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "summary": "447 points · 514 comments",
+      "summary": "497 points · 539 comments",
       "published": "2026-08-04T12:01:02+00:00"
     },
     {
@@ -261,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
       "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "summary": "189 points · 95 comments",
+      "summary": "204 points · 106 comments",
       "published": "2026-08-04T11:01:37+00:00"
     },
     {
@@ -270,13 +277,6 @@
       "url": "https://yro.slashdot.org/story/26/08/04/0523203/russia-linked-midnight-blizzard-group-hijacks-hotel-wi-fi-with-captivecrunch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A Russia-linked group tracked as Midnight Blizzard has compromised hotel and conference Wi-Fi portals worldwide, redirecting guests to phishing pages and fake software updates that steal credentials, session tokens, and other sensitive data. Microsoft says the campaign, dubbed CaptiveCrunch, \"targets traveling employees generally rather than a particular sector,\" reports iTNews. From the report: Midnight Blizzard, tracked internally by Microsoft under its earlier codename NOBELIUM, is attributed",
       "published": "2026-08-04T11:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
-      "url": "https://www.cnbc.com/2026/08/04/us-has-used-virtually-all-of-its-long-range-precision-missiles-report.html",
-      "summary": "146 points · 224 comments",
-      "published": "2026-08-04T10:59:08+00:00"
     },
     {
       "source": "OSINT",
@@ -303,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "summary": "315 points · 73 comments",
+      "summary": "333 points · 86 comments",
       "published": "2026-08-04T10:00:55+00:00"
     },
     {
@@ -398,13 +398,6 @@
       "published": "2026-08-03T20:01:22+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Microsoft CEO Touts His Own DIY AI Project To Wall Street and His 20 Million Followers",
-      "url": "https://slashdot.org/story/26/08/03/1934211/microsoft-ceo-touts-his-own-diy-ai-project-to-wall-street-and-his-20-million-followers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "theodp writes: During Microsoft's 2026Q4 earnings call, CEO Microsoft Satya Nadella took time to tout a dashboard he personally created using AI from a Morgan Stanley analyst's PDF research report, which suggested a rosy payback for the so-called MAG7's ('Magnificent 7' companies) massive capital expenditures on AI (to which Nadella later added a \"not financial advice\" disclaimer). \"It would be fun for you, Adam. I think one of your colleagues put out an ROIC [Return on Invested Capital] documen",
-      "published": "2026-08-03T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
       "url": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
@@ -461,6 +454,13 @@
       "published": "2026-08-03T14:03:11+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "The Red Strings Club",
+      "url": "https://www.vegard.net/the-red-strings-club-review/",
+      "summary": "8 points · 2 comments",
+      "published": "2026-08-03T13:34:09+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
@@ -476,10 +476,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Dates That Don't Exist (2015)",
-      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
-      "summary": "84 points · 55 comments",
-      "published": "2026-08-01T17:18:48+00:00"
+      "title": "Don't stop early: Case-folding source code at memory speed",
+      "url": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "summary": "8 points · 0 comments",
+      "published": "2026-07-31T20:07:06+00:00"
     },
     {
       "source": "OSINT",
