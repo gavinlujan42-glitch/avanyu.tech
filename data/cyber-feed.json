@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T13:06:07.593696+00:00",
+  "updated": "2026-08-04T15:32:15.127412+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,83 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "published": "2026-08-04T15:24:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "summary": "4 points · 0 comments",
+      "published": "2026-08-04T15:16:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Sandisk and SK Hynix Publish First Open High Bandwidth Flash Standard",
+      "url": "https://hardware.slashdot.org/story/26/08/04/0511224/sandisk-and-sk-hynix-publish-first-open-high-bandwidth-flash-standard?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BrianFagioli writes: Sandisk and SK hynix have published the first open technical specification for High Bandwidth Flash (HBF) through the Open Compute Project. HBF is designed to create a new memory tier between High Bandwidth Memory and traditional SSD storage, giving AI inference systems more near compute capacity without relying entirely on expensive HBM. The specification supports capacities up to 512GB using 8-high and 16-high NAND stacks, with bandwidth tiers ranging from about 0.4TB per ",
+      "published": "2026-08-04T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "FFmpeg 9.0",
+      "url": "https://jbkempf.com/blog/2026/ffmpeg-9.0/",
+      "summary": "30 points · 4 comments",
+      "published": "2026-08-04T14:49:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "url": "https://github.com/tikalk/adlc-team-skills",
+      "summary": "32 points · 13 comments",
+      "published": "2026-08-04T14:38:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
+      "published": "2026-08-04T14:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+      "url": "https://solarquarter.com/2026/08/03/germany-records-historic-12-billion-kwh-solar-feed-in-in-july-2026/",
+      "summary": "9 points · 2 comments",
+      "published": "2026-08-04T13:43:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Tool: inspect chrome/ff extensions without having to download or install them",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfanea/tool_inspect_chromeff_extensions_without_having/",
+      "summary": "Hey, A few years ago I made this website that can download and inspect chrome extension in memory, so that you don't have to download or install them. There are some similar tools out there, but I made this one for my self when I needed to review browser extensions. I ended up adding features I needed, such as searching across all files. I will never add any ads or 3rd party stuff to this site so feel free to use it. https://showmecode.dev/ other features are: - beautifies minified code (this ca",
+      "published": "2026-08-04T13:39:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages",
+      "published": "2026-08-04T13:30:23+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Exploiting Zero Touch Provisioning (ZTP)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfa1no/exploiting_zero_touch_provisioning_ztp/",
+      "summary": "Our team has just published new research about exploiting Zero Touch Provisioning (ZTP), specifically targeting TP-Link's Omada ecosystem: https://www.forescout.com/research-labs/zero-touch-provisioning-is-a-fleet-scale-attack-vector/ The research discloses 15 new vulnerabilities and some extend beyond Omada into other TP-link product lines. What led us to do this research was the fact that we see many attacks against edge devices exploiting remote code execution for individual assets, but we wo",
+      "published": "2026-08-04T13:14:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "url": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect. The campaign has been codenamed SMOKE#SCREEN by Securonix Threat",
+      "published": "2026-08-04T13:11:22+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Different kind of issues in finding a job.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vf94zs/different_kind_of_issues_in_finding_a_job/",
@@ -37,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Xbox goes down. You can't play games you own on disc",
       "url": "https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/",
-      "summary": "81 points · 94 comments",
+      "summary": "303 points · 323 comments",
       "published": "2026-08-04T12:01:02+00:00"
     },
     {
@@ -51,15 +128,8 @@
       "source": "HACKER NEWS",
       "title": "Buckminster Fuller: everything I know",
       "url": "https://www.bfi.org/about-fuller/everything-i-know/",
-      "summary": "25 points · 11 comments",
+      "summary": "66 points · 21 comments",
       "published": "2026-08-04T11:33:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "url": "https://nelson.cloud/ai-generated-images-discourage-me-from-reading-your-blog/",
-      "summary": "233 points · 122 comments",
-      "published": "2026-08-04T11:30:17+00:00"
     },
     {
       "source": "OSINT",
@@ -72,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
       "url": "https://github.com/MakazhanAlpamys/Soup",
-      "summary": "24 points · 3 comments",
+      "summary": "68 points · 8 comments",
       "published": "2026-08-04T11:17:57+00:00"
     },
     {
@@ -93,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
       "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
-      "summary": "22 points · 0 comments",
+      "summary": "95 points · 32 comments",
       "published": "2026-08-04T11:01:37+00:00"
     },
     {
@@ -121,22 +191,15 @@
       "source": "HACKER NEWS",
       "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
       "url": "https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj",
-      "summary": "77 points · 4 comments",
+      "summary": "326 points · 133 comments",
       "published": "2026-08-04T10:13:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why Large Language Models Fail at Tabular Prediction",
       "url": "https://arxiv.org/abs/2608.02412",
-      "summary": "15 points · 2 comments",
+      "summary": "54 points · 15 comments",
       "published": "2026-08-04T10:07:06+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "HEVD: From Stack Overflows to Modern Pool Grooming",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf60g3/hevd_from_stack_overflows_to_modern_pool_grooming/",
-      "summary": "Hi. I just published a four-part deep dive into windows kernel exploitation, progressing from classic control flow hijacking to modern pool grooming and pure data-only attacks on windows 11. I wanted to highlight the real-world friction of modern security measures. A lot of the focus is on mitigating LFH randomization, and avoiding IoCompleteRequest bugchecks by dodging ReadFile for arbitrary reads. Hope this is helpful or insightful to some of you looking into modern kernel exploitation. submit",
-      "published": "2026-08-04T10:02:15+00:00"
     },
     {
       "source": "REDDIT",
@@ -149,22 +212,15 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "summary": "117 points · 29 comments",
+      "summary": "234 points · 54 comments",
       "published": "2026-08-04T10:00:55+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "An Honest Review of AI Programming",
-      "url": "https://mropert.github.io/2026/08/04/an_honest_review_of_ai_programming/",
-      "summary": "21 points · 31 comments",
-      "published": "2026-08-04T09:35:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "FFmpeg 9.0",
-      "url": "https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES",
-      "summary": "290 points · 50 comments",
-      "published": "2026-08-04T09:30:33+00:00"
+      "title": "\"Clean\" Code, Horrible Performance (2023)",
+      "url": "https://www.computerenhance.com/p/clean-code-horrible-performance",
+      "summary": "50 points · 15 comments",
+      "published": "2026-08-04T09:52:35+00:00"
     },
     {
       "source": "OSINT",
@@ -172,13 +228,6 @@
       "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
       "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
       "published": "2026-08-04T09:03:23+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Code Execution via Provisioning Packages",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf4j0j/code_execution_via_provisioning_packages/",
-      "summary": "submitted by /u/netbiosX [link] [comments]",
-      "published": "2026-08-04T08:35:40+00:00"
     },
     {
       "source": "OSINT",
@@ -198,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Harness Engineering for Self-Improvement",
       "url": "https://lilianweng.github.io/posts/2026-07-04-harness/",
-      "summary": "117 points · 18 comments",
+      "summary": "186 points · 33 comments",
       "published": "2026-08-04T06:17:54+00:00"
     },
     {
@@ -261,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "LLMs reward expertise",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "summary": "1089 points · 454 comments",
+      "summary": "1193 points · 495 comments",
       "published": "2026-08-03T21:13:53+00:00"
     },
     {
@@ -331,7 +380,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
       "url": "https://github.com/leonickson1/Swiftlet",
-      "summary": "230 points · 101 comments",
+      "summary": "263 points · 117 comments",
       "published": "2026-08-03T16:54:15+00:00"
     },
     {
@@ -340,13 +389,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1veijhd/researcher_accessed_an_active_c2_server_attacking/",
       "summary": "tl;dr: got access to a (likely Chinese) C2 server actively attacking Brazilian government systems. Its files showed AD credential theft, database exports, web shells, cryptominers and persistence. It began when I pulled on the thread of a compromised system. That led to the attackers’ working environment: malware, commands, stolen data, tunnels, a reused Monero wallet and signs of AI/MCP-style orchestration. Then the server went dark. I ❤️ bad opsec by cybercriminals submitted by /u/ugimonster [",
       "published": "2026-08-03T16:36:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "summary": "567 points · 856 comments",
-      "published": "2026-08-03T16:27:12+00:00"
     },
     {
       "source": "OSINT",
@@ -384,25 +426,11 @@
       "published": "2026-08-03T15:04:39+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Company Offering Printed Books To Train AI Stops After 404 Media Coverage",
-      "url": "https://news.slashdot.org/story/26/08/03/0714207/company-offering-printed-books-to-train-ai-stops-after-404-media-coverage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from 404 Media: Following 404 Media's reporting that book database company ISBNdb claimed to source printed books to then sell to AI companies for AI training, the company deleted the part of its website offering the service and walked back claims that it would train AI models, and instead called it \"a test of market interest.\" On July 30, nine days after 404 Media's reporting, ISBNdb added a note to its homepage and an update on its news page about the change",
-      "published": "2026-08-03T15:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Inside the Underground Business of the Android BTMOB RAT malware",
       "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
       "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
       "published": "2026-08-03T14:45:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "summary": "645 points · 213 comments",
-      "published": "2026-08-03T14:15:47+00:00"
     },
     {
       "source": "OSINT",
@@ -417,20 +445,6 @@
       "url": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
       "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
       "published": "2026-08-03T11:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "url": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
-      "published": "2026-08-03T10:49:06+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "url": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers. The incident, identified on July 26, also exposed some names",
-      "published": "2026-08-03T09:13:56+00:00"
     },
     {
       "source": "REDDIT",
@@ -461,25 +475,18 @@
       "published": "2026-08-02T14:17:16+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "url": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-      "published": "2026-08-01T14:20:30+00:00"
+      "source": "HACKER NEWS",
+      "title": "Dates That Don't Exist (2015)",
+      "url": "https://blog.yossarian.net/2015/06/09/Dates-That-Dont-Exist",
+      "summary": "35 points · 18 comments",
+      "published": "2026-08-01T17:18:48+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why etymologies matter: How tracing words can illuminate history (2024)",
       "url": "https://resobscura.substack.com/p/why-i-love-etymologies",
-      "summary": "15 points · 3 comments",
+      "summary": "48 points · 10 comments",
       "published": "2026-07-31T23:13:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "published": "2026-07-31T22:16:42+00:00"
     },
     {
       "source": "OSINT",
@@ -487,13 +494,6 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
       "published": "2026-07-30T16:49:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "summary": "187 points · 149 comments",
-      "published": "2026-07-29T16:07:46+00:00"
     },
     {
       "source": "OSINT",
