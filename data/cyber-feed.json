@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T10:10:37.589377+00:00",
+  "updated": "2026-08-05T12:24:58.123208+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,60 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Three Six Mafia – Data about \"6/6/6 dating\" (2024)",
+      "url": "https://divingintheshallowend.com/three-six-mafia/",
+      "summary": "26 points · 5 comments",
+      "published": "2026-08-05T12:06:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vg5230/new_ovswrap_linux_kernel_flaw_lets_local_users/",
+      "summary": "submitted by /u/Altruistic_Hope_2559 [link] [comments]",
+      "published": "2026-08-05T11:45:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its",
+      "published": "2026-08-05T11:04:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "url": "https://www.wired.com/story/a-civilian-plane-crashed-in-new-mexico-was-the-militarys-tech-to-blame/",
+      "summary": "96 points · 32 comments",
+      "published": "2026-08-05T11:03:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Position: LLMs Can't Jump",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
+      "summary": "47 points · 20 comments",
+      "published": "2026-08-05T11:01:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "NVMe Polishes Its Specs, Brings Virtualization to Locally Attached SSDs",
+      "url": "https://hardware.slashdot.org/story/26/08/04/2326236/nvme-polishes-its-specs-brings-virtualization-to-locally-attached-ssds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The latest NVMe specifications add SSD-level virtualization that can simplify live VM migration by preserving storage identities across servers. The updates also introduce support for post-quantum cryptography, controller-based rate limiting, voltage monitoring, and factory-reset capabilities. The Register reports: Announced by the NVM Express consortium, all 11 of the suite of NVMe specs have been updated with new features and engineering change notices. These represent the next step in the evo",
+      "published": "2026-08-05T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
+      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
+      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896",
+      "published": "2026-08-05T10:35:29+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "SOAR implementations, mistakes that I'have seen repeatedly",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vg301v/soar_implementations_mistakes_that_ihave_seen/",
       "summary": "One thing I noticed through out my experience, SOAR is deployed but either barely used or actively making things worse. The mistakes are almost always the same, someone automated an alert type that wasn't ready for automation, either the false positive rate was too high or the decision logic wasn't actually deterministic, and now the automation is doing things an analyst wouldn't have done and it kept going for weeks. What I found works is being really specific about what automation readiness ac",
       "published": "2026-08-05T10:00:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
-      "summary": "8 points · 3 comments",
-      "published": "2026-08-05T09:36:17+00:00"
     },
     {
       "source": "OSINT",
@@ -53,6 +95,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vg2a4e/phantomenigma_investigation_20_government/",
       "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
       "published": "2026-08-05T09:19:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Helsinki Hacker News Meetup",
+      "url": "https://calpaterson.com/helsinki-hn.html",
+      "summary": "120 points · 71 comments",
+      "published": "2026-08-05T09:15:33+00:00"
     },
     {
       "source": "OSINT",
@@ -86,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
       "url": "https://arxiv.org/abs/2607.29377",
-      "summary": "40 points · 9 comments",
+      "summary": "61 points · 10 comments",
       "published": "2026-08-05T04:36:44+00:00"
     },
     {
@@ -111,20 +160,6 @@
       "published": "2026-08-05T02:12:18+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Bugtraq is back",
-      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "summary": "48 points · 11 comments",
-      "published": "2026-08-05T00:05:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Eight Myths on Software Engineering and GenAI",
-      "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "summary": "215 points · 175 comments",
-      "published": "2026-08-04T23:50:52+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
       "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
@@ -135,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
       "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "summary": "115 points · 16 comments",
+      "summary": "135 points · 19 comments",
       "published": "2026-08-04T23:31:46+00:00"
     },
     {
@@ -149,14 +184,14 @@
       "source": "HACKER NEWS",
       "title": "We finally learned to center a div, then browsers added sidebars",
       "url": "https://seg6.space/posts/center-div/",
-      "summary": "136 points · 112 comments",
+      "summary": "154 points · 123 comments",
       "published": "2026-08-04T22:24:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "summary": "371 points · 146 comments",
+      "summary": "421 points · 196 comments",
       "published": "2026-08-04T22:22:12+00:00"
     },
     {
@@ -170,15 +205,8 @@
       "source": "HACKER NEWS",
       "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "summary": "104 points · 17 comments",
+      "summary": "123 points · 18 comments",
       "published": "2026-08-04T22:09:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "summary": "243 points · 191 comments",
-      "published": "2026-08-04T22:01:41+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -219,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "summary": "121 points · 34 comments",
+      "summary": "145 points · 43 comments",
       "published": "2026-08-04T19:44:55+00:00"
     },
     {
@@ -247,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "summary": "1362 points · 79 comments",
+      "summary": "1459 points · 83 comments",
       "published": "2026-08-04T18:51:38+00:00"
     },
     {
@@ -282,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "summary": "422 points · 109 comments",
+      "summary": "447 points · 112 comments",
       "published": "2026-08-04T16:36:05+00:00"
     },
     {
@@ -310,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "summary": "533 points · 92 comments",
+      "summary": "557 points · 95 comments",
       "published": "2026-08-04T15:16:22+00:00"
     },
     {
@@ -370,20 +398,6 @@
       "published": "2026-08-04T11:16:23+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "AI slop pollutes the CVE pipeline with fake vulns",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf7bbf/ai_slop_pollutes_the_cve_pipeline_with_fake_vulns/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-08-04T11:10:54+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Russia-Linked 'Midnight Blizzard' Group Hijacks Hotel Wi-Fi With CaptiveCrunch",
-      "url": "https://yro.slashdot.org/story/26/08/04/0523203/russia-linked-midnight-blizzard-group-hijacks-hotel-wi-fi-with-captivecrunch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A Russia-linked group tracked as Midnight Blizzard has compromised hotel and conference Wi-Fi portals worldwide, redirecting guests to phishing pages and fake software updates that steal credentials, session tokens, and other sensitive data. Microsoft says the campaign, dubbed CaptiveCrunch, \"targets traveling employees generally rather than a particular sector,\" reports iTNews. From the report: Midnight Blizzard, tracked internally by Microsoft under its earlier codename NOBELIUM, is attributed",
-      "published": "2026-08-04T11:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
       "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
@@ -399,20 +413,6 @@
     },
     {
       "source": "OSINT",
-      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
-      "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
-      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
-      "published": "2026-08-04T09:03:23+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "url": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows",
-      "published": "2026-08-04T07:00:13+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
       "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
       "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
@@ -424,13 +424,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
       "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
       "published": "2026-08-03T23:58:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "There Will Come Soft Rains (1950) [pdf]",
-      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-      "summary": "386 points · 402 comments",
-      "published": "2026-08-03T23:24:53+00:00"
     },
     {
       "source": "OSINT",
@@ -464,15 +457,22 @@
       "source": "HACKER NEWS",
       "title": "Stateless MCP has recaptured my interest",
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "summary": "212 points · 110 comments",
+      "summary": "273 points · 143 comments",
       "published": "2026-08-01T05:51:36+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Pneumatics of Hero of Alexandria",
+      "title": "The Pneumatics of Hero of Alexandria (1851)",
       "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
-      "summary": "30 points · 1 comments",
+      "summary": "36 points · 3 comments",
       "published": "2026-07-31T15:22:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Birduino: A card-triggered audio player for [learning] the birds",
+      "url": "https://hannahilea.com/blog/birduino/",
+      "summary": "15 points · 2 comments",
+      "published": "2026-07-30T18:07:39+00:00"
     },
     {
       "source": "OSINT",
@@ -483,17 +483,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "“Gravity is worth asking about”",
-      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "summary": "79 points · 48 comments",
-      "published": "2026-07-30T03:57:33+00:00"
+      "title": "Scaling NumPy on Free-Threaded Python",
+      "url": "https://labs.quansight.org/blog/scaling-numpy-on-free-threaded-python",
+      "summary": "22 points · 2 comments",
+      "published": "2026-07-30T16:09:39+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
-      "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-      "summary": "35 points · 12 comments",
-      "published": "2026-07-28T14:15:49+00:00"
+      "title": "“Gravity is worth asking about”",
+      "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
+      "summary": "134 points · 80 comments",
+      "published": "2026-07-30T03:57:33+00:00"
     },
     {
       "source": "OSINT",
