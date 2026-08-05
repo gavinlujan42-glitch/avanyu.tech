@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T20:10:48.410412+00:00",
+  "updated": "2026-08-05T21:49:49.022948+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,60 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "The Title Cards in Blade Runner Are Fucking Amazing",
+      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
+      "summary": "4 points · 1 comments",
+      "published": "2026-08-05T21:29:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "10 points · 0 comments",
+      "published": "2026-08-05T21:24:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "summary": "13 points · 0 comments",
+      "published": "2026-08-05T21:11:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
+      "url": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
+      "summary": "10 points · 1 comments",
+      "published": "2026-08-05T21:04:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Meta Debuts First AI Coding Agent To Take On Anthropic and OpenAI",
+      "url": "https://developers.slashdot.org/story/26/08/05/2013222/meta-debuts-first-ai-coding-agent-to-take-on-anthropic-and-openai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Meta has launched Muse Code, its first AI coding agent that's positioned as a lower-cost rival to Anthropic's Claude and OpenAI's Codex. It offers pay-as-you-go pricing and an optional zero-data-retention feature for enterprise users. CNBC reports: Muse Code is the latest major release from AI chief Alexandr Wang, who leads Meta Superintelligence Labs and oversees foundation model development. Wang joined in June of last year as the centerpiece of CEO Mark Zuckerberg's effort to revamp his compa",
+      "published": "2026-08-05T21:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "tl;dv (AI meeting assistant) left 181,874 meetings exposed via misconfigured Firestore, including live calls you could join. Researcher disclosed in January, still unpatched 6 months later.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgitp9/tldv_ai_meeting_assistant_left_181874_meetings/",
+      "summary": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls original report - https://bobdahacker.com/blog/tldv-hack submitted by /u/Fun-Tomatillo9280 [link] [comments]",
+      "published": "2026-08-05T20:21:00+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Apple's 'Private Relay' Is Exposing Users' Real IP Addresses",
       "url": "https://yro.slashdot.org/story/26/08/05/1918253/apples-private-relay-is-exposing-users-real-ip-addresses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Security researchers found that Apple's iCloud Private Relay can expose users' real IP addresses because some passkey-related requests bypass Safari and its proxy protections at the operating-system level. \"In short: any website that supports, or pretends to support, passkeys can see the user's real IP address despite having iCloud Private Relay on,\" security researcher Tommy Mysk, who discovered the issue along with Talal Haj Bakry, told 404 Media. The flaws also affect OnionBrowser, an iOS app",
       "published": "2026-08-05T20:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cyber insurance renewal demands are getting absurd. Are you actually hitting every requirement or dropping coverage?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgi6z8/cyber_insurance_renewal_demands_are_getting/",
+      "summary": "Just opened our renewal questionnaire and the goalposts moved again, MFA on local admin, strict data retention, and strict endpoint isolation times. Keeping this policy would require doubling our security spend. Are you guys actually checking every single box on these impossible questionnaires, or are teams just dropping coverage at this point? submitted by /u/TechnologyMatch [link] [comments]",
+      "published": "2026-08-05T19:58:56+00:00"
     },
     {
       "source": "OSINT",
@@ -42,9 +91,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "I'm switching my phone from Android to Linux",
+      "url": "https://runarcn.no/android-to-linux/",
+      "summary": "71 points · 35 comments",
+      "published": "2026-08-05T19:50:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
       "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "summary": "29 points · 5 comments",
+      "summary": "146 points · 98 comments",
       "published": "2026-08-05T19:47:26+00:00"
     },
     {
@@ -65,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "summary": "41 points · 20 comments",
+      "summary": "102 points · 57 comments",
       "published": "2026-08-05T19:15:52+00:00"
     },
     {
@@ -86,14 +142,14 @@
       "source": "HACKER NEWS",
       "title": "Sula: A Gemini protocol server written in Scryer Prolog",
       "url": "https://sagredo.dev/projects/sula/",
-      "summary": "15 points · 0 comments",
+      "summary": "25 points · 1 comments",
       "published": "2026-08-05T18:52:58+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "summary": "101 points · 31 comments",
+      "summary": "200 points · 88 comments",
       "published": "2026-08-05T18:52:54+00:00"
     },
     {
@@ -102,13 +158,6 @@
       "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
       "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
       "published": "2026-08-05T18:44:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "summary": "69 points · 73 comments",
-      "published": "2026-08-05T18:37:49+00:00"
     },
     {
       "source": "OSINT",
@@ -121,22 +170,8 @@
       "source": "HACKER NEWS",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "summary": "81 points · 14 comments",
+      "summary": "134 points · 27 comments",
       "published": "2026-08-05T18:18:56+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "what is going on with the cybersecurity job market??????",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgfdem/what_is_going_on_with_the_cybersecurity_job_market/",
-      "summary": "I am tired of applying for cybersecurity jobs and not hearing back bc after a while it becomes difficult to tell whether I need more experience, more certifications, better projects, or simply better luck. and while I still want to build a career in this field and I am willing to put in the work, I feel stuck and I am not sure where I should focus my effort next.. submitted by /u/Unsolucy_Extreme3125 [link] [comments]",
-      "published": "2026-08-05T18:18:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-      "url": "https://arxiv.org/abs/2510.01395",
-      "summary": "28 points · 10 comments",
-      "published": "2026-08-05T18:17:03+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -156,15 +191,8 @@
       "source": "HACKER NEWS",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "summary": "72 points · 22 comments",
+      "summary": "115 points · 39 comments",
       "published": "2026-08-05T17:23:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Phishers are hijacking legitimate cloud infrastructure",
-      "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-      "summary": "26 points · 6 comments",
-      "published": "2026-08-05T17:20:25+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -177,28 +205,21 @@
       "source": "HACKER NEWS",
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "summary": "60 points · 1 comments",
+      "summary": "96 points · 13 comments",
       "published": "2026-08-05T16:50:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
-      "summary": "29 points · 19 comments",
-      "published": "2026-08-05T16:47:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "summary": "382 points · 230 comments",
+      "summary": "455 points · 284 comments",
       "published": "2026-08-05T16:19:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "summary": "228 points · 398 comments",
+      "summary": "324 points · 475 comments",
       "published": "2026-08-05T16:05:31+00:00"
     },
     {
@@ -226,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "The Valley of Webhooks",
       "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "summary": "82 points · 36 comments",
+      "summary": "124 points · 55 comments",
       "published": "2026-08-05T15:22:06+00:00"
     },
     {
@@ -268,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "The Entropy of a Markov Chain",
       "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "summary": "80 points · 3 comments",
+      "summary": "89 points · 7 comments",
       "published": "2026-08-05T14:00:10+00:00"
     },
     {
@@ -291,13 +312,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vg6bj9/researchers_find_persistent_backdoor_in_zbtlink/",
       "summary": "submitted by /u/YogiBerra88888 [link] [comments]",
       "published": "2026-08-05T12:43:43+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vg513d/311000_impacted_by_brown_health_medical_groupma/",
-      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. submitted by /u/sunychoudhary [link] [comments]",
-      "published": "2026-08-05T11:44:28+00:00"
     },
     {
       "source": "OSINT",
@@ -419,13 +433,6 @@
       "published": "2026-08-04T21:45:36+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Bending Spoons to Buy Airtable For $1.28 Billion",
-      "url": "https://slashdot.org/story/26/08/04/2041222/bending-spoons-to-buy-airtable-for-128-billion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Bending Spoons has made its first acquisition since going public last month at an $18 billion valuation, agreeing to buy spreadsheet and database startup Airtable for $1.28 billion in cash. Airtable joins a growing portfolio of notable brands owned by the Italian app developer, including Evernote, WeTransfer, EventBrite, and Vimeo. TechCrunch reports: Founded in 2013, Airtable has so far raised more than $1.4 billion over multiple funding rounds. At its peak, during the boom days of 2021, it was",
-      "published": "2026-08-04T21:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
@@ -464,22 +471,15 @@
       "source": "HACKER NEWS",
       "title": "GNU Hurd News 2026-Q2",
       "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "summary": "54 points · 28 comments",
+      "summary": "91 points · 57 comments",
       "published": "2026-08-02T16:57:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Goodhart's Law Comes for Every Benchmark You Trust",
       "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "summary": "12 points · 5 comments",
+      "summary": "31 points · 11 comments",
       "published": "2026-07-31T18:14:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
-      "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "summary": "76 points · 27 comments",
-      "published": "2026-07-30T20:09:43+00:00"
     },
     {
       "source": "OSINT",
