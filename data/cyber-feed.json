@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T18:27:19.751279+00:00",
+  "updated": "2026-08-05T20:10:48.410412+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,6 +28,118 @@
   "items": [
     {
       "source": "SLASHDOT",
+      "title": "Apple's 'Private Relay' Is Exposing Users' Real IP Addresses",
+      "url": "https://yro.slashdot.org/story/26/08/05/1918253/apples-private-relay-is-exposing-users-real-ip-addresses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Security researchers found that Apple's iCloud Private Relay can expose users' real IP addresses because some passkey-related requests bypass Safari and its proxy protections at the operating-system level. \"In short: any website that supports, or pretends to support, passkeys can see the user's real IP address despite having iCloud Private Relay on,\" security researcher Tommy Mysk, who discovered the issue along with Talal Haj Bakry, told 404 Media. The flaws also affect OnionBrowser, an iOS app",
+      "published": "2026-08-05T20:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "published": "2026-08-05T19:55:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
+      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
+      "summary": "29 points · 5 comments",
+      "published": "2026-08-05T19:47:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How to know if you discover a site vs technology or stack level vulnerability?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vghcau/how_to_know_if_you_discover_a_site_vs_technology/",
+      "summary": "I was recently using a site that I really appreciate the info and vendors on and was hoping I could get some contract development work with when I stumble on a vulnerability. I was checking out the leaving a review which cleaned user input of basic escape characters well. Then I noticed the review Id and security token up top and decided to try changing it which worked. So this meant on this site It was possible to look at old orders \"Not with User info on display just what was ordered\". I told ",
+      "published": "2026-08-05T19:28:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How should sensitive action confirmation work for SSO users when there is no local password?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vghadl/how_should_sensitive_action_confirmation_work_for/",
+      "summary": "I’m adding SSO support to an existing application using Google. Currently, some sensitive user actions require the user to re-enter their password as confirmation (for example, changing security settings or performing destructive actions). The issue is that SSO users do not have a password stored by the application, so I need to decide on the right approach for confirming their identity before allowing these actions. Some options I'm are considering: Triggering SSO re-authentication / step-up au",
+      "published": "2026-08-05T19:26:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Muse Code and Muse Spark 1.2",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "summary": "41 points · 20 comments",
+      "published": "2026-08-05T19:15:52+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "THE NCSC \"RAINBOW SERIES\" A 9-Volume Collection of Early DoD/NSA Cybersecurity Doctrine (1985–1988)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vggrop/the_ncsc_rainbow_series_a_9volume_collection_of/",
+      "summary": "I recently obtained a very cool collection of 9 original physical books from the rainbow series. I'm currently planning on parting with them, but while I source and speak with collectors, I thought I'd share it with you guys. They are in surprisingly great condition, too! These are the details. THE JEWELS OF THE COLLECTION: RARE VARIANT HIGHLIGHTS • DoD 5200.28-STD — THE \"ORANGE BOOK\" (Department of Defense Trusted Computer System Evaluation Criteria) • Edition/Provenance: Official 1988 Active-L",
+      "published": "2026-08-05T19:07:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Lawmaker Who Wants Data Center Pause Wins Kansas Democratic Primary",
+      "url": "https://politics.slashdot.org/story/26/08/05/1737252/lawmaker-who-wants-data-center-pause-wins-kansas-democratic-primary?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Kansas Democrats nominated State Senator Cindy Holscher for governor after she defeated party-backed rival Ethan Corson. \"The race became a test of what sort of candidate Democratic voters prefer in what is expected to be a challenging general election race: a more moderate candidate like Mr. Corson with endorsements from party leaders or an outspoken populist like Ms. Holscher, who spoke out against data centers and the political establishment,\" reports The New York Times. From the repot: Even ",
+      "published": "2026-08-05T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sula: A Gemini protocol server written in Scryer Prolog",
+      "url": "https://sagredo.dev/projects/sula/",
+      "summary": "15 points · 0 comments",
+      "published": "2026-08-05T18:52:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Zed DeltaDB",
+      "url": "https://zed.dev/deltadb",
+      "summary": "101 points · 31 comments",
+      "published": "2026-08-05T18:52:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
+      "published": "2026-08-05T18:44:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html",
+      "summary": "69 points · 73 comments",
+      "published": "2026-08-05T18:37:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "url": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
+      "published": "2026-08-05T18:33:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "summary": "81 points · 14 comments",
+      "published": "2026-08-05T18:18:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "what is going on with the cybersecurity job market??????",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgfdem/what_is_going_on_with_the_cybersecurity_job_market/",
+      "summary": "I am tired of applying for cybersecurity jobs and not hearing back bc after a while it becomes difficult to tell whether I need more experience, more certifications, better projects, or simply better luck. and while I still want to build a career in this field and I am willing to put in the work, I feel stuck and I am not sure where I should focus my effort next.. submitted by /u/Unsolucy_Extreme3125 [link] [comments]",
+      "published": "2026-08-05T18:18:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+      "url": "https://arxiv.org/abs/2510.01395",
+      "summary": "28 points · 10 comments",
+      "published": "2026-08-05T18:17:03+00:00"
+    },
+    {
+      "source": "SLASHDOT",
       "title": "Google Overhauls AI Leadership As DeepMind CEO Steps Aside",
       "url": "https://tech.slashdot.org/story/26/08/05/1718218/google-overhauls-ai-leadership-as-deepmind-ceo-steps-aside?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Google is reshuffling its AI leadership as Demis Hassabis steps away from day-to-day management of DeepMind to become chairman and Alphabet's chief scientist, while CTO Koray Kavukcuoglu takes operational control. Meanwhile, longtime chief scientist Jeff Dean and several prominent researchers are leaving to launch their own company. Axios reports: Hassabis will add the title of chief scientist for Google parent company Alphabet and also continue to lead Isomorphic Labs, the company's AI drug dis",
@@ -44,22 +156,15 @@
       "source": "HACKER NEWS",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "summary": "10 points · 1 comments",
+      "summary": "72 points · 22 comments",
       "published": "2026-08-05T17:23:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Phishers are hijacking legitimate cloud infrastructure",
       "url": "https://securelist.com/cloud-platforms-in-phishing/120832/",
-      "summary": "10 points · 0 comments",
+      "summary": "26 points · 6 comments",
       "published": "2026-08-05T17:20:25+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Security Policy-Graded Evaluation of Coding Agents in Hardened Environments",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgdcfe/security_policygraded_evaluation_of_coding_agents/",
-      "summary": "submitted by /u/natcoba [link] [comments]",
-      "published": "2026-08-05T17:06:46+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -70,37 +175,30 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "I'm Scared a Stranger Will Call My Novel AI, So I Built GitHub for Words",
-      "url": "https://dylan.blog/2026/08/03/im-scared-a-stranger-will.html",
-      "summary": "7 points · 9 comments",
-      "published": "2026-08-05T16:58:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "summary": "12 points · 0 comments",
+      "summary": "60 points · 1 comments",
       "published": "2026-08-05T16:50:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
       "url": "https://www.hyperprobe.co",
-      "summary": "18 points · 13 comments",
+      "summary": "29 points · 19 comments",
       "published": "2026-08-05T16:47:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "summary": "229 points · 106 comments",
+      "summary": "382 points · 230 comments",
       "published": "2026-08-05T16:19:44+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Changes to Google DeepMind teams",
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "summary": "81 points · 62 comments",
+      "summary": "228 points · 398 comments",
       "published": "2026-08-05T16:05:31+00:00"
     },
     {
@@ -128,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "The Valley of Webhooks",
       "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "summary": "54 points · 22 comments",
+      "summary": "82 points · 36 comments",
       "published": "2026-08-05T15:22:06+00:00"
     },
     {
@@ -153,46 +251,11 @@
       "published": "2026-08-05T15:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Qwen 3.0 Image Pro",
-      "url": "https://www.qwencloud.com/models/qwen-image-3.0-pro",
-      "summary": "163 points · 45 comments",
-      "published": "2026-08-05T14:53:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Why do CrowdStrike detections contain so much worthless information to sift through!?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vg9h35/why_do_crowdstrike_detections_contain_so_much/",
-      "summary": "I only have one question - Why do CrowdStrike SIEM/Logscale detections contain so much junk information that you to have to sift through, just to get to the data you actually care about and need to investigate a detection?! Please tell me what these junk fields actually do, other than get in the way? If they're needed for CrowdStrike's backend DB to keep things organized/correlated, couldn't they just keep these fields hidden? Out of the 283 total fields (not joking) , less than 25 of them have ",
-      "published": "2026-08-05T14:48:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Oracle Just Halved Its Always Free ARM Limits",
-      "url": "https://www.cnelecar.com/blog/oracle-always-free-arm-limits-cut-2026/",
-      "summary": "120 points · 85 comments",
-      "published": "2026-08-05T14:46:36+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
       "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
       "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
       "published": "2026-08-05T14:27:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "url": "https://www.campion.edu.au/blog/top-25-aristotle-quotes-on-virtue-knowledge-and-happiness/",
-      "summary": "116 points · 33 comments",
-      "published": "2026-08-05T14:06:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Rubin Observatory's first LSST Camera release: 500k galaxies in the COSMOS field",
-      "url": "https://rubinobservatory.org/news/rubin-new-window-cosmos-field",
-      "summary": "50 points · 3 comments",
-      "published": "2026-08-05T14:04:10+00:00"
     },
     {
       "source": "OSINT",
@@ -205,15 +268,8 @@
       "source": "HACKER NEWS",
       "title": "The Entropy of a Markov Chain",
       "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "summary": "59 points · 2 comments",
+      "summary": "80 points · 3 comments",
       "published": "2026-08-05T14:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "summary": "327 points · 190 comments",
-      "published": "2026-08-05T13:58:53+00:00"
     },
     {
       "source": "REDDIT",
@@ -223,25 +279,11 @@
       "published": "2026-08-05T13:57:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Building an Advanced Agentic Harness",
-      "url": "https://data4sci.com/blog/building-an-advanced-agentic-harness",
-      "summary": "64 points · 33 comments",
-      "published": "2026-08-05T13:54:12+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
       "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
       "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
       "published": "2026-08-05T13:41:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Painting with Gaussians",
-      "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-      "summary": "56 points · 8 comments",
-      "published": "2026-08-05T13:34:32+00:00"
     },
     {
       "source": "REDDIT",
@@ -321,25 +363,11 @@
       "published": "2026-08-05T07:53:50+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code injection vulnerability in Langflow that allows unauthenticated attackers to achieve full remote",
-      "published": "2026-08-05T07:40:39+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Watch a SpaceX Rocket Crash Into the Moon",
       "url": "https://science.slashdot.org/story/26/08/04/2245236/watch-a-spacex-rocket-crash-into-the-moon?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A four-ton SpaceX Falcon 9 upper stage left drifting after a 2025 lunar mission is expected to crash into the Moon at about 5,400 mph, likely striking Einstein Crater. The impact should occur at approximately 2:35 a.m. ET (0635GMT). Reuters reports: Such stages typically fall back into Earth's atmosphere and burn up or plunge into the ocean after boosting the rocket's payload to a precise spot in orbit. But because the January lunar lander mission required more thrust than missions closer to Ear",
       "published": "2026-08-05T06:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "url": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August 2025 and involves a trojanized version of the application to deliver FDMTP, a",
-      "published": "2026-08-05T05:47:19+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -356,13 +384,6 @@
       "published": "2026-08-05T02:36:37+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Any recommendations on to the latest Cybersecurity news/Cybersecurity youtubers?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfu928/any_recommendations_on_to_the_latest/",
-      "summary": "I'm currently having a diploma in Computer Science and I'm taking Cybersecurity for my final year project. Soo, it's pretty important for me to be aware of what current threats are out there for safety in general and also my career. Any help/recommendation is appreciated. submitted by /u/Secure-Band076556 [link] [comments]",
-      "published": "2026-08-05T02:12:18+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
       "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
@@ -375,13 +396,6 @@
       "url": "https://games.slashdot.org/story/26/08/04/228200/ea-is-now-officially-privately-owned?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot reader neoRUR shares a report from Game Developer: EA Sports FC and Battlefield publisher EA has been taken private by an investor consortium led by Saudi Arabia's sovereign Public Investment Fund (PIF). The move means the U.S. juggernaut is no longer a publicly-traded entity and is now majority owned by the Kingdom of Saudi Arabia through its PIF investment arm. Other investors include Silver Lake and Affinity Partners, the latter of which was established by U.S. president Don",
       "published": "2026-08-04T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Western Sahara",
-      "url": "https://en.wikipedia.org/wiki/Western_Sahara",
-      "summary": "58 points · 26 comments",
-      "published": "2026-08-04T22:34:39+00:00"
     },
     {
       "source": "OSINT",
@@ -412,25 +426,11 @@
       "published": "2026-08-04T21:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Microsoft Tells Engineers 'Tokenmaxxing Is Not What We Are Optimizing For'",
-      "url": "https://slashdot.org/story/26/08/04/1833219/microsoft-tells-engineers-tokenmaxxing-is-not-what-we-are-optimizing-for?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft is introducing AI token budgets for employees, making the cheaper GPT-5.6 its default internal model and telling engineers to focus on business results rather than maximizing AI usage. 404 Media reports: \"As we accelerate our use of GitHub Copilot to deliver on our goals, we all need to be aware of how we consume tokens,\" Jay Parikh, an executive vice president at Microsoft said in an email to Microsoft employees. GitHub is owned by Microsoft, and GitHub Copilot is an AI coding tool. \"",
-      "published": "2026-08-04T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
       "url": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
       "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
       "published": "2026-08-04T19:03:09+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Trump Begins Selling $100,000 Monthly Subscription Service to Wall Street",
-      "url": "https://news.slashdot.org/story/26/08/04/1823242/trump-begins-selling-100000-monthly-subscription-service-to-wall-street?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Trump Media has officially launched its $100,000-per-month data feed giving trading firms machine-readable access to Truth Social posts milliseconds before the public. According to Fortune, five Wall Street firms have already signed up for the service, which \"would generate about $500,000 in monthly revenue, or $6 million annually.\" Critics argue the service could let President Trump, who owns about 41% of the company, profit from early access to market-moving presidential communications. \"I'll ",
-      "published": "2026-08-04T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -455,20 +455,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "Multiple Flaws in Google's Synced Passkey Implementation Allow Attackers to Take Over Your Accounts",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf6h5r/multiple_flaws_in_googles_synced_passkey/",
-      "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "published": "2026-08-04T10:27:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "published": "2026-08-04T00:17:15+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
@@ -476,9 +462,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "GNU Hurd News 2026-Q2",
+      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
+      "summary": "54 points · 28 comments",
+      "published": "2026-08-02T16:57:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Goodhart's Law Comes for Every Benchmark You Trust",
+      "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
+      "summary": "12 points · 5 comments",
+      "published": "2026-07-31T18:14:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Discovery of a multicomponent alloy forged by the Hiroshima atomic blast",
       "url": "https://www.science.org/doi/10.1126/sciadv.aeg8299",
-      "summary": "60 points · 19 comments",
+      "summary": "76 points · 27 comments",
       "published": "2026-07-30T20:09:43+00:00"
     },
     {
