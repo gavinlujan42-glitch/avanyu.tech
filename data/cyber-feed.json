@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T21:49:49.022948+00:00",
+  "updated": "2026-08-05T23:07:46.149434+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,32 +27,53 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "published": "2026-08-05T23:00:50+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Waymo CEO Explains Why Camera-Only Self-Driving Falls Short",
+      "url": "https://tech.slashdot.org/story/26/08/05/229237/waymo-ceo-explains-why-camera-only-self-driving-falls-short?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader AmiMoJo shares a report from Electrek: Waymo co-CEO Dmitri Dolgov laid out the clearest technical case yet for why cameras alone can't take a self-driving system to full autonomy, arguing that \"weak sensing\" hits a safety ceiling long before it reaches superhuman performance. [...] Dolgov made the comments in a talk at Y Combinator's Startup School, walking through the lessons Waymo has learned building its driver over close to two decades. He put the sensor question on ",
+      "published": "2026-08-05T23:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic's AI Used Fake Identities, Malware In Rogue Attack On GitHub Project",
+      "url": "https://it.slashdot.org/story/26/08/05/2157224/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: Routine cybersecurity testing of frontier AI models sparked a series of unexpected security incidents -- the most serious case arising when Anthropic's Mythos 5 model attempted to insert malicious code into an open source software application and created fake identities to deceive the human developers maintaining the project. The security incidents occurred during a cyber evaluation of seven leading AI models' capabilities by the AI Security",
+      "published": "2026-08-05T22:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
+      "published": "2026-08-05T21:53:26+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "The Title Cards in Blade Runner Are Fucking Amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "summary": "4 points · 1 comments",
+      "summary": "62 points · 13 comments",
       "published": "2026-08-05T21:29:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nvidia's Vera Whitepaper Has a Thread Loose",
       "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "summary": "10 points · 0 comments",
+      "summary": "42 points · 3 comments",
       "published": "2026-08-05T21:24:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Prime Agent: A self-improving RLM agent",
       "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "summary": "13 points · 0 comments",
+      "summary": "53 points · 6 comments",
       "published": "2026-08-05T21:11:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI says my prepaid credits were consumed, refuses to show any record",
-      "url": "https://community.openai.com/t/how-openai-lost-a-paying-customer-over-160-it-refuses-to-explain/1389233",
-      "summary": "10 points · 1 comments",
-      "published": "2026-08-05T21:04:07+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -93,15 +114,8 @@
       "source": "HACKER NEWS",
       "title": "I'm switching my phone from Android to Linux",
       "url": "https://runarcn.no/android-to-linux/",
-      "summary": "71 points · 35 comments",
+      "summary": "138 points · 103 comments",
       "published": "2026-08-05T19:50:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "url": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "summary": "146 points · 98 comments",
-      "published": "2026-08-05T19:47:26+00:00"
     },
     {
       "source": "REDDIT",
@@ -121,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "summary": "102 points · 57 comments",
+      "summary": "131 points · 77 comments",
       "published": "2026-08-05T19:15:52+00:00"
     },
     {
@@ -142,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "Sula: A Gemini protocol server written in Scryer Prolog",
       "url": "https://sagredo.dev/projects/sula/",
-      "summary": "25 points · 1 comments",
+      "summary": "33 points · 1 comments",
       "published": "2026-08-05T18:52:58+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "summary": "200 points · 88 comments",
+      "summary": "247 points · 112 comments",
       "published": "2026-08-05T18:52:54+00:00"
     },
     {
@@ -158,6 +172,13 @@
       "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
       "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
       "published": "2026-08-05T18:44:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What happens if you put work into the second dimension?",
+      "url": "https://norbertkozsir.com/posts/work-in-the-second-dimension/",
+      "summary": "34 points · 29 comments",
+      "published": "2026-08-05T18:39:31+00:00"
     },
     {
       "source": "OSINT",
@@ -170,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "summary": "134 points · 27 comments",
+      "summary": "175 points · 35 comments",
       "published": "2026-08-05T18:18:56+00:00"
     },
     {
@@ -191,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "summary": "115 points · 39 comments",
+      "summary": "137 points · 50 comments",
       "published": "2026-08-05T17:23:25+00:00"
     },
     {
@@ -205,21 +226,28 @@
       "source": "HACKER NEWS",
       "title": "Celld: Self-hosted, distributed Durable Objects",
       "url": "https://github.com/denoland/celld",
-      "summary": "96 points · 13 comments",
+      "summary": "120 points · 18 comments",
       "published": "2026-08-05T16:50:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co",
+      "summary": "36 points · 24 comments",
+      "published": "2026-08-05T16:47:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "summary": "455 points · 284 comments",
+      "summary": "510 points · 313 comments",
       "published": "2026-08-05T16:19:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "summary": "324 points · 475 comments",
+      "summary": "390 points · 515 comments",
       "published": "2026-08-05T16:05:31+00:00"
     },
     {
@@ -242,13 +270,6 @@
       "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
       "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"Advertisements for Poison Claude",
       "published": "2026-08-05T15:36:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Valley of Webhooks",
-      "url": "https://weli.dev/blog/the-valley-of-webhooks/",
-      "summary": "124 points · 55 comments",
-      "published": "2026-08-05T15:22:06+00:00"
     },
     {
       "source": "OSINT",
@@ -284,13 +305,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
       "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
       "published": "2026-08-05T14:01:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Entropy of a Markov Chain",
-      "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-      "summary": "89 points · 7 comments",
-      "published": "2026-08-05T14:00:10+00:00"
     },
     {
       "source": "REDDIT",
@@ -405,25 +419,11 @@
       "published": "2026-08-04T23:39:59+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "EA Is Now Officially Privately Owned",
-      "url": "https://games.slashdot.org/story/26/08/04/228200/ea-is-now-officially-privately-owned?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader neoRUR shares a report from Game Developer: EA Sports FC and Battlefield publisher EA has been taken private by an investor consortium led by Saudi Arabia's sovereign Public Investment Fund (PIF). The move means the U.S. juggernaut is no longer a publicly-traded entity and is now majority owned by the Kingdom of Saudi Arabia through its PIF investment arm. Other investors include Silver Lake and Affinity Partners, the latter of which was established by U.S. president Don",
-      "published": "2026-08-04T23:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
       "url": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
       "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
       "published": "2026-08-04T22:18:20+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Apple Limits Bug Bounty Submissions After Flood of AI Slop",
-      "url": "https://it.slashdot.org/story/26/08/04/2045214/apple-limits-bug-bounty-submissions-after-flood-of-ai-slop?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple has capped the number of open bug-bounty reports researchers can submit after being flooded with low-quality and sometimes entirely fabricated vulnerabilities generated by AI. MacRumors reports: The Financial Times learned of the limit after cybersecurity startup Bynario used ChatGPT to locate more than 50 macOS bugs in three weeks. Bynario found a privilege escalation exploit that could let an attacker get unrestricted access to a Mac, but was unable to report it because Apple limited the",
-      "published": "2026-08-04T22:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -447,20 +447,6 @@
       "published": "2026-08-04T18:50:55+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-      "published": "2026-08-04T15:24:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
-      "published": "2026-08-04T14:00:10+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
@@ -471,15 +457,29 @@
       "source": "HACKER NEWS",
       "title": "GNU Hurd News 2026-Q2",
       "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "summary": "91 points · 57 comments",
+      "summary": "105 points · 70 comments",
       "published": "2026-08-02T16:57:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Goodhart's Law Comes for Every Benchmark You Trust",
       "url": "https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/",
-      "summary": "31 points · 11 comments",
+      "summary": "44 points · 16 comments",
       "published": "2026-07-31T18:14:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Exact, parallel 2D Delaunay triangulation for int32 coordinates",
+      "url": "https://github.com/morishuz/delaunay32",
+      "summary": "11 points · 1 comments",
+      "published": "2026-07-31T16:45:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Online Friends Are Real Friends",
+      "url": "https://toska.bearblog.dev/re-online-friends-are-real-friends/",
+      "summary": "52 points · 33 comments",
+      "published": "2026-07-31T16:07:55+00:00"
     },
     {
       "source": "OSINT",
