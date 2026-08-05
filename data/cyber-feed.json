@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T23:34:42.496672+00:00",
+  "updated": "2026-08-05T00:58:14.583219+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,9 +28,58 @@
   "items": [
     {
       "source": "HACKER NEWS",
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "summary": "7 points · 2 comments",
+      "published": "2026-08-05T00:10:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bugtraq Is Back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "summary": "7 points · 1 comments",
+      "published": "2026-08-05T00:05:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "summary": "29 points · 3 comments",
+      "published": "2026-08-04T23:50:52+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI, Anthropic AI agents targeted real people and systems in cyber tests",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+      "summary": "OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering attacks against people outside the intended testing boundaries. [...]",
+      "published": "2026-08-04T23:39:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "summary": "23 points · 2 comments",
+      "published": "2026-08-04T23:31:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "summary": "30 points · 20 comments",
+      "published": "2026-08-04T23:22:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "summary": "17 points · 7 comments",
+      "published": "2026-08-04T23:21:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "libexpat now funded by the City of Munich for up to 6 months",
       "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "summary": "10 points · 0 comments",
+      "summary": "88 points · 4 comments",
       "published": "2026-08-04T23:18:12+00:00"
     },
     {
@@ -44,14 +93,14 @@
       "source": "HACKER NEWS",
       "title": "We finally learned to center a div, then browsers added sidebars",
       "url": "https://seg6.space/posts/center-div/",
-      "summary": "13 points · 8 comments",
+      "summary": "42 points · 33 comments",
       "published": "2026-08-04T22:24:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "summary": "5 points · 0 comments",
+      "summary": "63 points · 14 comments",
       "published": "2026-08-04T22:22:12+00:00"
     },
     {
@@ -62,17 +111,24 @@
       "published": "2026-08-04T22:18:20+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "0xReadingSteiner/Silent-Call: Silent;Call — Pre-authentication remote root on Cisco CUCM 15.x (CVSS 10.0) - GitHub",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfou28/0xreadingsteinersilentcall_silentcall/",
+      "summary": "I'm publishing the first in a series of advisories on critical vulnerabilities in Cisco Unified Communications Manager (CUCM) 15.x — the system that processes voice calls for enterprises and governments worldwide. ## Silent;Call — Drop 01 **Pre-authentication remote root.** Three HTTP requests, no credentials, full control of the system. The chain: 1. **X-Forwarded-For spoofing** — Tomcat's \\ RemoteIpValve` has no `internalProxies` restriction. Any external client can spoof `127.0.0.1` and bypas",
+      "published": "2026-08-04T22:16:31+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "summary": "19 points · 0 comments",
+      "summary": "45 points · 3 comments",
       "published": "2026-08-04T22:09:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "summary": "92 points · 45 comments",
+      "summary": "125 points · 80 comments",
       "published": "2026-08-04T22:01:41+00:00"
     },
     {
@@ -100,15 +156,8 @@
       "source": "HACKER NEWS",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "summary": "25 points · 2 comments",
+      "summary": "37 points · 4 comments",
       "published": "2026-08-04T21:14:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Thanks FedEx, This Is Why We Keep Getting Phished (2024)",
-      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
-      "summary": "181 points · 44 comments",
-      "published": "2026-08-04T21:09:39+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -119,17 +168,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Gwern reties from fulltime writing to launch Guardian Angel Inc",
-      "url": "https://twitter.com/i/status/2084739205071343837",
-      "summary": "63 points · 23 comments",
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "summary": "135 points · 67 comments",
       "published": "2026-08-04T20:48:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Oxide Computer raises $445M (SEC Form D)",
-      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-      "summary": "147 points · 60 comments",
-      "published": "2026-08-04T20:13:40+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -142,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Maple-Preview – ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "summary": "22 points · 5 comments",
+      "summary": "40 points · 12 comments",
       "published": "2026-08-04T19:44:55+00:00"
     },
     {
@@ -170,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "summary": "741 points · 43 comments",
+      "summary": "858 points · 45 comments",
       "published": "2026-08-04T18:51:38+00:00"
     },
     {
@@ -184,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Waymo in Dallas",
       "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
-      "summary": "223 points · 273 comments",
+      "summary": "240 points · 326 comments",
       "published": "2026-08-04T18:29:41+00:00"
     },
     {
@@ -193,13 +235,6 @@
       "url": "https://yro.slashdot.org/story/26/08/04/1729250/trump-administration-drafting-ban-on-chinese-data-center-devices?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot reader schwit1 shares a report from Reuters: The Federal Communications Commission, which oversees the U.S. telecom industry, is working on the measure to bar imports of new Chinese optical transceivers, which allow data to travel over fiber-optic cables at the speed of light within data centers. Officials hope to publish it this year, when it would take effect. The move, not previously reported, aims to prevent Chinese firms from stealing data, installing malware or disrupting",
       "published": "2026-08-04T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hop.earth – OpenStreetMap based car racing game",
-      "url": "https://hop.earth/?server=lkhr7&route=fQ5nuu9R",
-      "summary": "74 points · 37 comments",
-      "published": "2026-08-04T17:55:19+00:00"
     },
     {
       "source": "OSINT",
@@ -226,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "summary": "278 points · 69 comments",
+      "summary": "296 points · 71 comments",
       "published": "2026-08-04T16:36:05+00:00"
     },
     {
@@ -244,13 +279,6 @@
       "published": "2026-08-04T16:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Keyv and friends compromised in npm supply chain attack",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfeftz/keyv_and_friends_compromised_in_npm_supply_chain/",
-      "summary": "submitted by /u/sdp4n6 [link] [comments]",
-      "published": "2026-08-04T15:59:06+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
@@ -261,15 +289,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "summary": "442 points · 87 comments",
+      "summary": "456 points · 85 comments",
       "published": "2026-08-04T15:16:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Most tech revolutions made work worse for employees",
-      "url": "https://www.thisandthat.chat/blog/most-tech-revolutions-made-work-worse-for-employees/",
-      "summary": "82 points · 45 comments",
-      "published": "2026-08-04T15:10:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -305,6 +326,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vf94zs/different_kind_of_issues_in_finding_a_job/",
       "summary": "Worked at four companies now, and every single one has had a toxic manager. The first one was a control freak. He’d make us write pointless documentation just to “cover ourselves,” and had me send out feedback forms to literally everyone I worked with on every project. The second manager was incredibly insecure. He micromanaged everything, from the wording in my reports to everyday conversations. If I disagreed with him, he’d threaten disciplinary action. The worst part was he was often just… wr",
       "published": "2026-08-04T12:37:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "GitHub - offseq/threat-finder: Runtime vulnerability scanner: finds CVEs in the services actually running on a host and ranks them by network exposure.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vf8o29/github_offseqthreatfinder_runtime_vulnerability/",
+      "summary": "submitted by /u/ThreatRadar [link] [comments]",
+      "published": "2026-08-04T12:16:01+00:00"
     },
     {
       "source": "OSINT",
@@ -356,13 +384,6 @@
       "published": "2026-08-04T10:01:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "summary": "361 points · 87 comments",
-      "published": "2026-08-04T10:00:55+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
       "url": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
@@ -389,13 +410,6 @@
       "url": "https://science.slashdot.org/story/26/08/04/0054251/openais-astra-solved-decades-old-math-problems-for-2000?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Forbes: The cost of producing new results on ten longstanding mathematical problems just fell to $2,000, according to OpenAI, which says its Astra model generated machine-checkable proofs for questions that had resisted human progress for decades. OpenAI published the work on August 1 and used it to give its next major model family a name: Astra. The results run across group theory, high-dimensional geometry, coding theory, quantum complexity, lattice cry",
       "published": "2026-08-04T03:30:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How do people with ADHD manage networking?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vey06w/how_do_people_with_adhd_manage_networking/",
-      "summary": "How do you function at your jobs or when starting out when you had ADHD? I’m an undergraduate with no experience yet, and that's why I'm a bit worried cause I don't have a job to start with. I keep hearing that networking is probably the best way to find internships, jobs, and other opportunities. I have severe ADHD and I find socializing and keeping conversations going difficult, especially in professional settings. I’m trying to improve, but it doesn't come naturally to me. For those already w",
-      "published": "2026-08-04T02:44:53+00:00"
     },
     {
       "source": "OSINT",
@@ -462,13 +476,6 @@
     },
     {
       "source": "OSINT",
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-      "published": "2026-08-03T15:04:39+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "url": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
@@ -480,13 +487,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-03T00:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Video2NAND – Abusing video codecs for great computational power",
-      "url": "https://sharedobject.blog/posts/vp8-combinatorial-logic/",
-      "summary": "18 points · 2 comments",
-      "published": "2026-08-02T14:29:01+00:00"
     },
     {
       "source": "OSINT",
