@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T07:17:30.296906+00:00",
+  "updated": "2026-08-05T10:10:37.589377+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,48 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "SOAR implementations, mistakes that I'have seen repeatedly",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vg301v/soar_implementations_mistakes_that_ihave_seen/",
+      "summary": "One thing I noticed through out my experience, SOAR is deployed but either barely used or actively making things worse. The mistakes are almost always the same, someone automated an alert type that wasn't ready for automation, either the false positive rate was too high or the decision logic wasn't actually deterministic, and now the automation is doing things an analyst wouldn't have done and it kept going for weeks. What I found works is being really specific about what automation readiness ac",
+      "published": "2026-08-05T10:00:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+      "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+      "summary": "8 points · 3 comments",
+      "published": "2026-08-05T09:36:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
+      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
+      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of",
+      "published": "2026-08-05T09:23:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "PhantomEnigma Investigation: 20+ Government Websites Hijacked to Deliver Malware",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vg2a4e/phantomenigma_investigation_20_government/",
+      "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "published": "2026-08-05T09:19:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
+      "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to erase the evidence, and posted from a second account it controlled to vouch for",
+      "published": "2026-08-05T07:53:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code injection vulnerability in Langflow that allows unauthenticated attackers to achieve full remote",
+      "published": "2026-08-05T07:40:39+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Watch a SpaceX Rocket Crash Into the Moon",
       "url": "https://science.slashdot.org/story/26/08/04/2245236/watch-a-spacex-rocket-crash-into-the-moon?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -44,15 +86,8 @@
       "source": "HACKER NEWS",
       "title": "Zero-Mem: Zero-Token Memory Operations for LLM Agents",
       "url": "https://arxiv.org/abs/2607.29377",
-      "summary": "14 points · 2 comments",
+      "summary": "40 points · 9 comments",
       "published": "2026-08-05T04:36:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Looking for a book recommendation for software supply chain security.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vfwfcj/looking_for_a_book_recommendation_for_software/",
-      "summary": "I have been in cybersecurity for couple of years now. Want to read technical book with nice depth on fundamentals of software supply chain security. Googling returns a few names, but before I invest my time wanted to hear the feedback from the community submitted by /u/NaturalManufacturer [link] [comments]",
-      "published": "2026-08-05T03:55:01+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -77,23 +112,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
-      "url": "https://arxiv.org/abs/2603.04221",
-      "summary": "74 points · 54 comments",
-      "published": "2026-08-05T00:10:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Bugtraq is back",
       "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
-      "summary": "37 points · 7 comments",
+      "summary": "48 points · 11 comments",
       "published": "2026-08-05T00:05:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Eight Myths on Software Engineering and GenAI",
       "url": "https://queue.acm.org/detail.cfm?id=3807963",
-      "summary": "179 points · 138 comments",
+      "summary": "215 points · 175 comments",
       "published": "2026-08-04T23:50:52+00:00"
     },
     {
@@ -107,15 +135,8 @@
       "source": "HACKER NEWS",
       "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
       "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
-      "summary": "89 points · 11 comments",
+      "summary": "115 points · 16 comments",
       "published": "2026-08-04T23:31:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
-      "summary": "244 points · 33 comments",
-      "published": "2026-08-04T23:18:12+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -128,14 +149,14 @@
       "source": "HACKER NEWS",
       "title": "We finally learned to center a div, then browsers added sidebars",
       "url": "https://seg6.space/posts/center-div/",
-      "summary": "109 points · 91 comments",
+      "summary": "136 points · 112 comments",
       "published": "2026-08-04T22:24:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pi's Minimalism Is Its Advantage",
       "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "summary": "279 points · 106 comments",
+      "summary": "371 points · 146 comments",
       "published": "2026-08-04T22:22:12+00:00"
     },
     {
@@ -149,14 +170,14 @@
       "source": "HACKER NEWS",
       "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
       "url": "https://techascent.com/blog/just-ducking-around.html",
-      "summary": "83 points · 13 comments",
+      "summary": "104 points · 17 comments",
       "published": "2026-08-04T22:09:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "summary": "198 points · 160 comments",
+      "summary": "243 points · 191 comments",
       "published": "2026-08-04T22:01:41+00:00"
     },
     {
@@ -198,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone",
       "url": "https://deepgrove.ai/maple-preview",
-      "summary": "97 points · 27 comments",
+      "summary": "121 points · 34 comments",
       "published": "2026-08-04T19:44:55+00:00"
     },
     {
@@ -226,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
       "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
-      "summary": "1250 points · 71 comments",
+      "summary": "1362 points · 79 comments",
       "published": "2026-08-04T18:51:38+00:00"
     },
     {
@@ -235,13 +256,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
       "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
       "published": "2026-08-04T18:50:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Golden Age of British Ice Cream",
-      "url": "https://www.vittlesmagazine.com/p/the-golden-age-of-british-ice-cream",
-      "summary": "33 points · 15 comments",
-      "published": "2026-08-04T18:25:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -268,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
       "url": "https://mistral.ai/news/shieldstral/",
-      "summary": "378 points · 90 comments",
+      "summary": "422 points · 109 comments",
       "published": "2026-08-04T16:36:05+00:00"
     },
     {
@@ -296,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
       "url": "https://toneyalexander.github.io/inclusive-color-space/",
-      "summary": "509 points · 92 comments",
+      "summary": "533 points · 92 comments",
       "published": "2026-08-04T15:16:22+00:00"
     },
     {
@@ -412,11 +426,11 @@
       "published": "2026-08-03T23:58:01+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Microsoft denies Windows 11 is spying on desktop PCs, reveals what the service actually does",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1verztd/microsoft_denies_windows_11_is_spying_on_desktop/",
-      "summary": "submitted by /u/WPHero [link] [comments]",
-      "published": "2026-08-03T22:23:53+00:00"
+      "source": "HACKER NEWS",
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "summary": "386 points · 402 comments",
+      "published": "2026-08-03T23:24:53+00:00"
     },
     {
       "source": "OSINT",
@@ -434,31 +448,10 @@
     },
     {
       "source": "OSINT",
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "url": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
-      "published": "2026-08-03T18:43:53+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
       "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
       "published": "2026-08-03T17:00:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
-      "published": "2026-08-03T16:24:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "url": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
-      "published": "2026-08-03T16:15:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -471,8 +464,15 @@
       "source": "HACKER NEWS",
       "title": "Stateless MCP has recaptured my interest",
       "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
-      "summary": "112 points · 65 comments",
+      "summary": "212 points · 110 comments",
       "published": "2026-08-01T05:51:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Pneumatics of Hero of Alexandria",
+      "url": "https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html",
+      "summary": "30 points · 1 comments",
+      "published": "2026-07-31T15:22:35+00:00"
     },
     {
       "source": "OSINT",
@@ -483,16 +483,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "\"Gravity is worth asking about.\"",
+      "title": "“Gravity is worth asking about”",
       "url": "https://unsung.aresluna.org/gravity-is-worth-asking-about/",
-      "summary": "16 points · 6 comments",
+      "summary": "79 points · 48 comments",
       "published": "2026-07-30T03:57:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rio-vt and librio: Rio's terminal engine, now embeddable",
       "url": "https://rioterm.com/blog/2026/07/27/rio-vt-and-librio",
-      "summary": "24 points · 4 comments",
+      "summary": "35 points · 12 comments",
       "published": "2026-07-28T14:15:49+00:00"
     },
     {
