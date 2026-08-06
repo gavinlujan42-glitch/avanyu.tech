@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T07:19:04.971292+00:00",
+  "updated": "2026-08-06T10:12:03.300823+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,74 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine. Huntress, which tracks the toolkit as khunt,",
+      "published": "2026-08-06T09:19:23+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Apple's Private Relay Leaks Your Real IP Address in Safari",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgyunq/apples_private_relay_leaks_your_real_ip_address/",
+      "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
+      "published": "2026-08-06T08:58:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "url": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene. The affected products include Amazon",
+      "published": "2026-08-06T08:57:30+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How to navigate a CISO who is…not so CISO",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgykwn/how_to_navigate_a_ciso_who_isnot_so_ciso/",
+      "summary": "I report to a CISO who has little understanding of how to run a security program/team with unrealistic expectations. I feel set up to fail. The org and IT never had to deal with a real security function and everything is like pulling teeth because it lacks an accountable culture, processes, procedures, RASCI, GRC, etc. Security isn’t a plug-n-play function to be turned on, magically grow tentacles into every team/dept, and suddenly Kumbaya. It requires A SHIT TON of time and effort for its culti",
+      "published": "2026-08-06T08:42:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed such that they start automatically and attempt to beacon to Chinese",
+      "published": "2026-08-06T08:05:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What I love about Django",
+      "url": "https://buttondown.com/blog/what-i-love-about-django",
+      "summary": "61 points · 36 comments",
+      "published": "2026-08-06T07:34:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, according to the Justice Department.",
+      "published": "2026-08-06T07:19:54+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "BMW Blasts Its Cars' Internal Screens With Aggressive Ads",
       "url": "https://tech.slashdot.org/story/26/08/06/0414254/bmw-blasts-its-cars-internal-screens-with-aggressive-ads?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot readers schwit1 and fjo3 shared a report about BMW displaying a Spider-Man promotion on connected vehicle screens in more than 70 markets. According to reports, drivers had to play or dismiss the ad before they could use the infotainment system. Futurism reports: BMW, showing that it was about as in-touch as its drivers are familiar with turn signals, teased the promotion as a \"special surprise.\" According to The Autopian's coverage and the heaps of complaints online, the ad ap",
       "published": "2026-08-06T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "url": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server",
+      "published": "2026-08-06T06:51:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Let's all meet up in the Y2K",
+      "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
+      "summary": "40 points · 21 comments",
+      "published": "2026-08-06T06:43:38+00:00"
     },
     {
       "source": "REDDIT",
@@ -72,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Crime Pays but Botany Doesn't",
       "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "summary": "70 points · 15 comments",
+      "summary": "208 points · 81 comments",
       "published": "2026-08-06T04:46:35+00:00"
     },
     {
@@ -86,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Nashville uses eminent domain to block data center near zoo",
       "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "summary": "215 points · 231 comments",
+      "summary": "235 points · 296 comments",
       "published": "2026-08-06T02:15:14+00:00"
     },
     {
@@ -128,14 +191,14 @@
       "source": "HACKER NEWS",
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "summary": "233 points · 107 comments",
+      "summary": "277 points · 135 comments",
       "published": "2026-08-05T21:29:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Prime Agent: A self-improving RLM agent",
       "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "summary": "167 points · 32 comments",
+      "summary": "184 points · 37 comments",
       "published": "2026-08-05T21:11:57+00:00"
     },
     {
@@ -144,13 +207,6 @@
       "url": "https://developers.slashdot.org/story/26/08/05/2013222/meta-debuts-first-ai-coding-agent-to-take-on-anthropic-and-openai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Meta has launched Muse Code, its first AI coding agent that's positioned as a lower-cost rival to Anthropic's Claude and OpenAI's Codex. It offers pay-as-you-go pricing and an optional zero-data-retention feature for enterprise users. CNBC reports: Muse Code is the latest major release from AI chief Alexandr Wang, who leads Meta Superintelligence Labs and oversees foundation model development. Wang joined in June of last year as the centerpiece of CEO Mark Zuckerberg's effort to revamp his compa",
       "published": "2026-08-05T21:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "tl;dv (AI meeting assistant) left 181,874 meetings exposed via misconfigured Firestore, including live calls you could join. Researcher disclosed in January, still unpatched 6 months later.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgitp9/tldv_ai_meeting_assistant_left_181874_meetings/",
-      "summary": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls original report - https://bobdahacker.com/blog/tldv-hack submitted by /u/Fun-Tomatillo9280 [link] [comments]",
-      "published": "2026-08-05T20:21:00+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -177,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "summary": "240 points · 141 comments",
+      "summary": "261 points · 161 comments",
       "published": "2026-08-05T19:15:52+00:00"
     },
     {
@@ -191,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "summary": "379 points · 208 comments",
+      "summary": "427 points · 222 comments",
       "published": "2026-08-05T18:52:54+00:00"
     },
     {
@@ -205,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
-      "summary": "230 points · 210 comments",
+      "summary": "273 points · 258 comments",
       "published": "2026-08-05T18:37:49+00:00"
     },
     {
@@ -219,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "summary": "293 points · 74 comments",
+      "summary": "321 points · 80 comments",
       "published": "2026-08-05T18:18:56+00:00"
     },
     {
@@ -240,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "summary": "209 points · 81 comments",
+      "summary": "233 points · 94 comments",
       "published": "2026-08-05T17:23:25+00:00"
     },
     {
@@ -252,30 +308,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Celld: Self-hosted, distributed Durable Objects",
-      "url": "https://github.com/denoland/celld",
-      "summary": "196 points · 30 comments",
-      "published": "2026-08-05T16:50:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-      "url": "https://www.hyperprobe.co",
-      "summary": "54 points · 40 comments",
-      "published": "2026-08-05T16:47:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "summary": "704 points · 436 comments",
+      "summary": "757 points · 471 comments",
       "published": "2026-08-05T16:19:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "summary": "610 points · 665 comments",
+      "summary": "661 points · 715 comments",
       "published": "2026-08-05T16:05:31+00:00"
     },
     {
@@ -338,15 +380,8 @@
       "source": "HACKER NEWS",
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "summary": "537 points · 260 comments",
+      "summary": "561 points · 270 comments",
       "published": "2026-08-05T13:58:53+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Owasp updated their top 10 LLM list (thoughts?)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vg84vx/owasp_updated_their_top_10_llm_list_thoughts/",
-      "summary": "submitted by /u/Neat-Long-460 [link] [comments]",
-      "published": "2026-08-05T13:57:51+00:00"
     },
     {
       "source": "OSINT",
@@ -363,20 +398,6 @@
       "published": "2026-08-05T12:43:43+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "url": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim",
-      "published": "2026-08-05T11:43:27+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "url": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,",
-      "published": "2026-08-05T11:43:19+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Which Certifications are ACTUALLY worth it?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vg4wrr/which_certifications_are_actually_worth_it/",
@@ -384,32 +405,11 @@
       "published": "2026-08-05T11:38:39+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its",
-      "published": "2026-08-05T11:04:23+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "NVMe Polishes Its Specs, Brings Virtualization to Locally Attached SSDs",
       "url": "https://hardware.slashdot.org/story/26/08/04/2326236/nvme-polishes-its-specs-brings-virtualization-to-locally-attached-ssds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The latest NVMe specifications add SSD-level virtualization that can simplify live VM migration by preserving storage identities across servers. The updates also introduce support for post-quantum cryptography, controller-based rate limiting, voltage monitoring, and factory-reset capabilities. The Register reports: Announced by the NVM Express consortium, all 11 of the suite of NVMe specs have been updated with new features and engineering change notices. These represent the next step in the evo",
       "published": "2026-08-05T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "url": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896",
-      "published": "2026-08-05T10:35:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "url": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of",
-      "published": "2026-08-05T09:23:03+00:00"
     },
     {
       "source": "OSINT",
@@ -448,16 +448,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-      "summary": "13 points · 6 comments",
-      "published": "2026-08-03T16:17:03+00:00"
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
+      "summary": "87 points · 18 comments",
+      "published": "2026-08-04T13:24:03+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
       "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "summary": "129 points · 34 comments",
+      "summary": "184 points · 45 comments",
       "published": "2026-08-03T06:37:05+00:00"
     },
     {
@@ -469,10 +469,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "GNU Hurd News 2026-Q2",
-      "url": "https://www.gnu.org/software/hurd/news/2026-q2.html",
-      "summary": "166 points · 106 comments",
-      "published": "2026-08-02T16:57:32+00:00"
+      "title": "Morioka Shoten",
+      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
+      "summary": "13 points · 7 comments",
+      "published": "2026-07-31T23:14:08+00:00"
     },
     {
       "source": "OSINT",
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
       "url": "https://quantego.org/",
-      "summary": "16 points · 5 comments",
+      "summary": "30 points · 17 comments",
       "published": "2026-07-30T16:35:08+00:00"
     },
     {
