@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06T10:12:03.300823+00:00",
-  "item_count": 75,
+  "updated": "2026-08-06T12:27:41.844572+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -26,6 +26,48 @@
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "Bringing Post-Quantum Cryptography to Java LTS Releases",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vh25an/bringing_postquantum_cryptography_to_java_lts/",
+      "summary": "submitted by /u/donutloop [link] [comments]",
+      "published": "2026-08-06T11:56:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
+      "url": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
+      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis puts the measured theft across two sweeps since late May at a lower bound of",
+      "published": "2026-08-06T11:49:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40,000 plays",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vh1zog/humans_missed_1_in_3_threats_approving_ai_agent/",
+      "summary": "A couple of months back I put up a small browser game where you play the human-in-the-loop for an AI coding agent. There's 60 seconds on the clock to approve or deny as many commands as you can ( https://llmgame.scalex.dev ). After looking at 409,000 approve/deny decisions, the 'humans-in-the-loop' missed 1 in 3 threats, even in a game that warns you up front it's full of them. It's just a game, but I found a few other things interesting: cat ~/.ssh/id_rsa gets blocked by 82% of players, but oth",
+      "published": "2026-08-06T11:49:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
+      "url": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+      "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy by routing their Safari web traffic through two relays so that no single third-party, including Apple, can determine where the request is originating from",
+      "published": "2026-08-06T11:33:08+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
+      "url": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
+      "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links. We observed production websites embedding hidden prompt injection payloads inside \"Ask AI\" buttons on marketing and competitor comparison pages. When a user",
+      "published": "2026-08-06T11:30:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "FDA Approves First mRNA Flu Shot",
+      "url": "https://science.slashdot.org/story/26/08/06/0424256/fda-approves-first-mrna-flu-shot?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The FDA has approved the first mRNA flu vaccine in the United States after a clinical trial found it was about 27% more effective than a standard flu shot. Manufactured by Moderna and marketed as mFlusiva, the vaccine is expected to be available this fall for adults ages 50 to 64 and those 65 and older, though approval for the older group is conditional on Moderna conducting an additional clinical trial, NBC News reports. From the report: Many scientists and public health experts have touted the",
+      "published": "2026-08-06T11:00:00+00:00"
+    },
     {
       "source": "OSINT",
       "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
@@ -62,13 +104,6 @@
       "published": "2026-08-06T08:05:22+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "What I love about Django",
-      "url": "https://buttondown.com/blog/what-i-love-about-django",
-      "summary": "61 points · 36 comments",
-      "published": "2026-08-06T07:34:06+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
       "url": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
@@ -93,8 +128,15 @@
       "source": "HACKER NEWS",
       "title": "Let's all meet up in the Y2K",
       "url": "https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/",
-      "summary": "40 points · 21 comments",
+      "summary": "83 points · 42 comments",
       "published": "2026-08-06T06:43:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+      "summary": "73 points · 23 comments",
+      "published": "2026-08-06T06:24:42+00:00"
     },
     {
       "source": "REDDIT",
@@ -109,13 +151,6 @@
       "url": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
       "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from",
       "published": "2026-08-06T06:04:30+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Security vs. Compliance",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgvr6a/security_vs_compliance/",
-      "summary": "I had a few discussions the last weeks and coming from a compliance world, where you are focusing in satisfying regulations. I know this is often not bringing more security. If I am discussing I often feel misunderstood since i am always arguing out of a position of the minimal effort to comply with an regulation or standard. Witch mostly do not satisfy how security is supposed to be done (i guess). How do you experience it? submitted by /u/Vans_eG [link] [comments]",
-      "published": "2026-08-06T05:58:52+00:00"
     },
     {
       "source": "REDDIT",
@@ -135,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Crime Pays but Botany Doesn't",
       "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
-      "summary": "208 points · 81 comments",
+      "summary": "314 points · 109 comments",
       "published": "2026-08-06T04:46:35+00:00"
     },
     {
@@ -144,13 +179,6 @@
       "url": "https://science.slashdot.org/story/26/08/05/2226251/new-images-of-the-sun-show-its-surface-in-the-finest-detail-yet?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from the Associated Press: Scientists have captured images of the sun's surface in the finest detail yet, revealing a strange and dynamic facade. It's dangerous to look directly at the sun without proper eye protection. But researchers were able to peek at its scorching surface with the help of the National Science Foundation's Daniel K. Inouye Solar Telescope, located on the island of Maui in Hawaii. Scientists originally took the images for a different reaso",
       "published": "2026-08-06T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nashville uses eminent domain to block data center near zoo",
-      "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-      "summary": "235 points · 296 comments",
-      "published": "2026-08-06T02:15:14+00:00"
     },
     {
       "source": "OSINT",
@@ -191,14 +219,21 @@
       "source": "HACKER NEWS",
       "title": "The title cards in Blade Runner are amazing",
       "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "summary": "277 points · 135 comments",
+      "summary": "308 points · 149 comments",
       "published": "2026-08-05T21:29:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NVIDIA’s Vera Whitepaper Has a Thread Loose",
+      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
+      "summary": "146 points · 31 comments",
+      "published": "2026-08-05T21:24:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Prime Agent: A self-improving RLM agent",
       "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "summary": "184 points · 37 comments",
+      "summary": "191 points · 41 comments",
       "published": "2026-08-05T21:11:57+00:00"
     },
     {
@@ -233,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Muse Code and Muse Spark 1.2",
       "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "summary": "261 points · 161 comments",
+      "summary": "271 points · 170 comments",
       "published": "2026-08-05T19:15:52+00:00"
     },
     {
@@ -247,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Zed DeltaDB",
       "url": "https://zed.dev/deltadb",
-      "summary": "427 points · 222 comments",
+      "summary": "459 points · 243 comments",
       "published": "2026-08-05T18:52:54+00:00"
     },
     {
@@ -261,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Born Against, or why hobby programming communities are against LLM usage",
       "url": "https://blog.fogus.me/llm/born-against.html",
-      "summary": "273 points · 258 comments",
+      "summary": "296 points · 310 comments",
       "published": "2026-08-05T18:37:49+00:00"
     },
     {
@@ -275,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
       "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "summary": "321 points · 80 comments",
+      "summary": "344 points · 83 comments",
       "published": "2026-08-05T18:18:56+00:00"
     },
     {
@@ -296,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
       "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "summary": "233 points · 94 comments",
+      "summary": "250 points · 98 comments",
       "published": "2026-08-05T17:23:25+00:00"
     },
     {
@@ -310,14 +345,14 @@
       "source": "HACKER NEWS",
       "title": "Discovery Loop",
       "url": "https://www.discoveryloop.com/",
-      "summary": "757 points · 471 comments",
+      "summary": "787 points · 489 comments",
       "published": "2026-08-05T16:19:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
       "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "summary": "661 points · 715 comments",
+      "summary": "703 points · 750 comments",
       "published": "2026-08-05T16:05:31+00:00"
     },
     {
@@ -342,20 +377,6 @@
       "published": "2026-08-05T15:36:03+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "url": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
-      "published": "2026-08-05T15:14:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Google Blogger locks hundreds of blogs in malware false positive",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vg9ujl/google_blogger_locks_hundreds_of_blogs_in_malware/",
-      "summary": "submitted by /u/WPHero [link] [comments]",
-      "published": "2026-08-05T15:02:25+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Senators Demand Crackdown On Wildfire 'Prediction Markets'",
       "url": "https://yro.slashdot.org/story/26/08/05/0021220/senators-demand-crackdown-on-wildfire-prediction-markets?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -364,10 +385,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "url": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
-      "published": "2026-08-05T14:27:30+00:00"
+      "title": "Google Blogger locks hundreds of blogs in malware false positive",
+      "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+      "published": "2026-08-05T14:59:29+00:00"
     },
     {
       "source": "OSINT",
@@ -380,15 +401,8 @@
       "source": "HACKER NEWS",
       "title": "Cloudflare OS: an open platform for agents, apps, and work",
       "url": "https://blog.cloudflare.com/cloudflare-os/",
-      "summary": "561 points · 270 comments",
+      "summary": "578 points · 279 comments",
       "published": "2026-08-05T13:58:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "url": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
-      "published": "2026-08-05T13:41:27+00:00"
     },
     {
       "source": "REDDIT",
@@ -403,13 +417,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vg4wrr/which_certifications_are_actually_worth_it/",
       "summary": "I’m getting started with Cybersecurity. I’m interested in Pentesting and Cybersec Engineering. I’ve heard from some that there are certifications that could be a good addition to your resume. What certifications and courses are ACTUALLY WORTH THE MONEY? Like they they realistically benefit your resume and learning? Thanks! submitted by /u/Ok-Possibility-2664 [link] [comments]",
       "published": "2026-08-05T11:38:39+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "NVMe Polishes Its Specs, Brings Virtualization to Locally Attached SSDs",
-      "url": "https://hardware.slashdot.org/story/26/08/04/2326236/nvme-polishes-its-specs-brings-virtualization-to-locally-attached-ssds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The latest NVMe specifications add SSD-level virtualization that can simplify live VM migration by preserving storage identities across servers. The updates also introduce support for post-quantum cryptography, controller-based rate limiting, voltage monitoring, and factory-reset capabilities. The Register reports: Announced by the NVM Express consortium, all 11 of the suite of NVMe specs have been updated with new features and engineering change notices. These represent the next step in the evo",
-      "published": "2026-08-05T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -450,14 +457,14 @@
       "source": "HACKER NEWS",
       "title": "How to Make a Nintendo 64 Game in 2026",
       "url": "https://phoboslab.org/log/2026/08/xibalba64-making-of",
-      "summary": "87 points · 18 comments",
+      "summary": "189 points · 58 comments",
       "published": "2026-08-04T13:24:03+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Branchless Rust: Making a Filter 4x Faster by Removing an If",
       "url": "https://www.greyblake.com/blog/branchless-rust/",
-      "summary": "184 points · 45 comments",
+      "summary": "211 points · 61 comments",
       "published": "2026-08-03T06:37:05+00:00"
     },
     {
@@ -466,13 +473,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-03T00:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Morioka Shoten",
-      "url": "https://www.takram.com/projects/a-single-room-with-a-single-book-morioka-shoten",
-      "summary": "13 points · 7 comments",
-      "published": "2026-07-31T23:14:08+00:00"
     },
     {
       "source": "OSINT",
@@ -485,8 +485,15 @@
       "source": "HACKER NEWS",
       "title": "Quantego: A Family of Lego Models of IBM Quantum Computers",
       "url": "https://quantego.org/",
-      "summary": "30 points · 17 comments",
+      "summary": "39 points · 19 comments",
       "published": "2026-07-30T16:35:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pareto Front",
+      "url": "https://en.wikipedia.org/wiki/Pareto_front",
+      "summary": "49 points · 19 comments",
+      "published": "2026-07-29T12:12:29+00:00"
     },
     {
       "source": "OSINT",
