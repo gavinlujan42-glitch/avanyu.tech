@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T11:24:45.102171+00:00",
-  "item_count": 76,
+  "updated": "2026-08-07T12:11:23.774761+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,11 +27,60 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "[Research] Looking to interview cybersecurity professionals about mobile app/malware analysis workflow",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vhyqve/research_looking_to_interview_cybersecurity/",
+      "summary": "I’m doing a research into how security teams handle dynamic/behavioral analysis of mobile samples. I’d like to talk to people who work on: - Malware Analysis / reverse engineering - Mobile App automated/manual security testing - AV tooling or SOC workflows. Interviews are casual just 15-30 minutes where you can talk about how your workflow looks like, where you feel more or less efficient and which tools do you use in your daily basis. We can have this conversation over Reddit chats or Discord c",
+      "published": "2026-08-07T12:04:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Growing Up The Hard Way",
+      "url": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+      "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral. Then,",
+      "published": "2026-08-07T11:55:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vhydoy/aiassisted_http_terminator_finds_novel_http/",
+      "summary": "submitted by /u/Altruistic_Hope_2559 [link] [comments]",
+      "published": "2026-08-07T11:47:36+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Chinese Router Backdoor Opens Root Access on 100,000 Devices Worldwide",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vhydky/chinese_router_backdoor_opens_root_access_on/",
+      "summary": "Jacob Baines, chief technology officer at security firm VulnCheck, said more than 20 models of Chinese-made Zbtlink routers ship with a hidden backdoor that hands outsiders a route onto the local network, in a finding published August 5. submitted by /u/Revolutionary-Cod276 [link] [comments]",
+      "published": "2026-08-07T11:47:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Gargantuan Lie That Is Collapsing the Climate",
+      "url": "https://www.currentaffairs.org/news/the-massive-climate-lie-that-will-destroy-human-civilization",
+      "summary": "69 points · 23 comments",
+      "published": "2026-08-07T11:19:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update.",
+      "published": "2026-08-07T11:10:33+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Radical Study Suggests Life on Earth Arose Twice",
       "url": "https://science.slashdot.org/story/26/08/07/0059221/radical-study-suggests-life-on-earth-arose-twice?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A new study argues that life may have emerged twice on Earth. \"Two of the main lineages of life -- bacteria and archaea -- may have independently figured out the secrets of metabolism that upgraded them from non-living to living,\" reports ScienceAlert, citing a new study that \"focused on the most rudimentary set of chemical reactions thought to enable this transformation.\" From the report: \"The surprise is that the enzymes that catalyze those reactions are not conserved across the evolutionary d",
       "published": "2026-08-07T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
+      "published": "2026-08-07T10:58:38+00:00"
     },
     {
       "source": "OSINT",
@@ -44,29 +93,8 @@
       "source": "HACKER NEWS",
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "summary": "129 points · 71 comments",
+      "summary": "256 points · 214 comments",
       "published": "2026-08-07T10:28:55+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Shai-Hulud shows engineering teams have a new AI security problem",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vhwni4/shaihulud_shows_engineering_teams_have_a_new_ai/",
-      "summary": "submitted by /u/Suspicious_Orchid770 [link] [comments]",
-      "published": "2026-08-07T10:16:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where scanning",
-      "published": "2026-08-07T10:09:54+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
-      "published": "2026-08-07T09:32:57+00:00"
     },
     {
       "source": "OSINT",
@@ -128,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "summary": "337 points · 223 comments",
+      "summary": "373 points · 233 comments",
       "published": "2026-08-07T00:06:28+00:00"
     },
     {
@@ -167,31 +195,24 @@
       "published": "2026-08-06T22:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Assignment",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vhi1or/assignment/",
-      "summary": "Hello I hope this message finds everyone well. I am currently in need for assistance for one of my assignments. I need to set up a informational interview with someone who is already in the field of CompSci/Cybersecurity. I just need 8 questions answered it would be simple information such as occupation, requirements, etc. Any help would be greatly appreciated. submitted by /u/Federal-Dream-7517 [link] [comments]",
-      "published": "2026-08-06T21:57:58+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
       "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "summary": "165 points · 26 comments",
+      "summary": "169 points · 27 comments",
       "published": "2026-08-06T21:52:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "summary": "140 points · 41 comments",
+      "summary": "145 points · 43 comments",
       "published": "2026-08-06T21:18:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What is a product?",
       "url": "https://roge.onwrite.app/what-is-a-product",
-      "summary": "68 points · 43 comments",
+      "summary": "72 points · 44 comments",
       "published": "2026-08-06T21:16:52+00:00"
     },
     {
@@ -205,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "summary": "706 points · 536 comments",
+      "summary": "721 points · 542 comments",
       "published": "2026-08-06T20:23:11+00:00"
     },
     {
@@ -275,14 +296,14 @@
       "source": "HACKER NEWS",
       "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "summary": "250 points · 193 comments",
+      "summary": "256 points · 199 comments",
       "published": "2026-08-06T17:02:04+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "summary": "460 points · 334 comments",
+      "summary": "481 points · 345 comments",
       "published": "2026-08-06T17:01:33+00:00"
     },
     {
@@ -324,14 +345,14 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
       "url": "https://provenmetal.com",
-      "summary": "207 points · 145 comments",
+      "summary": "208 points · 148 comments",
       "published": "2026-08-06T15:59:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GitHub Actions and Pages are experiencing degraded availability",
       "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "summary": "413 points · 337 comments",
+      "summary": "423 points · 345 comments",
       "published": "2026-08-06T15:49:38+00:00"
     },
     {
@@ -356,20 +377,6 @@
       "published": "2026-08-06T14:02:12+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-      "url": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-      "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised. That figure counts exposed",
-      "published": "2026-08-06T12:16:58+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-      "url": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis puts the measured theft across two sweeps since late May at a lower bound of",
-      "published": "2026-08-06T11:49:48+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Humans missed 1 in 3 threats approving AI agent commands across 40,000 plays",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vh1zog/humans_missed_1_in_3_threats_approving_ai_agent/",
@@ -382,13 +389,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vgyunq/apples_private_relay_leaks_your_real_ip_address/",
       "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
       "published": "2026-08-06T08:58:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How to navigate a CISO who is…not so CISO",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vgykwn/how_to_navigate_a_ciso_who_isnot_so_ciso/",
-      "summary": "I report to a CISO who has little understanding of how to run a security program/team with unrealistic expectations. I feel set up to fail. The org and IT never had to deal with a real security function and everything is like pulling teeth because it lacks an accountable culture, processes, procedures, RASCI, GRC, etc. Security isn’t a plug-n-play function to be turned on, magically grow tentacles into every team/dept, and suddenly Kumbaya. It requires A SHIT TON of time and effort for its culti",
-      "published": "2026-08-06T08:42:09+00:00"
     },
     {
       "source": "REDDIT",
@@ -436,28 +436,35 @@
       "source": "HACKER NEWS",
       "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
       "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "summary": "241 points · 52 comments",
+      "summary": "245 points · 53 comments",
       "published": "2026-08-05T15:33:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
       "url": "https://www.coinbase.com/blog/interviewing-engineers-in-the-ai-era-lessons-from-a-year-of-rebuilding",
-      "summary": "25 points · 12 comments",
+      "summary": "51 points · 32 comments",
       "published": "2026-08-03T22:29:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Reverse Jevons Paradox",
+      "url": "https://mht.wtf/post/jevons/",
+      "summary": "43 points · 38 comments",
+      "published": "2026-08-03T22:04:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A quine in Piet – a GIF image that prints itself [video]",
       "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
-      "summary": "15 points · 1 comments",
+      "summary": "20 points · 1 comments",
       "published": "2026-08-03T14:20:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I stopped trusting USB-C cable labels and started testing them",
       "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
-      "summary": "202 points · 165 comments",
+      "summary": "212 points · 178 comments",
       "published": "2026-08-03T07:12:57+00:00"
     },
     {
@@ -471,14 +478,14 @@
       "source": "HACKER NEWS",
       "title": "São Paulo resident transforms degraded area into urban forest",
       "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "summary": "159 points · 63 comments",
+      "summary": "171 points · 67 comments",
       "published": "2026-08-01T21:02:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Atomic Clocks",
       "url": "https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work",
-      "summary": "85 points · 45 comments",
+      "summary": "96 points · 52 comments",
       "published": "2026-07-31T21:58:03+00:00"
     },
     {
@@ -487,20 +494,6 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
       "published": "2026-07-30T16:49:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Parsers don't have to be complicated",
-      "url": "https://bkaradzic.github.io/posts/scanner/",
-      "summary": "51 points · 42 comments",
-      "published": "2026-07-29T11:15:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The BBC Tetris Companion",
-      "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
-      "summary": "15 points · 2 comments",
-      "published": "2026-07-29T02:24:38+00:00"
     },
     {
       "source": "OSINT",
