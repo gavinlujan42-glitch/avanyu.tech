@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:06:37.680494+00:00",
+  "updated": "2026-08-07T19:56:06.359052+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,13 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+      "published": "2026-08-07T19:30:41+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Framework Notifies 'All Customers' of a Data Breach Via Compromised Metabase BI Service",
       "url": "https://yro.slashdot.org/story/26/08/07/1757230/framework-notifies-all-customers-of-a-data-breach-via-compromised-metabase-bi-service?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -35,16 +42,58 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "App Store Rejection of the Week: Dark Hours",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "summary": "47 points · 13 comments",
+      "published": "2026-08-07T18:59:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Psychological Warfare in Reverse Engineering",
+      "url": "https://github.com/xoreaxeaxeax/repsych",
+      "summary": "3 points · 0 comments",
+      "published": "2026-08-07T18:51:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "summary": "3 points · 0 comments",
+      "summary": "24 points · 6 comments",
       "published": "2026-08-07T18:51:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+      "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+      "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
+      "published": "2026-08-07T18:48:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "url": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture. \"",
+      "published": "2026-08-07T18:29:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Databricks drove down AI coding spend 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "summary": "40 points · 14 comments",
+      "published": "2026-08-07T18:25:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+      "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their",
+      "published": "2026-08-07T18:16:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "41 points · 9 comments",
+      "summary": "82 points · 18 comments",
       "published": "2026-08-07T18:01:30+00:00"
     },
     {
@@ -55,24 +104,17 @@
       "published": "2026-08-07T18:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Came from bank fraud, now building AI detection tooling, where do you actually trust an LLM in the SOC?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vi7sq6/came_from_bank_fraud_now_building_ai_detection/",
-      "summary": "Background so it's not a random question: about 3 years leading fraud detection at a bank, doing the detection and triage myself through a stack of real incidents, and I've since moved into building the tooling instead of just running it. My working rule so far is that the LLM is a tool and a human still owns the output. So I build with a human in the loop as the final authority, put a harness and security controls around the model instead of trusting it raw, test it against expert judgment, and",
-      "published": "2026-08-07T17:57:23+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "100 points · 60 comments",
+      "summary": "177 points · 113 comments",
       "published": "2026-08-07T17:56:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "175 points · 106 comments",
+      "summary": "229 points · 159 comments",
       "published": "2026-08-07T17:36:30+00:00"
     },
     {
@@ -93,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "88 points · 91 comments",
+      "summary": "100 points · 104 comments",
       "published": "2026-08-07T16:39:36+00:00"
     },
     {
@@ -118,17 +160,24 @@
       "published": "2026-08-07T15:48:20+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "hands-on Cloud Security experience",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vi4407/handson_cloud_security_experience/",
+      "summary": "Hi everyone, I recently passed my AWS Solutions Architect exam and I also have a Hack The Box subscription. I have a strong interest in cloud security and want to transition into this field. However, I feel like I lack the practical, hands-on cloud security experience needed to pass technical interviews. What are the best online training platforms or labs to practice cloud security attacks and defense? Can I use my HTB subscription or the AWS Free Tier to build a good portfolio? Also, how is the",
+      "published": "2026-08-07T15:41:23+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "summary": "85 points · 28 comments",
+      "summary": "94 points · 29 comments",
       "published": "2026-08-07T15:24:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Möbius-Strip Crosswords",
       "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "summary": "27 points · 4 comments",
+      "summary": "35 points · 4 comments",
       "published": "2026-08-07T15:10:34+00:00"
     },
     {
@@ -149,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "A year of fighting scrapers on my 1.5 million-page website",
       "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "summary": "288 points · 276 comments",
+      "summary": "308 points · 294 comments",
       "published": "2026-08-07T14:51:57+00:00"
     },
     {
@@ -181,6 +230,13 @@
       "published": "2026-08-07T12:56:23+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "summary": "125 points · 214 comments",
+      "published": "2026-08-07T12:42:27+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Security Engineer with Zero AI Knowledge - How would you become an AI Security Engineer from scratch in 2026?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vhzjeb/security_engineer_with_zero_ai_knowledge_how/",
@@ -193,13 +249,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vhzilh/meta_says_its_ai_model_hacked_into_another/",
       "summary": "My model is better at attacking than yours /s What’s going on here with these companies? What kind of ad would this even be? submitted by /u/squarcia [link] [comments]",
       "published": "2026-08-07T12:39:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Wyzer Programming Language",
-      "url": "https://github.com/Wyzer-Lang/wyzer",
-      "summary": "144 points · 79 comments",
-      "published": "2026-08-07T12:28:55+00:00"
     },
     {
       "source": "OSINT",
@@ -226,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "summary": "166 points · 77 comments",
+      "summary": "182 points · 83 comments",
       "published": "2026-08-07T11:00:35+00:00"
     },
     {
@@ -247,14 +296,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
       "url": "https://textlog.cc/about",
-      "summary": "96 points · 38 comments",
+      "summary": "102 points · 45 comments",
       "published": "2026-08-07T10:52:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
-      "summary": "104 points · 27 comments",
+      "summary": "113 points · 30 comments",
       "published": "2026-08-07T10:42:07+00:00"
     },
     {
@@ -324,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "summary": "642 points · 356 comments",
+      "summary": "674 points · 361 comments",
       "published": "2026-08-07T00:06:28+00:00"
     },
     {
@@ -370,13 +419,6 @@
       "published": "2026-08-06T21:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "summary": "847 points · 637 comments",
-      "published": "2026-08-06T20:23:11+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
       "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
@@ -406,38 +448,10 @@
     },
     {
       "source": "OSINT",
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-      "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as CVE-2026-64561 and affects KVM/x86's shadow memory management unit (MMU), which manages shadow page",
-      "published": "2026-08-06T17:58:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-      "url": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode. \"These vulnerabilities were found",
-      "published": "2026-08-06T17:13:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Taste Is All That's Left",
-      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "summary": "624 points · 497 comments",
-      "published": "2026-08-06T17:01:33+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06T17:00:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on,",
-      "published": "2026-08-06T16:17:13+00:00"
     },
     {
       "source": "OSINT",
@@ -461,31 +475,10 @@
       "published": "2026-08-05T23:00:50+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
-      "published": "2026-08-05T21:53:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Building Community Out of Strangers",
-      "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
-      "summary": "20 points · 1 comments",
-      "published": "2026-08-04T15:21:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Petri Nets as a Music Sequencer",
-      "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
-      "summary": "47 points · 17 comments",
-      "published": "2026-08-03T17:34:40+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
       "url": "https://londonist.com/london/history/oxford-street-beavers",
-      "summary": "34 points · 14 comments",
+      "summary": "41 points · 18 comments",
       "published": "2026-08-03T16:52:36+00:00"
     },
     {
@@ -494,6 +487,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-03T00:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "summary": "12 points · 0 comments",
+      "published": "2026-08-01T15:51:15+00:00"
     },
     {
       "source": "OSINT",
