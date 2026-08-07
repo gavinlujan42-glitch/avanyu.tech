@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T17:53:04.487031+00:00",
+  "updated": "2026-08-07T19:06:37.680494+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,52 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Framework Notifies 'All Customers' of a Data Breach Via Compromised Metabase BI Service",
+      "url": "https://yro.slashdot.org/story/26/08/07/1757230/framework-notifies-all-customers-of-a-data-breach-via-compromised-metabase-bi-service?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Framework has been sending out email notifications to customers alerting of a limited data breach in which customer information was accessed through a Metabase BI service zero-day exploit,\" writes Slashdot reader DuoDreamer. Data includes customer names, email addresses, phone numbers, and physical addresses. \"Framework is investigating whether or not this included Framework for Business customers as well.\" TechCrunch reports: Framework's spokesperson Eric Schumacher told TechCrunch that the br",
+      "published": "2026-08-07T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "summary": "3 points · 0 comments",
+      "published": "2026-08-07T18:51:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "41 points · 9 comments",
+      "published": "2026-08-07T18:01:30+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Suno Says It Will Start Watermarking Songs",
+      "url": "https://entertainment.slashdot.org/story/26/08/07/1710226/suno-says-it-will-start-watermarking-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Suno says it will begin watermarking and fingerprinting AI-generated songs, tighten download policies to curb mass distribution, and explicitly prohibit deceptive audio and unauthorized voice or likeness cloning. The changes come as the company faces mounting copyright lawsuits, a recent adverse ruling in Germany, and scrutiny over a past data breach that revealed training-data sources. TechCrunch reports: In a blog post, co-founder and CEO Mikey Shulman shared core principles and said that the ",
+      "published": "2026-08-07T18:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Came from bank fraud, now building AI detection tooling, where do you actually trust an LLM in the SOC?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vi7sq6/came_from_bank_fraud_now_building_ai_detection/",
+      "summary": "Background so it's not a random question: about 3 years leading fraud detection at a bank, doing the detection and triage myself through a stack of real incidents, and I've since moved into building the tooling instead of just running it. My working rule so far is that the LLM is a tool and a human still owns the output. So I build with a human in the loop as the final authority, put a harness and security controls around the model instead of trusting it raw, test it against expert judgment, and",
+      "published": "2026-08-07T17:57:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "100 points · 60 comments",
+      "published": "2026-08-07T17:56:20+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "3 points · 0 comments",
+      "summary": "175 points · 106 comments",
       "published": "2026-08-07T17:36:30+00:00"
     },
     {
@@ -49,23 +91,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
-      "url": "https://www.lse.ac.uk/research/research-for-the-world/economics/tax-cuts-for-the-wealthy-only-benefit-the-rich-debunking-trickle-down-economics",
-      "summary": "110 points · 62 comments",
-      "published": "2026-08-07T16:44:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "55 points · 43 comments",
+      "summary": "88 points · 91 comments",
       "published": "2026-08-07T16:39:36+00:00"
     },
     {
       "source": "REDDIT",
       "title": "21 year old pleads guilty to hacking court database and multinational corporation",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vi5jcb/21_year_old_pleads_guilty_to_hacking_court/",
-      "summary": "Michael Rogers, a 21-year-old Canton man, pleaded guilty this week in U.S. District Court to computer fraud and destruction of records for hacking the Stark County Criminal Justice Information System (CJIS) and an unnamed multi-national corporation based in Connecticut. The Stark County Breach: Between January and October 2024, Rogers used a custom computer program to scrape and query the CJIS database, saving the private personal data of nearly 300,000 individuals onto his hard drive. He used p",
+      "summary": "Michael Rogers, a 21-year-old Ohio man, pleaded guilty this week in U.S. District Court to computer fraud and destruction of records for hacking the Stark County Criminal Justice Information System (CJIS) and an unnamed multi-national corporation based in Connecticut. The Stark County Breach: Between January and October 2024, Rogers used a custom computer program to scrape and query the CJIS database, saving the private personal data of nearly 300,000 individuals onto his hard drive. He used pro",
       "published": "2026-08-07T16:33:59+00:00"
     },
     {
@@ -76,13 +111,6 @@
       "published": "2026-08-07T16:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Adults over 65 will outnumber children by 2029",
-      "url": "https://eco3min.fr/en/us-children-vs-adults-65-and-older/",
-      "summary": "37 points · 18 comments",
-      "published": "2026-08-07T15:57:59+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
@@ -90,24 +118,17 @@
       "published": "2026-08-07T15:48:20+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "hands-on Cloud Security experience",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vi4407/handson_cloud_security_experience/",
-      "summary": "Hi everyone, I recently passed my AWS Solutions Architect exam and I also have a Hack The Box subscription. I have a strong interest in cloud security and want to transition into this field. However, I feel like I lack the practical, hands-on cloud security experience needed to pass technical interviews. What are the best online training platforms or labs to practice cloud security attacks and defense? Can I use my HTB subscription or the AWS Free Tier to build a good portfolio? Also, how is the",
-      "published": "2026-08-07T15:41:23+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "summary": "61 points · 18 comments",
+      "summary": "85 points · 28 comments",
       "published": "2026-08-07T15:24:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Möbius-Strip Crosswords",
       "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "summary": "17 points · 0 comments",
+      "summary": "27 points · 4 comments",
       "published": "2026-08-07T15:10:34+00:00"
     },
     {
@@ -126,10 +147,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "USA Today Co., partners with Palantir to analyze audience data",
-      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
-      "summary": "151 points · 59 comments",
-      "published": "2026-08-07T14:02:15+00:00"
+      "title": "A year of fighting scrapers on my 1.5 million-page website",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "summary": "288 points · 276 comments",
+      "published": "2026-08-07T14:51:57+00:00"
     },
     {
       "source": "OSINT",
@@ -177,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Wyzer Programming Language",
       "url": "https://github.com/Wyzer-Lang/wyzer",
-      "summary": "125 points · 64 comments",
+      "summary": "144 points · 79 comments",
       "published": "2026-08-07T12:28:55+00:00"
     },
     {
@@ -205,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "summary": "129 points · 56 comments",
+      "summary": "166 points · 77 comments",
       "published": "2026-08-07T11:00:35+00:00"
     },
     {
@@ -226,14 +247,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
       "url": "https://textlog.cc/about",
-      "summary": "83 points · 34 comments",
+      "summary": "96 points · 38 comments",
       "published": "2026-08-07T10:52:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
-      "summary": "84 points · 19 comments",
+      "summary": "104 points · 27 comments",
       "published": "2026-08-07T10:42:07+00:00"
     },
     {
@@ -303,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "summary": "599 points · 336 comments",
+      "summary": "642 points · 356 comments",
       "published": "2026-08-07T00:06:28+00:00"
     },
     {
@@ -352,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "summary": "824 points · 623 comments",
+      "summary": "847 points · 637 comments",
       "published": "2026-08-06T20:23:11+00:00"
     },
     {
@@ -363,25 +384,11 @@
       "published": "2026-08-06T20:07:24+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "OpenAI's Models Shared Hacking Tips On a Secret Messaging Board Before Hugging Face Breach",
-      "url": "https://yro.slashdot.org/story/26/08/06/1815207/openais-models-shared-hacking-tips-on-a-secret-messaging-board-before-hugging-face-breach?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenAI researchers say multiple AI agents secretly created an internal message board to share hacking techniques, eventually finding ways around restrictions, exploiting a zero-day, and helping two models breach Hugging Face without human prompting. \"This is a pivotal moment both for our company as well as the AI industry as a whole,\" Michael Dalton, one of the AI-maker's researchers, said during a presentation at the Black Hat cybersecurity conference in Las Vegas, Nevada. Politico reports: Dal",
-      "published": "2026-08-06T20:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Despite federal warnings, thousands of U.S. industrial controllers used in water systems remain exposed online",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vhdrma/despite_federal_warnings_thousands_of_us/",
       "summary": "A new scan of internet-connected industrial equipment found over 4,000 Rockwell Automation and Allen-Bradley controllers exposed online, including 22 in cities impacted by cyberattacks on U.S. water systems. https://cyberscoop.com/exposed-rockwell-controllers-water-system-attacks/ submitted by /u/drewchainzz [link] [comments]",
       "published": "2026-08-06T19:14:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "The US Government's Mario, Pokemon and Naruto Meme Posting Could Damage These Franchises, Japanese Officials Warn",
-      "url": "https://tech.slashdot.org/story/26/08/06/186237/the-us-governments-mario-pokemon-and-naruto-meme-posting-could-damage-these-franchises-japanese-officials-warn?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Japanese officials have repeatedly asked the Trump administration to stop using characters from franchises such as Mario, Pokemon, and Naruto in unauthorized government memes and pro-war videos, warning that the posts could damage the intellectual property involved. IGN reports: Official US government social media accounts, including The White House's X account, have posted various memes and videos using characters from popular Japanese anime and games over the past year. Japan's Ministry of For",
-      "published": "2026-08-06T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -415,7 +422,7 @@
       "source": "HACKER NEWS",
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "summary": "615 points · 485 comments",
+      "summary": "624 points · 497 comments",
       "published": "2026-08-06T17:01:33+00:00"
     },
     {
@@ -464,21 +471,21 @@
       "source": "HACKER NEWS",
       "title": "Building Community Out of Strangers",
       "url": "https://tracydurnell.com/2023/11/30/building-community-out-of-strangers/",
-      "summary": "9 points · 0 comments",
+      "summary": "20 points · 1 comments",
       "published": "2026-08-04T15:21:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Petri Nets as a Music Sequencer",
       "url": "https://blog.stackdump.com/posts/petri-net-sequencer",
-      "summary": "35 points · 12 comments",
+      "summary": "47 points · 17 comments",
       "published": "2026-08-03T17:34:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
       "url": "https://londonist.com/london/history/oxford-street-beavers",
-      "summary": "26 points · 6 comments",
+      "summary": "34 points · 14 comments",
       "published": "2026-08-03T16:52:36+00:00"
     },
     {
@@ -487,13 +494,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-03T00:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "São Paulo resident transforms degraded area into urban forest",
-      "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "summary": "279 points · 108 comments",
-      "published": "2026-08-01T21:02:26+00:00"
     },
     {
       "source": "OSINT",
