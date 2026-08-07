@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T22:44:45.152358+00:00",
-  "item_count": 87,
+  "updated": "2026-08-07T23:39:25.366637+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,11 +16,23 @@
     },
     {
       "source": "REDDIT",
+      "url": "https://www.reddit.com/r/netsec/.rss",
+      "error": "HTTPError"
+    },
+    {
+      "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "SLASHDOT",
+      "title": "Virginia Governor To Intervene In Dominion-NextEra Merger",
+      "url": "https://news.slashdot.org/story/26/08/07/2142258/virginia-governor-to-intervene-in-dominion-nextera-merger?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader schwit1 shares an opinion piece from the Washington Post, written by Virginia Governor Abigail Spanberger: NextEra Energy, a Florida-based utility company, has filed paperwork to buy Dominion Energy for about $67 billion, creating the largest regulated electric utility in the world. Virginia's State Corporation Commission is the regulatory body tasked with reviewing the application, and the SCC's commissioners will ultimately decide whether to approve, deny or impose new",
+      "published": "2026-08-07T23:00:00+00:00"
+    },
     {
       "source": "SLASHDOT",
       "title": "Water Utilities Group Partners With DEF CON Offshoot For Water Watch Center",
@@ -32,7 +44,7 @@
       "source": "HACKER NEWS",
       "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "summary": "49 points · 25 comments",
+      "summary": "81 points · 45 comments",
       "published": "2026-08-07T21:19:57+00:00"
     },
     {
@@ -95,21 +107,21 @@
       "source": "HACKER NEWS",
       "title": "App Store Rejection of the Week: Dark Hours",
       "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "summary": "211 points · 112 comments",
+      "summary": "250 points · 131 comments",
       "published": "2026-08-07T18:59:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Psychological Warfare in Reverse Engineering (2015)",
       "url": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "34 points · 2 comments",
+      "summary": "39 points · 2 comments",
       "published": "2026-08-07T18:51:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "summary": "103 points · 35 comments",
+      "summary": "124 points · 43 comments",
       "published": "2026-08-07T18:51:14+00:00"
     },
     {
@@ -127,13 +139,6 @@
       "published": "2026-08-07T18:29:08+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-      "url": "https://www.reddit.com/r/netsec/comments/1vi8ibp/tldv_too_lazy_didnt_validate_181874_meetings_left/",
-      "summary": "The meetings collection has no tenant isolation. Any authenticated tl;dv user can query every meeting across every account on the platform. Each meeting record hands you the creator's email address, the conference ID (which is a joinable Google Meet or Teams room), the provider, the recording status, and timestamps. I queried the Firestore meetings collection and saw there were 181,874 meeting records belonging to 84,312 unique users across 35,003 email domains . submitted by /u/kochurshak [link",
-      "published": "2026-08-07T18:23:05+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
       "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
@@ -144,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "195 points · 44 comments",
+      "summary": "218 points · 45 comments",
       "published": "2026-08-07T18:01:30+00:00"
     },
     {
@@ -158,14 +163,14 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "353 points · 214 comments",
+      "summary": "386 points · 236 comments",
       "published": "2026-08-07T17:56:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "333 points · 232 comments",
+      "summary": "351 points · 238 comments",
       "published": "2026-08-07T17:36:30+00:00"
     },
     {
@@ -186,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "135 points · 152 comments",
+      "summary": "144 points · 161 comments",
       "published": "2026-08-07T16:39:36+00:00"
     },
     {
@@ -221,22 +226,8 @@
       "source": "HACKER NEWS",
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "summary": "124 points · 33 comments",
+      "summary": "130 points · 33 comments",
       "published": "2026-08-07T15:24:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Möbius-Strip Crosswords",
-      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "summary": "47 points · 4 comments",
-      "published": "2026-08-07T15:10:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "TrustFall: When the Trusted Execution Environment Cannot Be Trusted",
-      "url": "https://www.reddit.com/r/netsec/comments/1vi380e/trustfall_when_the_trusted_execution_environment/",
-      "summary": "ByteRay researchers have published a blog on a set of vulnerabilities they are calling TrustFall, and the findings land hard for any company that treats the Trusted Execution Environment as the part of a device you do not have to worry about. OP-TEE is the walled-off Secure World that phones, TVs, cars, and industrial gear lean on to guard keys, DRM, and identity, and the whole point of paying for that hardware isolation is the promise that even a compromised operating system cannot reach inside",
-      "published": "2026-08-07T15:08:07+00:00"
     },
     {
       "source": "REDDIT",
@@ -277,14 +268,14 @@
       "source": "HACKER NEWS",
       "title": "Radical Study Suggests Life on Earth Arose Twice",
       "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-      "summary": "73 points · 75 comments",
+      "summary": "78 points · 76 comments",
       "published": "2026-08-07T12:45:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "294 points · 431 comments",
+      "summary": "343 points · 481 comments",
       "published": "2026-08-07T12:42:27+00:00"
     },
     {
@@ -326,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "summary": "220 points · 96 comments",
+      "summary": "229 points · 106 comments",
       "published": "2026-08-07T11:00:35+00:00"
     },
     {
@@ -338,9 +329,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "summary": "126 points · 56 comments",
+      "published": "2026-08-07T10:52:21+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
-      "summary": "141 points · 40 comments",
+      "summary": "153 points · 42 comments",
       "published": "2026-08-07T10:42:07+00:00"
     },
     {
@@ -375,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "2027 memory capacity is reportedly sold out",
       "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "summary": "185 points · 166 comments",
+      "summary": "203 points · 188 comments",
       "published": "2026-08-07T07:58:24+00:00"
     },
     {
@@ -407,13 +405,6 @@
       "published": "2026-08-07T03:30:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Court Orders Meta To Establish $567 Million Fund To Abate Harms To Youth",
-      "url": "https://yro.slashdot.org/story/26/08/07/0053247/court-orders-meta-to-establish-567-million-fund-to-abate-harms-to-youth?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A New Mexico court ordered (PDF) Meta to create a $567 million fund to address harms linked to youth mental health and child sexual exploitation after finding its platforms constituted a public nuisance. \"In sum, the Court finds that New Mexico is in the midst of a teen mental health crisis affecting public health and public safety in and throughout the state, and that Meta's platforms are a significant contributing cause to the crisis,\" wrote Chief Judge Bryan Biedscheid in the decision. The fu",
-      "published": "2026-08-07T01:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
@@ -426,13 +417,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
       "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
       "published": "2026-08-06T22:37:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Claude Code RCE: How a Malicious PR Triggers Code Execution",
-      "url": "https://www.reddit.com/r/netsec/comments/1vhh5xw/claude_code_rce_how_a_malicious_pr_triggers_code/",
-      "summary": "Abusing the trust boundary in Claude Code for RCE. Trust is never broken and that opens up a few avenues for abuse. Simply opening claude code on a PR can be enough to silently trigger attacker payloads. submitted by /u/kev-thehermit [link] [comments]",
-      "published": "2026-08-06T21:22:53+00:00"
     },
     {
       "source": "OSINT",
@@ -477,59 +461,10 @@
       "published": "2026-08-06T14:02:12+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "From wallet drains to a 12-year-old CryptoJS entropy bug: the Ill Bloom investigation",
-      "url": "https://www.reddit.com/r/netsec/comments/1vgr9gv/from_wallet_drains_to_a_12yearold_cryptojs/",
-      "summary": "submitted by /u/coinspect [link] [comments]",
-      "published": "2026-08-06T02:12:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Stored XSS in Django's admin via an unvalidated URLField display path (CVE-2026-15920)",
-      "url": "https://www.reddit.com/r/netsec/comments/1vg9704/stored_xss_in_djangos_admin_via_an_unvalidated/",
-      "summary": "submitted by /u/Sandwich_1337 [link] [comments]",
-      "published": "2026-08-05T14:38:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "New Linux Bridge STP Vulnerability",
-      "url": "https://www.reddit.com/r/netsec/comments/1vg20wg/new_linux_bridge_stp_vulnerability/",
-      "summary": "A use-after-free vulnerability in the Linux kernel bridge (net/bridge) Spanning Tree Protocol (STP) implementation. A bridge that is administratively down while kernel STP is enabled, together with a port driven into the LEARNING state, arms periodic STP timers without an IFF_UP guard. The teardown path taken by dellink never synchronously deletes those timers, so the backing net_device (which embeds struct net bridge as private data) is freed with a timer list still queued on a per-CPU timer ba",
-      "published": "2026-08-05T09:04:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Bugtraq is back 🥹",
-      "url": "https://www.reddit.com/r/netsec/comments/1vfpmhg/bugtraq_is_back/",
-      "summary": "submitted by /u/loselasso [link] [comments]",
-      "published": "2026-08-04T22:48:37+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hardware Hacking: From zero to a Pre-Auth Stack Buffer Overflow on Amazon's best-selling router",
-      "url": "https://www.reddit.com/r/netsec/comments/1vfdep6/hardware_hacking_from_zero_to_a_preauth_stack/",
-      "summary": "submitted by /u/Internal-Key64 [link] [comments]",
-      "published": "2026-08-04T15:21:21+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "HEVD: From Stack Overflows to Modern Pool Grooming",
-      "url": "https://www.reddit.com/r/netsec/comments/1vf5zwc/hevd_from_stack_overflows_to_modern_pool_grooming/",
-      "summary": "Hi. I just published a four-part deep dive into windows kernel exploitation, progressing from classic control flow hijacking to modern pool grooming and pure data-only attacks on windows 11. I wanted to highlight the real-world friction of modern security measures. A lot of the focus is on mitigating LFH randomization, and avoiding IoCompleteRequest bugchecks by dodging ReadFile for arbitrary reads. Hope this is helpful or insightful to some of you looking into modern kernel exploitation. submit",
-      "published": "2026-08-04T10:01:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Jackpot: a browser lab of 10 deliberately vulnerable LLM apps, one per OWASP LLM Top 10 category",
-      "url": "https://www.reddit.com/r/netsec/comments/1vet23a/jackpot_a_browser_lab_of_10_deliberately/",
-      "summary": "submitted by /u/callmejackfrost1 [link] [comments]",
-      "published": "2026-08-03T23:08:09+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Guarded Methods in OCaml",
       "url": "https://xvw.lol/en/articles/oop-refl.html",
-      "summary": "38 points · 1 comments",
+      "summary": "45 points · 4 comments",
       "published": "2026-08-03T16:15:44+00:00"
     },
     {
@@ -543,22 +478,15 @@
       "source": "HACKER NEWS",
       "title": "Why are all the amounts values negative?",
       "url": "https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/",
-      "summary": "23 points · 2 comments",
+      "summary": "28 points · 4 comments",
       "published": "2026-08-02T05:53:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Carl's Required Reading",
       "url": "https://carlkolon.com/reading/",
-      "summary": "70 points · 7 comments",
+      "summary": "83 points · 10 comments",
       "published": "2026-08-01T15:51:15+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "r/netsec monthly discussion & tool thread",
-      "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
-      "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely. If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely. Avoid use of mem",
-      "published": "2026-08-01T13:29:06+00:00"
     },
     {
       "source": "OSINT",
@@ -580,6 +508,48 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
       "published": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13T15:03:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08T12:31:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02T19:27:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23T16:12:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+      "published": "2026-06-18T17:37:58+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "2026-06-10T14:03:44+00:00"
     }
   ]
 }
