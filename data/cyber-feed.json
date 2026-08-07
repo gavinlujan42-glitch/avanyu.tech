@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T19:56:06.359052+00:00",
+  "updated": "2026-08-07T20:49:56.600928+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,6 +28,34 @@
   "items": [
     {
       "source": "OSINT",
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+      "published": "2026-08-07T20:14:46+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Metabase customers staying silent about the breach",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vibbx6/metabase_customers_staying_silent_about_the_breach/",
+      "summary": "This start of the week Metabase disclosed that its Cloud service was hit through a 0 day which can give an attacker admin access and potentially expose connected database credentials and the data behind them. Metabase is used across a pretty interesting group of fintech and crypto companies too like Revolut, Privy (Stripe company), Yellow Card etc. But what is shocking to me in this whole mess is why haven’t these Metabase customers acknowledge it publicly? Did they not get affected so they see ",
+      "published": "2026-08-07T20:08:38+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'Asimov Was Right' About Rules For Robots, Says Ex-US Cyber Director",
+      "url": "https://it.slashdot.org/story/26/08/07/1829239/asimov-was-right-about-rules-for-robots-says-ex-us-cyber-director?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Former U.S. National Cyber Director Chris Inglis says the biggest AI risk isn't sentience but autonomy. \"What I'm worried about is that they get to choose what and where they do something, and under what rules they do it,\" he said, citing recent cases of AI agents from OpenAI, Anthropic, and Meta escaping security sandboxes. He argues developers need stronger safeguards, monitoring, and human accountability, invoking Asimov's idea that protecting humans should come before simply obeying them. Th",
+      "published": "2026-08-07T20:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AMA from an average guy with 12 yrs in cyber.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vib1bu/ama_from_an_average_guy_with_12_yrs_in_cyber/",
+      "summary": "Hi, recently I wanted to pivot for an amazing opportunity and couldn’t get the right guidance in time. Felt really bad and disappointed in myself. That gave me a realisation, that I too haven’t offered any support in some time. So here is an Ask me anything. My background (Progressed in the following order) Soc analyst, security engineer, threat hunter, Breach response, Function Lead, Consulting, Enterprise Architect. submitted by /u/elon_Tusk_420 [link] [comments]",
+      "published": "2026-08-07T19:57:48+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "Unlimited Technology Systems breach impacts 3.8 million people",
       "url": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
       "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
@@ -44,21 +72,21 @@
       "source": "HACKER NEWS",
       "title": "App Store Rejection of the Week: Dark Hours",
       "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
-      "summary": "47 points · 13 comments",
+      "summary": "127 points · 38 comments",
       "published": "2026-08-07T18:59:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Psychological Warfare in Reverse Engineering",
       "url": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "3 points · 0 comments",
+      "summary": "13 points · 1 comments",
       "published": "2026-08-07T18:51:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "summary": "24 points · 6 comments",
+      "summary": "41 points · 15 comments",
       "published": "2026-08-07T18:51:14+00:00"
     },
     {
@@ -79,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Databricks drove down AI coding spend 70%",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "40 points · 14 comments",
+      "summary": "98 points · 66 comments",
       "published": "2026-08-07T18:25:17+00:00"
     },
     {
@@ -93,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "82 points · 18 comments",
+      "summary": "121 points · 27 comments",
       "published": "2026-08-07T18:01:30+00:00"
     },
     {
@@ -107,14 +135,21 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "177 points · 113 comments",
+      "summary": "248 points · 155 comments",
       "published": "2026-08-07T17:56:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "url": "https://theclaudyssey.com/",
+      "summary": "28 points · 25 comments",
+      "published": "2026-08-07T17:55:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "229 points · 159 comments",
+      "summary": "266 points · 185 comments",
       "published": "2026-08-07T17:36:30+00:00"
     },
     {
@@ -135,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "100 points · 104 comments",
+      "summary": "109 points · 118 comments",
       "published": "2026-08-07T16:39:36+00:00"
     },
     {
@@ -170,15 +205,8 @@
       "source": "HACKER NEWS",
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "summary": "94 points · 29 comments",
+      "summary": "106 points · 30 comments",
       "published": "2026-08-07T15:24:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Möbius-Strip Crosswords",
-      "url": "https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/",
-      "summary": "35 points · 4 comments",
-      "published": "2026-08-07T15:10:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -198,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "A year of fighting scrapers on my 1.5 million-page website",
       "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
-      "summary": "308 points · 294 comments",
+      "summary": "328 points · 310 comments",
       "published": "2026-08-07T14:51:57+00:00"
     },
     {
@@ -216,13 +244,6 @@
       "published": "2026-08-07T13:34:40+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Best Certificate for DevSecOps",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vi0nvd/best_certificate_for_devsecops/",
-      "summary": "I am a Software Engineer having 3 years of experience in Building Mobile Applications and I want to move onto Cyber Security field and especially DevSecOps and I want some suggesstions from people about which course best suits my purpose here which helps me understand the core concepts with practical example projects built around it for practice. submitted by /u/No_Citron_3305 [link] [comments]",
-      "published": "2026-08-07T13:28:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
       "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
@@ -233,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "125 points · 214 comments",
+      "summary": "186 points · 296 comments",
       "published": "2026-08-07T12:42:27+00:00"
     },
     {
@@ -275,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "summary": "182 points · 83 comments",
+      "summary": "201 points · 89 comments",
       "published": "2026-08-07T11:00:35+00:00"
     },
     {
@@ -296,14 +317,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
       "url": "https://textlog.cc/about",
-      "summary": "102 points · 45 comments",
+      "summary": "110 points · 49 comments",
       "published": "2026-08-07T10:52:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
       "url": "https://blog.cloudflare.com/kitesurf/",
-      "summary": "113 points · 30 comments",
+      "summary": "123 points · 31 comments",
       "published": "2026-08-07T10:42:07+00:00"
     },
     {
@@ -370,13 +391,6 @@
       "published": "2026-08-07T01:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "summary": "674 points · 361 comments",
-      "published": "2026-08-07T00:06:28+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "How I've been hacked by Subdomain Takeover - Shopify - emre.xyz",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vhjrim/how_ive_been_hacked_by_subdomain_takeover_shopify/",
@@ -412,25 +426,11 @@
       "published": "2026-08-06T22:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Azure CTO Pastes Doom Into Paint One Frame At a Time",
-      "url": "https://tech.slashdot.org/story/26/08/06/1840242/azure-cto-pastes-doom-into-paint-one-frame-at-a-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft Azure CTO Mark Russinovich used Claude to build a gloriously impractical setup that runs Doom in the background and pastes each rendered frame into Microsoft Paint through the Windows clipboard. The project is referred to as \"DoomPaint\" or \"MS Paint Doom\" on GitHub. The Register reports: To be clear, Microsoft Paint isn't doing anything other than serving as a place to paste from the game. [...] ViZDoom runs the Doom .wad file and renders it headlessly. Each frame is passed through the",
-      "published": "2026-08-06T21:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
       "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
       "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
       "published": "2026-08-06T20:07:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Despite federal warnings, thousands of U.S. industrial controllers used in water systems remain exposed online",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vhdrma/despite_federal_warnings_thousands_of_us/",
-      "summary": "A new scan of internet-connected industrial equipment found over 4,000 Rockwell Automation and Allen-Bradley controllers exposed online, including 22 in cities impacted by cyberattacks on U.S. water systems. https://cyberscoop.com/exposed-rockwell-controllers-water-system-attacks/ submitted by /u/drewchainzz [link] [comments]",
-      "published": "2026-08-06T19:14:00+00:00"
     },
     {
       "source": "OSINT",
@@ -468,18 +468,18 @@
       "published": "2026-08-06T14:02:12+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-      "published": "2026-08-05T23:00:50+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Why Are There Statues of Beavers on Top of This Oxford Street Shop?",
       "url": "https://londonist.com/london/history/oxford-street-beavers",
-      "summary": "41 points · 18 comments",
+      "summary": "44 points · 19 comments",
       "published": "2026-08-03T16:52:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Guarded Methods in OCaml",
+      "url": "https://xvw.lol/en/articles/oop-refl.html",
+      "summary": "11 points · 0 comments",
+      "published": "2026-08-03T16:15:44+00:00"
     },
     {
       "source": "REDDIT",
@@ -492,7 +492,7 @@
       "source": "HACKER NEWS",
       "title": "Carl's Required Reading",
       "url": "https://carlkolon.com/reading/",
-      "summary": "12 points · 0 comments",
+      "summary": "33 points · 2 comments",
       "published": "2026-08-01T15:51:15+00:00"
     },
     {
