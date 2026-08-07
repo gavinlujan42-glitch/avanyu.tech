@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-07T13:51:25.156747+00:00",
-  "item_count": 73,
+  "updated": "2026-08-07T14:59:57.115250+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,34 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "99% of My Website Traffic Is Bots",
+      "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+      "summary": "3 points · 1 comments",
+      "published": "2026-08-07T14:51:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US's largest newspaper chain partners with Palantir to analyze audience data",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "summary": "54 points · 15 comments",
+      "published": "2026-08-07T14:02:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+      "published": "2026-08-07T14:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "U.S. Lost 23,000 Jobs in July, While Unemployment Ticked Lower",
+      "url": "https://www.wsj.com/economy/jobs/july-jobs-report-unemployment-0d7c08a7",
+      "summary": "43 points · 2 comments",
+      "published": "2026-08-07T13:39:45+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "North Carolina Ports confirms cyberattack disrupting operations",
       "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
@@ -37,36 +65,22 @@
       "source": "HACKER NEWS",
       "title": "The web server deployment model breaks at hobby scale",
       "url": "https://w.on-t.work/web-deployment-model",
-      "summary": "20 points · 8 comments",
+      "summary": "46 points · 35 comments",
       "published": "2026-08-07T13:15:36+00:00"
     },
     {
       "source": "OSINT",
       "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
       "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. Under additional conditions, the bug can be chained into PHP code execution on the server. Tracked as CVE-2026-64638 (CVSS score: 8.9), the High-severity vulnerability requires no attacker privileges. According to pwn.ai,",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the",
       "published": "2026-08-07T12:56:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Radical Study Suggests Life on Earth Arose Twice",
-      "url": "https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice",
-      "summary": "10 points · 1 comments",
-      "published": "2026-08-07T12:45:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
       "url": "https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138",
-      "summary": "72 points · 22 comments",
+      "summary": "218 points · 147 comments",
       "published": "2026-08-07T12:42:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why is Everyone in Tech so sad?",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "19 points · 17 comments",
-      "published": "2026-08-07T12:42:27+00:00"
     },
     {
       "source": "REDDIT",
@@ -81,6 +95,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vhzilh/meta_says_its_ai_model_hacked_into_another/",
       "summary": "My model is better at attacking than yours /s What’s going on here with these companies? What kind of ad would this even be? submitted by /u/squarcia [link] [comments]",
       "published": "2026-08-07T12:39:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Wyzer Programming Language",
+      "url": "https://github.com/Wyzer-Lang/wyzer",
+      "summary": "45 points · 19 comments",
+      "published": "2026-08-07T12:28:55+00:00"
     },
     {
       "source": "OSINT",
@@ -118,11 +139,25 @@
       "published": "2026-08-07T11:10:33+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Radical Study Suggests Life on Earth Arose Twice",
+      "url": "https://science.slashdot.org/story/26/08/07/0059221/radical-study-suggests-life-on-earth-arose-twice?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A new study argues that life may have emerged twice on Earth. \"Two of the main lineages of life -- bacteria and archaea -- may have independently figured out the secrets of metabolism that upgraded them from non-living to living,\" reports ScienceAlert, citing a new study that \"focused on the most rudimentary set of chemical reactions thought to enable this transformation.\" From the report: \"The surprise is that the enzymes that catalyze those reactions are not conserved across the evolutionary d",
+      "published": "2026-08-07T11:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
-      "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "summary": "9 points · 2 comments",
-      "published": "2026-08-07T11:00:35+00:00"
+      "title": "Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",
+      "url": "https://textlog.cc/about",
+      "summary": "13 points · 0 comments",
+      "published": "2026-08-07T10:52:21+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "summary": "36 points · 7 comments",
+      "published": "2026-08-07T10:42:07+00:00"
     },
     {
       "source": "OSINT",
@@ -135,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
       "url": "https://www.bbc.com/news/articles/c1e1vg0gjl5o",
-      "summary": "498 points · 466 comments",
+      "summary": "657 points · 608 comments",
       "published": "2026-08-07T10:28:55+00:00"
     },
     {
@@ -191,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "New Mexico court orders Meta to pay $567m over harms to children’s mental health",
       "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "summary": "434 points · 253 comments",
+      "summary": "479 points · 267 comments",
       "published": "2026-08-07T00:06:28+00:00"
     },
     {
@@ -231,16 +266,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
-      "summary": "179 points · 27 comments",
-      "published": "2026-08-06T21:52:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
-      "summary": "165 points · 46 comments",
+      "summary": "173 points · 49 comments",
       "published": "2026-08-06T21:18:32+00:00"
     },
     {
@@ -254,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "summary": "747 points · 571 comments",
+      "summary": "766 points · 581 comments",
       "published": "2026-08-06T20:23:11+00:00"
     },
     {
@@ -322,16 +350,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "summary": "265 points · 219 comments",
-      "published": "2026-08-06T17:02:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Taste Is All That's Left",
       "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
-      "summary": "526 points · 391 comments",
+      "summary": "552 points · 417 comments",
       "published": "2026-08-06T17:01:33+00:00"
     },
     {
@@ -368,20 +389,6 @@
       "url": "https://it.slashdot.org/story/26/08/06/1547259/meta-ai-hacked-external-systems-during-cybersecurity-testing?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "wiredmikey shares a report from SecurityWeek: Meta is the latest major AI developer to admit that its models broke loose during cybersecurity testing and hacked external systems. The tech giant said in a statement to the media on Wednesday that the incident occurred during independent evaluations conducted by Israeli AI security startup Irregular. The tested AI models were inadvertently allowed to access the internet due to a misconfiguration, which led them to exploit a vulnerability in an unna",
       "published": "2026-08-06T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-      "url": "https://provenmetal.com",
-      "summary": "213 points · 150 comments",
-      "published": "2026-08-06T15:59:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "summary": "437 points · 363 comments",
-      "published": "2026-08-06T15:49:38+00:00"
     },
     {
       "source": "REDDIT",
@@ -433,24 +440,17 @@
       "published": "2026-08-05T19:55:25+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "COLDCARD security audit phishing attack installs remote access tool",
-      "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
-      "published": "2026-08-05T17:49:41+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
       "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
-      "summary": "266 points · 53 comments",
+      "summary": "276 points · 53 comments",
       "published": "2026-08-05T15:33:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A quine in Piet – a GIF image that prints itself [video]",
       "url": "https://www.youtube.com/watch?v=GwMtzhjCzyc",
-      "summary": "37 points · 2 comments",
+      "summary": "53 points · 3 comments",
       "published": "2026-08-03T14:20:45+00:00"
     },
     {
@@ -462,9 +462,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Thoroughly Understanding C++ ABI",
+      "url": "https://ykiko.me/en/articles/692886292/",
+      "summary": "18 points · 10 comments",
+      "published": "2026-08-02T14:58:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "São Paulo resident transforms degraded area into urban forest",
       "url": "https://saopaulosecreto.com/en/tiquatira-linear-park-en/",
-      "summary": "202 points · 87 comments",
+      "summary": "227 points · 95 comments",
       "published": "2026-08-01T21:02:26+00:00"
     },
     {
@@ -478,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "TypeStax: A type scale generator with vintage audio hardware interface",
       "url": "https://www.typestax.com/",
-      "summary": "16 points · 6 comments",
+      "summary": "24 points · 7 comments",
       "published": "2026-07-30T16:46:59+00:00"
     },
     {
