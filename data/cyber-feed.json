@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T07:54:01.094228+00:00",
-  "item_count": 76,
+  "updated": "2026-08-08T08:51:04.523217+00:00",
+  "item_count": 58,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -23,16 +23,13 @@
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
+    },
+    {
+      "source": "HACKER NEWS",
+      "error": "URLError"
     }
   ],
   "items": [
-    {
-      "source": "HACKER NEWS",
-      "title": "Hardware backdoors in some x86 CPUs",
-      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
-      "summary": "11 points · 1 comments",
-      "published": "2026-08-08T07:04:51+00:00"
-    },
     {
       "source": "SLASHDOT",
       "title": "Woman Pulled From Car at Gunpoint By Police After Mistaken Flock Alert - Twice",
@@ -76,20 +73,6 @@
       "published": "2026-08-08T03:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "summary": "209 points · 35 comments",
-      "published": "2026-08-08T01:49:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "summary": "273 points · 126 comments",
-      "published": "2026-08-08T01:12:45+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "ECCPT CERT",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vigukn/eccpt_cert/",
@@ -102,13 +85,6 @@
       "url": "https://news.slashdot.org/story/26/08/07/2142258/virginia-governor-to-intervene-in-dominion-nextera-merger?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot reader schwit1 shares an opinion piece from the Washington Post, written by Virginia Governor Abigail Spanberger: NextEra Energy, a Florida-based utility company, has filed paperwork to buy Dominion Energy for about $67 billion, creating the largest regulated electric utility in the world. Virginia's State Corporation Commission is the regulatory body tasked with reviewing the application, and the SCC's commissioners will ultimately decide whether to approve, deny or impose new",
       "published": "2026-08-07T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "summary": "209 points · 70 comments",
-      "published": "2026-08-07T22:24:27+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -174,13 +150,6 @@
       "published": "2026-08-07T19:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "summary": "198 points · 59 comments",
-      "published": "2026-08-07T18:51:14+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
       "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
@@ -195,13 +164,6 @@
       "published": "2026-08-07T18:29:08+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "222 points · 196 comments",
-      "published": "2026-08-07T18:25:17+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
       "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
@@ -209,32 +171,11 @@
       "published": "2026-08-07T18:16:13+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "324 points · 82 comments",
-      "published": "2026-08-07T18:01:30+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Suno Says It Will Start Watermarking Songs",
       "url": "https://entertainment.slashdot.org/story/26/08/07/1710226/suno-says-it-will-start-watermarking-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Suno says it will begin watermarking and fingerprinting AI-generated songs, tighten download policies to curb mass distribution, and explicitly prohibit deceptive audio and unauthorized voice or likeness cloning. The changes come as the company faces mounting copyright lawsuits, a recent adverse ruling in Germany, and scrutiny over a past data breach that revealed training-data sources. TechCrunch reports: In a blog post, co-founder and CEO Mikey Shulman shared core principles and said that the ",
       "published": "2026-08-07T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "590 points · 352 comments",
-      "published": "2026-08-07T17:56:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "452 points · 308 comments",
-      "published": "2026-08-07T17:36:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -249,13 +190,6 @@
       "url": "https://slashdot.org/story/26/08/07/174223/bytedance-is-training-a-10-trillion-parameter-model-to-chase-the-frontier?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "ByteDance is reportedly training an AI model with roughly 10 trillion parameters as it tries to close the gap with leading frontier systems such as Anthropic's Mythos. The model is still in early pre-training, and its eventual performance will depend on more than scale alone, but the project underscores how aggressively Chinese firms are pushing frontier AI despite limits on access to advanced chips. The Next Web reports: The size is itself the statement. At roughly 10 trillion parameters, the m",
       "published": "2026-08-07T17:07:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "179 points · 174 comments",
-      "published": "2026-08-07T16:39:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -277,13 +211,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
       "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
       "published": "2026-08-07T15:48:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "summary": "162 points · 37 comments",
-      "published": "2026-08-07T15:24:53+00:00"
     },
     {
       "source": "REDDIT",
@@ -319,13 +246,6 @@
       "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
       "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the",
       "published": "2026-08-07T12:56:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "588 points · 670 comments",
-      "published": "2026-08-07T12:42:27+00:00"
     },
     {
       "source": "REDDIT",
@@ -391,13 +311,6 @@
       "published": "2026-08-07T10:09:54+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "2027 memory capacity is reportedly sold out",
-      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "summary": "336 points · 306 comments",
-      "published": "2026-08-07T07:58:24+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
@@ -454,46 +367,11 @@
       "published": "2026-08-06T14:02:12+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
-      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "summary": "136 points · 21 comments",
-      "published": "2026-08-05T21:44:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
-      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
-      "summary": "57 points · 23 comments",
-      "published": "2026-08-04T16:32:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How the 'fecal revolution' changed Earth's ecosystems",
-      "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
-      "summary": "10 points · 1 comments",
-      "published": "2026-08-04T14:33:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
-      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-      "summary": "10 points · 0 comments",
-      "published": "2026-08-04T14:21:50+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-03T00:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "SupererDuperer",
-      "url": "https://www.shirtpocket.com/blog/supererduperer",
-      "summary": "90 points · 16 comments",
-      "published": "2026-08-01T15:26:29+00:00"
     },
     {
       "source": "OSINT",
