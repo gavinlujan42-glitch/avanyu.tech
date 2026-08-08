@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T02:04:35.884153+00:00",
-  "item_count": 76,
+  "updated": "2026-08-08T03:40:43.347393+00:00",
+  "item_count": 66,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -23,14 +23,33 @@
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
+    },
+    {
+      "source": "OSINT",
+      "url": "https://krebsonsecurity.com/feed/",
+      "error": "HTTPError"
     }
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Trump Administration To Pay German Firm $1.2 Billion To Halt US Wind Projects",
+      "url": "https://hardware.slashdot.org/story/26/08/07/2157219/trump-administration-to-pay-german-firm-12-billion-to-halt-us-wind-projects?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from the BBC: German energy company RWE has said it will abandon its offshore wind projects in the U.S. after reaching a $1.2 billion payout deal with President Donald Trump's Department of the Interior (DoI). RWE said that it will now reinvest the sum into conventional gas projects, including $900 million in a liquefied natural gas (LNG) export terminal project in Louisiana. \"After careful consideration, it was determined there is no path forward to permit th",
+      "published": "2026-08-08T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "summary": "64 points · 9 comments",
+      "published": "2026-08-08T01:49:11+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "The Nixpkgs core team has disbanded",
       "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "summary": "40 points · 6 comments",
+      "summary": "150 points · 63 comments",
       "published": "2026-08-08T01:12:45+00:00"
     },
     {
@@ -51,7 +70,7 @@
       "source": "HACKER NEWS",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
-      "summary": "93 points · 39 comments",
+      "summary": "137 points · 49 comments",
       "published": "2026-08-07T22:24:27+00:00"
     },
     {
@@ -65,7 +84,7 @@
       "source": "HACKER NEWS",
       "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "summary": "127 points · 87 comments",
+      "summary": "147 points · 99 comments",
       "published": "2026-08-07T21:19:57+00:00"
     },
     {
@@ -128,14 +147,14 @@
       "source": "HACKER NEWS",
       "title": "Psychological Warfare in Reverse Engineering (2015)",
       "url": "https://github.com/xoreaxeaxeax/repsych",
-      "summary": "52 points · 2 comments",
+      "summary": "56 points · 2 comments",
       "published": "2026-08-07T18:51:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "summary": "151 points · 51 comments",
+      "summary": "166 points · 55 comments",
       "published": "2026-08-07T18:51:14+00:00"
     },
     {
@@ -156,7 +175,7 @@
       "source": "HACKER NEWS",
       "title": "Managing AI Coding Costs at Scale",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "168 points · 173 comments",
+      "summary": "180 points · 179 comments",
       "published": "2026-08-07T18:25:17+00:00"
     },
     {
@@ -170,7 +189,7 @@
       "source": "HACKER NEWS",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "256 points · 58 comments",
+      "summary": "273 points · 65 comments",
       "published": "2026-08-07T18:01:30+00:00"
     },
     {
@@ -184,14 +203,14 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "471 points · 282 comments",
+      "summary": "503 points · 304 comments",
       "published": "2026-08-07T17:56:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "393 points · 259 comments",
+      "summary": "409 points · 278 comments",
       "published": "2026-08-07T17:36:30+00:00"
     },
     {
@@ -212,7 +231,7 @@
       "source": "HACKER NEWS",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "155 points · 167 comments",
+      "summary": "167 points · 168 comments",
       "published": "2026-08-07T16:39:36+00:00"
     },
     {
@@ -247,7 +266,7 @@
       "source": "HACKER NEWS",
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "summary": "143 points · 35 comments",
+      "summary": "151 points · 37 comments",
       "published": "2026-08-07T15:24:53+00:00"
     },
     {
@@ -289,7 +308,7 @@
       "source": "HACKER NEWS",
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "430 points · 541 comments",
+      "summary": "481 points · 571 comments",
       "published": "2026-08-07T12:42:27+00:00"
     },
     {
@@ -331,7 +350,7 @@
       "source": "HACKER NEWS",
       "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
       "url": "https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/",
-      "summary": "250 points · 118 comments",
+      "summary": "262 points · 124 comments",
       "published": "2026-08-07T11:00:35+00:00"
     },
     {
@@ -380,7 +399,7 @@
       "source": "HACKER NEWS",
       "title": "2027 memory capacity is reportedly sold out",
       "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "summary": "244 points · 229 comments",
+      "summary": "276 points · 258 comments",
       "published": "2026-08-07T07:58:24+00:00"
     },
     {
@@ -396,13 +415,6 @@
       "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
       "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is supported by overlapping domains, malware deployment paths, staging techniques, backend infrastructure,",
       "published": "2026-08-07T06:50:05+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Scientists Make First Viruses Designed By AI",
-      "url": "https://science.slashdot.org/story/26/08/06/1824255/scientists-make-first-viruses-designed-by-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Guardian: Scientists have made the first viruses designed by artificial intelligence in a milestone that raises hopes for new medicines but also concerns over how to ensure the technology remains safe. The viruses are specific kinds known as bacteriophages, which only infect bacteria and are used around the world to treat patients with persistent infections. In lab tests, a cocktail of the AI-designed viruses killed E coli bugs that were resistant to ",
-      "published": "2026-08-07T03:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -441,13 +453,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
-      "published": "2026-08-06T17:00:56+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Meta AI model hacked a company during misconfigured cyber test",
       "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
       "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
@@ -462,16 +467,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
-      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
-      "summary": "15 points · 3 comments",
-      "published": "2026-08-04T16:32:08+00:00"
+      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-05T21:44:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Guarded Methods in OCaml (2025)",
       "url": "https://xvw.lol/en/articles/oop-refl.html",
-      "summary": "56 points · 5 comments",
+      "summary": "57 points · 5 comments",
       "published": "2026-08-03T16:15:44+00:00"
     },
     {
@@ -483,80 +488,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Captain Bible Reverse Engineering",
-      "url": "https://github.com/peterkelly/captain-bible-re",
-      "summary": "13 points · 3 comments",
-      "published": "2026-08-02T17:38:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Carl's Required Reading",
-      "url": "https://carlkolon.com/reading/",
-      "summary": "101 points · 11 comments",
-      "published": "2026-08-01T15:51:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "published": "2026-07-30T16:49:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-      "published": "2026-07-22T01:10:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "published": "2026-07-14T19:22:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "2026-07-13T15:03:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-      "published": "2026-07-08T12:31:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
-      "published": "2026-07-02T19:27:33+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-      "published": "2026-06-23T16:12:49+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-      "published": "2026-06-18T17:37:58+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "published": "2026-06-10T14:03:44+00:00"
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "summary": "34 points · 0 comments",
+      "published": "2026-08-01T15:26:29+00:00"
     }
   ]
 }
