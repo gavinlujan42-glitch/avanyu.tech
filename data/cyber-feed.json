@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T08:51:04.523217+00:00",
-  "item_count": 58,
+  "updated": "2026-08-08T09:45:07.404352+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -23,13 +23,44 @@
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
-    },
-    {
-      "source": "HACKER NEWS",
-      "error": "URLError"
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "Developed a beginner-level firewall for LLMs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1virh5t/developed_a_beginnerlevel_firewall_for_llms/",
+      "summary": "Link - https://fortifyllm-production.up.railway.app/demo I'm currently a TY/junior in college, me and my mates were brainstorming topics for our semester group project and this was one of the ideas that we had thought of (after going through research papers and Github repos😁). Ended up doing something else. Recently had some spare time on my hands and got back to this. So this is a two-tiered (heuristic layer + ML classifier) firewall which tries to catch injection/jailbreak attempts before they",
+      "published": "2026-08-08T09:25:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "DEF CON Talk: 8 in 10 Banks in Belgium HATE This One Weird eID RCE",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1virfs2/def_con_talk_8_in_10_banks_in_belgium_hate_this/",
+      "summary": "Just presented these findings at DEF CON feel free to ask me questions submitted by /u/acorn222 [link] [comments]",
+      "published": "2026-08-08T09:23:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was",
+      "published": "2026-08-08T08:54:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email. PortSwigger researcher Gareth",
+      "published": "2026-08-08T08:03:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "summary": "86 points · 23 comments",
+      "published": "2026-08-08T07:04:51+00:00"
+    },
     {
       "source": "SLASHDOT",
       "title": "Woman Pulled From Car at Gunpoint By Police After Mistaken Flock Alert - Twice",
@@ -73,11 +104,18 @@
       "published": "2026-08-08T03:30:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "ECCPT CERT",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vigukn/eccpt_cert/",
-      "summary": "guys if anyone got the ECCPT and got Penetration Testing Professional course , if you can give me your account to solve labs or watch the course from it please? submitted by /u/Lazy-Log-6257 [link] [comments]",
-      "published": "2026-08-07T23:59:25+00:00"
+      "source": "HACKER NEWS",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "summary": "233 points · 43 comments",
+      "published": "2026-08-08T01:49:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Nixpkgs core team has disbanded",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "summary": "297 points · 141 comments",
+      "published": "2026-08-08T01:12:45+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -87,18 +125,18 @@
       "published": "2026-08-07T23:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "summary": "232 points · 80 comments",
+      "published": "2026-08-07T22:24:27+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Water Utilities Group Partners With DEF CON Offshoot For Water Watch Center",
       "url": "https://it.slashdot.org/story/26/08/07/2137206/water-utilities-group-partners-with-def-con-offshoot-for-water-watch-center?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The National Rural Water Association has partnered with DEF CON Franklin to launch the Water Watch Center, which will provide threat intelligence and cybersecurity services to smaller U.S. water utilities serving fewer than 10,000 people. The initiative comes amid a growing wave of cyberattacks on water systems across multiple states. The Record reports: The program will see five managed detection and response providers work with DEF CON Franklin and the NRWA to offer cyber services for water ut",
       "published": "2026-08-07T22:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Any recommendation for ransomware specific tools?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vid10j/any_recommendation_for_ransomware_specific_tools/",
-      "summary": "What the title says^ Given and influx in recent ransomware incidents my company is looking to add another additional layer of security. We are evaluating a couple platforms internally. Wanted to see if anybody has recommendations in this space. Edit: We already have a fairly mature security stack: EDR, immutable backups, SIEM, strong identity controls/MFA, segmentation, etc. My team is specifically looking at tools purpose-built for ransomware rather than another general endpoint/security platfo",
-      "published": "2026-08-07T21:15:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -150,6 +188,13 @@
       "published": "2026-08-07T19:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "summary": "206 points · 65 comments",
+      "published": "2026-08-07T18:51:14+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
       "url": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
@@ -164,6 +209,13 @@
       "published": "2026-08-07T18:29:08+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "summary": "236 points · 201 comments",
+      "published": "2026-08-07T18:25:17+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
       "url": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
@@ -171,11 +223,25 @@
       "published": "2026-08-07T18:16:13+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "summary": "344 points · 85 comments",
+      "published": "2026-08-07T18:01:30+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Suno Says It Will Start Watermarking Songs",
       "url": "https://entertainment.slashdot.org/story/26/08/07/1710226/suno-says-it-will-start-watermarking-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Suno says it will begin watermarking and fingerprinting AI-generated songs, tighten download policies to curb mass distribution, and explicitly prohibit deceptive audio and unauthorized voice or likeness cloning. The changes come as the company faces mounting copyright lawsuits, a recent adverse ruling in Germany, and scrutiny over a past data breach that revealed training-data sources. TechCrunch reports: In a blog post, co-founder and CEO Mikey Shulman shared core principles and said that the ",
       "published": "2026-08-07T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "summary": "624 points · 375 comments",
+      "published": "2026-08-07T17:56:20+00:00"
     },
     {
       "source": "REDDIT",
@@ -190,6 +256,13 @@
       "url": "https://slashdot.org/story/26/08/07/174223/bytedance-is-training-a-10-trillion-parameter-model-to-chase-the-frontier?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "ByteDance is reportedly training an AI model with roughly 10 trillion parameters as it tries to close the gap with leading frontier systems such as Anthropic's Mythos. The model is still in early pre-training, and its eventual performance will depend on more than scale alone, but the project underscores how aggressively Chinese firms are pushing frontier AI despite limits on access to advanced chips. The Next Web reports: The size is itself the statement. At roughly 10 trillion parameters, the m",
       "published": "2026-08-07T17:07:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "summary": "183 points · 175 comments",
+      "published": "2026-08-07T16:39:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -211,6 +284,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
       "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
       "published": "2026-08-07T15:48:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An all-sky map of half a million supermassive black holes",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "summary": "169 points · 38 comments",
+      "published": "2026-08-07T15:24:53+00:00"
     },
     {
       "source": "REDDIT",
@@ -244,8 +324,15 @@
       "source": "OSINT",
       "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
       "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the high-severity",
       "published": "2026-08-07T12:56:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "summary": "657 points · 723 comments",
+      "published": "2026-08-07T12:42:27+00:00"
     },
     {
       "source": "REDDIT",
@@ -297,18 +384,11 @@
       "published": "2026-08-07T10:58:38+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "url": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,",
-      "published": "2026-08-07T10:38:27+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "url": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where",
-      "published": "2026-08-07T10:09:54+00:00"
+      "source": "HACKER NEWS",
+      "title": "2027 memory capacity is reportedly sold out",
+      "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
+      "summary": "363 points · 322 comments",
+      "published": "2026-08-07T07:58:24+00:00"
     },
     {
       "source": "OSINT",
@@ -367,11 +447,53 @@
       "published": "2026-08-06T14:02:12+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "summary": "194 points · 37 comments",
+      "published": "2026-08-05T21:44:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
+      "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
+      "summary": "80 points · 30 comments",
+      "published": "2026-08-04T16:32:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
+      "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
+      "summary": "15 points · 0 comments",
+      "published": "2026-08-04T14:21:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tell Abu Hureyra (prehistoric archaeological site)",
+      "url": "https://en.wikipedia.org/wiki/Tell_Abu_Hureyra",
+      "summary": "4 points · 0 comments",
+      "published": "2026-08-03T17:11:51+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-03T00:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ao486: x86-compatible Verilog core implementing all features of a 486 SX (2014)",
+      "url": "https://github.com/alfikpl/ao486",
+      "summary": "15 points · 1 comments",
+      "published": "2026-08-02T04:53:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "SupererDuperer",
+      "url": "https://www.shirtpocket.com/blog/supererduperer",
+      "summary": "103 points · 20 comments",
+      "published": "2026-08-01T15:26:29+00:00"
     },
     {
       "source": "OSINT",
