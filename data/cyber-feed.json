@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T07:03:34.714484+00:00",
+  "updated": "2026-08-08T07:54:01.094228+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,39 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "summary": "11 points · 1 comments",
+      "published": "2026-08-08T07:04:51+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Woman Pulled From Car at Gunpoint By Police After Mistaken Flock Alert - Twice",
       "url": "https://yro.slashdot.org/story/26/08/08/042259/woman-pulled-from-car-at-gunpoint-by-police-after-mistaken-flock-alert---twice?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The police surrounded her car Thursday, \"drew their guns, and told her to come out with her hands up,\" reports a local news station. The police thought they were pulling over a murder suspect, but \"It turns out it was a mistake by another department with the Flock license plate reader technology.\" The black woman says she'd wanted to call her mother, \"but I'm like, if I make a sudden move, it's going to be over. It's going to end my life.\" And amazingly, the same thing happened Monday, according",
       "published": "2026-08-08T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
+      "published": "2026-08-08T06:58:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "url": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,\" the company said. \"This is not a duplicate of our",
+      "published": "2026-08-08T06:57:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary",
+      "published": "2026-08-08T06:52:16+00:00"
     },
     {
       "source": "REDDIT",
@@ -49,16 +77,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
       "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "summary": "188 points · 34 comments",
+      "summary": "209 points · 35 comments",
       "published": "2026-08-08T01:49:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Nixpkgs core team has disbanded",
       "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "summary": "264 points · 117 comments",
+      "summary": "273 points · 126 comments",
       "published": "2026-08-08T01:12:45+00:00"
     },
     {
@@ -79,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
       "url": "https://genesisopenmodels.anl.gov/",
-      "summary": "199 points · 66 comments",
+      "summary": "209 points · 70 comments",
       "published": "2026-08-07T22:24:27+00:00"
     },
     {
@@ -149,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
       "url": "https://ancientlibrary.net/",
-      "summary": "189 points · 58 comments",
+      "summary": "198 points · 59 comments",
       "published": "2026-08-07T18:51:14+00:00"
     },
     {
@@ -170,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Managing AI Coding Costs at Scale",
       "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "summary": "215 points · 194 comments",
+      "summary": "222 points · 196 comments",
       "published": "2026-08-07T18:25:17+00:00"
     },
     {
@@ -184,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Assembly Hall of Shame",
       "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "summary": "310 points · 74 comments",
+      "summary": "324 points · 82 comments",
       "published": "2026-08-07T18:01:30+00:00"
     },
     {
@@ -198,14 +226,14 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Flash 0731",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "summary": "565 points · 340 comments",
+      "summary": "590 points · 352 comments",
       "published": "2026-08-07T17:56:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oracle bans AI-generated code from OpenJDK",
       "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "summary": "445 points · 307 comments",
+      "summary": "452 points · 308 comments",
       "published": "2026-08-07T17:36:30+00:00"
     },
     {
@@ -226,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "summary": "177 points · 173 comments",
+      "summary": "179 points · 174 comments",
       "published": "2026-08-07T16:39:36+00:00"
     },
     {
@@ -254,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "An all-sky map of half a million supermassive black holes",
       "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "summary": "159 points · 37 comments",
+      "summary": "162 points · 37 comments",
       "published": "2026-08-07T15:24:53+00:00"
     },
     {
@@ -296,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "summary": "552 points · 641 comments",
+      "summary": "588 points · 670 comments",
       "published": "2026-08-07T12:42:27+00:00"
     },
     {
@@ -363,32 +391,11 @@
       "published": "2026-08-07T10:09:54+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "url": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies",
-      "published": "2026-08-07T08:52:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-      "url": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5.",
-      "published": "2026-08-07T08:18:35+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "2027 memory capacity is reportedly sold out",
       "url": "https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out",
-      "summary": "320 points · 291 comments",
+      "summary": "336 points · 306 comments",
       "published": "2026-08-07T07:58:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
-      "url": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-      "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is supported by overlapping domains, malware deployment paths, staging techniques, backend infrastructure,",
-      "published": "2026-08-07T06:50:05+00:00"
     },
     {
       "source": "OSINT",
@@ -448,31 +455,31 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night",
+      "title": "A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava",
       "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
-      "summary": "102 points · 17 comments",
+      "summary": "136 points · 21 comments",
       "published": "2026-08-05T21:44:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years",
       "url": "https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/",
-      "summary": "45 points · 18 comments",
+      "summary": "57 points · 23 comments",
       "published": "2026-08-04T16:32:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How the 'fecal revolution' changed Earth's ecosystems",
+      "url": "https://phys.org/news/2026-08-fecal-revolution-earth-ecosystems.html",
+      "summary": "10 points · 1 comments",
+      "published": "2026-08-04T14:33:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "From One Seed to a Thousand Leaves – Merkle's Authentication Tree",
       "url": "https://0xkrt26.github.io/math_behind_security/2026/08/03/merkle-tree.html",
-      "summary": "5 points · 0 comments",
+      "summary": "10 points · 0 comments",
       "published": "2026-08-04T14:21:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "As a Windows user, it's a surreal way to install a program",
-      "url": "https://unsung.aresluna.org/as-a-windows-user-its-a-very-surreal-way-to-install-a-program/",
-      "summary": "94 points · 45 comments",
-      "published": "2026-08-04T03:46:49+00:00"
     },
     {
       "source": "REDDIT",
@@ -483,16 +490,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Carl's Required Reading",
-      "url": "https://carlkolon.com/reading/",
-      "summary": "146 points · 20 comments",
-      "published": "2026-08-01T15:51:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "SupererDuperer",
       "url": "https://www.shirtpocket.com/blog/supererduperer",
-      "summary": "81 points · 14 comments",
+      "summary": "90 points · 16 comments",
       "published": "2026-08-01T15:26:29+00:00"
     },
     {
