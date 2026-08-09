@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T11:58:42.386582+00:00",
+  "updated": "2026-08-09T13:04:49.089985+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,34 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Suggestions/opinions on my final year cybersecurity project : malware analysis in sandbox",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjpdhj/suggestionsopinions_on_my_final_year/",
+      "summary": "So far we have created : A file monitoring agent in python that detects new files in watched folders Static analysis Threat intel crosscheck via VirusTotal API(Hash lookup only, no file upload) Weighted risk assessments scoring logic Flask backend and SQLlite for storing scan history Next steps: Dynamic analysis in isolated windows vm with sysmon for process,registry and network monitoring Planning to transfer samples in the VM via one way mounted .ISO file to avoid shared-folder-as-attack-path ",
+      "published": "2026-08-09T13:04:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjpals/hackers_breach_trueconf_to_trojanize_client/",
+      "summary": "submitted by /u/Doug24 [link] [comments]",
+      "published": "2026-08-09T13:00:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
+      "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
+      "summary": "6 points · 3 comments",
+      "published": "2026-08-09T11:46:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Reviving a four year old reMarkable 2",
+      "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+      "summary": "18 points · 8 comments",
+      "published": "2026-08-09T11:39:25+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Flock Camera Vandalism Continues Around America, While 100 Communities Reject ALPRs",
       "url": "https://yro.slashdot.org/story/26/08/08/059204/flock-camera-vandalism-continues-around-america-while-100-communities-reject-alprs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -37,21 +65,14 @@
       "source": "HACKER NEWS",
       "title": "Everything You Do Is Being Recorded",
       "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "summary": "9 points · 0 comments",
+      "summary": "48 points · 25 comments",
       "published": "2026-08-09T11:30:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "CSS: The bomb inside your inbox",
-      "url": "https://portswigger.net/research/css-the-bomb-inside-your-inbox",
-      "summary": "27 points · 5 comments",
-      "published": "2026-08-09T10:17:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
       "url": "https://halfhill.com/byte/1998-12_alpha.html",
-      "summary": "13 points · 4 comments",
+      "summary": "22 points · 7 comments",
       "published": "2026-08-09T10:06:37+00:00"
     },
     {
@@ -72,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "There Are Magic Hexagons of Every Order",
       "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "summary": "55 points · 12 comments",
+      "summary": "79 points · 15 comments",
       "published": "2026-08-09T07:19:58+00:00"
     },
     {
@@ -93,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
       "url": "https://github.com/jmarshall23/msword",
-      "summary": "93 points · 41 comments",
+      "summary": "102 points · 44 comments",
       "published": "2026-08-09T05:23:41+00:00"
     },
     {
@@ -107,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
       "url": "http://longbets.org/601/",
-      "summary": "159 points · 71 comments",
+      "summary": "165 points · 74 comments",
       "published": "2026-08-09T04:30:26+00:00"
     },
     {
@@ -123,13 +144,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vjcnom/suisun_city_malware_disrupts_911_routing_in/",
       "summary": "The impact is unusual because local governments hit by cyber incidents often say 911 and emergency services remain available even when other systems are disrupted. In Suisun City, however, officials said the incident affected 911 routing and police and fire dispatch, forcing dispatchers to shift operations to the Solano County dispatch center while first responders continued taking calls for service. submitted by /u/CatfishEnchiladas [link] [comments]",
       "published": "2026-08-09T01:23:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-      "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-      "summary": "142 points · 131 comments",
-      "published": "2026-08-09T00:59:58+00:00"
     },
     {
       "source": "REDDIT",
@@ -149,28 +163,28 @@
       "source": "HACKER NEWS",
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "url": "https://os8088.com/",
-      "summary": "187 points · 109 comments",
+      "summary": "200 points · 119 comments",
       "published": "2026-08-08T23:37:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Dithered QR Codes",
       "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "summary": "237 points · 17 comments",
+      "summary": "253 points · 21 comments",
       "published": "2026-08-08T23:05:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My server is a phone now",
       "url": "https://seg6.space/posts/phone-server/",
-      "summary": "365 points · 145 comments",
+      "summary": "382 points · 162 comments",
       "published": "2026-08-08T22:49:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "summary": "231 points · 145 comments",
+      "summary": "248 points · 156 comments",
       "published": "2026-08-08T22:32:50+00:00"
     },
     {
@@ -216,13 +230,6 @@
       "published": "2026-08-08T18:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Explain this one: Organisations often Ignore Security Researchers who find Vulnerabilities in their Infrastructure but actually like Hackers who are mentioned in Media...",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vj2ely/explain_this_one_organisations_often_ignore/",
-      "summary": "Please explain this weird dynamic. Whitehat Hacker 1 finds a vulnerability in an organisation's infrastructure and reports it to the organisation. Often, they will be totally ignored. Meanwhile, another hacker, Whitehat Hacker 2 finds vulnerability in, let's say a widely used city bike sharing app, which gets media attention. All of sudden, White Hacker 2 starts getting emails from companies requesting services. Meanwhile White Hacker 1, who is probably just as skilful, as White Hacker 2 but get",
-      "published": "2026-08-08T17:51:52+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Microsoft, Google, Amazon, Meta and Oracle Expect a Negative Cash Flow of $125 Billion Next Year",
       "url": "https://developers.slashdot.org/story/26/08/08/1727226/microsoft-google-amazon-meta-and-oracle-expect-a-negative-cash-flow-of-125-billion-next-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -247,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "summary": "440 points · 228 comments",
+      "summary": "452 points · 248 comments",
       "published": "2026-08-08T16:04:51+00:00"
     },
     {
@@ -258,25 +265,11 @@
       "published": "2026-08-08T15:34:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "published": "2026-08-08T14:16:23+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "_for-sale DNS records",
       "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "summary": "405 points · 157 comments",
+      "summary": "410 points · 157 comments",
       "published": "2026-08-08T13:26:51+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vitsal/atlassian_rovo_can_be_tricked_into_sending_jira/",
-      "summary": "submitted by /u/Altruistic_Hope_2559 [link] [comments]",
-      "published": "2026-08-08T11:39:58+00:00"
     },
     {
       "source": "REDDIT",
@@ -284,6 +277,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1virfs2/def_con_talk_8_in_10_banks_in_belgium_hate_this/",
       "summary": "Just presented these findings at DEF CON feel free to ask me questions submitted by /u/acorn222 [link] [comments]",
       "published": "2026-08-08T09:23:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was",
+      "published": "2026-08-08T08:54:50+00:00"
     },
     {
       "source": "OSINT",
@@ -450,28 +450,21 @@
       "source": "HACKER NEWS",
       "title": "The Grid That Doubles the Strength of the Ground",
       "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-      "summary": "34 points · 3 comments",
+      "summary": "44 points · 8 comments",
       "published": "2026-08-05T04:11:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Protopia",
       "url": "https://kevinkelly.substack.com/p/protopia",
-      "summary": "23 points · 13 comments",
+      "summary": "29 points · 23 comments",
       "published": "2026-08-04T13:00:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Stylized GGX Shading",
-      "url": "https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html",
-      "summary": "33 points · 0 comments",
-      "published": "2026-08-04T11:28:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "You might want to build your WebApp in Canvas instead of HTML",
       "url": "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/",
-      "summary": "14 points · 8 comments",
+      "summary": "28 points · 27 comments",
       "published": "2026-08-03T11:11:59+00:00"
     },
     {
@@ -480,6 +473,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vdxnjk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-03T00:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Uber SubmitQueue: a high-performance speculative merge queue",
+      "url": "https://github.com/uber/submitqueue/",
+      "summary": "11 points · 0 comments",
+      "published": "2026-08-01T20:24:12+00:00"
     },
     {
       "source": "OSINT",
@@ -492,7 +492,7 @@
       "source": "HACKER NEWS",
       "title": "Improving Heuristics for A* Pathfinding",
       "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "summary": "267 points · 26 comments",
+      "summary": "285 points · 29 comments",
       "published": "2026-07-28T06:04:42+00:00"
     },
     {
