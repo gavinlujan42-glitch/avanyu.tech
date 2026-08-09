@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T13:04:49.089985+00:00",
+  "updated": "2026-08-09T13:54:35.390454+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,10 +28,17 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "Suggestions/opinions on my final year cybersecurity project : malware analysis in sandbox",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjpdhj/suggestionsopinions_on_my_final_year/",
-      "summary": "So far we have created : A file monitoring agent in python that detects new files in watched folders Static analysis Threat intel crosscheck via VirusTotal API(Hash lookup only, no file upload) Weighted risk assessments scoring logic Flask backend and SQLlite for storing scan history Next steps: Dynamic analysis in isolated windows vm with sysmon for process,registry and network monitoring Planning to transfer samples in the VM via one way mounted .ISO file to avoid shared-folder-as-attack-path ",
-      "published": "2026-08-09T13:04:06+00:00"
+      "title": "What areas of cybersecurity are underexplored or under-taught?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjqdli/what_areas_of_cybersecurity_are_underexplored_or/",
+      "summary": "I’ve been researching what actually helps people become effective cybersecurity professionals. A lot of the discussion focuses on technical skills: pentesting, tools, certs, CTFs, SIEMs, etc. But I keep seeing gaps around things like: communicating with non-technical people understanding business risk executive escalation audits & governance knowing when NOT to act risk acceptance networking with people understanding how security fits into the wider organisation strong IT fundamentals What areas",
+      "published": "2026-08-09T13:49:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mea Culpa – Dark Hours",
+      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
+      "summary": "25 points · 10 comments",
+      "published": "2026-08-09T13:20:43+00:00"
     },
     {
       "source": "REDDIT",
@@ -42,16 +49,30 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Amazon circumvents Gilroy community vote for AI data center",
+      "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+      "summary": "43 points · 22 comments",
+      "published": "2026-08-09T12:52:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
+      "summary": "7 points · 0 comments",
+      "published": "2026-08-09T12:43:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
       "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-      "summary": "6 points · 3 comments",
+      "summary": "20 points · 9 comments",
       "published": "2026-08-09T11:46:28+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Reviving a four year old reMarkable 2",
       "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-      "summary": "18 points · 8 comments",
+      "summary": "50 points · 35 comments",
       "published": "2026-08-09T11:39:25+00:00"
     },
     {
@@ -63,16 +84,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Everything You Do Is Being Recorded",
-      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "summary": "48 points · 25 comments",
-      "published": "2026-08-09T11:30:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
       "url": "https://halfhill.com/byte/1998-12_alpha.html",
-      "summary": "22 points · 7 comments",
+      "summary": "34 points · 14 comments",
       "published": "2026-08-09T10:06:37+00:00"
     },
     {
@@ -93,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "There Are Magic Hexagons of Every Order",
       "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "summary": "79 points · 15 comments",
+      "summary": "100 points · 18 comments",
       "published": "2026-08-09T07:19:58+00:00"
     },
     {
@@ -114,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
       "url": "https://github.com/jmarshall23/msword",
-      "summary": "102 points · 44 comments",
+      "summary": "108 points · 49 comments",
       "published": "2026-08-09T05:23:41+00:00"
     },
     {
@@ -123,13 +137,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vjgk8s/mitigating_the_risk_of_diagnosing_live_linux/",
       "summary": "This article explores an alternative to directly troubleshoot production Linux systems with AI tools by using the sos command and using AI to analyze sosreports instead. I think is an interesting read: https://medium.com/@linuxjedi2000/the-agentic-ai-risk-issue-on-linux-environments-fd5c55cedcc5?sharedUserId=linuxjedi2000 I know that this subject is very controversial and would love to read your point of view on the subject. submitted by /u/jlrueda [link] [comments]",
       "published": "2026-08-09T04:45:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-      "url": "http://longbets.org/601/",
-      "summary": "165 points · 74 comments",
-      "published": "2026-08-09T04:30:26+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -163,28 +170,28 @@
       "source": "HACKER NEWS",
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "url": "https://os8088.com/",
-      "summary": "200 points · 119 comments",
+      "summary": "207 points · 122 comments",
       "published": "2026-08-08T23:37:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Dithered QR Codes",
       "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "summary": "253 points · 21 comments",
+      "summary": "270 points · 24 comments",
       "published": "2026-08-08T23:05:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My server is a phone now",
       "url": "https://seg6.space/posts/phone-server/",
-      "summary": "382 points · 162 comments",
+      "summary": "399 points · 173 comments",
       "published": "2026-08-08T22:49:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
       "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "summary": "248 points · 156 comments",
+      "summary": "260 points · 166 comments",
       "published": "2026-08-08T22:32:50+00:00"
     },
     {
@@ -254,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Fastmail offers EU data region",
       "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "summary": "452 points · 248 comments",
+      "summary": "456 points · 250 comments",
       "published": "2026-08-08T16:04:51+00:00"
     },
     {
@@ -263,13 +270,6 @@
       "url": "https://science.slashdot.org/story/26/08/08/0410218/before-and-after-views-of-spacex-rockets-moon-crash?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A South Korean lunar orbiter has captured the first before-and-after images of the Moon's crash scene caused by a stray SpaceX Falcon 9 rocket. The Associated Press reports: The Korea Aerospace Research Institute's Danuri spacecraft flew over the impact site soon after the Falcon 9 upper stage inadvertently plowed into the moon on Wednesday. Danuri made multiple passes, snapping photos from lunar orbit that were released by the space agency Thursday. The terrain is noticeably darker where the ro",
       "published": "2026-08-08T15:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "_for-sale DNS records",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "summary": "410 points · 157 comments",
-      "published": "2026-08-08T13:26:51+00:00"
     },
     {
       "source": "REDDIT",
@@ -448,24 +448,24 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "How to Survive in a Louisiana Swamp",
+      "url": "https://unherd.com/2026/08/how-to-survive-on-a-louisiana-swamp/",
+      "summary": "24 points · 4 comments",
+      "published": "2026-08-05T19:24:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "The Grid That Doubles the Strength of the Ground",
       "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-      "summary": "44 points · 8 comments",
+      "summary": "63 points · 10 comments",
       "published": "2026-08-05T04:11:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Protopia",
       "url": "https://kevinkelly.substack.com/p/protopia",
-      "summary": "29 points · 23 comments",
+      "summary": "32 points · 27 comments",
       "published": "2026-08-04T13:00:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "You might want to build your WebApp in Canvas instead of HTML",
-      "url": "https://hivekit.io/blog/why-you-might-want-to-build-your-webapp-in-canvas-instead-of-html/",
-      "summary": "28 points · 27 comments",
-      "published": "2026-08-03T11:11:59+00:00"
     },
     {
       "source": "REDDIT",
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "Uber SubmitQueue: a high-performance speculative merge queue",
       "url": "https://github.com/uber/submitqueue/",
-      "summary": "11 points · 0 comments",
+      "summary": "17 points · 3 comments",
       "published": "2026-08-01T20:24:12+00:00"
     },
     {
@@ -492,7 +492,7 @@
       "source": "HACKER NEWS",
       "title": "Improving Heuristics for A* Pathfinding",
       "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "summary": "285 points · 29 comments",
+      "summary": "298 points · 31 comments",
       "published": "2026-07-28T06:04:42+00:00"
     },
     {
