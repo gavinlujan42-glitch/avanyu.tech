@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T15:38:18.979475+00:00",
-  "item_count": 75,
+  "updated": "2026-08-09T16:43:26.408702+00:00",
+  "item_count": 63,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,25 +32,67 @@
   ],
   "items": [
     {
-      "source": "SLASHDOT",
-      "title": "Brain Activity Reveals the Melodies That People Imagine",
-      "url": "https://science.slashdot.org/story/26/08/09/0050249/brain-activity-reveals-the-melodies-that-people-imagine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Researchers believe they've found evidence that brain signals reveal the pitches of notes in imagined musical melodies, reports Medical Express: Study participants were 10 epilepsy patients with electrodes on the surfaces of their brains for clinical monitoring. Participants quietly listened to the first bars of children's tunes, then imagined the melodies of subsequent bars before humming their imagined melodies. Brain activity from the patients carried information about relative pitches within",
-      "published": "2026-08-09T15:34:00+00:00"
+      "source": "REDDIT",
+      "title": "Rogue AI Hacks Were Caused by Cybersecurity Firm Misconfiguring Test Environment",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjuk52/rogue_ai_hacks_were_caused_by_cybersecurity_firm/",
+      "summary": "Evidently the \"Rogue AI\" wasn't a sudden advance in every AI model, but instead a configuration error at a cybersecurity firm testing their ability to defend against AI cyberattacks. submitted by /u/timio-ttt [link] [comments]",
+      "published": "2026-08-09T16:40:00+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "Linux Distro",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjs1ih/linux_distro/",
-      "summary": "helo id like to ask whether the Linux distro i choose as a beginner has a significant impact on learning cybersecurity. Which distro would you recommend for someone who is just starting their cybersecurity journey? submitted by /u/Ill_Cartoonist_7669 [link] [comments]",
-      "published": "2026-08-09T14:59:34+00:00"
+      "title": "Creating a roadmap",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjuhqa/creating_a_roadmap/",
+      "summary": "I’ve posted on here before and got some decent advice but I’m looking for a little more insight, I just graduated with my associates in cloud technology engineering and I have my aws certified practitioner cert along with what I’ve been told is an impressive technical capstone project which is an anomalous network detection system through aws deployed with terraform on my resume. I’ve been applying to every job possible especially helpdesk and IT support roles for the past 2 months since graduat",
+      "published": "2026-08-09T16:37:25+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "GNOME Receiving Additional Design Help From Germany's Sovereign Tech Agency Fellowship",
-      "url": "https://news.slashdot.org/story/26/08/09/0519238/gnome-receiving-additional-design-help-from-germanys-sovereign-tech-agency-fellowship?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The new GNOME Boxes app for accessing virtual systems has reached beta, announced This Week in GNOME. There's also been more work on the Sushi file previewer for Nautilus, and Papers 51 Beta can now add visual signatures to PDF documents. But Phoronix noted one more announcement. \"Germany's Sovereign Tech Agency announced earlier this year a new fellowship program and now as part of that, for the next two years GNOME has a fellow dedicated to working on design and community management... paid to",
-      "published": "2026-08-09T14:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Every fast write moves work somewhere else",
+      "url": "https://www.shayon.dev/post/2026/220/every-fast-write-moves-work-somewhere-else/",
+      "summary": "8 points · 1 comments",
+      "published": "2026-08-09T15:36:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Vibez – Open-Source Rust Based Digital Audio Workstation (DAW)",
+      "url": "https://alexanderwanyoike.github.io/vibez/",
+      "summary": "6 points · 3 comments",
+      "published": "2026-08-09T15:31:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Criminal Deception in Silicon Valley",
+      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+      "summary": "4 points · 0 comments",
+      "published": "2026-08-09T15:26:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+      "url": "https://github.com/eighttrigrams/us-vs-them",
+      "summary": "3 points · 0 comments",
+      "published": "2026-08-09T15:25:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "summary": "77 points · 43 comments",
+      "published": "2026-08-09T15:18:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Windows 11's built-in Weather app wastes more than 1 GB of RAM",
+      "url": "https://www.notebookcheck.net/Windows-11-s-built-in-Weather-app-wastes-more-than-1-GB-of-RAM.1364205.0.html",
+      "summary": "29 points · 15 comments",
+      "published": "2026-08-09T15:11:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Cool URIs Don't Change (1998)",
+      "url": "https://www.w3.org/Provider/Style/URI",
+      "summary": "16 points · 2 comments",
+      "published": "2026-08-09T14:32:53+00:00"
     },
     {
       "source": "REDDIT",
@@ -65,14 +112,14 @@
       "source": "HACKER NEWS",
       "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
       "url": "https://kibotronics.net/unlisted/lilly-machines/",
-      "summary": "19 points · 5 comments",
+      "summary": "33 points · 14 comments",
       "published": "2026-08-09T13:47:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mea Culpa – Dark Hours",
       "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "summary": "203 points · 85 comments",
+      "summary": "270 points · 120 comments",
       "published": "2026-08-09T13:20:43+00:00"
     },
     {
@@ -86,49 +133,21 @@
       "source": "HACKER NEWS",
       "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
       "url": "https://github.com/rochus-keller/OberonSystem/tree/op2-rv32",
-      "summary": "44 points · 12 comments",
+      "summary": "56 points · 15 comments",
       "published": "2026-08-09T12:43:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Reviving a four year old reMarkable 2",
-      "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
-      "summary": "74 points · 56 comments",
-      "published": "2026-08-09T11:39:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Flock Camera Vandalism Continues Around America, While 100 Communities Reject ALPRs",
-      "url": "https://yro.slashdot.org/story/26/08/08/059204/flock-camera-vandalism-continues-around-america-while-100-communities-reject-alprs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Dozens of Flock cameras have been vandalized around Dallas Texas in the last six months, reports a local news station. In Utah, ABC News reports, a county sheriff's office even said Wednesday a Flock camera was even vandalized within days of its being installed. And in the Minnesota city of Winona, \"Every Flock license plate reader camera operated by the Winona Police Department has been sawed off and stolen in what investigators believe was a coordinated theft,\" according to local media: All ei",
-      "published": "2026-08-09T11:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
       "url": "https://halfhill.com/byte/1998-12_alpha.html",
-      "summary": "48 points · 25 comments",
+      "summary": "55 points · 36 comments",
       "published": "2026-08-09T10:06:37+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Quake Celebrates 30th Anniversary: New Official Episode With New Maps and Mechanics",
-      "url": "https://games.slashdot.org/story/26/08/09/0628245/quake-celebrates-30th-anniversary-new-official-episode-with-new-maps-and-mechanics?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "To celebrate Quake's 30th anniversary, Bethesda released \"a brutal new episode\" — a new campaign chapter titled Dawn of the Machine \"delivering ferocious combat, labyrinthine level design, and nightmarish realms that twist reality beyond recognition...\" Face deadly new twists on familiar foes, including the Rocket Ogre, Demo Dog, Blood Shambler, and more. Each variant introduces lethal new behaviours — from overwhelming firepower to explosive death traps — forcing you to rethink every encounter.",
-      "published": "2026-08-09T09:52:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "RAMageddon? 2027 Memory Capacity Reportedly Sold Out",
-      "url": "https://hardware.slashdot.org/story/26/08/09/0547220/ramageddon-2027-memory-capacity-reportedly-sold-out?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "IGN reports: [A] new report suggests that all three memory manufacturers — Samsung, SK Hynix, and Micron — have collectively sold through their 2027 memory manufacturing capacity to, you guessed it, AI companies. According to a report from Digitimes and spotted by TweakTown, all DRAM and HBM capacity has been sold through for 2027, with no further supply planned. (The companies themselves have not yet confirmed this to be the case.) Of course, that only means that retail prices are going to go u",
-      "published": "2026-08-09T07:52:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "There Are Magic Hexagons of Every Order",
       "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
-      "summary": "128 points · 20 comments",
+      "summary": "141 points · 19 comments",
       "published": "2026-08-09T07:19:58+00:00"
     },
     {
@@ -149,15 +168,8 @@
       "source": "HACKER NEWS",
       "title": "Microsoft Word for Windows 1.1a, Native X64 Port",
       "url": "https://github.com/jmarshall23/msword",
-      "summary": "120 points · 53 comments",
+      "summary": "131 points · 55 comments",
       "published": "2026-08-09T05:23:41+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Should Still Be Forced To Shed Chrome, Advocacy Group Argues",
-      "url": "https://tech.slashdot.org/story/26/08/09/0351205/google-should-still-be-forced-to-shed-chrome-advocacy-group-argues?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Google should be required to divest the Chrome browser, and prohibited from paying Apple to distribute Google's search engine, the nonprofit advocacy group Public Knowledge argues in a new court filing,\" MediaPost reports, citing a friend-of-the-court brief filed Tuesday in the D.C. Circuit Court of Appeals: The group adds that \"independent ownership\" of Chrome \"would open the distribution channel Google controls and allow Chrome to serve browser users when it makes privacy decisions and determ",
-      "published": "2026-08-09T03:52:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -174,39 +186,18 @@
       "published": "2026-08-09T00:27:34+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Slashdot Reader Builds a Photo-Verification App for iPhones",
-      "url": "https://apple.slashdot.org/story/26/08/08/2328239/slashdot-reader-builds-a-photo-verification-app-for-iphones?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Long-time Slashdot reader BrianFagioli is announcing that he's released a new iPhone app that creates a cryptographic witness for photos without uploading the original image. The app hashes the file, signs the hash using a dedicated identity stored in Apple Keychain, and publishes the witness to Nostr relays while keeping the photo inside the app unless the user chooses to export it. Rather than trying to determine whether a scene was genuine, the app — named Veridenz — answers a narrower questi",
-      "published": "2026-08-08T23:57:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
       "url": "https://os8088.com/",
-      "summary": "216 points · 142 comments",
+      "summary": "222 points · 146 comments",
       "published": "2026-08-08T23:37:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Dithered QR Codes",
-      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "summary": "305 points · 31 comments",
-      "published": "2026-08-08T23:05:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My server is a phone now",
       "url": "https://seg6.space/posts/phone-server/",
-      "summary": "426 points · 194 comments",
+      "summary": "447 points · 209 comments",
       "published": "2026-08-08T22:49:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "summary": "285 points · 188 comments",
-      "published": "2026-08-08T22:32:50+00:00"
     },
     {
       "source": "REDDIT",
@@ -216,60 +207,11 @@
       "published": "2026-08-08T22:02:30+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "New Orleans Will Use AI To Answer 911 Calls Instead of a Human",
-      "url": "https://slashdot.org/story/26/08/08/2155204/new-orleans-will-use-ai-to-answer-911-calls-instead-of-a-human?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"If you call 911 in New Orleans, you may hear the sound of an artificial intelligence (AI) agent answering your call instead of a human voice,\" reports the Shreveport Times: The Orleans Parish Communication District (OPCD) is currently testing out the new tool designed to reduce the volume of calls human dispatchers must handle, which is over a thousand emergency calls a day. New Orleans implemented AI in April to answer 311 calls for non-emergencies. The AI was trained and programmed to provide",
-      "published": "2026-08-08T21:57:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "More Police Officers Fired, Investigated, or Arrested for Misusing Flock Camera Systems",
-      "url": "https://yro.slashdot.org/story/26/08/08/0453229/more-police-officers-fired-investigated-or-arrested-for-misusing-flock-camera-systems?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "In Georgia the Savannah Police Department \"terminated four sworn officers and two civilian employees following an internal investigation into misuse of the department's Flock Safety License Plate Reader system,\" according to a local news report: All six cases are also under independent criminal investigation by the Georgia Bureau of Investigation... Investigators found that employees were running searches on personal acquaintances and family members. One officer was found to have given someone f",
-      "published": "2026-08-08T20:43:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "America's First Grid-Scale Sodium-Ion Battery Plant Gets Its First Big Test",
-      "url": "https://hardware.slashdot.org/story/26/08/08/1940232/americas-first-grid-scale-sodium-ion-battery-plant-gets-its-first-big-test?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"In a milestone for energy storage technology, Peak Energy has selected Sacramento, California, as the home of America's first manufacturing facility dedicated to grid-scale sodium-ion battery systems,\" according to the sustainability news site Intelligent Living. The move \"represents the first large-scale test of whether sodium-ion technology can deliver on its promise of cheaper, safer, and more sustainable grid storage at a scale that actually moves the needle for the U.S. electricity system.",
-      "published": "2026-08-08T19:43:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Fake Cloudflare verification on deceased influencer’s site drops a PowerShell shellcode loader",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vj49ts/fake_cloudflare_verification_on_deceased/",
-      "summary": "I was checking the website (felzenergy.com) of an influencer who recently passed away (Joe Felz) and had been researching “free energy.” The site currently shows a fake Cloudflare-style verification that tells visitors to run a PowerShell command to prove they’re human. I pulled the payload without executing it. The first stage downloads another blob from the same IP, allocates RWX memory with VirtualAlloc , copies the payload into memory, and runs it with CreateThread . So the chain is basicall",
-      "published": "2026-08-08T19:06:49+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Paper Goods Company Is Investigating an Alternative to Trees",
-      "url": "https://news.slashdot.org/story/26/08/08/065247/paper-goods-company-is-investigating-an-alternative-to-trees?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Dallas Business Journal reported Monday that the U.S. multinational paper goods company Kimberly-Clark announced \"that its researchers identified and advanced patented technology transforming fibers from hesperaloe, a low-water-use plant with pointy leaves that thrives in the southwest region of the country, into material for paper towels.\" Discovering an alternative to conventional wood fiber \"could reshape how the company, and the industry at large, manufactures products,\" according to art",
-      "published": "2026-08-08T18:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Microsoft, Google, Amazon, Meta and Oracle Expect a Negative Cash Flow of $125 Billion Next Year",
-      "url": "https://developers.slashdot.org/story/26/08/08/1727226/microsoft-google-amazon-meta-and-oracle-expect-a-negative-cash-flow-of-125-billion-next-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Washington Post shared surprising news this week about five top AI companies. Microsoft, Google, Amazon, Meta and Oracle \"are spending so much on developing AI and delivering it to customers that they're expected to bleed cash in the coming year, according to a Washington Post analysis of data compiled by S&P Global Market Intelligence.\" Free cash flow, which measures the cash left over after paying expenses and AI infrastructure costs, is now expected to shrink to almost nothing for the fiv",
-      "published": "2026-08-08T17:34:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "As many as five suicides in US Military cyber warfare unit in one month",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vj0usx/as_many_as_five_suicides_in_us_military_cyber/",
       "summary": "This is deeply disturbing. Wtf is going on there and why would this happen? submitted by /u/aristacat [link] [comments]",
       "published": "2026-08-08T16:49:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "summary": "471 points · 273 comments",
-      "published": "2026-08-08T16:04:51+00:00"
     },
     {
       "source": "OSINT",
@@ -443,28 +385,14 @@
       "source": "HACKER NEWS",
       "title": "The Grid That Doubles the Strength of the Ground",
       "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
-      "summary": "87 points · 18 comments",
+      "summary": "99 points · 26 comments",
       "published": "2026-08-05T04:11:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Protopia",
-      "url": "https://kevinkelly.substack.com/p/protopia",
-      "summary": "40 points · 38 comments",
-      "published": "2026-08-04T13:00:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "When the apartment listing is too good to be true",
-      "url": "https://blog.denv.it/posts/when-the-apartment-listing-is-too-good-to-be-true/",
-      "summary": "14 points · 7 comments",
-      "published": "2026-08-03T23:36:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Honey, I shrunk the embeddings: Matryoshka vs. PCA",
       "url": "https://dylancastillo.co/posts/matryoshka-vs-pca",
-      "summary": "20 points · 1 comments",
+      "summary": "52 points · 9 comments",
       "published": "2026-08-03T14:53:53+00:00"
     },
     {
@@ -478,7 +406,7 @@
       "source": "HACKER NEWS",
       "title": "Uber SubmitQueue: a high-performance speculative merge queue",
       "url": "https://github.com/uber/submitqueue/",
-      "summary": "50 points · 34 comments",
+      "summary": "62 points · 46 comments",
       "published": "2026-08-01T20:24:12+00:00"
     },
     {
@@ -487,13 +415,6 @@
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
       "published": "2026-07-30T16:49:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Improving Heuristics for A* Pathfinding",
-      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
-      "summary": "312 points · 33 comments",
-      "published": "2026-07-28T06:04:42+00:00"
     },
     {
       "source": "OSINT",
