@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:56:11.016631+00:00",
+  "updated": "2026-08-10T19:05:36.538585+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,39 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Wall Street Giants Partner With Nvidia On $500 Billion AI Financing Deal",
+      "url": "https://news.slashdot.org/story/26/08/10/1859242/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Nvidia is working with Wall Street heavyweights on a potential $500 billion financing package for AI infrastructure. The consortium includes BlackRock's âGlobal Infrastructure Partners, Brookfield âOEAsset Management, Goldman Sachs and KKR. The Financial Times reports: The partnership underscores Nvidia's growing efforts to raise capital for itself and its clients to continue assembling the chips, power production and data centres at the heart of the AI boom. The $5.25tn company has positioned i",
+      "published": "2026-08-10T19:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Meta's 'Open' Muse Glimmer Model Can Run On a Single Computer",
+      "url": "https://tech.slashdot.org/story/26/08/10/163237/metas-open-muse-glimmer-model-can-run-on-a-single-computer?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Meta has released Muse Glimmer, a slimmed-down open-weight AI model designed to run locally on a single GPU for agent tasks such as scheduling, file management, coding, and tool use. The release is based on Meta's closed Muse Spark 1.2 model and appears to be aimed at attracting developers who want capable AI agents without relying entirely on cloud-hosted services. Engadget reports: Facebook said that it's making the \"weights\" that AI systems use to choose responses available to everyone on Hug",
+      "published": "2026-08-10T18:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "url": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
       "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
       "published": "2026-08-10T17:42:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Learning more about Claude's mathematical capabilities",
+      "url": "https://www.anthropic.com/research/riemann-zeta",
+      "summary": "81 points · 46 comments",
+      "published": "2026-08-10T17:41:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
+      "published": "2026-08-10T17:29:17+00:00"
     },
     {
       "source": "REDDIT",
@@ -55,17 +83,24 @@
       "published": "2026-08-10T17:00:00+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said. \"StormEncryptor is written in C++ and appends the file name extension .encrypted",
+      "published": "2026-08-10T16:38:37+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
       "url": "https://www.stoaexchange.com",
-      "summary": "23 points · 8 comments",
+      "summary": "39 points · 21 comments",
       "published": "2026-08-10T16:35:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Exploiting System Management Mode with a very long interrupt",
       "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "summary": "46 points · 13 comments",
+      "summary": "68 points · 16 comments",
       "published": "2026-08-10T16:03:14+00:00"
     },
     {
@@ -79,56 +114,42 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
       "url": "https://github.com/AntigmaLabs/ante",
-      "summary": "64 points · 38 comments",
+      "summary": "79 points · 52 comments",
       "published": "2026-08-10T15:59:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Back to the Future of Handwriting Recognition (2016)",
-      "url": "https://jackschaedler.github.io/handwriting-recognition/",
-      "summary": "18 points · 2 comments",
-      "published": "2026-08-10T15:58:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Tragedy of the Cognitive Commons",
       "url": "https://arxiv.org/abs/2607.29380",
-      "summary": "22 points · 3 comments",
+      "summary": "45 points · 22 comments",
       "published": "2026-08-10T15:55:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Midlife Vascular Risk Burden and Dementia-Free Survival Years",
       "url": "https://www.neurology.org/doi/10.1212/WN9.0000000000000152",
-      "summary": "35 points · 11 comments",
+      "summary": "53 points · 27 comments",
       "published": "2026-08-10T15:54:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
       "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-      "summary": "19 points · 0 comments",
+      "summary": "33 points · 11 comments",
       "published": "2026-08-10T15:53:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "summary": "95 points · 27 comments",
+      "summary": "114 points · 32 comments",
       "published": "2026-08-10T15:49:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Mars Bar from 1991 found – and it's 20g bigger than today's",
-      "url": "https://www.bbc.com/news/articles/c1j1kjy7gewo",
-      "summary": "185 points · 237 comments",
-      "published": "2026-08-10T15:32:04+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Itadakimasu: A word you say to the food, not the cook",
       "url": "https://thetokyohermit.substack.com/p/itadakimasu-a-word-you-say-to-the",
-      "summary": "61 points · 26 comments",
+      "summary": "85 points · 38 comments",
       "published": "2026-08-10T15:23:44+00:00"
     },
     {
@@ -147,10 +168,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
-      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
-      "summary": "83 points · 76 comments",
-      "published": "2026-08-10T14:56:32+00:00"
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "summary": "55 points · 77 comments",
+      "published": "2026-08-10T14:38:20+00:00"
     },
     {
       "source": "OSINT",
@@ -158,6 +179,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
       "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
       "published": "2026-08-10T14:34:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "summary": "113 points · 128 comments",
+      "published": "2026-08-10T14:06:22+00:00"
     },
     {
       "source": "OSINT",
@@ -191,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "50k Boat Names",
       "url": "https://www.beautifulpublicdata.com/boat-names/",
-      "summary": "107 points · 66 comments",
+      "summary": "124 points · 75 comments",
       "published": "2026-08-10T12:58:16+00:00"
     },
     {
@@ -212,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
-      "summary": "123 points · 69 comments",
+      "summary": "145 points · 83 comments",
       "published": "2026-08-10T12:15:53+00:00"
     },
     {
@@ -228,13 +256,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
       "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
       "published": "2026-08-10T12:11:52+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
-      "published": "2026-08-10T11:52:16+00:00"
     },
     {
       "source": "OSINT",
@@ -268,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "summary": "753 points · 417 comments",
+      "summary": "819 points · 462 comments",
       "published": "2026-08-10T10:10:02+00:00"
     },
     {
@@ -317,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "517 points · 310 comments",
+      "summary": "544 points · 321 comments",
       "published": "2026-08-10T06:02:38+00:00"
     },
     {
@@ -384,20 +405,6 @@
       "published": "2026-08-09T22:15:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "AI-Powered Browser Just Generates Every Website From Scratch",
-      "url": "https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "XDA Developers reports: On July 22, a Google DeepMind engineer, Vidy Thatte, shared a snippet of a browser he built that \"treats every URL as a prompt and generates a site from scratch\" on his X account. Just a few days later, he shared a TestFlight link to let iPhone users try it for themselves. The browser he launched is called Gem, and it's a browser that doesn't really...browse. Instead of fetching a webpage from a server the way Chrome or Safari would, Gem hands whatever URL you type over t",
-      "published": "2026-08-09T21:15:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Ask Slashdot: What are the Costs of Switching Between Windows, MacOS, and Chrome?",
-      "url": "https://ask.slashdot.org/story/26/08/09/1941202/ask-slashdot-what-are-the-costs-of-switching-between-windows-macos-and-chrome?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "UI changes, lost productivity, untransferrable knowledge... Long-time Slashdot reader theodp notes the folly of switching to an unfamiliar new environment to be \"more productive\"... Champions of the switch often insist workers will be able to hit the ground running and get the same or even more work done from the get-go in the new unfamiliar environment because it's 'more productive', a conclusion often shaped by conventional wisdom or their 'gut' feeling. Decision makers may also mistake their ",
-      "published": "2026-08-09T20:15:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
@@ -434,13 +441,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-      "url": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary",
-      "published": "2026-08-08T06:52:16+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
@@ -457,7 +457,7 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
       "url": "https://news.ycombinator.com/item?id=49213660",
-      "summary": "55 points · 9 comments",
+      "summary": "70 points · 15 comments",
       "published": "2026-08-07T17:29:16+00:00"
     },
     {
@@ -476,16 +476,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Sorting, hashing, and sketches on 370,103 words",
-      "url": "https://stochastic.blog/sorting-hashing-and-sketches-on-370-103-words/",
-      "summary": "7 points · 0 comments",
-      "published": "2026-08-07T13:19:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "summary": "77 points · 20 comments",
+      "summary": "148 points · 39 comments",
       "published": "2026-08-07T10:26:34+00:00"
     },
     {
@@ -494,6 +487,13 @@
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Psychedelic Toad of the Sonoran Desert",
+      "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
+      "summary": "10 points · 4 comments",
+      "published": "2026-08-04T17:49:29+00:00"
     },
     {
       "source": "OSINT",
