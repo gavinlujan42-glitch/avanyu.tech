@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T07:53:55.844881+00:00",
+  "updated": "2026-08-10T09:40:24.385138+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,6 +28,34 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Am I in a bad soc?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkfyfh/am_i_in_a_bad_soc/",
+      "summary": "I'm working for a big mssp as a security analyst and I like it. I'm on my 5th year, but I find the team culture draining. There are good and bad moments, like any workplace, maybe my case is just personal interests? About my role: Hybrid role, 1 day in required, team of ~5 other looking after 7-10 accounts no budget for events, eating out, etc zero rem. review nopathway to senior or leadership roles,, No budget for upskilling None of these, however, upsets me, as much as having leaders with no s",
+      "published": "2026-08-10T09:25:07+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "v",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkfm73/v/",
+      "summary": "The first alert i received was a warning that the email on my second machine had been compromised, i tracked him as he logged into fake social media accounts on that machine and by each time a notification comes up that he uploaded or changed some data, and each time i simply enter the account and reset the password, stack extra security layers and move to the next Then came the second alert in French and this is on my other email on my main machine had been breached too, that’s when i panicked,",
+      "published": "2026-08-10T09:04:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Frontier Says Kimi K3 Cheated a Cybersecurity Test, UK Institute Disputes How",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkf10r/frontier_says_kimi_k3_cheated_a_cybersecurity/",
+      "summary": "Kimi K3, the latest AI model from Beijing-based Moonshot AI, exited an isolated cybersecurity testing environment during an evaluation, cheated the assigned task by retrieving the answer from GitHub, and did so without hacking any outside system. submitted by /u/Revolutionary-Cod276 [link] [comments]",
+      "published": "2026-08-10T08:28:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+      "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+      "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names of the extensions are below - helper-beeps.solidity-pro web3devtoolsx.solidity-pro Although neither of the extensions is now available on Open VSX, the GitHub repository",
+      "published": "2026-08-10T07:38:23+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Family member got a scam call question for digital investigators",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vke620/family_member_got_a_scam_call_question_for/",
       "summary": "they made threats on a family member for ransom money. the family member was fine and not kidnapped but scared the shit out of my aunt. from a digital forensic perspective, do these always lead to a dead end. phone they called were most likely burners. I’m just curious and furious 😅 submitted by /u/Old_donut12 [link] [comments]",
@@ -42,20 +70,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "M.Tech Cybersecurity student looking for guidance on choosing a practical research topic",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkdspi/mtech_cybersecurity_student_looking_for_guidance/",
-      "summary": "I'm currently pursuing an M.Tech in Cybersecurity and I'm starting my research work. I have some theoretical knowledge of cybersecurity and networking, along with practical experience in network/firewall environments, but I don't have much experience conducting academic research. I'm looking for advice from people who have experience in cybersecurity research. One idea I'm currently exploring is: A controlled cybersecurity sandbox containing intentionally vulnerable systems, where AI-based agent",
-      "published": "2026-08-10T07:13:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How should TP/FP/TN/FN be calculated for Snort when alerts don’t correspond 1:1 with packets?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkdrg1/how_should_tpfptnfn_be_calculated_for_snort_when/",
-      "summary": "Hi everyone, I’m doing my research on evaluating Snort IDS under different network traffic loads, and I’m struggling with one methodological question that I’d really appreciate some advice on. I have a controlled test environment where I generate traffic with known ground truth. For example: SYN-flood traffic = attack ICMP/UDP traffic = attack HTTP/other traffic = benign Each traffic source can be identified separately I have the generated packets/PCAPs as ground truth Snort produces alerts base",
-      "published": "2026-08-10T07:11:51+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vkdc9g/north_korean_hacking_group_builds_ai_tools_for/",
       "summary": "North Korean hacking group Kimsuky reportedly builds AI tools for cyberattacks A North Korean-linked hacking group is reportedly moving beyond simply using generative AI for phishing. According to South Korean cybersecurity firm Genians, Kimsuky has set up local AI environments using tools including Ollama, GPT4All and Msty, as well as RAG-based document search systems. Researchers also found AI agent development frameworks, speech-to-text software and Cursor, an AI-assisted coding tool. The int",
@@ -65,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "108 points · 58 comments",
+      "summary": "188 points · 123 comments",
       "published": "2026-08-10T06:02:38+00:00"
     },
     {
@@ -74,13 +88,6 @@
       "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
       "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
       "published": "2026-08-10T05:50:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "summary": "27 points · 27 comments",
-      "published": "2026-08-10T04:35:24+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -93,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "summary": "169 points · 153 comments",
+      "summary": "207 points · 202 comments",
       "published": "2026-08-10T03:50:00+00:00"
     },
     {
@@ -107,14 +114,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "summary": "60 points · 18 comments",
+      "summary": "79 points · 27 comments",
       "published": "2026-08-10T03:18:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
-      "summary": "52 points · 5 comments",
+      "summary": "74 points · 8 comments",
       "published": "2026-08-10T03:12:48+00:00"
     },
     {
@@ -128,14 +135,14 @@
       "source": "HACKER NEWS",
       "title": "Turn satellite imagery into a paper globe you fold yourself",
       "url": "https://foldingglobes.com/",
-      "summary": "45 points · 10 comments",
+      "summary": "59 points · 20 comments",
       "published": "2026-08-10T02:57:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "summary": "185 points · 74 comments",
+      "summary": "223 points · 97 comments",
       "published": "2026-08-10T02:23:17+00:00"
     },
     {
@@ -149,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "83 points · 7 comments",
+      "summary": "89 points · 8 comments",
       "published": "2026-08-10T01:01:34+00:00"
     },
     {
@@ -203,13 +210,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "AI pre interview - How do we feel about these",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjzzt1/ai_pre_interview_how_do_we_feel_about_these/",
-      "summary": "I’ve been poking around for open positions as I’m trying to make a big move and keep running into AI interviews. Says it would take about 45 min of my time. Immediately felt like that wasn’t for me and don’t want to waste my time with a company that would do a test pre interview and potentially waste even more of my time, making me work for free. Plus I had to submit my resume before it revealed this and now they have all my info ? Feels predatory and sketchy. How do we feel about AI interview/ ",
-      "published": "2026-08-09T20:12:43+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Worried, any advice welcome",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vjz0ui/worried_any_advice_welcome/",
       "summary": "I have been a cyber threat intelligence analyst for most of my career. Started up the cyber unit in the army back home and transferred my skills to the private sector. My job moved my family across the world around two years ago, after i had grown in my position over the last seven years with this compa y. We were excited for the change and planned accordingly. It seems like so much has changed just in the last year. With AI, my team is seen as not quick enough, or not enabled enough, to do the ",
@@ -219,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "summary": "604 points · 354 comments",
+      "summary": "630 points · 383 comments",
       "published": "2026-08-09T19:16:49+00:00"
     },
     {
@@ -233,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
-      "summary": "234 points · 809 comments",
+      "summary": "239 points · 857 comments",
       "published": "2026-08-09T17:23:22+00:00"
     },
     {
@@ -254,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "summary": "274 points · 187 comments",
+      "summary": "288 points · 198 comments",
       "published": "2026-08-09T15:21:46+00:00"
     },
     {
@@ -268,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "summary": "228 points · 56 comments",
+      "summary": "238 points · 59 comments",
       "published": "2026-08-09T14:32:53+00:00"
     },
     {
@@ -370,6 +370,13 @@
       "published": "2026-08-07T15:48:20+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "An alias-based formulation of the borrow checker (2018)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
+      "summary": "5 points · 1 comments",
+      "published": "2026-08-07T15:20:28+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
       "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
@@ -398,24 +405,17 @@
       "published": "2026-08-07T11:55:26+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update.",
-      "published": "2026-08-07T11:10:33+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Slap ROM Patcher",
       "url": "https://nyuu.page/projects/slap/",
-      "summary": "12 points · 1 comments",
+      "summary": "17 points · 5 comments",
       "published": "2026-08-07T04:54:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "An Interesting Fourier Transform – 1/F Noise",
       "url": "https://www.dsprelated.com/showarticle/40.php",
-      "summary": "19 points · 3 comments",
+      "summary": "36 points · 7 comments",
       "published": "2026-08-07T01:56:10+00:00"
     },
     {
@@ -436,7 +436,7 @@
       "source": "HACKER NEWS",
       "title": "ATProto for Distributed Systems Engineers",
       "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "summary": "67 points · 12 comments",
+      "summary": "79 points · 13 comments",
       "published": "2026-08-06T21:35:37+00:00"
     },
     {
@@ -478,21 +478,21 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I made alchemical-cosmological PCB badges",
       "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
-      "summary": "5 points · 0 comments",
+      "summary": "10 points · 0 comments",
       "published": "2026-08-05T16:15:51+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "url": "https://gitlab.com/Kazade/picophysics",
-      "summary": "49 points · 11 comments",
+      "summary": "54 points · 16 comments",
       "published": "2026-08-05T12:52:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nearest Pint",
       "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-      "summary": "23 points · 5 comments",
+      "summary": "31 points · 15 comments",
       "published": "2026-08-04T19:47:10+00:00"
     },
     {
