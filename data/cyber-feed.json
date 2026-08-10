@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T02:21:08.856364+00:00",
-  "item_count": 76,
+  "updated": "2026-08-10T04:14:55.661044+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,45 +32,52 @@
   ],
   "items": [
     {
-      "source": "SLASHDOT",
-      "title": "Privacy Backlash Explodes Against Meta's Smart Glasses",
-      "url": "https://yro.slashdot.org/story/26/08/10/0152228/privacy-backlash-explodes-against-metas-smart-glasses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "With nearly 70% of the market, \"Meta wants its smart glasses to be a big hit,\" writes the Los Angeles Times. But after some users found ways to disable the light that warns people they're being filmed, \"the high-tech specs have also turned into a liability, as some are calling the gadget 'pervert glasses...'\" Some people are using the glasses — which look like a pair of regular spectacles — to record people without their knowledge and publish the videos on social media. The users secretly videot",
-      "published": "2026-08-10T01:59:00+00:00"
+      "source": "REDDIT",
+      "title": "Is BTL1 worth it for me?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkagrl/is_btl1_worth_it_for_me/",
+      "summary": "I’m currently studying to become a SOC Analyst, and I’m thinking about taking the BTL1 after recently passing Security+. What do you guys think? Any advice or tips? submitted by /u/Rayziz0 [link] [comments]",
+      "published": "2026-08-10T04:06:19+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "O garoto do TI perdido/apavorado quando o assunto é cybersegurança.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vk7jce/o_garoto_do_ti_perdidoapavorado_quando_o_assunto/",
-      "summary": "Este é meu primeiro post na plataforma, mas venho lendo e aprendendo muito com os tópicos de Reddit sobre TI. Há 4 anos eu era o técnico de TI básico: formatava PCs, fazia manutenção simples, montava redes pequenas e cuidava da parte física de redes corporativas. Era o típico \"faz-tudo\" de empresa com poucos funcionários na área. Depois virei auxiliar em outra empresa. Quando o chefe foi demitido e cortaram custos, acabei assumindo a liderança do setor. Foi um salto grande e desafiador. Hoje tra",
-      "published": "2026-08-10T01:42:17+00:00"
+      "title": "Blackhat or DefCon highlights?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vka1x3/blackhat_or_defcon_highlights/",
+      "summary": "I wasn’t able to attend this year but was wondering if anything stood out to anyone. Are we hearing anything new or is it same old same old? Any interesting new solutions to check out? submitted by /u/Hot_Excitement8820 [link] [comments]",
+      "published": "2026-08-10T03:45:54+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "Question about a SOC career(Blue Team)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vk7hve/question_about_a_soc_careerblue_team/",
-      "summary": "Hi everyone, I’m posting this because I’d like a clear and precise overview of the SOC role. I am currently working towards my LPIC-1 certification and would like to steer my career path toward becoming a SOC analyst. How would you recommend I proceed? Also, what is it actually like to work in this field? Thanks in advance for reading this and for your time. submitted by /u/Orsay_ [link] [comments]",
-      "published": "2026-08-10T01:40:23+00:00"
+      "title": "Is anyone actually on top of their security alerts, or is everyone just closing them?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vk944y/is_anyone_actually_on_top_of_their_security/",
+      "summary": "Genuine question. I've seen this at a couple of places now and it's been the same both times. The security tools throw off a list of alerts every day, and someone has to go through them one at a time and decide whether each one is a real problem. Almost none of them are. It's usually the same handful of things firing over and over, a backup job, an automated scan, some internal system doing exactly what it's meant to do. You close them out knowing you'll see the same ones again tomorrow. The par",
+      "published": "2026-08-10T02:58:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Turn satellite imagery into a paper globe you fold yourself",
+      "url": "https://foldingglobes.com/",
+      "summary": "18 points · 2 comments",
+      "published": "2026-08-10T02:57:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What Happened to HackerOne?",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "summary": "88 points · 26 comments",
+      "published": "2026-08-10T02:23:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "22 points · 0 comments",
+      "summary": "48 points · 6 comments",
       "published": "2026-08-10T01:01:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes",
-      "url": "https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Linux Torvalds expects Linux 7.2 should be released next weekend \"unless something really bad pops up,\" Torvalds said while announcing today's release candidate. But there's something interesting about Linux 7.2-rc7, writes Phoronix. \"By the time the Linux kernel typically hits a -rc7 release things have usually settled quite well. But in today's world of AI/LLM coding/review agents, the kernel activity continues at an all-time high.\" Tons of bug fixes continued to trickle in across the kernel s",
-      "published": "2026-08-10T00:59:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Japanese court overturns Red RAW video patent",
       "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "summary": "29 points · 3 comments",
+      "summary": "67 points · 11 comments",
       "published": "2026-08-10T00:36:24+00:00"
     },
     {
@@ -83,13 +95,6 @@
       "published": "2026-08-10T00:00:09+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Flock Accused of Reactivating Its Cameras Without Notifying a Town",
-      "url": "https://yro.slashdot.org/story/26/08/08/0621205/flock-accused-of-reactivating-its-cameras-without-notifying-a-town?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A Massachusetts newspaper reports that officials from the town of Littleton (population: 10,141) \"claim that five of Littletonâ(TM)s Flock Safety cameras were switched back on by the company without informing the town...\" Littleton had temporarily disabled the cameras earlier this year, according to the article, but upon discovering the cameras were still active, city officials say they directed the Town Counsel \"to initiate cancellation of the contract with Flock Safety and directed the Town Ad",
-      "published": "2026-08-09T23:15:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "WIRED Reporters, Louise Matsakis and Lily Hay Newman on Rogue Al Agents & DEF CON",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk49og/wired_reporters_louise_matsakis_and_lily_hay/",
@@ -97,39 +102,18 @@
       "published": "2026-08-09T23:11:45+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "California City Declares State of Emergency After Cyberattack",
-      "url": "https://yro.slashdot.org/story/26/08/09/2144257/california-city-declares-state-of-emergency-after-cyberattack?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "NBC Bay Area brings news from the small idyllic California town of Suisun City (population: 29,518). The city council \"declared a state of emergency Saturday after a cyberattack that shut down computer systems including 911 public safety operations.\" \"Malicious software infected and compromised\" the East Bay community's information technology systems beginning about 5:45 a.m. Friday, the city said on social media. \"The cybersecurity incident hit critical public safety operations, including 911 r",
-      "published": "2026-08-09T22:15:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "AI-Powered Browser Just Generates Every Website From Scratch",
-      "url": "https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "XDA Developers reports: On July 22, a Google DeepMind engineer, Vidy Thatte, shared a snippet of a browser he built that \"treats every URL as a prompt and generates a site from scratch\" on his X account. Just a few days later, he shared a TestFlight link to let iPhone users try it for themselves. The browser he launched is called Gem, and it's a browser that doesn't really...browse. Instead of fetching a webpage from a server the way Chrome or Safari would, Gem hands whatever URL you type over t",
-      "published": "2026-08-09T21:15:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Tuxedo No. 2 – Cocktail recipes",
       "url": "https://tuxedono2.com",
-      "summary": "48 points · 11 comments",
+      "summary": "66 points · 15 comments",
       "published": "2026-08-09T20:48:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New Zealand lost its music media, and what we're building to replace it",
       "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "summary": "79 points · 44 comments",
+      "summary": "92 points · 52 comments",
       "published": "2026-08-09T20:42:29+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Ask Slashdot: What are the Costs of Switching Between Windows, MacOS, and Chrome?",
-      "url": "https://ask.slashdot.org/story/26/08/09/1941202/ask-slashdot-what-are-the-costs-of-switching-between-windows-macos-and-chrome?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "UI changes, lost productivity, untransferrable knowledge... Long-time Slashdot reader theodp notes the folly of switching to an unfamiliar new environment to be \"more productive\"... Champions of the switch often insist workers will be able to hit the ground running and get the same or even more work done from the get-go in the new unfamiliar environment because it's 'more productive', a conclusion often shaped by conventional wisdom or their 'gut' feeling. Decision makers may also mistake their ",
-      "published": "2026-08-09T20:15:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -142,7 +126,7 @@
       "source": "HACKER NEWS",
       "title": "The tragedy of the commons, AI edition",
       "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "summary": "76 points · 42 comments",
+      "summary": "88 points · 53 comments",
       "published": "2026-08-09T19:43:52+00:00"
     },
     {
@@ -156,43 +140,22 @@
       "source": "HACKER NEWS",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "summary": "436 points · 254 comments",
+      "summary": "495 points · 280 comments",
       "published": "2026-08-09T19:16:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I made tinnitus my friend, then it disappeared [video]",
-      "url": "https://mynoise.net/vlog.php?ep=20260803",
-      "summary": "83 points · 57 comments",
-      "published": "2026-08-09T18:41:35+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Slashdot Reader Builds 'Spaced Linux', a New Devuan-Based, User-Friendly Desktop Distro",
-      "url": "https://linux.slashdot.org/story/26/08/09/0226209/slashdot-reader-builds-spaced-linux-a-new-devuan-based-user-friendly-desktop-distro?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"I've been a Linux IT administrator for 30 years now,\" says crhylove (Slashdot reader #205,956), in a new video on his YouTube channel. \"I used to be a data center architect, at one point I was the IT director for 13 school districts... I just haven't been happy overall with all the other operating systems out there... \" I've been working really diligently for the last few weeks on a new distro called Spaced Linux that is exactly what I want to use. It's heavily focused on the [zoom-friendly 3D]",
-      "published": "2026-08-09T17:41:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenChamber: An Agentic Development Environment",
       "url": "https://openchamber.dev/",
-      "summary": "111 points · 55 comments",
+      "summary": "120 points · 66 comments",
       "published": "2026-08-09T17:27:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
-      "summary": "176 points · 660 comments",
+      "summary": "200 points · 714 comments",
       "published": "2026-08-09T17:23:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra",
-      "url": "https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenAI announced Friday it's pausing work on its Astra AI model because of security concerns. The Guardian reports: The company had evaluated the agent, Astra, and found \"significant advancements in agentic coding and cybersecurity\", which had moved to a \"critical\" threshold... OpenAI stated that the model was not involved in an incident in which one of its AI agents went rogue during a test, accessed the open web and hacked a startup, Hugging Face... The reports have increased concerns about ad",
-      "published": "2026-08-09T16:41:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -202,31 +165,17 @@
       "published": "2026-08-09T16:37:25+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Brain Activity Reveals the Melodies That People Imagine",
-      "url": "https://science.slashdot.org/story/26/08/09/0050249/brain-activity-reveals-the-melodies-that-people-imagine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Researchers believe they've found evidence that brain signals reveal the pitches of notes in imagined musical melodies, reports Medical Express: Study participants were 10 epilepsy patients with electrodes on the surfaces of their brains for clinical monitoring. Participants quietly listened to the first bars of children's tunes, then imagined the melodies of subsequent bars before humming their imagined melodies. Brain activity from the patients carried information about relative pitches within",
-      "published": "2026-08-09T15:34:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "summary": "189 points · 144 comments",
+      "summary": "216 points · 163 comments",
       "published": "2026-08-09T15:21:46+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "GNOME Receiving Additional Design Help From Germany's Sovereign Tech Agency Fellowship",
-      "url": "https://news.slashdot.org/story/26/08/09/0519238/gnome-receiving-additional-design-help-from-germanys-sovereign-tech-agency-fellowship?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The new GNOME Boxes app for accessing virtual systems has reached beta, announced This Week in GNOME. There's also been more work on the Sushi file previewer for Nautilus, and Papers 51 Beta can now add visual signatures to PDF documents. But Phoronix noted one more announcement. \"Germany's Sovereign Tech Agency announced earlier this year a new fellowship program and now as part of that, for the next two years GNOME has a fellow dedicated to working on design and community management... paid to",
-      "published": "2026-08-09T14:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "summary": "188 points · 44 comments",
+      "summary": "206 points · 50 comments",
       "published": "2026-08-09T14:32:53+00:00"
     },
     {
@@ -238,38 +187,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Mea Culpa – Dark Hours",
-      "url": "https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html",
-      "summary": "563 points · 256 comments",
-      "published": "2026-08-09T13:20:43+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Flock Camera Vandalism Continues Around America, While 100 Communities Reject ALPRs",
-      "url": "https://yro.slashdot.org/story/26/08/08/059204/flock-camera-vandalism-continues-around-america-while-100-communities-reject-alprs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Dozens of Flock cameras have been vandalized around Dallas Texas in the last six months, reports a local news station. In Utah, ABC News reports, a county sheriff's office even said Wednesday a Flock camera was even vandalized within days of its being installed. And in the Minnesota city of Winona, \"Every Flock license plate reader camera operated by the Winona Police Department has been sawed off and stolen in what investigators believe was a coordinated theft,\" according to local media: All ei",
-      "published": "2026-08-09T11:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Everything you do is being recorded",
       "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "summary": "217 points · 173 comments",
+      "summary": "237 points · 190 comments",
       "published": "2026-08-09T11:30:48+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Quake Celebrates 30th Anniversary: New Official Episode With New Maps and Mechanics",
-      "url": "https://games.slashdot.org/story/26/08/09/0628245/quake-celebrates-30th-anniversary-new-official-episode-with-new-maps-and-mechanics?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "To celebrate Quake's 30th anniversary, Bethesda released \"a brutal new episode\" — a new campaign chapter titled Dawn of the Machine \"delivering ferocious combat, labyrinthine level design, and nightmarish realms that twist reality beyond recognition...\" Face deadly new twists on familiar foes, including the Rocket Ogre, Demo Dog, Blood Shambler, and more. Each variant introduces lethal new behaviours — from overwhelming firepower to explosive death traps — forcing you to rethink every encounter.",
-      "published": "2026-08-09T09:52:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Finally, something useful from Google regarding search hijacking.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vji7f2/finally_something_useful_from_google_regarding/",
-      "summary": "The number of extensions I’m finding and reporting that silently override users’ search engines is honestly crazy. https://malext.io/?q=SearchJack Hopefully Google’s upcoming Chrome protection against extensions that hijack the default search engine and New Tab page will put a serious dent in this. There are way too many extensions abusing this behavior, often without users even realizing what’s happening. It’s about time Chrome started shutting this down by default. submitted by /u/Huge-Skirt-6",
-      "published": "2026-08-09T06:18:19+00:00"
     },
     {
       "source": "REDDIT",
@@ -415,7 +336,7 @@
       "source": "HACKER NEWS",
       "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
       "url": "https://publicdomainreview.org/collection/marnameh/",
-      "summary": "29 points · 2 comments",
+      "summary": "41 points · 4 comments",
       "published": "2026-08-07T04:04:56+00:00"
     },
     {
@@ -429,7 +350,7 @@
       "source": "HACKER NEWS",
       "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
       "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-      "summary": "35 points · 26 comments",
+      "summary": "41 points · 29 comments",
       "published": "2026-08-06T22:41:24+00:00"
     },
     {
@@ -438,6 +359,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
       "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
       "published": "2026-08-06T22:37:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ATProto for Distributed Systems Engineers",
+      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
+      "summary": "22 points · 3 comments",
+      "published": "2026-08-06T21:35:37+00:00"
     },
     {
       "source": "OSINT",
@@ -478,21 +406,14 @@
       "source": "HACKER NEWS",
       "title": "The German Mittelstand",
       "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "summary": "14 points · 0 comments",
+      "summary": "20 points · 3 comments",
       "published": "2026-08-06T07:32:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Touring the Consensus, Six Months In",
-      "url": "https://theconsensus.dev/blog/2026/08/05/touring-the-consensus-six-months-in.html",
-      "summary": "13 points · 0 comments",
-      "published": "2026-08-06T04:59:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "url": "https://gitlab.com/Kazade/picophysics",
-      "summary": "14 points · 5 comments",
+      "summary": "30 points · 8 comments",
       "published": "2026-08-05T12:52:00+00:00"
     },
     {
