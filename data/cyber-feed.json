@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T09:40:24.385138+00:00",
+  "updated": "2026-08-10T11:14:09.921767+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,60 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027",
+      "summary": "4 points · 0 comments",
+      "published": "2026-08-10T10:55:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Which certifications to get for the cheapest price?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkhj0y/which_certifications_to_get_for_the_cheapest_price/",
+      "summary": "I'm new to cybersecurity and was wondering which ones are worth it to study and I want to work in GRC. Thank you in advance. 🫰 submitted by /u/Unlikely_You_5015 [link] [comments]",
+      "published": "2026-08-10T10:54:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Synology's continuous connections to Russian IPs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkh9u0/synologys_continuous_connections_to_russian_ips/",
+      "summary": "Hello everyone! I have noticed a strange and continuous flow of connections from my Synology NAS to Russian IP addresses. Do you have any ideas? Could it be a genuine process from Synology's applications? I have attached my log showing a prevention block towards the Russian Federation. Thank you in advance! submitted by /u/diegoapples [link] [comments]",
+      "published": "2026-08-10T10:40:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Meta Muse Glimmer – open weights 30B local coding model",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "summary": "89 points · 21 comments",
+      "published": "2026-08-10T10:10:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "One Email, Three Identities: SPF, DKIM and DMARC Explained",
+      "url": "https://senderledger.com/articles/one-email-three-identities-spf-dkim-dmarc",
+      "summary": "5 points · 1 comments",
+      "published": "2026-08-10T09:55:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+      "published": "2026-08-10T09:49:37+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "XSS2Shell: Pre-Auth XSS in WordPress Login (CVE-2026-64638) Walkthrough",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkg8n0/xss2shell_preauth_xss_in_wordpress_login/",
+      "summary": "I spent some time this weekend reproducing the recently disclosed XSS2Shell: WordPress login-page reflected XSS (CVE-2026-64638). If you didn’t get a chance to read about it, here is the summary: Crazy simple XSS where the root cause is two sanitizers that disagree about what counts as an HTML tag: test gets stripped, while test passes through the first sanitizer and is normalized into a valid element by the second. That gives you an HTML injection, but you can’t turn it into XSS because the sec",
+      "published": "2026-08-10T09:42:14+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Am I in a bad soc?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vkfyfh/am_i_in_a_bad_soc/",
       "summary": "I'm working for a big mssp as a security analyst and I like it. I'm on my 5th year, but I find the team culture draining. There are good and bad moments, like any workplace, maybe my case is just personal interests? About my role: Hybrid role, 1 day in required, team of ~5 other looking after 7-10 accounts no budget for events, eating out, etc zero rem. review nopathway to senior or leadership roles,, No budget for upskilling None of these, however, upsets me, as much as having leaders with no s",
       "published": "2026-08-10T09:25:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "v",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkfm73/v/",
-      "summary": "The first alert i received was a warning that the email on my second machine had been compromised, i tracked him as he logged into fake social media accounts on that machine and by each time a notification comes up that he uploaded or changed some data, and each time i simply enter the account and reset the password, stack extra security layers and move to the next Then came the second alert in French and this is on my other email on my main machine had been breached too, that’s when i panicked,",
-      "published": "2026-08-10T09:04:47+00:00"
     },
     {
       "source": "REDDIT",
@@ -53,13 +95,6 @@
       "url": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
       "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names of the extensions are below - helper-beeps.solidity-pro web3devtoolsx.solidity-pro Although neither of the extensions is now available on Open VSX, the GitHub repository",
       "published": "2026-08-10T07:38:23+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Family member got a scam call question for digital investigators",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vke620/family_member_got_a_scam_call_question_for/",
-      "summary": "they made threats on a family member for ransom money. the family member was fine and not kidnapped but scared the shit out of my aunt. from a digital forensic perspective, do these always lead to a dead end. phone they called were most likely burners. I’m just curious and furious 😅 submitted by /u/Old_donut12 [link] [comments]",
-      "published": "2026-08-10T07:35:56+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -79,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
       "url": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "188 points · 123 comments",
+      "summary": "256 points · 153 comments",
       "published": "2026-08-10T06:02:38+00:00"
     },
     {
@@ -97,13 +132,6 @@
       "published": "2026-08-10T04:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Auto mode is now the default in Claude Code",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "summary": "207 points · 202 comments",
-      "published": "2026-08-10T03:50:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Blackhat or DefCon highlights?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vka1x3/blackhat_or_defcon_highlights/",
@@ -114,14 +142,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "summary": "79 points · 27 comments",
+      "summary": "105 points · 35 comments",
       "published": "2026-08-10T03:18:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
-      "summary": "74 points · 8 comments",
+      "summary": "95 points · 8 comments",
       "published": "2026-08-10T03:12:48+00:00"
     },
     {
@@ -135,14 +163,14 @@
       "source": "HACKER NEWS",
       "title": "Turn satellite imagery into a paper globe you fold yourself",
       "url": "https://foldingglobes.com/",
-      "summary": "59 points · 20 comments",
+      "summary": "66 points · 21 comments",
       "published": "2026-08-10T02:57:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "summary": "223 points · 97 comments",
+      "summary": "256 points · 125 comments",
       "published": "2026-08-10T02:23:17+00:00"
     },
     {
@@ -156,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "89 points · 8 comments",
+      "summary": "102 points · 11 comments",
       "published": "2026-08-10T01:01:34+00:00"
     },
     {
@@ -219,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "summary": "630 points · 383 comments",
+      "summary": "665 points · 413 comments",
       "published": "2026-08-09T19:16:49+00:00"
     },
     {
@@ -233,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
-      "summary": "239 points · 857 comments",
+      "summary": "255 points · 895 comments",
       "published": "2026-08-09T17:23:22+00:00"
     },
     {
@@ -254,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "summary": "288 points · 198 comments",
+      "summary": "302 points · 209 comments",
       "published": "2026-08-09T15:21:46+00:00"
     },
     {
@@ -268,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "summary": "238 points · 59 comments",
+      "summary": "247 points · 61 comments",
       "published": "2026-08-09T14:32:53+00:00"
     },
     {
@@ -277,13 +305,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vjqdli/what_areas_of_cybersecurity_are_underexplored_or/",
       "summary": "I’ve been researching what actually helps people become effective cybersecurity professionals. A lot of the discussion focuses on technical skills: pentesting, tools, certs, CTFs, SIEMs, etc. But I keep seeing gaps around things like: communicating with non-technical people understanding business risk executive escalation audits & governance knowing when NOT to act risk acceptance networking with people understanding how security fits into the wider organisation strong IT fundamentals What areas",
       "published": "2026-08-09T13:49:30+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "As many as five suicides in US Military cyber warfare unit in one month",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vj0usx/as_many_as_five_suicides_in_us_military_cyber/",
-      "summary": "This is deeply disturbing. Wtf is going on there and why would this happen? submitted by /u/aristacat [link] [comments]",
-      "published": "2026-08-08T16:49:31+00:00"
     },
     {
       "source": "OSINT",
@@ -373,7 +394,7 @@
       "source": "HACKER NEWS",
       "title": "An alias-based formulation of the borrow checker (2018)",
       "url": "https://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/",
-      "summary": "5 points · 1 comments",
+      "summary": "11 points · 1 comments",
       "published": "2026-08-07T15:20:28+00:00"
     },
     {
@@ -398,6 +419,13 @@
       "published": "2026-08-07T12:56:23+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Tail-Call Interpreters in Rust – Jimmy Ostler",
+      "url": "https://lordgoati.us/blog/tail-call/",
+      "summary": "25 points · 8 comments",
+      "published": "2026-08-07T12:05:10+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Growing Up The Hard Way",
       "url": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
@@ -406,16 +434,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Slap ROM Patcher",
-      "url": "https://nyuu.page/projects/slap/",
-      "summary": "17 points · 5 comments",
-      "published": "2026-08-07T04:54:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "An Interesting Fourier Transform – 1/F Noise",
       "url": "https://www.dsprelated.com/showarticle/40.php",
-      "summary": "36 points · 7 comments",
+      "summary": "53 points · 13 comments",
       "published": "2026-08-07T01:56:10+00:00"
     },
     {
@@ -431,13 +452,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
       "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
       "published": "2026-08-06T22:37:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "ATProto for Distributed Systems Engineers",
-      "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "summary": "79 points · 13 comments",
-      "published": "2026-08-06T21:35:37+00:00"
     },
     {
       "source": "OSINT",
@@ -468,32 +482,18 @@
       "published": "2026-08-06T17:00:56+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "url": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
-      "published": "2026-08-06T16:11:39+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: I made alchemical-cosmological PCB badges",
       "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
-      "summary": "10 points · 0 comments",
+      "summary": "13 points · 1 comments",
       "published": "2026-08-05T16:15:51+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "summary": "54 points · 16 comments",
-      "published": "2026-08-05T12:52:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nearest Pint",
-      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-      "summary": "31 points · 15 comments",
-      "published": "2026-08-04T19:47:10+00:00"
+      "title": "How Blackwing Pencils are Made [video]",
+      "url": "https://www.youtube.com/watch?v=fow-LsdaH2E",
+      "summary": "12 points · 0 comments",
+      "published": "2026-08-05T14:58:09+00:00"
     },
     {
       "source": "OSINT",
