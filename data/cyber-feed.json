@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T20:52:03.378263+00:00",
-  "item_count": 88,
+  "updated": "2026-08-10T21:50:00.176886+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,11 +16,44 @@
     },
     {
       "source": "REDDIT",
+      "url": "https://www.reddit.com/r/netsec/.rss",
+      "error": "HTTPError"
+    },
+    {
+      "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "HACKER NEWS",
+      "title": "Amazon backs power plant that may become top source of US climate pollution",
+      "url": "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
+      "summary": "15 points · 4 comments",
+      "published": "2026-08-10T21:26:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
+      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
+      "published": "2026-08-10T21:12:10+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Valve Slowly Expands SteamOS Support On Non-Valve Hardware",
+      "url": "https://hardware.slashdot.org/story/26/08/10/2027209/valve-slowly-expands-steamos-support-on-non-valve-hardware?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Valve is continuing to broaden SteamOS support beyond its own hardware, with the latest beta adding \"initial gamepad support\" for a few recent gaming handhelds and improving compatibility for a few others. Ars Technica reports: Those newly supported handhelds include MSI's Claw 8 EX AI+, the extremely expensive, extremely powerful handheld built around Intel's Arc G3 processor that launched this summer. While SteamOS has long included beta support for \"other AMD powered handhelds,\" Valve has onl",
+      "published": "2026-08-10T21:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Stop Killing Games: It's time to sue Sony, join us",
+      "url": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
+      "summary": "27 points · 3 comments",
+      "published": "2026-08-10T20:47:13+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "Automated app patching recommendations",
@@ -39,7 +72,7 @@
       "source": "HACKER NEWS",
       "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
       "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
-      "summary": "24 points · 4 comments",
+      "summary": "162 points · 162 comments",
       "published": "2026-08-10T20:20:06+00:00"
     },
     {
@@ -48,6 +81,13 @@
       "url": "https://slashdot.org/story/26/08/10/200220/first-rival-android-app-store-arrives-in-the-us-play-store?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Aptoide has become the first third-party Android app store available directly through Google Play in the U.S. \"The change is a direct result of Google's litigation with Epic, which saw a judge rule in 2024 that the Play Store would have to open up to third-party stores,\" notes The Verge. The change makes rival storefronts far easier to discover and install, potentially opening the door for Epic, Amazon, Samsung, Microsoft and others to distribute their own app stores through Google's store. From",
       "published": "2026-08-10T20:01:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Looking for someone to work through PortSwigger labs with",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkv3zq/looking_for_someone_to_work_through_portswigger/",
+      "summary": "Hey everyone, I’m working through the PortSwigger Web Security Academy labs and looking for someone to do them with. There are a lot of labs, and it’s pretty easy to lose motivation, stop for a while, and never get back to them. I’m not looking for someone to teach me or someone I have to push - I’m in the same boat and could use the accountability myself. Would be nice to have someone to regularly work through labs with, bounce ideas off each other, discuss challenges, and just have that little",
+      "published": "2026-08-10T19:42:58+00:00"
     },
     {
       "source": "OSINT",
@@ -64,17 +104,10 @@
       "published": "2026-08-10T19:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Inside a Russian-speaking operator's toolkit for compromising Ukrainian IP cameras",
-      "url": "https://www.reddit.com/r/netsec/comments/1vktfi3/inside_a_russianspeaking_operators_toolkit_for/",
-      "summary": "Hunt.io researchers analyzed two open directories recovered through Attack Capture system and reconstructed the tooling one operator used to find, exploit, and view internet-exposed cameras in Ukraine. Technical highlights: A custom FastAPI/Docker project the operator named camview, which wraps the open-source Ingram scanner, brute-forces camera credentials over HTTP and RTSP (3,811 pair dictionary), and transcodes RTSP to MJPEG for browser viewing Ingram targets known camera CVEs: CVE-2017-7921",
-      "published": "2026-08-10T18:41:25+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Rust SIMD on the GPU",
       "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "summary": "54 points · 28 comments",
+      "summary": "73 points · 36 comments",
       "published": "2026-08-10T18:12:49+00:00"
     },
     {
@@ -102,15 +135,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "summary": "6 points · 0 comments",
+      "summary": "51 points · 21 comments",
       "published": "2026-08-10T17:22:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Over 181,000 AI meeting recordings left wide open in note taking app",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkqt3m/over_181000_ai_meeting_recordings_left_wide_open/",
-      "summary": "submitted by /u/HumbleRestaurant790 [link] [comments]",
-      "published": "2026-08-10T17:07:51+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -130,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
       "url": "https://www.stoaexchange.com",
-      "summary": "55 points · 26 comments",
+      "summary": "58 points · 32 comments",
       "published": "2026-08-10T16:35:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Exploiting System Management Mode with a very long interrupt",
       "url": "https://github.com/xoreaxeaxeax/smiiiiiiiiiiiiiiii",
-      "summary": "92 points · 29 comments",
+      "summary": "101 points · 33 comments",
       "published": "2026-08-10T16:03:14+00:00"
     },
     {
@@ -149,23 +175,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "url": "https://github.com/AntigmaLabs/ante",
-      "summary": "107 points · 67 comments",
-      "published": "2026-08-10T15:59:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Extreme 220GHz+Broadband Silicon Capacitor X2SC 0201M 22nF BV11",
-      "url": "https://pim.murata.com/asset/pim4/siliconCapacitor/SICAP_X2SC422522_PDF_SILICONCAPACITOR",
-      "summary": "48 points · 17 comments",
-      "published": "2026-08-10T15:53:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Magnitude 7.4 Earthquake – 5 km S of San José del Palmar, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2/executive",
-      "summary": "132 points · 42 comments",
+      "summary": "140 points · 49 comments",
       "published": "2026-08-10T15:49:48+00:00"
     },
     {
@@ -183,6 +195,13 @@
       "published": "2026-08-10T15:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "summary": "72 points · 135 comments",
+      "published": "2026-08-10T14:38:20+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
@@ -193,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "217 points · 270 comments",
+      "summary": "254 points · 313 comments",
       "published": "2026-08-10T14:06:22+00:00"
     },
     {
@@ -214,14 +233,14 @@
       "source": "HACKER NEWS",
       "title": "Humanising LLM Outputs Is Dumb",
       "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
-      "summary": "79 points · 44 comments",
+      "summary": "96 points · 54 comments",
       "published": "2026-08-10T13:35:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mistral Patent for “Code implemented tool calls”",
       "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
-      "summary": "178 points · 146 comments",
+      "summary": "191 points · 153 comments",
       "published": "2026-08-10T13:29:12+00:00"
     },
     {
@@ -256,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Squeak 6.1",
       "url": "https://squeak.org/release_notes/6.1/",
-      "summary": "175 points · 91 comments",
+      "summary": "190 points · 97 comments",
       "published": "2026-08-10T12:15:53+00:00"
     },
     {
@@ -305,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
-      "summary": "919 points · 515 comments",
+      "summary": "937 points · 525 comments",
       "published": "2026-08-10T10:10:02+00:00"
     },
     {
@@ -351,13 +370,6 @@
       "published": "2026-08-10T06:47:12+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-      "url": "https://www.docker.com/products/docker-sandboxes/",
-      "summary": "583 points · 335 comments",
-      "published": "2026-08-10T06:02:38+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
       "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
@@ -400,60 +412,11 @@
       "published": "2026-08-10T00:00:09+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Flock Accused of Reactivating Its Cameras Without Notifying a Town",
-      "url": "https://yro.slashdot.org/story/26/08/08/0621205/flock-accused-of-reactivating-its-cameras-without-notifying-a-town?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A Massachusetts newspaper reports that officials from the town of Littleton (population: 10,141) \"claim that five of Littletonâ(TM)s Flock Safety cameras were switched back on by the company without informing the town...\" Littleton had temporarily disabled the cameras earlier this year, according to the article, but upon discovering the cameras were still active, city officials say they directed the Town Counsel \"to initiate cancellation of the contract with Flock Safety and directed the Town Ad",
-      "published": "2026-08-09T23:15:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Beyond Prompt Injection: Hacking Apple's Private Cloud Compute",
-      "url": "https://www.reddit.com/r/netsec/comments/1vk1ybs/beyond_prompt_injection_hacking_apples_private/",
-      "summary": "submitted by /u/smaury [link] [comments]",
-      "published": "2026-08-09T21:33:04+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption",
-      "url": "https://www.reddit.com/r/netsec/comments/1vjxr66/when_terrible_disclosure_from_the_vendor_results/",
-      "summary": "submitted by /u/kev-thehermit [link] [comments]",
-      "published": "2026-08-09T18:44:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "DEFCON: New Red Team Tactic",
-      "url": "https://www.reddit.com/r/netsec/comments/1vjfos6/defcon_new_red_team_tactic/",
-      "summary": "Evil Fonts deceive a viewer by rendering a different letter than is actually on the disk. Evil Fonts can poison HTML, DOCX, PDFs, and anywhere else you can bring your own fonts. Works great in Windows corporate networks for bypassing security tooling, initial access through JavaScript free click fix (beats mitm web security tooling), and leaving traps around the network to harvest shells. Imagine thinking you are copying whoami but what is actually on the disk is rm -rf \\~ Demos: (Use desktop) h",
-      "published": "2026-08-09T03:59:22+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Analyzing a Multi-Stage PowerShell Payload Chain",
-      "url": "https://www.reddit.com/r/netsec/comments/1vj2hiw/analyzing_a_multistage_powershell_payload_chain/",
-      "summary": "I recently analyzed a multi-stage PowerShell payload delivery chain involving heavily obfuscated PowerShell loaders and remotely hosted payloads. The analysis covers PowerShell deobfuscation, hidden execution, Base64/XOR decoding, a decoy “Verification complete!” prompt, payload delivery, and IOCs. Initial indicators: 203[.]188[.]171[.]166 dorenzaa[.]com submitted by /u/anuraggawande [link] [comments]",
-      "published": "2026-08-08T17:55:01+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
       "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
       "published": "2026-08-08T14:16:23+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "DEF CON talk: 8 in 10 Banks in Belgium HATE This One Weird eID RCE",
-      "url": "https://www.reddit.com/r/netsec/comments/1viux00/def_con_talk_8_in_10_banks_in_belgium_hate_this/",
-      "summary": "Hey everyone, I'm OP here so feel free to ask questions submitted by /u/acorn222 [link] [comments]",
-      "published": "2026-08-08T12:36:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Write Once, Shell Everywhere - Turning Arbitrary File Writes into RCE (DEF CON Bug Bounty Village)",
-      "url": "https://www.reddit.com/r/netsec/comments/1vir8aq/write_once_shell_everywhere_turning_arbitrary/",
-      "summary": "Write once, shell everywhere. Sun Microsystems didn't mean it like this. Talk from today at DEF CON's Bug Bounty Village. Full technique catalog graded for distroless containers, an errno path oracle for black-box target fingerprinting, and three minimal-guessing techniques: bash fd/255, Rails schema_cache.yml deserialization, and a Node.js worker path overwrite without process restart. submitted by /u/ZealousidealHunter80 [link] [comments]",
-      "published": "2026-08-08T09:10:24+00:00"
     },
     {
       "source": "OSINT",
@@ -484,20 +447,6 @@
       "published": "2026-08-08T06:57:43+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "RovoBlast: How One Click Triggered Atlassian’s AI Assistant to Leak Data",
-      "url": "https://www.reddit.com/r/netsec/comments/1vilqda/rovoblast_how_one_click_triggered_atlassians_ai/",
-      "summary": "submitted by /u/lohacker0 [link] [comments]",
-      "published": "2026-08-08T03:57:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "SCTPhantom: An 18-Year-Old SCTP ASCONF Transport Use-After-Free · Tencent Zhuque Lab",
-      "url": "https://www.reddit.com/r/netsec/comments/1vijs4n/sctphantom_an_18yearold_sctp_asconf_transport/",
-      "summary": "Yes, given that the legacy SCT protocol has known security vulnerabilities such as sctphantom, the industry strongly recommends deprecating it and migrating to more secure modern standards to ensure system security. submitted by /u/thobiso [link] [comments]",
-      "published": "2026-08-08T02:20:01+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
@@ -512,31 +461,24 @@
       "published": "2026-08-07T19:30:41+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "tl;dv (Too Lazy; Didn't Validate): 181,874 Meetings Left Wide Open",
-      "url": "https://www.reddit.com/r/netsec/comments/1vi8ibp/tldv_too_lazy_didnt_validate_181874_meetings_left/",
-      "summary": "The meetings collection has no tenant isolation. Any authenticated tl;dv user can query every meeting across every account on the platform. Each meeting record hands you the creator's email address, the conference ID (which is a joinable Google Meet or Teams room), the provider, the recording status, and timestamps. I queried the Firestore meetings collection and saw there were 181,874 meeting records belonging to 84,312 unique users across 35,003 email domains . submitted by /u/kochurshak [link",
-      "published": "2026-08-07T18:23:05+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
       "url": "https://news.ycombinator.com/item?id=49213660",
-      "summary": "97 points · 33 comments",
+      "summary": "111 points · 38 comments",
       "published": "2026-08-07T17:29:16+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
-      "published": "2026-08-07T15:48:20+00:00"
+      "source": "HACKER NEWS",
+      "title": "Publishing Schematics Before \"Open Source\" Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "summary": "20 points · 2 comments",
+      "published": "2026-08-07T15:59:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "summary": "217 points · 61 comments",
+      "summary": "245 points · 65 comments",
       "published": "2026-08-07T10:26:34+00:00"
     },
     {
@@ -548,24 +490,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Why Can't You Pack a Bag? (2024)",
-      "url": "https://www.newyorker.com/culture/open-questions/why-cant-you-pack-a-bag",
-      "summary": "27 points · 33 comments",
-      "published": "2026-08-05T06:53:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The Psychedelic Toad of the Sonoran Desert",
       "url": "https://en.wikipedia.org/wiki/Bufo_Alvarius:_the_Psychedelic_Toad_of_the_Sonoran_Desert",
-      "summary": "38 points · 29 comments",
+      "summary": "48 points · 34 comments",
       "published": "2026-08-04T17:49:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "r/netsec monthly discussion & tool thread",
-      "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
-      "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely. If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely. Avoid use of mem",
-      "published": "2026-08-01T13:29:06+00:00"
     },
     {
       "source": "OSINT",
@@ -580,6 +508,55 @@
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
       "published": "2026-07-22T01:10:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13T15:03:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08T12:31:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02T19:27:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23T16:12:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+      "published": "2026-06-18T17:37:58+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "url": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "2026-06-10T14:03:44+00:00"
     }
   ]
 }
