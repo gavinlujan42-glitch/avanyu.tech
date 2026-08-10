@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T05:57:31.421385+00:00",
+  "updated": "2026-08-10T07:53:55.844881+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,17 +27,59 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Family member got a scam call question for digital investigators",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vke620/family_member_got_a_scam_call_question_for/",
+      "summary": "they made threats on a family member for ransom money. the family member was fine and not kidnapped but scared the shit out of my aunt. from a digital forensic perspective, do these always lead to a dead end. phone they called were most likely burners. I’m just curious and furious 😅 submitted by /u/Old_donut12 [link] [comments]",
+      "published": "2026-08-10T07:35:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "How Accurate Are Flock's AI-Powered License-Reading Cameras?",
+      "url": "https://yro.slashdot.org/story/26/08/09/230247/how-accurate-are-flocks-ai-powered-license-reading-cameras?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Futurism reports: 404 Media revealed that a July 10 audit by the Los Angeles Police Department Office of the Inspector General caught the department's ALPR cameras generating 161 false stolen-vehicle alerts in just two months — each one ending with officers pulling over an innocent driver. Factoring in 337 alerts which \"resulted in the recovery of stolen vehicles,\" the LAPD's cameras carry an error rate of 32.3 percent, effectively giving officers a one-in-three chance at pulling an innocent per",
+      "published": "2026-08-10T07:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "M.Tech Cybersecurity student looking for guidance on choosing a practical research topic",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkdspi/mtech_cybersecurity_student_looking_for_guidance/",
+      "summary": "I'm currently pursuing an M.Tech in Cybersecurity and I'm starting my research work. I have some theoretical knowledge of cybersecurity and networking, along with practical experience in network/firewall environments, but I don't have much experience conducting academic research. I'm looking for advice from people who have experience in cybersecurity research. One idea I'm currently exploring is: A controlled cybersecurity sandbox containing intentionally vulnerable systems, where AI-based agent",
+      "published": "2026-08-10T07:13:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How should TP/FP/TN/FN be calculated for Snort when alerts don’t correspond 1:1 with packets?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkdrg1/how_should_tpfptnfn_be_calculated_for_snort_when/",
+      "summary": "Hi everyone, I’m doing my research on evaluating Snort IDS under different network traffic loads, and I’m struggling with one methodological question that I’d really appreciate some advice on. I have a controlled test environment where I generate traffic with known ground truth. For example: SYN-flood traffic = attack ICMP/UDP traffic = attack HTTP/other traffic = benign Each traffic source can be identified separately I have the generated packets/PCAPs as ground truth Snort produces alerts base",
+      "published": "2026-08-10T07:11:51+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "North Korean hacking group builds AI tools for cyberattacks, report says",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkdc9g/north_korean_hacking_group_builds_ai_tools_for/",
+      "summary": "North Korean hacking group Kimsuky reportedly builds AI tools for cyberattacks A North Korean-linked hacking group is reportedly moving beyond simply using generative AI for phishing. According to South Korean cybersecurity firm Genians, Kimsuky has set up local AI environments using tools including Ollama, GPT4All and Msty, as well as RAG-based document search systems. Researchers also found AI agent development frameworks, speech-to-text software and Cursor, an AI-assisted coding tool. The int",
+      "published": "2026-08-10T06:47:12+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Why do we assume everyone should be working?",
-      "url": "https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/",
-      "summary": "9 points · 0 comments",
-      "published": "2026-08-10T05:16:26+00:00"
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "summary": "108 points · 58 comments",
+      "published": "2026-08-10T06:02:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+      "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
+      "published": "2026-08-10T05:50:03+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Philippines' big offshoring industry is growing despite AI",
       "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
-      "summary": "4 points · 1 comments",
+      "summary": "27 points · 27 comments",
       "published": "2026-08-10T04:35:24+00:00"
     },
     {
@@ -48,24 +90,10 @@
       "published": "2026-08-10T04:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Is BTL1 worth it for me?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkagrl/is_btl1_worth_it_for_me/",
-      "summary": "I’m currently studying to become a SOC Analyst, and I’m thinking about taking the BTL1 after recently passing Security+. What do you guys think? Any advice or tips? submitted by /u/Rayziz0 [link] [comments]",
-      "published": "2026-08-10T04:06:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
-      "url": "https://www.nber.org/papers/w35560",
-      "summary": "47 points · 13 comments",
-      "published": "2026-08-10T04:06:10+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Auto mode is now the default in Claude Code",
       "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-      "summary": "98 points · 61 comments",
+      "summary": "169 points · 153 comments",
       "published": "2026-08-10T03:50:00+00:00"
     },
     {
@@ -79,14 +107,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
       "url": "https://www.whodunnitai.com/",
-      "summary": "42 points · 4 comments",
+      "summary": "60 points · 18 comments",
       "published": "2026-08-10T03:18:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
       "url": "https://github.com/shinyquagsire23/Klepton",
-      "summary": "25 points · 0 comments",
+      "summary": "52 points · 5 comments",
       "published": "2026-08-10T03:12:48+00:00"
     },
     {
@@ -100,14 +128,14 @@
       "source": "HACKER NEWS",
       "title": "Turn satellite imagery into a paper globe you fold yourself",
       "url": "https://foldingglobes.com/",
-      "summary": "27 points · 7 comments",
+      "summary": "45 points · 10 comments",
       "published": "2026-08-10T02:57:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "summary": "143 points · 42 comments",
+      "summary": "185 points · 74 comments",
       "published": "2026-08-10T02:23:17+00:00"
     },
     {
@@ -121,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "67 points · 6 comments",
+      "summary": "83 points · 7 comments",
       "published": "2026-08-10T01:01:34+00:00"
     },
     {
@@ -153,13 +181,6 @@
       "published": "2026-08-09T23:15:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "WIRED Reporters, Louise Matsakis and Lily Hay Newman on Rogue Al Agents & DEF CON",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vk49og/wired_reporters_louise_matsakis_and_lily_hay/",
-      "summary": "submitted by /u/_clickfix_ [link] [comments]",
-      "published": "2026-08-09T23:11:45+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "California City Declares State of Emergency After Cyberattack",
       "url": "https://yro.slashdot.org/story/26/08/09/2144257/california-city-declares-state-of-emergency-after-cyberattack?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -188,13 +209,6 @@
       "published": "2026-08-09T20:12:43+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "summary": "104 points · 57 comments",
-      "published": "2026-08-09T19:43:52+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Worried, any advice welcome",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vjz0ui/worried_any_advice_welcome/",
@@ -205,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "summary": "558 points · 312 comments",
+      "summary": "604 points · 354 comments",
       "published": "2026-08-09T19:16:49+00:00"
     },
     {
@@ -219,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
-      "summary": "218 points · 762 comments",
+      "summary": "234 points · 809 comments",
       "published": "2026-08-09T17:23:22+00:00"
     },
     {
@@ -228,13 +242,6 @@
       "url": "https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "OpenAI announced Friday it's pausing work on its Astra AI model because of security concerns. The Guardian reports: The company had evaluated the agent, Astra, and found \"significant advancements in agentic coding and cybersecurity\", which had moved to a \"critical\" threshold... OpenAI stated that the model was not involved in an incident in which one of its AI agents went rogue during a test, accessed the open web and hacked a startup, Hugging Face... The reports have increased concerns about ad",
       "published": "2026-08-09T16:41:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Creating a roadmap",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vjuhqa/creating_a_roadmap/",
-      "summary": "I’ve posted on here before and got some decent advice but I’m looking for a little more insight, I just graduated with my associates in cloud technology engineering and I have my aws certified practitioner cert along with what I’ve been told is an impressive technical capstone project which is an anomalous network detection system through aws deployed with terraform on my resume. I’ve been applying to every job possible especially helpdesk and IT support roles for the past 2 months since graduat",
-      "published": "2026-08-09T16:37:25+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -247,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "summary": "242 points · 177 comments",
+      "summary": "274 points · 187 comments",
       "published": "2026-08-09T15:21:46+00:00"
     },
     {
@@ -261,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "summary": "216 points · 53 comments",
+      "summary": "228 points · 56 comments",
       "published": "2026-08-09T14:32:53+00:00"
     },
     {
@@ -270,20 +277,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vjqdli/what_areas_of_cybersecurity_are_underexplored_or/",
       "summary": "I’ve been researching what actually helps people become effective cybersecurity professionals. A lot of the discussion focuses on technical skills: pentesting, tools, certs, CTFs, SIEMs, etc. But I keep seeing gaps around things like: communicating with non-technical people understanding business risk executive escalation audits & governance knowing when NOT to act risk acceptance networking with people understanding how security fits into the wider organisation strong IT fundamentals What areas",
       "published": "2026-08-09T13:49:30+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Flock Camera Vandalism Continues Around America, While 100 Communities Reject ALPRs",
-      "url": "https://yro.slashdot.org/story/26/08/08/059204/flock-camera-vandalism-continues-around-america-while-100-communities-reject-alprs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Dozens of Flock cameras have been vandalized around Dallas Texas in the last six months, reports a local news station. In Utah, ABC News reports, a county sheriff's office even said Wednesday a Flock camera was even vandalized within days of its being installed. And in the Minnesota city of Winona, \"Every Flock license plate reader camera operated by the Winona Police Department has been sawed off and stolen in what investigators believe was a coordinated theft,\" according to local media: All ei",
-      "published": "2026-08-09T11:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cybersecurity professionals: what do junior candidates usually struggle with?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vj8d6g/cybersecurity_professionals_what_do_junior/",
-      "summary": "For people who work in cybersecurity and have mentored, trained or hired juniors: What do you notice new/graduate candidates struggling with most? I’m particularly interested in things that aren’t obvious from a CV. For example: Troubleshooting Investigating unfamiliar problems Understanding logs Networking fundamentals Using unfamiliar tools Writing reports Explaining their reasoning Knowing what to investigate first Connecting theory to an actual incident Are there skills you wish universities",
-      "published": "2026-08-08T22:02:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -412,18 +405,18 @@
       "published": "2026-08-07T11:10:33+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
-      "published": "2026-08-07T10:58:38+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Slap ROM Patcher",
       "url": "https://nyuu.page/projects/slap/",
-      "summary": "6 points · 0 comments",
+      "summary": "12 points · 1 comments",
       "published": "2026-08-07T04:54:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An Interesting Fourier Transform – 1/F Noise",
+      "url": "https://www.dsprelated.com/showarticle/40.php",
+      "summary": "19 points · 3 comments",
+      "published": "2026-08-07T01:56:10+00:00"
     },
     {
       "source": "OSINT",
@@ -443,7 +436,7 @@
       "source": "HACKER NEWS",
       "title": "ATProto for Distributed Systems Engineers",
       "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "summary": "42 points · 7 comments",
+      "summary": "67 points · 12 comments",
       "published": "2026-08-06T21:35:37+00:00"
     },
     {
@@ -483,16 +476,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: I made alchemical-cosmological PCB badges",
+      "url": "https://github.com/KaiPereira/Alchemical-Cosmological-Badges",
+      "summary": "5 points · 0 comments",
+      "published": "2026-08-05T16:15:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
       "url": "https://gitlab.com/Kazade/picophysics",
-      "summary": "39 points · 10 comments",
+      "summary": "49 points · 11 comments",
       "published": "2026-08-05T12:52:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nearest Pint",
       "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
-      "summary": "14 points · 1 comments",
+      "summary": "23 points · 5 comments",
       "published": "2026-08-04T19:47:10+00:00"
     },
     {
