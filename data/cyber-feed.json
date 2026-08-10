@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10T04:14:55.661044+00:00",
-  "item_count": 64,
+  "updated": "2026-08-10T05:57:31.421385+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,6 +27,27 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Why do we assume everyone should be working?",
+      "url": "https://wilsoniumite.com/2026/08/10/why-do-we-assume-everyone-should-be-working/",
+      "summary": "9 points · 0 comments",
+      "published": "2026-08-10T05:16:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Philippines' big offshoring industry is growing despite AI",
+      "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+      "summary": "4 points · 1 comments",
+      "published": "2026-08-10T04:35:24+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Responds to Outcry After Quietly Installing Beta 'Photos' App on Enterprise Machines",
+      "url": "https://tech.slashdot.org/story/26/08/10/0229237/microsoft-responds-to-outcry-after-quietly-installing-beta-photos-app-on-enterprise-machines?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft's cloud storage app OneDrive got a new Photos app in the worst possible way, reports the blog Neowin . \"The app is reportedly showing up even on Windows 11 Enterprise machines, despite apparently being a beta application aimed at consumer functionality.\" One admin questioned why a beta app was appearing on an Enterprise SKU in the first place, while another described the situation as yet another consumer-oriented feature being forced onto corporate PCs. Things get even more frustrating",
+      "published": "2026-08-10T04:34:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Is BTL1 worth it for me?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vkagrl/is_btl1_worth_it_for_me/",
@@ -39,11 +55,39 @@
       "published": "2026-08-10T04:06:19+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Long-Run Effects of H-1B Immigration on the U.S. Economy (July 2026)",
+      "url": "https://www.nber.org/papers/w35560",
+      "summary": "47 points · 13 comments",
+      "published": "2026-08-10T04:06:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Auto mode is now the default in Claude Code",
+      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "summary": "98 points · 61 comments",
+      "published": "2026-08-10T03:50:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Blackhat or DefCon highlights?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vka1x3/blackhat_or_defcon_highlights/",
       "summary": "I wasn’t able to attend this year but was wondering if anything stood out to anyone. Are we hearing anything new or is it same old same old? Any interesting new solutions to check out? submitted by /u/Hot_Excitement8820 [link] [comments]",
       "published": "2026-08-10T03:45:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "summary": "42 points · 4 comments",
+      "published": "2026-08-10T03:18:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "summary": "25 points · 0 comments",
+      "published": "2026-08-10T03:12:48+00:00"
     },
     {
       "source": "REDDIT",
@@ -56,29 +100,36 @@
       "source": "HACKER NEWS",
       "title": "Turn satellite imagery into a paper globe you fold yourself",
       "url": "https://foldingglobes.com/",
-      "summary": "18 points · 2 comments",
+      "summary": "27 points · 7 comments",
       "published": "2026-08-10T02:57:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What Happened to HackerOne?",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
-      "summary": "88 points · 26 comments",
+      "summary": "143 points · 42 comments",
       "published": "2026-08-10T02:23:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Privacy Backlash Explodes Against Meta's Smart Glasses",
+      "url": "https://yro.slashdot.org/story/26/08/10/0152228/privacy-backlash-explodes-against-metas-smart-glasses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "With nearly 70% of the market, \"Meta wants its smart glasses to be a big hit,\" writes the Los Angeles Times. But after some users found ways to disable the light that warns people they're being filmed, \"the high-tech specs have also turned into a liability, as some are calling the gadget 'pervert glasses...'\" Some people are using the glasses — which look like a pair of regular spectacles — to record people without their knowledge and publish the videos on social media. The users secretly videot",
+      "published": "2026-08-10T01:59:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How We Pushed CDC into Postgres",
       "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
-      "summary": "48 points · 6 comments",
+      "summary": "67 points · 6 comments",
       "published": "2026-08-10T01:01:34+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Japanese court overturns Red RAW video patent",
-      "url": "https://www.dpreview.com/news/panasonic-did-what-apple-sony-and-nikon-couldnt-overturn-a-red-raw-video-patent/",
-      "summary": "67 points · 11 comments",
-      "published": "2026-08-10T00:36:24+00:00"
+      "source": "SLASHDOT",
+      "title": "AI Reviews Bring 'New Normal' to Linux Release Candidates: Lots of Bug Fixes",
+      "url": "https://linux.slashdot.org/story/26/08/10/0014253/ai-reviews-bring-new-normal-to-linux-release-candidates-lots-of-bug-fixes?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Linux Torvalds expects Linux 7.2 should be released next weekend \"unless something really bad pops up,\" Torvalds said while announcing today's release candidate. But there's something interesting about Linux 7.2-rc7, writes Phoronix. \"By the time the Linux kernel typically hits a -rc7 release things have usually settled quite well. But in today's world of AI/LLM coding/review agents, the kernel activity continues at an all-time high.\" Tons of bug fixes continued to trickle in across the kernel s",
+      "published": "2026-08-10T00:59:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -95,6 +146,13 @@
       "published": "2026-08-10T00:00:09+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Flock Accused of Reactivating Its Cameras Without Notifying a Town",
+      "url": "https://yro.slashdot.org/story/26/08/08/0621205/flock-accused-of-reactivating-its-cameras-without-notifying-a-town?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A Massachusetts newspaper reports that officials from the town of Littleton (population: 10,141) \"claim that five of Littletonâ(TM)s Flock Safety cameras were switched back on by the company without informing the town...\" Littleton had temporarily disabled the cameras earlier this year, according to the article, but upon discovering the cameras were still active, city officials say they directed the Town Counsel \"to initiate cancellation of the contract with Flock Safety and directed the Town Ad",
+      "published": "2026-08-09T23:15:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "WIRED Reporters, Louise Matsakis and Lily Hay Newman on Rogue Al Agents & DEF CON",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk49og/wired_reporters_louise_matsakis_and_lily_hay/",
@@ -102,18 +160,25 @@
       "published": "2026-08-09T23:11:45+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Tuxedo No. 2 – Cocktail recipes",
-      "url": "https://tuxedono2.com",
-      "summary": "66 points · 15 comments",
-      "published": "2026-08-09T20:48:46+00:00"
+      "source": "SLASHDOT",
+      "title": "California City Declares State of Emergency After Cyberattack",
+      "url": "https://yro.slashdot.org/story/26/08/09/2144257/california-city-declares-state-of-emergency-after-cyberattack?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "NBC Bay Area brings news from the small idyllic California town of Suisun City (population: 29,518). The city council \"declared a state of emergency Saturday after a cyberattack that shut down computer systems including 911 public safety operations.\" \"Malicious software infected and compromised\" the East Bay community's information technology systems beginning about 5:45 a.m. Friday, the city said on social media. \"The cybersecurity incident hit critical public safety operations, including 911 r",
+      "published": "2026-08-09T22:15:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "url": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
-      "summary": "92 points · 52 comments",
-      "published": "2026-08-09T20:42:29+00:00"
+      "source": "SLASHDOT",
+      "title": "AI-Powered Browser Just Generates Every Website From Scratch",
+      "url": "https://idle.slashdot.org/story/26/08/09/2048241/ai-powered-browser-just-generates-every-website-from-scratch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "XDA Developers reports: On July 22, a Google DeepMind engineer, Vidy Thatte, shared a snippet of a browser he built that \"treats every URL as a prompt and generates a site from scratch\" on his X account. Just a few days later, he shared a TestFlight link to let iPhone users try it for themselves. The browser he launched is called Gem, and it's a browser that doesn't really...browse. Instead of fetching a webpage from a server the way Chrome or Safari would, Gem hands whatever URL you type over t",
+      "published": "2026-08-09T21:15:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Ask Slashdot: What are the Costs of Switching Between Windows, MacOS, and Chrome?",
+      "url": "https://ask.slashdot.org/story/26/08/09/1941202/ask-slashdot-what-are-the-costs-of-switching-between-windows-macos-and-chrome?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "UI changes, lost productivity, untransferrable knowledge... Long-time Slashdot reader theodp notes the folly of switching to an unfamiliar new environment to be \"more productive\"... Champions of the switch often insist workers will be able to hit the ground running and get the same or even more work done from the get-go in the new unfamiliar environment because it's 'more productive', a conclusion often shaped by conventional wisdom or their 'gut' feeling. Decision makers may also mistake their ",
+      "published": "2026-08-09T20:15:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -126,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "The tragedy of the commons, AI edition",
       "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "summary": "88 points · 53 comments",
+      "summary": "104 points · 57 comments",
       "published": "2026-08-09T19:43:52+00:00"
     },
     {
@@ -140,22 +205,29 @@
       "source": "HACKER NEWS",
       "title": "How I use LLMs to learn complex topics",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "summary": "495 points · 280 comments",
+      "summary": "558 points · 312 comments",
       "published": "2026-08-09T19:16:49+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://openchamber.dev/",
-      "summary": "120 points · 66 comments",
-      "published": "2026-08-09T17:27:16+00:00"
+      "source": "SLASHDOT",
+      "title": "Slashdot Reader Builds 'Spaced Linux', a New Devuan-Based, User-Friendly Desktop Distro",
+      "url": "https://linux.slashdot.org/story/26/08/09/0226209/slashdot-reader-builds-spaced-linux-a-new-devuan-based-user-friendly-desktop-distro?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"I've been a Linux IT administrator for 30 years now,\" says crhylove (Slashdot reader #205,956), in a new video on his YouTube channel. \"I used to be a data center architect, at one point I was the IT director for 13 school districts... I just haven't been happy overall with all the other operating systems out there... \" I've been working really diligently for the last few weeks on a new distro called Spaced Linux that is exactly what I want to use. It's heavily focused on the [zoom-friendly 3D]",
+      "published": "2026-08-09T17:41:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ask HN: What are you working on? (August 2026)",
       "url": "https://news.ycombinator.com/item?id=49233423",
-      "summary": "200 points · 714 comments",
+      "summary": "218 points · 762 comments",
       "published": "2026-08-09T17:23:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI Announces It's Enhancing Security Controls, Pausing Some Work for New AI Model Astra",
+      "url": "https://it.slashdot.org/story/26/08/09/1640211/openai-announces-its-enhancing-security-controls-pausing-some-work-for-new-ai-model-astra?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "OpenAI announced Friday it's pausing work on its Astra AI model because of security concerns. The Guardian reports: The company had evaluated the agent, Astra, and found \"significant advancements in agentic coding and cybersecurity\", which had moved to a \"critical\" threshold... OpenAI stated that the model was not involved in an incident in which one of its AI agents went rogue during a test, accessed the open web and hacked a startup, Hugging Face... The reports have increased concerns about ad",
+      "published": "2026-08-09T16:41:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -165,17 +237,31 @@
       "published": "2026-08-09T16:37:25+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Brain Activity Reveals the Melodies That People Imagine",
+      "url": "https://science.slashdot.org/story/26/08/09/0050249/brain-activity-reveals-the-melodies-that-people-imagine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Researchers believe they've found evidence that brain signals reveal the pitches of notes in imagined musical melodies, reports Medical Express: Study participants were 10 epilepsy patients with electrodes on the surfaces of their brains for clinical monitoring. Participants quietly listened to the first bars of children's tunes, then imagined the melodies of subsequent bars before humming their imagined melodies. Brain activity from the patients carried information about relative pitches within",
+      "published": "2026-08-09T15:34:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Taxi drivers rarely die of Alzheimer's",
       "url": "https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650",
-      "summary": "216 points · 163 comments",
+      "summary": "242 points · 177 comments",
       "published": "2026-08-09T15:21:46+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "GNOME Receiving Additional Design Help From Germany's Sovereign Tech Agency Fellowship",
+      "url": "https://news.slashdot.org/story/26/08/09/0519238/gnome-receiving-additional-design-help-from-germanys-sovereign-tech-agency-fellowship?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The new GNOME Boxes app for accessing virtual systems has reached beta, announced This Week in GNOME. There's also been more work on the Sushi file previewer for Nautilus, and Papers 51 Beta can now add visual signatures to PDF documents. But Phoronix noted one more announcement. \"Germany's Sovereign Tech Agency announced earlier this year a new fellowship program and now as part of that, for the next two years GNOME has a fellow dedicated to working on design and community management... paid to",
+      "published": "2026-08-09T14:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cool URIs Don't Change (1998)",
       "url": "https://www.w3.org/Provider/Style/URI",
-      "summary": "206 points · 50 comments",
+      "summary": "216 points · 53 comments",
       "published": "2026-08-09T14:32:53+00:00"
     },
     {
@@ -186,11 +272,11 @@
       "published": "2026-08-09T13:49:30+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Everything you do is being recorded",
-      "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-      "summary": "237 points · 190 comments",
-      "published": "2026-08-09T11:30:48+00:00"
+      "source": "SLASHDOT",
+      "title": "Flock Camera Vandalism Continues Around America, While 100 Communities Reject ALPRs",
+      "url": "https://yro.slashdot.org/story/26/08/08/059204/flock-camera-vandalism-continues-around-america-while-100-communities-reject-alprs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Dozens of Flock cameras have been vandalized around Dallas Texas in the last six months, reports a local news station. In Utah, ABC News reports, a county sheriff's office even said Wednesday a Flock camera was even vandalized within days of its being installed. And in the Minnesota city of Winona, \"Every Flock license plate reader camera operated by the Winona Police Department has been sawed off and stolen in what investigators believe was a coordinated theft,\" according to local media: All ei",
+      "published": "2026-08-09T11:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -334,10 +420,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "\"The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes\" (1892)",
-      "url": "https://publicdomainreview.org/collection/marnameh/",
-      "summary": "41 points · 4 comments",
-      "published": "2026-08-07T04:04:56+00:00"
+      "title": "Slap ROM Patcher",
+      "url": "https://nyuu.page/projects/slap/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-08-07T04:54:52+00:00"
     },
     {
       "source": "OSINT",
@@ -345,13 +431,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
       "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
       "published": "2026-08-06T22:48:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]",
-      "url": "https://www.youtube.com/watch?v=GS7CxAtV5Ks",
-      "summary": "41 points · 29 comments",
-      "published": "2026-08-06T22:41:24+00:00"
     },
     {
       "source": "OSINT",
@@ -364,7 +443,7 @@
       "source": "HACKER NEWS",
       "title": "ATProto for Distributed Systems Engineers",
       "url": "https://atproto.com/articles/atproto-for-distsys-engineers",
-      "summary": "22 points · 3 comments",
+      "summary": "42 points · 7 comments",
       "published": "2026-08-06T21:35:37+00:00"
     },
     {
@@ -404,17 +483,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The German Mittelstand",
-      "url": "https://kieranvelasquez.substack.com/p/on-the-german-mittelstand",
-      "summary": "20 points · 3 comments",
-      "published": "2026-08-06T07:32:54+00:00"
+      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
+      "url": "https://gitlab.com/Kazade/picophysics",
+      "summary": "39 points · 10 comments",
+      "published": "2026-08-05T12:52:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Picophysics: Single file physics for games on platforms like N64, PSX, DC",
-      "url": "https://gitlab.com/Kazade/picophysics",
-      "summary": "30 points · 8 comments",
-      "published": "2026-08-05T12:52:00+00:00"
+      "title": "Nearest Pint",
+      "url": "https://knowwhereconsulting.co.uk/maps/pubs/",
+      "summary": "14 points · 1 comments",
+      "published": "2026-08-04T19:47:10+00:00"
     },
     {
       "source": "OSINT",
