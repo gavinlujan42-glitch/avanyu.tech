@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T18:27:09.457503+00:00",
+  "updated": "2026-08-11T19:36:46.254520+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,10 +27,66 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Should I apply for a new gig?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlr4gx/should_i_apply_for_a_new_gig/",
+      "summary": "Hey all, Ive been in the industry as an engineer for around 6 years, I am a co owner of a MSP style company and ive been stressed out to the wall for over 1.5 years and a majority of our clients I handle nearly alone. The market we operate in is on the downhill as well. I wanted to ask, if I leave a few people may be without jobs and I might always wonder \"what if\" if i kept building this company with my co founders. I wanted to ask, is my career growth and mental stress worth getting a new gig?",
+      "published": "2026-08-11T19:18:52+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Since every VP and CxO is going to ask about this, NO, no one hacked a Delta flight WiFi. https://www.theregister.com/security/2026/08/11/def-con-dingus-suspected-of-trying-to-take-over-delta-in-flight-wi-fi/5286331",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlr18k/since_every_vp_and_cxo_is_going_to_ask_about_this/",
+      "summary": "Someone on the flight probably stood up their travel router as a joke and set the SSID to \"Delta WiFi Fast.\" That's literally all that is confirmed right now. There are rumors it might have been a pineapple, of course, but so far zero confirmation on that. As none of the passengers are saying they were getting a million browser errors, my guess is that it was not a pineapple. The actual Delta WiFi was untouched, and shut down as soon as the crew realized what was happening. No on-board systems w",
+      "published": "2026-08-11T19:15:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The whole of PyTorch on one page",
+      "url": "https://tensor.khalilli.ai/blog/part-0-the-map/",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-11T19:05:10+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Spotify Will Label 'AI Persona' Profiles, Exclude Their Music From Recommendations",
+      "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Spotify will begin labeling AI-generated artist identities with \"AI Persona\" badges and exclude their music from editorial, algorithmic, and personalized recommendations unless users explicitly follow them. The company says the designation applies to whether an artist profile represents a real person, not whether AI was used to make the music, and will allow appeals for mislabeling. TechCrunch reports: While Spotify will allow artists to identify themselves as AI Personas, the company says it wo",
+      "published": "2026-08-11T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "summary": "9 points · 2 comments",
+      "published": "2026-08-11T18:51:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Tradeoffs Facing Japan's Economy",
+      "url": "https://www.emergingtrajectories.com/lh/japan-economy-tradeoffs/",
+      "summary": "27 points · 8 comments",
+      "published": "2026-08-11T18:47:54+00:00"
+    },
+    {
       "source": "OSINT",
-      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "url": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
+      "published": "2026-08-11T18:36:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "published": "2026-08-11T18:34:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "summary": "Microsoft has released Windows 10 KB5120249 cumulative update for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
       "published": "2026-08-11T18:26:03+00:00"
     },
     {
@@ -39,6 +95,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vlpe1b/zoomsday_zeroclick_rce_in_zoom_from_any_meeting/",
       "summary": "Zoom's annotation parser read a count off the wire and copied twice that many bytes into a fixed 128-byte buffer with no bounds check, letting any participant corrupt memory on every other client in the call, with no action from the victim. Fixed in Zoom Workplace 7.1.5 and 7.0.6, VDI 7.0.11 and 6.6.16, Rooms and Meeting SDK 7.1.5. Disclosure: our team's (A Security) research, reported to Zoom and fixed with them. submitted by /u/Key_Emu2269 [link] [comments]",
       "published": "2026-08-11T18:17:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How we used to get jobs: A newspaper classifieds story",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "summary": "32 points · 11 comments",
+      "published": "2026-08-11T18:09:56+00:00"
     },
     {
       "source": "OSINT",
@@ -56,9 +119,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "OpenSSH 10.5 released, AI fixes now welcome",
+      "title": "OpenSSH 10.5/10.5p1",
       "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "4 points · 0 comments",
+      "summary": "50 points · 16 comments",
       "published": "2026-08-11T17:49:37+00:00"
     },
     {
@@ -69,13 +132,6 @@
       "published": "2026-08-11T17:38:42+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Woman Pulled over at Gunpoint Twice After Flock Camera Glitch",
-      "url": "https://guessingheadlights.com/yall-failed-me-woman-pulled-over-at-gunpoint-twice-after-flock-camera-glitch/",
-      "summary": "155 points · 118 comments",
-      "published": "2026-08-11T17:02:59+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "France Bans Unsolicited Telemarking Calls",
       "url": "https://mobile.slashdot.org/story/26/08/11/1657250/france-bans-unsolicited-telemarking-calls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -84,10 +140,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Why Go Is an Ideal Language for AI-Assisted Software Engineering",
-      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-      "summary": "83 points · 67 comments",
-      "published": "2026-08-11T16:57:09+00:00"
+      "title": "Mojo 1.0",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "summary": "76 points · 41 comments",
+      "published": "2026-08-11T16:56:46+00:00"
     },
     {
       "source": "OSINT",
@@ -139,17 +195,10 @@
       "published": "2026-08-11T15:40:16+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "CopyEscape: Container-to-host arbitrary file write via docker cp (CVE-2026-17106)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlkrp9/copyescape_containertohost_arbitrary_file_write/",
-      "summary": "https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/ Author here. I discovered a vulnerability in docker cp that allows a malicious container to create or overwrite files on the machine running the Docker CLI. The exploit combines a filesystem race in Docker’s archive creation with unsafe symlink handling during extraction. Depending on the CLI user’s privileges, this can lead to code execution. Docker confirmed that sbx cp was also affected. Fixed versions: Docker En",
-      "published": "2026-08-11T15:32:04+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "url": "https://github.com/TheRealYT/git-knife",
-      "summary": "73 points · 54 comments",
+      "summary": "85 points · 63 comments",
       "published": "2026-08-11T15:09:34+00:00"
     },
     {
@@ -161,31 +210,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp",
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
       "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "summary": "191 points · 30 comments",
+      "summary": "249 points · 39 comments",
       "published": "2026-08-11T14:50:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
       "url": "https://www.trykeet.com/",
-      "summary": "22 points · 26 comments",
+      "summary": "28 points · 35 comments",
       "published": "2026-08-11T14:48:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "summary": "83 points · 38 comments",
+      "summary": "95 points · 43 comments",
       "published": "2026-08-11T14:14:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Write.md, a free, open-source, themeable Markdown editor for macOS",
-      "url": "https://writemd.app/",
-      "summary": "32 points · 36 comments",
-      "published": "2026-08-11T13:30:39+00:00"
     },
     {
       "source": "REDDIT",
@@ -198,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "summary": "270 points · 97 comments",
+      "summary": "325 points · 119 comments",
       "published": "2026-08-11T13:22:00+00:00"
     },
     {
@@ -233,8 +275,15 @@
       "source": "HACKER NEWS",
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "summary": "388 points · 281 comments",
+      "summary": "424 points · 300 comments",
       "published": "2026-08-11T12:41:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "summary": "86 points · 178 comments",
+      "published": "2026-08-11T12:23:07+00:00"
     },
     {
       "source": "OSINT",
@@ -293,13 +342,6 @@
       "published": "2026-08-11T10:48:26+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "What I learned by putting GitHub Copilot behind a MitM proxy",
-      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
-      "summary": "100 points · 12 comments",
-      "published": "2026-08-11T10:40:47+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
       "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
@@ -317,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "summary": "200 points · 74 comments",
+      "summary": "226 points · 94 comments",
       "published": "2026-08-11T10:02:00+00:00"
     },
     {
@@ -333,13 +375,6 @@
       "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
       "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
       "published": "2026-08-11T09:16:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "France to ban unsolicited telemarketing calls",
-      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "summary": "926 points · 447 comments",
-      "published": "2026-08-11T08:15:46+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -377,13 +412,6 @@
       "published": "2026-08-11T04:54:19+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "summary": "399 points · 92 comments",
-      "published": "2026-08-11T01:22:09+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers breached a small Polish energy plant via private APN last year",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
@@ -401,15 +429,8 @@
       "source": "HACKER NEWS",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "summary": "757 points · 782 comments",
+      "summary": "797 points · 805 comments",
       "published": "2026-08-10T22:36:30+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Working with Israeli cyber security companies - how can I resolve concerns around ethics?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkysl0/working_with_israeli_cyber_security_companies_how/",
-      "summary": "I've been offered an opportunity to do some work with an Israeli cybersecurity company. I've met some of the staff and have used some of the company's products - no issues on a personal level. The company offers defensive cyber security services. My concerns are that the founding members held high profile roles in IDF Unit 8200, which has been linked to human rights abuses, mass surveillance and lethal targeting. The company is based in Tel Aviv. I have no idea whether this company is supporting",
-      "published": "2026-08-10T22:01:18+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -417,13 +438,6 @@
       "url": "https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: Ceva Logistics, one of the world's largest shipping and logistics giants, has been hacked. Several companies that rely on Ceva for shipping their products to their customers say that their personal information was also stolen in the breach. The cyberattack on Ceva is affecting at least eight warehouses across Europe used for shipping goods across the continent, the company told TechCrunch. Industry news site FreightWaves reports that the hack ",
       "published": "2026-08-10T22:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
-      "published": "2026-08-10T21:12:10+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -440,20 +454,6 @@
       "published": "2026-08-10T20:01:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Wall Street Giants Partner With Nvidia On $500 Billion AI Financing Deal",
-      "url": "https://news.slashdot.org/story/26/08/10/1859242/wall-street-giants-partner-with-nvidia-on-500-billion-ai-financing-deal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Nvidia is working with Wall Street heavyweights on a potential $500 billion financing package for AI infrastructure (source paywalled; alternative source). The consortium includes BlackRock's Global Infrastructure Partners, Brookfield Asset Management, Goldman Sachs and KKR. The Financial Times reports: The partnership underscores Nvidia's growing efforts to raise capital for itself and its clients to continue assembling the chips, power production and data centres at the heart of the AI boom. T",
-      "published": "2026-08-10T19:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "url": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
-      "published": "2026-08-10T17:29:17+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
@@ -462,23 +462,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Archive of Animal Photography Reveals 18,000 Species and Counting",
-      "url": "https://www.smithsonianmag.com/science-nature/this-amazing-archive-of-animal-photography-reveals-18000-species-and-counting-heres-how-joel-sartore-built-his-photo-ark-180989282/",
-      "summary": "10 points · 1 comments",
-      "published": "2026-08-09T01:41:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "summary": "54 points · 28 comments",
+      "summary": "90 points · 60 comments",
       "published": "2026-08-08T22:47:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Jolt: Clojure compiler implemented with Chez Scheme",
       "url": "https://jolt-lang.github.io",
-      "summary": "65 points · 22 comments",
+      "summary": "87 points · 25 comments",
       "published": "2026-08-08T17:38:20+00:00"
     },
     {
@@ -487,6 +480,13 @@
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A new study of a bot running a store finds it is friendly but not very smart",
+      "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+      "summary": "9 points · 2 comments",
+      "published": "2026-08-04T19:51:52+00:00"
     },
     {
       "source": "OSINT",
