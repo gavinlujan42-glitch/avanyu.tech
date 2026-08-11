@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T20:20:40.109737+00:00",
-  "item_count": 75,
+  "updated": "2026-08-11T21:23:37.778851+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,10 +28,31 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "The brain may be about to have its Ozempic moment",
-      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "summary": "10 points · 2 comments",
-      "published": "2026-08-11T20:01:27+00:00"
+      "title": "AI Is Solving CTF Challenges in Minutes",
+      "url": "https://www.simulationslabs.com/blogs/AI_Is_Solving_CTF_Challenges_in_Minutes",
+      "summary": "7 points · 1 comments",
+      "published": "2026-08-11T21:13:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "published": "2026-08-11T21:07:24+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Gemini Hits 1 Billion Users In Record Time",
+      "url": "https://tech.slashdot.org/story/26/08/11/2020246/google-gemini-hits-1-billion-users-in-record-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Gemini has become Google's fastest-growing product ever, reaching 1 billion monthly active users faster than any of the company's 13 other billion-user services. Ars Technica reports: Gemini has wormed its way into virtually every Google product and service, powering email organization in Gmail, document summary in Drive, and much more. Gemini is also core to Google's flagship search experience, with AI Mode and AI Overviews becoming increasingly hard to avoid. The 1 billion-user metric has noth",
+      "published": "2026-08-11T21:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
+      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
+      "published": "2026-08-11T20:10:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -44,7 +65,7 @@
       "source": "HACKER NEWS",
       "title": "Compression Is Prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "19 points · 9 comments",
+      "summary": "88 points · 43 comments",
       "published": "2026-08-11T19:49:44+00:00"
     },
     {
@@ -55,10 +76,17 @@
       "published": "2026-08-11T19:45:31+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
+      "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
+      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
+      "published": "2026-08-11T19:36:37+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "51 points · 17 comments",
+      "summary": "92 points · 33 comments",
       "published": "2026-08-11T19:35:52+00:00"
     },
     {
@@ -76,11 +104,11 @@
       "published": "2026-08-11T19:15:45+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The whole of PyTorch on one page",
-      "url": "https://tensor.khalilli.ai/blog/part-0-the-map/",
-      "summary": "23 points · 5 comments",
-      "published": "2026-08-11T19:05:10+00:00"
+      "source": "OSINT",
+      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
+      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
+      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
+      "published": "2026-08-11T19:08:47+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -93,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Making holograms with a pen plotter",
       "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "35 points · 4 comments",
+      "summary": "53 points · 6 comments",
       "published": "2026-08-11T18:51:35+00:00"
     },
     {
@@ -128,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "How we used to get jobs: A newspaper classifieds story",
       "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "summary": "53 points · 26 comments",
+      "summary": "66 points · 43 comments",
       "published": "2026-08-11T18:09:56+00:00"
     },
     {
@@ -149,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "OpenSSH 10.5/10.5p1",
       "url": "https://www.openssh.org/releasenotes.html#10.5",
-      "summary": "64 points · 23 comments",
+      "summary": "72 points · 25 comments",
       "published": "2026-08-11T17:49:37+00:00"
     },
     {
@@ -158,6 +186,13 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
       "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
       "published": "2026-08-11T17:38:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "CSS properties you should know for better text designs",
+      "url": "https://master.dev/blog/typographic-css-tricks/",
+      "summary": "34 points · 0 comments",
+      "published": "2026-08-11T17:16:06+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -170,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "142 points · 67 comments",
+      "summary": "188 points · 88 comments",
       "published": "2026-08-11T16:56:46+00:00"
     },
     {
@@ -226,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "url": "https://github.com/TheRealYT/git-knife",
-      "summary": "92 points · 71 comments",
+      "summary": "101 points · 77 comments",
       "published": "2026-08-11T15:09:34+00:00"
     },
     {
@@ -240,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "summary": "101 points · 50 comments",
+      "summary": "110 points · 56 comments",
       "published": "2026-08-11T14:14:53+00:00"
     },
     {
@@ -254,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "summary": "357 points · 142 comments",
+      "summary": "391 points · 157 comments",
       "published": "2026-08-11T13:22:00+00:00"
     },
     {
@@ -289,14 +324,14 @@
       "source": "HACKER NEWS",
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "summary": "433 points · 306 comments",
+      "summary": "449 points · 322 comments",
       "published": "2026-08-11T12:41:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "summary": "116 points · 210 comments",
+      "summary": "162 points · 249 comments",
       "published": "2026-08-11T12:23:07+00:00"
     },
     {
@@ -370,18 +405,11 @@
       "published": "2026-08-11T10:05:09+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-      "published": "2026-08-11T09:47:06+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
-      "published": "2026-08-11T09:16:24+00:00"
+      "source": "HACKER NEWS",
+      "title": "Nvidia's Risky Business",
+      "url": "https://stratechery.com/2026/nvidias-risky-business/",
+      "summary": "252 points · 111 comments",
+      "published": "2026-08-11T10:02:00+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -396,13 +424,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vl9rfe/are_we_actually_getting_better_at_cybersecurity/",
       "summary": "This is something I'd especially love to hear from people who have been working in security long enough to have watched the industry change over a couple of decades:) Security has obviously come a long way, with better tools and better ways of detecting threats. But at the same time, everything has gotten way more complex and there are more things to secure than ever and we're somehow still dealing with a lot of the same problems we've known about for years. So I'm curious, are we actually getti",
       "published": "2026-08-11T06:40:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
-      "url": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
-      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said.",
-      "published": "2026-08-11T05:48:44+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -426,25 +447,11 @@
       "published": "2026-08-10T23:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "summary": "814 points · 826 comments",
-      "published": "2026-08-10T22:36:30+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "A Data Breach At Shipping Giant Ceva Logistics Is Rippling Across Banks, Retailers, Steam Gamers, and Beyond",
       "url": "https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: Ceva Logistics, one of the world's largest shipping and logistics giants, has been hacked. Several companies that rely on Ceva for shipping their products to their customers say that their personal information was also stolen in the breach. The cyberattack on Ceva is affecting at least eight warehouses across Europe used for shipping goods across the continent, the company told TechCrunch. Industry news site FreightWaves reports that the hack ",
       "published": "2026-08-10T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Valve Slowly Expands SteamOS Support On Non-Valve Hardware",
-      "url": "https://hardware.slashdot.org/story/26/08/10/2027209/valve-slowly-expands-steamos-support-on-non-valve-hardware?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Valve is continuing to broaden SteamOS support beyond its own hardware, with the latest beta adding \"initial gamepad support\" for a few recent gaming handhelds and improving compatibility for a few others. Ars Technica reports: Those newly supported handhelds include MSI's Claw 8 EX AI+, the extremely expensive, extremely powerful handheld built around Intel's Arc G3 processor that launched this summer. While SteamOS has long included beta support for \"other AMD powered handhelds,\" Valve has onl",
-      "published": "2026-08-10T21:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -457,14 +464,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "summary": "111 points · 95 comments",
+      "summary": "129 points · 134 comments",
       "published": "2026-08-08T22:47:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Jolt: Clojure compiler implemented with Chez Scheme",
       "url": "https://jolt-lang.github.io",
-      "summary": "99 points · 28 comments",
+      "summary": "116 points · 36 comments",
       "published": "2026-08-08T17:38:20+00:00"
     },
     {
@@ -478,14 +485,14 @@
       "source": "HACKER NEWS",
       "title": "Your phone is the most intricate machine you've ever held. Let's take it apart.",
       "url": "https://everythingmachine.io/phone/",
-      "summary": "5 points · 0 comments",
+      "summary": "35 points · 12 comments",
       "published": "2026-08-05T21:49:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A new study of a bot running a store finds it is friendly but not very smart",
       "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
-      "summary": "21 points · 19 comments",
+      "summary": "39 points · 36 comments",
       "published": "2026-08-04T19:51:52+00:00"
     },
     {
