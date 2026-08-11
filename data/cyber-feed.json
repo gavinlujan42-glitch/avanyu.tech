@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T11:22:43.196296+00:00",
+  "updated": "2026-08-11T12:11:54.779569+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,20 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlew1s/extension_banned_for_stealing_ai_chats_returns_to/",
+      "summary": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data. submitted by /u/sunychoudhary [link] [comments]",
+      "published": "2026-08-11T11:32:44+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AD lab setup",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlefhs/ad_lab_setup/",
+      "summary": "I purchased CRTP lab for 30 days from voucher by winning a CTF,and lab access ends in 3 days , but I am yet to cover few other concepts which would require plenty of time as I am a beginner to Red Teaming. And I cannot afford another 30 days for lab access since I am student with lot of financial constraints. What are the alternative way to practice the LAB which is similar to CRTP LABs . This could help me a lot in cracking my CRTP exam.Thanks in advance submitted by /u/iam_tyler_durden__ [link",
+      "published": "2026-08-11T11:09:26+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
@@ -46,13 +60,6 @@
       "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
       "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that",
       "published": "2026-08-11T10:48:26+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "SMAP is Pre-Disarmed: How a Stack Pivot That Shouldn't Work Revealed a Kernel-Wide Design Compromise",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vldzdp/smap_is_predisarmed_how_a_stack_pivot_that/",
-      "summary": "While working through a kernel exploit chain on Windows 11, I noticed that a stack pivot into user-mode memory didn't trigger SMAP. I wrote up three experiments to figure out why. Short version: the normal syscall entry path arrives with RFLAGS.AC=1. SMAP is effectively disabled for any code reached through a standard IOCTL dispatch. This aligns with what MSRC documented back in 2020 (the Windows kernel simply wasn't built with SMAP in mind, and retrofitting it would touch ~2,900 locations: here",
-      "published": "2026-08-11T10:45:53+00:00"
     },
     {
       "source": "OSINT",
@@ -90,24 +97,17 @@
       "published": "2026-08-11T09:16:24+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Mandatory User Profile for Persistence and EDR Evasion",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlbffw/mandatory_user_profile_for_persistence_and_edr/",
-      "summary": "submitted by /u/netbiosX [link] [comments]",
-      "published": "2026-08-11T08:17:54+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Closing Canario Terminal source code",
       "url": "https://rapha.land/closing-canario-terminal-source-code/",
-      "summary": "9 points · 6 comments",
+      "summary": "15 points · 15 comments",
       "published": "2026-08-11T08:16:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "France to ban unsolicited telemarketing calls",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "summary": "256 points · 162 comments",
+      "summary": "365 points · 225 comments",
       "published": "2026-08-11T08:15:46+00:00"
     },
     {
@@ -132,13 +132,6 @@
       "published": "2026-08-11T05:48:44+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
-      "url": "https://github.com/activeing123/mcptoon",
-      "summary": "51 points · 38 comments",
-      "published": "2026-08-11T05:26:58+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Taxi Drivers Rarely Die of Alzheimer's",
       "url": "https://science.slashdot.org/story/26/08/11/0515205/taxi-drivers-rarely-die-of-alzheimers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -154,37 +147,37 @@
     },
     {
       "source": "REDDIT",
-      "title": "What Data Meta Actually Collects From You — And Four Settings That Pull It Back",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vl5l06/what_data_meta_actually_collects_from_you_and/",
-      "summary": "Substack post summarizing Meta data collection, what you can and cannot opt-out of, including Mera AI training. submitted by /u/nuzfutz [link] [comments]",
-      "published": "2026-08-11T02:59:55+00:00"
+      "title": "NVD has been down for while now, any info on this?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vl4irw/nvd_has_been_down_for_while_now_any_info_on_this/",
+      "summary": "submitted by /u/AverageCowboyCentaur [link] [comments]",
+      "published": "2026-08-11T02:09:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Recycle – Floppydisks",
       "url": "https://www.floppydisk.com/recycle",
-      "summary": "67 points · 30 comments",
+      "summary": "72 points · 32 comments",
       "published": "2026-08-11T02:01:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "url": "https://github.com/antirez/h3.c",
-      "summary": "298 points · 66 comments",
+      "summary": "309 points · 67 comments",
       "published": "2026-08-11T01:22:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Chicken Scheme 6.0",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "summary": "202 points · 26 comments",
+      "summary": "213 points · 27 comments",
       "published": "2026-08-11T00:24:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "summary": "209 points · 68 comments",
+      "summary": "216 points · 73 comments",
       "published": "2026-08-10T23:16:25+00:00"
     },
     {
@@ -205,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "summary": "343 points · 385 comments",
+      "summary": "388 points · 459 comments",
       "published": "2026-08-10T22:36:30+00:00"
     },
     {
@@ -214,6 +207,13 @@
       "url": "https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: Ceva Logistics, one of the world's largest shipping and logistics giants, has been hacked. Several companies that rely on Ceva for shipping their products to their customers say that their personal information was also stolen in the breach. The cyberattack on Ceva is affecting at least eight warehouses across Europe used for shipping goods across the continent, the company told TechCrunch. Industry news site FreightWaves reports that the hack ",
       "published": "2026-08-10T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "summary": "214 points · 175 comments",
+      "published": "2026-08-10T21:36:56+00:00"
     },
     {
       "source": "OSINT",
@@ -275,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "summary": "359 points · 135 comments",
+      "summary": "373 points · 136 comments",
       "published": "2026-08-10T17:22:07+00:00"
     },
     {
@@ -324,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "523 points · 481 comments",
+      "summary": "537 points · 489 comments",
       "published": "2026-08-10T14:06:22+00:00"
     },
     {
@@ -420,37 +420,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "To Save C, We Must Save ABI",
+      "title": "To Save C, We Must Save ABI (2022)",
       "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-      "summary": "64 points · 37 comments",
+      "summary": "77 points · 52 comments",
       "published": "2026-08-08T07:36:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Stowaway – Take the window seat on any plane or satellite overhead",
       "url": "https://stowaway.live/",
-      "summary": "285 points · 35 comments",
+      "summary": "294 points · 36 comments",
       "published": "2026-08-07T13:15:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "summary": "385 points · 91 comments",
+      "summary": "388 points · 91 comments",
       "published": "2026-08-07T10:26:34+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Programming the Gigatron",
       "url": "https://www.iwriteiam.nl/PGigatron.html",
-      "summary": "10 points · 0 comments",
+      "summary": "14 points · 1 comments",
       "published": "2026-08-07T07:21:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "About Rx Kids",
       "url": "https://rxkids.org/about/",
-      "summary": "30 points · 20 comments",
+      "summary": "32 points · 39 comments",
       "published": "2026-08-07T02:58:18+00:00"
     },
     {
@@ -464,21 +464,21 @@
       "source": "HACKER NEWS",
       "title": "Faster floating point math with Rust's new API",
       "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-      "summary": "47 points · 4 comments",
+      "summary": "51 points · 7 comments",
       "published": "2026-08-06T13:43:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "summary": "144 points · 74 comments",
+      "summary": "153 points · 78 comments",
       "published": "2026-08-05T15:22:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "LFM2.5 2.6B model competitive with 4x larger models",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "summary": "86 points · 18 comments",
+      "summary": "93 points · 22 comments",
       "published": "2026-08-04T18:47:25+00:00"
     },
     {
