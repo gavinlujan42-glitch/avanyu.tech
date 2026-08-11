@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T06:29:36.150820+00:00",
+  "updated": "2026-08-11T07:47:09.588814+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,20 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+      "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the intruders were still active inside the network, and customers lost neither heat",
+      "published": "2026-08-11T06:55:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Are we actually getting better at cybersecurity?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vl9rfe/are_we_actually_getting_better_at_cybersecurity/",
+      "summary": "This is something I'd especially love to hear from people who have been working in security long enough to have watched the industry change over a couple of decades:) Security has obviously come a long way, with better tools and better ways of detecting threats. But at the same time, everything has gotten way more complex and there are more things to secure than ever and we're somehow still dealing with a lot of the same problems we've known about for years. So I'm curious, are we actually getti",
+      "published": "2026-08-11T06:40:22+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "University level book recommendation or learning materials",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vl9il0/university_level_book_recommendation_or_learning/",
@@ -42,23 +56,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Half of Europe's towns and villages have fewer residents than 60 years ago",
-      "url": "https://correctiv.org/en/europe/2026/04/21/half-of-europes-towns-and-villages-have-fewer-residents-than-60-years-ago/",
-      "summary": "26 points · 22 comments",
-      "published": "2026-08-11T05:46:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
-      "url": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-      "summary": "16 points · 2 comments",
-      "published": "2026-08-11T05:30:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+      "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
       "url": "https://github.com/activeing123/mcptoon",
-      "summary": "23 points · 8 comments",
+      "summary": "30 points · 20 comments",
       "published": "2026-08-11T05:26:58+00:00"
     },
     {
@@ -91,37 +91,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Hyperspace",
-      "url": "https://hypercritical.co/hyperspace/",
-      "summary": "50 points · 35 comments",
-      "published": "2026-08-11T02:04:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Recycle – Floppydisks",
       "url": "https://www.floppydisk.com/recycle",
-      "summary": "47 points · 17 comments",
+      "summary": "53 points · 22 comments",
       "published": "2026-08-11T02:01:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "url": "https://github.com/antirez/h3.c",
-      "summary": "182 points · 22 comments",
+      "summary": "213 points · 30 comments",
       "published": "2026-08-11T01:22:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Chicken Scheme 6.0",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "summary": "133 points · 15 comments",
+      "summary": "164 points · 17 comments",
       "published": "2026-08-11T00:24:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The UK's war on anonymity has come to America",
+      "url": "https://www.effort.news/uk-lobby",
+      "summary": "455 points · 336 comments",
+      "published": "2026-08-10T23:45:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "summary": "150 points · 45 comments",
+      "summary": "168 points · 53 comments",
       "published": "2026-08-10T23:16:25+00:00"
     },
     {
@@ -140,17 +140,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "World Train Map – 1247 train routes around the world",
-      "url": "https://worldtrainmap.com/",
-      "summary": "102 points · 34 comments",
-      "published": "2026-08-10T22:42:14+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Working with Israeli cyber security companies - how can I resolve concerns around ethics?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vkysl0/working_with_israeli_cyber_security_companies_how/",
-      "summary": "I've been offered an opportunity to do some work with an Israeli cybersecurity company. I've met some of the staff and have used some of the company's products - no issues on a personal level. The company offers defensive cyber security services. My concerns are that the founding members held high profile roles in IDF Unit 8200, which has been linked to human rights abuses, mass surveillance and lethal targeting. The company is based in Tel Aviv. I have no idea whether this company is supporting",
-      "published": "2026-08-10T22:01:18+00:00"
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "summary": "183 points · 171 comments",
+      "published": "2026-08-10T22:36:30+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -158,6 +151,13 @@
       "url": "https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: Ceva Logistics, one of the world's largest shipping and logistics giants, has been hacked. Several companies that rely on Ceva for shipping their products to their customers say that their personal information was also stolen in the breach. The cyberattack on Ceva is affecting at least eight warehouses across Europe used for shipping goods across the continent, the company told TechCrunch. Industry news site FreightWaves reports that the hack ",
       "published": "2026-08-10T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "summary": "130 points · 94 comments",
+      "published": "2026-08-10T21:36:56+00:00"
     },
     {
       "source": "OSINT",
@@ -177,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Confessions of a Long-Distance Sailor",
       "url": "https://arachnoid.com/lutusp/sailbook.html",
-      "summary": "89 points · 27 comments",
+      "summary": "100 points · 27 comments",
       "published": "2026-08-10T20:52:55+00:00"
     },
     {
@@ -205,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Rust SIMD on the GPU",
       "url": "https://www.vectorware.com/blog/simd-on-gpu/",
-      "summary": "166 points · 79 comments",
+      "summary": "173 points · 85 comments",
       "published": "2026-08-10T18:12:49+00:00"
     },
     {
@@ -233,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "summary": "277 points · 104 comments",
+      "summary": "300 points · 109 comments",
       "published": "2026-08-10T17:22:07+00:00"
     },
     {
@@ -249,6 +249,13 @@
       "url": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
       "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said. \"StormEncryptor is written in C++ and appends the file name extension .encrypted",
       "published": "2026-08-10T16:38:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "summary": "155 points · 102 comments",
+      "published": "2026-08-10T16:28:58+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -282,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "463 points · 430 comments",
+      "summary": "483 points · 439 comments",
       "published": "2026-08-10T14:06:22+00:00"
     },
     {
@@ -434,13 +441,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-      "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
-      "published": "2026-08-08T06:58:31+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
@@ -448,23 +448,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Publishing Schematics Before “Open Source” Was a Word",
-      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
-      "summary": "82 points · 18 comments",
-      "published": "2026-08-07T15:59:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Stowaway – Take the window seat on any plane or satellite overhead",
       "url": "https://stowaway.live/",
-      "summary": "214 points · 26 comments",
+      "summary": "241 points · 29 comments",
       "published": "2026-08-07T13:15:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "summary": "349 points · 84 comments",
+      "summary": "361 points · 88 comments",
       "published": "2026-08-07T10:26:34+00:00"
     },
     {
@@ -476,16 +469,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Faster floating point math with Rust's new API",
+      "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
+      "summary": "22 points · 1 comments",
+      "published": "2026-08-06T13:43:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "summary": "108 points · 50 comments",
+      "summary": "119 points · 58 comments",
       "published": "2026-08-05T15:22:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "LFM2.5 2.6B model competitive with 4x larger models",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "summary": "28 points · 7 comments",
+      "summary": "48 points · 13 comments",
       "published": "2026-08-04T18:47:25+00:00"
     },
     {
