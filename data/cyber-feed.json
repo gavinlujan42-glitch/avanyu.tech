@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T22:20:16.541788+00:00",
+  "updated": "2026-08-11T23:19:50.091258+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,13 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows",
+      "url": "https://linux.slashdot.org/story/26/08/11/2047228/linux-desktop-use-surged-to-22-on-one-workday-cloudflare-data-shows?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Cloudflare data suggests desktop Linux usage in North America has climbed to 6.4%, up from 4.1% a year earlier, with one post-holiday workday briefly spiking to 22%. ZDNet reports: [B]elieve it or not, on Monday, July 6, when people were back after the July 4 holiday, Linux usage jumped to a high of 22%. The users of these systems are not AI agents or bots, but real people. I set Cloudflare to count humans rather than bots. If you include people and bots, Linux has a 9.7% market share. That prop",
+      "published": "2026-08-11T23:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
       "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
@@ -41,6 +48,27 @@
       "published": "2026-08-11T22:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "Is ClaudeBot aggressively scanning backend/Laravel endpoints (Telescope, .env, etc.) normal?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlvd4w/is_claudebot_aggressively_scanning_backendlaravel/",
+      "summary": "Hello there, I recently spotted some very aggressive crawling activity on my client's Nginx access logs coming from Anthropic’s crawler. Specifically, I'm seeing patterns like this: \"xxx GET /telescope/requests HTTP/1.1\" 503 xxxx \"-\" \"Mozilla/xxx AppleWebKit/xxxxx (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com\" It’s making over 100 requests targeting various backend endpoints, configuration files, and dev tools (like Laravel Telescope, /.env , actuator paths, etc.)",
+      "published": "2026-08-11T21:57:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "summary": "39 points · 12 comments",
+      "published": "2026-08-11T21:56:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+      "url": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+      "summary": "16 points · 0 comments",
+      "published": "2026-08-11T21:54:25+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft Plugs Nearly 400 Security Holes",
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
@@ -51,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "Suzanne: AI tool for designing and manufacturing physical products",
       "url": "https://www.suzanne3d.com/",
-      "summary": "7 points · 2 comments",
+      "summary": "21 points · 11 comments",
       "published": "2026-08-11T21:28:26+00:00"
     },
     {
@@ -60,6 +88,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vluf7t/someone_attached_their_email_account_to_a_family/",
       "summary": "Not sure if this is the right place, but I'll give it a try... I'm wondering what to do about this. I was helping an elderly family member with their Samsung phone today and when I was in the settings, I noticed that the account attached to the phone was that of an acquaintance of theirs. I tried to remove the account, but it requires approval of the account owner. What can this acquaintance do with the phone when their account is attached? My plan forward is that I'm taking the elderly family m",
       "published": "2026-08-11T21:20:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "url": "https://arxiv.org/abs/2601.01828",
+      "summary": "11 points · 2 comments",
+      "published": "2026-08-11T21:14:10+00:00"
     },
     {
       "source": "OSINT",
@@ -74,13 +109,6 @@
       "url": "https://tech.slashdot.org/story/26/08/11/2020246/google-gemini-hits-1-billion-users-in-record-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Gemini has become Google's fastest-growing product ever, reaching 1 billion monthly active users faster than any of the company's 13 other billion-user services. Ars Technica reports: Gemini has wormed its way into virtually every Google product and service, powering email organization in Gmail, document summary in Drive, and much more. Gemini is also core to Google's flagship search experience, with AI Mode and AI Overviews becoming increasingly hard to avoid. The 1 billion-user metric has noth",
       "published": "2026-08-11T21:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The 19th-Century Family Fortunes Funding Degrowth",
-      "url": "https://www.effort.news/p4ne",
-      "summary": "7 points · 2 comments",
-      "published": "2026-08-11T20:56:00+00:00"
     },
     {
       "source": "OSINT",
@@ -100,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "147 points · 61 comments",
+      "summary": "183 points · 80 comments",
       "published": "2026-08-11T19:49:44+00:00"
     },
     {
@@ -121,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "123 points · 60 comments",
+      "summary": "146 points · 77 comments",
       "published": "2026-08-11T19:35:52+00:00"
     },
     {
@@ -156,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Making holograms with a pen plotter",
       "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "75 points · 6 comments",
+      "summary": "96 points · 10 comments",
       "published": "2026-08-11T18:51:35+00:00"
     },
     {
@@ -191,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "How we used to get jobs: A newspaper classifieds story",
       "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-      "summary": "78 points · 60 comments",
+      "summary": "94 points · 75 comments",
       "published": "2026-08-11T18:09:56+00:00"
     },
     {
@@ -219,22 +247,8 @@
       "source": "HACKER NEWS",
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "summary": "58 points · 53 comments",
+      "summary": "81 points · 80 comments",
       "published": "2026-08-11T17:23:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "CSS properties you should know for better text designs",
-      "url": "https://master.dev/blog/typographic-css-tricks/",
-      "summary": "47 points · 3 comments",
-      "published": "2026-08-11T17:16:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "RSI Simulator",
-      "url": "https://www.paradigm.xyz/writing/rsi-simulator",
-      "summary": "9 points · 3 comments",
-      "published": "2026-08-11T17:01:21+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -247,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "225 points · 98 comments",
+      "summary": "248 points · 111 comments",
       "published": "2026-08-11T16:56:46+00:00"
     },
     {
@@ -303,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Git-knife – edit commit messages, authors, and dates like a spreadsheet",
       "url": "https://github.com/TheRealYT/git-knife",
-      "summary": "113 points · 80 comments",
+      "summary": "118 points · 83 comments",
       "published": "2026-08-11T15:09:34+00:00"
     },
     {
@@ -317,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Manus will return to operating as an independent company",
       "url": "https://manus.im/blog/a-note-to-our-users",
-      "summary": "116 points · 62 comments",
+      "summary": "124 points · 65 comments",
       "published": "2026-08-11T14:14:53+00:00"
     },
     {
@@ -331,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "summary": "427 points · 171 comments",
+      "summary": "451 points · 191 comments",
       "published": "2026-08-11T13:22:00+00:00"
     },
     {
@@ -366,14 +380,14 @@
       "source": "HACKER NEWS",
       "title": "England set to be one of the first countries to eliminate hepatitis C",
       "url": "https://www.bbc.com/news/articles/c75gk620r22o",
-      "summary": "463 points · 329 comments",
+      "summary": "475 points · 338 comments",
       "published": "2026-08-11T12:41:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "summary": "197 points · 279 comments",
+      "summary": "233 points · 304 comments",
       "published": "2026-08-11T12:23:07+00:00"
     },
     {
@@ -436,7 +450,7 @@
       "source": "HACKER NEWS",
       "title": "Nvidia's Risky Business",
       "url": "https://stratechery.com/2026/nvidias-risky-business/",
-      "summary": "266 points · 120 comments",
+      "summary": "276 points · 127 comments",
       "published": "2026-08-11T10:02:00+00:00"
     },
     {
@@ -445,13 +459,6 @@
       "url": "https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "alternative_right shares a report from 404 Media: Robotics companies promise that video-camera-toting security robots can deter and detect crime. But many companies are rethinking the approach after a trail of canceled contracts and questions about whether the artificial intelligence-powered bots are meeting the needs of businesses and local governments. Proof News found evidence of at least 21 security robot deployments since 2015. We contacted contract holders and combed news articles and dete",
       "published": "2026-08-11T08:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Are we actually getting better at cybersecurity?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vl9rfe/are_we_actually_getting_better_at_cybersecurity/",
-      "summary": "This is something I'd especially love to hear from people who have been working in security long enough to have watched the industry change over a couple of decades:) Security has obviously come a long way, with better tools and better ways of detecting threats. But at the same time, everything has gotten way more complex and there are more things to secure than ever and we're somehow still dealing with a lot of the same problems we've known about for years. So I'm curious, are we actually getti",
-      "published": "2026-08-11T06:40:22+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -468,13 +475,6 @@
       "published": "2026-08-11T04:54:19+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Cyber Vulnerability Sweep Picks Up Royal Navy Drones Sending Data To China",
-      "url": "https://tech.slashdot.org/story/26/08/10/2043251/cyber-vulnerability-sweep-picks-up-royal-navy-drones-sending-data-to-china?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A routine security assessment found that cameras aboard Royal Navy Kraken unmanned surface vessels were sending \"heartbeat\" signals to an IP address in China. \"A thorough investigation found no evidence of MoD data or systems being accessed, compromised or transmitted externally,\" said a Ministry of Defense spokesperson. \"Our assurance and testing processes are designed to identify and address potential vulnerabilities early, and we continue to undertake routine security activity across our syst",
-      "published": "2026-08-10T23:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
@@ -485,14 +485,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "summary": "146 points · 157 comments",
+      "summary": "171 points · 174 comments",
       "published": "2026-08-08T22:47:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Jolt: Clojure compiler implemented with Chez Scheme",
       "url": "https://jolt-lang.github.io",
-      "summary": "128 points · 43 comments",
+      "summary": "136 points · 50 comments",
       "published": "2026-08-08T17:38:20+00:00"
     },
     {
