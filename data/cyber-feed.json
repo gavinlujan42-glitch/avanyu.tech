@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T10:08:01.476260+00:00",
+  "updated": "2026-08-11T11:22:43.196296+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,41 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
+      "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
+      "published": "2026-08-11T11:03:01+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Reddit Bans 11-Year Account for GPL Game Post, Testing the EU's DSA",
+      "url": "https://tech.slashdot.org/story/26/08/11/0532213/reddit-bans-11-year-account-for-gpl-game-post-testing-the-eus-dsa?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader DF5JT writes: On July 26, I posted a single announcement in r/backgammon: GNU Backgammon for Android, GPLv3, the first standalone backgammon engine on F-Droid. Reddit's spam filter removed the post and permanently banned my 11-year, 30,000-karma account -- the result is publicly visible at reddit.com/user/OE1FEU. To this day, Reddit has given no reason whatsoever, although Article 17 of the EU's Digital Services Act makes a statement of reasons mandatory. The only appeal",
+      "published": "2026-08-11T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
+      "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
+      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that",
+      "published": "2026-08-11T10:48:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "SMAP is Pre-Disarmed: How a Stack Pivot That Shouldn't Work Revealed a Kernel-Wide Design Compromise",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vldzdp/smap_is_predisarmed_how_a_stack_pivot_that/",
+      "summary": "While working through a kernel exploit chain on Windows 11, I noticed that a stack pivot into user-mode memory didn't trigger SMAP. I wrote up three experiments to figure out why. Short version: the normal syscall entry path arrives with RFLAGS.AC=1. SMAP is effectively disabled for any code reached through a standard IOCTL dispatch. This aligns with what MSRC documented back in 2020 (the Windows kernel simply wasn't built with SMAP in mind, and retrofitting it would touch ~2,900 locations: here",
+      "published": "2026-08-11T10:45:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
+      "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
+      "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can work even after a blunt version of the same theft is refused: split the request into fragments that each look routine, place them in channels the assistant already uses, and let",
+      "published": "2026-08-11T10:24:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vld9at/hackers_breach_polish_power_plant_controls_via/",
@@ -48,6 +83,13 @@
       "published": "2026-08-11T09:47:06+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "url": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
+      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
+      "published": "2026-08-11T09:16:24+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mandatory User Profile for Persistence and EDR Evasion",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vlbffw/mandatory_user_profile_for_persistence_and_edr/",
@@ -56,9 +98,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Closing Canario Terminal source code",
+      "url": "https://rapha.land/closing-canario-terminal-source-code/",
+      "summary": "9 points · 6 comments",
+      "published": "2026-08-11T08:16:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "France to ban unsolicited telemarketing calls",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "summary": "123 points · 79 comments",
+      "summary": "256 points · 162 comments",
       "published": "2026-08-11T08:15:46+00:00"
     },
     {
@@ -86,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
       "url": "https://github.com/activeing123/mcptoon",
-      "summary": "47 points · 35 comments",
+      "summary": "51 points · 38 comments",
       "published": "2026-08-11T05:26:58+00:00"
     },
     {
@@ -111,45 +160,31 @@
       "published": "2026-08-11T02:59:55+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "NVD has been down for while now, any info on this?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vl4irw/nvd_has_been_down_for_while_now_any_info_on_this/",
-      "summary": "submitted by /u/AverageCowboyCentaur [link] [comments]",
-      "published": "2026-08-11T02:09:22+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Recycle – Floppydisks",
       "url": "https://www.floppydisk.com/recycle",
-      "summary": "63 points · 27 comments",
+      "summary": "67 points · 30 comments",
       "published": "2026-08-11T02:01:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "url": "https://github.com/antirez/h3.c",
-      "summary": "276 points · 56 comments",
+      "summary": "298 points · 66 comments",
       "published": "2026-08-11T01:22:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Chicken Scheme 6.0",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "summary": "194 points · 21 comments",
+      "summary": "202 points · 26 comments",
       "published": "2026-08-11T00:24:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The UK's war on anonymity has come to America",
-      "url": "https://www.effort.news/uk-lobby",
-      "summary": "503 points · 426 comments",
-      "published": "2026-08-10T23:45:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "summary": "193 points · 62 comments",
+      "summary": "209 points · 68 comments",
       "published": "2026-08-10T23:16:25+00:00"
     },
     {
@@ -170,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "summary": "304 points · 301 comments",
+      "summary": "343 points · 385 comments",
       "published": "2026-08-10T22:36:30+00:00"
     },
     {
@@ -240,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "summary": "335 points · 131 comments",
+      "summary": "359 points · 135 comments",
       "published": "2026-08-10T17:22:07+00:00"
     },
     {
@@ -289,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "507 points · 469 comments",
+      "summary": "523 points · 481 comments",
       "published": "2026-08-10T14:06:22+00:00"
     },
     {
@@ -349,13 +384,6 @@
       "published": "2026-08-10T11:47:55+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Toxic Underground Fires Are Spreading at California Landfills",
-      "url": "https://news.slashdot.org/story/26/08/09/2232249/toxic-underground-fires-are-spreading-at-california-landfills?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Three years ago environmental regulators discovered garbage burning deep inside California's Chiquita Canyon Landfill, reports the Los Angeles Times. [Alternate URL here.] \"Few imagined the calamity that would follow. \"Somehow the landfill's pollution control system introduced oxygen below, causing decades-old waste to rapidly decompose, generating intense heat and eventually widespread smoldering, federal and state environmental agencies say.\" The broiling temperatures released toxic gases and ",
-      "published": "2026-08-10T11:34:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
       "url": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
@@ -384,13 +412,6 @@
       "published": "2026-08-10T07:38:23+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "url": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
-      "published": "2026-08-10T05:50:03+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
@@ -398,59 +419,38 @@
       "published": "2026-08-10T00:00:09+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "published": "2026-08-08T14:16:23+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was",
-      "published": "2026-08-08T08:54:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
-      "url": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
-      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email. PortSwigger researcher Gareth",
-      "published": "2026-08-08T08:03:57+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "To Save C, We Must Save ABI",
       "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-      "summary": "44 points · 18 comments",
+      "summary": "64 points · 37 comments",
       "published": "2026-08-08T07:36:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Stowaway – Take the window seat on any plane or satellite overhead",
       "url": "https://stowaway.live/",
-      "summary": "270 points · 32 comments",
+      "summary": "285 points · 35 comments",
       "published": "2026-08-07T13:15:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "summary": "377 points · 90 comments",
+      "summary": "385 points · 91 comments",
       "published": "2026-08-07T10:26:34+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Programming the Gigatron",
       "url": "https://www.iwriteiam.nl/PGigatron.html",
-      "summary": "4 points · 0 comments",
+      "summary": "10 points · 0 comments",
       "published": "2026-08-07T07:21:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "About Rx Kids",
       "url": "https://rxkids.org/about/",
-      "summary": "19 points · 2 comments",
+      "summary": "30 points · 20 comments",
       "published": "2026-08-07T02:58:18+00:00"
     },
     {
@@ -464,21 +464,21 @@
       "source": "HACKER NEWS",
       "title": "Faster floating point math with Rust's new API",
       "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-      "summary": "40 points · 2 comments",
+      "summary": "47 points · 4 comments",
       "published": "2026-08-06T13:43:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "summary": "140 points · 72 comments",
+      "summary": "144 points · 74 comments",
       "published": "2026-08-05T15:22:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "LFM2.5 2.6B model competitive with 4x larger models",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "summary": "77 points · 18 comments",
+      "summary": "86 points · 18 comments",
       "published": "2026-08-04T18:47:25+00:00"
     },
     {
