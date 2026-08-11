@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-11T09:06:37.739770+00:00",
-  "item_count": 75,
+  "updated": "2026-08-11T10:08:01.476260+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,31 +28,38 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vld9at/hackers_breach_polish_power_plant_controls_via/",
+      "summary": "Attackers breached a Polish combined heat and power plant through a private cellular APN used to access remote infrastructure. After pivoting from a compromised wind-farm network, they reached the plant’s OT environment, where a controller was still using default admin credentials. The attackers ultimately put multiple Siemens PLCs into STOP mode, shutting down a steam turbine and process-water treatment system. The interesting part no malware was required. The attackers abused legitimate device",
+      "published": "2026-08-11T10:05:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Has anyone ever heard of a device, app or software that sends out an email or text when you die or don’t respond in time to disable it? It is called a dead man's switch (or a digital dead man's switch). Any you use or know of people using that seem good?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vld1r5/has_anyone_ever_heard_of_a_device_app_or_software/",
+      "summary": "How It Works **Check-ins:** The system or app asks you to \"check in\" or prove you are alive on a regular schedule (like once a day or once a week). **The Trigger:** If you fail to respond or check in after a set amount of time and a grace period, the system assumes you are hurt, incapacitated, or dead. **The Action:** It automatically sends out pre-written text messages, emails, or hidden files to the emergency contacts or recipients you chose ahead of time. submitted by /u/MannerNo7000 [link] [",
+      "published": "2026-08-11T09:53:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
+      "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
+      "published": "2026-08-11T09:47:06+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Mandatory User Profile for Persistence and EDR Evasion",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vlbffw/mandatory_user_profile_for_persistence_and_edr/",
       "summary": "submitted by /u/netbiosX [link] [comments]",
       "published": "2026-08-11T08:17:54+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "intern cybersecurity question about incident response",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlbejw/intern_cybersecurity_question_about_incident/",
-      "summary": "Hello, I have found a job as an incident responder, but they just give me to check tickets to review the post incident review if they are closed. I have never seen anything outside this process, is it normal I am already 7 months in the company but I only check post incidents response tickets. What key activities I am missing and what should I ask them to give me, I am intern. submitted by /u/National_Honey_9225 [link] [comments]",
-      "published": "2026-08-11T08:16:25+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "France to ban unsolicited telemarketing calls",
       "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
-      "summary": "34 points · 8 comments",
+      "summary": "123 points · 79 comments",
       "published": "2026-08-11T08:15:46+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "intern question for cybersecurity",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlbdve/intern_question_for_cybersecurity/",
-      "summary": "Hello, I have found a job as an incident responder, but they just give me to check tickets to review the post incident review if they are closed. I have never seen anything outside this process, is it normal I am already 7 months in the company but I only check post incidents response tickets. What key activities I am missing and what should I ask them to give me, I am intern. submitted by /u/National_Honey_9225 [link] [comments]",
-      "published": "2026-08-11T08:15:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -60,13 +67,6 @@
       "url": "https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "alternative_right shares a report from 404 Media: Robotics companies promise that video-camera-toting security robots can deter and detect crime. But many companies are rethinking the approach after a trail of canceled contracts and questions about whether the artificial intelligence-powered bots are meeting the needs of businesses and local governments. Proof News found evidence of at least 21 security robot deployments since 2015. We contacted contract holders and combed news articles and dete",
       "published": "2026-08-11T08:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "url": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the intruders were still active inside the network, and customers lost neither heat",
-      "published": "2026-08-11T06:55:45+00:00"
     },
     {
       "source": "REDDIT",
@@ -86,7 +86,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
       "url": "https://github.com/activeing123/mcptoon",
-      "summary": "41 points · 29 comments",
+      "summary": "47 points · 35 comments",
       "published": "2026-08-11T05:26:58+00:00"
     },
     {
@@ -121,35 +121,35 @@
       "source": "HACKER NEWS",
       "title": "Recycle – Floppydisks",
       "url": "https://www.floppydisk.com/recycle",
-      "summary": "59 points · 25 comments",
+      "summary": "63 points · 27 comments",
       "published": "2026-08-11T02:01:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
       "url": "https://github.com/antirez/h3.c",
-      "summary": "247 points · 41 comments",
+      "summary": "276 points · 56 comments",
       "published": "2026-08-11T01:22:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Chicken Scheme 6.0",
       "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
-      "summary": "182 points · 19 comments",
+      "summary": "194 points · 21 comments",
       "published": "2026-08-11T00:24:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The UK's war on anonymity has come to America",
       "url": "https://www.effort.news/uk-lobby",
-      "summary": "481 points · 363 comments",
+      "summary": "503 points · 426 comments",
       "published": "2026-08-10T23:45:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
       "url": "https://everycube.alen.is/",
-      "summary": "185 points · 58 comments",
+      "summary": "193 points · 62 comments",
       "published": "2026-08-10T23:16:25+00:00"
     },
     {
@@ -170,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "As AI eats the web, the internet’s collective memory is disappearing",
       "url": "https://thewalrus.ca/google-search-is-dying/",
-      "summary": "252 points · 245 comments",
+      "summary": "304 points · 301 comments",
       "published": "2026-08-10T22:36:30+00:00"
     },
     {
@@ -179,13 +179,6 @@
       "url": "https://yro.slashdot.org/story/26/08/10/2035248/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: Ceva Logistics, one of the world's largest shipping and logistics giants, has been hacked. Several companies that rely on Ceva for shipping their products to their customers say that their personal information was also stolen in the breach. The cyberattack on Ceva is affecting at least eight warehouses across Europe used for shipping goods across the continent, the company told TechCrunch. Industry news site FreightWaves reports that the hack ",
       "published": "2026-08-10T22:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How Claude marks AI-generated content",
-      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-      "summary": "169 points · 121 comments",
-      "published": "2026-08-10T21:36:56+00:00"
     },
     {
       "source": "OSINT",
@@ -247,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
       "url": "https://cactuscompute.com/needle",
-      "summary": "319 points · 114 comments",
+      "summary": "335 points · 131 comments",
       "published": "2026-08-10T17:22:07+00:00"
     },
     {
@@ -296,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
       "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
-      "summary": "500 points · 458 comments",
+      "summary": "507 points · 469 comments",
       "published": "2026-08-10T14:06:22+00:00"
     },
     {
@@ -429,35 +422,35 @@
       "source": "HACKER NEWS",
       "title": "To Save C, We Must Save ABI",
       "url": "https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi",
-      "summary": "30 points · 7 comments",
+      "summary": "44 points · 18 comments",
       "published": "2026-08-08T07:36:55+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-      "published": "2026-08-07T20:14:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Stowaway – Take the window seat on any plane or satellite overhead",
       "url": "https://stowaway.live/",
-      "summary": "259 points · 31 comments",
+      "summary": "270 points · 32 comments",
       "published": "2026-08-07T13:15:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sonic Pi v5",
       "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
-      "summary": "369 points · 89 comments",
+      "summary": "377 points · 90 comments",
       "published": "2026-08-07T10:26:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Programming the Gigatron",
+      "url": "https://www.iwriteiam.nl/PGigatron.html",
+      "summary": "4 points · 0 comments",
+      "published": "2026-08-07T07:21:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "About Rx Kids",
       "url": "https://rxkids.org/about/",
-      "summary": "5 points · 0 comments",
+      "summary": "19 points · 2 comments",
       "published": "2026-08-07T02:58:18+00:00"
     },
     {
@@ -471,21 +464,21 @@
       "source": "HACKER NEWS",
       "title": "Faster floating point math with Rust's new API",
       "url": "https://pythonspeed.com/articles/faster-float-math-rust/",
-      "summary": "33 points · 1 comments",
+      "summary": "40 points · 2 comments",
       "published": "2026-08-06T13:43:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The “mechanical miracle” that ruined Mark Twain’s life",
       "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
-      "summary": "133 points · 69 comments",
+      "summary": "140 points · 72 comments",
       "published": "2026-08-05T15:22:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "LFM2.5 2.6B model competitive with 4x larger models",
       "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-      "summary": "65 points · 17 comments",
+      "summary": "77 points · 18 comments",
       "published": "2026-08-04T18:47:25+00:00"
     },
     {
