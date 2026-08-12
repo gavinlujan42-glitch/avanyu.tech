@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T18:01:33.686033+00:00",
-  "item_count": 75,
+  "updated": "2026-08-12T19:11:02.959740+00:00",
+  "item_count": 87,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,16 +16,67 @@
     },
     {
       "source": "REDDIT",
-      "url": "https://www.reddit.com/r/netsec/.rss",
-      "error": "HTTPError"
-    },
-    {
-      "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "SLASHDOT",
+      "title": "DEF CON Crowd Suspected In Fake-Hotspot Attack On Delta Flight",
+      "url": "https://mobile.slashdot.org/story/26/08/12/064220/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement. The incident came one day after the DEF CON security conference concluded in Las Vegas, and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS. According to the \"ACARS Drama\" account, a message was sent by pilots fro",
+      "published": "2026-08-12T19:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CyberWarFare Labs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmn54q/cyberwarfare_labs/",
+      "summary": "Hello there is a offer in CyberWarFare Labs where most courses are for 9 USD including CRTA... is the course worth it to take or not ? after completing this certificate will it hold any value or not. submitted by /u/Pablo_Escobar_128482 [link] [comments]",
+      "published": "2026-08-12T18:55:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
+      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
+      "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
+      "published": "2026-08-12T18:54:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Zed: Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "summary": "77 points · 13 comments",
+      "published": "2026-08-12T18:19:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Your Key to Success Isn't More Luck or Hard Work",
+      "url": "https://julienreszka.com/blog/your-key-to-success-isn-t-more-luck-or-hard-work/",
+      "summary": "11 points · 10 comments",
+      "published": "2026-08-12T18:17:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Seeking Advice on Career Pivot: Transitioning from Backend to Offensive Cybersecurity",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmlm3v/seeking_advice_on_career_pivot_transitioning_from/",
+      "summary": "I (30M) am seeking honest, practical advice from experienced cybersecurity professionals regarding my career path and the reality of my goals. Background I graduated with a BSc in Computer Science 6 years ago. Due to an armed conflict in my country (over now) and other reasons, I wasn't able to have a tech job. However, during these years, I self-studied webdev whenever possible. I am currently at a beginner-to-intermediate level in backend development: programming languages, web frameworks, dat",
+      "published": "2026-08-12T18:00:08+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "The Pixel Tag Is Google's Answer To the AirTag",
+      "url": "https://tech.slashdot.org/story/26/08/12/1525222/the-pixel-tag-is-googles-answer-to-the-airtag?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google has unveiled the $29 Pixel Tag, its long-awaited AirTag rival that combines UWB with Bluetooth 6.0 Channel Sounding for two forms of precision tracking. It launches November 11. The Verge reports: The Pixel Tag is a slim oblong device available in one grayish color -- Fog -- that weighs about 12g, or 0.4oz. Like the AirTag, it has no built-in hooks or clips for attaching to objects you want to track. There's a single button that will trigger a sound on your phone, for the rare occasion wh",
+      "published": "2026-08-12T18:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
+      "published": "2026-08-12T17:39:27+00:00"
+    },
     {
       "source": "HACKER NEWS",
       "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
@@ -44,14 +95,14 @@
       "source": "HACKER NEWS",
       "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "summary": "87 points · 37 comments",
+      "summary": "181 points · 151 comments",
       "published": "2026-08-12T16:54:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "summary": "20 points · 15 comments",
+      "summary": "41 points · 35 comments",
       "published": "2026-08-12T16:51:25+00:00"
     },
     {
@@ -65,43 +116,22 @@
       "source": "HACKER NEWS",
       "title": "Glaciers on the Climate Dashboard",
       "url": "https://climate.metoffice.cloud/glaciers.html",
-      "summary": "41 points · 3 comments",
+      "summary": "60 points · 5 comments",
       "published": "2026-08-12T16:38:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Qwen3.8-2.4T",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-      "summary": "18 points · 0 comments",
-      "published": "2026-08-12T16:26:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Wednesday, August 12: GitHub, Incident with Pull Requests and Issues",
       "url": "https://www.githubstatus.com/incidents/76t89hbfb09h",
-      "summary": "35 points · 5 comments",
+      "summary": "46 points · 11 comments",
       "published": "2026-08-12T16:22:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "We just raised $400M in Series C",
       "url": "https://lovable.dev/blog/series-c",
-      "summary": "29 points · 9 comments",
+      "summary": "40 points · 24 comments",
       "published": "2026-08-12T16:20:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bike Bureau: Report Bike Lane Obstructions",
-      "url": "https://loudbicycle.com/bb",
-      "summary": "25 points · 15 comments",
-      "published": "2026-08-12T16:20:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pixel Watch 5",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "summary": "19 points · 10 comments",
-      "published": "2026-08-12T16:14:37+00:00"
     },
     {
       "source": "OSINT",
@@ -114,7 +144,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "summary": "275 points · 83 comments",
+      "summary": "419 points · 145 comments",
       "published": "2026-08-12T16:04:50+00:00"
     },
     {
@@ -140,9 +170,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Qwen/Qwen3.8-2.4T-A95B",
+      "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "200 points · 60 comments",
+      "summary": "247 points · 67 comments",
       "published": "2026-08-12T15:01:17+00:00"
     },
     {
@@ -156,14 +186,14 @@
       "source": "HACKER NEWS",
       "title": "License plate reader searches should require a warrant",
       "url": "https://andrewpwheeler.com/2026/08/12/license-plate-reader-searches-should-require-a-warrant/",
-      "summary": "351 points · 218 comments",
+      "summary": "395 points · 252 comments",
       "published": "2026-08-12T14:43:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "summary": "428 points · 65 comments",
+      "summary": "512 points · 80 comments",
       "published": "2026-08-12T14:22:30+00:00"
     },
     {
@@ -184,14 +214,14 @@
       "source": "HACKER NEWS",
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "summary": "125 points · 23 comments",
+      "summary": "146 points · 23 comments",
       "published": "2026-08-12T14:09:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
-      "summary": "128 points · 76 comments",
+      "summary": "151 points · 93 comments",
       "published": "2026-08-12T14:02:46+00:00"
     },
     {
@@ -205,14 +235,14 @@
       "source": "HACKER NEWS",
       "title": "Why Tiny JPEGs Look Different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "summary": "157 points · 28 comments",
+      "summary": "176 points · 35 comments",
       "published": "2026-08-12T14:00:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AI is removing the middle class of software engineering",
       "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "summary": "431 points · 358 comments",
+      "summary": "492 points · 408 comments",
       "published": "2026-08-12T13:20:05+00:00"
     },
     {
@@ -223,24 +253,10 @@
       "published": "2026-08-12T12:54:07+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Anyone work as game security specialist/analyst?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmcdzf/anyone_work_as_game_security_specialistanalyst/",
-      "summary": "will it translates to cybersecurity career in the future? submitted by /u/No-Individual5598 [link] [comments]",
-      "published": "2026-08-12T12:12:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Knowledge Management Software",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmccf6/knowledge_management_software/",
-      "summary": "What free/open source or cheap knowledge management software is anyone using? Software you use for your SOP’s, Playbooks and such. Hp Service Manager has a built in knowledge management system. I know some use share point or confluence. But those are proprietary and cost money. What are the free/open source options? submitted by /u/woolleymammoth89 [link] [comments]",
-      "published": "2026-08-12T12:10:41+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "summary": "382 points · 95 comments",
+      "summary": "409 points · 105 comments",
       "published": "2026-08-12T11:53:01+00:00"
     },
     {
@@ -286,6 +302,13 @@
       "published": "2026-08-12T11:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
+      "url": "https://www.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/",
+      "summary": "submitted by /u/unknownhad [link] [comments]",
+      "published": "2026-08-12T10:31:17+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
@@ -305,6 +328,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vm97fx/dlp_final_boss/",
       "summary": "Purview DLP, everyones favourite I feel like this is an impossible task, providing sufficient coverage without being overwhelmed with alerts. We're correctly tagging sensitive documents, which in turn generates DLP alerts. But given the nature of some users, this can be quickly become overwhelming/expected. Are you whitelisting certain domains/users/departments? Can anyone share any success stories for implementation, policies or tuning? Is it possible?? submitted by /u/Tingley2504 [link] [comme",
       "published": "2026-08-12T09:26:29+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "ERPNext's Document Follow feature exposed unauthorized data",
+      "url": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/",
+      "summary": "Chaining 3 CVEs to exfiltrate sensitive ERP data. submitted by /u/TeraTrox_ [link] [comments]",
+      "published": "2026-08-12T09:23:41+00:00"
     },
     {
       "source": "OSINT",
@@ -370,6 +400,13 @@
       "published": "2026-08-12T01:15:55+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "GhostSplice: Malicious MCP Servers Split Instructions to Make AI Coding Agents Exfiltrate Secrets (ASSET Research Group)",
+      "url": "https://www.reddit.com/r/netsec/comments/1vlynwn/ghostsplice_malicious_mcp_servers_split/",
+      "summary": "submitted by /u/Altruistic_Hope_2559 [link] [comments]",
+      "published": "2026-08-12T00:14:46+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Linux Desktop Use Surged To 22% On One Workday, Cloudflare Data Shows",
       "url": "https://linux.slashdot.org/story/26/08/11/2047228/linux-desktop-use-surged-to-22-on-one-workday-cloudflare-data-shows?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -412,6 +449,13 @@
       "published": "2026-08-11T21:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "Expired DMARC reporting endpoint exposed a NYSE Fortune 1000's infrastructure for $10",
+      "url": "https://www.reddit.com/r/netsec/comments/1vlsvsn/expired_dmarc_reporting_endpoint_exposed_a_nyse/",
+      "summary": "I registered an expired DMARC reporting domain (gca-emailauth[.]org) for $10. It had been published as the aggregate-reporting address in Global Cyber Alliance DMARC training docs going back to a 2019 bootcamp, and at some point it lapsed. Shortly after registration, aggregate DMARC reports for 86 domains across 20+ organizations started arriving. 56 belonged to The Toro Company (NYSE-listed), including myturf[.]com, their distributor platform, which sits at p=none. The rest - University of Wisc",
+      "published": "2026-08-11T20:23:28+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
@@ -447,27 +491,6 @@
       "published": "2026-08-11T19:15:45+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "url": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
-      "published": "2026-08-11T19:08:47+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Spotify Will Label 'AI Persona' Profiles, Exclude Their Music From Recommendations",
-      "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Spotify will begin labeling AI-generated artist identities with \"AI Persona\" badges and exclude their music from editorial, algorithmic, and personalized recommendations unless users explicitly follow them. The company says the designation applies to whether an artist profile represents a real person, not whether AI was used to make the music, and will allow appeals for mislabeling. TechCrunch reports: While Spotify will allow artists to identify themselves as AI Personas, the company says it wo",
-      "published": "2026-08-11T19:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-      "url": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-      "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
-      "published": "2026-08-11T18:34:23+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Zoomsday: Zero-click RCE in Zoom, from any meeting participant to any other (CVE-2026-53413)",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vlpe1b/zoomsday_zeroclick_rce_in_zoom_from_any_meeting/",
@@ -475,11 +498,39 @@
       "published": "2026-08-11T18:17:01+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Paramount Considers Leaving California Amid Antitrust Suit",
-      "url": "https://slashdot.org/story/26/08/11/1733246/paramount-considers-leaving-california-amid-antitrust-suit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Paramount CEO David Ellison is threatening to begin moving the studio out of California on October 1 if state Attorney General Rob Bonta refuses to enter settlement talks over the proposed Paramount-Warner Bros. Discovery merger. The company would reportedly move its Los Angeles headquarters first and shift most studio jobs out of the state over five years, with Georgia, Texas, and Tennessee under consideration. Variety reports: Ellison's threat to relocate Paramount in retaliation for Californi",
-      "published": "2026-08-11T18:00:00+00:00"
+      "source": "REDDIT",
+      "title": "CopyEscape: Container-to-host arbitrary file write via docker cp (CVE-2026-17106)",
+      "url": "https://www.reddit.com/r/netsec/comments/1vlkth5/copyescape_containertohost_arbitrary_file_write/",
+      "summary": "Author here. We discovered a vulnerability in docker cp that allows a malicious container to create or overwrite files on the machine running the Docker CLI. The exploit combines a filesystem race in Docker’s archive creation with unsafe symlink handling during extraction. Depending on the CLI user’s privileges, this can lead to developer-account compromise or root code execution. Docker confirmed that sbx cp was also affected. Fixed versions: Docker Engine/CLI 29.7.2+ Docker Desktop 4.86.0+ Doc",
+      "published": "2026-08-11T15:33:52+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "ETW for Security Research: Providers, Sessions, and Detection Engineering",
+      "url": "https://www.reddit.com/r/netsec/comments/1vliunx/etw_for_security_research_providers_sessions_and/",
+      "summary": "submitted by /u/Idov31 [link] [comments]",
+      "published": "2026-08-11T14:22:05+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "SMAP is Pre-Disarmed: How a Stack Pivot That Shouldn't Work Revealed a Kernel-Wide Design Compromise",
+      "url": "https://www.reddit.com/r/netsec/comments/1vldzrh/smap_is_predisarmed_how_a_stack_pivot_that/",
+      "summary": "While working through a kernel exploit chain on Windows 11, I noticed that a stack pivot into user-mode memory didn't trigger SMAP. I wrote up three experiments to figure out why. Short version: the normal syscall entry path arrives with RFLAGS.AC=1. SMAP is effectively disabled for any code reached through a standard IOCTL dispatch. This aligns with what MSRC documented back in 2020 (the Windows kernel simply wasn't built with SMAP in mind, and retrofitting it would touch ~2,900 locations: here",
+      "published": "2026-08-11T10:46:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Mandatory User Profile for Persistence & EDR Evasion",
+      "url": "https://www.reddit.com/r/netsec/comments/1vlbhe1/mandatory_user_profile_for_persistence_edr_evasion/",
+      "summary": "submitted by /u/netbiosX [link] [comments]",
+      "published": "2026-08-11T08:20:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Inside a Russian-speaking operator's toolkit for compromising Ukrainian IP cameras",
+      "url": "https://www.reddit.com/r/netsec/comments/1vktfi3/inside_a_russianspeaking_operators_toolkit_for/",
+      "summary": "Hunt.io researchers analyzed two open directories recovered through Attack Capture system and reconstructed the tooling one operator used to find, exploit, and view internet-exposed cameras in Ukraine. Technical highlights: A custom FastAPI/Docker project the operator named camview, which wraps the open-source Ingram scanner, brute-forces camera credentials over HTTP and RTSP (3,811 pair dictionary), and transcodes RTSP to MJPEG for browser viewing Ingram targets known camera CVEs: CVE-2017-7921",
+      "published": "2026-08-10T18:41:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -489,11 +540,32 @@
       "published": "2026-08-10T00:00:09+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "When terrible disclosure from the vendor results in zero days plus a fun dive in to bypassing full disk encryption",
+      "url": "https://www.reddit.com/r/netsec/comments/1vjxr66/when_terrible_disclosure_from_the_vendor_results/",
+      "summary": "submitted by /u/kev-thehermit [link] [comments]",
+      "published": "2026-08-09T18:44:44+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Essential Question: \"What should I read next?\"",
+      "url": "https://thenewcuriosityshop.substack.com/p/the-essential-question",
+      "summary": "11 points · 1 comments",
+      "published": "2026-08-06T00:48:18+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "r/netsec monthly discussion & tool thread",
+      "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
+      "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely. If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely. Avoid use of mem",
+      "published": "2026-08-01T13:29:06+00:00"
     },
     {
       "source": "OSINT",
@@ -508,48 +580,6 @@
       "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
       "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
       "published": "2026-07-22T01:10:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "published": "2026-07-14T19:22:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "2026-07-13T15:03:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-      "published": "2026-07-08T12:31:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
-      "published": "2026-07-02T19:27:33+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-      "published": "2026-06-23T16:12:49+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "url": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-      "published": "2026-06-18T17:37:58+00:00"
     }
   ]
 }
