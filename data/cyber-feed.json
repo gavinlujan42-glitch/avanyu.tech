@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T10:37:18.347162+00:00",
+  "updated": "2026-08-12T11:53:31.555827+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,6 +28,34 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Largest AI Supply Chain Breach of 2026: LiteLLM Hack Impacts Thousands of Global Enterprises - Data from the breach is now available",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmbty0/largest_ai_supply_chain_breach_of_2026_litellm/",
+      "summary": "Our researchers have obtained and analyzed a staggering 153GB RAR archive . This massive corpus contains exactly 433,909 files . Through our analysis, we have successfully attributed 118,829 CI runner dumps to 2,488 affected corporate domains . Whenever a developer machine, production server, or CI/CD pipeline executed the compromised LiteLLM package, the threat actors successfully harvested the live environment memory and configurations mid-execution. submitted by /u/Malwarebeasts [link] [comme",
+      "published": "2026-08-12T11:46:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "published": "2026-08-12T11:21:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
+      "published": "2026-08-12T11:13:03+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Swarms of Tiny Robots Remove Microplastics From Soil and Water",
+      "url": "https://hardware.slashdot.org/story/26/08/12/0547231/swarms-of-tiny-robots-remove-microplastics-from-soil-and-water?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "alternative_right shares a report from Phys.org: Scientists from the Czech Republic have created microscopic cleanup robots that successfully removed microplastics from both soil and aquatic environments in the lab. Details of their work are published in the journal npg Asia Materials. To build the robots, researchers started with microscopic MXene particles made of ultrathin, stacked layers. The material has a large surface area and surface chemistry that help it attract and hold plastic. They ",
+      "published": "2026-08-12T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "How was your journey when learning cybersecurity engineering?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vmae43/how_was_your_journey_when_learning_cybersecurity/",
       "summary": "I hope this is the right sub to ask this in. Just interested in your experience! which tools did you use? At some point did you feel like you were at the edge of burning out? Which programming language/s have you learned? submitted by /u/MooseLegal8690 [link] [comments]",
@@ -51,35 +79,28 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
       "url": "https://woxi.ad-si.com",
-      "summary": "24 points · 1 comments",
+      "summary": "74 points · 1 comments",
       "published": "2026-08-12T10:06:29+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Tim Gowers: What sort of maths are LLMs good at?",
+      "title": "What sort of maths are LLMs good at?",
       "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "summary": "25 points · 1 comments",
+      "summary": "89 points · 23 comments",
       "published": "2026-08-12T10:04:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Facebook is paying controversial creators to produce rage-bait content",
       "url": "https://www.abc.net.au/news/2026-08-06/ragebait-how-facebook-is-paying-controversial-creators/106940696",
-      "summary": "63 points · 21 comments",
+      "summary": "153 points · 79 comments",
       "published": "2026-08-12T09:35:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Beef and dairy drive 41% of biodiversity damage linked to global farmland",
-      "url": "https://www.oxfordmartin.ox.ac.uk/news/beef-and-dairy-drive-41-of-biodiversity-damage-linked-to-global-farmland",
-      "summary": "72 points · 58 comments",
-      "published": "2026-08-12T09:30:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Dutch Train Map Simulator",
       "url": "https://spoorkaart.zaza.dev",
-      "summary": "32 points · 11 comments",
+      "summary": "58 points · 37 comments",
       "published": "2026-08-12T09:09:21+00:00"
     },
     {
@@ -107,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
-      "summary": "17 points · 5 comments",
+      "summary": "24 points · 7 comments",
       "published": "2026-08-12T07:51:20+00:00"
     },
     {
@@ -135,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "LinkedIn CringeBot 3000",
       "url": "https://www.cringebot3000.com/",
-      "summary": "207 points · 79 comments",
+      "summary": "269 points · 104 comments",
       "published": "2026-08-12T06:30:49+00:00"
     },
     {
@@ -149,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "llama.cpp",
       "url": "https://llama.app",
-      "summary": "238 points · 100 comments",
+      "summary": "265 points · 118 comments",
       "published": "2026-08-12T04:51:59+00:00"
     },
     {
@@ -202,17 +223,10 @@
       "published": "2026-08-11T22:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Is ClaudeBot aggressively scanning backend/Laravel endpoints (Telescope, .env, etc.) normal?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlvd4w/is_claudebot_aggressively_scanning_backendlaravel/",
-      "summary": "Hello there, I recently spotted some very aggressive crawling activity on my client's Nginx access logs coming from Anthropic’s crawler. Specifically, I'm seeing patterns like this: \"xxx GET /telescope/requests HTTP/1.1\" 503 xxxx \"-\" \"Mozilla/xxx AppleWebKit/xxxxx (KHTML, like Gecko); compatible; ClaudeBot/1.0; +mailto:support@anthropic.com\" It’s making over 100 requests targeting various backend endpoints, configuration files, and dev tools (like Laravel Telescope, /.env , actuator paths, etc.)",
-      "published": "2026-08-11T21:57:50+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "summary": "229 points · 69 comments",
+      "summary": "240 points · 73 comments",
       "published": "2026-08-11T21:56:18+00:00"
     },
     {
@@ -254,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "545 points · 219 comments",
+      "summary": "566 points · 230 comments",
       "published": "2026-08-11T19:49:44+00:00"
     },
     {
@@ -270,13 +284,6 @@
       "url": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
       "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
       "published": "2026-08-11T19:36:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "232 points · 119 comments",
-      "published": "2026-08-11T19:35:52+00:00"
     },
     {
       "source": "REDDIT",
@@ -359,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "390 points · 198 comments",
+      "summary": "400 points · 203 comments",
       "published": "2026-08-11T16:56:46+00:00"
     },
     {
@@ -398,6 +405,13 @@
       "published": "2026-08-11T15:59:35+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "U of Michigan drops first-semester grades to ‘curb mental health crisis’",
+      "url": "https://www.wsj.com/us-news/education/university-of-michigan-grades-mental-health-1a5701d4",
+      "summary": "61 points · 105 comments",
+      "published": "2026-08-11T15:54:35+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "NIST wants to overhaul its vulnerability database for the AI age",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vlld86/nist_wants_to_overhaul_its_vulnerability_database/",
@@ -415,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "summary": "626 points · 283 comments",
+      "summary": "640 points · 287 comments",
       "published": "2026-08-11T13:22:00+00:00"
     },
     {
@@ -426,32 +440,11 @@
       "published": "2026-08-11T13:20:28+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Vague Task, Total Access: When AI Delegation Becomes a Security Risk",
-      "url": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-      "summary": "AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce permissions around what each agent was actually created to do. [...]",
-      "published": "2026-08-11T13:15:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
-      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-      "summary": "OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response. \"Built on GPT‑5.6 Sol, it is trained to improve capabilities on several specialized cybersecurity tasks (e.g., finding zero-day vulnerabilities and developing exploit chains) and to reduce refusals for certain higher-risk",
-      "published": "2026-08-11T13:11:23+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "summary": "439 points · 425 comments",
+      "summary": "458 points · 436 comments",
       "published": "2026-08-11T12:23:07+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Reddit Bans 11-Year Account for GPL Game Post, Testing the EU's DSA",
-      "url": "https://tech.slashdot.org/story/26/08/11/0532213/reddit-bans-11-year-account-for-gpl-game-post-testing-the-eus-dsa?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader DF5JT writes: On July 26, I posted a single announcement in r/backgammon: GNU Backgammon for Android, GPLv3, the first standalone backgammon engine on F-Droid. Reddit's spam filter removed the post and permanently banned my 11-year, 30,000-karma account -- the result is publicly visible at reddit.com/user/OE1FEU. To this day, Reddit has given no reason whatsoever, although Article 17 of the EU's Digital Services Act makes a statement of reasons mandatory. The only appeal",
-      "published": "2026-08-11T11:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -469,16 +462,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Newfoundland has a hard bread shortage, but why do they eat it?",
+      "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/nl-hard-bread-history-shortage-9.7299276",
+      "summary": "31 points · 30 comments",
+      "published": "2026-08-09T20:32:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Worms: The Future of Yesterday's Worms Today",
       "url": "https://worm.net/",
-      "summary": "50 points · 16 comments",
+      "summary": "79 points · 24 comments",
       "published": "2026-08-07T11:20:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The hardest working font in Manhattan (2025)",
       "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "summary": "211 points · 37 comments",
+      "summary": "242 points · 40 comments",
       "published": "2026-08-06T20:22:29+00:00"
     },
     {
@@ -492,14 +492,14 @@
       "source": "HACKER NEWS",
       "title": "A shell exclamation mark is not for yelling. Be lazy",
       "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-      "summary": "80 points · 32 comments",
+      "summary": "101 points · 43 comments",
       "published": "2026-08-06T14:53:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
       "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-      "summary": "4 points · 0 comments",
+      "summary": "28 points · 2 comments",
       "published": "2026-08-06T10:29:50+00:00"
     },
     {
