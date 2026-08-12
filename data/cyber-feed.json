@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T06:19:46.594447+00:00",
+  "updated": "2026-08-12T08:00:43.031206+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,74 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Zoom Fixes 'Zoomsday' Zero-Click Flaw Weaponized by Public AI Models",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vm7nbs/zoom_fixes_zoomsday_zeroclick_flaw_weaponized_by/",
+      "summary": "An attacker on a Zoom call could have seized control of every other participant’s device without a single click from the target, using a flaw that an Israeli-founded offensive-security firm found and weaponized in under a day with publicly available AI models. submitted by /u/Revolutionary-Cod276 [link] [comments]",
+      "published": "2026-08-12T07:53:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you decide what you're NOT going to investigate?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vm7hmg/how_do_you_decide_what_youre_not_going_to/",
+      "summary": "Every team I've worked on has a list of alerts we stopped looking at. Not false positives, but the real-ish kinda ones. My seniors don't really write them down; they just remember them, but when they leave, the new person starts chasing stuff we collectively decided to ignore two months ago. Has anyone experienced the same? Does anyone above you sign off, or is it just the SOC making the decisions on the go? submitted by /u/Few-Designer-9101 [link] [comments]",
+      "published": "2026-08-12T07:43:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
+      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
+      "published": "2026-08-12T07:31:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Behold the 'Glueball,' a Strange New Form of Matter",
+      "url": "https://science.slashdot.org/story/26/08/12/0551225/behold-the-glueball-a-strange-new-form-of-matter?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "sciencehabit shares a report from Science Magazine: For more than half a century, physicists have searched for one of the strangest particles predicted by modern theory. It would be made almost entirely of gluons, the elusive subatomic particles that carry the strong nuclear force. Now, using a particle collider in Beijing, researchers say they have effectively proved the existence of such a \"glueball.\" In a preprint posted last month on arXiv and in a presentation last week at the International",
+      "published": "2026-08-12T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI agent hacks gym to get its user a spot in pilates class",
+      "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
+      "summary": "22 points · 22 comments",
+      "published": "2026-08-12T06:53:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
+      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet. RoguePlanet has been described",
+      "published": "2026-08-12T06:41:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "LinkedIn CringeBot 3000",
+      "url": "https://www.cringebot3000.com/",
+      "summary": "10 points · 1 comments",
+      "published": "2026-08-12T06:30:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
+      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
+      "published": "2026-08-12T06:15:58+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "llama.cpp",
       "url": "https://llama.app",
-      "summary": "62 points · 13 comments",
+      "summary": "152 points · 71 comments",
       "published": "2026-08-12T04:51:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Dropbox is an obvious PE Target?",
+      "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
+      "summary": "48 points · 68 comments",
+      "published": "2026-08-12T04:30:34+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -39,6 +102,13 @@
       "url": "https://news.slashdot.org/story/26/08/11/2054244/contiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from the Associated Press: The contiguous United States sizzled to its hottest month ever last month, according to the National Oceanic and Atmospheric Administration. July averaged 76.89 degrees Fahrenheit (24.94 degrees Celsius) across the Lower 48 states, eclipsing the Dust Bowl's July 1936 by an eighth of a degree. Records go back to 1895. [...] Although it was unusually cool in Alaska, hotter-than-normal conditions blanketed the Lower 48, with the most ex",
       "published": "2026-08-12T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
+      "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
+      "summary": "29 points · 4 comments",
+      "published": "2026-08-12T03:27:31+00:00"
     },
     {
       "source": "REDDIT",
@@ -51,29 +121,15 @@
       "source": "HACKER NEWS",
       "title": "The Human Is the Loop",
       "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "summary": "51 points · 21 comments",
+      "summary": "85 points · 29 comments",
       "published": "2026-08-12T02:15:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
-      "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai/",
-      "summary": "140 points · 31 comments",
-      "published": "2026-08-12T02:05:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
       "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-      "summary": "59 points · 12 comments",
+      "summary": "75 points · 20 comments",
       "published": "2026-08-12T01:45:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "New Bedford police officer accused of using Flock cameras to track ex-partner",
-      "url": "https://newbedfordlight.org/new-bedford-police-officer-accused-of-using-flock-cameras-to-track-and-follow-ex-romantic-partner/",
-      "summary": "150 points · 74 comments",
-      "published": "2026-08-12T01:42:46+00:00"
     },
     {
       "source": "OSINT",
@@ -121,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "summary": "187 points · 58 comments",
+      "summary": "206 points · 62 comments",
       "published": "2026-08-11T21:56:18+00:00"
     },
     {
@@ -163,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "436 points · 175 comments",
+      "summary": "486 points · 203 comments",
       "published": "2026-08-11T19:49:44+00:00"
     },
     {
@@ -184,15 +240,8 @@
       "source": "HACKER NEWS",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "209 points · 110 comments",
+      "summary": "220 points · 113 comments",
       "published": "2026-08-11T19:35:52+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Should I apply for a new gig?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlr4gx/should_i_apply_for_a_new_gig/",
-      "summary": "Hey all, Ive been in the industry as an engineer for around 6 years, I am a co owner of a MSP style company and ive been stressed out to the wall for over 1.5 years and a majority of our clients I handle nearly alone. The market we operate in is on the downhill as well. I wanted to ask, if I leave a few people may be without jobs and I might always wonder \"what if\" if i kept building this company with my co founders. I wanted to ask, is my career growth and mental stress worth getting a new gig?",
-      "published": "2026-08-11T19:18:52+00:00"
     },
     {
       "source": "REDDIT",
@@ -214,13 +263,6 @@
       "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Spotify will begin labeling AI-generated artist identities with \"AI Persona\" badges and exclude their music from editorial, algorithmic, and personalized recommendations unless users explicitly follow them. The company says the designation applies to whether an artist profile represents a real person, not whether AI was used to make the music, and will allow appeals for mislabeling. TechCrunch reports: While Spotify will allow artists to identify themselves as AI Personas, the company says it wo",
       "published": "2026-08-11T19:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Making holograms with a pen plotter",
-      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-      "summary": "143 points · 14 comments",
-      "published": "2026-08-11T18:51:35+00:00"
     },
     {
       "source": "OSINT",
@@ -275,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "summary": "235 points · 187 comments",
+      "summary": "266 points · 218 comments",
       "published": "2026-08-11T17:23:09+00:00"
     },
     {
@@ -289,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "357 points · 163 comments",
+      "summary": "374 points · 177 comments",
       "published": "2026-08-11T16:56:46+00:00"
     },
     {
@@ -349,25 +391,11 @@
       "published": "2026-08-11T15:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Burned out, eyeing security engineering — sanity check needed",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vlhh62/burned_out_eyeing_security_engineering_sanity/",
-      "summary": "Hello everyone, I work as a SOC engineer at an MSSP. When I started, everything was new and I was learning constantly. Now the day-to-day feels like the same loop on repeat, and I genuinely feel there's nothing left for me to learn in this role. Over the last year I ended up becoming the team's Swiss army knife — writing scripts, automating repetitive tasks, and building custom tooling for gaps the team had lived with for years. I enjoyed that part a lot more than the standard SOC work, which is",
-      "published": "2026-08-11T13:28:03+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "summary": "581 points · 261 comments",
+      "summary": "605 points · 272 comments",
       "published": "2026-08-11T13:22:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Neutrinos from Deep Inside Earth Provide a New Picture of the Mantle",
-      "url": "https://www.quantamagazine.org/neutrinos-from-deep-inside-earth-provide-a-new-picture-of-the-mantle-20260807/",
-      "summary": "28 points · 2 comments",
-      "published": "2026-08-11T13:20:44+00:00"
     },
     {
       "source": "OSINT",
@@ -401,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "summary": "370 points · 384 comments",
+      "summary": "405 points · 401 comments",
       "published": "2026-08-11T12:23:07+00:00"
     },
     {
@@ -419,13 +447,6 @@
       "published": "2026-08-11T12:04:51+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers",
-      "url": "https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html",
-      "summary": "Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording. The onboarding paperwork is the part hiring teams can use. The first hire claimed to live in Pasadena, Texas, then sent a California driver's license and a New York bank account. The",
-      "published": "2026-08-11T11:35:03+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Reddit Bans 11-Year Account for GPL Game Post, Testing the EU's DSA",
       "url": "https://tech.slashdot.org/story/26/08/11/0532213/reddit-bans-11-year-account-for-gpl-game-post-testing-the-eus-dsa?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -433,39 +454,11 @@
       "published": "2026-08-11T11:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
-      "url": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
-      "summary": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that",
-      "published": "2026-08-11T10:48:26+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "url": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can work even after a blunt version of the same theft is refused: split the request into fragments that each look routine, place them in channels the assistant already uses, and let",
-      "published": "2026-08-11T10:24:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vld9at/hackers_breach_polish_power_plant_controls_via/",
       "summary": "Attackers breached a Polish combined heat and power plant through a private cellular APN used to access remote infrastructure. After pivoting from a compromised wind-farm network, they reached the plant’s OT environment, where a controller was still using default admin credentials. The attackers ultimately put multiple Siemens PLCs into STOP mode, shutting down a steam turbine and process-water treatment system. The interesting part no malware was required. The attackers abused legitimate device",
       "published": "2026-08-11T10:05:09+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "The Roboguard Revolution Is Short-Circuiting",
-      "url": "https://hardware.slashdot.org/story/26/08/11/0538200/the-roboguard-revolution-is-short-circuiting?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "alternative_right shares a report from 404 Media: Robotics companies promise that video-camera-toting security robots can deter and detect crime. But many companies are rethinking the approach after a trail of canceled contracts and questions about whether the artificial intelligence-powered bots are meeting the needs of businesses and local governments. Proof News found evidence of at least 21 security robot deployments since 2015. We contacted contract holders and combed news articles and dete",
-      "published": "2026-08-11T08:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Flatworms, Ion Channels, and Burning Mouths",
-      "url": "https://www.science.org/content/blog-post/flatworms-ion-channels-and-burning-mouths",
-      "summary": "21 points · 1 comments",
-      "published": "2026-08-10T13:20:10+00:00"
     },
     {
       "source": "REDDIT",
@@ -478,21 +471,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "summary": "251 points · 240 comments",
+      "summary": "268 points · 244 comments",
       "published": "2026-08-08T22:47:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Tamron Lens Utility Alternative on Linux",
-      "url": "https://github.com/yikerman/tamron-lens-control",
-      "summary": "54 points · 0 comments",
-      "published": "2026-08-07T13:36:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The hardest working font in Manhattan (2025)",
       "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "summary": "114 points · 14 comments",
+      "summary": "174 points · 25 comments",
       "published": "2026-08-06T20:22:29+00:00"
     },
     {
@@ -501,6 +487,20 @@
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A shell exclamation mark is not for yelling. Be lazy",
+      "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
+      "summary": "38 points · 8 comments",
+      "published": "2026-08-06T14:53:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How to Install Python3.14 from source on Ubuntu 26.04",
+      "url": "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/",
+      "summary": "5 points · 3 comments",
+      "published": "2026-08-06T02:31:11+00:00"
     },
     {
       "source": "OSINT",
