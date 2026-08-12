@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-12T22:19:42.014586+00:00",
-  "item_count": 63,
+  "updated": "2026-08-12T23:13:25.659855+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,11 +27,39 @@
   ],
   "items": [
     {
-      "source": "HACKER NEWS",
-      "title": "Why Can't You Find Canned Sardines?",
-      "url": "https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/",
-      "summary": "11 points · 8 comments",
-      "published": "2026-08-12T21:45:29+00:00"
+      "source": "OSINT",
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
+      "published": "2026-08-12T23:07:23+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Big Tech Wants to Harvest Your Thoughts",
+      "url": "https://tech.slashdot.org/story/26/08/12/2031245/big-tech-wants-to-harvest-your-thoughts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Wired reports that consumer neurotechnology is rapidly moving from the lab into workplaces and homes, with companies including Apple, Meta, and Snap developing products that can monitor or interpret brain activity. Researchers warn that as these systems improve, neural data could become the next major privacy battleground. Some neuroscientists are already calling for a series of core rights, coined \"neurorights,\" that protect \"mental privacy,\" \"identity,\" and personal \"agency.\" Here's an excerpt",
+      "published": "2026-08-12T23:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AMA Today: Join TechCrunch Journalist Zack Whittaker and Security Researcher Runa Sandvik",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmsu6v/ama_today_join_techcrunch_journalist_zack/",
+      "summary": "submitted by /u/_clickfix_ [link] [comments]",
+      "published": "2026-08-12T22:32:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Android malware combo takes out loans and relays victims' credit cards",
+      "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+      "published": "2026-08-12T22:22:57+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'Godmother of AI' Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn",
+      "url": "https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Fei-Fei Li, aka The Godmother of AI, says the biggest AI risk in education may be students losing the motivation and agency to learn, rather than simply using the technology to cheat. She argues against banning AI outright, saying it can be valuable when used to support engaged students instead of replacing the thinking and struggle that learning requires. Techspot reports: Speaking on an episode of the science podcast Huberman Lab this week, Li talked about the fears around how students are usi",
+      "published": "2026-08-12T22:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -46,11 +69,11 @@
       "published": "2026-08-12T21:14:33+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "ICE equipping agents with gloves that deliver electric shocks",
-      "url": "https://www.bbc.com/news/articles/c20d292gdp4o",
-      "summary": "9 points · 0 comments",
-      "published": "2026-08-12T21:13:38+00:00"
+      "source": "SLASHDOT",
+      "title": "US Tries to Override New York Gambling Laws, Orders Kalshi to Keep Operating",
+      "url": "https://yro.slashdot.org/story/26/08/12/1949247/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The CFTC has ordered Kalshi to keep operating in New York, claiming the state's lawsuit against the prediction market created a \"market emergency.\" They said it acted \"to ensure market stability\" and \"ordered the exchange to continue to operate in accordance with the Commodity Exchange Act's Core Principles.\" Ars Technica reports: The market emergency alleged by the CFTC is that New York Attorney General Letitia James sued Kalshi on July 31. James' lawsuit seeks a court order to permanently enjo",
+      "published": "2026-08-12T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -67,11 +90,18 @@
       "published": "2026-08-12T20:22:28+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "CyberWarFare Labs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmn54q/cyberwarfare_labs/",
-      "summary": "Hello there is a offer in CyberWarFare Labs where most courses are for 9 USD including CRTA... is the course worth it to take or not ? after completing this certificate will it hold any value or not. submitted by /u/Pablo_Escobar_128482 [link] [comments]",
-      "published": "2026-08-12T18:55:00+00:00"
+      "source": "SLASHDOT",
+      "title": "China-Linked Hackers Used AI To Run First-Ever 'Autonomous' Cyberattack On Taiwan",
+      "url": "https://it.slashdot.org/story/26/08/12/1544250/china-linked-hackers-used-ai-to-run-first-ever-autonomous-cyberattack-on-taiwan?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Researchers at Israeli cybersecurity firm Dream say suspected China-linked hackers used an open-source AI-agent system to conduct what may be the first observed end-to-end autonomous cyberattack against a government. According to the Financial Times (paywalled), the attack compromised at least 85 accounts and resulted in the theft of more than 2,500 personnel records from Taiwanese systems. Tom's Hardware reports: The campaign reportedly ran for four days at the beginning of July and at times de",
+      "published": "2026-08-12T20:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "DEF CON Crowd Suspected In Fake-Hotspot Attack On Delta Flight",
+      "url": "https://mobile.slashdot.org/story/26/08/12/064220/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: On Monday, passengers aboard Delta flight 591 going from Las Vegas to Atlanta allegedly spoofed the onboard Wi-Fi, raising the attention of federal law enforcement. The incident came one day after the DEF CON security conference concluded in Las Vegas, and was first described on social media accounts that follow publicly available air-to-ground messages, known as ACARS. According to the \"ACARS Drama\" account, a message was sent by pilots fro",
+      "published": "2026-08-12T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -84,8 +114,15 @@
       "source": "HACKER NEWS",
       "title": "Delta",
       "url": "https://zed.dev/blog/introducing-delta",
-      "summary": "281 points · 91 comments",
+      "summary": "319 points · 102 comments",
       "published": "2026-08-12T18:19:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "The Pixel Tag Is Google's Answer To the AirTag",
+      "url": "https://tech.slashdot.org/story/26/08/12/1525222/the-pixel-tag-is-googles-answer-to-the-airtag?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google has unveiled the $29 Pixel Tag, its long-awaited AirTag rival that combines UWB with Bluetooth 6.0 Channel Sounding for two forms of precision tracking. It launches November 11. The Verge reports: The Pixel Tag is a slim oblong device available in one grayish color -- Fog -- that weighs about 12g, or 0.4oz. Like the AirTag, it has no built-in hooks or clips for attaching to objects you want to track. There's a single button that will trigger a sound on your phone, for the rare occasion wh",
+      "published": "2026-08-12T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -102,17 +139,24 @@
       "published": "2026-08-12T17:00:21+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "German Advocacy Group Lodges Criminal Complaint Over Meta AI Glasses",
+      "url": "https://yro.slashdot.org/story/26/08/12/1518258/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A German digital-rights group has filed a criminal complaint against Meta, Ray-Ban parent EssilorLuxottica, and several retailers over Meta's AI smart glasses, arguing the devices can enable covert recording in violation of German privacy law. Prosecutors have begun a preliminary review, while Germany's network regulator says smart glasses are legal \"as long as the recording function is clearly visible.\" Reuters reports: \"There's no place to escape from smart glasses. You have to expect at any m",
+      "published": "2026-08-12T17:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
-      "summary": "287 points · 275 comments",
+      "summary": "295 points · 285 comments",
       "published": "2026-08-12T16:54:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
       "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "summary": "99 points · 87 comments",
+      "summary": "116 points · 93 comments",
       "published": "2026-08-12T16:51:25+00:00"
     },
     {
@@ -126,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Pixel Watch 5",
       "url": "https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/",
-      "summary": "70 points · 120 comments",
+      "summary": "81 points · 136 comments",
       "published": "2026-08-12T16:14:37+00:00"
     },
     {
@@ -140,8 +184,15 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek V4 Pro 0813",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-      "summary": "627 points · 221 comments",
+      "summary": "671 points · 238 comments",
       "published": "2026-08-12T16:04:50+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Unveils Pixel 11 Lineup",
+      "url": "https://hardware.slashdot.org/story/26/08/12/1536211/google-unveils-pixel-11-lineup?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "At its Made by Google 2026 event today, Google unveiled a slew of new devices, headlined by the Pixel 11, Pixel 11 Pro, and Pixel 11 Pro Fold. Here's a breakdown of the company's latest smartphones, provided by TechCrunch: Pixel 11: The standard Pixel 11 gets a redesigned camera bar that is thinner than the one on the previous generation. Google says the new camera bar is more than 40% thinner and now uses an all-glass surface that stretches across the width of the phone. Google is also increasi",
+      "published": "2026-08-12T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -161,21 +212,28 @@
       "source": "HACKER NEWS",
       "title": "Grok 4.6",
       "url": "https://x.ai/news/grok-4-6",
-      "summary": "323 points · 328 comments",
+      "summary": "349 points · 358 comments",
       "published": "2026-08-12T15:32:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Qwen3.8-2.4T",
       "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-      "summary": "405 points · 87 comments",
+      "summary": "444 points · 94 comments",
       "published": "2026-08-12T15:01:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "US Hires Over 2,000 Video Gamers As Air Traffic Controllers",
+      "url": "https://games.slashdot.org/story/26/08/12/0542256/us-hires-over-2000-video-gamers-as-air-traffic-controllers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The FAA says its push to recruit video gamers as air traffic controllers has helped it hire more than 2,000 trainees, reaching 94% of its hiring goal. Another 2,000-plus candidates are in the pipeline. CBS News reports: U.S. Secretary of Transportation Sean Duffy said in a recent social media post that the federal agency's recruitment campaign to recruit gamers as air traffic controllers has been a \"game changer\" for the Federal Aviation Administration. [...] When Duffy announced the initiative ",
+      "published": "2026-08-12T15:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
       "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "summary": "685 points · 110 comments",
+      "summary": "718 points · 115 comments",
       "published": "2026-08-12T14:22:30+00:00"
     },
     {
@@ -196,14 +254,14 @@
       "source": "HACKER NEWS",
       "title": "Tim King, AmigaDOS developer, has died",
       "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
-      "summary": "206 points · 27 comments",
+      "summary": "215 points · 27 comments",
       "published": "2026-08-12T14:09:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
       "url": "https://knownagents.com/insights",
-      "summary": "206 points · 130 comments",
+      "summary": "214 points · 139 comments",
       "published": "2026-08-12T14:02:46+00:00"
     },
     {
@@ -217,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Why tiny JPEGs look different in Chrome",
       "url": "https://guillaumetech.github.io/posts/jpg-scaling-chrome/",
-      "summary": "224 points · 51 comments",
+      "summary": "232 points · 53 comments",
       "published": "2026-08-12T14:00:54+00:00"
     },
     {
@@ -231,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "2026 Eclipse Webcams",
       "url": "https://jonty.github.io/2026_eclipse_webcams/",
-      "summary": "445 points · 121 comments",
+      "summary": "450 points · 123 comments",
       "published": "2026-08-12T11:53:01+00:00"
     },
     {
@@ -256,6 +314,13 @@
       "published": "2026-08-12T11:41:34+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "summary": "247 points · 343 comments",
+      "published": "2026-08-12T11:28:27+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
       "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
@@ -268,6 +333,13 @@
       "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
       "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
       "published": "2026-08-12T11:13:03+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Swarms of Tiny Robots Remove Microplastics From Soil and Water",
+      "url": "https://hardware.slashdot.org/story/26/08/12/0547231/swarms-of-tiny-robots-remove-microplastics-from-soil-and-water?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "alternative_right shares a report from Phys.org: Scientists from the Czech Republic have created microscopic cleanup robots that successfully removed microplastics from both soil and aquatic environments in the lab. Details of their work are published in the journal npg Asia Materials. To build the robots, researchers started with microscopic MXene particles made of ultrathin, stacked layers. The material has a large surface area and surface chemistry that help it attract and hold plastic. They ",
+      "published": "2026-08-12T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -315,7 +387,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
       "url": "https://discoveredmaterials.com/research/",
-      "summary": "107 points · 18 comments",
+      "summary": "110 points · 18 comments",
       "published": "2026-08-12T07:51:20+00:00"
     },
     {
@@ -324,6 +396,13 @@
       "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
       "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
       "published": "2026-08-12T07:31:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Behold the 'Glueball,' a Strange New Form of Matter",
+      "url": "https://science.slashdot.org/story/26/08/12/0551225/behold-the-glueball-a-strange-new-form-of-matter?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "sciencehabit shares a report from Science Magazine: For more than half a century, physicists have searched for one of the strangest particles predicted by modern theory. It would be made almost entirely of gluons, the elusive subatomic particles that carry the strong nuclear force. Now, using a particle collider in Beijing, researchers say they have effectively proved the existence of such a \"glueball.\" In a preprint posted last month on arXiv and in a presentation last week at the International",
+      "published": "2026-08-12T07:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -340,6 +419,13 @@
       "published": "2026-08-12T06:15:58+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Contiguous US Breaks Its Record For Hottest Month Ever, NOAA Says",
+      "url": "https://news.slashdot.org/story/26/08/11/2054244/contiguous-us-breaks-its-record-for-hottest-month-ever-noaa-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from the Associated Press: The contiguous United States sizzled to its hottest month ever last month, according to the National Oceanic and Atmospheric Administration. July averaged 76.89 degrees Fahrenheit (24.94 degrees Celsius) across the Lower 48 states, eclipsing the Dust Bowl's July 1936 by an eighth of a degree. Records go back to 1895. [...] Although it was unusually cool in Alaska, hotter-than-normal conditions blanketed the Lower 48, with the most ex",
+      "published": "2026-08-12T03:30:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
       "url": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
@@ -348,24 +434,10 @@
     },
     {
       "source": "OSINT",
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "published": "2026-08-11T22:15:22+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Microsoft Plugs Nearly 400 Security Holes",
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
       "published": "2026-08-11T21:28:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
-      "url": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
-      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
-      "published": "2026-08-11T21:07:24+00:00"
     },
     {
       "source": "OSINT",
@@ -399,15 +471,22 @@
       "source": "HACKER NEWS",
       "title": "A Tale of Dynamic Programming (2022)",
       "url": "https://iagoleal.com/posts/dynamic-programming/",
-      "summary": "40 points · 2 comments",
+      "summary": "54 points · 3 comments",
       "published": "2026-08-09T15:26:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Debugging Information for Inlined Functions",
       "url": "https://lwn.net/Articles/1083985/",
-      "summary": "8 points · 0 comments",
+      "summary": "11 points · 0 comments",
       "published": "2026-08-09T13:37:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "'The Cheese and the Worms' by Carlo Ginzburg Review",
+      "url": "https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review",
+      "summary": "6 points · 0 comments",
+      "published": "2026-08-07T19:22:00+00:00"
     },
     {
       "source": "OSINT",
