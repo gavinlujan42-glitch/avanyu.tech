@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T08:00:43.031206+00:00",
+  "updated": "2026-08-12T09:18:26.019269+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,17 +28,24 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Jane Street Cybersecurity Analyst Internship Interview",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vm7x53/jane_street_cybersecurity_analyst_internship/",
+      "summary": "I have an upcoming online live coding interview for a cybersecurity analyst intern position at Jane Street and was wondering if anyone has any information from previous/other application experiences? Is it traditional SWE-style questions, tailored to cybersecurity concepts, etc? submitted by /u/Greedy_Strength4748 [link] [comments]",
+      "published": "2026-08-12T08:09:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
+      "published": "2026-08-12T08:04:52+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Zoom Fixes 'Zoomsday' Zero-Click Flaw Weaponized by Public AI Models",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vm7nbs/zoom_fixes_zoomsday_zeroclick_flaw_weaponized_by/",
       "summary": "An attacker on a Zoom call could have seized control of every other participant’s device without a single click from the target, using a flaw that an Israeli-founded offensive-security firm found and weaponized in under a day with publicly available AI models. submitted by /u/Revolutionary-Cod276 [link] [comments]",
       "published": "2026-08-12T07:53:10+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How do you decide what you're NOT going to investigate?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vm7hmg/how_do_you_decide_what_youre_not_going_to/",
-      "summary": "Every team I've worked on has a list of alerts we stopped looking at. Not false positives, but the real-ish kinda ones. My seniors don't really write them down; they just remember them, but when they leave, the new person starts chasing stuff we collectively decided to ignore two months ago. Has anyone experienced the same? Does anyone above you sign off, or is it just the SOC making the decisions on the go? submitted by /u/Few-Designer-9101 [link] [comments]",
-      "published": "2026-08-12T07:43:25+00:00"
     },
     {
       "source": "OSINT",
@@ -55,13 +62,6 @@
       "published": "2026-08-12T07:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "AI agent hacks gym to get its user a spot in pilates class",
-      "url": "https://www.bbc.com/news/articles/cn0nww2qlp7o",
-      "summary": "22 points · 22 comments",
-      "published": "2026-08-12T06:53:17+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
       "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
@@ -72,7 +72,7 @@
       "source": "HACKER NEWS",
       "title": "LinkedIn CringeBot 3000",
       "url": "https://www.cringebot3000.com/",
-      "summary": "10 points · 1 comments",
+      "summary": "131 points · 44 comments",
       "published": "2026-08-12T06:30:49+00:00"
     },
     {
@@ -86,15 +86,8 @@
       "source": "HACKER NEWS",
       "title": "llama.cpp",
       "url": "https://llama.app",
-      "summary": "152 points · 71 comments",
+      "summary": "203 points · 81 comments",
       "published": "2026-08-12T04:51:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Dropbox is an obvious PE Target?",
-      "url": "https://s-1.vercel.app/posts/why-dropbox-is-a-obvious-pe-target/",
-      "summary": "48 points · 68 comments",
-      "published": "2026-08-12T04:30:34+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -107,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "DARPA heavy lift challenge ends with winner at a 3.84:1 payload to weight ratio",
       "url": "https://dronexl.co/2026/08/10/darpa-lift-challenge-results-avidrone/",
-      "summary": "29 points · 4 comments",
+      "summary": "38 points · 17 comments",
       "published": "2026-08-12T03:27:31+00:00"
     },
     {
@@ -121,14 +114,14 @@
       "source": "HACKER NEWS",
       "title": "The Human Is the Loop",
       "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
-      "summary": "85 points · 29 comments",
+      "summary": "98 points · 42 comments",
       "published": "2026-08-12T02:15:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
       "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
-      "summary": "75 points · 20 comments",
+      "summary": "84 points · 25 comments",
       "published": "2026-08-12T01:45:51+00:00"
     },
     {
@@ -177,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "WorldClaw Agentic 3D open-world generation at scale",
       "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
-      "summary": "206 points · 62 comments",
+      "summary": "221 points · 67 comments",
       "published": "2026-08-11T21:56:18+00:00"
     },
     {
@@ -219,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Compression is prediction",
       "url": "https://ngrok.com/blog/compression-is-prediction",
-      "summary": "486 points · 203 comments",
+      "summary": "517 points · 211 comments",
       "published": "2026-08-11T19:49:44+00:00"
     },
     {
@@ -240,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-      "summary": "220 points · 113 comments",
+      "summary": "227 points · 117 comments",
       "published": "2026-08-11T19:35:52+00:00"
     },
     {
@@ -263,6 +256,13 @@
       "url": "https://entertainment.slashdot.org/story/26/08/11/1741252/spotify-will-label-ai-persona-profiles-exclude-their-music-from-recommendations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Spotify will begin labeling AI-generated artist identities with \"AI Persona\" badges and exclude their music from editorial, algorithmic, and personalized recommendations unless users explicitly follow them. The company says the designation applies to whether an artist profile represents a real person, not whether AI was used to make the music, and will allow appeals for mislabeling. TechCrunch reports: While Spotify will allow artists to identify themselves as AI Personas, the company says it wo",
       "published": "2026-08-11T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "summary": "161 points · 16 comments",
+      "published": "2026-08-11T18:51:35+00:00"
     },
     {
       "source": "OSINT",
@@ -317,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Grok Bot",
       "url": "https://x.ai/bot",
-      "summary": "266 points · 218 comments",
+      "summary": "279 points · 232 comments",
       "published": "2026-08-11T17:23:09+00:00"
     },
     {
@@ -331,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Mojo 1.0",
       "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
-      "summary": "374 points · 177 comments",
+      "summary": "383 points · 192 comments",
       "published": "2026-08-11T16:56:46+00:00"
     },
     {
@@ -394,7 +394,7 @@
       "source": "HACKER NEWS",
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
       "url": "https://stolen-thoughts.com/",
-      "summary": "605 points · 272 comments",
+      "summary": "620 points · 277 comments",
       "published": "2026-08-11T13:22:00+00:00"
     },
     {
@@ -429,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI’s head of ethics leaves less than a year after joining",
       "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "summary": "405 points · 401 comments",
+      "summary": "430 points · 415 comments",
       "published": "2026-08-11T12:23:07+00:00"
     },
     {
@@ -438,13 +438,6 @@
       "url": "https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html",
       "summary": "A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough to take the whole device over. Researchers at the University of Birmingham and the security firm Fuzzware tested 26 phones and cellular modules for the capability, found it",
       "published": "2026-08-11T12:05:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo",
-      "url": "https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html",
-      "summary": "Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories. That key is how a user, or a Linux distribution packaging the browser, confirms a downloaded Firefox tarball came from Mozilla and was not tampered with. That decision carries a cost for",
-      "published": "2026-08-11T12:04:51+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -471,14 +464,21 @@
       "source": "HACKER NEWS",
       "title": "Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo",
       "url": "https://photosynthesis.camera",
-      "summary": "268 points · 244 comments",
+      "summary": "280 points · 255 comments",
       "published": "2026-08-08T22:47:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Worms: The Future of Yesterday's Worms Today",
+      "url": "https://worm.net/",
+      "summary": "29 points · 9 comments",
+      "published": "2026-08-07T11:20:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The hardest working font in Manhattan (2025)",
       "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
-      "summary": "174 points · 25 comments",
+      "summary": "197 points · 31 comments",
       "published": "2026-08-06T20:22:29+00:00"
     },
     {
@@ -492,15 +492,15 @@
       "source": "HACKER NEWS",
       "title": "A shell exclamation mark is not for yelling. Be lazy",
       "url": "https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark",
-      "summary": "38 points · 8 comments",
+      "summary": "68 points · 15 comments",
       "published": "2026-08-06T14:53:40+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "How to Install Python3.14 from source on Ubuntu 26.04",
-      "url": "https://jamesoclaire.com/2026/08/06/how-to-install-python3-14-from-source-on-ubuntu-26-04/",
-      "summary": "5 points · 3 comments",
-      "published": "2026-08-06T02:31:11+00:00"
+      "title": "Retire the Abstractions",
+      "url": "https://hazyresearch.stanford.edu/blog/2026-08-05-retire-the-abstractions",
+      "summary": "50 points · 56 comments",
+      "published": "2026-08-06T01:05:16+00:00"
     },
     {
       "source": "OSINT",
