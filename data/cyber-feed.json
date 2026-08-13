@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T21:53:32.599105+00:00",
+  "updated": "2026-08-13T22:51:27.317201+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -26,6 +26,13 @@
     }
   ],
   "items": [
+    {
+      "source": "SLASHDOT",
+      "title": "Google's Gemini 3.7 Flash Targets Coding and Agents With a 50% Price Cut",
+      "url": "https://developers.slashdot.org/story/26/08/13/217215/googles-gemini-37-flash-targets-coding-and-agents-with-a-50-price-cut?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google has released Gemini 3.7 Flash just three weeks after 3.6 Flash, focusing on better coding, agentic workflows, and enterprise automation while temporarily cutting API prices in half through the end of 2026. VentureBeat reports: For enterprise developers, the more consequential story may be the combination of those intelligence gains with lower inference costs: through the end of 2026, Gemini 3.7 Flash costs $0.75 per million input tokens and $3.75 per million output tokens. Starting Jan. 1",
+      "published": "2026-08-13T22:00:00+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "Honestly? I've hit a wall after a year of studying",
@@ -55,6 +62,13 @@
       "published": "2026-08-13T21:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "a little chall i made",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnn46v/a_little_chall_i_made/",
+      "summary": "Hey everyone, I made a small CTF challenge and figured I’d throw it here since I’m pretty new to making these. It’s a Forensics / Reverse Engineering challenge based around a weird Nokia 8210 4G system dump. The challenge involves digging through the dump, figuring out what’s going on with a little racing game, and eventually finding the flag. Repo: https://github.com/maximzero0910/car-racing-chall It’s probably not perfect since this is one of my first proper challenges, so if you try it, I’d r",
+      "published": "2026-08-13T20:57:14+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
       "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
@@ -65,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "NP-Overrated",
       "url": "https://gruhn.me/blog/2026-08-13/",
-      "summary": "71 points · 23 comments",
+      "summary": "86 points · 40 comments",
       "published": "2026-08-13T20:14:17+00:00"
     },
     {
@@ -79,22 +93,15 @@
       "source": "HACKER NEWS",
       "title": "How Gödel's Proof Works (2020)",
       "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "summary": "40 points · 24 comments",
+      "summary": "50 points · 29 comments",
       "published": "2026-08-13T19:44:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "summary": "31 points · 16 comments",
+      "summary": "44 points · 21 comments",
       "published": "2026-08-13T19:25:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How do you tell users they've been phished?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnke8q/how_do_you_tell_users_theyve_been_phished/",
-      "summary": "So a users been phished and their accounts been locked out, etc. Post remediation, how do you handle them? I'm always a bit caught between not wanting to sound like I'm \"scolding\" them and wanting to make sure they understand that it's important to learn from the situation, while calling them out of the blue to tell them they've been \"hacked\". I'm curious what approaches you guys take or if you have follow up \"consequences\" (additional training, notifying their manager, etc.) We've been fortunat",
-      "published": "2026-08-13T19:16:39+00:00"
     },
     {
       "source": "REDDIT",
@@ -114,8 +121,15 @@
       "source": "HACKER NEWS",
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "summary": "85 points · 51 comments",
+      "summary": "121 points · 68 comments",
       "published": "2026-08-13T18:47:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "summary": "118 points · 62 comments",
+      "published": "2026-08-13T18:41:01+00:00"
     },
     {
       "source": "OSINT",
@@ -128,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "303 points · 118 comments",
+      "summary": "345 points · 135 comments",
       "published": "2026-08-13T18:10:02+00:00"
     },
     {
@@ -149,14 +163,14 @@
       "source": "HACKER NEWS",
       "title": "How Compaction Works in Pi",
       "url": "https://earendil.com/posts/compaction-in-pi/",
-      "summary": "50 points · 7 comments",
+      "summary": "66 points · 18 comments",
       "published": "2026-08-13T17:57:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "summary": "177 points · 90 comments",
+      "summary": "203 points · 109 comments",
       "published": "2026-08-13T17:48:13+00:00"
     },
     {
@@ -170,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "summary": "144 points · 58 comments",
+      "summary": "158 points · 67 comments",
       "published": "2026-08-13T17:45:50+00:00"
     },
     {
@@ -184,21 +198,21 @@
       "source": "HACKER NEWS",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "summary": "477 points · 291 comments",
+      "summary": "521 points · 309 comments",
       "published": "2026-08-13T17:23:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tocharian Online",
       "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "summary": "46 points · 6 comments",
+      "summary": "52 points · 8 comments",
       "published": "2026-08-13T17:15:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "205 points · 78 comments",
+      "summary": "220 points · 86 comments",
       "published": "2026-08-13T17:05:12+00:00"
     },
     {
@@ -214,13 +228,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
       "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
       "published": "2026-08-13T16:40:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "summary": "68 points · 35 comments",
-      "published": "2026-08-13T16:22:05+00:00"
     },
     {
       "source": "REDDIT",
@@ -247,14 +254,14 @@
       "source": "HACKER NEWS",
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "summary": "135 points · 61 comments",
+      "summary": "145 points · 62 comments",
       "published": "2026-08-13T14:26:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "summary": "433 points · 130 comments",
+      "summary": "456 points · 133 comments",
       "published": "2026-08-13T14:17:13+00:00"
     },
     {
@@ -282,15 +289,8 @@
       "source": "HACKER NEWS",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "summary": "162 points · 77 comments",
+      "summary": "188 points · 91 comments",
       "published": "2026-08-13T13:14:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "summary": "509 points · 230 comments",
-      "published": "2026-08-13T12:58:02+00:00"
     },
     {
       "source": "OSINT",
@@ -326,13 +326,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vn7b12/breaking_us_officially_authorizes_private_cyber/",
       "summary": "submitted by /u/Smart_Office_631 [link] [comments]",
       "published": "2026-08-13T10:49:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://www.codewithbullet.com",
-      "summary": "67 points · 41 comments",
-      "published": "2026-08-13T08:14:30+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -382,13 +375,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
       "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
       "published": "2026-08-12T22:22:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "'Godmother of AI' Says Biggest AI Risk In Schools Is Students Losing the Desire to Learn",
-      "url": "https://news.slashdot.org/story/26/08/12/2021223/godmother-of-ai-says-biggest-ai-risk-in-schools-is-students-losing-the-desire-to-learn?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Fei-Fei Li, aka The Godmother of AI, says the biggest AI risk in education may be students losing the motivation and agency to learn, rather than simply using the technology to cheat. She argues against banning AI outright, saying it can be valuable when used to support engaged students instead of replacing the thinking and struggle that learning requires. Techspot reports: Speaking on an episode of the science podcast Huberman Lab this week, Li talked about the fears around how students are usi",
-      "published": "2026-08-12T22:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -482,6 +468,13 @@
       "published": "2026-08-11T20:10:55+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Smooth Move: Taming Trajectories with Polynomials",
+      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
+      "summary": "14 points · 0 comments",
+      "published": "2026-08-10T15:06:15+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
@@ -492,8 +485,15 @@
       "source": "HACKER NEWS",
       "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
       "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-      "summary": "27 points · 3 comments",
+      "summary": "31 points · 6 comments",
       "published": "2026-08-09T22:26:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Finite State Machines in Forth (1994)",
+      "url": "https://www.forth.org/literature/noble.html",
+      "summary": "14 points · 0 comments",
+      "published": "2026-08-08T17:38:15+00:00"
     },
     {
       "source": "OSINT",
