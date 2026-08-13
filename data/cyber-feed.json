@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T16:03:19.463326+00:00",
+  "updated": "2026-08-13T17:04:36.361488+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,27 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Apple Turns to Publishers For Help With Siri AI",
+      "url": "https://apple.slashdot.org/story/26/08/13/1616254/apple-turns-to-publishers-for-help-with-siri-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple is reportedly negotiating multi-year deals with news publishers to give its redesigned Siri access to current news and other information, with payments potentially tied to how often publishers' content is used. The talks come as Apple prepares to launch its long-delayed Siri AI later this year, after partnering with Google to use distilled Gemini models. Engadget reports: [The Wall Street Journal] did not reveal the specific publishers Apple reached out to, but did note the company has pro",
+      "published": "2026-08-13T17:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
+      "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
+      "published": "2026-08-13T16:40:23+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Trump Enlists Private Sector to Boost Cyber-Offensive Arsenal",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnejoj/trump_enlists_private_sector_to_boost/",
+      "summary": "submitted by /u/erier2003 [link] [comments]",
+      "published": "2026-08-13T15:50:25+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Best SANS certification to transition for SOC -> App Sec",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vne40x/best_sans_certification_to_transition_for_soc_app/",
@@ -49,16 +70,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Flock Safety changes system defaults in response to criticisms",
-      "url": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
-      "summary": "14 points · 9 comments",
-      "published": "2026-08-13T14:37:29+00:00"
+      "title": "I requested a copy of my data from McDonald’s loyalty program",
+      "url": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "summary": "94 points · 101 comments",
+      "published": "2026-08-13T14:37:51+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
+      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "summary": "40 points · 5 comments",
+      "summary": "72 points · 19 comments",
       "published": "2026-08-13T14:26:41+00:00"
     },
     {
@@ -70,24 +91,24 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Graduate student proves a quantum uncertainty principle for fractals",
+      "url": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
+      "summary": "25 points · 5 comments",
+      "published": "2026-08-13T14:22:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
       "url": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-      "summary": "21 points · 7 comments",
+      "summary": "42 points · 21 comments",
       "published": "2026-08-13T14:18:34+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "summary": "154 points · 35 comments",
+      "summary": "222 points · 59 comments",
       "published": "2026-08-13T14:17:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-      "summary": "69 points · 50 comments",
-      "published": "2026-08-13T14:11:51+00:00"
     },
     {
       "source": "OSINT",
@@ -100,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: MCP Memory – Fast Agent Memory Using Google's OKF and SQLite FTS5",
       "url": "https://github.com/fellowgeek/mcp-memory",
-      "summary": "32 points · 12 comments",
+      "summary": "40 points · 19 comments",
       "published": "2026-08-13T13:57:47+00:00"
     },
     {
@@ -114,28 +135,28 @@
       "source": "HACKER NEWS",
       "title": "Time to Move On: Querying Without Nulls and Bags",
       "url": "https://arxiv.org/abs/2608.10863",
-      "summary": "27 points · 4 comments",
+      "summary": "37 points · 7 comments",
       "published": "2026-08-13T13:54:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Gloomberb",
       "url": "https://gloom.sh/",
-      "summary": "159 points · 57 comments",
+      "summary": "237 points · 110 comments",
       "published": "2026-08-13T13:52:32+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Anthropic: Introducing The Conceptual Reasoning Index",
-      "url": "https://alignment.anthropic.com/2026/conceptual-reasoning-index/",
-      "summary": "55 points · 39 comments",
-      "published": "2026-08-13T13:48:14+00:00"
+      "title": "Ordinary Abundance",
+      "url": "https://ordinaryabundance.com/",
+      "summary": "37 points · 6 comments",
+      "published": "2026-08-13T13:39:41+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "I Built a 500k-Domain Search Engine for Makers in a Weekend for $10",
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
       "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "summary": "41 points · 25 comments",
+      "summary": "71 points · 36 comments",
       "published": "2026-08-13T13:36:19+00:00"
     },
     {
@@ -147,23 +168,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "url": "https://www.economist.com/business/2026/08/12/ai-agents-lie-cheat-and-steal-that-is-putting-off-users",
-      "summary": "131 points · 126 comments",
-      "published": "2026-08-13T13:28:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek Harness",
-      "url": "https://github.com/deepseek-ai/deepseek-harness",
-      "summary": "316 points · 138 comments",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "summary": "385 points · 179 comments",
       "published": "2026-08-13T12:58:02+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Deutsche Bank becomes first foreign yuan clearing bank in Europe",
       "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
-      "summary": "258 points · 288 comments",
+      "summary": "309 points · 328 comments",
       "published": "2026-08-13T12:09:50+00:00"
     },
     {
@@ -212,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
       "url": "https://www.codewithbullet.com",
-      "summary": "8 points · 4 comments",
+      "summary": "15 points · 12 comments",
       "published": "2026-08-13T08:14:30+00:00"
     },
     {
@@ -238,9 +252,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "url": "https://openai.com/codex/",
-      "summary": "349 points · 246 comments",
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "summary": "379 points · 263 comments",
       "published": "2026-08-13T04:53:41+00:00"
     },
     {
@@ -256,13 +270,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vmy4kc/for_folks_in_here_its_important_to_know_that/",
       "summary": "I am not saying at all that people here are all unemployed. A lot of people are employed. But Reddit is not always real life. Something worth keeping in mind whenever you're gauging the job market from this sub: the people posting are skewed toward those who are currently looking for work. If you already have a job and aren't hunting, you're way less likely to hop on here and comment about how the market's going — you're just… working. submitted by /u/Exact-Advantage-3190 [link] [comments]",
       "published": "2026-08-13T02:25:01+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "I understand the job market is tough for everyone, but how is it for mid-level security engineers?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vmy1ki/i_understand_the_job_market_is_tough_for_everyone/",
-      "summary": "now the job market is rough across the board right now, but I'm curious how it's actually looking for mid-level security engineers specifically. I'm talking ~4-6 years of experience and past the entry-level scramble but not yet staff/principal. submitted by /u/Exact-Advantage-3190 [link] [comments]",
-      "published": "2026-08-13T02:20:52+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -284,6 +291,13 @@
       "url": "https://tech.slashdot.org/story/26/08/12/2031245/big-tech-wants-to-harvest-your-thoughts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Wired reports that consumer neurotechnology is rapidly moving from the lab into workplaces and homes, with companies including Apple, Meta, and Snap developing products that can monitor or interpret brain activity. Researchers warn that as these systems improve, neural data could become the next major privacy battleground. Some neuroscientists are already calling for a series of core rights, coined \"neurorights,\" that protect \"mental privacy,\" \"identity,\" and personal \"agency.\" Here's an excerpt",
       "published": "2026-08-12T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How art invented humanity",
+      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
+      "summary": "16 points · 0 comments",
+      "published": "2026-08-12T22:47:40+00:00"
     },
     {
       "source": "OSINT",
@@ -356,13 +370,6 @@
       "published": "2026-08-12T17:39:27+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "German Advocacy Group Lodges Criminal Complaint Over Meta AI Glasses",
-      "url": "https://yro.slashdot.org/story/26/08/12/1518258/german-advocacy-group-lodges-criminal-complaint-over-meta-ai-glasses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A German digital-rights group has filed a criminal complaint against Meta, Ray-Ban parent EssilorLuxottica, and several retailers over Meta's AI smart glasses, arguing the devices can enable covert recording in violation of German privacy law. Prosecutors have begun a preliminary review, while Germany's network regulator says smart glasses are legal \"as long as the recording function is clearly visible.\" Reuters reports: \"There's no place to escape from smart glasses. You have to expect at any m",
-      "published": "2026-08-12T17:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
       "url": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
@@ -396,13 +403,6 @@
       "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
       "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
       "published": "2026-08-12T14:09:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-      "url": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legitimate new hire. [...]",
-      "published": "2026-08-12T14:01:11+00:00"
     },
     {
       "source": "OSINT",
@@ -475,25 +475,25 @@
       "published": "2026-08-11T20:10:55+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
+      "summary": "38 points · 6 comments",
+      "published": "2026-08-11T13:55:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The mathematical physics of rainbows and glories (2001) [pdf]",
+      "url": "https://tlakoba.w3.uvm.edu/AppliedUGMath/auxpaper_rainbow_glory_review.pdf",
+      "summary": "19 points · 0 comments",
+      "published": "2026-08-11T07:03:49+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-10T00:00:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Better Gaussian Splatting in Julia",
-      "url": "https://pxl-th.github.io/blog/better-gs-julia/",
-      "summary": "63 points · 6 comments",
-      "published": "2026-08-09T15:01:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Picking berries is my meditation",
-      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
-      "summary": "80 points · 57 comments",
-      "published": "2026-08-08T19:24:02+00:00"
     },
     {
       "source": "OSINT",
