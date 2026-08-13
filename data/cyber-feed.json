@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T22:51:27.317201+00:00",
+  "updated": "2026-08-13T23:50:26.846318+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -26,6 +26,20 @@
     }
   ],
   "items": [
+    {
+      "source": "HACKER NEWS",
+      "title": "PBS loses 70 years of TV history after cloud storage vendor goes defunct",
+      "url": "https://www.tomshardware.com/software/cloud-storage/nine-pbs-loses-access-to-70-years-of-data-after-contracted-cloud-storage-vendor-goes-defunct-public-tv-channel-sues-iron-mountain-data-center-which-hosts-archival-materials-to-ensure-preservation",
+      "summary": "24 points · 5 comments",
+      "published": "2026-08-13T23:05:38+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Retreats In China",
+      "url": "https://tech.slashdot.org/story/26/08/13/2114239/microsoft-retreats-in-china?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft has been steadily scaling back its China presence, closing at least 15 branch offices and joint ventures over the past five years as Beijing favors domestic software. U.S. export controls also make it harder to grow its cloud and AI businesses, leaving the market with relatively little economic upside. Reuters reports: Microsoft took a major hit from the erosion of trust between Washington and Beijing, the five people said. China has since 2017 pushed the use of domestic software, whic",
+      "published": "2026-08-13T23:00:00+00:00"
+    },
     {
       "source": "SLASHDOT",
       "title": "Google's Gemini 3.7 Flash Targets Coding and Agents With a 50% Price Cut",
@@ -62,13 +76,6 @@
       "published": "2026-08-13T21:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "a little chall i made",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnn46v/a_little_chall_i_made/",
-      "summary": "Hey everyone, I made a small CTF challenge and figured I’d throw it here since I’m pretty new to making these. It’s a Forensics / Reverse Engineering challenge based around a weird Nokia 8210 4G system dump. The challenge involves digging through the dump, figuring out what’s going on with a little racing game, and eventually finding the flag. Repo: https://github.com/maximzero0910/car-racing-chall It’s probably not perfect since this is one of my first proper challenges, so if you try it, I’d r",
-      "published": "2026-08-13T20:57:14+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
       "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
@@ -79,7 +86,7 @@
       "source": "HACKER NEWS",
       "title": "NP-Overrated",
       "url": "https://gruhn.me/blog/2026-08-13/",
-      "summary": "86 points · 40 comments",
+      "summary": "106 points · 56 comments",
       "published": "2026-08-13T20:14:17+00:00"
     },
     {
@@ -93,15 +100,22 @@
       "source": "HACKER NEWS",
       "title": "How Gödel's Proof Works (2020)",
       "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
-      "summary": "50 points · 29 comments",
+      "summary": "54 points · 32 comments",
       "published": "2026-08-13T19:44:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "summary": "44 points · 21 comments",
+      "summary": "53 points · 29 comments",
       "published": "2026-08-13T19:25:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you tell users they've been phished?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnke8q/how_do_you_tell_users_theyve_been_phished/",
+      "summary": "So a users been phished and their accounts been locked out, etc. Post remediation, how do you handle them? I'm always a bit caught between not wanting to sound like I'm \"scolding\" them and wanting to make sure they understand that it's important to learn from the situation, while calling them out of the blue to tell them they've been \"hacked\". I'm curious what approaches you guys take or if you have follow up \"consequences\" (additional training, notifying their manager, etc.) We've been fortunat",
+      "published": "2026-08-13T19:16:39+00:00"
     },
     {
       "source": "REDDIT",
@@ -121,14 +135,14 @@
       "source": "HACKER NEWS",
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "summary": "121 points · 68 comments",
+      "summary": "152 points · 77 comments",
       "published": "2026-08-13T18:47:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "summary": "118 points · 62 comments",
+      "summary": "131 points · 82 comments",
       "published": "2026-08-13T18:41:01+00:00"
     },
     {
@@ -142,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "345 points · 135 comments",
+      "summary": "382 points · 151 comments",
       "published": "2026-08-13T18:10:02+00:00"
     },
     {
@@ -163,14 +177,21 @@
       "source": "HACKER NEWS",
       "title": "How Compaction Works in Pi",
       "url": "https://earendil.com/posts/compaction-in-pi/",
-      "summary": "66 points · 18 comments",
+      "summary": "84 points · 30 comments",
       "published": "2026-08-13T17:57:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Where did the old web go? We followed 657,607 links to find out",
+      "url": "https://0.mk/blog/link-rot",
+      "summary": "112 points · 79 comments",
+      "published": "2026-08-13T17:49:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "summary": "203 points · 109 comments",
+      "summary": "218 points · 117 comments",
       "published": "2026-08-13T17:48:13+00:00"
     },
     {
@@ -184,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "summary": "158 points · 67 comments",
+      "summary": "173 points · 72 comments",
       "published": "2026-08-13T17:45:50+00:00"
     },
     {
@@ -198,21 +219,14 @@
       "source": "HACKER NEWS",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "summary": "521 points · 309 comments",
+      "summary": "557 points · 321 comments",
       "published": "2026-08-13T17:23:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tocharian Online",
-      "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "summary": "52 points · 8 comments",
-      "published": "2026-08-13T17:15:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "220 points · 86 comments",
+      "summary": "233 points · 91 comments",
       "published": "2026-08-13T17:05:12+00:00"
     },
     {
@@ -252,16 +266,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-      "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "summary": "145 points · 62 comments",
-      "published": "2026-08-13T14:26:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "summary": "456 points · 133 comments",
+      "summary": "468 points · 135 comments",
       "published": "2026-08-13T14:17:13+00:00"
     },
     {
@@ -289,8 +296,15 @@
       "source": "HACKER NEWS",
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "summary": "188 points · 91 comments",
+      "summary": "209 points · 99 comments",
       "published": "2026-08-13T13:14:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek Harness developer preview",
+      "url": "https://deepseek.com/harness/en/",
+      "summary": "531 points · 232 comments",
+      "published": "2026-08-13T12:58:02+00:00"
     },
     {
       "source": "OSINT",
@@ -361,13 +375,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
       "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
       "published": "2026-08-12T23:07:23+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Big Tech Wants to Harvest Your Thoughts",
-      "url": "https://tech.slashdot.org/story/26/08/12/2031245/big-tech-wants-to-harvest-your-thoughts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Wired reports that consumer neurotechnology is rapidly moving from the lab into workplaces and homes, with companies including Apple, Meta, and Snap developing products that can monitor or interpret brain activity. Researchers warn that as these systems improve, neural data could become the next major privacy battleground. Some neuroscientists are already calling for a series of core rights, coined \"neurorights,\" that protect \"mental privacy,\" \"identity,\" and personal \"agency.\" Here's an excerpt",
-      "published": "2026-08-12T23:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -468,13 +475,6 @@
       "published": "2026-08-11T20:10:55+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Smooth Move: Taming Trajectories with Polynomials",
-      "url": "https://nick.zoic.org/art/smooth-move-taming-trajectories-with-polynomials/",
-      "summary": "14 points · 0 comments",
-      "published": "2026-08-10T15:06:15+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
@@ -485,14 +485,14 @@
       "source": "HACKER NEWS",
       "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
       "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
-      "summary": "31 points · 6 comments",
+      "summary": "37 points · 8 comments",
       "published": "2026-08-09T22:26:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Finite State Machines in Forth (1994)",
       "url": "https://www.forth.org/literature/noble.html",
-      "summary": "14 points · 0 comments",
+      "summary": "30 points · 0 comments",
       "published": "2026-08-08T17:38:15+00:00"
     },
     {
