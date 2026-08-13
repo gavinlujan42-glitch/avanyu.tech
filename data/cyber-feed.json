@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T20:05:34.576286+00:00",
+  "updated": "2026-08-13T20:55:24.762521+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,20 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
+      "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
+      "published": "2026-08-13T20:47:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "summary": "14 points · 2 comments",
+      "published": "2026-08-13T20:14:17+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Amazon Will Train On Twitch Streamers' Content By Default, Unless They Opt Out",
       "url": "https://games.slashdot.org/story/26/08/13/1853232/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -34,18 +48,25 @@
       "published": "2026-08-13T20:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "The CISA Alert: Security Beyond Solitary Confinement",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnl1zy/the_cisa_alert_security_beyond_solitary/",
-      "summary": "It is time to turn the tables -- not pile on more computationally complex security algorithms. More Security leads to less. submitted by /u/Dismal-Divide3337 [link] [comments]",
-      "published": "2026-08-13T19:40:31+00:00"
+      "source": "HACKER NEWS",
+      "title": "How Gödel's Proof Works",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "summary": "21 points · 5 comments",
+      "published": "2026-08-13T19:44:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "summary": "7 points · 0 comments",
+      "summary": "24 points · 7 comments",
       "published": "2026-08-13T19:25:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you tell users they've been phished?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnke8q/how_do_you_tell_users_theyve_been_phished/",
+      "summary": "So a users been phished and their accounts been locked out, etc. Post remediation, how do you handle them? I'm always a bit caught between not wanting to sound like I'm \"scolding\" them and wanting to make sure they understand that it's important to learn from the situation, while calling them out of the blue to tell them they've been \"hacked\". I'm curious what approaches you guys take or if you have follow up \"consequences\" (additional training, notifying their manager, etc.) We've been fortunat",
+      "published": "2026-08-13T19:16:39+00:00"
     },
     {
       "source": "REDDIT",
@@ -65,14 +86,14 @@
       "source": "HACKER NEWS",
       "title": "Understanding is the new bottleneck",
       "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "summary": "26 points · 10 comments",
+      "summary": "46 points · 30 comments",
       "published": "2026-08-13T18:47:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
       "url": "https://github.com/systemd/systemd/issues/40262",
-      "summary": "37 points · 8 comments",
+      "summary": "68 points · 21 comments",
       "published": "2026-08-13T18:41:01+00:00"
     },
     {
@@ -86,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "182 points · 57 comments",
+      "summary": "253 points · 89 comments",
       "published": "2026-08-13T18:10:02+00:00"
     },
     {
@@ -105,16 +126,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "How Compaction Works in Pi",
+      "url": "https://earendil.com/posts/compaction-in-pi/",
+      "summary": "23 points · 0 comments",
+      "published": "2026-08-13T17:57:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Where did the old web go? We followed 657,607 links to find out",
       "url": "https://0.mk/blog/link-rot",
-      "summary": "60 points · 30 comments",
+      "summary": "84 points · 50 comments",
       "published": "2026-08-13T17:49:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Choose Boring Technology (2015)",
       "url": "https://mcfunley.com/choose-boring-technology",
-      "summary": "125 points · 64 comments",
+      "summary": "151 points · 79 comments",
       "published": "2026-08-13T17:48:13+00:00"
     },
     {
@@ -128,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
       "url": "https://donkeybas.com/",
-      "summary": "91 points · 36 comments",
+      "summary": "122 points · 43 comments",
       "published": "2026-08-13T17:45:50+00:00"
     },
     {
@@ -142,21 +170,21 @@
       "source": "HACKER NEWS",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "summary": "357 points · 229 comments",
+      "summary": "428 points · 256 comments",
       "published": "2026-08-13T17:23:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tocharian Online",
       "url": "https://lrc.la.utexas.edu/eieol/tokol/0",
-      "summary": "35 points · 1 comments",
+      "summary": "38 points · 4 comments",
       "published": "2026-08-13T17:15:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mistral OCR 4.1",
       "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "143 points · 49 comments",
+      "summary": "179 points · 63 comments",
       "published": "2026-08-13T17:05:12+00:00"
     },
     {
@@ -172,13 +200,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
       "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
       "published": "2026-08-13T16:40:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "summary": "46 points · 22 comments",
-      "published": "2026-08-13T16:22:05+00:00"
     },
     {
       "source": "REDDIT",
@@ -205,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
       "url": "https://oxide.computer/blog/kubernetes-on-oxide",
-      "summary": "115 points · 51 comments",
+      "summary": "125 points · 56 comments",
       "published": "2026-08-13T14:26:41+00:00"
     },
     {
@@ -219,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Spaghettifying DRAM",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "summary": "363 points · 111 comments",
+      "summary": "402 points · 120 comments",
       "published": "2026-08-13T14:17:13+00:00"
     },
     {
@@ -237,13 +258,6 @@
       "published": "2026-08-13T13:56:02+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Gloomberb",
-      "url": "https://gloom.sh/",
-      "summary": "323 points · 165 comments",
-      "published": "2026-08-13T13:52:32+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "White House taps security firms for offensive hack-back operations",
       "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
@@ -252,16 +266,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Choosing an AI model: one prompt, 11 models, different results",
-      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "summary": "142 points · 61 comments",
-      "published": "2026-08-13T13:05:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "DeepSeek Harness developer preview",
       "url": "https://deepseek.com/harness/en/",
-      "summary": "474 points · 215 comments",
+      "summary": "492 points · 227 comments",
       "published": "2026-08-13T12:58:02+00:00"
     },
     {
@@ -345,7 +352,7 @@
       "source": "HACKER NEWS",
       "title": "How art invented humanity",
       "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "summary": "57 points · 16 comments",
+      "summary": "66 points · 19 comments",
       "published": "2026-08-12T22:47:40+00:00"
     },
     {
@@ -382,13 +389,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
       "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
       "published": "2026-08-12T20:54:59+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
-      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
-      "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
-      "published": "2026-08-12T18:54:57+00:00"
     },
     {
       "source": "OSINT",
@@ -482,18 +482,18 @@
       "published": "2026-08-11T20:10:55+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-      "url": "https://uniqueatpenn.wordpress.com/2026/08/05/come-for-eniac-stay-for-univac-and-skeduflo/",
-      "summary": "50 points · 13 comments",
-      "published": "2026-08-11T13:55:26+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-10T00:00:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+      "summary": "18 points · 0 comments",
+      "published": "2026-08-09T22:26:52+00:00"
     },
     {
       "source": "OSINT",
