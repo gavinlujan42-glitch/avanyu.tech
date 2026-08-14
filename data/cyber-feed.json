@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14T13:56:07.830022+00:00",
-  "item_count": 75,
+  "updated": "2026-08-14T14:58:03.945248+00:00",
+  "item_count": 87,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,16 +16,32 @@
     },
     {
       "source": "REDDIT",
-      "url": "https://www.reddit.com/r/netsec/.rss",
-      "error": "HTTPError"
-    },
-    {
-      "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "HACKER NEWS",
+      "title": "Every Fucking Website",
+      "url": "https://lxe.github.io/everywebsite/",
+      "summary": "30 points · 8 comments",
+      "published": "2026-08-14T14:31:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "In Australia, a Home Battery Boom Has Helped Cut Wholesale Power Prices in Half",
+      "url": "https://e360.yale.edu/digest/australia-home-batteries",
+      "summary": "85 points · 48 comments",
+      "published": "2026-08-14T14:07:52+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
+      "published": "2026-08-14T14:00:10+00:00"
+    },
     {
       "source": "OSINT",
       "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
@@ -35,10 +51,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Dear people who work at the airport",
-      "url": "https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/",
-      "summary": "81 points · 50 comments",
-      "published": "2026-08-14T12:23:22+00:00"
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://hashagent.pages.dev/",
+      "summary": "14 points · 1 comments",
+      "published": "2026-08-14T12:57:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: We Implemented the IPv8 Internet-Draft in Linux, Libc, and BGP",
+      "url": "https://goonhost.rocks/blog/implementing-ipv8-internet-draft",
+      "summary": "14 points · 2 comments",
+      "published": "2026-08-14T12:45:37+00:00"
     },
     {
       "source": "REDDIT",
@@ -55,11 +78,25 @@
       "published": "2026-08-14T12:09:16+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "The TEMU-Fication of Software, Digital Goods and Services",
+      "url": "https://xn--gckvb8fzb.com/the-temu-fication-of-software-digital-goods-services/",
+      "summary": "31 points · 10 comments",
+      "published": "2026-08-14T12:00:51+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Shell investigates 'potential incident' after Clop data theft claims",
       "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
       "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
       "published": "2026-08-14T11:55:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "WhatCable: Know what your USB-C cable can do",
+      "url": "https://www.whatcable.uk/",
+      "summary": "23 points · 8 comments",
+      "published": "2026-08-14T11:41:34+00:00"
     },
     {
       "source": "OSINT",
@@ -107,14 +144,14 @@
       "source": "HACKER NEWS",
       "title": "Why does Opus 5 feel worse to work with?",
       "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
-      "summary": "259 points · 244 comments",
+      "summary": "325 points · 308 comments",
       "published": "2026-08-14T10:12:48+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "DeepSeek peak/off-peak pricing update",
       "url": "https://api-docs.deepseek.com/news/news260813/",
-      "summary": "125 points · 58 comments",
+      "summary": "155 points · 77 comments",
       "published": "2026-08-14T09:55:33+00:00"
     },
     {
@@ -139,6 +176,13 @@
       "published": "2026-08-14T07:20:34+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?)) - watchTowr Labs",
+      "url": "https://www.reddit.com/r/netsec/comments/1vo06aj/youre_back_in_the_room_citrix_netscaler_preauth/",
+      "summary": "submitted by /u/dx7r__ [link] [comments]",
+      "published": "2026-08-14T07:10:17+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Scientists Turn Starlink Into a Giant Scanner For Earth's Upper Atmosphere",
       "url": "https://science.slashdot.org/story/26/08/14/0230250/scientists-turn-starlink-into-a-giant-scanner-for-earths-upper-atmosphere?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -147,17 +191,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "summary": "59 points · 15 comments",
-      "published": "2026-08-14T06:09:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
       "url": "https://z.ai/blog/glm-5.3",
-      "summary": "734 points · 371 comments",
+      "summary": "803 points · 413 comments",
       "published": "2026-08-14T05:19:59+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain - elttam",
+      "url": "https://www.reddit.com/r/netsec/comments/1vnxkvm/ruby_40_universal_rce_deserialization_gadget/",
+      "summary": "submitted by /u/AnimalStrange [link] [comments]",
+      "published": "2026-08-14T04:46:39+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -172,13 +216,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vnvwzd/as_someone_working_in_cybersecurity_are_you_a/",
       "summary": "Does someone need to be a good coder to build a career in cybersecurity? Is coding knowledge enough? Or do we need to write code on our own without using AI? submitted by /u/CamelBetter7155 [link] [comments]",
       "published": "2026-08-14T03:22:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bluesky Protocol Services",
-      "url": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-      "summary": "190 points · 53 comments",
-      "published": "2026-08-14T00:14:28+00:00"
     },
     {
       "source": "REDDIT",
@@ -216,11 +253,25 @@
       "published": "2026-08-13T21:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg",
+      "url": "https://www.reddit.com/r/netsec/comments/1vnmye4/when_you_pay_the_ransom_taking_apart_an_interlock/",
+      "summary": "submitted by /u/tohitsugu [link] [comments]",
+      "published": "2026-08-13T20:51:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
       "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
       "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
       "published": "2026-08-13T20:47:02+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CSS:the bomb inside your inbox",
+      "url": "https://www.reddit.com/r/netsec/comments/1vnm0b2/cssthe_bomb_inside_your_inbox/",
+      "summary": "Here's my research in using CSS for offence. There are loads of techniques including stealing passwords from Outlook from an email by spoofing the login screen. submitted by /u/garethheyes [link] [comments]",
+      "published": "2026-08-13T20:15:35+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -238,16 +289,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Understanding is the new bottleneck",
-      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
-      "summary": "381 points · 206 comments",
-      "published": "2026-08-13T18:47:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Hello, me. It's been a while",
       "url": "https://themech.net/2026/08/hello-me-its-been-a-while/",
-      "summary": "299 points · 159 comments",
+      "summary": "320 points · 170 comments",
       "published": "2026-08-13T18:37:18+00:00"
     },
     {
@@ -261,7 +305,7 @@
       "source": "HACKER NEWS",
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "summary": "660 points · 259 comments",
+      "summary": "668 points · 262 comments",
       "published": "2026-08-13T18:10:02+00:00"
     },
     {
@@ -289,15 +333,15 @@
       "source": "HACKER NEWS",
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "summary": "912 points · 453 comments",
+      "summary": "921 points · 466 comments",
       "published": "2026-08-13T17:23:22+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Mistral OCR 4.1",
-      "url": "https://docs.mistral.ai/models/ocr-4-1",
-      "summary": "387 points · 154 comments",
-      "published": "2026-08-13T17:05:12+00:00"
+      "title": "What I Learned Securing Sniffnet with the GitHub Secure Open Source Fund",
+      "url": "https://sniffnet.app/news/github-secure-open-source-fund/",
+      "summary": "3 points · 0 comments",
+      "published": "2026-08-13T17:02:50+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -314,11 +358,11 @@
       "published": "2026-08-13T16:40:23+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Trezor discloses data breach affecting nearly 14,000 customers",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
-      "summary": "Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked [...]",
-      "published": "2026-08-13T15:13:19+00:00"
+      "source": "REDDIT",
+      "title": "From Unauthenticated API to Grid Risk: A Hybrid Inverter Vulnerability Explained",
+      "url": "https://www.reddit.com/r/netsec/comments/1vndp8e/from_unauthenticated_api_to_grid_risk_a_hybrid/",
+      "summary": "Auth Bypass. Commands over CAN Bus to internal components. Protection mechanisms disabled and configuration changes. Impact: damage connected devices, permanent DoS to the inverter itself, fines, and even risk to the lives of grid technicians. proprietary communication protocols and file formats. RX architecture reverse engineering. submitted by /u/_solid_snail [link] [comments]",
+      "published": "2026-08-13T15:20:01+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -328,18 +372,11 @@
       "published": "2026-08-13T15:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Spaghettifying DRAM",
-      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-      "summary": "674 points · 168 comments",
-      "published": "2026-08-13T14:17:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek Harness developer preview",
-      "url": "https://deepseek.com/harness/en/",
-      "summary": "696 points · 282 comments",
-      "published": "2026-08-13T12:58:02+00:00"
+      "source": "REDDIT",
+      "title": "Can AI do novel security research? Meet the HTTP Terminator",
+      "url": "https://www.reddit.com/r/netsec/comments/1vn94sg/can_ai_do_novel_security_research_meet_the_http/",
+      "summary": "submitted by /u/albinowax [link] [comments]",
+      "published": "2026-08-13T12:19:41+00:00"
     },
     {
       "source": "REDDIT",
@@ -405,6 +442,20 @@
       "published": "2026-08-12T11:13:03+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
+      "url": "https://www.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/",
+      "summary": "submitted by /u/unknownhad [link] [comments]",
+      "published": "2026-08-12T10:31:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "ERPNext's Document Follow feature exposed unauthorized data",
+      "url": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/",
+      "summary": "Chaining 3 CVEs to exfiltrate sensitive ERP data. submitted by /u/TeraTrox_ [link] [comments]",
+      "published": "2026-08-12T09:23:41+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
       "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
@@ -447,6 +498,13 @@
       "published": "2026-08-11T21:28:35+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "Expired DMARC reporting endpoint exposed a NYSE Fortune 1000's infrastructure for $10",
+      "url": "https://www.reddit.com/r/netsec/comments/1vlsvsn/expired_dmarc_reporting_endpoint_exposed_a_nyse/",
+      "summary": "I registered an expired DMARC reporting domain (gca-emailauth[.]org) for $10. It had been published as the aggregate-reporting address in Global Cyber Alliance DMARC training docs going back to a 2019 bootcamp, and at some point it lapsed. Shortly after registration, aggregate DMARC reports for 86 domains across 20+ organizations started arriving. 56 belonged to The Toro Company (NYSE-listed), including myturf[.]com, their distributor platform, which sits at p=none. The rest - University of Wisc",
+      "published": "2026-08-11T20:23:28+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
@@ -455,30 +513,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
-      "url": "https://github.com/ArcadeMakerSources/ArcadeMaker",
-      "summary": "83 points · 40 comments",
-      "published": "2026-08-11T13:34:54+00:00"
+      "title": "Show HN: Lambdock – Wayland-native GTK4 dock with a live Lisp REPL",
+      "url": "https://codeberg.org/jjba23/lambdock",
+      "summary": "15 points · 1 comments",
+      "published": "2026-08-11T16:21:46+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CopyEscape: Container-to-host arbitrary file write via docker cp (CVE-2026-17106)",
+      "url": "https://www.reddit.com/r/netsec/comments/1vlkth5/copyescape_containertohost_arbitrary_file_write/",
+      "summary": "Author here. We discovered a vulnerability in docker cp that allows a malicious container to create or overwrite files on the machine running the Docker CLI. The exploit combines a filesystem race in Docker’s archive creation with unsafe symlink handling during extraction. Depending on the CLI user’s privileges, this can lead to developer-account compromise or root code execution. Docker confirmed that sbx cp was also affected. Fixed versions: Docker Engine/CLI 29.7.2+ Docker Desktop 4.86.0+ Doc",
+      "published": "2026-08-11T15:33:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Don't classify, hallucinate!",
       "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
-      "summary": "66 points · 29 comments",
+      "summary": "112 points · 56 comments",
       "published": "2026-08-10T20:50:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "We're not done with point clouds",
       "url": "https://claytonwramsey.com/blog/mvt/",
-      "summary": "32 points · 3 comments",
+      "summary": "44 points · 6 comments",
       "published": "2026-08-10T18:22:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Protect Your Relays",
       "url": "https://www.iroh.computer/blog/authenticated-relays",
-      "summary": "25 points · 8 comments",
+      "summary": "31 points · 11 comments",
       "published": "2026-08-10T12:40:50+00:00"
     },
     {
@@ -492,7 +557,7 @@
       "source": "HACKER NEWS",
       "title": "Differential Heuristics",
       "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
-      "summary": "67 points · 5 comments",
+      "summary": "78 points · 5 comments",
       "published": "2026-08-09T13:58:46+00:00"
     },
     {
@@ -503,53 +568,18 @@
       "published": "2026-08-06T17:00:56+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "r/netsec monthly discussion & tool thread",
+      "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
+      "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely. If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely. Avoid use of mem",
+      "published": "2026-08-01T13:29:06+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Read This Before You Buy That TV Streaming Stick",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
       "published": "2026-07-30T16:49:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-      "published": "2026-07-22T01:10:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Patches a Record 570 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
-      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
-      "published": "2026-07-14T19:22:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "2026-07-13T15:03:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
-      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
-      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
-      "published": "2026-07-08T12:31:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
-      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
-      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
-      "published": "2026-07-02T19:27:33+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-      "published": "2026-06-23T16:12:49+00:00"
     }
   ]
 }
