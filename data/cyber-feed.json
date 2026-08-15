@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T10:29:38.648862+00:00",
+  "updated": "2026-08-15T10:50:00.213813+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,23 +28,23 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "How to provide Windows Event Log access-control evidence for an auditor in a small company with no Active Directory?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vozom0/how_to_provide_windows_event_log_accesscontrol/",
+      "summary": "I work in cybersecurity compliance for a very small company with only 3–4 employees. Wedo not have Active Directory or a domain environment; our Windows endpoints are managed individually using local accounts/settings. Our auditor has requested the following evidence: “Based on the evidence provided, the normal user is able to access the Event Logs and download/export them. Kindly provide evidence from three (3) endpoint samples showing that an unauthorized/non-administrative user is unable to o",
+      "published": "2026-08-15T10:47:44+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Is \"assume the attacker has admin, make the files immutable\" a useful ransomware defense, or does backup already cover this?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1voz076/is_assume_the_attacker_has_admin_make_the_files/",
       "summary": "I've been building a kernel-level filter driver that enforces WORM semantics on a mapped drive — existing files can't be modified or deleted regardless of the caller's privilege level. No detection, no signatures. The premise is that detection has already failed and the attacker has local admin, which is the state most real ransomware reaches before it encrypts anything. Tested against a live AvosLocker sample in an isolated VM with no AV: files outside the protected drive were encrypted, files ",
       "published": "2026-08-15T10:07:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "CTO at NCSC Summary: week ending August 16th",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1voyllo/cto_at_ncsc_summary_week_ending_august_16th/",
-      "summary": "submitted by /u/digicat [link] [comments]",
-      "published": "2026-08-15T09:43:19+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
       "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "summary": "9 points · 0 comments",
+      "summary": "13 points · 0 comments",
       "published": "2026-08-15T07:59:42+00:00"
     },
     {
@@ -58,14 +58,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
       "url": "https://chenxiachan.github.io/thoughtdag/",
-      "summary": "35 points · 12 comments",
+      "summary": "42 points · 12 comments",
       "published": "2026-08-15T04:42:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The other Sean Byrne doesn't exist",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "summary": "163 points · 87 comments",
+      "summary": "170 points · 94 comments",
       "published": "2026-08-15T04:18:44+00:00"
     },
     {
@@ -93,14 +93,14 @@
       "source": "HACKER NEWS",
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "summary": "196 points · 47 comments",
+      "summary": "198 points · 48 comments",
       "published": "2026-08-15T01:14:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Simplifying and Refactoring Introductory Calculus (2018)",
       "url": "https://arxiv.org/abs/1811.03459",
-      "summary": "93 points · 44 comments",
+      "summary": "94 points · 47 comments",
       "published": "2026-08-15T00:15:23+00:00"
     },
     {
@@ -121,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
-      "summary": "162 points · 40 comments",
+      "summary": "164 points · 40 comments",
       "published": "2026-08-14T22:15:12+00:00"
     },
     {
@@ -142,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "349 points · 157 comments",
+      "summary": "351 points · 158 comments",
       "published": "2026-08-14T20:52:44+00:00"
     },
     {
@@ -156,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "1054 points · 396 comments",
+      "summary": "1082 points · 401 comments",
       "published": "2026-08-14T19:03:20+00:00"
     },
     {
@@ -226,14 +226,14 @@
       "source": "HACKER NEWS",
       "title": "Maximizing the value of your Claude Code sessions",
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "230 points · 127 comments",
+      "summary": "234 points · 128 comments",
       "published": "2026-08-14T16:15:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "297 points · 124 comments",
+      "summary": "301 points · 126 comments",
       "published": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -247,14 +247,14 @@
       "source": "HACKER NEWS",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
-      "summary": "309 points · 23 comments",
+      "summary": "311 points · 23 comments",
       "published": "2026-08-14T15:58:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "395 points · 242 comments",
+      "summary": "402 points · 244 comments",
       "published": "2026-08-14T15:43:10+00:00"
     },
     {
@@ -275,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "1150 points · 698 comments",
+      "summary": "1156 points · 700 comments",
       "published": "2026-08-14T15:00:00+00:00"
     },
     {
@@ -366,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "Coin-sized device can hack a Boeing 737",
       "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-      "summary": "79 points · 50 comments",
+      "summary": "81 points · 53 comments",
       "published": "2026-08-13T07:57:40+00:00"
     },
     {
@@ -380,7 +380,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
       "url": "https://silentshark.app/",
-      "summary": "28 points · 11 comments",
+      "summary": "30 points · 11 comments",
       "published": "2026-08-12T19:37:12+00:00"
     },
     {
@@ -401,14 +401,14 @@
       "source": "HACKER NEWS",
       "title": "Understanding WCAG 2.2 as ePub and PDF",
       "url": "https://doeken.org/wcag-ebook",
-      "summary": "17 points · 2 comments",
+      "summary": "18 points · 2 comments",
       "published": "2026-08-12T12:36:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
       "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-      "summary": "41 points · 14 comments",
+      "summary": "46 points · 16 comments",
       "published": "2026-08-12T12:31:16+00:00"
     },
     {
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
       "url": "https://baselashraf81.github.io/eigendrum/",
-      "summary": "13 points · 3 comments",
+      "summary": "17 points · 4 comments",
       "published": "2026-08-10T16:53:31+00:00"
     },
     {
