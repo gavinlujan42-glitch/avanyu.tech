@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T05:31:04.405319+00:00",
+  "updated": "2026-08-15T05:53:16.651910+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -30,7 +30,7 @@
       "source": "HACKER NEWS",
       "title": "The other Sean Byrne doesn't exist",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "summary": "10 points · 2 comments",
+      "summary": "20 points · 5 comments",
       "published": "2026-08-15T04:18:44+00:00"
     },
     {
@@ -39,13 +39,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vosjjl/soc_cti_collaboration/",
       "summary": "Hi! I am a CTI Analyst for a private company and, unfortunately, there are a lot of tensions between the manager of the CTI team and the manager of the detection & response team including SOC. This obviously cascade to our work and to the collaboration we need to have. I think our managers will never get along and are in a form of \"little war\" but if you remove them, our teams do not have anything against each other, we have good relations. The issue is that these tensions are blocking a healthy",
       "published": "2026-08-15T03:56:40+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How do you set risk score for pentest vulnerabilities which do no have CVE assigned?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vosft2/how_do_you_set_risk_score_for_pentest/",
-      "summary": "We are working on a system to be able to assign risk scores (and risk labels, e.g. low/med/high/critical) for various findings during the penetration tests. The idea is to use CVSS, CISA KEV and EPSS. The challenge I came across is that KEV and EPSS are mostly designed to get insight into likelihood of exploitation of CVEs, however in practice very often a security finding does not have CVE assigned. Often its a misconfiguration of sorts, so how do you normally handle those types of findings? Do",
-      "published": "2026-08-15T03:51:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -58,28 +51,28 @@
       "source": "HACKER NEWS",
       "title": "AI Driven Testing",
       "url": "https://app.deltix.ai",
-      "summary": "17 points · 7 comments",
+      "summary": "19 points · 7 comments",
       "published": "2026-08-15T02:42:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "summary": "152 points · 30 comments",
+      "summary": "163 points · 33 comments",
       "published": "2026-08-15T01:14:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Ploopy A+ Trackball Is Here",
       "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "summary": "72 points · 36 comments",
+      "summary": "78 points · 37 comments",
       "published": "2026-08-15T00:55:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Simplifying and Refactoring Introductory Calculus",
       "url": "https://arxiv.org/abs/1811.03459",
-      "summary": "63 points · 20 comments",
+      "summary": "66 points · 23 comments",
       "published": "2026-08-15T00:15:23+00:00"
     },
     {
@@ -100,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
-      "summary": "87 points · 20 comments",
+      "summary": "93 points · 23 comments",
       "published": "2026-08-14T22:15:12+00:00"
     },
     {
@@ -121,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "272 points · 133 comments",
+      "summary": "281 points · 137 comments",
       "published": "2026-08-14T20:52:44+00:00"
     },
     {
@@ -142,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "674 points · 253 comments",
+      "summary": "704 points · 267 comments",
       "published": "2026-08-14T19:03:20+00:00"
     },
     {
@@ -212,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "251 points · 110 comments",
+      "summary": "253 points · 111 comments",
       "published": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -226,14 +219,14 @@
       "source": "HACKER NEWS",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
-      "summary": "247 points · 19 comments",
+      "summary": "257 points · 20 comments",
       "published": "2026-08-14T15:58:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "333 points · 195 comments",
+      "summary": "340 points · 202 comments",
       "published": "2026-08-14T15:43:10+00:00"
     },
     {
@@ -254,15 +247,8 @@
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "1006 points · 645 comments",
+      "summary": "1016 points · 649 comments",
       "published": "2026-08-14T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
-      "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "summary": "168 points · 65 comments",
-      "published": "2026-08-14T14:21:18+00:00"
     },
     {
       "source": "OSINT",
@@ -335,6 +321,13 @@
       "published": "2026-08-14T07:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "As Someone working in Cybersecurity are you a good coder?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnvwzd/as_someone_working_in_cybersecurity_are_you_a/",
+      "summary": "Does someone need to be a good coder to build a career in cybersecurity? Is coding knowledge enough? Or do we need to write code on our own without using AI? submitted by /u/CamelBetter7155 [link] [comments]",
+      "published": "2026-08-14T03:22:25+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
       "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
@@ -356,6 +349,13 @@
       "published": "2026-08-13T18:15:19+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Coin-Sized Device Can Hack a Boeing 737",
+      "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
+      "summary": "13 points · 0 comments",
+      "published": "2026-08-13T07:57:40+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
       "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
@@ -373,14 +373,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: A website for exploring historical photographs of my city",
       "url": "https://yesterdays.maprva.org/",
-      "summary": "16 points · 8 comments",
+      "summary": "18 points · 8 comments",
       "published": "2026-08-12T14:53:02+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
       "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
-      "summary": "60 points · 14 comments",
+      "summary": "62 points · 14 comments",
       "published": "2026-08-12T14:19:05+00:00"
     },
     {
@@ -464,14 +464,14 @@
       "source": "HACKER NEWS",
       "title": "Hi-Fi Tape Recorder Changed Radio Forever",
       "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
-      "summary": "32 points · 5 comments",
+      "summary": "33 points · 6 comments",
       "published": "2026-08-11T19:23:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I close SSH port 22 (and what I use instead)",
       "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
-      "summary": "19 points · 22 comments",
+      "summary": "36 points · 33 comments",
       "published": "2026-08-10T19:19:03+00:00"
     },
     {
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Super Mario Derivations",
       "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-      "summary": "81 points · 14 comments",
+      "summary": "82 points · 14 comments",
       "published": "2026-08-07T20:16:10+00:00"
     },
     {
