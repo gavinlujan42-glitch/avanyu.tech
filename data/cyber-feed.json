@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T07:55:09.360652+00:00",
+  "updated": "2026-08-15T08:36:42.370803+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,13 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Do companies hire software engineers with no prior security background for AppSec roles?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1voxedi/do_companies_hire_software_engineers_with_no/",
+      "summary": "I have 3+ years of software engineering experience and am actively looking to transition into application security / product security roles or any other related roles I’ve applied to a few roles recently but haven't been shortlisted. Before I send out more applications, I want to make sure I’m doing it correctly A bit about my current profile: Certifications: None yet in security, AZ-900: Microsoft Azure Fundamentals. Projects: I have a few security-related projects listed on my resume. For thos",
+      "published": "2026-08-15T08:29:28+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Meta Patents AI Glasses to Use Facial Recognition to Identify People, Make Highlight Reels of Your Dinner Party",
       "url": "https://yro.slashdot.org/story/26/08/14/2112242/meta-patents-ai-glasses-to-use-facial-recognition-to-identify-people-make-highlight-reels-of-your-dinner-party?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -34,24 +41,17 @@
       "published": "2026-08-15T07:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "US courts will start publishing how often the government uses spyware",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vovtjr/us_courts_will_start_publishing_how_often_the/",
-      "summary": "What if the spyware is detected and reported to the police? submitted by /u/Emotional-Trifle5507 [link] [comments]",
-      "published": "2026-08-15T06:56:28+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
       "url": "https://chenxiachan.github.io/thoughtdag/",
-      "summary": "13 points · 1 comments",
+      "summary": "17 points · 1 comments",
       "published": "2026-08-15T04:42:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The other Sean Byrne doesn't exist",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "summary": "80 points · 22 comments",
+      "summary": "111 points · 40 comments",
       "published": "2026-08-15T04:18:44+00:00"
     },
     {
@@ -60,6 +60,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vosjjl/soc_cti_collaboration/",
       "summary": "Hi! I am a CTI Analyst for a private company and, unfortunately, there are a lot of tensions between the manager of the CTI team and the manager of the detection & response team including SOC. This obviously cascade to our work and to the collaboration we need to have. I think our managers will never get along and are in a form of \"little war\" but if you remove them, our teams do not have anything against each other, we have good relations. The issue is that these tensions are blocking a healthy",
       "published": "2026-08-15T03:56:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you set risk score for pentest vulnerabilities which do no have CVE assigned?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vosft2/how_do_you_set_risk_score_for_pentest/",
+      "summary": "We are working on a system to be able to assign risk scores (and risk labels, e.g. low/med/high/critical) for various findings during the penetration tests. The idea is to use CVSS, CISA KEV and EPSS. The challenge I came across is that KEV and EPSS are mostly designed to get insight into likelihood of exploitation of CVEs, however in practice very often a security finding does not have CVE assigned. Often its a misconfiguration of sorts, so how do you normally handle those types of findings? Do",
+      "published": "2026-08-15T03:51:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -72,21 +79,21 @@
       "source": "HACKER NEWS",
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "summary": "179 points · 39 comments",
+      "summary": "186 points · 44 comments",
       "published": "2026-08-15T01:14:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Ploopy A+ Trackball Is Here",
       "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "summary": "95 points · 44 comments",
+      "summary": "99 points · 46 comments",
       "published": "2026-08-15T00:55:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Simplifying and Refactoring Introductory Calculus (2018)",
       "url": "https://arxiv.org/abs/1811.03459",
-      "summary": "80 points · 35 comments",
+      "summary": "83 points · 36 comments",
       "published": "2026-08-15T00:15:23+00:00"
     },
     {
@@ -107,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
-      "summary": "133 points · 28 comments",
+      "summary": "141 points · 31 comments",
       "published": "2026-08-14T22:15:12+00:00"
     },
     {
@@ -128,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "317 points · 143 comments",
+      "summary": "328 points · 145 comments",
       "published": "2026-08-14T20:52:44+00:00"
     },
     {
@@ -142,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "867 points · 322 comments",
+      "summary": "924 points · 344 comments",
       "published": "2026-08-14T19:03:20+00:00"
     },
     {
@@ -212,14 +219,14 @@
       "source": "HACKER NEWS",
       "title": "Maximizing the value of your Claude Code sessions",
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "198 points · 117 comments",
+      "summary": "205 points · 119 comments",
       "published": "2026-08-14T16:15:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "278 points · 117 comments",
+      "summary": "286 points · 119 comments",
       "published": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -233,14 +240,14 @@
       "source": "HACKER NEWS",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
-      "summary": "285 points · 20 comments",
+      "summary": "294 points · 22 comments",
       "published": "2026-08-14T15:58:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "365 points · 215 comments",
+      "summary": "377 points · 219 comments",
       "published": "2026-08-14T15:43:10+00:00"
     },
     {
@@ -261,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "1090 points · 676 comments",
+      "summary": "1116 points · 686 comments",
       "published": "2026-08-14T15:00:00+00:00"
     },
     {
@@ -328,13 +335,6 @@
       "published": "2026-08-14T08:27:18+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "As Someone working in Cybersecurity are you a good coder?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnvwzd/as_someone_working_in_cybersecurity_are_you_a/",
-      "summary": "Does someone need to be a good coder to build a career in cybersecurity? Is coding knowledge enough? Or do we need to write code on our own without using AI? submitted by /u/CamelBetter7155 [link] [comments]",
-      "published": "2026-08-14T03:22:25+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
       "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
@@ -359,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "Coin-sized device can hack a Boeing 737",
       "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-      "summary": "53 points · 24 comments",
+      "summary": "63 points · 29 comments",
       "published": "2026-08-13T07:57:40+00:00"
     },
     {
@@ -373,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
       "url": "https://silentshark.app/",
-      "summary": "7 points · 2 comments",
+      "summary": "13 points · 2 comments",
       "published": "2026-08-12T19:37:12+00:00"
     },
     {
@@ -387,7 +387,7 @@
       "source": "HACKER NEWS",
       "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
       "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
-      "summary": "70 points · 17 comments",
+      "summary": "74 points · 17 comments",
       "published": "2026-08-12T14:19:05+00:00"
     },
     {
@@ -401,7 +401,7 @@
       "source": "HACKER NEWS",
       "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
       "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-      "summary": "11 points · 2 comments",
+      "summary": "19 points · 3 comments",
       "published": "2026-08-12T12:31:16+00:00"
     },
     {
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "This Hi-Fi Tape Recorder Changed Radio Forever",
       "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
-      "summary": "43 points · 6 comments",
+      "summary": "44 points · 9 comments",
       "published": "2026-08-11T19:23:33+00:00"
     },
     {
