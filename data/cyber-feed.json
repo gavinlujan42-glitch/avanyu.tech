@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-15T22:29:03.854880+00:00",
-  "item_count": 88,
+  "updated": "2026-08-15T22:50:22.017336+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,11 +16,23 @@
     },
     {
       "source": "REDDIT",
+      "url": "https://www.reddit.com/r/netsec/.rss",
+      "error": "HTTPError"
+    },
+    {
+      "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "SLASHDOT",
+      "title": "How Swarming Jellyfish Overran Three French Nuclear Power Reactors",
+      "url": "https://hardware.slashdot.org/story/26/08/15/2231253/how-swarming-jellyfish-overran-three-french-nuclear-power-reactors?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A \"massive influx\" of jellyfish forced Electricite de France SA to shut three units at its Gravelines nuclear power plant this week and reduce output at a fourth, reports Bloomberg. Just as summer temperatures surged, 3.2 gigawatts went offline — and the power utility was already facing cuts other nuclear sites as high temperatures reduced the river water available for cooling. More details from ScienceAlert: As Politico reports, the Gravelines nuclear power plant spent hundreds of thousands of ",
+      "published": "2026-08-15T22:34:00+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "Breaking into cybersecurity from SAP HCM/SuccessFactors background — which certs actually matter?",
@@ -37,30 +49,58 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Engineers will do anything to avoid learning from history",
+      "url": "https://horn.gg/blog/engineers-will-do-anything-to-avoid-learning-from-history/",
+      "summary": "18 points · 10 comments",
+      "published": "2026-08-15T22:08:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "url": "https://xescu.re/keeta-consensus.pdf",
+      "summary": "3 points · 1 comments",
+      "published": "2026-08-15T21:49:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Bede Liu, a digital signal processing pioneer, has died",
       "url": "https://spectrum.ieee.org/digital-signal-processing",
-      "summary": "15 points · 0 comments",
+      "summary": "18 points · 1 comments",
       "published": "2026-08-15T21:45:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
       "url": "https://en.wikipedia.org/wiki/Wow!_signal",
-      "summary": "16 points · 1 comments",
+      "summary": "31 points · 5 comments",
       "published": "2026-08-15T21:42:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://github.com/christensen143/claude-trofeo-hud",
+      "summary": "8 points · 0 comments",
+      "published": "2026-08-15T21:42:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-08-15T21:39:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Abdominal fat predicts heart disease risk better than BMI",
       "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
-      "summary": "23 points · 11 comments",
+      "summary": "49 points · 20 comments",
       "published": "2026-08-15T21:14:34+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cultivating a state of mind where new ideas are born (2023)",
       "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
-      "summary": "37 points · 10 comments",
+      "summary": "44 points · 14 comments",
       "published": "2026-08-15T20:54:11+00:00"
     },
     {
@@ -74,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "AI in drug discovery – what it is, where we stand and the path forward",
       "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "summary": "52 points · 32 comments",
+      "summary": "56 points · 33 comments",
       "published": "2026-08-15T19:12:53+00:00"
     },
     {
@@ -83,13 +123,6 @@
       "url": "https://it.slashdot.org/story/26/08/15/079216/ai-fails-to-deliver-a-4-day-work-week---especially-at-ai-companies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"An engineering director at Google said four years ago that AI would deliver a four-day work week by 2025,\" remembers the BBC. And earlier this year OpenAI \"formally urged companies to start testing out a four-day work week (with no change in pay), claiming that AI will soon be able to speed up so much human labour that the corporate world should prepare itself.\" However, a former OpenAI technical employee who left the company last year told the BBC the firm never actually trialled the four-day ",
       "published": "2026-08-15T19:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tess's Android Wayland Compositor",
-      "url": "https://github.com/wmww/tawc",
-      "summary": "20 points · 1 comments",
-      "published": "2026-08-15T18:34:26+00:00"
     },
     {
       "source": "HACKER NEWS",
@@ -109,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "AI has access to a vastly larger working memory than the human brain",
       "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "summary": "336 points · 291 comments",
+      "summary": "344 points · 298 comments",
       "published": "2026-08-15T18:13:02+00:00"
     },
     {
@@ -118,13 +151,6 @@
       "url": "https://hardware.slashdot.org/story/26/08/15/0635210/its-not-just-ram-windows-licenses-are-also-pushing-up-pc-prices?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "It's not just RAM prices that are going up, writes CNET. \"Reports suggest the cost of Windows licenses for manufacturers is rising by up to 10%.\" Several sites that closely follow Microsoft news, including Windows Central and Windows Latest, have published articles citing a report from Taiwan's Economic Daily News that claims some PC manufacturers are seeing a 7% to 10% increase in the cost of Windows 11 licenses... Because they buy licenses in bulk, they get a sizeable discount over what a cons",
       "published": "2026-08-15T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "BriskDB",
-      "url": "https://github.com/schapman1974/briskdb",
-      "summary": "33 points · 8 comments",
-      "published": "2026-08-15T17:56:57+00:00"
     },
     {
       "source": "REDDIT",
@@ -158,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Semaglutide linked to lower predicted dementia risk",
       "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
-      "summary": "296 points · 198 comments",
+      "summary": "306 points · 202 comments",
       "published": "2026-08-15T15:58:53+00:00"
     },
     {
@@ -186,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "A spectre is haunting Unicode",
       "url": "https://www.dampfkraft.com/ghost-characters.html",
-      "summary": "137 points · 39 comments",
+      "summary": "141 points · 42 comments",
       "published": "2026-08-15T14:34:04+00:00"
     },
     {
@@ -207,15 +233,8 @@
       "source": "HACKER NEWS",
       "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
       "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
-      "summary": "187 points · 64 comments",
+      "summary": "190 points · 64 comments",
       "published": "2026-08-15T14:04:49+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Finding Hidden Internal Apps Through Public Certificate Logs",
-      "url": "https://www.reddit.com/r/netsec/comments/1vp35wv/finding_hidden_internal_apps_through_public/",
-      "summary": "submitted by /u/Huge-Wear-125 [link] [comments]",
-      "published": "2026-08-15T13:39:43+00:00"
     },
     {
       "source": "REDDIT",
@@ -228,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
       "url": "https://sankalp.bearblog.dev/autoresearch/",
-      "summary": "366 points · 83 comments",
+      "summary": "370 points · 83 comments",
       "published": "2026-08-15T11:00:02+00:00"
     },
     {
@@ -242,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Working with AI feels more like leadership than coding",
       "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "summary": "234 points · 165 comments",
+      "summary": "239 points · 165 comments",
       "published": "2026-08-15T10:39:41+00:00"
     },
     {
@@ -267,13 +286,6 @@
       "published": "2026-08-15T03:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "2D Gaussian Splatting for Bézier Spline Line Art Vectorization",
-      "url": "https://studios.disneyresearch.com/2026/07/16/2d-gaussian-splatting-for-bezier-spline-line-art-vectorization/",
-      "summary": "52 points · 4 comments",
-      "published": "2026-08-15T00:36:01+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
@@ -293,13 +305,6 @@
       "url": "https://yro.slashdot.org/story/26/08/14/2044246/flock-announces-changes-amid-backlash-over-its-license-plate-reader-network?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Flock Safety is tightening controls on its nationwide license plate reader network after mounting backlash over privacy and documented police misuse. By January 1, law enforcement customers will be required to use automated auditing, tie searches to specific case numbers, and accept a shorter seven-day default retention period. Critics, including the ACLU, argue the changes still leave too much surveillance power in police hands. The Associated Press reports: In an interview, Flock CEO Garrett L",
       "published": "2026-08-14T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "France's Top Court Blocks Social Media Ban For Under-15s",
-      "url": "https://yro.slashdot.org/story/26/08/14/2019223/frances-top-court-blocks-social-media-ban-for-under-15s?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "France's Constitutional Council has struck down a law that would have banned children under 15 from social media, ruling that it disproportionately restricted freedom of expression and lacked adequate privacy safeguards around age verification. President Emmanuel Macron has asked the government to rewrite the measure, with the goal of putting a revised version in place before spring 2027. Reuters reports: \"The Council holds that the contested provisions, on the one hand, disproportionately infri",
-      "published": "2026-08-14T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -340,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "RISC-V: They Should Have Known Better",
       "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
-      "summary": "197 points · 281 comments",
+      "summary": "201 points · 282 comments",
       "published": "2026-08-14T12:50:56+00:00"
     },
     {
@@ -372,20 +377,6 @@
       "published": "2026-08-14T08:27:18+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?)) - watchTowr Labs",
-      "url": "https://www.reddit.com/r/netsec/comments/1vo06aj/youre_back_in_the_room_citrix_netscaler_preauth/",
-      "summary": "submitted by /u/dx7r__ [link] [comments]",
-      "published": "2026-08-14T07:10:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain - elttam",
-      "url": "https://www.reddit.com/r/netsec/comments/1vnxkvm/ruby_40_universal_rce_deserialization_gadget/",
-      "summary": "submitted by /u/AnimalStrange [link] [comments]",
-      "published": "2026-08-14T04:46:39+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks",
       "url": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
@@ -400,39 +391,11 @@
       "published": "2026-08-13T21:12:47+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg",
-      "url": "https://www.reddit.com/r/netsec/comments/1vnmye4/when_you_pay_the_ransom_taking_apart_an_interlock/",
-      "summary": "submitted by /u/tohitsugu [link] [comments]",
-      "published": "2026-08-13T20:51:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
       "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
       "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
       "published": "2026-08-13T20:47:02+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CSS:the bomb inside your inbox",
-      "url": "https://www.reddit.com/r/netsec/comments/1vnm0b2/cssthe_bomb_inside_your_inbox/",
-      "summary": "Here's my research in using CSS for offence. There are loads of techniques including stealing passwords from Outlook from an email by spoofing the login screen. submitted by /u/garethheyes [link] [comments]",
-      "published": "2026-08-13T20:15:35+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "From Unauthenticated API to Grid Risk: A Hybrid Inverter Vulnerability Explained",
-      "url": "https://www.reddit.com/r/netsec/comments/1vndp8e/from_unauthenticated_api_to_grid_risk_a_hybrid/",
-      "summary": "Auth Bypass. Commands over CAN Bus to internal components. Protection mechanisms disabled and configuration changes. Impact: damage connected devices, permanent DoS to the inverter itself, fines, and even risk to the lives of grid technicians. proprietary communication protocols and file formats. RX architecture reverse engineering. submitted by /u/_solid_snail [link] [comments]",
-      "published": "2026-08-13T15:20:01+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Can AI do novel security research? Meet the HTTP Terminator",
-      "url": "https://www.reddit.com/r/netsec/comments/1vn94sg/can_ai_do_novel_security_research_meet_the_http/",
-      "summary": "submitted by /u/albinowax [link] [comments]",
-      "published": "2026-08-13T12:19:41+00:00"
     },
     {
       "source": "OSINT",
@@ -477,20 +440,6 @@
       "published": "2026-08-12T11:13:03+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "CVE-2026-53360: KVM SEV-SNP guest-to-host heap OOB and analysis of the upstream fix",
-      "url": "https://www.reddit.com/r/netsec/comments/1vmadcw/cve202653360_kvm_sevsnp_guesttohost_heap_oob_and/",
-      "summary": "submitted by /u/unknownhad [link] [comments]",
-      "published": "2026-08-12T10:31:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "ERPNext's Document Follow feature exposed unauthorized data",
-      "url": "https://www.reddit.com/r/netsec/comments/1vm95nk/erpnexts_document_follow_feature_exposed/",
-      "summary": "Chaining 3 CVEs to exfiltrate sensitive ERP data. submitted by /u/TeraTrox_ [link] [comments]",
-      "published": "2026-08-12T09:23:41+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
       "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
@@ -533,13 +482,6 @@
       "published": "2026-08-11T21:28:35+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Expired DMARC reporting endpoint exposed a NYSE Fortune 1000's infrastructure for $10",
-      "url": "https://www.reddit.com/r/netsec/comments/1vlsvsn/expired_dmarc_reporting_endpoint_exposed_a_nyse/",
-      "summary": "I registered an expired DMARC reporting domain (gca-emailauth[.]org) for $10. It had been published as the aggregate-reporting address in Global Cyber Alliance DMARC training docs going back to a 2019 bootcamp, and at some point it lapsed. Shortly after registration, aggregate DMARC reports for 86 domains across 20+ organizations started arriving. 56 belonged to The Toro Company (NYSE-listed), including myturf[.]com, their distributor platform, which sits at p=none. The rest - University of Wisc",
-      "published": "2026-08-11T20:23:28+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
@@ -548,16 +490,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Pizza Box Project Stack",
-      "url": "https://cblgh.org/posts/2026-07-31-pizza-box-project-stack/",
-      "summary": "20 points · 3 comments",
-      "published": "2026-08-11T13:40:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Geek Fighter – 2d fighter game",
       "url": "https://geek-fighter.vercel.app/",
-      "summary": "37 points · 15 comments",
+      "summary": "43 points · 18 comments",
       "published": "2026-08-10T18:14:13+00:00"
     },
     {
@@ -575,11 +510,53 @@
       "published": "2026-08-06T17:00:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "r/netsec monthly discussion & tool thread",
-      "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
-      "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely. If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely. Avoid use of mem",
-      "published": "2026-08-01T13:29:06+00:00"
+      "source": "OSINT",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "2026-07-30T16:49:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "published": "2026-07-22T01:10:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13T15:03:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08T12:31:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02T19:27:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23T16:12:49+00:00"
     }
   ]
 }
