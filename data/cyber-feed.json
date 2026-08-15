@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T10:50:00.213813+00:00",
+  "updated": "2026-08-15T11:26:15.417458+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,23 +28,44 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "How to provide Windows Event Log access-control evidence for an auditor in a small company with no Active Directory?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vozom0/how_to_provide_windows_event_log_accesscontrol/",
-      "summary": "I work in cybersecurity compliance for a very small company with only 3–4 employees. Wedo not have Active Directory or a domain environment; our Windows endpoints are managed individually using local accounts/settings. Our auditor has requested the following evidence: “Based on the evidence provided, the normal user is able to access the Event Logs and download/export them. Kindly provide evidence from three (3) endpoint samples showing that an unauthorized/non-administrative user is unable to o",
-      "published": "2026-08-15T10:47:44+00:00"
+      "title": "How do you take notes from a book or paper?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vp0cjv/how_do_you_take_notes_from_a_book_or_paper/",
+      "summary": "I’ve been working in cybersecurity for about 2 years, but I feel like I’ve hit a bit of a plateau in terms of my knowledge, because during this time I haven’t felt that I’ve grown in proportion to those 2 years. To make up for that—and also because I want to grow as a professional—I was planning to start reading some technical books and papers I’ve been meaning to get to, little by little, so I can do a bit more research and delve deeper into the field related to my work and adjacent areas. I us",
+      "published": "2026-08-15T11:24:16+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "Is \"assume the attacker has admin, make the files immutable\" a useful ransomware defense, or does backup already cover this?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1voz076/is_assume_the_attacker_has_admin_make_the_files/",
-      "summary": "I've been building a kernel-level filter driver that enforces WORM semantics on a mapped drive — existing files can't be modified or deleted regardless of the caller's privilege level. No detection, no signatures. The premise is that detection has already failed and the attacker has local admin, which is the state most real ransomware reaches before it encrypts anything. Tested against a live AvosLocker sample in an isolated VM with no AV: files outside the protected drive were encrypted, files ",
-      "published": "2026-08-15T10:07:56+00:00"
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vp009b/sap_commerce_cloud_cve202658231_targeted_in/",
+      "summary": "submitted by /u/Altruistic_Hope_2559 [link] [comments]",
+      "published": "2026-08-15T11:05:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Got rejected by crowdstrike",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vozyku/got_rejected_by_crowdstrike/",
+      "summary": "Hi, So I applied for a role at crowdstrike for a senior analyst position, which is a demotion but since it was remote and in an area I love, I thought I’d enjoy it and thought I’d apply. It’s a specialism in an area that I do active research in and have done for 8 years or so. I got a rejection from workday this morning. Granted I’m in the UK and it’s a Saturday and the hiring manager is also in the UK so I got rejected by the ATS. It’s not a stretch role and there were no experience requirement",
+      "published": "2026-08-15T11:03:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Astronomers Discover a New Kind of Cosmic Object: a Black Hole 'Star'",
+      "url": "https://science.slashdot.org/story/26/08/14/2224234/astronomers-discover-a-new-kind-of-cosmic-object-a-black-hole-star?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Astronomers using the James Webb Space Telescope say they may have found a new class of object: a \"black hole star,\" in which a black hole is wrapped in dense gas and radiates in ways that resemble an enormous star. The Guardian reports: The international team made the breakthrough after focusing their attention on a mysterious red spot in images of the early universe captured by Nasa's James Webb space telescope. The object was lurking in the constellation of Cetus, the Whale, billions of light",
+      "published": "2026-08-15T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Studying cybersecurity",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vozqdz/studying_cybersecurity/",
+      "summary": "Hey everyone, my name is Max, I learn cybersec about six months, I'm already know about network, Linux and etc., I from Ukraine so I'm sorry for my English. I would like to find people with a new point of view, with whom I can discuss cybersecurity and perhaps even create some kind of project. People who are interested in this and plan to make money in this area - write to me! submitted by /u/Automatic-Wind-8611 [link] [comments]",
+      "published": "2026-08-15T10:50:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
       "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "summary": "13 points · 0 comments",
+      "summary": "25 points · 1 comments",
       "published": "2026-08-15T07:59:42+00:00"
     },
     {
@@ -58,14 +79,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
       "url": "https://chenxiachan.github.io/thoughtdag/",
-      "summary": "42 points · 12 comments",
+      "summary": "45 points · 12 comments",
       "published": "2026-08-15T04:42:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The other Sean Byrne doesn't exist",
       "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "summary": "170 points · 94 comments",
+      "summary": "204 points · 101 comments",
       "published": "2026-08-15T04:18:44+00:00"
     },
     {
@@ -74,13 +95,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vosjjl/soc_cti_collaboration/",
       "summary": "Hi! I am a CTI Analyst for a private company and, unfortunately, there are a lot of tensions between the manager of the CTI team and the manager of the detection & response team including SOC. This obviously cascade to our work and to the collaboration we need to have. I think our managers will never get along and are in a form of \"little war\" but if you remove them, our teams do not have anything against each other, we have good relations. The issue is that these tensions are blocking a healthy",
       "published": "2026-08-15T03:56:40+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How do you set risk score for pentest vulnerabilities which do no have CVE assigned?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vosft2/how_do_you_set_risk_score_for_pentest/",
-      "summary": "We are working on a system to be able to assign risk scores (and risk labels, e.g. low/med/high/critical) for various findings during the penetration tests. The idea is to use CVSS, CISA KEV and EPSS. The challenge I came across is that KEV and EPSS are mostly designed to get insight into likelihood of exploitation of CVEs, however in practice very often a security finding does not have CVE assigned. Often its a misconfiguration of sorts, so how do you normally handle those types of findings? Do",
-      "published": "2026-08-15T03:51:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -93,15 +107,8 @@
       "source": "HACKER NEWS",
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "summary": "198 points · 48 comments",
+      "summary": "200 points · 48 comments",
       "published": "2026-08-15T01:14:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Simplifying and Refactoring Introductory Calculus (2018)",
-      "url": "https://arxiv.org/abs/1811.03459",
-      "summary": "94 points · 47 comments",
-      "published": "2026-08-15T00:15:23+00:00"
     },
     {
       "source": "OSINT",
@@ -121,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
-      "summary": "164 points · 40 comments",
+      "summary": "166 points · 45 comments",
       "published": "2026-08-14T22:15:12+00:00"
     },
     {
@@ -142,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "351 points · 158 comments",
+      "summary": "355 points · 159 comments",
       "published": "2026-08-14T20:52:44+00:00"
     },
     {
@@ -156,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "1082 points · 401 comments",
+      "summary": "1128 points · 416 comments",
       "published": "2026-08-14T19:03:20+00:00"
     },
     {
@@ -202,13 +209,6 @@
       "published": "2026-08-14T17:28:39+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "SOC L1 responsibilities",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vod9td/soc_l1_responsibilities/",
-      "summary": "Hi there! A month ago, I got a job as an SOC L1 analyst. Along with my main duties, like monitoring and triage, I have an extra task. I need to talk to different departments and collect details about 1,300 servers. I also get small tasks that take one to two hours to finish. Am I working too much, or is this normal for a beginner? This is my first job, so I do not know what is usual. Please help me and share your feedback. Thank you! submitted by /u/ooo_bnal [link] [comments]",
-      "published": "2026-08-14T17:13:51+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Trump Slaps a 100% Tariff On Heavy and 'Sensitive' Drones",
       "url": "https://yro.slashdot.org/story/26/08/14/0952221/trump-slaps-a-100-tariff-on-heavy-and-sensitive-drones?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -226,14 +226,14 @@
       "source": "HACKER NEWS",
       "title": "Maximizing the value of your Claude Code sessions",
       "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "summary": "234 points · 128 comments",
+      "summary": "238 points · 131 comments",
       "published": "2026-08-14T16:15:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "301 points · 126 comments",
+      "summary": "303 points · 128 comments",
       "published": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -247,14 +247,14 @@
       "source": "HACKER NEWS",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
-      "summary": "311 points · 23 comments",
+      "summary": "315 points · 23 comments",
       "published": "2026-08-14T15:58:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "402 points · 244 comments",
+      "summary": "409 points · 248 comments",
       "published": "2026-08-14T15:43:10+00:00"
     },
     {
@@ -275,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "1156 points · 700 comments",
+      "summary": "1175 points · 705 comments",
       "published": "2026-08-14T15:00:00+00:00"
     },
     {
@@ -305,13 +305,6 @@
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
       "published": "2026-08-14T11:24:35+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Three Supermassive Black Holes Discovered In a Single Galaxy For the First Time",
-      "url": "https://science.slashdot.org/story/26/08/14/0931237/three-supermassive-black-holes-discovered-in-a-single-galaxy-for-the-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Astronomers using JWST have found three actively feeding supermassive black holes in the distant galaxy J0148-4214, seen as it existed about 1.2 billion years after the Big Bang. Two sit just 620 light-years apart near the galaxy's center and are expected to merge within a few hundred million years. Phys.org reports: Theories of galaxy evolution -- based on observations -- suggest that, early in the history of the universe, galaxies came very close to one another and merged. In the process, blac",
-      "published": "2026-08-14T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -366,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "Coin-sized device can hack a Boeing 737",
       "url": "https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/",
-      "summary": "81 points · 53 comments",
+      "summary": "90 points · 60 comments",
       "published": "2026-08-13T07:57:40+00:00"
     },
     {
@@ -380,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
       "url": "https://silentshark.app/",
-      "summary": "30 points · 11 comments",
+      "summary": "35 points · 14 comments",
       "published": "2026-08-12T19:37:12+00:00"
     },
     {
@@ -401,14 +394,14 @@
       "source": "HACKER NEWS",
       "title": "Understanding WCAG 2.2 as ePub and PDF",
       "url": "https://doeken.org/wcag-ebook",
-      "summary": "18 points · 2 comments",
+      "summary": "22 points · 2 comments",
       "published": "2026-08-12T12:36:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "In 1962, Egypt's Missile Program Lost Its Key Scientist Without a Trace",
       "url": "https://www.popularmechanics.com/military/a73358518/nazi-rocket-scientist-disappearance/",
-      "summary": "46 points · 16 comments",
+      "summary": "49 points · 24 comments",
       "published": "2026-08-12T12:31:16+00:00"
     },
     {
@@ -485,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Eigendrum - Draw any shape and hear what it sounds like as a drum",
       "url": "https://baselashraf81.github.io/eigendrum/",
-      "summary": "17 points · 4 comments",
+      "summary": "26 points · 5 comments",
       "published": "2026-08-10T16:53:31+00:00"
     },
     {
@@ -494,6 +487,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vk5bl4/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-10T00:00:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The mathematical beauty of hyperbezier curves",
+      "url": "https://linebender.org/blog/hyperbezier/",
+      "summary": "18 points · 0 comments",
+      "published": "2026-08-09T23:09:04+00:00"
     },
     {
       "source": "OSINT",
