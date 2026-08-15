@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T03:45:56.266061+00:00",
+  "updated": "2026-08-15T04:38:24.977549+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,20 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "SOC & CTI collaboration",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vosjjl/soc_cti_collaboration/",
+      "summary": "Hi! I am a CTI Analyst for a private company and, unfortunately, there are a lot of tensions between the manager of the CTI team and the manager of the detection & response team including SOC. This obviously cascade to our work and to the collaboration we need to have. I think our managers will never get along and are in a form of \"little war\" but if you remove them, our teams do not have anything against each other, we have good relations. The issue is that these tensions are blocking a healthy",
+      "published": "2026-08-15T03:56:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you set risk score for pentest vulnerabilities which do no have CVE assigned?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vosft2/how_do_you_set_risk_score_for_pentest/",
+      "summary": "We are working on a system to be able to assign risk scores (and risk labels, e.g. low/med/high/critical) for various findings during the penetration tests. The idea is to use CVSS, CISA KEV and EPSS. The challenge I came across is that KEV and EPSS are mostly designed to get insight into likelihood of exploitation of CVEs, however in practice very often a security finding does not have CVE assigned. Often its a misconfiguration of sorts, so how do you normally handle those types of findings? Do",
+      "published": "2026-08-15T03:51:14+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Robots That Walk and Talk Are Coming To Car Factories",
       "url": "https://hardware.slashdot.org/story/26/08/14/215204/robots-that-walk-and-talk-are-coming-to-car-factories?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -37,42 +51,28 @@
       "source": "HACKER NEWS",
       "title": "AI Driven Testing",
       "url": "https://app.deltix.ai",
-      "summary": "3 points · 1 comments",
+      "summary": "11 points · 4 comments",
       "published": "2026-08-15T02:42:14+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Automation/Manual QA Engineer looking to move into Cybersecurity — Cloud Security vs AI Security vs AppSec?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1voqlqn/automationmanual_qa_engineer_looking_to_move_into/",
-      "summary": "Hi everyone, I’m currently working as an Automation/Manual Testing Engineer with 4+ years of experience in QA/testing, and I’m looking to transition into cybersecurity. The three areas I’m particularly interested in are: Cloud Security AI Security Application Security (AppSec) I’m trying to figure out which path would be the best fit for my existing QA/automation background and also provide good long-term career growth. I’d really appreciate advice from people currently working in these fields. ",
-      "published": "2026-08-15T02:19:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-      "summary": "110 points · 20 comments",
+      "summary": "139 points · 27 comments",
       "published": "2026-08-15T01:14:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Ploopy A+ Trackball Is Here",
       "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-      "summary": "46 points · 29 comments",
+      "summary": "56 points · 30 comments",
       "published": "2026-08-15T00:55:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "NSA and IETF, Part 9",
-      "url": "https://blog.cr.yp.to/20260814-update.html",
-      "summary": "29 points · 12 comments",
-      "published": "2026-08-15T00:54:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Simplifying and Refactoring Introductory Calculus",
       "url": "https://arxiv.org/abs/1811.03459",
-      "summary": "44 points · 10 comments",
+      "summary": "58 points · 15 comments",
       "published": "2026-08-15T00:15:23+00:00"
     },
     {
@@ -93,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "eigendrum",
       "url": "https://eigendrum.com/#p=circle",
-      "summary": "61 points · 15 comments",
+      "summary": "76 points · 15 comments",
       "published": "2026-08-14T22:15:12+00:00"
     },
     {
@@ -114,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Going Dark, and the era of law enforcement hacking",
       "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "summary": "238 points · 128 comments",
+      "summary": "252 points · 129 comments",
       "published": "2026-08-14T20:52:44+00:00"
     },
     {
@@ -135,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Firefox is now the last major browser that still supports uBlock Origin",
       "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
-      "summary": "549 points · 204 comments",
+      "summary": "610 points · 225 comments",
       "published": "2026-08-14T19:03:20+00:00"
     },
     {
@@ -205,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "RustDesk now supports true unattended remote access on Wayland",
       "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
-      "summary": "238 points · 103 comments",
+      "summary": "247 points · 105 comments",
       "published": "2026-08-14T16:12:52+00:00"
     },
     {
@@ -219,14 +219,14 @@
       "source": "HACKER NEWS",
       "title": "AI by Hand",
       "url": "https://www.byhand.ai/",
-      "summary": "226 points · 19 comments",
+      "summary": "235 points · 19 comments",
       "published": "2026-08-14T15:58:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google is making private AI practical with homomorphic encryption",
       "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "summary": "303 points · 180 comments",
+      "summary": "319 points · 188 comments",
       "published": "2026-08-14T15:43:10+00:00"
     },
     {
@@ -240,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Introducing Toast 1",
       "url": "https://www.mixedbread.com/blog/toast-1",
-      "summary": "187 points · 59 comments",
+      "summary": "189 points · 59 comments",
       "published": "2026-08-14T15:07:57+00:00"
     },
     {
@@ -254,14 +254,14 @@
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 27B",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-      "summary": "955 points · 620 comments",
+      "summary": "988 points · 638 comments",
       "published": "2026-08-14T15:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I turned my RSS feeds into an e-ink newspaper to stop reading on my phone",
       "url": "https://heyjonny.dev/posts/rss-to-eink-newspaper/",
-      "summary": "161 points · 64 comments",
+      "summary": "167 points · 65 comments",
       "published": "2026-08-14T14:21:18+00:00"
     },
     {
@@ -335,13 +335,6 @@
       "published": "2026-08-14T07:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "As Someone working in Cybersecurity are you a good coder?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vnvwzd/as_someone_working_in_cybersecurity_are_you_a/",
-      "summary": "Does someone need to be a good coder to build a career in cybersecurity? Is coding knowledge enough? Or do we need to write code on our own without using AI? submitted by /u/CamelBetter7155 [link] [comments]",
-      "published": "2026-08-14T03:22:25+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
       "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
@@ -380,14 +373,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: A website for exploring historical photographs of my city",
       "url": "https://yesterdays.maprva.org/",
-      "summary": "6 points · 3 comments",
+      "summary": "10 points · 5 comments",
       "published": "2026-08-12T14:53:02+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Unearthing a 31 year old Easter egg in Ecco the Dolphin",
       "url": "https://32bits.substack.com/p/under-the-microscope-ecco-the-dolphin-98c",
-      "summary": "41 points · 11 comments",
+      "summary": "52 points · 14 comments",
       "published": "2026-08-12T14:19:05+00:00"
     },
     {
@@ -471,8 +464,15 @@
       "source": "HACKER NEWS",
       "title": "Hi-Fi Tape Recorder Changed Radio Forever",
       "url": "https://spectrum.ieee.org/magnetophon-laugh-track",
-      "summary": "23 points · 1 comments",
+      "summary": "28 points · 1 comments",
       "published": "2026-08-11T19:23:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I close SSH port 22 (and what I use instead)",
+      "url": "https://www.michelebologna.net/2026/ssh-port-22-fwknop-single-packet-authorization/",
+      "summary": "5 points · 1 comments",
+      "published": "2026-08-10T19:19:03+00:00"
     },
     {
       "source": "REDDIT",
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Super Mario Derivations",
       "url": "https://fzakaria.com/2026/08/05/super-mario-derivations",
-      "summary": "69 points · 11 comments",
+      "summary": "80 points · 14 comments",
       "published": "2026-08-07T20:16:10+00:00"
     },
     {
