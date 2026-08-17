@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:43:16.192957+00:00",
+  "updated": "2026-08-17T11:31:58.430347+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,6 +28,27 @@
   "items": [
     {
       "source": "OSINT",
+      "title": "Philips and GE investigating Clop ransomware data theft claims",
+      "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+      "published": "2026-08-17T11:25:02+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "From GRC to OT Security (Management) - What now?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vqpicg/from_grc_to_ot_security_management_what_now/",
+      "summary": "Hello guys, I was working as an IT Auditor (GITCs, automated controll) and a Cybersecurity Strategy Consultant (NIS2, ISO 27001, Zero Trust ...) at a big4. My work was mostly strategic, which means powerpoint and a lot of BS. Thats why I switched to Industry and landed a job as Cybersecurity Professional at mayor tech company. But its more like OT Security Management. What I do: mapping Assets against some ISO Controlls and documenting the gaps. reading our group wide (sensitive) area security w",
+      "published": "2026-08-17T11:20:27+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Six major security incidents traced from the initial Litellm and Trivy pipeline compromises all the way to ransomware/breaches",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vqoshl/six_major_security_incidents_traced_from_the/",
+      "summary": "deep dive into the high profile organizations compromised in this campaign and detail the exact secrets, tokens, and configurations that likely fueled downstream extortion by groups like Vect ransomware (TeamPCP). Companies breached include Mercor, Cisco, S&P Global, Telnyx, Telnyx, and the European Commission submitted by /u/Malwarebeasts [link] [comments]",
+      "published": "2026-08-17T10:43:48+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "French tax authority data breach affects 678,000 individuals",
       "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
       "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
@@ -41,11 +62,11 @@
       "published": "2026-08-17T09:58:06+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "DoD Cyber Analyst Panel Interview - What to Expect?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vqn6gc/dod_cyber_analyst_panel_interview_what_to_expect/",
-      "summary": "Hi so I had a phone screening, then a 2nd round (1 hour) with the hiring manager/team lead. 2nd round was mostly technical and talking about my projects/past experience. He seemed to really like me and was impressed with my answers/background, and told me during the interview that I’d be moving on to the panel with his team. Do we think it seems like the vibe for the panel will be mostly behavioral and seeing how I mesh with his team? Or more technical leaning again? This will be my first panel ",
-      "published": "2026-08-17T09:12:32+00:00"
+      "source": "OSINT",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
+      "published": "2026-08-17T09:29:55+00:00"
     },
     {
       "source": "OSINT",
@@ -63,17 +84,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "url": "https://duti.dev/blog/2026/spr/",
-      "summary": "48 points · 39 comments",
-      "published": "2026-08-17T07:28:43+00:00"
+      "title": "Show HN: Desktopcolors.com – A museum for solid background colors of classic OS",
+      "url": "https://desktopcolors.com",
+      "summary": "15 points · 3 comments",
+      "published": "2026-08-17T07:51:22+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Advice on secure surfing",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vqksd0/advice_on_secure_surfing/",
-      "summary": "Is there actually anyway to surf the internet securely and anonymously without leaving any trace or making it practically non-viable for any individual or spyware to trace my activity back to me? I don't have much knowledge of cybersec, but I do understand basics of networks. I'm asking this out of curiosity for cyber-sec and would appreciate any insight the community has to offer. submitted by /u/kalki3112 [link] [comments]",
-      "published": "2026-08-17T06:49:48+00:00"
+      "source": "OSINT",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
+      "published": "2026-08-17T07:36:19+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -86,15 +107,8 @@
       "source": "HACKER NEWS",
       "title": "Linear algebra done right",
       "url": "https://linear.axler.net/",
-      "summary": "89 points · 36 comments",
+      "summary": "100 points · 42 comments",
       "published": "2026-08-17T05:21:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GIMP Development Update",
-      "url": "https://www.gimp.org/news/2026/08/16/dev-update-august-2026/",
-      "summary": "182 points · 131 comments",
-      "published": "2026-08-17T03:08:47+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -114,22 +128,29 @@
       "source": "HACKER NEWS",
       "title": "On A.I. regulation and messaging",
       "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "summary": "66 points · 117 comments",
+      "summary": "90 points · 166 comments",
       "published": "2026-08-17T01:59:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
       "url": "https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64",
-      "summary": "89 points · 10 comments",
+      "summary": "95 points · 12 comments",
       "published": "2026-08-17T01:45:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rhombus 1.1 is now available",
       "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
-      "summary": "87 points · 28 comments",
+      "summary": "93 points · 28 comments",
       "published": "2026-08-17T00:48:21+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Applying a photosynthetic process to treat “dry eye”",
+      "url": "https://www.science.org/content/blog-post/taking-tip-plants-eyes",
+      "summary": "50 points · 17 comments",
+      "published": "2026-08-17T00:35:29+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -149,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Reticulum – Decentralized Mesh Network",
       "url": "https://reticulum.network/",
-      "summary": "133 points · 41 comments",
+      "summary": "142 points · 43 comments",
       "published": "2026-08-16T23:59:10+00:00"
     },
     {
@@ -163,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "summary": "510 points · 238 comments",
+      "summary": "541 points · 259 comments",
       "published": "2026-08-16T23:45:09+00:00"
     },
     {
@@ -184,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
       "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "summary": "294 points · 292 comments",
+      "summary": "338 points · 330 comments",
       "published": "2026-08-16T21:53:43+00:00"
     },
     {
@@ -226,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "A third world engineer responds to “RISC-V: They should have known better”",
       "url": "https://rvembedded.com/blog_post/12/",
-      "summary": "522 points · 270 comments",
+      "summary": "533 points · 277 comments",
       "published": "2026-08-16T17:01:07+00:00"
     },
     {
@@ -275,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Claude: System Prompts",
       "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-      "summary": "669 points · 256 comments",
+      "summary": "677 points · 261 comments",
       "published": "2026-08-16T12:48:21+00:00"
     },
     {
@@ -315,10 +336,38 @@
     },
     {
       "source": "OSINT",
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication client and submit",
+      "published": "2026-08-15T08:38:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "url": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
+      "published": "2026-08-15T07:24:04+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
       "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
       "published": "2026-08-14T23:24:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Mysterious Syndrome Destroying Endurance Athletes",
+      "url": "https://www.outsideonline.com/health/training-performance/running-empty/",
+      "summary": "15 points · 8 comments",
+      "published": "2026-08-14T19:18:34+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and is then snapped up by another party. During the first half of 2026, 50,400",
+      "published": "2026-08-14T18:48:46+00:00"
     },
     {
       "source": "OSINT",
@@ -326,6 +375,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
       "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
       "published": "2026-08-14T18:04:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "IAM Compliance Requirements and Best Practices",
+      "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+      "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic access reviews toward continuous, evidence-backed verification that auditors can",
+      "published": "2026-08-14T17:19:49+00:00"
     },
     {
       "source": "OSINT",
@@ -338,7 +394,7 @@
       "source": "HACKER NEWS",
       "title": "Design 3D-printable parts by talking",
       "url": "https://nurb.dev/",
-      "summary": "22 points · 12 comments",
+      "summary": "26 points · 12 comments",
       "published": "2026-08-14T14:09:32+00:00"
     },
     {
@@ -350,10 +406,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-      "published": "2026-08-14T13:45:18+00:00"
+      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+      "url": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+      "summary": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, files, registry objects, and command-and-control (C2) network information. Russian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mongolia, Pakistan,",
+      "published": "2026-08-14T13:08:56+00:00"
     },
     {
       "source": "OSINT",
@@ -363,109 +419,74 @@
       "published": "2026-08-14T11:24:35+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+      "url": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+      "summary": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions. The technique assumes that an operator already has code execution on the Windows host and does not involve",
+      "published": "2026-08-14T11:07:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CTM360 Uncovers Over 3,000 Recruitment Phishing URLs Using Browser-in-the-Browser (BitB) Credential Traps",
+      "url": "https://thehackernews.com/2026/08/ctm360-uncovers-over-3000-recruitment.html",
+      "summary": "Cybersecurity researchers have uncovered a large-scale, global recruitment-themed phishing campaign that uses fake interview scheduling pages and Browser-in-the-Browser (BitB) windows to steal Google and Facebook credentials and, in more advanced cases, relay multi-factor authentication (MFA) prompts in real time. CTM360, which detailed the activity in a new report titled RecruitTrap, said it",
+      "published": "2026-08-14T10:57:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
+      "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
+      "summary": "Apple on Thursday sent a fresh batch of notifications to customers whom it suspects may have been targeted by mercenary spyware attacks. In a statement shared with TechCrunch, the iPhone maker said it alerted an unspecified number of users targeted in 110 countries and that it has notified customers in over 150 countries to date. Apple began sending threat notifications to users in late 2021.",
+      "published": "2026-08-14T10:44:34+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "The continuing \"Q collar\" scandal",
       "url": "https://statmodeling.stat.columbia.edu/2026/08/13/we-should-probably-be-doing-more-coverage-of-science-adjacent-medical-scams-like-the-q-collar-and-less-on-repulsively-self-promoting-but-ultimately-less-harmful-academic-grifters/",
-      "summary": "13 points · 1 comments",
+      "summary": "28 points · 12 comments",
       "published": "2026-08-14T09:39:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
+      "url": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
+      "summary": "A new White House memo signed by U.S. President Donald Trump has instructed the National Coordination Center (NCC) to establish a program that would allow private sector companies to take advantage of their \"innovative capabilities\" to break into foreign Transnational Criminal Organizations (TCOs) and disrupt them. \"By partnering with vetted United States companies subject to the direction and",
+      "published": "2026-08-14T09:38:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "China-Linked Jewelbug Uses XG-Web for Government Espionage and Crypto Fraud",
+      "url": "https://thehackernews.com/2026/08/china-linked-jewelbug-uses-xg-web-for.html",
+      "summary": "The China-linked threat actor known as Jewelbug has been observed carrying out cyber espionage operations targeting governments and militaries, while simultaneously engaging in cryptocurrency fraud. \"Both missions are administered from a single control panel, XG-Web, a browser-centric remote-access and information-stealing framework that turns a victim's browser into a full remote-control",
+      "published": "2026-08-14T07:54:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How do I permanently disable random Google Photos popup to backup photos? (2024)",
       "url": "https://support.google.com/photos/thread/256212140/how-do-i-permanently-disable-google-photos-pop-up-prompt-to-backup-my-photos-i?hl=en",
-      "summary": "126 points · 81 comments",
+      "summary": "140 points · 88 comments",
       "published": "2026-08-13T19:07:34+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Gakutensoku",
       "url": "https://en.wikipedia.org/wiki/Gakutensoku",
-      "summary": "34 points · 3 comments",
+      "summary": "36 points · 3 comments",
       "published": "2026-08-13T16:32:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
       "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
-      "summary": "120 points · 50 comments",
+      "summary": "125 points · 53 comments",
       "published": "2026-08-13T12:44:05+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates. \"The authentication",
-      "published": "2026-08-13T06:09:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
-      "published": "2026-08-12T17:39:27+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "url": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
-      "published": "2026-08-12T14:09:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "url": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
-      "published": "2026-08-12T11:47:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "url": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
-      "published": "2026-08-12T11:41:34+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "url": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
-      "published": "2026-08-12T11:13:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
-      "published": "2026-08-12T09:01:54+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "url": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
-      "published": "2026-08-12T08:04:52+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html",
-      "summary": "SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution. The vulnerability, assigned the CVE identifier CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It has been described as a case of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an",
-      "published": "2026-08-12T07:31:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet. RoguePlanet has been described",
-      "published": "2026-08-12T06:41:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "url": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
-      "published": "2026-08-12T06:15:58+00:00"
+      "source": "HACKER NEWS",
+      "title": "Production-ready detection and response queries for osquery",
+      "url": "https://github.com/chainguard-dev/osquery-defense-kit",
+      "summary": "7 points · 0 comments",
+      "published": "2026-08-13T02:32:01+00:00"
     },
     {
       "source": "OSINT",
@@ -473,27 +494,6 @@
       "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
       "published": "2026-08-11T21:28:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "url": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
-      "published": "2026-08-11T20:10:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Low-Tech Ceramic Water Filter",
-      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
-      "summary": "189 points · 54 comments",
-      "published": "2026-08-11T15:36:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Vocal Slice – Cut audio by selecting text, fully on-device",
-      "url": "https://vocalslice.com/",
-      "summary": "46 points · 30 comments",
-      "published": "2026-08-10T15:32:03+00:00"
     },
     {
       "source": "OSINT",
