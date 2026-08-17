@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:56:31.315273+00:00",
+  "updated": "2026-08-17T21:31:36.693099+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,18 +27,32 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4. Released on",
+      "published": "2026-08-17T21:03:04+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Judge Sets Framework For Nine PBS to Retrieve 70 Years of Archival TV Data",
+      "url": "https://hardware.slashdot.org/story/26/08/17/1919201/judge-sets-framework-for-nine-pbs-to-retrieve-70-years-of-archival-tv-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "District Court Judge Eric Elliff has ordered Iron Mountain to cooperate with Nine PBS in recovering roughly 50TB of archival material stored through now-defunct vendor OSS. \"He found that the station is the rightful owner of the materials and entitled to recover them from OSS' storage systems,\" reports Current.org. Nine PBS must identify a third party to help retrieve the files, pay outstanding storage fees, and ensure that data belonging to other OSS customers isn't disturbed or accidentally re",
+      "published": "2026-08-17T21:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Origin of Consciousness (2008)",
+      "url": "https://blog.plover.com/brain/Jaynes.html",
+      "summary": "16 points · 3 comments",
+      "published": "2026-08-17T20:12:58+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Meta Faces $1.4 Trillion Reckoning In Latest Trial Over Social Media Addiction",
       "url": "https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Meta is heading to trial in a case brought by dozens of states accusing it of deliberately designing addictive features, misleading users about safety, and illegally collecting data from children under 13. Meta says the states are seeking penalties as high as $1.4 trillion, though the judge has already called that figure \"unreasonable.\" The case could, however, influence thousands of similar lawsuits against the company. Engadget reports: The trial kicks off Tuesday in federal court in Oakland, ",
       "published": "2026-08-17T20:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Will you have spent more of your life with computers than your family?",
-      "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
-      "summary": "50 points · 39 comments",
-      "published": "2026-08-17T19:56:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -51,7 +65,7 @@
       "source": "HACKER NEWS",
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "summary": "240 points · 137 comments",
+      "summary": "319 points · 187 comments",
       "published": "2026-08-17T19:47:15+00:00"
     },
     {
@@ -65,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "India has paved the way for charging merchants a fee on UPI transactions",
       "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-      "summary": "40 points · 21 comments",
+      "summary": "59 points · 41 comments",
       "published": "2026-08-17T19:25:11+00:00"
     },
     {
@@ -100,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
       "url": "https://blog.roboflow.com/roboflow-playground/",
-      "summary": "21 points · 2 comments",
+      "summary": "26 points · 2 comments",
       "published": "2026-08-17T18:28:07+00:00"
     },
     {
@@ -112,16 +126,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "We Are Forking dotenvy into dotenv-ng",
-      "url": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-      "summary": "26 points · 23 comments",
-      "published": "2026-08-17T17:55:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "summary": "77 points · 16 comments",
+      "summary": "96 points · 20 comments",
       "published": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -139,18 +146,18 @@
       "published": "2026-08-17T17:41:06+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Qwen3.8 27B scores 52 on Artificial Analysis",
-      "url": "https://artificialanalysis.ai/models/qwen3-8-27b",
-      "summary": "217 points · 104 comments",
-      "published": "2026-08-17T17:25:17+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "High-level non-management positions",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqykrj/highlevel_nonmanagement_positions/",
       "summary": "I'm currently a sr. cybersecurity engineer and trying to better plan out the next few years of my career. I don't really like being a manager, so that takes CISO off the table. Is principal or staff engineering my best bet? I like turning the wrenches, so to speak, so I'd rather still have at least some hands-on capacity. What are you guys doing? submitted by /u/DrSugundi [link] [comments]",
       "published": "2026-08-17T17:21:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An update on leaving Gmail for Fastmail",
+      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
+      "summary": "46 points · 24 comments",
+      "published": "2026-08-17T17:15:20+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -163,14 +170,14 @@
       "source": "HACKER NEWS",
       "title": "Sun Clock",
       "url": "https://sunclock.net/",
-      "summary": "105 points · 38 comments",
+      "summary": "128 points · 41 comments",
       "published": "2026-08-17T16:37:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Judge sets framework for Nine PBS to retrieve archival data",
       "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "summary": "77 points · 31 comments",
+      "summary": "85 points · 38 comments",
       "published": "2026-08-17T16:11:37+00:00"
     },
     {
@@ -184,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
       "url": "https://speko.ai/",
-      "summary": "78 points · 48 comments",
+      "summary": "79 points · 49 comments",
       "published": "2026-08-17T15:36:18+00:00"
     },
     {
@@ -219,14 +226,14 @@
       "source": "HACKER NEWS",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "263 points · 112 comments",
+      "summary": "274 points · 113 comments",
       "published": "2026-08-17T14:18:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
-      "summary": "197 points · 100 comments",
+      "summary": "206 points · 112 comments",
       "published": "2026-08-17T14:07:56+00:00"
     },
     {
@@ -240,21 +247,21 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: Alternatives to GitHub",
       "url": "https://news.ycombinator.com/item?id=49331033",
-      "summary": "415 points · 267 comments",
+      "summary": "430 points · 275 comments",
       "published": "2026-08-17T13:59:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "447 points · 72 comments",
+      "summary": "464 points · 77 comments",
       "published": "2026-08-17T13:46:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Incident with Github.com",
       "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "summary": "414 points · 810 comments",
+      "summary": "431 points · 824 comments",
       "published": "2026-08-17T13:35:06+00:00"
     },
     {
@@ -275,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "summary": "264 points · 138 comments",
+      "summary": "275 points · 140 comments",
       "published": "2026-08-17T12:09:42+00:00"
     },
     {
@@ -377,13 +384,6 @@
       "published": "2026-08-17T02:04:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Linux Kernel 7.2 Has Been Officially Released with Many New Features",
-      "url": "https://linux.slashdot.org/story/26/08/16/2349224/linux-kernel-72-has-been-officially-released-with-many-new-features?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Linux Kernel 7.2 has just been officially released with a slew of new features, reports the blog 9to5Linux. Highlights of Linux 7.2 \"include cache-aware load-balancing support, initial HDMI 2.1 FRL support to the AMDGPU driver, support for devres-based management of ACPI notify handlers, initial CRI platform support for the Intel Xe driver, and Rust support for the IBM System/390 (S/390) architecture.\" Linux kernel 7.2 also introduces a \"Fair(er)\" GPU scheduler, support for the 'zerocopy' librar",
-      "published": "2026-08-17T00:03:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqco4n/mentorship_monday_post_all_career_education_and/",
@@ -455,13 +455,6 @@
     },
     {
       "source": "OSINT",
-      "title": "IAM Compliance Requirements and Best Practices",
-      "url": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-      "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic access reviews toward continuous, evidence-backed verification that auditors can",
-      "published": "2026-08-14T17:19:49+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Who’s Tracking You? Use This New Service to Find Out",
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
@@ -469,16 +462,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "A simple fix for LLM tail latency",
+      "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-14T05:58:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Marketers are Addicted to Bad Data (2020)",
       "url": "https://www.jacquescorbytuech.com/writing/marketers-addicted-bad-data",
-      "summary": "22 points · 19 comments",
+      "summary": "27 points · 31 comments",
       "published": "2026-08-13T16:47:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "summary": "207 points · 49 comments",
+      "summary": "229 points · 53 comments",
       "published": "2026-08-12T10:26:14+00:00"
     },
     {
