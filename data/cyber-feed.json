@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T22:30:21.814626+00:00",
-  "item_count": 63,
+  "updated": "2026-08-18T22:53:07.431544+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,11 +13,6 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
-    },
-    {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -33,38 +28,45 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "summary": "18 points · 3 comments",
-      "published": "2026-08-18T21:50:33+00:00"
+      "title": "fx :Tiny, open, native coding agent.",
+      "url": "https://fx.sh",
+      "summary": "14 points · 2 comments",
+      "published": "2026-08-18T22:00:21+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Comcast Is Turning Millions of Its Routers Into Motion Detectors",
+      "url": "https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Comcast is activating Wi-Fi motion sensing on millions of compatible Xfinity gateways, allowing the routers to detect movement by measuring disruptions in signals between the gateway and connected devices. The free feature, part of Xfinity Shield, can send activity alerts through the Xfinity app and offers Home, Away, and nighttime monitoring modes without requiring separate motion sensors. The Verge reports: Wi-Fi motion sensing is a technology that has been around for a while, but it's only re",
+      "published": "2026-08-18T22:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Flock impersonates journalist in order to cancel his hotel reservations",
-      "url": "https://xcancel.com/bennjordan/status/2089430236945342508",
-      "summary": "41 points · 15 comments",
-      "published": "2026-08-18T21:48:12+00:00"
+      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "summary": "26 points · 5 comments",
+      "published": "2026-08-18T21:50:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
       "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
-      "summary": "63 points · 35 comments",
+      "summary": "75 points · 44 comments",
       "published": "2026-08-18T21:14:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Companies promote incompetent employees to management tolimit damage they can do",
       "url": "https://lawsofsoftwareengineering.com/laws/dilbert-principle/",
-      "summary": "32 points · 25 comments",
+      "summary": "40 points · 34 comments",
       "published": "2026-08-18T21:13:30+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Find Chicago Parking Cops",
-      "url": "https://www.secondcitycitation.com",
-      "summary": "9 points · 6 comments",
-      "published": "2026-08-18T21:08:40+00:00"
+      "source": "SLASHDOT",
+      "title": "Disney, ABC Sue FCC Over Threats to Broadcast Licenses",
+      "url": "https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Disney and ABC are suing the FCC to block an early review of eight station licenses, arguing the Trump administration is using the agency's regulatory power to punish the network over programming and editorial decisions it dislikes. Reuters reports: In a lawsuit (PDF) filed in U.S. District Court in Washington, Disney said the FCC was seeking to coerce and retaliate against \"a network that refuses to bow to the administration's demands,\" calling the agency's actions an \"extraordinary assault on ",
+      "published": "2026-08-18T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -81,6 +83,13 @@
       "published": "2026-08-18T20:10:40+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Memory Prices Climb 500% In 12 Months",
+      "url": "https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "RAM prices have exploded over the past year, with some DDR5 kits approaching 500% year-over-year increases and a 128GB kit now selling for $3,399, which is more than 10 times its previous low. Tom's Hardware reports: Things improve as you step down the memory capacities and speed tiers, but not as much as we'd like. You're still looking at $392 for a memory kit that was just $72 last year. To reinforce the point, I pulled the latest average price data from PCPartPicker, comparing where we are to",
+      "published": "2026-08-18T20:03:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "How to Stop OTP SMS Abuse When Attackers Rotate Valid Phone Numbers, Emails, and IPs?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrzfym/how_to_stop_otp_sms_abuse_when_attackers_rotate/",
@@ -89,9 +98,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "The Norwegian Government Pension Fund Global ought to purchase OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "summary": "182 points · 205 comments",
+      "published": "2026-08-18T19:30:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Beware Management Consultants",
       "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "summary": "368 points · 71 comments",
+      "summary": "385 points · 87 comments",
       "published": "2026-08-18T19:29:51+00:00"
     },
     {
@@ -102,6 +118,13 @@
       "published": "2026-08-18T19:24:44+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "You Can Finally Buy a Fairphone In the US",
+      "url": "https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Wired: Your iPhone, SamsungGalaxy, andGoogle Pixel have a 1-year warranty. Unless you cough up extra dough for an extended service plan, you'll pay a hefty fee if you damage the screen and need a replacement (around $329 for aniPhone 17done directly fromApple). But it doesn't have to be this way. What if you could order the part from the manufacturer and do the repair yourself? That dream is finally being realized for American consumers, thanks to Fairpho",
+      "published": "2026-08-18T19:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Feeling Stuck",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrxr5k/feeling_stuck/",
@@ -110,24 +133,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "summary": "52 points · 26 comments",
-      "published": "2026-08-18T18:14:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "176 points · 119 comments",
+      "summary": "180 points · 121 comments",
       "published": "2026-08-18T18:11:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "summary": "181 points · 23 comments",
+      "summary": "184 points · 23 comments",
       "published": "2026-08-18T18:07:21+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Buys All of Spirit Airlines' Data to Feed Its AI Models",
+      "url": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google has agreed to pay $10 million for a massive trove of anonymized Spirit Airlines data following the carrier's shutdown, including internal communications, spreadsheets, booking and frequent-flyer records, transactions, and employee information. CNN reports: Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google's artificial intelligence model. The discount airline halted all operations in May, and ",
+      "published": "2026-08-18T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -158,6 +181,20 @@
       "published": "2026-08-18T17:29:51+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "And then the men with guns tell you to do it anyway",
+      "url": "https://shkspr.mobi/blog/2026/08/and-then-the-men-with-guns-tell-you-to-do-it-anyway/",
+      "summary": "96 points · 48 comments",
+      "published": "2026-08-18T17:11:28+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple Lowers App Store Fees In Europe to Settle Dispute With EU",
+      "url": "https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple is overhauling its EU App Store fees to settle its Digital Markets Act dispute, simplifying the fee structure and \"[resolving] Apple's disagreements with the Commission over business terms and alternative distribution.\" Developers can sign the new terms starting today, and the changes go into effect on October 1. MacRumors reports: The initial acquisition fee and store services fee are being removed for apps distributed outside of the App Store, and Apple will now charge a 5% Core Technolo",
+      "published": "2026-08-18T17:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
       "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
@@ -170,6 +207,20 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrtuj1/is_grc_the_new_wave_in_cybersecurity/",
       "summary": "I’ve been noticing a pretty big uptick in GRC job postings lately, especially remote positions. It feels like cybersecurity always has a “wave.” First it was everyone getting Security+, then it seemed like everyone was trying to break into SOC roles, and now I’m seeing GRC everywhere. Is GRC becoming the new wave in cybersecurity? For those already working in GRC, are you seeing the field actually grow, or is it just getting more attention right now? submitted by /u/Main_Class8520 [link] [commen",
       "published": "2026-08-18T16:17:26+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft MVP Creates Site to Remind You of All the Brands Redmond Replaced",
+      "url": "https://tech.slashdot.org/story/26/08/18/0827253/microsoft-mvp-creates-site-to-remind-you-of-all-the-brands-redmond-replaced?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft MVP Loryan Strant has created the Microsoft Rebrand Registry, cataloging 72 Microsoft products and the 158 names they've had over the years. His analysis finds that Microsoft product names survive an average of two years and eleven months. The site even predicts which products are most likely to get renamed next, \"by considering the amount of time the current name has applied, prior names, and the frequency with which Microsoft changes names of products in the same family,\" reports The",
+      "published": "2026-08-18T16:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "India Paves the Way For Charging Merchants a Fee On UPI Transactions",
+      "url": "https://news.slashdot.org/story/26/08/18/0812245/india-paves-the-way-for-charging-merchants-a-fee-on-upi-transactions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from the BBC: For most Indians, paying by Unified Payments Interface (UPI) has become almost absurdly routine. Scan a QR code, tap a few buttons and the money moves instantly. There is no card machine, no cash, and -- most importantly -- for the user, no visible fee. That may be about to change. India has paved the way for banks and payment companies to charge merchants a fee on UPI transactions, potentially ending a decade-long experiment in free digital paym",
+      "published": "2026-08-18T15:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -189,14 +240,14 @@
       "source": "HACKER NEWS",
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "summary": "776 points · 478 comments",
+      "summary": "799 points · 485 comments",
       "published": "2026-08-18T13:22:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "327 points · 214 comments",
+      "summary": "331 points · 221 comments",
       "published": "2026-08-18T13:18:40+00:00"
     },
     {
@@ -217,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "summary": "370 points · 57 comments",
+      "summary": "373 points · 57 comments",
       "published": "2026-08-18T12:43:54+00:00"
     },
     {
@@ -263,6 +314,13 @@
       "published": "2026-08-18T11:14:28+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Sainsbury's Store Pauses Facial Recognition After False Shoplifting Claim",
+      "url": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Bruce66423 shares a report from The Guardian: Sainsbury's has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop. \"I was embarrassed, mortified even, and felt quite humiliated and powerless,\" Matt Arnold, 46, said of his ordeal. The comedy promoter was buying supplies in the store in East Dulwich, in south-east London, for a standup event at Dulwich Hamlet football club when, after scanning his items and a Nec",
+      "published": "2026-08-18T11:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
@@ -287,8 +345,15 @@
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "489 points · 246 comments",
+      "summary": "492 points · 256 comments",
       "published": "2026-08-18T07:51:50+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Solar Power and Batteries Have Been Keeping Europe's Grid Stable",
+      "url": "https://hardware.slashdot.org/story/26/08/18/0728240/solar-power-and-batteries-have-been-keeping-europes-grid-stable?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "AleRunner writes: \"Solar has been doing the 'heavy lifting' to help Europe meet its energy needs amid a string of blistering heatwaves,\" Euronews tells us. Meanwhile, as Europe's energy demands rise with the heat, jellyfish have been causing shutdowns and reduced power output at multiple reactors at French nuclear plants, as we already discussed. Euronews reports: A new analysis from energy think-tank Ember found that solar output in European countries rose by up to 17 percent on heatwave days i",
+      "published": "2026-08-18T07:33:00+00:00"
     },
     {
       "source": "OSINT",
@@ -303,6 +368,20 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrgqrh/is_a_masters_degree_worth_it/",
       "summary": "Is getting a masters good for cybersecurity some people are telling me that i should do it after bachelors but all the videos online are about getting certificates and im studying for eJPT and want oscp later when i can but i dont know about masters submitted by /u/AMAfogr [link] [comments]",
       "published": "2026-08-18T06:03:33+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'Buy Now, Pay Later' Lenders Pitch Loans For Needs Like Electricity and Rent",
+      "url": "https://news.slashdot.org/story/26/08/17/2254201/buy-now-pay-later-lenders-pitch-loans-for-needs-like-electricity-and-rent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The New York Times: Buy now, pay later\" loans took off during the pandemic as a way for online shoppers to go on retail splurges without using a credit card. Now, lenders are offering the loans as a means for people to finance basic households needs. The lending apps Flex and Zip allow customers to take out loans to pay for their broadband, electricity, health insurance, mobile phone service, mortgage and water bills. Affirm, one of the most popular pay-l",
+      "published": "2026-08-18T03:30:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Supreme Court Rejects Verizon Bid For $47 Million Refund of FCC Fine",
+      "url": "https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: The Supreme Court today rejected Verizon's attempt to get a $47 million refund from the Federal Communications Commission. In a list of orders (PDF) issued by the court, Verizon's petition was denied without explanation. The denial apparently ends any possibility of Verizon asking a lower court to review the fine and order the FCC to issue a refund. However, AT&T and T-Mobile are continuing to challenge similar fines on grounds that selling ",
+      "published": "2026-08-17T23:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -341,16 +420,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Memory prices climb 500% in 12 months",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "summary": "404 points · 315 comments",
-      "published": "2026-08-17T17:52:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Cursor launches Origin, GitHub alternative",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "summary": "406 points · 323 comments",
+      "summary": "415 points · 328 comments",
       "published": "2026-08-17T17:02:44+00:00"
     },
     {
@@ -383,16 +455,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Being Ambitious and Being a Dad",
+      "title": "Being ambitious and being a dad",
       "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "summary": "87 points · 32 comments",
+      "summary": "106 points · 51 comments",
       "published": "2026-08-16T16:08:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
       "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-      "summary": "36 points · 7 comments",
+      "summary": "43 points · 8 comments",
       "published": "2026-08-15T16:17:57+00:00"
     },
     {
@@ -406,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
       "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-      "summary": "51 points · 17 comments",
+      "summary": "56 points · 18 comments",
       "published": "2026-08-13T15:26:42+00:00"
     },
     {
