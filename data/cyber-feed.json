@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:56:34.368625+00:00",
+  "updated": "2026-08-18T18:48:11.326117+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,41 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "summary": "33 points · 8 comments",
+      "published": "2026-08-18T18:11:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Turbovec – Google's TurboQuant for vector search in Rust",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "summary": "29 points · 1 comments",
+      "published": "2026-08-18T18:07:21+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Buys All of Spirit Airlines' Data to Feed Its AI Models",
+      "url": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google has agreed to pay $10 million for a massive trove of anonymized Spirit Airlines data following the carrier's shutdown, including internal communications, spreadsheets, booking and frequent-flyer records, transactions, and employee information. CNN reports: Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google's artificial intelligence model. The discount airline halted all operations in May, and ",
+      "published": "2026-08-18T18:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
+      "published": "2026-08-18T17:47:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
+      "published": "2026-08-18T17:44:05+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Chinese AI Kimi Ships With a Group Chat Updater That Can Install Unverified Code",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrw5t7/chinese_ai_kimi_ships_with_a_group_chat_updater/",
@@ -42,16 +77,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "url": "https://github.com/biw/keychain-store",
+      "summary": "7 points · 0 comments",
+      "published": "2026-08-18T17:25:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "summary": "26 points · 3 comments",
+      "summary": "122 points · 107 comments",
       "published": "2026-08-18T17:24:53+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Claude Code weekly limits reduce by a third tomorrow",
+      "title": "Claude Code May–August 2026 weekly limits promotion",
       "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
-      "summary": "52 points · 20 comments",
+      "summary": "210 points · 153 comments",
       "published": "2026-08-18T17:02:15+00:00"
     },
     {
@@ -62,17 +104,24 @@
       "published": "2026-08-18T17:00:00+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
+      "published": "2026-08-18T16:58:16+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Superpowers, Not Superintelligence",
       "url": "https://bond.now/news/superpowers-not-superintelligence",
-      "summary": "11 points · 15 comments",
+      "summary": "23 points · 24 comments",
       "published": "2026-08-18T16:27:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
       "url": "https://machine0.io",
-      "summary": "19 points · 12 comments",
+      "summary": "26 points · 20 comments",
       "published": "2026-08-18T16:26:42+00:00"
     },
     {
@@ -104,13 +153,6 @@
       "published": "2026-08-18T15:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Code-native generation of highly programmable 3D assets (2026)",
-      "url": "https://arxiv.org/abs/2607.22738",
-      "summary": "28 points · 31 comments",
-      "published": "2026-08-18T14:54:44+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Why does this career have so many liars?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrqcu7/why_does_this_career_have_so_many_liars/",
@@ -125,13 +167,6 @@
       "published": "2026-08-18T14:08:31+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-      "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-      "summary": "145 points · 35 comments",
-      "published": "2026-08-18T14:06:50+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
       "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
@@ -142,21 +177,21 @@
       "source": "HACKER NEWS",
       "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
       "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "summary": "97 points · 14 comments",
+      "summary": "109 points · 16 comments",
       "published": "2026-08-18T13:38:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "summary": "503 points · 347 comments",
+      "summary": "549 points · 381 comments",
       "published": "2026-08-18T13:22:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "224 points · 138 comments",
+      "summary": "247 points · 157 comments",
       "published": "2026-08-18T13:18:40+00:00"
     },
     {
@@ -177,15 +212,8 @@
       "source": "HACKER NEWS",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "summary": "281 points · 49 comments",
+      "summary": "299 points · 52 comments",
       "published": "2026-08-18T12:43:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fairphone is now officially available in the United States",
-      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "summary": "257 points · 130 comments",
-      "published": "2026-08-18T12:42:53+00:00"
     },
     {
       "source": "OSINT",
@@ -261,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "423 points · 185 comments",
+      "summary": "439 points · 194 comments",
       "published": "2026-08-18T07:51:50+00:00"
     },
     {
@@ -363,13 +391,6 @@
       "published": "2026-08-17T18:44:17+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee",
-      "url": "https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenAI has signed a 10-year lease for an enormous Ohio data center that will eventually provide 8 gigawatts of computing capacity and require at least 10 gigawatts of new power generation. According to OpenAI, Nvidia will be supplying the chips and guaranteeing up to $105 billion in lease and power obligations. From the report: The facility -- which will be built and owned by SoftBank's SB Energy -- illustrates the immensity of the computing and power needed to fuel the growth of the AI economy.",
-      "published": "2026-08-17T18:33:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
       "url": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
@@ -380,21 +401,14 @@
       "source": "HACKER NEWS",
       "title": "Memory prices climb 500% in 12 months",
       "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "summary": "175 points · 141 comments",
+      "summary": "228 points · 171 comments",
       "published": "2026-08-17T17:52:37+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
-      "published": "2026-08-17T17:41:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cursor launches Origin, GitHub alternative",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "summary": "228 points · 172 comments",
+      "summary": "264 points · 207 comments",
       "published": "2026-08-17T17:02:44+00:00"
     },
     {
@@ -413,24 +427,10 @@
     },
     {
       "source": "OSINT",
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely. So, nothing magical. Just a",
-      "published": "2026-08-17T13:23:51+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
       "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
       "published": "2026-08-17T12:33:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
-      "published": "2026-08-17T11:58:00+00:00"
     },
     {
       "source": "OSINT",
@@ -448,17 +448,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ask HN: I've quit six systems for tracking my illness. What works?",
-      "url": "https://news.ycombinator.com/item?id=49313346",
-      "summary": "25 points · 25 comments",
-      "published": "2026-08-15T19:09:42+00:00"
+      "title": "Splitting a Git Commit",
+      "url": "https://blog.gnoack.org/post/git-history-split",
+      "summary": "83 points · 38 comments",
+      "published": "2026-08-15T13:56:31+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Splitting a Git Commit",
-      "url": "https://blog.gnoack.org/post/git-history-split",
-      "summary": "65 points · 32 comments",
-      "published": "2026-08-15T13:56:31+00:00"
+      "title": "Evolve: An incremental game about evolving a civilization",
+      "url": "https://pmotschmann.github.io/Evolve/",
+      "summary": "11 points · 4 comments",
+      "published": "2026-08-15T09:58:29+00:00"
     },
     {
       "source": "OSINT",
@@ -471,14 +471,14 @@
       "source": "HACKER NEWS",
       "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
       "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "summary": "14 points · 3 comments",
+      "summary": "31 points · 7 comments",
       "published": "2026-08-14T11:05:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Teaching my kid to code with a modern MUD",
       "url": "https://tau.dev/2026/08/07/canon",
-      "summary": "155 points · 50 comments",
+      "summary": "178 points · 50 comments",
       "published": "2026-08-12T14:07:14+00:00"
     },
     {
