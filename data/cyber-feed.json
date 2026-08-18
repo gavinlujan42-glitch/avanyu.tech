@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T12:58:03.490855+00:00",
-  "item_count": 76,
+  "updated": "2026-08-18T13:48:42.079409+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,22 +16,127 @@
     },
     {
       "source": "REDDIT",
-      "url": "https://www.reddit.com/r/technology/.rss",
+      "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
     },
     {
-      "source": "OSINT",
-      "url": "https://krebsonsecurity.com/feed/",
+      "source": "REDDIT",
+      "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "HACKER NEWS",
+      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
+      "url": "https://www.bbc.com/news/articles/c62em5lpvnjo",
+      "summary": "6 points · 2 comments",
+      "published": "2026-08-18T13:36:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
+      "url": "https://github.com/pitiflautico/neobrowser",
+      "summary": "5 points · 0 comments",
+      "published": "2026-08-18T13:25:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fixing a Bricked Framework Laptop",
+      "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
+      "summary": "7 points · 0 comments",
+      "published": "2026-08-18T13:18:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
+      "url": "https://github.com/mukundzha/avouch",
+      "summary": "5 points · 2 comments",
+      "published": "2026-08-18T13:13:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Network Engineering to Cyber Security",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrotd0/network_engineering_to_cyber_security/",
+      "summary": "hey guys , please help me out i want to start security route (bug bounty , security , hacking , ...) but i dont know where to start im a course guy its really hard and confusing for me to go around the web and learn about bugs and hacking tools i started security+ but it was fucking boring i wanted to kill myself , i know network and web concepts iv studied Network+ , CCNA , CCNP ENCORE , ENARSI , Windows Server , Linux , FrontEnd i dont need to fo through basic concepts , i want to know proper ",
+      "published": "2026-08-18T13:12:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Kent Beck: Composable Tests",
+      "url": "https://newsletter.kentbeck.com/p/composable-tests",
+      "summary": "4 points · 0 comments",
+      "published": "2026-08-18T13:08:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Deus Ex creator Warren Spector is retiring from game development",
+      "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
+      "summary": "28 points · 10 comments",
+      "published": "2026-08-18T13:06:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vron22/cisa_windows_task_host_flaw_now_exploited_by/",
+      "summary": "submitted by /u/Doug24 [link] [comments]",
+      "published": "2026-08-18T13:05:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Things That Used to Be Normal and Are Now a Luxury",
+      "url": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
+      "summary": "10 points · 2 comments",
+      "published": "2026-08-18T13:01:40+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "What certificates should I pursue?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vro5q4/what_certificates_should_i_pursue/",
       "summary": "Hi all, I was wondering if anyone could recommend me some certs to pursue or training I should take. I have been a threat hunter for 2 years after completing a 2 year graduate program. I have been doing a lot of my learning on the job and also took the CEH exam but failed. I decided not to take the CEH exam again as the exam questions were totally different to any training material I had done. I also did not enjoy dealing with EC Council but that’s besides the point. I have no other certificates",
       "published": "2026-08-18T12:45:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "summary": "66 points · 12 comments",
+      "published": "2026-08-18T12:43:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "summary": "47 points · 6 comments",
+      "published": "2026-08-18T12:42:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding",
+      "published": "2026-08-18T12:38:36+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "url": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News. \"Tasking flows through SharePoint Online file",
+      "published": "2026-08-18T12:38:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CVE-2026-6837: Root Command Injection Affecting 18 Zyxel Access Point Models with full firmware emulation guide",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrnwu3/cve20266837_root_command_injection_affecting_18/",
+      "summary": "I published my technical write-up for CVE-2026-6837, an authenticated command-injection issue in Zyxel’s certificate export functionality. The analysis is based on the WAX650S, while Zyxel’s advisory expanded the affected scope to 18 AP models. The post includes root cause, affected versions, remediation, and the reproduction environment. submitted by /u/TheReedemer69 [link] [comments]",
+      "published": "2026-08-18T12:35:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
+      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
+      "summary": "52 points · 18 comments",
+      "published": "2026-08-18T12:23:55+00:00"
     },
     {
       "source": "REDDIT",
@@ -42,24 +147,17 @@
     },
     {
       "source": "OSINT",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
-      "published": "2026-08-18T11:40:06+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
       "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
       "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
       "published": "2026-08-18T11:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
-      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-      "summary": "50 points · 12 comments",
-      "published": "2026-08-18T11:27:03+00:00"
+      "source": "OSINT",
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
+      "published": "2026-08-18T11:20:00+00:00"
     },
     {
       "source": "OSINT",
@@ -90,17 +188,10 @@
       "published": "2026-08-18T10:32:23+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April. [...]",
-      "published": "2026-08-18T10:32:16+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Google buys crashed airline Spirit's data at auction, because AI",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "summary": "202 points · 116 comments",
+      "summary": "271 points · 167 comments",
       "published": "2026-08-18T10:13:28+00:00"
     },
     {
@@ -125,17 +216,10 @@
       "published": "2026-08-18T08:12:08+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How are teams actually implementing ABAC vs. sticking with RBAC? Curious about real-world adoption.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrir2x/how_are_teams_actually_implementing_abac_vs/",
-      "summary": "Genuinely curious how much ABAC adoption is actually happening in practice versus how much airtime it gets in conference talks and vendor blogs. RBAC is still what most access-control implementations I encounter actually run: roles mapped to permissions, reasonably well understood, tooling support everywhere. ABAC gets talked about as the more \"correct\" model for anything with real complexity (dynamic attributes, context-aware policy), but I don't see nearly as many real production write-ups of ",
-      "published": "2026-08-18T07:58:33+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "275 points · 87 comments",
+      "summary": "317 points · 101 comments",
       "published": "2026-08-18T07:51:50+00:00"
     },
     {
@@ -149,14 +233,14 @@
       "source": "HACKER NEWS",
       "title": "Rethinking Database Programming",
       "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "summary": "115 points · 53 comments",
+      "summary": "133 points · 61 comments",
       "published": "2026-08-18T07:28:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Finger: Social network that never died",
       "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "summary": "48 points · 20 comments",
+      "summary": "72 points · 27 comments",
       "published": "2026-08-18T07:21:35+00:00"
     },
     {
@@ -174,39 +258,11 @@
       "published": "2026-08-18T06:03:33+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Exercise intensity modulates interorgan communication and is associated with",
-      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-      "summary": "61 points · 22 comments",
-      "published": "2026-08-18T04:51:33+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How to Explain duties way beyond title (Analyst)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrf0l5/how_to_explain_duties_way_beyond_title_analyst/",
-      "summary": "I am in a very strange situation. About 5 years ago, I started working at a Mid Sized Org (Higher Ed, \\~650 employees 7k students a year). As a Tech/Jr System Admin, even though I had prior Sys/Network admin roles, and ran a business for a long time. I quickly noticed, they had severe security issues, and by that I mean, severe. Never had a security employee, ignored all security, just never did it, never did anything about alerts, didnt even have really any alerts to do anything about, nothing ",
-      "published": "2026-08-18T04:30:54+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "'Buy Now, Pay Later' Lenders Pitch Loans For Needs Like Electricity and Rent",
       "url": "https://news.slashdot.org/story/26/08/17/2254201/buy-now-pay-later-lenders-pitch-loans-for-needs-like-electricity-and-rent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from The New York Times: Buy now, pay later\" loans took off during the pandemic as a way for online shoppers to go on retail splurges without using a credit card. Now, lenders are offering the loans as a means for people to finance basic households needs. The lending apps Flex and Zip allow customers to take out loans to pay for their broadband, electricity, health insurance, mobile phone service, mortgage and water bills. Affirm, one of the most popular pay-l",
       "published": "2026-08-18T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Benchmarkpocalypse",
-      "url": "https://danluu.com/benchpocalypse/",
-      "summary": "134 points · 39 comments",
-      "published": "2026-08-18T02:11:02+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "DeadLock ransomware: Rust-based encryptor with decentralized recovery infrastructure",
-      "url": "https://www.reddit.com/r/netsec/comments/1vr9ccc/deadlock_ransomware_rustbased_encryptor_with/",
-      "summary": "submitted by /u/Doug_Vitale [link] [comments]",
-      "published": "2026-08-18T00:06:58+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -219,22 +275,15 @@
       "source": "HACKER NEWS",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "summary": "598 points · 380 comments",
+      "summary": "614 points · 385 comments",
       "published": "2026-08-17T22:20:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "summary": "402 points · 172 comments",
+      "summary": "415 points · 177 comments",
       "published": "2026-08-17T22:06:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "summary": "245 points · 56 comments",
-      "published": "2026-08-17T22:01:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -251,13 +300,6 @@
       "published": "2026-08-17T21:29:35+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "summary": "518 points · 332 comments",
-      "published": "2026-08-17T21:03:18+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
@@ -270,13 +312,6 @@
       "url": "https://hardware.slashdot.org/story/26/08/17/1919201/judge-sets-framework-for-nine-pbs-to-retrieve-70-years-of-archival-tv-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "District Court Judge Eric Elliff has ordered Iron Mountain to cooperate with Nine PBS in recovering roughly 50TB of archival material stored through now-defunct vendor OSS. \"He found that the station is the rightful owner of the materials and entitled to recover them from OSS' storage systems,\" reports Current.org. Nine PBS must identify a third party to help retrieve the files, pay outstanding storage fees, and ensure that data belonging to other OSS customers isn't disturbed or accidentally re",
       "published": "2026-08-17T21:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "summary": "713 points · 413 comments",
-      "published": "2026-08-17T20:46:10+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -370,32 +405,11 @@
       "published": "2026-08-17T14:47:08+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "395 points · 149 comments",
-      "published": "2026-08-17T14:18:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Unauthenticated RCE in CircleCI's MCP server: Host/Origin allowlist bypassed by any non-browser client (GHSA-xv5j-cwgj-22r4)",
-      "url": "https://www.reddit.com/r/netsec/comments/1vqtjpi/unauthenticated_rce_in_circlecis_mcp_server/",
-      "summary": "submitted by /u/HyprWave [link] [comments]",
-      "published": "2026-08-17T14:14:44+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
       "url": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
       "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
       "published": "2026-08-17T14:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "667 points · 118 comments",
-      "published": "2026-08-17T13:46:27+00:00"
     },
     {
       "source": "OSINT",
@@ -410,20 +424,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
       "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
       "published": "2026-08-17T12:33:11+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "From AKS node root vulnerability to Microsoft Copilot hijack (CVE-2026-32193)",
-      "url": "https://www.reddit.com/r/netsec/comments/1vqqpwn/from_aks_node_root_vulnerability_to_microsoft/",
-      "summary": "submitted by /u/Master_Access_486 [link] [comments]",
-      "published": "2026-08-17T12:17:40+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vqqiff/microsoft_working_on_defender_patch_for/",
-      "summary": "submitted by /u/Altruistic_Hope_2559 [link] [comments]",
-      "published": "2026-08-17T12:08:11+00:00"
     },
     {
       "source": "OSINT",
@@ -441,20 +441,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed remote code execution in the",
-      "published": "2026-08-17T10:52:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "They patched their SaaS and left the self-hosted OSS version vulnerable - AppFlowy Authenticated SQL Injection",
-      "url": "https://www.reddit.com/r/netsec/comments/1vqojw3/they_patched_their_saas_and_left_the_selfhosted/",
-      "summary": "submitted by /u/ezzzzz [link] [comments]",
-      "published": "2026-08-17T10:30:37+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "French tax authority data breach affects 678,000 individuals",
       "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
       "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
@@ -462,10 +448,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
-      "published": "2026-08-17T09:29:55+00:00"
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+      "published": "2026-08-17T09:05:33+00:00"
     },
     {
       "source": "REDDIT",
@@ -475,88 +461,88 @@
       "published": "2026-08-17T00:00:12+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "CVE-2026-6837: Command Injection in Zyxel export-cgi PKCS#12 Export Handling",
-      "url": "https://www.reddit.com/r/netsec/comments/1vq55y4/cve20266837_command_injection_in_zyxel_exportcgi/",
-      "summary": "Technical analysis of CVE-2026-6837, an authenticated command-injection vulnerability in Zyxel’s PKCS#12 certificate export flow. The post covers the vulnerable execution path, root cause, affected firmware scope, and the firmware-emulation methodology used during analysis. submitted by /u/TheReedemer69 [link] [comments]",
-      "published": "2026-08-16T18:48:50+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CVE-2026-33696: From a Schema Name to RCE in n8n",
-      "url": "https://www.reddit.com/r/netsec/comments/1vpx6ku/cve202633696_from_a_schema_name_to_rce_in_n8n/",
-      "summary": "submitted by /u/TradeGold6317 [link] [comments]",
-      "published": "2026-08-16T13:33:02+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
-      "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
-      "summary": "53 points · 22 comments",
-      "published": "2026-08-15T19:11:47+00:00"
+      "title": "Baking a Model: A Metaphor for LLM Training",
+      "url": "https://newsletter.kentbeck.com/p/baking-a-model",
+      "summary": "14 points · 0 comments",
+      "published": "2026-08-14T23:46:45+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ranking the Most Brilliantly Colored Birds with Data",
-      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-      "summary": "45 points · 5 comments",
-      "published": "2026-08-15T14:55:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Finding Hidden Internal Apps Through Public Certificate Logs",
-      "url": "https://www.reddit.com/r/netsec/comments/1vp35wv/finding_hidden_internal_apps_through_public/",
-      "summary": "submitted by /u/Huge-Wear-125 [link] [comments]",
-      "published": "2026-08-15T13:39:43+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "You’re Back In The Room (Citrix NetScaler Pre-Auth RCE CVE-2026-8452(?)) - watchTowr Labs",
-      "url": "https://www.reddit.com/r/netsec/comments/1vo06aj/youre_back_in_the_room_citrix_netscaler_preauth/",
-      "summary": "submitted by /u/dx7r__ [link] [comments]",
-      "published": "2026-08-14T07:10:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain - elttam",
-      "url": "https://www.reddit.com/r/netsec/comments/1vnxkvm/ruby_40_universal_rce_deserialization_gadget/",
-      "summary": "submitted by /u/AnimalStrange [link] [comments]",
-      "published": "2026-08-14T04:46:39+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "When You Pay the Ransom - Taking Apart an Interlock ESXi Decryptor | Maldbg",
-      "url": "https://www.reddit.com/r/netsec/comments/1vnmye4/when_you_pay_the_ransom_taking_apart_an_interlock/",
-      "summary": "submitted by /u/tohitsugu [link] [comments]",
-      "published": "2026-08-13T20:51:00+00:00"
+      "source": "OSINT",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
+      "published": "2026-08-14T11:24:35+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Teaching my kid to code with a modern MUD",
       "url": "https://tau.dev/2026/08/07/canon",
-      "summary": "25 points · 6 comments",
+      "summary": "62 points · 21 comments",
       "published": "2026-08-12T14:07:14+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Olo (Color)",
-      "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "summary": "487 points · 87 comments",
-      "published": "2026-08-12T10:26:14+00:00"
+      "source": "OSINT",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "published": "2026-08-11T21:28:35+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "r/netsec monthly discussion & tool thread",
-      "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
-      "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely. If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely. Avoid use of mem",
-      "published": "2026-08-01T13:29:06+00:00"
+      "source": "OSINT",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
+      "published": "2026-08-06T17:00:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "/r/netsec's Q3 2026 Information Security Hiring Thread",
-      "url": "https://www.reddit.com/r/netsec/comments/1ulbf96/rnetsecs_q3_2026_information_security_hiring/",
-      "summary": "Overview If you have open positions at your company for information security professionals and would like to hire from the /r/netsec user base, please leave a comment detailing any open job listings at your company. We would also like to encourage you to post internship positions as well. Many of our readers are currently in school or are just finishing their education. Please reserve top level comments for those posting open positions. Rules & Guidelines Include the company name in the post. If",
-      "published": "2026-07-02T07:32:10+00:00"
+      "source": "OSINT",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "2026-07-30T16:49:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "published": "2026-07-22T01:10:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13T15:03:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08T12:31:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02T19:27:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23T16:12:49+00:00"
     }
   ]
 }
