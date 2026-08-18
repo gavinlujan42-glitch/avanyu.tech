@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:48:42.079409+00:00",
+  "updated": "2026-08-18T14:40:20.881622+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,52 +27,94 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Why does this career have so many liars?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrqcu7/why_does_this_career_have_so_many_liars/",
+      "summary": "Context, I'm not seeking career advice. I have 10 years of experience and I've done everything from network engineering to managing a security program. But is there any field out there with as much misinformation as this one? The cybersecurity community in general reminds me of the gaming community. For example, someone may post \"I'm looking to get into this field what should I learn?\" And then someone will go on this long rant about how long they did was get a few certifications and they got a ",
+      "published": "2026-08-18T14:13:01+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Moving from frontend to backend made me realize how bad my secrets management actually is. How do you handle credential rotation?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrq8kf/moving_from_frontend_to_backend_made_me_realize/",
+      "summary": "While working on the frontend of applications, handling an API key usually just means putting it into a .env file and trusting the process. Recently, I've been exploring backend infrastructure, and it turns out managing secrets in production infrastructure is a completely different story. I went through a guide on the architecture of secrets management, and it pointed out a trap I normally would have fallen into. The piece noted that centralizing your database passwords and API keys into a secur",
+      "published": "2026-08-18T14:08:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
+      "published": "2026-08-18T14:01:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "TLS 1.2 isn't end of life, but it will be soon",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrpwrj/tls_12_isnt_end_of_life_but_it_will_be_soon/",
+      "summary": "RFC 10015 makes the preconditions for several well known attacks non-conformant, not just discouraged. RSA key exchange is what Bleichenbacher and ROBOT went after. Finite-field DH is what Logjam and Raccoon went after. Both are now MUST NOT in TLS 1.2. These are default-on in nginx, Apache and Windows Server, so the exposure is broad and mostly unintentional. Check with SSL Labs and read the cipher suite names, not the grade. https://www.certkit.io/blog/tls-1-2-end-of-life submitted by /u/certk",
+      "published": "2026-08-18T13:56:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "cybersecurity for beginners",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrps7x/cybersecurity_for_beginners/",
+      "summary": "When picking a laptop does it really matter? Im trying to decide what to spend money on for school and most people are telling me to get a new laptop since I currently use a mac. Vmware being free now points me towards never getting a new laptop because worst case scenario i can run linux distro if necessary. If you personally have any purchases that made the college cybersecurity experience more fun that would be greatly appreciated. -cybersecurity professional submitted by /u/Big-Tea-7236 [lin",
+      "published": "2026-08-18T13:51:23+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-      "url": "https://www.bbc.com/news/articles/c62em5lpvnjo",
-      "summary": "6 points · 2 comments",
-      "published": "2026-08-18T13:36:30+00:00"
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
+      "summary": "25 points · 4 comments",
+      "published": "2026-08-18T13:38:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "NeoBrowser: An MCP server that drives real Chrome with your logged-in sessions",
       "url": "https://github.com/pitiflautico/neobrowser",
-      "summary": "5 points · 0 comments",
+      "summary": "17 points · 9 comments",
       "published": "2026-08-18T13:25:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Amazon Tax",
+      "url": "https://seths.blog/2026/08/the-amazon-tax/",
+      "summary": "88 points · 48 comments",
+      "published": "2026-08-18T13:22:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fixing a Bricked Framework Laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "7 points · 0 comments",
+      "summary": "58 points · 17 comments",
       "published": "2026-08-18T13:18:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: I canceled my AI code reviewer and wrote a free local one",
       "url": "https://github.com/mukundzha/avouch",
-      "summary": "5 points · 2 comments",
+      "summary": "21 points · 14 comments",
       "published": "2026-08-18T13:13:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Network Engineering to Cyber Security",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrotd0/network_engineering_to_cyber_security/",
-      "summary": "hey guys , please help me out i want to start security route (bug bounty , security , hacking , ...) but i dont know where to start im a course guy its really hard and confusing for me to go around the web and learn about bugs and hacking tools i started security+ but it was fucking boring i wanted to kill myself , i know network and web concepts iv studied Network+ , CCNA , CCNP ENCORE , ENARSI , Windows Server , Linux , FrontEnd i dont need to fo through basic concepts , i want to know proper ",
-      "published": "2026-08-18T13:12:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Kent Beck: Composable Tests",
       "url": "https://newsletter.kentbeck.com/p/composable-tests",
-      "summary": "4 points · 0 comments",
+      "summary": "16 points · 1 comments",
       "published": "2026-08-18T13:08:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: A local MitM proxy to control TLS fingerprints",
+      "url": "https://github.com/ytkoka/impersonate-proxy",
+      "summary": "7 points · 0 comments",
+      "published": "2026-08-18T13:07:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Deus Ex creator Warren Spector is retiring from game development",
       "url": "https://www.videogameschronicle.com/news/its-just-not-as-much-fun-for-me-anymore-deus-ex-creator-warren-spector-is-retiring-from-game-development/",
-      "summary": "28 points · 10 comments",
+      "summary": "55 points · 34 comments",
       "published": "2026-08-18T13:06:24+00:00"
     },
     {
@@ -81,13 +123,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vron22/cisa_windows_task_host_flaw_now_exploited_by/",
       "summary": "submitted by /u/Doug24 [link] [comments]",
       "published": "2026-08-18T13:05:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Things That Used to Be Normal and Are Now a Luxury",
-      "url": "https://albertogalca.com/5-things-that-used-to-be-normal-and-are-now-a-luxury",
-      "summary": "10 points · 2 comments",
-      "published": "2026-08-18T13:01:40+00:00"
     },
     {
       "source": "REDDIT",
@@ -100,14 +135,14 @@
       "source": "HACKER NEWS",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "summary": "66 points · 12 comments",
+      "summary": "131 points · 23 comments",
       "published": "2026-08-18T12:43:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fairphone is now officially available in the United States",
       "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "summary": "47 points · 6 comments",
+      "summary": "116 points · 32 comments",
       "published": "2026-08-18T12:42:53+00:00"
     },
     {
@@ -135,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
       "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-      "summary": "52 points · 18 comments",
+      "summary": "98 points · 46 comments",
       "published": "2026-08-18T12:23:55+00:00"
     },
     {
@@ -167,13 +202,6 @@
       "published": "2026-08-18T11:14:28+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Engineering advice on detection logic",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrlxkh/engineering_advice_on_detection_logic/",
-      "summary": "Hello fellow nerds I come bearing issues. MSSP is restricting SIEM detection logic to a “one-solution-fits-all” shitology. I am the only engineer, and the only Security person who has learned SIEM tooling and querying language. No one else understands the platform or is interest in the platform. Because of this, most of the detections are AI generated and shoe horned for each. I am having a slight menty-B as I am expected to create high fidelity alerts which work across all clients. We have clie",
-      "published": "2026-08-18T11:00:42+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Sainsbury's Store Pauses Facial Recognition After False Shoplifting Claim",
       "url": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -181,17 +209,10 @@
       "published": "2026-08-18T11:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How does your average day as a L1/L2 SOC Analyst look like?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrldpt/how_does_your_average_day_as_a_l1l2_soc_analyst/",
-      "summary": "How does your average day as a SOC Analyst look like working at an MDR, and what's the average number of incidents you are handling per day, just trying to figure out if we are actually overwhelmed with tickets or is that normal everywhere :) submitted by /u/Terrible-Body2787 [link] [comments]",
-      "published": "2026-08-18T10:32:23+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Google buys crashed airline Spirit's data at auction, because AI",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "summary": "271 points · 167 comments",
+      "summary": "327 points · 212 comments",
       "published": "2026-08-18T10:13:28+00:00"
     },
     {
@@ -219,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "317 points · 101 comments",
+      "summary": "349 points · 119 comments",
       "published": "2026-08-18T07:51:50+00:00"
     },
     {
@@ -233,14 +254,14 @@
       "source": "HACKER NEWS",
       "title": "Rethinking Database Programming",
       "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "summary": "133 points · 61 comments",
+      "summary": "147 points · 68 comments",
       "published": "2026-08-18T07:28:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Finger: Social network that never died",
       "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "summary": "72 points · 27 comments",
+      "summary": "87 points · 32 comments",
       "published": "2026-08-18T07:21:35+00:00"
     },
     {
@@ -275,15 +296,8 @@
       "source": "HACKER NEWS",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "summary": "614 points · 385 comments",
+      "summary": "624 points · 391 comments",
       "published": "2026-08-17T22:20:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "summary": "415 points · 177 comments",
-      "published": "2026-08-17T22:06:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -291,13 +305,6 @@
       "url": "https://apple.slashdot.org/story/26/08/17/2157231/apple-wallet-drivers-license-feature-to-launch-in-four-more-us-states?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Apple Wallet's driver's license and state ID feature is set to expand to North Carolina, Oklahoma, Utah, and Virginia, bringing the total to 18 states plus Puerto Rico. The digital IDs can be used at participating TSA checkpoints and businesses without handing over or unlocking an iPhone, though users are still generally advised to carry a physical ID because acceptance remains limited. MacRumors reports: A few days ago, North Carolina's DMV announced that it plans to launch a mobile ID program ",
       "published": "2026-08-17T22:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Red Agent Exploits Snowflake Vuln Missed by Github Copilot",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vr5huc/red_agent_exploits_snowflake_vuln_missed_by/",
-      "summary": "submitted by /u/Positive-Deal5428 [link] [comments]",
-      "published": "2026-08-17T21:29:35+00:00"
     },
     {
       "source": "OSINT",
@@ -447,13 +454,6 @@
       "published": "2026-08-17T10:09:48+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
-      "published": "2026-08-17T09:05:33+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqco4n/mentorship_monday_post_all_career_education_and/",
@@ -464,7 +464,7 @@
       "source": "HACKER NEWS",
       "title": "Baking a Model: A Metaphor for LLM Training",
       "url": "https://newsletter.kentbeck.com/p/baking-a-model",
-      "summary": "14 points · 0 comments",
+      "summary": "16 points · 1 comments",
       "published": "2026-08-14T23:46:45+00:00"
     },
     {
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "Teaching my kid to code with a modern MUD",
       "url": "https://tau.dev/2026/08/07/canon",
-      "summary": "62 points · 21 comments",
+      "summary": "87 points · 30 comments",
       "published": "2026-08-12T14:07:14+00:00"
     },
     {
