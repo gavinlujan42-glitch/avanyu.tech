@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T11:31:40.363774+00:00",
+  "updated": "2026-08-18T11:52:51.867609+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -26,6 +26,34 @@
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "Ransomware Recovery: What happens when attackers target your Identity Provider configs?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrmuue/ransomware_recovery_what_happens_when_attackers/",
+      "summary": "In modern ransomware and wiper playbooks, attackers rarely jump straight to encrypting disk volumes or dropping payload binaries anymore. Instead, the first thing they do after gaining administrative privileges is burn the bridges behind them: modifying identity provider configurations, disabling conditional access/sign-on policies or outright wiping SSO app integrations and MFA requirements. It’s an insanely effective tactic. By messing with entra ID or Okta tenant settings, they create a two-f",
+      "published": "2026-08-18T11:47:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
+      "published": "2026-08-18T11:40:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
+      "published": "2026-08-18T11:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "As Wisconsin cities flee Flock, its shared camera network loses value",
+      "url": "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-18T11:27:03+00:00"
+    },
     {
       "source": "OSINT",
       "title": "Microsoft tests faster Windows File Explorer, new context menu",
@@ -65,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "Google buys crashed airline Spirit's data at auction, because AI",
       "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "summary": "76 points · 32 comments",
+      "summary": "99 points · 49 comments",
       "published": "2026-08-18T10:13:28+00:00"
     },
     {
@@ -90,13 +118,6 @@
       "published": "2026-08-18T09:10:45+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Cybersecurity for beginner",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrjpgm/cybersecurity_for_beginner/",
-      "summary": "I am a 3rd year btech student who is just starting Cybersecurity, i heard that tryhackme is very good for beginners so i wanted to purchase tryhackme premium as well, Btw what i am more intrested in is SOC IAM GRC CLOUD TPRM Malware So should i get it? And what will i be able to learn from tryhackme and please guide me to get started in my cybersecurity career 😔 submitted by /u/Weary-Nothing-4973 [link] [comments]",
-      "published": "2026-08-18T08:56:24+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft starts removing WMIC tool used by cybercriminals",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
@@ -104,10 +125,17 @@
       "published": "2026-08-18T08:12:08+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "How are teams actually implementing ABAC vs. sticking with RBAC? Curious about real-world adoption.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrir2x/how_are_teams_actually_implementing_abac_vs/",
+      "summary": "Genuinely curious how much ABAC adoption is actually happening in practice versus how much airtime it gets in conference talks and vendor blogs. RBAC is still what most access-control implementations I encounter actually run: roles mapped to permissions, reasonably well understood, tooling support everywhere. ABAC gets talked about as the more \"correct\" model for anything with real complexity (dynamic attributes, context-aware policy), but I don't see nearly as many real production write-ups of ",
+      "published": "2026-08-18T07:58:33+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "201 points · 49 comments",
+      "summary": "220 points · 58 comments",
       "published": "2026-08-18T07:51:50+00:00"
     },
     {
@@ -121,8 +149,15 @@
       "source": "HACKER NEWS",
       "title": "Rethinking Database Programming",
       "url": "https://acadia.engineering/blog/rethinking-database-programming",
-      "summary": "80 points · 29 comments",
+      "summary": "88 points · 37 comments",
       "published": "2026-08-18T07:28:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Finger: Social network that never died",
+      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
+      "summary": "22 points · 8 comments",
+      "published": "2026-08-18T07:21:35+00:00"
     },
     {
       "source": "OSINT",
@@ -142,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Exercise intensity modulates interorgan communication and is associated with",
       "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
-      "summary": "45 points · 13 comments",
+      "summary": "49 points · 16 comments",
       "published": "2026-08-18T04:51:33+00:00"
     },
     {
@@ -163,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "The Benchmarkpocalypse",
       "url": "https://danluu.com/benchpocalypse/",
-      "summary": "125 points · 34 comments",
+      "summary": "127 points · 36 comments",
       "published": "2026-08-18T02:11:02+00:00"
     },
     {
@@ -177,21 +212,21 @@
       "source": "HACKER NEWS",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "summary": "555 points · 362 comments",
+      "summary": "562 points · 368 comments",
       "published": "2026-08-17T22:20:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "summary": "371 points · 158 comments",
+      "summary": "379 points · 161 comments",
       "published": "2026-08-17T22:06:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "summary": "222 points · 48 comments",
+      "summary": "228 points · 49 comments",
       "published": "2026-08-17T22:01:17+00:00"
     },
     {
@@ -212,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "summary": "483 points · 302 comments",
+      "summary": "494 points · 308 comments",
       "published": "2026-08-17T21:03:18+00:00"
     },
     {
@@ -233,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "summary": "601 points · 372 comments",
+      "summary": "616 points · 374 comments",
       "published": "2026-08-17T20:46:10+00:00"
     },
     {
@@ -293,18 +328,18 @@
       "published": "2026-08-17T18:22:09+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "summary": "225 points · 47 comments",
+      "published": "2026-08-17T17:54:59+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
       "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
       "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
       "published": "2026-08-17T17:41:06+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "High-level non-management positions",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vqykrj/highlevel_nonmanagement_positions/",
-      "summary": "I'm currently a sr. cybersecurity engineer and trying to better plan out the next few years of my career. I don't really like being a manager, so that takes CISO off the table. Is principal or staff engineering my best bet? I like turning the wrenches, so to speak, so I'd rather still have at least some hands-on capacity. What are you guys doing? submitted by /u/DrSugundi [link] [comments]",
-      "published": "2026-08-17T17:21:41+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -338,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "382 points · 147 comments",
+      "summary": "384 points · 147 comments",
       "published": "2026-08-17T14:18:38+00:00"
     },
     {
@@ -352,7 +387,7 @@
       "source": "HACKER NEWS",
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "653 points · 116 comments",
+      "summary": "656 points · 116 comments",
       "published": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -412,13 +447,6 @@
       "published": "2026-08-17T09:29:55+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
-      "published": "2026-08-17T07:36:19+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqco4n/mentorship_monday_post_all_career_education_and/",
@@ -427,31 +455,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The key that never exists: a threshold signing ceremony in the browser",
-      "url": "https://808bits.com/articles/threshold-signing-ceremony-in-your-browser/",
-      "summary": "5 points · 0 comments",
-      "published": "2026-08-15T23:20:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "IBM Simon (1994): the original smartphone, explained in its own ad [video]",
       "url": "https://www.youtube.com/watch?v=xoTFywZpPcc",
-      "summary": "41 points · 10 comments",
+      "summary": "46 points · 12 comments",
       "published": "2026-08-15T19:11:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ranking the Most Brilliantly Colored Birds with Data",
       "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
-      "summary": "34 points · 3 comments",
+      "summary": "37 points · 3 comments",
       "published": "2026-08-15T14:55:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-      "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication client and submit",
-      "published": "2026-08-15T08:38:46+00:00"
     },
     {
       "source": "OSINT",
@@ -462,23 +476,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Shattered skeleton is first confirmed death from trebuchet",
-      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "summary": "78 points · 51 comments",
-      "published": "2026-08-13T12:47:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I built a golf career management SIM (like Basketball GM, but golf)",
-      "url": "https://www.rainydaygc.com/",
-      "summary": "11 points · 4 comments",
-      "published": "2026-08-12T22:02:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "summary": "465 points · 84 comments",
+      "summary": "468 points · 84 comments",
       "published": "2026-08-12T10:26:14+00:00"
     },
     {
