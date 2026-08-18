@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:50:20.721294+00:00",
+  "updated": "2026-08-18T20:31:19.493347+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,25 +27,46 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "url": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
+      "published": "2026-08-18T20:14:58+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Feasibility of Blocking User App Installs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vs0izl/feasibility_of_blocking_user_app_installs/",
+      "summary": "I’m interesting in deploying some kind of solution for my org (~300 users/PCs) that restricts app execution from user writable directories. The risk being addressed is the unauthorized installation of software, which may result in users accidentally getting malware on their device (albeit with non-admin perms). I understand there are tools to do this (in particular I’ve been looking at AaronLocker), but I’ve also seen and heard that it requires a lot of validation to catch and exempt known legit",
+      "published": "2026-08-18T20:10:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Memory Prices Climb 500% In 12 Months",
+      "url": "https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "RAM prices have exploded over the past year, with some DDR5 kits approaching 500% year-over-year increases and a 128GB kit now selling for $3,399, which is more than 10 times its previous low. Tom's Hardware reports: Things improve as you step down the memory capacities and speed tiers, but not as much as we'd like. You're still looking at $392 for a memory kit that was just $72 last year. To reinforce the point, I pulled the latest average price data from PCPartPicker, comparing where we are to",
+      "published": "2026-08-18T20:03:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How to Stop OTP SMS Abuse When Attackers Rotate Valid Phone Numbers, Emails, and IPs?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrzfym/how_to_stop_otp_sms_abuse_when_attackers_rotate/",
+      "summary": "Hi friends, I am currently dealing with a problem. An unknown person is targeting the OTP SMS service on our website's sign-up page. They are attempting this using multiple phone numbers, multiple email addresses, and rotating IP addresses. We are already using email validation services, yet they are using email addresses like \" bowobon834@sepmaf.com \" and \" kiyow78785@toooby.com .\" They are also using a specific series of mobile numbers, such as: \"+201195127174\", \"+201181110723\", \"+201195130069",
+      "published": "2026-08-18T19:31:53+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Norway Should Buy OpenAI",
       "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "summary": "49 points · 28 comments",
+      "summary": "122 points · 124 comments",
       "published": "2026-08-18T19:30:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Beware Management Consultants",
       "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "summary": "4 points · 0 comments",
+      "summary": "96 points · 17 comments",
       "published": "2026-08-18T19:29:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Argus, agentic QA for teams whose coding agents move faster than QA",
-      "url": "https://github.com/argus-testing/argus",
-      "summary": "7 points · 2 comments",
-      "published": "2026-08-18T19:10:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -63,16 +84,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "summary": "27 points · 5 comments",
+      "published": "2026-08-18T18:14:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "100 points · 69 comments",
+      "summary": "127 points · 83 comments",
       "published": "2026-08-18T18:11:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "summary": "89 points · 11 comments",
+      "summary": "121 points · 14 comments",
       "published": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -114,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
       "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "summary": "203 points · 226 comments",
+      "summary": "226 points · 276 comments",
       "published": "2026-08-18T17:24:53+00:00"
     },
     {
@@ -135,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
       "url": "https://machine0.io",
-      "summary": "33 points · 29 comments",
+      "summary": "38 points · 29 comments",
       "published": "2026-08-18T16:26:42+00:00"
     },
     {
@@ -184,21 +212,21 @@
       "source": "HACKER NEWS",
       "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
       "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "summary": "119 points · 17 comments",
+      "summary": "126 points · 22 comments",
       "published": "2026-08-18T13:38:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "summary": "618 points · 419 comments",
+      "summary": "661 points · 437 comments",
       "published": "2026-08-18T13:22:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "273 points · 180 comments",
+      "summary": "287 points · 191 comments",
       "published": "2026-08-18T13:18:40+00:00"
     },
     {
@@ -219,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "summary": "320 points · 52 comments",
+      "summary": "329 points · 53 comments",
       "published": "2026-08-18T12:43:54+00:00"
     },
     {
@@ -296,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "455 points · 207 comments",
+      "summary": "464 points · 217 comments",
       "published": "2026-08-18T07:51:50+00:00"
     },
     {
@@ -356,25 +384,11 @@
       "published": "2026-08-17T21:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Meta Faces $1.4 Trillion Reckoning In Latest Trial Over Social Media Addiction",
-      "url": "https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Meta is heading to trial in a case brought by dozens of states accusing it of deliberately designing addictive features, misleading users about safety, and illegally collecting data from children under 13. Meta says the states are seeking penalties as high as $1.4 trillion, though the judge has already called that figure \"unreasonable.\" The case could, however, influence thousands of similar lawsuits against the company. Engadget reports: The trial kicks off Tuesday in federal court in Oakland, ",
-      "published": "2026-08-17T20:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "For those who got the CISSP, what has it done for your career?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vr2t1s/for_those_who_got_the_cissp_what_has_it_done_for/",
-      "summary": "I’m curious to hear from people who earned their CISSP. What kind of impact did it have on your career? Did you notice more recruiters reaching out or start getting more interviews/callbacks after getting certified? Did it help you land a job, move into a higher-level cybersecurity role, or increase your salary? Also, for anyone who was struggling to get callbacks before the CISSP, did you notice a significant difference after adding it to your resume/LinkedIn? Just trying to get a realistic ide",
-      "published": "2026-08-17T19:49:52+00:00"
-    },
-    {
-      "source": "REDDIT",
+      "source": "OSINT",
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vr2mql/hacker_claims_36_million_azure_account_records/",
-      "summary": "submitted by /u/homothebrave [link] [comments]",
-      "published": "2026-08-17T19:43:30+00:00"
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "published": "2026-08-17T19:35:01+00:00"
     },
     {
       "source": "OSINT",
@@ -399,16 +413,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Memory prices climb 500% in 12 months",
-      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
-      "summary": "273 points · 201 comments",
-      "published": "2026-08-17T17:52:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Cursor launches Origin, GitHub alternative",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "summary": "302 points · 240 comments",
+      "summary": "326 points · 253 comments",
       "published": "2026-08-17T17:02:44+00:00"
     },
     {
@@ -433,13 +440,6 @@
       "published": "2026-08-17T12:33:11+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Philips and GE investigating Clop ransomware data theft claims",
-      "url": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
-      "published": "2026-08-17T11:25:02+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqco4n/mentorship_monday_post_all_career_education_and/",
@@ -448,16 +448,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Splitting a Git Commit",
-      "url": "https://blog.gnoack.org/post/git-history-split",
-      "summary": "90 points · 45 comments",
-      "published": "2026-08-15T13:56:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Evolve: An incremental game about evolving a civilization",
       "url": "https://pmotschmann.github.io/Evolve/",
-      "summary": "25 points · 10 comments",
+      "summary": "31 points · 13 comments",
       "published": "2026-08-15T09:58:29+00:00"
     },
     {
@@ -471,15 +464,22 @@
       "source": "HACKER NEWS",
       "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
       "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "summary": "41 points · 20 comments",
+      "summary": "57 points · 23 comments",
       "published": "2026-08-14T11:05:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
       "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-      "summary": "9 points · 1 comments",
+      "summary": "22 points · 1 comments",
       "published": "2026-08-13T15:26:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Teaching my kid to code with a modern MUD",
+      "url": "https://tau.dev/2026/08/07/canon",
+      "summary": "195 points · 56 comments",
+      "published": "2026-08-12T14:07:14+00:00"
     },
     {
       "source": "OSINT",
