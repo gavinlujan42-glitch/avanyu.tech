@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T20:51:52.862480+00:00",
+  "updated": "2026-08-18T21:30:07.462898+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -26,6 +26,20 @@
     }
   ],
   "items": [
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude Code Teaching macOS to Natively Print to the HP Laser 1008a",
+      "url": "https://cdn.kuber.studio/chat/hp-laser-1008a-driver",
+      "summary": "5 points · 0 comments",
+      "published": "2026-08-18T21:14:21+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Disney, ABC Sue FCC Over Threats to Broadcast Licenses",
+      "url": "https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Disney and ABC are suing the FCC to block an early review of eight station licenses, arguing the Trump administration is using the agency's regulatory power to punish the network over programming and editorial decisions it dislikes. Reuters reports: In a lawsuit (PDF) filed in U.S. District Court in Washington, Disney said the FCC was seeking to coerce and retaliate against \"a network that refuses to bow to the administration's demands,\" calling the agency's actions an \"extraordinary assault on ",
+      "published": "2026-08-18T21:00:00+00:00"
+    },
     {
       "source": "OSINT",
       "title": "Comcast turns your Xfinity WiFi into a home motion detector",
@@ -56,24 +70,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Norway Should Buy OpenAI",
-      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
-      "summary": "135 points · 144 comments",
-      "published": "2026-08-18T19:30:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Beware Management Consultants",
       "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "summary": "166 points · 31 comments",
+      "summary": "279 points · 47 comments",
       "published": "2026-08-18T19:29:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "llms.txt: a proposed standard no major AI platform has confirmed it uses",
-      "url": "https://geojacker.com/llms-txt",
-      "summary": "5 points · 0 comments",
-      "published": "2026-08-18T19:24:35+00:00"
+      "source": "REDDIT",
+      "title": "Apple plugs image-processing hole ripe for spyware abuse",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrz8t6/apple_plugs_imageprocessing_hole_ripe_for_spyware/",
+      "summary": "submitted by /u/homothebrave [link] [comments]",
+      "published": "2026-08-18T19:24:44+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -93,21 +100,21 @@
       "source": "HACKER NEWS",
       "title": "Pacing model development in an era of cyber-critical capabilities",
       "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
-      "summary": "29 points · 9 comments",
+      "summary": "39 points · 14 comments",
       "published": "2026-08-18T18:14:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "138 points · 91 comments",
+      "summary": "160 points · 105 comments",
       "published": "2026-08-18T18:11:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Turbovec – Google's TurboQuant for vector search in Rust",
       "url": "https://github.com/RyanCodrai/turbovec",
-      "summary": "134 points · 16 comments",
+      "summary": "153 points · 17 comments",
       "published": "2026-08-18T18:07:21+00:00"
     },
     {
@@ -146,13 +153,6 @@
       "published": "2026-08-18T17:29:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
-      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
-      "summary": "238 points · 305 comments",
-      "published": "2026-08-18T17:24:53+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Apple Lowers App Store Fees In Europe to Settle Dispute With EU",
       "url": "https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -170,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
       "url": "https://machine0.io",
-      "summary": "39 points · 30 comments",
+      "summary": "46 points · 30 comments",
       "published": "2026-08-18T16:26:42+00:00"
     },
     {
@@ -202,13 +202,6 @@
       "published": "2026-08-18T14:13:01+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Moving from frontend to backend made me realize how bad my secrets management actually is. How do you handle credential rotation?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrq8kf/moving_from_frontend_to_backend_made_me_realize/",
-      "summary": "While working on the frontend of applications, handling an API key usually just means putting it into a .env file and trusting the process. Recently, I've been exploring backend infrastructure, and it turns out managing secrets in production infrastructure is a completely different story. I went through a guide on the architecture of secrets management, and it pointed out a trap I normally would have fallen into. The piece noted that centralizing your database passwords and API keys into a secur",
-      "published": "2026-08-18T14:08:31+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
       "url": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
@@ -219,21 +212,21 @@
       "source": "HACKER NEWS",
       "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
       "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "summary": "133 points · 23 comments",
+      "summary": "139 points · 26 comments",
       "published": "2026-08-18T13:38:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "summary": "684 points · 446 comments",
+      "summary": "728 points · 459 comments",
       "published": "2026-08-18T13:22:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "293 points · 192 comments",
+      "summary": "309 points · 199 comments",
       "published": "2026-08-18T13:18:40+00:00"
     },
     {
@@ -254,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "summary": "340 points · 55 comments",
+      "summary": "360 points · 56 comments",
       "published": "2026-08-18T12:43:54+00:00"
     },
     {
@@ -331,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "467 points · 219 comments",
+      "summary": "481 points · 230 comments",
       "published": "2026-08-18T07:51:50+00:00"
     },
     {
@@ -384,13 +377,6 @@
       "published": "2026-08-17T21:03:04+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Judge Sets Framework For Nine PBS to Retrieve 70 Years of Archival TV Data",
-      "url": "https://hardware.slashdot.org/story/26/08/17/1919201/judge-sets-framework-for-nine-pbs-to-retrieve-70-years-of-archival-tv-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "District Court Judge Eric Elliff has ordered Iron Mountain to cooperate with Nine PBS in recovering roughly 50TB of archival material stored through now-defunct vendor OSS. \"He found that the station is the rightful owner of the materials and entitled to recover them from OSS' storage systems,\" reports Current.org. Nine PBS must identify a third party to help retrieve the files, pay outstanding storage fees, and ensure that data belonging to other OSS customers isn't disturbed or accidentally re",
-      "published": "2026-08-17T21:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
@@ -422,7 +408,7 @@
       "source": "HACKER NEWS",
       "title": "Cursor launches Origin, GitHub alternative",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "summary": "346 points · 266 comments",
+      "summary": "371 points · 295 comments",
       "published": "2026-08-17T17:02:44+00:00"
     },
     {
@@ -454,6 +440,27 @@
       "published": "2026-08-17T00:00:12+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Splitting a Git Commit",
+      "url": "https://blog.gnoack.org/post/git-history-split",
+      "summary": "109 points · 54 comments",
+      "published": "2026-08-15T13:56:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Evolve: An incremental game about evolving a civilization",
+      "url": "https://pmotschmann.github.io/Evolve/",
+      "summary": "45 points · 18 comments",
+      "published": "2026-08-15T09:58:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mycorrhizal Infrastructure Map",
+      "url": "https://a-hidden-infrastructure.spun.earth/map",
+      "summary": "17 points · 6 comments",
+      "published": "2026-08-15T05:59:02+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Who’s Tracking You? Use This New Service to Find Out",
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
@@ -464,22 +471,15 @@
       "source": "HACKER NEWS",
       "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
       "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
-      "summary": "60 points · 25 comments",
+      "summary": "65 points · 29 comments",
       "published": "2026-08-14T11:05:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "2,500-year-old sculpture discovered at UNESCO site in Turkey",
       "url": "https://www.theartnewspaper.com/2026/08/07/colossal-2500-year-old-sculpture-discovered-turkey-unesco-site",
-      "summary": "27 points · 6 comments",
+      "summary": "34 points · 10 comments",
       "published": "2026-08-13T15:26:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Teaching my kid to code with a modern MUD",
-      "url": "https://tau.dev/2026/08/07/canon",
-      "summary": "198 points · 57 comments",
-      "published": "2026-08-12T14:07:14+00:00"
     },
     {
       "source": "OSINT",
