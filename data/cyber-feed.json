@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T07:44:23.460047+00:00",
+  "updated": "2026-08-18T08:45:47.551195+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -28,10 +28,24 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "Why would a website ask for a password 10-255 characters long?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vriidy/why_would_a_website_ask_for_a_password_10255/",
-      "summary": "A professional website I am on has asked everyone to change their password and it can be up to 255 characters long. Why allow such a long password? Also they insist a character cannot be repeated, and upper and lowercase letters, numbers and special characters must be used. If a password is long enough it doesn't matter. Is their IT department out of touch with current NIST recommendations? Of course I had to take advantage of this and used a password this length. submitted by /u/Noise-Theorem [",
-      "published": "2026-08-18T07:43:48+00:00"
+      "title": "Ai in cybersecurity profession",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrj952/ai_in_cybersecurity_profession/",
+      "summary": "Ai in cybersecurity Hello everyone I hope you all doing great. Everyone i met so far have been telling me not to worry about Ai when it comes to cybersecurity. and i have built a keen interest in merging cybersecurity with Ai, and turn it into a solid profession. However, i still can't sense out of this yet and i don't know how would this sounds like. I am about to pursue a masters degree in several weeks in cybersecurity, should i change my mind? and do a masters in AI instead? Noting that the ",
+      "published": "2026-08-18T08:28:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+      "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+      "published": "2026-08-18T08:12:08+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How are teams actually implementing ABAC vs. sticking with RBAC? Curious about real-world adoption.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrir2x/how_are_teams_actually_implementing_abac_vs/",
+      "summary": "Genuinely curious how much ABAC adoption is actually happening in practice versus how much airtime it gets in conference talks and vendor blogs. RBAC is still what most access-control implementations I encounter actually run: roles mapped to permissions, reasonably well understood, tooling support everywhere. ABAC gets talked about as the more \"correct\" model for anything with real complexity (dynamic attributes, context-aware policy), but I don't see nearly as many real production write-ups of ",
+      "published": "2026-08-18T07:58:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -55,6 +69,13 @@
       "published": "2026-08-18T06:03:33+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Exercise intensity modulates interorgan communication and is associated with",
+      "url": "https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791%2826%2900405-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2666379126004052%3Fshowall%3Dtrue",
+      "summary": "10 points · 1 comments",
+      "published": "2026-08-18T04:51:33+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "'Buy Now, Pay Later' Lenders Pitch Loans For Needs Like Electricity and Rent",
       "url": "https://news.slashdot.org/story/26/08/17/2254201/buy-now-pay-later-lenders-pitch-loans-for-needs-like-electricity-and-rent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -65,7 +86,7 @@
       "source": "HACKER NEWS",
       "title": "The Benchmarkpocalypse",
       "url": "https://danluu.com/benchpocalypse/",
-      "summary": "74 points · 13 comments",
+      "summary": "86 points · 21 comments",
       "published": "2026-08-18T02:11:02+00:00"
     },
     {
@@ -93,21 +114,21 @@
       "source": "HACKER NEWS",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "summary": "434 points · 295 comments",
+      "summary": "468 points · 324 comments",
       "published": "2026-08-17T22:20:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "summary": "302 points · 129 comments",
+      "summary": "321 points · 134 comments",
       "published": "2026-08-17T22:06:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "summary": "158 points · 36 comments",
+      "summary": "177 points · 41 comments",
       "published": "2026-08-17T22:01:17+00:00"
     },
     {
@@ -128,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "summary": "382 points · 218 comments",
+      "summary": "412 points · 244 comments",
       "published": "2026-08-17T21:03:18+00:00"
     },
     {
@@ -149,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
       "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-      "summary": "396 points · 256 comments",
+      "summary": "449 points · 292 comments",
       "published": "2026-08-17T20:46:10+00:00"
     },
     {
@@ -170,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "summary": "820 points · 511 comments",
+      "summary": "855 points · 524 comments",
       "published": "2026-08-17T19:47:15+00:00"
     },
     {
@@ -179,13 +200,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vr2mql/hacker_claims_36_million_azure_account_records/",
       "summary": "submitted by /u/homothebrave [link] [comments]",
       "published": "2026-08-17T19:43:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "India has paved the way for charging merchants a fee on UPI transactions",
-      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-      "summary": "141 points · 164 comments",
-      "published": "2026-08-17T19:25:11+00:00"
     },
     {
       "source": "OSINT",
@@ -226,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "summary": "201 points · 41 comments",
+      "summary": "209 points · 42 comments",
       "published": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -247,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "An update on leaving Gmail for Fastmail",
       "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-      "summary": "198 points · 130 comments",
+      "summary": "215 points · 136 comments",
       "published": "2026-08-17T17:15:20+00:00"
     },
     {
@@ -256,13 +270,6 @@
       "url": "https://news.slashdot.org/story/26/08/17/1644216/tracking-rare-books-leads-to-an-amazon-ai-training-facility?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "alternative_right shares a report from 404 Media: Amazon is buying massive quantities of books, scanning them for AI training data, and destroying them in the process. A 404 Media investigation was able to reveal Amazon's book buying operation, which hasn't been previously reported, by placing a tracking device in a rare book we suspected would be acquired by an AI company for training data, and following it around the country to its final destination. That final destination was an Amazon wareho",
       "published": "2026-08-17T17:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Judge sets framework for Nine PBS to retrieve archival data",
-      "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "summary": "158 points · 62 comments",
-      "published": "2026-08-17T16:11:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -293,25 +300,11 @@
       "published": "2026-08-17T14:47:08+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Have you used Google SecOps",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vqub81/have_you_used_google_secops/",
-      "summary": "For those of you who had a chance or have been using Google SecOps I would like to know your opinion on how well it performs as a SIEM, SOAR and threat hunting tool? If you have comparisons to any other major vendors that would help. submitted by /u/Longjumping_Ad_1180 [link] [comments]",
-      "published": "2026-08-17T14:43:30+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "359 points · 138 comments",
+      "summary": "367 points · 141 comments",
       "published": "2026-08-17T14:18:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "summary": "290 points · 167 comments",
-      "published": "2026-08-17T14:07:56+00:00"
     },
     {
       "source": "OSINT",
@@ -324,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "613 points · 110 comments",
+      "summary": "624 points · 112 comments",
       "published": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -345,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "summary": "334 points · 161 comments",
+      "summary": "338 points · 161 comments",
       "published": "2026-08-17T12:09:42+00:00"
     },
     {
@@ -433,11 +426,18 @@
       "published": "2026-08-16T17:29:52+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "url": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
-      "published": "2026-08-16T15:07:44+00:00"
+      "source": "HACKER NEWS",
+      "title": "Climbing Guide as a Shared Infrastructure",
+      "url": "https://irz.fr/en/articles/openclimbing-open-guide-en/",
+      "summary": "13 points · 4 comments",
+      "published": "2026-08-16T10:10:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ranking the Most Brilliantly Colored Birds with Data",
+      "url": "https://moultano.wordpress.com/2026/08/14/fairly-ranking-the-most-brilliant-birds/",
+      "summary": "11 points · 2 comments",
+      "published": "2026-08-15T14:55:57+00:00"
     },
     {
       "source": "OSINT",
@@ -464,21 +464,21 @@
       "source": "HACKER NEWS",
       "title": "Shattered skeleton is first confirmed death from trebuchet",
       "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-      "summary": "56 points · 37 comments",
+      "summary": "63 points · 42 comments",
       "published": "2026-08-13T12:47:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "summary": "408 points · 78 comments",
+      "summary": "419 points · 80 comments",
       "published": "2026-08-12T10:26:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Road to MS-DOS 2.0",
       "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
-      "summary": "62 points · 22 comments",
+      "summary": "67 points · 25 comments",
       "published": "2026-08-12T09:57:56+00:00"
     },
     {
