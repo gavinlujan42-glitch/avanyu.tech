@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T01:39:50.429741+00:00",
-  "item_count": 74,
+  "updated": "2026-08-18T03:01:53.478555+00:00",
+  "item_count": 62,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,6 +13,11 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
+    },
+    {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -28,45 +33,45 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "How are companies planning to implement AppSec in an AI-DLC/agentic SDLC?”",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vra3sf/how_are_companies_planning_to_implement_appsec_in/",
-      "summary": "With AI agents increasingly involved in requirements, planning, coding, testing, code review, and remediation, I'm curious how AppSec teams are adapting their processes. Are companies integrating SAST, SCA, DAST, threat modeling, pentesting, etc. directly into the agentic workflow? Or are they taking a different approach, such as having security agents review the work of coding agents? Also interested in how people think AppSec should ideally be implemented in AI-DLC, especially around security ",
-      "published": "2026-08-18T00:40:09+00:00"
+      "title": "I’m an IAM engineer at a 10,000+ employee tech company. What would you like to hear about?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vr9jq7/im_an_iam_engineer_at_a_10000_employee_tech/",
+      "summary": "Hey everyone! I’m a Senior Backend/IAM Engineer at a large tech company with 10,000+ employees. I’ve been working with Golang for 8+ years, and for the last few years I’ve been focused mostly on IAM and security. Our team builds and operates most of our internal IAM infrastructure, and all of our services are written in Go. Some of the things we work on: - employee identity lifecycle: onboarding, transfers, offboarding; - automated access provisioning and revocation; Active Directory and OpenLDA",
+      "published": "2026-08-18T00:16:01+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Supreme Court Rejects Verizon Bid For $47 Million Refund of FCC Fine",
-      "url": "https://yro.slashdot.org/story/26/08/17/223241/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: The Supreme Court today rejected Verizon's attempt to get a $47 million refund from the Federal Communications Commission. In a list of orders (PDF) issued by the court, Verizon's petition was denied without explanation. The denial apparently ends any possibility of Verizon asking a lower court to review the fine and order the FCC to issue a refund. However, AT&T and T-Mobile are continuing to challenge similar fines on grounds that selling ",
-      "published": "2026-08-17T23:00:00+00:00"
+      "source": "REDDIT",
+      "title": "SOC Analyst Tier 2",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vr9fhs/soc_analyst_tier_2/",
+      "summary": "I was fortunate enough to be offered an interview for a mid-tier position in a MDR company, currently in a Level 1 position at another MDR organisation. God I am so nervous, luckily it’s not till next week and I am really trying to get an understanding of what type of questions and knowledge they want me to be at. Some of the Roles Skills, I have actually not directly carried out these workflows, or used these tools etc. I think I’m gonna dig to the requirements so I can at least speak on these ",
+      "published": "2026-08-18T00:10:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Repair Cafe – Fix Your Broken Items",
+      "url": "https://www.repaircafe.org/",
+      "summary": "30 points · 8 comments",
+      "published": "2026-08-17T23:28:28+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Bluesky draws its logo on screenshots",
       "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "summary": "214 points · 154 comments",
+      "summary": "268 points · 193 comments",
       "published": "2026-08-17T22:20:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Quake Shareware, a CD-ROM just a little too full",
       "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "summary": "139 points · 63 comments",
+      "summary": "176 points · 78 comments",
       "published": "2026-08-17T22:06:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fairphone 6 and PostmarketOS working main camera",
       "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "summary": "79 points · 19 comments",
+      "summary": "93 points · 24 comments",
       "published": "2026-08-17T22:01:17+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Apple Wallet Driver's License Feature to Launch in Four More US States",
-      "url": "https://apple.slashdot.org/story/26/08/17/2157231/apple-wallet-drivers-license-feature-to-launch-in-four-more-us-states?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple Wallet's driver's license and state ID feature is set to expand to North Carolina, Oklahoma, Utah, and Virginia, bringing the total to 18 states plus Puerto Rico. The digital IDs can be used at participating TSA checkpoints and businesses without handing over or unlocking an iPhone, though users are still generally advised to carry a physical ID because acceptance remains limited. MacRumors reports: A few days ago, North Carolina's DMV announced that it plans to launch a mobile ID program ",
-      "published": "2026-08-17T22:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -77,16 +82,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "How do functions like alloca allocate memory from the stack?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260817-40/?p=112617",
-      "summary": "29 points · 5 comments",
-      "published": "2026-08-17T21:06:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
       "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "summary": "109 points · 48 comments",
+      "summary": "175 points · 104 comments",
       "published": "2026-08-17T21:03:18+00:00"
     },
     {
@@ -95,20 +93,6 @@
       "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4. Released on",
       "published": "2026-08-17T21:03:04+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Judge Sets Framework For Nine PBS to Retrieve 70 Years of Archival TV Data",
-      "url": "https://hardware.slashdot.org/story/26/08/17/1919201/judge-sets-framework-for-nine-pbs-to-retrieve-70-years-of-archival-tv-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "District Court Judge Eric Elliff has ordered Iron Mountain to cooperate with Nine PBS in recovering roughly 50TB of archival material stored through now-defunct vendor OSS. \"He found that the station is the rightful owner of the materials and entitled to recover them from OSS' storage systems,\" reports Current.org. Nine PBS must identify a third party to help retrieve the files, pay outstanding storage fees, and ensure that data belonging to other OSS customers isn't disturbed or accidentally re",
-      "published": "2026-08-17T21:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Meta Faces $1.4 Trillion Reckoning In Latest Trial Over Social Media Addiction",
-      "url": "https://yro.slashdot.org/story/26/08/17/1912238/meta-faces-14-trillion-reckoning-in-latest-trial-over-social-media-addiction?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Meta is heading to trial in a case brought by dozens of states accusing it of deliberately designing addictive features, misleading users about safety, and illegally collecting data from children under 13. Meta says the states are seeking penalties as high as $1.4 trillion, though the judge has already called that figure \"unreasonable.\" The case could, however, influence thousands of similar lawsuits against the company. Engadget reports: The trial kicks off Tuesday in federal court in Oakland, ",
-      "published": "2026-08-17T20:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -121,7 +105,7 @@
       "source": "HACKER NEWS",
       "title": "AI;DR (AI; Didn't Read)",
       "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "summary": "586 points · 367 comments",
+      "summary": "640 points · 400 comments",
       "published": "2026-08-17T19:47:15+00:00"
     },
     {
@@ -135,7 +119,7 @@
       "source": "HACKER NEWS",
       "title": "India has paved the way for charging merchants a fee on UPI transactions",
       "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
-      "summary": "91 points · 88 comments",
+      "summary": "100 points · 103 comments",
       "published": "2026-08-17T19:25:11+00:00"
     },
     {
@@ -144,13 +128,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
       "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
       "published": "2026-08-17T19:12:39+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "US Grid Operator PJM Proposes Forcing Data Center Off Grid During Emergencies",
-      "url": "https://hardware.slashdot.org/story/26/08/17/1842250/us-grid-operator-pjm-proposes-forcing-data-center-off-grid-during-emergencies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Reuters: PJM Interconnection, the biggest U.S. grid operator, proposed on Thursday a new framework that would force data centers to use back-up generators when electricity supply on the grid approaches dangerously low levels. The grid operator's proposal dovetails with President Donald Trump's Ratepayer Protection Pledge, a non-binding initiative to protect residential customers from getting saddled with costs related to data center power consumption, PJM",
-      "published": "2026-08-17T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -163,15 +140,8 @@
       "source": "HACKER NEWS",
       "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
       "url": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
-      "summary": "103 points · 38 comments",
+      "summary": "113 points · 41 comments",
       "published": "2026-08-17T18:34:09+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenAI Announces Massive Data Center In Ohio With $105 Billion Nvidia Guarantee",
-      "url": "https://news.slashdot.org/story/26/08/17/1831220/openai-announces-massive-data-center-in-ohio-with-105-billion-nvidia-guarantee?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenAI has signed a 10-year lease for an enormous Ohio data center that will eventually provide 8 gigawatts of computing capacity and require at least 10 gigawatts of new power generation. According to OpenAI, Nvidia will be supplying the chips and guaranteeing up to $105 billion in lease and power obligations. From the report: The facility -- which will be built and owned by SoftBank's SB Energy -- illustrates the immensity of the computing and power needed to fuel the growth of the AI economy.",
-      "published": "2026-08-17T18:33:00+00:00"
     },
     {
       "source": "OSINT",
@@ -184,7 +154,7 @@
       "source": "HACKER NEWS",
       "title": "GPU Offload in Rust: Portable, Safe, and Fast",
       "url": "https://arxiv.org/abs/2608.13759",
-      "summary": "158 points · 36 comments",
+      "summary": "168 points · 36 comments",
       "published": "2026-08-17T17:54:59+00:00"
     },
     {
@@ -212,36 +182,22 @@
       "source": "HACKER NEWS",
       "title": "An update on leaving Gmail for Fastmail",
       "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-      "summary": "107 points · 88 comments",
+      "summary": "131 points · 98 comments",
       "published": "2026-08-17T17:15:20+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Tracking Rare Books Leads to an Amazon AI Training Facility",
-      "url": "https://news.slashdot.org/story/26/08/17/1644216/tracking-rare-books-leads-to-an-amazon-ai-training-facility?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "alternative_right shares a report from 404 Media: Amazon is buying massive quantities of books, scanning them for AI training data, and destroying them in the process. A 404 Media investigation was able to reveal Amazon's book buying operation, which hasn't been previously reported, by placing a tracking device in a rare book we suspected would be acquired by an AI company for training data, and following it around the country to its final destination. That final destination was an Amazon wareho",
-      "published": "2026-08-17T17:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sun Clock",
       "url": "https://sunclock.net/",
-      "summary": "170 points · 56 comments",
+      "summary": "184 points · 56 comments",
       "published": "2026-08-17T16:37:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Judge sets framework for Nine PBS to retrieve archival data",
       "url": "https://current.org/2026/08/judge-sets-framework-for-nine-pbs-to-retrieve-archival-data/",
-      "summary": "135 points · 53 comments",
+      "summary": "142 points · 56 comments",
       "published": "2026-08-17T16:11:37+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Anthropic CEO Says AI Backlash Is 'Fundamentally a Crisis of Trust'",
-      "url": "https://slashdot.org/story/26/08/17/1557213/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Anthropic CEO Dario Amodei says the growing backlash against AI is less about executives sounding alarms and more about a broader \"crisis of trust\" in companies, governments, and the tech industry. TechCrunch reports: Amodei's comments came in response to investor Gavin Baker, who argued -- both on the All-In podcast and on X -- that Amodei's warnings about the dangers of AI have helped to fuel a backlash in the United States, particularly against data centers. Claiming that Amodei has \"lost the",
-      "published": "2026-08-17T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -249,13 +205,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqutjn/pretty_laughablepredictable_ms_response/",
       "summary": "Came in the office this morning to a wonderful new App Installer cve that our C level guys are freaking out about. NVD - CVE-2026-68821 MS's response... link to a download to update... to the exposed version. Take down the release notes article for 1.30 in pre-release. Go completely MIA on the issue. LOL peak Microsoft. \"thank god it's only local access\" Weeee! submitted by /u/Gumberculeez7 [link] [comments]",
       "published": "2026-08-17T15:02:08+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenAI Ditches Recall-Style Screenshot Surveillance For Friendly Keylogging",
-      "url": "https://yro.slashdot.org/story/26/08/17/0454255/openai-ditches-recall-style-screenshot-surveillance-for-friendly-keylogging?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Register: If you want to record whatever you do on a computer, send those records to OpenAI, use more ChatGPT tokens, and increase your vulnerability to prompt injection, then OpenAI has something for you. It's called Computer History, an opt-in way to record your computer interactions across apps and websites as memories organized on a timeline. Why would you want to do so? Maybe you found Chronicle, the predecessor of Computer History which compiled",
-      "published": "2026-08-17T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -275,14 +224,14 @@
       "source": "HACKER NEWS",
       "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
       "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "summary": "317 points · 125 comments",
+      "summary": "322 points · 126 comments",
       "published": "2026-08-17T14:18:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How to disable or avoid intrusive AI",
       "url": "https://www.librarian.net/notoai/",
-      "summary": "254 points · 155 comments",
+      "summary": "262 points · 161 comments",
       "published": "2026-08-17T14:07:56+00:00"
     },
     {
@@ -296,7 +245,7 @@
       "source": "HACKER NEWS",
       "title": "A Preview of DuckDB v2.0",
       "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "summary": "536 points · 95 comments",
+      "summary": "560 points · 99 comments",
       "published": "2026-08-17T13:46:27+00:00"
     },
     {
@@ -317,7 +266,7 @@
       "source": "HACKER NEWS",
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
       "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "summary": "300 points · 152 comments",
+      "summary": "307 points · 154 comments",
       "published": "2026-08-17T12:09:42+00:00"
     },
     {
@@ -333,13 +282,6 @@
       "url": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
       "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
       "published": "2026-08-17T11:58:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "EFF's Position on Flock Camera Database Searches: 'Get a Warrant First' - and Police Use Should Be Restricted By Law",
-      "url": "https://yro.slashdot.org/story/26/08/16/2051205/effs-position-on-flock-camera-database-searches-get-a-warrant-first---and-police-use-should-be-restricted-by-law?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Some take their criticism even further. Reacting to Flock's changes, an EFF statement calls it \"Too little, too late,\" while calling it Flock's admission that their technology needs reforms. But... To be clear, our position has long been that police, at a minimum, need to get a warrant, signed by a judge, in order to search for historic ALPR data regarding specific vehicles. For us, it's common sense: if police want to dip into historic ALPR data like they were going back in time to retroactivel",
-      "published": "2026-08-17T11:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -377,25 +319,11 @@
       "published": "2026-08-17T09:29:55+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Amazon's New User Agreement Seeks To Curb Class-action Suits",
-      "url": "https://yro.slashdot.org/story/26/08/17/0447233/amazons-new-user-agreement-seeks-to-curb-class-action-suits?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Amazon has \"reintroduced a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against the online retailer,\" reports Bloomberg, \"inserting a legal buffer between itself and plaintiffs attorneys that it removed five years ago.\" In an email sent to customers on Friday, the company said a new \"arbitration agreement and class-action waiver\" will require shoppers to resolve disputes outside the courts but said they could still file small claims, cases that ty",
-      "published": "2026-08-17T08:24:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
       "url": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
       "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
       "published": "2026-08-17T07:36:19+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "A Rosier Future for Linux Gamers? Epic Games Announces Linux Version of Its Storefront",
-      "url": "https://linux.slashdot.org/story/26/08/17/0331227/a-rosier-future-for-linux-gamers-epic-games-announces-linux-version-of-its-storefront?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Epic Games has confirmed that it is working on a Linux version of its storefront, potentially removing the need for third-party launchers on platforms such as Steam Deck,\" reports PC Guide: The confirmation came during an Ask Me Anything (AMA) on the Epic Games Store's community Discord server. When a user asked whether Epic had any plans for a Linux version of its launcher, an Epic staff member confirmed that it is coming \"soon(TM)\" in emoji form. Of course, that is far from confirming any kin",
-      "published": "2026-08-17T05:44:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -424,13 +352,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
       "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
       "published": "2026-08-16T17:29:52+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "UK Government Won’t Release Files on Israeli Firm ‘Meddling’ in Election",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vq273i/uk_government_wont_release_files_on_israeli_firm/",
-      "summary": "submitted by /u/Altruism7 [link] [comments]",
-      "published": "2026-08-16T16:55:43+00:00"
     },
     {
       "source": "OSINT",
@@ -471,14 +392,14 @@
       "source": "HACKER NEWS",
       "title": "Olo (Color)",
       "url": "https://en.wikipedia.org/wiki/Olo_(color)",
-      "summary": "317 points · 64 comments",
+      "summary": "337 points · 67 comments",
       "published": "2026-08-12T10:26:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Road to MS-DOS 2.0",
       "url": "https://nemanjatrifunovic.substack.com/p/the-road-to-ms-dos-2",
-      "summary": "18 points · 2 comments",
+      "summary": "26 points · 6 comments",
       "published": "2026-08-12T09:57:56+00:00"
     },
     {
