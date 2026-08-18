@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:38:45.463418+00:00",
+  "updated": "2026-08-18T17:33:30.502540+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,25 +27,46 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
+      "published": "2026-08-18T17:29:51+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple Lowers App Store Fees In Europe to Settle Dispute With EU",
+      "url": "https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple is overhauling its EU App Store fees to settle its Digital Markets Act dispute, simplifying the fee structure and \"[resolving] Apple's disagreements with the Commission over business terms and alternative distribution.\" Developers can sign the new terms starting today, and the changes go into effect on October 1. MacRumors reports: The initial acquisition fee and store services fee are being removed for apps distributed outside of the App Store, and Apple will now charge a 5% Core Technolo",
+      "published": "2026-08-18T17:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Claude: Degraded Performance for Multiple Models",
+      "title": "Degraded performance for multiple models",
       "url": "https://status.claude.com/incidents/q7txxvbsftgq",
-      "summary": "12 points · 2 comments",
+      "summary": "126 points · 105 comments",
       "published": "2026-08-18T16:28:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Superpowers, Not Superintelligence",
+      "url": "https://bond.now/news/superpowers-not-superintelligence",
+      "summary": "8 points · 6 comments",
+      "published": "2026-08-18T16:27:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
       "url": "https://machine0.io",
-      "summary": "3 points · 0 comments",
+      "summary": "15 points · 9 comments",
       "published": "2026-08-18T16:26:42+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Apple announces changes for apps in the European Union",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-      "summary": "15 points · 7 comments",
-      "published": "2026-08-18T16:21:34+00:00"
+      "source": "REDDIT",
+      "title": "Is GRC the new wave in cybersecurity?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrtuj1/is_grc_the_new_wave_in_cybersecurity/",
+      "summary": "I’ve been noticing a pretty big uptick in GRC job postings lately, especially remote positions. It feels like cybersecurity always has a “wave.” First it was everyone getting Security+, then it seemed like everyone was trying to break into SOC roles, and now I’m seeing GRC everywhere. Is GRC becoming the new wave in cybersecurity? For those already working in GRC, are you seeing the field actually grow, or is it just getting more attention right now? submitted by /u/Main_Class8520 [link] [commen",
+      "published": "2026-08-18T16:17:26+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -72,8 +93,15 @@
       "source": "HACKER NEWS",
       "title": "Code-native generation of highly programmable 3D assets (2026)",
       "url": "https://arxiv.org/abs/2607.22738",
-      "summary": "18 points · 16 comments",
+      "summary": "26 points · 28 comments",
       "published": "2026-08-18T14:54:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+      "summary": "25 points · 2 comments",
+      "published": "2026-08-18T14:29:20+00:00"
     },
     {
       "source": "REDDIT",
@@ -93,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
       "url": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-      "summary": "96 points · 25 comments",
+      "summary": "130 points · 33 comments",
       "published": "2026-08-18T14:06:50+00:00"
     },
     {
@@ -104,39 +132,25 @@
       "published": "2026-08-18T14:01:11+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "TLS 1.2 isn't end of life, but it will be soon",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vrpwrj/tls_12_isnt_end_of_life_but_it_will_be_soon/",
-      "summary": "RFC 10015 makes the preconditions for several well known attacks non-conformant, not just discouraged. RSA key exchange is what Bleichenbacher and ROBOT went after. Finite-field DH is what Logjam and Raccoon went after. Both are now MUST NOT in TLS 1.2. These are default-on in nginx, Apache and Windows Server, so the exposure is broad and mostly unintentional. Check with SSL Labs and read the cipher suite names, not the grade. https://www.certkit.io/blog/tls-1-2-end-of-life submitted by /u/certk",
-      "published": "2026-08-18T13:56:17+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
       "url": "https://opensource.posit.co/resources/cheatsheets/polars/",
-      "summary": "67 points · 12 comments",
+      "summary": "89 points · 12 comments",
       "published": "2026-08-18T13:38:23+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Amazon Tax",
+      "title": "The Amazon tax",
       "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "summary": "377 points · 273 comments",
+      "summary": "454 points · 318 comments",
       "published": "2026-08-18T13:22:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Fixing a Bricked Framework Laptop",
+      "title": "Fixing a bricked Framework laptop",
       "url": "https://quantum5.ca/2026/08/16/fixing-bricked-amd-7040-series-framework-13-laptop-with-20-tools/",
-      "summary": "174 points · 91 comments",
+      "summary": "203 points · 119 comments",
       "published": "2026-08-18T13:18:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Composable Tests",
-      "url": "https://newsletter.kentbeck.com/p/composable-tests",
-      "summary": "39 points · 33 comments",
-      "published": "2026-08-18T13:08:32+00:00"
     },
     {
       "source": "REDDIT",
@@ -156,14 +170,14 @@
       "source": "HACKER NEWS",
       "title": "Using the railway network as a flatbed scanner",
       "url": "https://philo.gay/linecam/",
-      "summary": "228 points · 39 comments",
+      "summary": "267 points · 46 comments",
       "published": "2026-08-18T12:43:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fairphone is now officially available in the United States",
       "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
-      "summary": "211 points · 108 comments",
+      "summary": "242 points · 128 comments",
       "published": "2026-08-18T12:42:53+00:00"
     },
     {
@@ -186,13 +200,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrnwu3/cve20266837_root_command_injection_affecting_18/",
       "summary": "I published my technical write-up for CVE-2026-6837, an authenticated command-injection issue in Zyxel’s certificate export functionality. The analysis is based on the WAX650S, while Zyxel’s advisory expanded the affected scope to 18 AP models. The post includes root cause, affected versions, remediation, and the reproduction environment. submitted by /u/TheReedemer69 [link] [comments]",
       "published": "2026-08-18T12:35:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Meta Files Patent for Facial Recognition, Automatic Recording of People",
-      "url": "https://www.privacyguides.org/news/2026/08/17/meta-files-patent-for-facial-recognition-automatic-recording-of-people/",
-      "summary": "165 points · 110 comments",
-      "published": "2026-08-18T12:23:55+00:00"
     },
     {
       "source": "REDDIT",
@@ -230,13 +237,6 @@
       "published": "2026-08-18T11:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Google has acquired the data of failed US airline Spirit",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
-      "summary": "434 points · 308 comments",
-      "published": "2026-08-18T10:13:28+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
@@ -261,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Linux 7.3 improves performance when running out of vRAM",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
-      "summary": "398 points · 158 comments",
+      "summary": "418 points · 176 comments",
       "published": "2026-08-18T07:51:50+00:00"
     },
     {
@@ -342,13 +342,6 @@
       "published": "2026-08-17T19:43:30+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "How I Under-Engineered My Book",
-      "url": "https://chriskiehl.com/article/how-i-under-engineered-my-book",
-      "summary": "35 points · 5 comments",
-      "published": "2026-08-17T19:31:25+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Pokémon Center data breach exposes customer info, cancels some orders",
       "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
@@ -384,6 +377,13 @@
       "published": "2026-08-17T18:22:09+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Memory prices climb 500% in 12 months",
+      "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-climb-500-percent-in-12-months-up-to-10x-the-lowest-ever-tracked-prices-128gb-of-ddr5-now-usd3-399",
+      "summary": "157 points · 115 comments",
+      "published": "2026-08-17T17:52:37+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
       "url": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
@@ -394,15 +394,8 @@
       "source": "HACKER NEWS",
       "title": "Cursor launches Origin, GitHub alternative",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "summary": "130 points · 87 comments",
+      "summary": "196 points · 146 comments",
       "published": "2026-08-17T17:02:44+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Tracking Rare Books Leads to an Amazon AI Training Facility",
-      "url": "https://news.slashdot.org/story/26/08/17/1644216/tracking-rare-books-leads-to-an-amazon-ai-training-facility?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "alternative_right shares a report from 404 Media: Amazon is buying massive quantities of books, scanning them for AI training data, and destroying them in the process. A 404 Media investigation was able to reveal Amazon's book buying operation, which hasn't been previously reported, by placing a tracking device in a rare book we suspected would be acquired by an AI company for training data, and following it around the country to its final destination. That final destination was an Amazon wareho",
-      "published": "2026-08-17T17:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -447,13 +440,6 @@
       "published": "2026-08-17T11:25:02+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "url": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-      "published": "2026-08-17T10:09:48+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqco4n/mentorship_monday_post_all_career_education_and/",
@@ -462,9 +448,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Ask HN: I've quit six systems for tracking my illness. What works?",
+      "url": "https://news.ycombinator.com/item?id=49313346",
+      "summary": "20 points · 16 comments",
+      "published": "2026-08-15T19:09:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Splitting a Git Commit",
       "url": "https://blog.gnoack.org/post/git-history-split",
-      "summary": "32 points · 15 comments",
+      "summary": "53 points · 27 comments",
       "published": "2026-08-15T13:56:31+00:00"
     },
     {
@@ -476,9 +469,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "We've flown a radiation-blocking vest to the Moon and back, and it worked",
+      "url": "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
+      "summary": "8 points · 0 comments",
+      "published": "2026-08-14T11:05:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Teaching my kid to code with a modern MUD",
       "url": "https://tau.dev/2026/08/07/canon",
-      "summary": "142 points · 45 comments",
+      "summary": "154 points · 49 comments",
       "published": "2026-08-12T14:07:14+00:00"
     },
     {
