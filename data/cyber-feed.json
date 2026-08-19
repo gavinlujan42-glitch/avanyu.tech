@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-19T10:58:06.267159+00:00",
-  "item_count": 76,
+  "updated": "2026-08-19T11:31:23.212541+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,6 +32,27 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software",
+      "published": "2026-08-19T11:25:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+      "published": "2026-08-19T11:14:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
+      "published": "2026-08-19T11:01:48+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Teams wanting to record all keystrokes from all apps on MacOS? WTF",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsie3d/teams_wanting_to_record_all_keystrokes_from_all/",
@@ -37,7 +63,7 @@
       "source": "HACKER NEWS",
       "title": "Air Theremin – a browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
-      "summary": "4 points · 1 comments",
+      "summary": "32 points · 14 comments",
       "published": "2026-08-19T10:15:00+00:00"
     },
     {
@@ -79,7 +105,7 @@
       "source": "HACKER NEWS",
       "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
       "url": "https://www.modular.com/blog/modcon-announcements",
-      "summary": "59 points · 22 comments",
+      "summary": "69 points · 25 comments",
       "published": "2026-08-19T07:47:19+00:00"
     },
     {
@@ -88,13 +114,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsfl8f/looking_for_a_good_realworld_digital_forensics/",
       "summary": "​ Hey everyone! I’m a student preparing a Digital Forensics / Computer Forensics practical presentation and I need to choose a real-world cybercrime case study. I’m looking for a case that: - Is not extremely common/popular (I want to avoid topics that many groups may choose) - Has enough reliable information available online - Has a clear digital evidence / forensic investigation angle - Can be explained within 12–15 slides / 10–15 minutes - Ideally involves things like hacking, gaming companie",
       "published": "2026-08-19T07:37:31+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Physicists Entangle Quantum Memories Across a Record-Breaking 420 Kilometers",
-      "url": "https://tech.slashdot.org/story/26/08/19/0133228/physicists-entangle-quantum-memories-across-a-record-breaking-420-kilometers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "alternative_right shares a report from Phys.org: Optical fibers are already the backbone of global communication systems. Recently, however, physicists have started to explore how their functionality could be boosted further by conveying information via entangled quantum particles -- potentially enabling instantaneous exchanges of information across vast distances. Such a system could eventually be the basis of a future 'quantum internet,' offering a level of security and computing power beyond ",
-      "published": "2026-08-19T07:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -107,7 +126,7 @@
       "source": "HACKER NEWS",
       "title": "λλ: A Programming Language for Silicon Photonics",
       "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-      "summary": "29 points · 6 comments",
+      "summary": "34 points · 6 comments",
       "published": "2026-08-19T06:09:16+00:00"
     },
     {
@@ -139,52 +158,45 @@
       "published": "2026-08-19T05:16:10+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Top Album Releases Linked To Rise In Fatal Crashes",
-      "url": "https://entertainment.slashdot.org/story/26/08/18/2225215/top-album-releases-linked-to-rise-in-fatal-crashes?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Guardian: The release of a new album by Taylor Swift might be a cause for celebration among her fans, but such events have also been linked to a more sombre phenomenon: an increase in fatal car crashes. The team behind a new study say it sheds light on the impact of distracted driving. Writing in the journal Jama Network Open, [Vishal Patel, first author of the study based at Harvard Medical School] and colleagues report how they focused on the releas",
-      "published": "2026-08-19T03:30:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Palomar: A registry of Lean verified mathematics",
       "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "summary": "112 points · 18 comments",
+      "summary": "114 points · 19 comments",
       "published": "2026-08-19T02:41:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
       "url": "https://github.com/katiahayati/lucasartsifier/",
-      "summary": "73 points · 23 comments",
+      "summary": "82 points · 27 comments",
       "published": "2026-08-19T01:58:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "summary": "768 points · 218 comments",
+      "summary": "830 points · 233 comments",
       "published": "2026-08-19T01:58:28+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Vietnam Binh Chau (Chau Tan) Late Tang Wreck",
       "url": "https://www.koh-antique.com/client/tangwreck/tangwreck.html",
-      "summary": "41 points · 3 comments",
+      "summary": "43 points · 3 comments",
       "published": "2026-08-19T01:36:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
       "url": "https://www.bbc.com/news/articles/c1l1r1zne1ro",
-      "summary": "279 points · 217 comments",
+      "summary": "287 points · 228 comments",
       "published": "2026-08-19T00:48:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cerebras CS-4",
       "url": "https://www.cerebras.ai/cs4",
-      "summary": "296 points · 203 comments",
+      "summary": "307 points · 205 comments",
       "published": "2026-08-19T00:28:18+00:00"
     },
     {
@@ -198,36 +210,15 @@
       "source": "HACKER NEWS",
       "title": "Solo – a .so loader for static Linux binaries",
       "url": "https://github.com/pg83/solo",
-      "summary": "145 points · 167 comments",
+      "summary": "148 points · 170 comments",
       "published": "2026-08-18T23:51:49+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Cursor Launches 'Origin' Code Hosting Platform As GitHub Alternative",
-      "url": "https://developers.slashdot.org/story/26/08/18/2211249/cursor-launches-origin-code-hosting-platform-as-github-alternative?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Cursor has launched Origin, a GitHub-style code hosting platform built directly into its AI coding environment. The company is initially positioning Origin as a low-risk layer on top of GitHub, keeping GitHub as the \"source of truth,\" but the launch landed just as a major GitHub outage highlighted growing concerns about reliability in the age of AI-generated code. VentureBeat reports: Cursor began rolling out Origin, its own code hosting platform, to paid users on Monday morning. Roughly three a",
-      "published": "2026-08-18T23:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Comcast Is Turning Millions of Its Routers Into Motion Detectors",
-      "url": "https://mobile.slashdot.org/story/26/08/18/2050203/comcast-is-turning-millions-of-its-routers-into-motion-detectors?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Comcast is activating Wi-Fi motion sensing on millions of compatible Xfinity gateways, allowing the routers to detect movement by measuring disruptions in signals between the gateway and connected devices. The free feature, part of Xfinity Shield, can send activity alerts through the Xfinity app and offers Home, Away, and nighttime monitoring modes without requiring separate motion sensors. The Verge reports: Wi-Fi motion sensing is a technology that has been around for a while, but it's only re",
-      "published": "2026-08-18T22:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "summary": "291 points · 108 comments",
+      "summary": "297 points · 110 comments",
       "published": "2026-08-18T21:50:33+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Disney, ABC Sue FCC Over Threats to Broadcast Licenses",
-      "url": "https://yro.slashdot.org/story/26/08/18/2039239/disney-abc-sue-fcc-over-threats-to-broadcast-licenses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Disney and ABC are suing the FCC to block an early review of eight station licenses, arguing the Trump administration is using the agency's regulatory power to punish the network over programming and editorial decisions it dislikes. Reuters reports: In a lawsuit (PDF) filed in U.S. District Court in Washington, Disney said the FCC was seeking to coerce and retaliate against \"a network that refuses to bow to the administration's demands,\" calling the agency's actions an \"extraordinary assault on ",
-      "published": "2026-08-18T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -237,32 +228,11 @@
       "published": "2026-08-18T20:14:58+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Memory Prices Climb 500% In 12 Months",
-      "url": "https://hardware.slashdot.org/story/26/08/18/202210/memory-prices-climb-500-in-12-months?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "RAM prices have exploded over the past year, with some DDR5 kits approaching 500% year-over-year increases and a 128GB kit now selling for $3,399, which is more than 10 times its previous low. Tom's Hardware reports: Things improve as you step down the memory capacities and speed tiers, but not as much as we'd like. You're still looking at $392 for a memory kit that was just $72 last year. To reinforce the point, I pulled the latest average price data from PCPartPicker, comparing where we are to",
-      "published": "2026-08-18T20:03:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "You Can Finally Buy a Fairphone In the US",
-      "url": "https://mobile.slashdot.org/story/26/08/18/1712245/you-can-finally-buy-a-fairphone-in-the-us?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Wired: Your iPhone, SamsungGalaxy, andGoogle Pixel have a 1-year warranty. Unless you cough up extra dough for an extended service plan, you'll pay a hefty fee if you damage the screen and need a replacement (around $329 for an iPhone 17 done directly from Apple). But it doesn't have to be this way. What if you could order the part from the manufacturer and do the repair yourself? That dream is finally being realized for American consumers, thanks to Fair",
-      "published": "2026-08-18T19:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "357 points · 250 comments",
+      "summary": "365 points · 254 comments",
       "published": "2026-08-18T18:11:53+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Buys All of Spirit Airlines' Data to Feed Its AI Models",
-      "url": "https://tech.slashdot.org/story/26/08/18/1652202/google-buys-all-of-spirit-airlines-data-to-feed-its-ai-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google has agreed to pay $10 million for a massive trove of anonymized Spirit Airlines data following the carrier's shutdown, including internal communications, spreadsheets, booking and frequent-flyer records, transactions, and employee information. CNN reports: Did you ever fly on Spirit Airlines? Or work there? Or send an email to someone who worked there? Then your information will soon be feeding Google's artificial intelligence model. The discount airline halted all operations in May, and ",
-      "published": "2026-08-18T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -293,13 +263,6 @@
       "published": "2026-08-18T17:29:51+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Apple Lowers App Store Fees In Europe to Settle Dispute With EU",
-      "url": "https://apple.slashdot.org/story/26/08/18/1659220/apple-lowers-app-store-fees-in-europe-to-settle-dispute-with-eu?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple is overhauling its EU App Store fees to settle its Digital Markets Act dispute, simplifying the fee structure and \"[resolving] Apple's disagreements with the Commission over business terms and alternative distribution.\" Developers can sign the new terms starting today, and the changes go into effect on October 1. MacRumors reports: The initial acquisition fee and store services fee are being removed for apps distributed outside of the App Store, and Apple will now charge a 5% Core Technolo",
-      "published": "2026-08-18T17:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
       "url": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
@@ -312,20 +275,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vrtuj1/is_grc_the_new_wave_in_cybersecurity/",
       "summary": "I’ve been noticing a pretty big uptick in GRC job postings lately, especially remote positions. It feels like cybersecurity always has a “wave.” First it was everyone getting Security+, then it seemed like everyone was trying to break into SOC roles, and now I’m seeing GRC everywhere. Is GRC becoming the new wave in cybersecurity? For those already working in GRC, are you seeing the field actually grow, or is it just getting more attention right now? submitted by /u/Main_Class8520 [link] [commen",
       "published": "2026-08-18T16:17:26+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Microsoft MVP Creates Site to Remind You of All the Brands Redmond Replaced",
-      "url": "https://tech.slashdot.org/story/26/08/18/0827253/microsoft-mvp-creates-site-to-remind-you-of-all-the-brands-redmond-replaced?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft MVP Loryan Strant has created the Microsoft Rebrand Registry, cataloging 72 Microsoft products and the 158 names they've had over the years. His analysis finds that Microsoft product names survive an average of two years and eleven months. The site even predicts which products are most likely to get renamed next, \"by considering the amount of time the current name has applied, prior names, and the frequency with which Microsoft changes names of products in the same family,\" reports The",
-      "published": "2026-08-18T16:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "India Paves the Way For Charging Merchants a Fee On UPI Transactions",
-      "url": "https://news.slashdot.org/story/26/08/18/0812245/india-paves-the-way-for-charging-merchants-a-fee-on-upi-transactions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from the BBC: For most Indians, paying by Unified Payments Interface (UPI) has become almost absurdly routine. Scan a QR code, tap a few buttons and the money moves instantly. There is no card machine, no cash, and -- most importantly -- for the user, no visible fee. That may be about to change. India has paved the way for banks and payment companies to charge merchants a fee on UPI transactions, potentially ending a decade-long experiment in free digital paym",
-      "published": "2026-08-18T15:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -377,13 +326,6 @@
       "published": "2026-08-18T11:14:28+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Sainsbury's Store Pauses Facial Recognition After False Shoplifting Claim",
-      "url": "https://yro.slashdot.org/story/26/08/18/0742229/sainsburys-store-pauses-facial-recognition-after-false-shoplifting-claim?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Bruce66423 shares a report from The Guardian: Sainsbury's has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop. \"I was embarrassed, mortified even, and felt quite humiliated and powerless,\" Matt Arnold, 46, said of his ordeal. The comedy promoter was buying supplies in the store in East Dulwich, in south-east London, for a standup event at Dulwich Hamlet football club when, after scanning his items and a Nec",
-      "published": "2026-08-18T11:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "CISA: Windows Task Host flaw now exploited by ransomware gangs",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
@@ -415,22 +357,8 @@
       "source": "HACKER NEWS",
       "title": "Finger: the 1971 social network that never died",
       "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "summary": "221 points · 69 comments",
+      "summary": "228 points · 70 comments",
       "published": "2026-08-18T07:21:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-      "url": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and machine learning workloads. As of writing, the GitHub project has more than",
-      "published": "2026-08-18T06:34:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-      "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4. Released on",
-      "published": "2026-08-17T21:03:04+00:00"
     },
     {
       "source": "OSINT",
@@ -438,13 +366,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
       "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
       "published": "2026-08-17T19:35:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-      "url": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
-      "published": "2026-08-17T19:12:39+00:00"
     },
     {
       "source": "REDDIT",
@@ -457,35 +378,35 @@
       "source": "HACKER NEWS",
       "title": "Being ambitious and being a dad",
       "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "summary": "536 points · 347 comments",
+      "summary": "560 points · 371 comments",
       "published": "2026-08-16T16:08:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Two Factions of C++ (2024)",
       "url": "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/",
-      "summary": "37 points · 24 comments",
+      "summary": "42 points · 32 comments",
       "published": "2026-08-16T09:12:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Supersonic Trebuchet [video]",
       "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "summary": "118 points · 44 comments",
+      "summary": "126 points · 53 comments",
       "published": "2026-08-15T00:18:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Activation Energy is a good model for a lot of things",
       "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-      "summary": "13 points · 2 comments",
+      "summary": "20 points · 2 comments",
       "published": "2026-08-14T15:40:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
       "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
-      "summary": "6 points · 0 comments",
+      "summary": "13 points · 3 comments",
       "published": "2026-08-14T13:17:06+00:00"
     },
     {
