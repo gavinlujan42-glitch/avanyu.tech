@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T12:59:17.573916+00:00",
+  "updated": "2026-08-19T13:49:50.937194+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,34 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "PostgreSQL for Everything",
+      "url": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+      "summary": "5 points · 2 comments",
+      "published": "2026-08-19T13:21:21+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Anyone else seeing shadow AI become worse than shadow IT used to be",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vsm2r4/anyone_else_seeing_shadow_ai_become_worse_than/",
+      "summary": "Over the last couple months there seems to be way less talk about people using AI and way more discovery of agents nobody knew about. One team builds an internal support agent. Someone connects an agent to Jira. Then another agent is pulling files from SharePoint straight into Slack. And apparently nobody stopped to ask what these things can actually access. None of it is necessarily malicious. People are just trying to save time. But shadow IT was already messy enough when people were installin",
+      "published": "2026-08-19T13:13:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
+      "published": "2026-08-19T13:12:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Microsoft patches a flaw that forced Copilot to give away its weaknesses",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vslrr0/microsoft_patches_a_flaw_that_forced_copilot_to/",
+      "summary": "submitted by /u/sunychoudhary [link] [comments]",
+      "published": "2026-08-19T13:00:43+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Microsoft fixes known issue causing Windows Defender crashes",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vskvug/microsoft_fixes_known_issue_causing_windows/",
@@ -37,15 +65,29 @@
       "source": "HACKER NEWS",
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "summary": "17 points · 5 comments",
+      "summary": "83 points · 17 comments",
       "published": "2026-08-19T12:19:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GrapheneOS in 2027 available on high-end Motorola phones",
       "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
-      "summary": "120 points · 30 comments",
+      "summary": "218 points · 120 comments",
       "published": "2026-08-19T11:46:58+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files",
+      "published": "2026-08-19T11:34:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person. From Bad Content to Bad Intent to AI on Both Sides Phishing 1.0 was bad",
+      "published": "2026-08-19T11:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -53,6 +95,13 @@
       "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
       "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software",
       "published": "2026-08-19T11:25:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "summary": "36 points · 1 comments",
+      "published": "2026-08-19T11:21:50+00:00"
     },
     {
       "source": "OSINT",
@@ -67,13 +116,6 @@
       "url": "https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A study of more than 64,000 people born around the end of Britain's postwar sugar rationing found that those exposed to less sugar during their first 1,000 days had lower rates of five cancers decades later, including roughly 69% lower liver cancer risk and 36% lower breast cancer risk. They also \"showed signs of slower biological aging\" and \"continued to consume less sugar and had healthier diets overall,\" according to the authors of a new study published in The Conversation. From the report: A",
       "published": "2026-08-19T11:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What are the most important tools I need in cybersecurity?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vsj53v/what_are_the_most_important_tools_i_need_in/",
-      "summary": "submitted by /u/Pale-Plane2170 [link] [comments]",
-      "published": "2026-08-19T10:59:06+00:00"
     },
     {
       "source": "REDDIT",
@@ -100,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Air Theremin – a browser theremin you play by waving at your webcam",
       "url": "https://theremin.bizibah.com/",
-      "summary": "77 points · 39 comments",
+      "summary": "104 points · 51 comments",
       "published": "2026-08-19T10:15:00+00:00"
     },
     {
@@ -109,13 +151,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
       "published": "2026-08-19T10:12:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Am I thinking about IAM/PAM correctly, or am I missing something?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vshfb8/am_i_thinking_about_iampam_correctly_or_am_i/",
-      "summary": "Had a conversation with an architect today about IAM, and I think we were talking past each other. My background is systems/infrastructure, so when I think IAM I think AD users/groups, RBAC, MFA, privileged accounts, service accounts, and mapping access/rights into application based roles. The way they described it made IAM sound like a much more separate/specialized discipline than I’m used to thinking of it. For those who actually work in IAM: is the job mostly administering and governing who ",
-      "published": "2026-08-19T09:24:34+00:00"
     },
     {
       "source": "OSINT",
@@ -142,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
       "url": "https://www.modular.com/blog/modcon-announcements",
-      "summary": "116 points · 44 comments",
+      "summary": "134 points · 49 comments",
       "published": "2026-08-19T07:47:19+00:00"
     },
     {
@@ -163,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "λλ: A Programming Language for Silicon Photonics",
       "url": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-      "summary": "45 points · 12 comments",
+      "summary": "54 points · 12 comments",
       "published": "2026-08-19T06:09:16+00:00"
     },
     {
@@ -205,29 +240,22 @@
       "source": "HACKER NEWS",
       "title": "Palomar: A registry of Lean verified mathematics",
       "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-      "summary": "128 points · 26 comments",
+      "summary": "135 points · 31 comments",
       "published": "2026-08-19T02:41:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenLogi",
       "url": "https://openlogi.org/en",
-      "summary": "1008 points · 281 comments",
+      "summary": "1070 points · 306 comments",
       "published": "2026-08-19T01:58:28+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cerebras CS-4",
       "url": "https://www.cerebras.ai/cs4",
-      "summary": "350 points · 215 comments",
+      "summary": "362 points · 221 comments",
       "published": "2026-08-19T00:28:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Solo – a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "summary": "157 points · 183 comments",
-      "published": "2026-08-18T23:51:49+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -247,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
       "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "summary": "317 points · 130 comments",
+      "summary": "329 points · 138 comments",
       "published": "2026-08-18T21:50:33+00:00"
     },
     {
@@ -282,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "How does IKEA come up with names for its products?",
       "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "summary": "385 points · 271 comments",
+      "summary": "402 points · 276 comments",
       "published": "2026-08-18T18:11:53+00:00"
     },
     {
@@ -371,20 +399,6 @@
     },
     {
       "source": "OSINT",
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "url": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "summary": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
-      "published": "2026-08-18T11:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "url": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "summary": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
-      "published": "2026-08-18T11:20:00+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Microsoft tests faster Windows File Explorer, new context menu",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
       "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
@@ -406,24 +420,10 @@
     },
     {
       "source": "OSINT",
-      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-      "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from security@safepal.com, with the subject line \"[Important] Your SafePal Order",
-      "published": "2026-08-18T09:10:45+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Microsoft starts removing WMIC tool used by cybercriminals",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
       "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
       "published": "2026-08-18T08:12:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Finger: the 1971 social network that never died",
-      "url": "https://en.andros.dev/blog/54572bc7/finger-the-1971-social-network-that-never-died/",
-      "summary": "245 points · 81 comments",
-      "published": "2026-08-18T07:21:35+00:00"
     },
     {
       "source": "OSINT",
@@ -443,35 +443,28 @@
       "source": "HACKER NEWS",
       "title": "Being ambitious and being a dad",
       "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "summary": "650 points · 455 comments",
+      "summary": "689 points · 490 comments",
       "published": "2026-08-16T16:08:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A 25-year-old video patent just expired, ending a legal headache for Linux",
-      "url": "https://www.xda-developers.com/25-year-old-brazilian-video-patent-expired-legal-headache-linux/",
-      "summary": "232 points · 103 comments",
-      "published": "2026-08-15T16:17:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Supersonic Trebuchet [video]",
       "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
-      "summary": "164 points · 67 comments",
+      "summary": "178 points · 76 comments",
       "published": "2026-08-15T00:18:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Activation Energy is a good model for a lot of things",
       "url": "https://homosabiens.substack.com/p/activation-energy-is-a-good-model",
-      "summary": "47 points · 8 comments",
+      "summary": "57 points · 14 comments",
       "published": "2026-08-14T15:40:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rings forged from meteorites may have been fashionable among ancient Greek elite",
       "url": "https://phys.org/news/2026-08-forged-meteorites-fashionable-ancient-greek.html",
-      "summary": "35 points · 16 comments",
+      "summary": "46 points · 21 comments",
       "published": "2026-08-14T13:17:06+00:00"
     },
     {
@@ -483,9 +476,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "A decades-old bug in Knuth's long division (TAOCP Vol II, Algorithm 4.3.1D)",
+      "url": "https://kolja.rs/algorithm-d/",
+      "summary": "34 points · 10 comments",
+      "published": "2026-08-13T14:11:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Win-V combo from Windows on Ubuntu",
       "url": "https://leo98ml.github.io/win-v/",
-      "summary": "9 points · 8 comments",
+      "summary": "11 points · 14 comments",
       "published": "2026-08-13T09:18:42+00:00"
     },
     {
