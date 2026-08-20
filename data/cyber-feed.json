@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:35:57.359977+00:00",
+  "updated": "2026-08-20T17:59:16.329970+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -26,6 +26,27 @@
     }
   ],
   "items": [
+    {
+      "source": "OSINT",
+      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+      "published": "2026-08-20T17:53:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: We chased a weather balloon across Montana and never found it",
+      "url": "https://radi8.dev/blog/uplink/",
+      "summary": "7 points · 3 comments",
+      "published": "2026-08-20T17:33:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "URL shortener links stored in your ATProto PDS",
+      "url": "https://atpr.to/",
+      "summary": "8 points · 0 comments",
+      "published": "2026-08-20T17:23:22+00:00"
+    },
     {
       "source": "SLASHDOT",
       "title": "Reverse-Lookup Service Exposed Millions of Photos of People's Faces",
@@ -58,14 +79,14 @@
       "source": "HACKER NEWS",
       "title": "How to compromise your system with a job interview",
       "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "summary": "41 points · 15 comments",
+      "summary": "47 points · 19 comments",
       "published": "2026-08-20T15:50:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Linux 7.2 Released",
       "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "summary": "30 points · 1 comments",
+      "summary": "47 points · 7 comments",
       "published": "2026-08-20T15:46:18+00:00"
     },
     {
@@ -79,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "Generic Methods in Go 1.27",
       "url": "https://dominik.info/blog/go-generic-methods",
-      "summary": "26 points · 5 comments",
+      "summary": "33 points · 10 comments",
       "published": "2026-08-20T15:41:48+00:00"
     },
     {
@@ -98,17 +119,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "url": "https://github.com/runvendo/vendo",
-      "summary": "18 points · 7 comments",
-      "published": "2026-08-20T15:29:52+00:00"
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "summary": "92 points · 89 comments",
+      "published": "2026-08-20T15:26:02+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Clean up Claude 5's token vomit with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "summary": "82 points · 68 comments",
-      "published": "2026-08-20T15:26:02+00:00"
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "summary": "49 points · 33 comments",
+      "published": "2026-08-20T15:06:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -133,16 +154,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "An elliptic curve of rank ≥ 30",
-      "url": "https://elliptic-rank.icarm.cloud/curve/273",
-      "summary": "50 points · 14 comments",
-      "published": "2026-08-20T14:14:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Hacking with Claude on a $27 Smart Watch",
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "summary": "53 points · 29 comments",
+      "summary": "55 points · 29 comments",
       "published": "2026-08-20T14:08:09+00:00"
     },
     {
@@ -177,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "DiffusionGemma Technical Report",
       "url": "https://arxiv.org/abs/2608.00146",
-      "summary": "91 points · 14 comments",
+      "summary": "98 points · 17 comments",
       "published": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -191,14 +205,14 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "255 points · 202 comments",
+      "summary": "263 points · 207 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Xorg-Server 26.0.99.901",
       "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-      "summary": "72 points · 24 comments",
+      "summary": "77 points · 27 comments",
       "published": "2026-08-20T12:50:16+00:00"
     },
     {
@@ -219,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "345 points · 82 comments",
+      "summary": "355 points · 85 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -289,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "639 points · 216 comments",
+      "summary": "664 points · 219 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -352,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "161 points · 85 comments",
+      "summary": "175 points · 95 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -412,13 +426,6 @@
       "published": "2026-08-19T19:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-      "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
-      "published": "2026-08-19T18:09:13+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
       "url": "https://science.slashdot.org/story/26/08/19/1725205/moderna-merck-say-mrna-vaccine-prevents-melanoma-from-returning?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -443,29 +450,22 @@
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "247 points · 60 comments",
+      "summary": "280 points · 78 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mojo is now open source",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "summary": "242 points · 60 comments",
+      "summary": "249 points · 60 comments",
       "published": "2026-08-18T16:23:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "224 points · 74 comments",
+      "summary": "266 points · 98 comments",
       "published": "2026-08-18T15:50:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A theory for decades of C vulnerabilities",
-      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
-      "summary": "25 points · 3 comments",
-      "published": "2026-08-17T10:32:21+00:00"
     },
     {
       "source": "REDDIT",
