@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T13:51:47.429034+00:00",
+  "updated": "2026-08-20T14:42:04.809381+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,17 +28,122 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "Gartner: AI governance and cybersecurity capabilities are converging - M365 governance tools explicitly named in the 2026 AI Governance Tech Hype Cycle",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtjl19/gartner_ai_governance_and_cybersecurity/",
-      "summary": "Relevant for this sub because Gartner is explicitly framing M365 governance as part of the cybersecurity conversation in their 2026 AI Governance Technologies Hype Cycle. Direct quote from the report on the 'AI Governance and Cybersecurity Capabilities Converge' theme: As AI systems gain greater decision-making authority and require less direct human intervention, governance and cybersecurity teams increasingly require shared capabilities for inventory management, policy enforcement and monitori",
-      "published": "2026-08-20T13:30:21+00:00"
+      "title": "Al-Kantara Security — Zero-Trust Browser Defense",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtld9f/alkantara_security_zerotrust_browser_defense/",
+      "summary": "Built a browser extension that blocks +50 fingerprinting vectors, encrypts data locally and monitors threats in real time. No telemetry, no dependencies its pure JS. Would love your feedback. What would you add or improve? urbanyl/Al-Kantara-Security-Extension submitted by /u/FirefighterNext360 [link] [comments]",
+      "published": "2026-08-20T14:39:52+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "published": "2026-08-20T14:39:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Intel interview — what could the next 1-hour round be?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtl6u8/intel_interview_what_could_the_next_1hour_round_be/",
+      "summary": "I just had a 2-hour Intel interview covering technical, deep technical, and behavioral questions. About 10 minutes after it ended, I got another interview scheduled for 1 hour. What do you think the next round will focus on? Team fit, hiring manager, more technical questions, or something else? Has anyone been through a similar Intel interview process? submitted by /u/TranslatorLonely6964 [link] [comments]",
+      "published": "2026-08-20T14:32:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+      "url": "https://www.bbc.com/news/articles/clyq011414eo",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-20T14:18:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An elliptic curve of rank ≥ 30",
+      "url": "https://elliptic-rank.icarm.cloud/curve/273",
+      "summary": "4 points · 0 comments",
+      "published": "2026-08-20T14:14:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hacking with Claude on a $27 Smart Watch",
+      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "summary": "14 points · 4 comments",
+      "published": "2026-08-20T14:08:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Stwipe Acquires OpenWouter",
+      "url": "https://stwipe.com/",
+      "summary": "40 points · 5 comments",
+      "published": "2026-08-20T14:04:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
+      "published": "2026-08-20T14:01:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What's with vendors like Cisco (Splunk) and Tenable never getting back to potential customers?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtkbpm/whats_with_vendors_like_cisco_splunk_and_tenable/",
+      "summary": "Cisco says they'll reach out in something like 6 hours, and Tenable has signed me up to and sent 4 newsletters yet no response from sales? You'd think a potential customer with 10k users and global infastructure would tempt them, but apparently not. submitted by /u/Hole-Specialist-2748 [link] [comments]",
+      "published": "2026-08-20T14:00:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Every Model Cheats",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-08-20T13:56:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
+      "published": "2026-08-20T13:48:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+      "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
+      "summary": "28 points · 33 comments",
+      "published": "2026-08-20T13:39:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "url": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
+      "published": "2026-08-20T13:35:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DiffusionGemma Technical Report",
+      "url": "https://arxiv.org/abs/2608.00146",
+      "summary": "34 points · 6 comments",
+      "published": "2026-08-20T13:24:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution. \"A remote code execution vulnerability exists in Zimbra",
+      "published": "2026-08-20T13:24:28+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "32 points · 3 comments",
+      "summary": "119 points · 55 comments",
       "published": "2026-08-20T13:23:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+      "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
+      "summary": "15 points · 5 comments",
+      "published": "2026-08-20T12:58:31+00:00"
     },
     {
       "source": "REDDIT",
@@ -46,20 +151,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtigr4/data_analyst_tried_to_extort_his_former_employer/",
       "summary": "Guy named Cameron Curry was a data analyst at Brightly Software (acquired by Siemens). When he found out his contract wasn't getting renewed, instead of just updating his resume like a normal person, he used his access to pull employee PII, payroll data, and internal records before he lost access, then spent weeks emailing execs under a fake identity threatening to leak everything unless he got paid in crypto. He got caught because he used his mom's and sister's debit cards linked to the Coinbas",
       "published": "2026-08-20T12:43:40+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Anyone using Qualys for application security?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vti314/anyone_using_qualys_for_application_security/",
-      "summary": "Thoughts on their TotalAppSec offering? submitted by /u/Ok_Macaroon7903 [link] [comments]",
-      "published": "2026-08-20T12:26:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Browser De-Slop",
-      "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
-      "summary": "26 points · 21 comments",
-      "published": "2026-08-20T12:19:37+00:00"
     },
     {
       "source": "OSINT",
@@ -72,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "101 points · 27 comments",
+      "summary": "167 points · 43 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -128,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
       "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "summary": "22 points · 6 comments",
+      "summary": "34 points · 15 comments",
       "published": "2026-08-20T11:03:29+00:00"
     },
     {
@@ -149,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Risk Engineering",
       "url": "https://risk-engineering.org/",
-      "summary": "24 points · 3 comments",
+      "summary": "40 points · 7 comments",
       "published": "2026-08-20T10:18:58+00:00"
     },
     {
@@ -163,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "285 points · 92 comments",
+      "summary": "355 points · 117 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -195,13 +286,6 @@
       "published": "2026-08-20T08:42:03+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Don't Paste the AI, please",
-      "url": "https://dontpastetheai.com/",
-      "summary": "760 points · 378 comments",
-      "published": "2026-08-20T08:20:44+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "142K Leaked Attacker Files",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtcc8l/142k_leaked_attacker_files/",
@@ -226,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Windows brings out the Rorschach test in everyone (2003)",
       "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "summary": "269 points · 99 comments",
+      "summary": "285 points · 105 comments",
       "published": "2026-08-20T06:16:40+00:00"
     },
     {
@@ -247,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "275 points · 146 comments",
+      "summary": "289 points · 154 comments",
       "published": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -321,32 +405,11 @@
       "published": "2026-08-19T19:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "summary": "303 points · 106 comments",
-      "published": "2026-08-19T18:36:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "summary": "711 points · 217 comments",
-      "published": "2026-08-19T18:33:49+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
       "published": "2026-08-19T18:09:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
-      "published": "2026-08-19T18:06:44+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -356,24 +419,10 @@
       "published": "2026-08-19T18:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
-      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
-      "published": "2026-08-19T17:50:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google has stopped pushing Git tags for some Android source code",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "711 points · 277 comments",
-      "published": "2026-08-19T17:47:29+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "911 points · 469 comments",
+      "summary": "924 points · 473 comments",
       "published": "2026-08-19T17:32:38+00:00"
     },
     {
@@ -391,13 +440,6 @@
       "published": "2026-08-19T17:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Kimi K3 is the first open-weight model that just succeeded on CyScenarioBench.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vsqwxb/kimi_k3_is_the_first_openweight_model_that_just/",
-      "summary": "Irregular just showed that Kimi K3 can conduct cyber campaigns autonomously or near-autonomously. It's the first open-weight model that just succeeded on CyScenarioBench. It trails closed frontier models with a ~6 month lag. It was particularly effective at turning partial access into complete attack chains by adapting public exploit techniques to constrained environments, building custom tooling, diagnosing implementation failures, and validating each stage before proceeding. While it's an expe",
-      "published": "2026-08-19T16:12:40+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Army Unit Offers 4-Day Pass to Play GTA VI As Reenlistment Incentive",
       "url": "https://tech.slashdot.org/story/26/08/19/1610230/army-unit-offers-4-day-pass-to-play-gta-vi-as-reenlistment-incentive?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -412,46 +454,11 @@
       "published": "2026-08-19T16:08:05+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
-      "published": "2026-08-19T15:56:09+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Chinese Robotics Giant Unitree Soars In Stock Market Debut",
       "url": "https://hardware.slashdot.org/story/26/08/19/0559230/chinese-robotics-giant-unitree-soars-in-stock-market-debut?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Chinese robotics giant Unitree surged more than 600% in its Shanghai stock market debut, marking the first mainland Chinese listing by a humanoid robot maker and a major milestone for Beijing's robotics ambitions. The BBC reports: Unitree, officially known as Yushu Technology Co Ltd, was founded in 2016 and now plays a key role in Beijing's ambitions to develop advanced technology. It has become a robotics industry leader, selling devices from sensors and automated arms to four-legged and human-",
       "published": "2026-08-19T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Manabu Kosaka's Handmade Paper Sculptures",
-      "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "summary": "164 points · 19 comments",
-      "published": "2026-08-19T14:20:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "url": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
-      "published": "2026-08-19T13:12:17+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files",
-      "published": "2026-08-19T11:34:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "summary": "968 points · 157 comments",
-      "published": "2026-08-19T11:21:50+00:00"
     },
     {
       "source": "REDDIT",
@@ -469,17 +476,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A faster way to calculate the day of the week",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
-      "summary": "205 points · 48 comments",
-      "published": "2026-08-16T21:20:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Streambench – Native Mac Client for Kafka and NATS",
-      "url": "https://streambench.app",
-      "summary": "8 points · 1 comments",
-      "published": "2026-08-14T19:32:59+00:00"
+      "title": "An American Mosaic (interactive map of ancestry census data)",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
+      "summary": "10 points · 0 comments",
+      "published": "2026-08-16T16:32:50+00:00"
     },
     {
       "source": "OSINT",
