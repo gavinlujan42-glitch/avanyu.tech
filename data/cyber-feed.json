@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T13:01:41.130020+00:00",
-  "item_count": 76,
+  "updated": "2026-08-20T13:51:47.429034+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,10 +28,17 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "Any opportunity?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtioak/any_opportunity/",
-      "summary": "Hey everyone, I am actively seeking full-time job opportunities as a Senior Application Security Engineer, Product Security Lead, or VAPT Lead (Open to Remote / Hybrid / On-site opportunities). Certifications: OSCP, OSWP, CEH, Microsoft Azure Fundamentals. Notice Period - 1 Month Experience - 8 Years+ submitted by /u/lakshay1337 [link] [comments]",
-      "published": "2026-08-20T12:52:48+00:00"
+      "title": "Gartner: AI governance and cybersecurity capabilities are converging - M365 governance tools explicitly named in the 2026 AI Governance Tech Hype Cycle",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtjl19/gartner_ai_governance_and_cybersecurity/",
+      "summary": "Relevant for this sub because Gartner is explicitly framing M365 governance as part of the cybersecurity conversation in their 2026 AI Governance Technologies Hype Cycle. Direct quote from the report on the 'AI Governance and Cybersecurity Capabilities Converge' theme: As AI systems gain greater decision-making authority and require less direct human intervention, governance and cybersecurity teams increasingly require shared capabilities for inventory management, policy enforcement and monitori",
+      "published": "2026-08-20T13:30:21+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "summary": "32 points · 3 comments",
+      "published": "2026-08-20T13:23:12+00:00"
     },
     {
       "source": "REDDIT",
@@ -48,6 +55,13 @@
       "published": "2026-08-20T12:26:41+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Browser De-Slop",
+      "url": "https://www.sacredheartsc.com/blog/browser-de-slop/",
+      "summary": "26 points · 21 comments",
+      "published": "2026-08-20T12:19:37+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
@@ -58,8 +72,15 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "45 points · 8 comments",
+      "summary": "101 points · 27 comments",
       "published": "2026-08-20T12:04:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+      "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography. The attack, which the researchers named \"Zombie Card,\" requires physical",
+      "published": "2026-08-20T12:01:24+00:00"
     },
     {
       "source": "HACKER NEWS",
@@ -67,6 +88,27 @@
       "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
       "summary": "1 points · 0 comments",
       "published": "2026-08-20T12:00:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
+      "published": "2026-08-20T11:45:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+      "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server. The attacks, collectively named \"CDN Tsunami,\" were evaluated against Alibaba, Baidu,",
+      "published": "2026-08-20T11:39:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+      "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+      "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
+      "published": "2026-08-20T11:26:08+00:00"
     },
     {
       "source": "OSINT",
@@ -86,15 +128,8 @@
       "source": "HACKER NEWS",
       "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
       "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "summary": "10 points · 0 comments",
+      "summary": "22 points · 6 comments",
       "published": "2026-08-20T11:03:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Malicious Rust Crate arrayref Runs a Build-Time Payload",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtg9k1/malicious_rust_crate_arrayref_runs_a_buildtime/",
-      "summary": "submitted by /u/BattleRemote3157 [link] [comments]",
-      "published": "2026-08-20T11:00:09+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -114,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Risk Engineering",
       "url": "https://risk-engineering.org/",
-      "summary": "9 points · 2 comments",
+      "summary": "24 points · 3 comments",
       "published": "2026-08-20T10:18:58+00:00"
     },
     {
@@ -128,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "205 points · 63 comments",
+      "summary": "285 points · 92 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -163,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Don't Paste the AI, please",
       "url": "https://dontpastetheai.com/",
-      "summary": "635 points · 307 comments",
+      "summary": "760 points · 378 comments",
       "published": "2026-08-20T08:20:44+00:00"
     },
     {
@@ -191,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Windows brings out the Rorschach test in everyone (2003)",
       "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "summary": "254 points · 97 comments",
+      "summary": "269 points · 99 comments",
       "published": "2026-08-20T06:16:40+00:00"
     },
     {
@@ -212,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "253 points · 134 comments",
+      "summary": "275 points · 146 comments",
       "published": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -272,13 +307,6 @@
       "published": "2026-08-19T20:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "summary": "238 points · 56 comments",
-      "published": "2026-08-19T19:06:16+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
       "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
@@ -296,14 +324,14 @@
       "source": "HACKER NEWS",
       "title": "Unsloth Dynamic 3.0 GGUFs",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "summary": "296 points · 103 comments",
+      "summary": "303 points · 106 comments",
       "published": "2026-08-19T18:36:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "summary": "698 points · 213 comments",
+      "summary": "711 points · 217 comments",
       "published": "2026-08-19T18:33:49+00:00"
     },
     {
@@ -338,14 +366,14 @@
       "source": "HACKER NEWS",
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "685 points · 265 comments",
+      "summary": "711 points · 277 comments",
       "published": "2026-08-19T17:47:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "898 points · 459 comments",
+      "summary": "911 points · 469 comments",
       "published": "2026-08-19T17:32:38+00:00"
     },
     {
@@ -391,13 +419,6 @@
       "published": "2026-08-19T15:56:09+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "summary": "419 points · 347 comments",
-      "published": "2026-08-19T15:28:01+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Chinese Robotics Giant Unitree Soars In Stock Market Debut",
       "url": "https://hardware.slashdot.org/story/26/08/19/0559230/chinese-robotics-giant-unitree-soars-in-stock-market-debut?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -408,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "Manabu Kosaka's Handmade Paper Sculptures",
       "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "summary": "155 points · 19 comments",
+      "summary": "164 points · 19 comments",
       "published": "2026-08-19T14:20:10+00:00"
     },
     {
@@ -426,32 +447,11 @@
       "published": "2026-08-19T11:34:28+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "url": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person. From Bad Content to Bad Intent to AI on Both Sides Phishing 1.0 was bad",
-      "published": "2026-08-19T11:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "url": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software",
-      "published": "2026-08-19T11:25:28+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "summary": "953 points · 154 comments",
+      "summary": "968 points · 157 comments",
       "published": "2026-08-19T11:21:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
-      "published": "2026-08-19T11:01:48+00:00"
     },
     {
       "source": "REDDIT",
@@ -459,20 +459,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsg74c/today_i_fucked_up_big/",
       "summary": "I just want to vent out that this is my biggest fuck up in my career. I totally forgot an instruction relating a particularly high severity case and as I understand that fucked up the whole line (I’m in SOC btw). So now im waiting for any news if I still have a job in the coming days. Sorry but I can’t disclose any detail related to the incident. For those who had experienced this, I really need your words and what will happen next in my career. Is this career ending? fuck. submitted by /u/Cyber",
       "published": "2026-08-19T08:13:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "url": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "summary": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection, staging, and exfiltration. The tech giant said it required multiple endpoint and network behaviors to align before",
-      "published": "2026-08-19T06:01:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Sol loves to cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "summary": "195 points · 153 comments",
-      "published": "2026-08-18T16:29:51+00:00"
     },
     {
       "source": "REDDIT",
@@ -485,8 +471,15 @@
       "source": "HACKER NEWS",
       "title": "A faster way to calculate the day of the week",
       "url": "https://www.benjoffe.com/fast-day-of-week",
-      "summary": "196 points · 47 comments",
+      "summary": "205 points · 48 comments",
       "published": "2026-08-16T21:20:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Streambench – Native Mac Client for Kafka and NATS",
+      "url": "https://streambench.app",
+      "summary": "8 points · 1 comments",
+      "published": "2026-08-14T19:32:59+00:00"
     },
     {
       "source": "OSINT",
