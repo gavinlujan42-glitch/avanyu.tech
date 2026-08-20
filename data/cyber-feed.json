@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T16:41:45.210818+00:00",
-  "item_count": 75,
+  "updated": "2026-08-20T17:35:57.359977+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,6 +28,27 @@
   "items": [
     {
       "source": "SLASHDOT",
+      "title": "Reverse-Lookup Service Exposed Millions of Photos of People's Faces",
+      "url": "https://yro.slashdot.org/story/26/08/20/173219/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Security researcher Jeremiah Fowler found that people-search service ClarityCheck left more than 9 million image files accessible in an unsecured Amazon S3 bucket, despite advertising its reverse-image search as \"private and secure.\" A separate misconfiguration also exposed email addresses, phone numbers, and other personal information. Wired reports: Overall, according to findings from independent security researcher Jeremiah Fowler, the exposed ClarityCheck database contained roughly 450 GB of",
+      "published": "2026-08-20T17:05:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+      "summary": "1 points · 0 comments",
+      "published": "2026-08-20T17:01:05+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
+      "published": "2026-08-20T16:59:44+00:00"
+    },
+    {
+      "source": "SLASHDOT",
       "title": "FCC Abolishes Gigabit Speed Goal, Suggesting It Is Unfair To Slower Technologies",
       "url": "https://mobile.slashdot.org/story/26/08/19/2141221/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Ars Technica: The Federal Communications Commission last week eliminated the gigabit speed goal established during the Biden administration and declared that current levels of broadband deployment in the US are acceptable. Though fiber networks have routinely offered such speeds for years, the FCC said the gigabit speed goal is not \"technologically neutral,\" suggesting that it isn't fair to other, slower technologies. In 2024, the FCC raised its broadband",
@@ -37,8 +58,15 @@
       "source": "HACKER NEWS",
       "title": "How to compromise your system with a job interview",
       "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "summary": "24 points · 6 comments",
+      "summary": "41 points · 15 comments",
       "published": "2026-08-20T15:50:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Linux 7.2 Released",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "summary": "30 points · 1 comments",
+      "published": "2026-08-20T15:46:18+00:00"
     },
     {
       "source": "REDDIT",
@@ -51,15 +79,8 @@
       "source": "HACKER NEWS",
       "title": "Generic Methods in Go 1.27",
       "url": "https://dominik.info/blog/go-generic-methods",
-      "summary": "10 points · 1 comments",
+      "summary": "26 points · 5 comments",
       "published": "2026-08-20T15:41:48+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmwna/reverselookup_service_exposed_millions_of_photos/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-08-20T15:37:20+00:00"
     },
     {
       "source": "REDDIT",
@@ -79,22 +100,15 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
       "url": "https://github.com/runvendo/vendo",
-      "summary": "12 points · 5 comments",
+      "summary": "18 points · 7 comments",
       "published": "2026-08-20T15:29:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Clean up Claude 5's token vomit with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
-      "summary": "49 points · 33 comments",
+      "summary": "82 points · 68 comments",
       "published": "2026-08-20T15:26:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "summary": "19 points · 6 comments",
-      "published": "2026-08-20T15:06:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -119,9 +133,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "An elliptic curve of rank ≥ 30",
+      "url": "https://elliptic-rank.icarm.cloud/curve/273",
+      "summary": "50 points · 14 comments",
+      "published": "2026-08-20T14:14:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Hacking with Claude on a $27 Smart Watch",
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "summary": "44 points · 27 comments",
+      "summary": "53 points · 29 comments",
       "published": "2026-08-20T14:08:09+00:00"
     },
     {
@@ -137,13 +158,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtkbpm/whats_with_vendors_like_cisco_splunk_and_tenable/",
       "summary": "Cisco says they'll reach out in something like 6 hours, and Tenable has signed me up to and sent 4 newsletters yet no response from sales? You'd think a potential customer with 10k users and global infastructure would tempt them, but apparently not. submitted by /u/Hole-Specialist-2748 [link] [comments]",
       "published": "2026-08-20T14:00:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Every Model Cheats",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "summary": "33 points · 15 comments",
-      "published": "2026-08-20T13:56:59+00:00"
     },
     {
       "source": "OSINT",
@@ -163,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "DiffusionGemma Technical Report",
       "url": "https://arxiv.org/abs/2608.00146",
-      "summary": "75 points · 12 comments",
+      "summary": "91 points · 14 comments",
       "published": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -177,14 +191,14 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "237 points · 182 comments",
+      "summary": "255 points · 202 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Xorg-Server 26.0.99.901",
       "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-      "summary": "60 points · 13 comments",
+      "summary": "72 points · 24 comments",
       "published": "2026-08-20T12:50:16+00:00"
     },
     {
@@ -205,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "299 points · 72 comments",
+      "summary": "345 points · 82 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -214,13 +228,6 @@
       "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
       "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography. The attack, which the researchers named \"Zombie Card,\" requires physical",
       "published": "2026-08-20T12:01:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-      "url": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-      "summary": "1 points · 0 comments",
-      "published": "2026-08-20T12:00:23+00:00"
     },
     {
       "source": "OSINT",
@@ -282,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "573 points · 195 comments",
+      "summary": "639 points · 216 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -328,13 +335,6 @@
       "published": "2026-08-20T06:51:03+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "url": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type. \"The flaw lives in the Forms module's File",
-      "published": "2026-08-20T06:04:34+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta",
       "url": "https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -352,7 +352,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "115 points · 39 comments",
+      "summary": "161 points · 85 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -433,13 +433,6 @@
       "published": "2026-08-19T17:22:18+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
-      "url": "https://politics.slashdot.org/story/26/08/19/1623200/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from 404 Media: X's algorithm learns what you hate and shows you more of it, according to a new study just published in the Proceedings of the National Academy of Sciences (PNAS). The paper, titled Value misalignment of X's feed algorithm is a reflection of value tensions in engagement, found that the site's algorithm prioritized engagement above all else when it generated a user's For You Page. It also showed that X serves more ragebait to people who say they",
-      "published": "2026-08-19T17:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Cybersecurity books that actually changed how you think about security?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsqs68/cybersecurity_books_that_actually_changed_how_you/",
@@ -450,28 +443,28 @@
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "173 points · 40 comments",
+      "summary": "247 points · 60 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mojo is now open source",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "summary": "220 points · 55 comments",
+      "summary": "242 points · 60 comments",
       "published": "2026-08-18T16:23:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "123 points · 32 comments",
+      "summary": "224 points · 74 comments",
       "published": "2026-08-18T15:50:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A theory for decades of C vulnerabilities",
       "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
-      "summary": "11 points · 0 comments",
+      "summary": "25 points · 3 comments",
       "published": "2026-08-17T10:32:21+00:00"
     },
     {
