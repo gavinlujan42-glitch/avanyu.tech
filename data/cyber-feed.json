@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T15:39:43.603414+00:00",
+  "updated": "2026-08-20T16:41:45.210818+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,46 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "FCC Abolishes Gigabit Speed Goal, Suggesting It Is Unfair To Slower Technologies",
+      "url": "https://mobile.slashdot.org/story/26/08/19/2141221/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: The Federal Communications Commission last week eliminated the gigabit speed goal established during the Biden administration and declared that current levels of broadband deployment in the US are acceptable. Though fiber networks have routinely offered such speeds for years, the FCC said the gigabit speed goal is not \"technologically neutral,\" suggesting that it isn't fair to other, slower technologies. In 2024, the FCC raised its broadband",
+      "published": "2026-08-20T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How to compromise your system with a job interview",
+      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+      "summary": "24 points · 6 comments",
+      "published": "2026-08-20T15:50:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How threat actors target critical infra",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtn34z/how_threat_actors_target_critical_infra/",
+      "summary": "CISA just published an advisory regarding an active threat to Siemens PLCs. The threat actors are conducting reconnaissance and capability development against U.S.-based Siemens PLC installations using AI-generated exploitation scripts disguised as legitimate monitoring tools. Specifically, the threat actors are leveraging snap7.dll/python-snap7 combined with AI-assisted scripting to create custom tools that mimic legitimate OT monitoring solutions. Techniques: Using Internet scanning services (",
+      "published": "2026-08-20T15:43:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Generic Methods in Go 1.27",
+      "url": "https://dominik.info/blog/go-generic-methods",
+      "summary": "10 points · 1 comments",
+      "published": "2026-08-20T15:41:48+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Reverse-lookup service exposed millions of photos of people’s faces",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmwna/reverselookup_service_exposed_millions_of_photos/",
       "summary": "submitted by /u/NISMO1968 [link] [comments]",
       "published": "2026-08-20T15:37:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Black Hat/DEF CON attendees targeted in malware scheme with Google Doc lure",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmw32/black_hatdef_con_attendees_targeted_in_malware/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-08-20T15:36:42+00:00"
     },
     {
       "source": "REDDIT",
@@ -42,10 +77,24 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "summary": "12 points · 5 comments",
+      "published": "2026-08-20T15:29:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Clean up Claude 5's token vomit with a separate LLM",
       "url": "https://github.com/zachahn/vomit",
-      "summary": "7 points · 0 comments",
+      "summary": "49 points · 33 comments",
       "published": "2026-08-20T15:26:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Anti-AI fonts are useless and harmful",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+      "summary": "19 points · 6 comments",
+      "published": "2026-08-20T15:06:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -62,24 +111,17 @@
       "published": "2026-08-20T14:39:48+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "An elliptic curve of rank ≥ 30",
-      "url": "https://elliptic-rank.icarm.cloud/curve/273",
-      "summary": "21 points · 8 comments",
-      "published": "2026-08-20T14:14:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bun 1.4",
-      "url": "https://bun.com/blog/bun-v1.4",
-      "summary": "90 points · 34 comments",
-      "published": "2026-08-20T14:10:12+00:00"
+      "source": "OSINT",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+      "published": "2026-08-20T14:36:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Hacking with Claude on a $27 Smart Watch",
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "summary": "28 points · 14 comments",
+      "summary": "44 points · 27 comments",
       "published": "2026-08-20T14:08:09+00:00"
     },
     {
@@ -100,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Every Model Cheats",
       "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "summary": "17 points · 5 comments",
+      "summary": "33 points · 15 comments",
       "published": "2026-08-20T13:56:59+00:00"
     },
     {
@@ -121,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "DiffusionGemma Technical Report",
       "url": "https://arxiv.org/abs/2608.00146",
-      "summary": "53 points · 8 comments",
+      "summary": "75 points · 12 comments",
       "published": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -135,21 +177,14 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "188 points · 139 comments",
+      "summary": "237 points · 182 comments",
       "published": "2026-08-20T13:23:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
-      "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-      "summary": "39 points · 30 comments",
-      "published": "2026-08-20T12:58:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Xorg-Server 26.0.99.901",
       "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-      "summary": "29 points · 3 comments",
+      "summary": "60 points · 13 comments",
       "published": "2026-08-20T12:50:16+00:00"
     },
     {
@@ -170,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "230 points · 58 comments",
+      "summary": "299 points · 72 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -247,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "444 points · 147 comments",
+      "summary": "573 points · 195 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -279,13 +314,6 @@
       "published": "2026-08-20T08:42:03+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "142K Leaked Attacker Files",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtcc8l/142k_leaked_attacker_files/",
-      "summary": "This one is worth digging into. We found an exposed attacker workspace with 142K+ files : agent transcripts, shell history, recon data, exploit tooling, creds, victim evidence, the lot. What stood out was how the operator was wiring AI coding agents into the offensive workflow, disabling approval checks and pushing tasks through Telegram. The dump also contained evidence tied to 8,996 compromised WordPress sites , a 3.4M-host recon corpus, stolen credentials, crypto wallet data, cryptojacking ac",
-      "published": "2026-08-20T07:14:14+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope",
       "url": "https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -298,13 +326,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
       "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
       "published": "2026-08-20T06:51:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Windows brings out the Rorschach test in everyone (2003)",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "summary": "300 points · 106 comments",
-      "published": "2026-08-20T06:16:40+00:00"
     },
     {
       "source": "OSINT",
@@ -331,7 +352,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "45 points · 13 comments",
+      "summary": "115 points · 39 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -384,13 +405,6 @@
       "published": "2026-08-19T20:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
-      "published": "2026-08-19T19:02:40+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "CISA: Medusa Ransomware Hit Over 500 Critical Infrastructure Orgs",
       "url": "https://it.slashdot.org/story/26/08/19/1729241/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -426,13 +440,6 @@
       "published": "2026-08-19T17:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Army Unit Offers 4-Day Pass to Play GTA VI As Reenlistment Incentive",
-      "url": "https://tech.slashdot.org/story/26/08/19/1610230/army-unit-offers-4-day-pass-to-play-gta-vi-as-reenlistment-incentive?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A U.S. Army battalion at Fort Stewart is offering soldiers a four-day pass timed to the release of Grand Theft Auto VI if they reenlist for at least two years. The program is limited to one unit for now, but it fits the Army's broader effort to appeal to gamers as a recruiting and retention pool. CBS News reports: Twenty soldiers at Fort Stewart in Georgia in the Army's 9th Brigade Engineering Battalion, part of the 3rd Infantry Division, have already chosen this incentive as part of their reenl",
-      "published": "2026-08-19T16:12:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Cybersecurity books that actually changed how you think about security?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsqs68/cybersecurity_books_that_actually_changed_how_you/",
@@ -443,36 +450,29 @@
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "91 points · 10 comments",
+      "summary": "173 points · 40 comments",
       "published": "2026-08-19T15:11:36+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Today I fucked up big.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vsg74c/today_i_fucked_up_big/",
-      "summary": "I just want to vent out that this is my biggest fuck up in my career. I totally forgot an instruction relating a particularly high severity case and as I understand that fucked up the whole line (I’m in SOC btw). So now im waiting for any news if I still have a job in the coming days. Sorry but I can’t disclose any detail related to the incident. For those who had experienced this, I really need your words and what will happen next in my career. Is this career ending? fuck. submitted by /u/Cyber",
-      "published": "2026-08-19T08:13:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Git at any scale",
-      "url": "https://cursor.com/blog/git-at-any-scale",
-      "summary": "84 points · 7 comments",
-      "published": "2026-08-18T16:26:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mojo is now open source",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "summary": "188 points · 51 comments",
+      "summary": "220 points · 55 comments",
       "published": "2026-08-18T16:23:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "10 points · 2 comments",
+      "summary": "123 points · 32 comments",
       "published": "2026-08-18T15:50:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A theory for decades of C vulnerabilities",
+      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_02.html",
+      "summary": "11 points · 0 comments",
+      "published": "2026-08-17T10:32:21+00:00"
     },
     {
       "source": "REDDIT",
