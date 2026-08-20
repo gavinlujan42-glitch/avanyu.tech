@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T17:59:16.329970+00:00",
+  "updated": "2026-08-20T18:49:59.987733+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,34 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Post Office Selling Password Books in 2026",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtrfpe/post_office_selling_password_books_in_2026/",
+      "summary": "I meet people frequently for whom this is a good idea. It's better than what many people are doing, and really a form of password manager. submitted by /u/AJ_Mexico [link] [comments]",
+      "published": "2026-08-20T18:20:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bitflash: A Tor-native revival of Bitcoin 0.1.0, mined on CPUs with RandomX",
+      "url": "https://bitflash.network/",
+      "summary": "15 points · 0 comments",
+      "published": "2026-08-20T18:02:55+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "YouTube Offers Creators Millions of Dollars to Stay Off Netflix",
+      "url": "https://news.slashdot.org/story/26/08/20/1715225/youtube-offers-creators-millions-of-dollars-to-stay-off-netflix?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Bloomberg reports that YouTube is offering major creators millions of dollars to keep some content exclusive to its platform as Netflix increasingly signs YouTube-native talent to non-exclusive deals. YouTube has also warned that creators who simultaneously publish on Netflix could lose marketing support, event opportunities, and access to revenue from certain brand campaigns. Quartz reports: Bloomberg described two categories of payment: funding directed at specific programs, and a portion of t",
+      "published": "2026-08-20T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Optimizing things in the USSR (2016)",
+      "url": "https://chris-said.io/2016/05/11/optimizing-things-in-the-ussr/",
+      "summary": "13 points · 4 comments",
+      "published": "2026-08-20T17:55:16+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
@@ -35,17 +63,31 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: We chased a weather balloon across Montana and never found it",
-      "url": "https://radi8.dev/blog/uplink/",
-      "summary": "7 points · 3 comments",
-      "published": "2026-08-20T17:33:32+00:00"
+      "title": "I should have loved biology",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "summary": "39 points · 15 comments",
+      "published": "2026-08-20T17:50:02+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "URL shortener links stored in your ATProto PDS",
-      "url": "https://atpr.to/",
-      "summary": "8 points · 0 comments",
-      "published": "2026-08-20T17:23:22+00:00"
+      "title": "Project Cybersyn",
+      "url": "https://bactra.org/notebooks/cybersyn.html",
+      "summary": "9 points · 2 comments",
+      "published": "2026-08-20T17:40:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: We chased a weather balloon across Montana and never found it",
+      "url": "https://radi8.dev/blog/uplink/",
+      "summary": "24 points · 9 comments",
+      "published": "2026-08-20T17:33:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage. Nothing here needs",
+      "published": "2026-08-20T17:23:48+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -79,14 +121,14 @@
       "source": "HACKER NEWS",
       "title": "How to compromise your system with a job interview",
       "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "summary": "47 points · 19 comments",
+      "summary": "66 points · 27 comments",
       "published": "2026-08-20T15:50:57+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Linux 7.2 Released",
+      "title": "Linux 7.2",
       "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "summary": "47 points · 7 comments",
+      "summary": "82 points · 20 comments",
       "published": "2026-08-20T15:46:18+00:00"
     },
     {
@@ -100,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Generic Methods in Go 1.27",
       "url": "https://dominik.info/blog/go-generic-methods",
-      "summary": "33 points · 10 comments",
+      "summary": "45 points · 16 comments",
       "published": "2026-08-20T15:41:48+00:00"
     },
     {
@@ -116,20 +158,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmrz8/wifi_pineapple_in_the_office_story_of_failure/",
       "summary": "So about nine years ago our IDS detected a spoofed network in our India office. We sent out a notice to alert staff about its presence and to be especially careful when attempting to connect to WiFi until the physical device could be located and disposed of. Multiple people there actually manually disconnected from the corporate network and connected to the spoofed one to \"see what would happen\" and compromised their workstations and accounts. It was my opinion that anyone who knowingly did this",
       "published": "2026-08-20T15:32:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Clean up Claude 5's token vomit with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "summary": "92 points · 89 comments",
-      "published": "2026-08-20T15:26:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "summary": "49 points · 33 comments",
-      "published": "2026-08-20T15:06:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -151,13 +179,6 @@
       "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
       "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
       "published": "2026-08-20T14:36:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hacking with Claude on a $27 Smart Watch",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "summary": "55 points · 29 comments",
-      "published": "2026-08-20T14:08:09+00:00"
     },
     {
       "source": "OSINT",
@@ -191,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "DiffusionGemma Technical Report",
       "url": "https://arxiv.org/abs/2608.00146",
-      "summary": "98 points · 17 comments",
+      "summary": "109 points · 22 comments",
       "published": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -205,14 +226,14 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "263 points · 207 comments",
+      "summary": "289 points · 241 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Xorg-Server 26.0.99.901",
+      "title": "Xorg-server 26.1.0 rc1",
       "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
-      "summary": "77 points · 27 comments",
+      "summary": "85 points · 51 comments",
       "published": "2026-08-20T12:50:16+00:00"
     },
     {
@@ -233,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "355 points · 85 comments",
+      "summary": "377 points · 89 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -293,17 +314,10 @@
       "published": "2026-08-20T10:38:28+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "StopAndProtect Turns 2,000 Hacked WordPress Sites Into a Criminal Network",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtfd4a/stopandprotect_turns_2000_hacked_wordpress_sites/",
-      "summary": "StopAndProtect turned nearly 2,000 hacked WordPress sites into a criminal network for malware delivery, data theft, surveillance and ransomware. https://securityaffairs.com/197537/hacking/stopandprotect-turns-2000-hacked-wordpress-sites-into-a-criminal-network.html submitted by /u/sunychoudhary [link] [comments]",
-      "published": "2026-08-20T10:12:32+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "664 points · 219 comments",
+      "summary": "710 points · 234 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -326,13 +340,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vte1wu/anyone_here_use_rapid7_products_any_of_them/",
       "summary": "Looking for general feedback on quality and value relative to it’s competitors submitted by /u/incongruous_narrator [link] [comments]",
       "published": "2026-08-20T08:57:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
-      "published": "2026-08-20T08:42:03+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -366,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "175 points · 95 comments",
+      "summary": "215 points · 116 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -426,13 +433,6 @@
       "published": "2026-08-19T19:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
-      "url": "https://science.slashdot.org/story/26/08/19/1725205/moderna-merck-say-mrna-vaccine-prevents-melanoma-from-returning?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Moderna and Merck say their personalized mRNA melanoma vaccine significantly reduced both cancer recurrence and spread in a late-stage trial. The treatment could reach patients as soon as next year if regulators approve it. Reuters reports: Moderna developed the vaccine with Merck and tested it together with immunotherapy drug Keytruda, a widely used treatment for melanoma. [...] This is the first positive late-stage trial result for an mRNA cancer vaccine, which trains a patient's immune system",
-      "published": "2026-08-19T18:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsswis/us_warns_siemens_devices_can_be_hacked_amid_fears/",
@@ -450,21 +450,21 @@
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "280 points · 78 comments",
+      "summary": "348 points · 96 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mojo is now open source",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "summary": "249 points · 60 comments",
+      "summary": "265 points · 62 comments",
       "published": "2026-08-18T16:23:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "266 points · 98 comments",
+      "summary": "319 points · 144 comments",
       "published": "2026-08-18T15:50:52+00:00"
     },
     {
