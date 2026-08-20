@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T14:42:04.809381+00:00",
+  "updated": "2026-08-20T15:39:43.603414+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,10 +28,31 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "Al-Kantara Security — Zero-Trust Browser Defense",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtld9f/alkantara_security_zerotrust_browser_defense/",
-      "summary": "Built a browser extension that blocks +50 fingerprinting vectors, encrypts data locally and monitors threats in real time. No telemetry, no dependencies its pure JS. Would love your feedback. What would you add or improve? urbanyl/Al-Kantara-Security-Extension submitted by /u/FirefighterNext360 [link] [comments]",
-      "published": "2026-08-20T14:39:52+00:00"
+      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmwna/reverselookup_service_exposed_millions_of_photos/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-08-20T15:37:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "WiFi pineapple in the office story of failure",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmrz8/wifi_pineapple_in_the_office_story_of_failure/",
+      "summary": "So about nine years ago our IDS detected a spoofed network in our India office. We sent out a notice to alert staff about its presence and to be especially careful when attempting to connect to WiFi until the physical device could be located and disposed of. Multiple people there actually manually disconnected from the corporate network and connected to the spoofed one to \"see what would happen\" and compromised their workstations and accounts. It was my opinion that anyone who knowingly did this",
+      "published": "2026-08-20T15:32:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Clean up Claude 5's token vomit with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "summary": "7 points · 0 comments",
+      "published": "2026-08-20T15:26:02+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Japan to Require AI Firms to Disclose Training Data",
+      "url": "https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Japan is preparing a nonbinding \"comply or explain\" code that would urge generative AI companies, including foreign firms operating in Japan, to disclose what models they use, what training data they rely on, and how that data was collected. The proposal would also let rights holders ask whether specific webpages were included in training datasets. The Japan Times reports: The draft code comprises three principles. The first principle requires businesses to disclose the generative AI models they",
+      "published": "2026-08-20T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -41,39 +62,25 @@
       "published": "2026-08-20T14:39:48+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Intel interview — what could the next 1-hour round be?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtl6u8/intel_interview_what_could_the_next_1hour_round_be/",
-      "summary": "I just had a 2-hour Intel interview covering technical, deep technical, and behavioral questions. About 10 minutes after it ended, I got another interview scheduled for 1 hour. What do you think the next round will focus on? Team fit, hiring manager, more technical questions, or something else? Has anyone been through a similar Intel interview process? submitted by /u/TranslatorLonely6964 [link] [comments]",
-      "published": "2026-08-20T14:32:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
-      "url": "https://www.bbc.com/news/articles/clyq011414eo",
-      "summary": "9 points · 1 comments",
-      "published": "2026-08-20T14:18:16+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "An elliptic curve of rank ≥ 30",
       "url": "https://elliptic-rank.icarm.cloud/curve/273",
-      "summary": "4 points · 0 comments",
+      "summary": "21 points · 8 comments",
       "published": "2026-08-20T14:14:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bun 1.4",
+      "url": "https://bun.com/blog/bun-v1.4",
+      "summary": "90 points · 34 comments",
+      "published": "2026-08-20T14:10:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Hacking with Claude on a $27 Smart Watch",
       "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-      "summary": "14 points · 4 comments",
+      "summary": "28 points · 14 comments",
       "published": "2026-08-20T14:08:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Stwipe Acquires OpenWouter",
-      "url": "https://stwipe.com/",
-      "summary": "40 points · 5 comments",
-      "published": "2026-08-20T14:04:46+00:00"
     },
     {
       "source": "OSINT",
@@ -93,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "Every Model Cheats",
       "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "summary": "6 points · 0 comments",
+      "summary": "17 points · 5 comments",
       "published": "2026-08-20T13:56:59+00:00"
     },
     {
@@ -102,13 +109,6 @@
       "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
       "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
       "published": "2026-08-20T13:48:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
-      "url": "https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/",
-      "summary": "28 points · 33 comments",
-      "published": "2026-08-20T13:39:18+00:00"
     },
     {
       "source": "OSINT",
@@ -121,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "DiffusionGemma Technical Report",
       "url": "https://arxiv.org/abs/2608.00146",
-      "summary": "34 points · 6 comments",
+      "summary": "53 points · 8 comments",
       "published": "2026-08-20T13:24:32+00:00"
     },
     {
@@ -133,17 +133,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "119 points · 55 comments",
+      "summary": "188 points · 139 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Why the Ocean Cleanup Hasn't Solved the Plastic Pollution Crisis",
+      "title": "Why the Ocean Cleanup hasn't solved the plastic pollution crisis",
       "url": "https://therevelator.org/why-ocean-cleanup-has-not-solved-plastic-pollution/",
-      "summary": "15 points · 5 comments",
+      "summary": "39 points · 30 comments",
       "published": "2026-08-20T12:58:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Xorg-Server 26.0.99.901",
+      "url": "https://lists.x.org/archives/xorg-announce/2026-August/003741.html",
+      "summary": "29 points · 3 comments",
+      "published": "2026-08-20T12:50:16+00:00"
     },
     {
       "source": "REDDIT",
@@ -163,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "167 points · 43 comments",
+      "summary": "230 points · 58 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -216,13 +223,6 @@
       "published": "2026-08-20T11:05:11+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "summary": "34 points · 15 comments",
-      "published": "2026-08-20T11:03:29+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "New Study Challenges Common Assumptions About Screen Time For Kids",
       "url": "https://hardware.slashdot.org/story/26/08/19/2231240/new-study-challenges-common-assumptions-about-screen-time-for-kids?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -237,13 +237,6 @@
       "published": "2026-08-20T10:38:28+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Risk Engineering",
-      "url": "https://risk-engineering.org/",
-      "summary": "40 points · 7 comments",
-      "published": "2026-08-20T10:18:58+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "StopAndProtect Turns 2,000 Hacked WordPress Sites Into a Criminal Network",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtfd4a/stopandprotect_turns_2000_hacked_wordpress_sites/",
@@ -254,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "355 points · 117 comments",
+      "summary": "444 points · 147 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -310,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "Windows brings out the Rorschach test in everyone (2003)",
       "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "summary": "285 points · 105 comments",
+      "summary": "300 points · 106 comments",
       "published": "2026-08-20T06:16:40+00:00"
     },
     {
@@ -328,18 +321,18 @@
       "published": "2026-08-20T03:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Turns are Better than Radians (2022)",
-      "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "289 points · 154 comments",
-      "published": "2026-08-20T01:29:12+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
       "published": "2026-08-20T00:20:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "summary": "45 points · 13 comments",
+      "published": "2026-08-20T00:15:01+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -419,13 +412,6 @@
       "published": "2026-08-19T18:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "924 points · 473 comments",
-      "published": "2026-08-19T17:32:38+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsswis/us_warns_siemens_devices_can_be_hacked_amid_fears/",
@@ -454,11 +440,11 @@
       "published": "2026-08-19T16:08:05+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Chinese Robotics Giant Unitree Soars In Stock Market Debut",
-      "url": "https://hardware.slashdot.org/story/26/08/19/0559230/chinese-robotics-giant-unitree-soars-in-stock-market-debut?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Chinese robotics giant Unitree surged more than 600% in its Shanghai stock market debut, marking the first mainland Chinese listing by a humanoid robot maker and a major milestone for Beijing's robotics ambitions. The BBC reports: Unitree, officially known as Yushu Technology Co Ltd, was founded in 2016 and now plays a key role in Beijing's ambitions to develop advanced technology. It has become a robotics industry leader, selling devices from sensors and automated arms to four-legged and human-",
-      "published": "2026-08-19T15:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "summary": "91 points · 10 comments",
+      "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -468,18 +454,32 @@
       "published": "2026-08-19T08:13:45+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Git at any scale",
+      "url": "https://cursor.com/blog/git-at-any-scale",
+      "summary": "84 points · 7 comments",
+      "published": "2026-08-18T16:26:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mojo is now open source",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "summary": "188 points · 51 comments",
+      "published": "2026-08-18T16:23:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "summary": "10 points · 2 comments",
+      "published": "2026-08-18T15:50:52+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqco4n/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-17T00:00:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "An American Mosaic (interactive map of ancestry census data)",
-      "url": "https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html",
-      "summary": "10 points · 0 comments",
-      "published": "2026-08-16T16:32:50+00:00"
     },
     {
       "source": "OSINT",
