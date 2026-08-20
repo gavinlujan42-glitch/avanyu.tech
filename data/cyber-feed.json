@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-20T07:47:53.704608+00:00",
-  "item_count": 64,
+  "updated": "2026-08-20T08:48:28.882249+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,11 +27,25 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Don't Paste the AI, please",
+      "url": "https://dontpastetheai.com/",
+      "summary": "29 points · 14 comments",
+      "published": "2026-08-20T08:20:44+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "142K Leaked Attacker Files",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtcc8l/142k_leaked_attacker_files/",
       "summary": "This one is worth digging into. We found an exposed attacker workspace with 142K+ files : agent transcripts, shell history, recon data, exploit tooling, creds, victim evidence, the lot. What stood out was how the operator was wiring AI coding agents into the offensive workflow, disabling approval checks and pushing tasks through Telegram. The dump also contained evidence tied to 8,996 compromised WordPress sites , a 3.4M-host recon corpus, stolen credentials, crypto wallet data, cryptojacking ac",
       "published": "2026-08-20T07:14:14+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope",
+      "url": "https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "NASA has called off a $30 million mission to rescue its aging Swift space telescope after Katalyst Space's Link spacecraft developed persistent control and positioning problems. The Associated Press reports: Katalyst said Link will not attempt to capture Swift and boost it to a higher orbit because of problems with controlling the spacecraft. NASA said this means the telescope will plunge through the atmosphere after more than 20 years of tracking some of the biggest explosions in the universe l",
+      "published": "2026-08-20T07:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -49,7 +58,7 @@
       "source": "HACKER NEWS",
       "title": "Windows brings out the Rorschach test in everyone",
       "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "summary": "74 points · 14 comments",
+      "summary": "130 points · 50 comments",
       "published": "2026-08-20T06:16:40+00:00"
     },
     {
@@ -60,11 +69,11 @@
       "published": "2026-08-20T06:04:34+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-      "summary": "45 points · 22 comments",
-      "published": "2026-08-20T04:42:02+00:00"
+      "source": "SLASHDOT",
+      "title": "Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta",
+      "url": "https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from NPR: Meta was infused with a culture in which employees obsessed over user numbers and consistently pushed safety to the side, according to Arturo Bejar, a former employee turned whistleblower, who testified today in the landmark child safety trial against the social media company. Only one man had the ability to change that, Bejar said: CEO Mark Zuckerberg. But he didn't. \"At the end of the day, it was the company culture that Mark had created that made ",
+      "published": "2026-08-20T03:30:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -77,7 +86,7 @@
       "source": "HACKER NEWS",
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "166 points · 70 comments",
+      "summary": "195 points · 84 comments",
       "published": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -86,6 +95,20 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
       "published": "2026-08-20T00:20:55+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "PINE64 Halts Linux Device Production Amid DRAM and EMMC Shortages",
+      "url": "https://hardware.slashdot.org/story/26/08/19/2134209/pine64-halts-linux-device-production-amid-dram-and-emmc-shortages?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BrianFagioli writes: PINE64 has some very bad news for Linux hardware fans. PINE64 says it has no plans to produce additional Linux devices in the near future because of the ongoing DRAM and eMMC shortage. Future production will depend on component pricing after mid 2027, while existing PineNote and PineTab2 inventory could run out in roughly three months. The company says PineTime, PineVoice, and Pinecil production will continue as usual, but the outlook for its Linux hardware is much less cert",
+      "published": "2026-08-19T23:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Stripe Buys AI Startup OpenRouter For $7.5 Billion",
+      "url": "https://news.slashdot.org/story/26/08/19/2128206/stripe-buys-ai-startup-openrouter-for-75-billion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Stripe is acquiring AI model marketplace OpenRouter as it pushes beyond payments into the infrastructure behind AI applications. According to The New York Times, the deal is reportedly valued at about $7.5 billion, with $1.5 billion allocated to OpenRouter's founders. Less than three months ago the company was valued at about $1.3 billion. CNBC reports: OpenRouter has become popular with developers seeking to use AI models, particularly those considered non-proprietary and available for free. Ma",
+      "published": "2026-08-19T22:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -98,15 +121,22 @@
       "source": "HACKER NEWS",
       "title": "Feature Request: Support AGENTS.md",
       "url": "https://github.com/anthropics/claude-code/issues/6235",
-      "summary": "229 points · 132 comments",
+      "summary": "245 points · 141 comments",
       "published": "2026-08-19T21:19:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
       "url": "https://os8088.com/spotlight/",
-      "summary": "83 points · 38 comments",
+      "summary": "87 points · 40 comments",
       "published": "2026-08-19T21:11:31+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Amazon's Drones Will Soon Deliver to Nearly 500 US Cities and Towns",
+      "url": "https://tech.slashdot.org/story/26/08/19/1950233/amazons-drones-will-soon-deliver-to-nearly-500-us-cities-and-towns?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Amazon says its Prime Air drone delivery service will expand sixfold to nearly 500 U.S. cities and towns by the end of 2026, including metro areas around Chicago, Syracuse, Cleveland, Atlanta, and Boise. According to Amazon Prime Air vice president David Carbon, the service has already delivered \"hundreds of thousands of packages to customers\" this year, typically within about an hour. The Verge reports: These will join 11 locations across the US where Amazon already offers drone deliveries, wit",
+      "published": "2026-08-19T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -130,10 +160,17 @@
       "published": "2026-08-19T20:07:12+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Music Publisher Round Hill Files $1 Billion Copyright Infringement Suits Against Suno, Anthropic",
+      "url": "https://yro.slashdot.org/story/26/08/19/1931220/music-publisher-round-hill-files-1-billion-copyright-infringement-suits-against-suno-anthropic?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Independent music publisher Round Hill is suing Suno and Anthropic for allegedly using hundreds of copyrighted songs without permission to train their AI systems. The company says potential damages could exceed $1 billion, arguing there is \"nothing fair\" about building multibillion-dollar AI businesses on copyrighted material while rights holders receive nothing. From The Hollywood Reporter: Round Hill is a prominent music publisher whose copyrights include the Goo Goo Dolls' \"Iris,\" Bonnie Tyle",
+      "published": "2026-08-19T20:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "summary": "198 points · 48 comments",
+      "summary": "201 points · 49 comments",
       "published": "2026-08-19T19:06:16+00:00"
     },
     {
@@ -144,17 +181,24 @@
       "published": "2026-08-19T19:02:40+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "CISA: Medusa Ransomware Hit Over 500 Critical Infrastructure Orgs",
+      "url": "https://it.slashdot.org/story/26/08/19/1729241/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "CISA says the Medusa ransomware operation has breached more than 500 U.S. critical infrastructure organizations since 2021, up from more than 300 reported last year. The group has targeted healthcare, government, defense, manufacturing, IT and financial organizations, evolving into a ransomware-as-a-service operation that recruits initial-access brokers and uses stolen data to pressure victims into paying. BleepingComputer reports: The three federal agencies recommended that network defenders se",
+      "published": "2026-08-19T19:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Unsloth Dynamic 3.0 GGUFs",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "summary": "249 points · 91 comments",
+      "summary": "259 points · 94 comments",
       "published": "2026-08-19T18:36:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "summary": "602 points · 159 comments",
+      "summary": "620 points · 171 comments",
       "published": "2026-08-19T18:33:49+00:00"
     },
     {
@@ -172,6 +216,13 @@
       "published": "2026-08-19T18:06:44+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Moderna, Merck Say mRNA Vaccine Prevents Melanoma From Returning",
+      "url": "https://science.slashdot.org/story/26/08/19/1725205/moderna-merck-say-mrna-vaccine-prevents-melanoma-from-returning?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Moderna and Merck say their personalized mRNA melanoma vaccine significantly reduced both cancer recurrence and spread in a late-stage trial. The treatment could reach patients as soon as next year if regulators approve it. Reuters reports: Moderna developed the vaccine with Merck and tested it together with immunotherapy drug Keytruda, a widely used treatment for melanoma. [...] This is the first positive late-stage trial result for an mRNA cancer vaccine, which trains a patient's immune system",
+      "published": "2026-08-19T18:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
       "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
@@ -182,14 +233,14 @@
       "source": "HACKER NEWS",
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "485 points · 200 comments",
+      "summary": "519 points · 215 comments",
       "published": "2026-08-19T17:47:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "814 points · 414 comments",
+      "summary": "828 points · 427 comments",
       "published": "2026-08-19T17:32:38+00:00"
     },
     {
@@ -200,11 +251,25 @@
       "published": "2026-08-19T17:22:18+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "X's Algorithm Feeds Off Ragebait and Impacts Democrats More, Study Finds",
+      "url": "https://politics.slashdot.org/story/26/08/19/1623200/xs-algorithm-feeds-off-ragebait-and-impacts-democrats-more-study-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from 404 Media: X's algorithm learns what you hate and shows you more of it, according to a new study just published in the Proceedings of the National Academy of Sciences (PNAS). The paper, titled Value misalignment of X's feed algorithm is a reflection of value tensions in engagement, found that the site's algorithm prioritized engagement above all else when it generated a user's For You Page. It also showed that X serves more ragebait to people who say they",
+      "published": "2026-08-19T17:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Kimi K3 is the first open-weight model that just succeeded on CyScenarioBench.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vsqwxb/kimi_k3_is_the_first_openweight_model_that_just/",
       "summary": "Irregular just showed that Kimi K3 can conduct cyber campaigns autonomously or near-autonomously. It's the first open-weight model that just succeeded on CyScenarioBench. It trails closed frontier models with a ~6 month lag. It was particularly effective at turning partial access into complete attack chains by adapting public exploit techniques to constrained environments, building custom tooling, diagnosing implementation failures, and validating each stage before proceeding. While it's an expe",
       "published": "2026-08-19T16:12:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Army Unit Offers 4-Day Pass to Play GTA VI As Reenlistment Incentive",
+      "url": "https://tech.slashdot.org/story/26/08/19/1610230/army-unit-offers-4-day-pass-to-play-gta-vi-as-reenlistment-incentive?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A U.S. Army battalion at Fort Stewart is offering soldiers a four-day pass timed to the release of Grand Theft Auto VI if they reenlist for at least two years. The program is limited to one unit for now, but it fits the Army's broader effort to appeal to gamers as a recruiting and retention pool. CBS News reports: Twenty soldiers at Fort Stewart in Georgia in the Army's 9th Brigade Engineering Battalion, part of the 3rd Infantry Division, have already chosen this incentive as part of their reenl",
+      "published": "2026-08-19T16:12:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -224,14 +289,21 @@
       "source": "HACKER NEWS",
       "title": "Casio F-B100W-1A",
       "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "summary": "354 points · 294 comments",
+      "summary": "368 points · 304 comments",
       "published": "2026-08-19T15:28:01+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Chinese Robotics Giant Unitree Soars In Stock Market Debut",
+      "url": "https://hardware.slashdot.org/story/26/08/19/0559230/chinese-robotics-giant-unitree-soars-in-stock-market-debut?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Chinese robotics giant Unitree surged more than 600% in its Shanghai stock market debut, marking the first mainland Chinese listing by a humanoid robot maker and a major milestone for Beijing's robotics ambitions. The BBC reports: Unitree, officially known as Yushu Technology Co Ltd, was founded in 2016 and now plays a key role in Beijing's ambitions to develop advanced technology. It has become a robotics industry leader, selling devices from sensors and automated arms to four-legged and human-",
+      "published": "2026-08-19T15:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Manabu Kosaka's Handmade Paper Sculptures",
       "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "summary": "117 points · 12 comments",
+      "summary": "125 points · 14 comments",
       "published": "2026-08-19T14:20:10+00:00"
     },
     {
@@ -273,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "summary": "465 points · 78 comments",
+      "summary": "473 points · 78 comments",
       "published": "2026-08-19T12:19:52+00:00"
     },
     {
@@ -301,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "summary": "872 points · 136 comments",
+      "summary": "888 points · 142 comments",
       "published": "2026-08-19T11:21:50+00:00"
     },
     {
@@ -317,6 +389,13 @@
       "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
       "published": "2026-08-19T11:01:48+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Babies Born Under Sugar Rationing Grew Into Adults With Lower Cancer Risk",
+      "url": "https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A study of more than 64,000 people born around the end of Britain's postwar sugar rationing found that those exposed to less sugar during their first 1,000 days had lower rates of five cancers decades later, including roughly 69% lower liver cancer risk and 36% lower breast cancer risk. They also \"showed signs of slower biological aging\" and \"continued to consume less sugar and had healthier diets overall,\" according to the authors of a new study published in The Conversation. From the report: A",
+      "published": "2026-08-19T11:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -364,7 +443,7 @@
       "source": "HACKER NEWS",
       "title": "fx :Tiny, open, native coding agent.",
       "url": "https://fx.sh",
-      "summary": "245 points · 106 comments",
+      "summary": "258 points · 107 comments",
       "published": "2026-08-18T22:00:21+00:00"
     },
     {
@@ -385,7 +464,7 @@
       "source": "HACKER NEWS",
       "title": "Sol loves to cheat",
       "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "summary": "150 points · 90 comments",
+      "summary": "161 points · 103 comments",
       "published": "2026-08-18T16:29:51+00:00"
     },
     {
@@ -397,17 +476,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A faster way to calculate the day of the week",
-      "url": "https://www.benjoffe.com/fast-day-of-week",
-      "summary": "117 points · 16 comments",
-      "published": "2026-08-16T21:20:40+00:00"
+      "title": "The Chauffeur Problem",
+      "url": "https://engines.egr.uh.edu/episode/1495",
+      "summary": "8 points · 2 comments",
+      "published": "2026-08-16T23:55:35+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "What's missing to have reproducible builds on PyPI",
-      "url": "https://snarky.ca/whats-missing-to-have-reproducible-builds-on-pypi/",
-      "summary": "7 points · 0 comments",
-      "published": "2026-08-16T05:48:41+00:00"
+      "title": "A faster way to calculate the day of the week",
+      "url": "https://www.benjoffe.com/fast-day-of-week",
+      "summary": "133 points · 22 comments",
+      "published": "2026-08-16T21:20:40+00:00"
     },
     {
       "source": "OSINT",
