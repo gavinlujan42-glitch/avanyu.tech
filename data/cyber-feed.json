@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T10:37:13.469378+00:00",
+  "updated": "2026-08-20T11:33:20.965103+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,59 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "INTROVERTED, ASKED A PEER FOR HELP, SHE SHRUGGED OF SO NOW I'M HERE FOR HELP!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtgkx1/introverted_asked_a_peer_for_help_she_shrugged_of/",
+      "summary": "Hi, I'm a first-year CSE (Cybersecurity) student. I have zero prior tech or coding knowledge, and no family in tech to guide me. Classes started 2 weeks ago. I am quite introverted, and after a discouraging attempt at asking someone in class for help, I've realized I need to rely on self-learning. I feel a bit overwhelmed right now, but I am genuinely motivated to learn deeply on my own. Since I am starting from absolute scratch, could you please guide me: What is the very first language or skil",
+      "published": "2026-08-20T11:16:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
+      "published": "2026-08-20T11:06:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+      "url": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus. The chain, tracked as GHSA-p9r8-2q67-fp86 and rated 9.4 on the CVSS v3.1 scoring system, impacts AIT-GUI",
+      "published": "2026-08-20T11:05:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Malicious Rust Crate arrayref Runs a Build-Time Payload",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtg9k1/malicious_rust_crate_arrayref_runs_a_buildtime/",
+      "summary": "submitted by /u/BattleRemote3157 [link] [comments]",
+      "published": "2026-08-20T11:00:09+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "New Study Challenges Common Assumptions About Screen Time For Kids",
+      "url": "https://hardware.slashdot.org/story/26/08/19/2231240/new-study-challenges-common-assumptions-about-screen-time-for-kids?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "bryanandaimee shares a report from ScienceDaily: A Finnish study has found an unexpected association between screen use and cognitive performance. Children who accumulated more screen time as they grew up tended to show better cognitive processing during adolescence. One of the researchers cautions against viewing screen time as entirely harmful and says the goal should be to balance physical activity with screen use that encourages active thinking. [...] \"The findings suggest that screen time c",
+      "published": "2026-08-20T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "url": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
+      "published": "2026-08-20T10:38:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "If this is true, the hyperscalers are toast",
+      "url": "https://klementoninvesting.substack.com/p/if-this-is-true-the-hyperscalers",
+      "summary": "10 points · 11 comments",
+      "published": "2026-08-20T10:38:06+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "8 points · 4 comments",
+      "summary": "85 points · 24 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -48,6 +97,13 @@
       "published": "2026-08-20T09:46:54+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+      "url": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
+      "published": "2026-08-20T08:42:03+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Do people in cybersecurity care about the company brand?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtdsgc/do_people_in_cybersecurity_care_about_the_company/",
@@ -58,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Don't Paste the AI, please",
       "url": "https://dontpastetheai.com/",
-      "summary": "288 points · 154 comments",
+      "summary": "421 points · 204 comments",
       "published": "2026-08-20T08:20:44+00:00"
     },
     {
@@ -86,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Windows brings out the Rorschach test in everyone",
       "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
-      "summary": "188 points · 80 comments",
+      "summary": "214 points · 87 comments",
       "published": "2026-08-20T06:16:40+00:00"
     },
     {
@@ -104,17 +160,10 @@
       "published": "2026-08-20T03:30:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "BlackHat Arsenal Lab02",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vt7is8/blackhat_arsenal_lab02/",
-      "summary": "We had a great turnout at our Black Hat Arsenal Lab 02, standing room responses on our Open Source Github repo ( https://github.com/mukul975/BHUSA-Anthropic-CyberSecurity-Skills ) Currently, we are touching 30k stars. We are doing our Lab on Maven, the same lab we did in Arsenal ( https://maven.com/p/aa5579/black-hat-arsenal-lab-02-cybersecurity-skills-for-ai ) and on our free community playground ( www.casky.ai ) Come join in building the largest open source AI Cyber Skills Repo and test your s",
-      "published": "2026-08-20T02:59:25+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Turns are Better than Radians (2022)",
       "url": "https://www.computerenhance.com/p/turns-are-better-than-radians",
-      "summary": "215 points · 103 comments",
+      "summary": "230 points · 113 comments",
       "published": "2026-08-20T01:29:12+00:00"
     },
     {
@@ -177,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
       "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "summary": "210 points · 54 comments",
+      "summary": "219 points · 56 comments",
       "published": "2026-08-19T19:06:16+00:00"
     },
     {
@@ -198,14 +247,14 @@
       "source": "HACKER NEWS",
       "title": "Unsloth Dynamic 3.0 GGUFs",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "summary": "275 points · 99 comments",
+      "summary": "284 points · 99 comments",
       "published": "2026-08-19T18:36:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Go 1.27",
       "url": "https://go.dev/blog/go1.27",
-      "summary": "652 points · 190 comments",
+      "summary": "669 points · 198 comments",
       "published": "2026-08-19T18:33:49+00:00"
     },
     {
@@ -240,14 +289,14 @@
       "source": "HACKER NEWS",
       "title": "Google has stopped pushing Git tags for some Android source code",
       "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "summary": "583 points · 237 comments",
+      "summary": "623 points · 245 comments",
       "published": "2026-08-19T17:47:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenRouter is joining Stripe",
       "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "summary": "849 points · 443 comments",
+      "summary": "865 points · 446 comments",
       "published": "2026-08-19T17:32:38+00:00"
     },
     {
@@ -296,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Casio F-B100W-1A",
       "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "summary": "387 points · 326 comments",
+      "summary": "402 points · 335 comments",
       "published": "2026-08-19T15:28:01+00:00"
     },
     {
@@ -310,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "Manabu Kosaka's Handmade Paper Sculptures",
       "url": "https://coca11272000.wixsite.com/manabukosaka",
-      "summary": "134 points · 14 comments",
+      "summary": "142 points · 17 comments",
       "published": "2026-08-19T14:20:10+00:00"
     },
     {
@@ -342,17 +391,10 @@
       "published": "2026-08-19T13:00:43+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Friends to Learn with",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vsljmg/friends_to_learn_with/",
-      "summary": "I am someone who loves to study with friends. My friends are all in different fields. If you want to form a study group with me feel free to reach out. submitted by /u/Lanky_Anxiety2396 [link] [comments]",
-      "published": "2026-08-19T12:51:03+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Geolocating a random island using geometry and CUDA programming",
       "url": "https://yassa9.github.io/osint/gralhix-004/",
-      "summary": "483 points · 78 comments",
+      "summary": "487 points · 78 comments",
       "published": "2026-08-19T12:19:52+00:00"
     },
     {
@@ -380,15 +422,8 @@
       "source": "HACKER NEWS",
       "title": "A joke domain purchase turned in geopolitical warfare",
       "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "summary": "910 points · 144 comments",
+      "summary": "923 points · 146 comments",
       "published": "2026-08-19T11:21:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
-      "published": "2026-08-19T11:14:28+00:00"
     },
     {
       "source": "OSINT",
@@ -396,13 +431,6 @@
       "url": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
       "published": "2026-08-19T11:01:48+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Babies Born Under Sugar Rationing Grew Into Adults With Lower Cancer Risk",
-      "url": "https://science.slashdot.org/story/26/08/19/0534224/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A study of more than 64,000 people born around the end of Britain's postwar sugar rationing found that those exposed to less sugar during their first 1,000 days had lower rates of five cancers decades later, including roughly 69% lower liver cancer risk and 36% lower breast cancer risk. They also \"showed signs of slower biological aging\" and \"continued to consume less sugar and had healthier diets overall,\" according to the authors of a new study published in The Conversation. From the report: A",
-      "published": "2026-08-19T11:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -426,38 +454,17 @@
       "published": "2026-08-19T06:01:53+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "url": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web shell as a fully equipped extortion platform capable of mapping sensitive vault",
-      "published": "2026-08-19T05:39:25+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "fx :Tiny, open, native coding agent.",
       "url": "https://fx.sh",
-      "summary": "271 points · 115 comments",
+      "summary": "282 points · 118 comments",
       "published": "2026-08-18T22:00:21+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
-      "published": "2026-08-18T17:47:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "url": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
-      "published": "2026-08-18T17:44:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sol loves to cheat",
       "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "summary": "171 points · 126 comments",
+      "summary": "178 points · 132 comments",
       "published": "2026-08-18T16:29:51+00:00"
     },
     {
@@ -471,22 +478,15 @@
       "source": "HACKER NEWS",
       "title": "The Chauffeur Problem",
       "url": "https://engines.egr.uh.edu/episode/1495",
-      "summary": "22 points · 2 comments",
+      "summary": "25 points · 5 comments",
       "published": "2026-08-16T23:55:35+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A faster way to calculate the day of the week",
       "url": "https://www.benjoffe.com/fast-day-of-week",
-      "summary": "159 points · 28 comments",
+      "summary": "174 points · 35 comments",
       "published": "2026-08-16T21:20:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Free v4 front end for your v6 site",
-      "url": "https://v4-frontend.netiter.com/",
-      "summary": "13 points · 1 comments",
-      "published": "2026-08-16T08:13:22+00:00"
     },
     {
       "source": "OSINT",
