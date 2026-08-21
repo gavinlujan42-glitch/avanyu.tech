@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-21T01:45:48.855123+00:00",
-  "item_count": 64,
+  "updated": "2026-08-21T03:09:46.405841+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,39 +27,67 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Does a SOC have to constantly justify its existence?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vu3ir6/does_a_soc_have_to_constantly_justify_its/",
+      "summary": "I've read that working in cybersec is stressful because if nothing goes wrong, your paycheck is questioned, and if something goes wrong, your paycheck is questioned. Is this true? It seems like a stressful existence; how do you work with it as a professional? submitted by /u/Fredrickjonjones [link] [comments]",
+      "published": "2026-08-21T02:22:12+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "It is a sign of the times that Amazon gets to call this fair use",
-      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-      "summary": "12 points · 3 comments",
-      "published": "2026-08-21T00:34:32+00:00"
+      "title": "Artificial Intelligence Policy",
+      "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+      "summary": "21 points · 11 comments",
+      "published": "2026-08-21T01:37:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "There's no such thing as a small software team anymore",
       "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "summary": "19 points · 13 comments",
+      "summary": "31 points · 49 comments",
       "published": "2026-08-21T00:28:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Copyright does not protect AI-generated content in EU",
       "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "summary": "80 points · 68 comments",
+      "summary": "145 points · 133 comments",
       "published": "2026-08-21T00:15:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Stealth Model",
       "url": "https://openrouter.ai/stealth/ox-alpha",
-      "summary": "26 points · 10 comments",
+      "summary": "47 points · 31 comments",
       "published": "2026-08-20T23:56:35+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "China's YouTube Rival Bilibili Is Going Global",
+      "url": "https://news.slashdot.org/story/26/08/20/208238/chinas-youtube-rival-bilibili-is-going-global?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Bilibili, often described as China's answer to YouTube, is relaunching its international app and preparing an English-language site as part of a broader push into the U.S., Europe, Japan, and other markets. The company is courting Western creators like MrBest, hiring community and moderation staff globally, and building tools for brand partnerships. Semafor reports: The revamped international app no longer requires identity verification -- meaning users can sign up without having to provide a pa",
+      "published": "2026-08-20T23:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Detecting scraper bots through scroll behaviour",
       "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-      "summary": "26 points · 9 comments",
+      "summary": "29 points · 10 comments",
       "published": "2026-08-20T22:47:52+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Watching TikTok Videos and Instagram Reels Deactivates the Brain's Cognitive Control Network",
+      "url": "https://tech.slashdot.org/story/26/08/20/1928242/watching-tiktok-videos-and-instagram-reels-deactivates-the-brains-cognitive-control-network?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from RathBiotaClan: Millions of people finish short video after short video every day; a new brain-scan study shows that the very act of finishing a clip they like temporarily quiets the brain regions that normally help them stay focused and weigh longer-term goals. When people watch a short video they enjoy enough to finish, two brain regions involved in cognitive control show significant deactivation. That is the central finding of a new study from Zhejiang ",
+      "published": "2026-08-20T22:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Ukrainian Publishers Call For Support After Russian Attacks Destroy 10 Million Books",
+      "url": "https://news.slashdot.org/story/26/08/20/201221/ukrainian-publishers-call-for-support-after-russian-attacks-destroy-10-million-books?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Russian attacks on Ukrainian publishing infrastructure in July and August destroyed roughly 10 million books, which equates to about 30% of Ukraine's annual book output. The Ukrainian Book Institute is warning of a potential \"collapse of the entire book ecosystem\" and is calling for international financial and industry support to help publishers, printers, and distributors recover. The Guardian reports: A major attack on August 1 hit warehouses belonging to the RNK-Ranok publishing group in Khar",
+      "published": "2026-08-20T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -74,11 +97,11 @@
       "published": "2026-08-20T20:22:35+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "summary": "970 points · 224 comments",
-      "published": "2026-08-20T20:07:26+00:00"
+      "source": "SLASHDOT",
+      "title": "Voters Aren't Waiting For November to Try Ousting Officials Over Data Centers",
+      "url": "https://politics.slashdot.org/story/26/08/20/1951246/voters-arent-waiting-for-november-to-try-ousting-officials-over-data-centers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A growing backlash against AI data centers is spilling into local politics, with residents in more than a dozen communities pushing recall elections against officials who approved projects. \"People are standing up and saying, 'Sorry, we don't want these data centers in our communities for a number of reasons,'\" Senator Bernie Sanders, the Vermont independent, said in an interview. \"'If you can't have the guts to stand up to some large corporation, you should not continue serving in office.'\" The",
+      "published": "2026-08-20T20:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -96,23 +119,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The August 17 outage, and the work ahead",
+      "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "314 points · 360 comments",
+      "summary": "360 points · 408 comments",
       "published": "2026-08-20T19:22:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "SpacetimeDB: A Short Technical Review",
+      "url": "https://strn.cat/posts/spacetime/",
+      "summary": "62 points · 15 comments",
+      "published": "2026-08-20T19:19:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "summary": "221 points · 124 comments",
+      "summary": "229 points · 134 comments",
       "published": "2026-08-20T19:05:36+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Does Using AI to Edit an Op-Ed on Students' Math Skills Undermine the Argument?",
+      "url": "https://news.slashdot.org/story/26/08/20/1729258/does-using-ai-to-edit-an-op-ed-on-students-math-skills-undermine-the-argument?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The Guardian: A math professor at the University of California, Berkeley, criticizing a \"severe\" math deficiency among students in an op-ed for the San Francisco Standard, admitted to using artificial intelligence to help edit the piece. The Standard published a 2,000-word piece by Zvezdelina Stankova last week, in which the professor said some of her math students were \"five to eight years\" behind and lacked a \"middle school\" education on fractions and b",
+      "published": "2026-08-20T19:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why aren't smart people happier? (2022)",
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "summary": "85 points · 139 comments",
+      "summary": "100 points · 153 comments",
       "published": "2026-08-20T18:38:47+00:00"
     },
     {
@@ -123,18 +160,18 @@
       "published": "2026-08-20T18:20:20+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Consumer Rights Wiki",
-      "url": "https://consumerrights.wiki/w/Main_Page",
-      "summary": "218 points · 32 comments",
-      "published": "2026-08-20T18:19:51+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "ZTNA Effectiveness",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtqxoq/ztna_effectiveness/",
       "summary": "I am going to be pitching Zero Trust to the business as a way to both help us be more secure and as a way to better understand how data moves within our network. Now before I get into this, I know the solutions I'm going to ask about are not by themselves Zero Trust. Zero Trust is a big topic an there's more to it than just these \"ZTNA\" products. Suppose I get approval and am given a blank check but not unlimited time. I'm trying to understand how some products like AppGate, zScaler, Netskope, T",
       "published": "2026-08-20T18:02:44+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "YouTube Offers Creators Millions of Dollars to Stay Off Netflix",
+      "url": "https://news.slashdot.org/story/26/08/20/1715225/youtube-offers-creators-millions-of-dollars-to-stay-off-netflix?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Bloomberg reports that YouTube is offering major creators millions of dollars to keep some content exclusive to its platform as Netflix increasingly signs YouTube-native talent to non-exclusive deals. YouTube has also warned that creators who simultaneously publish on Netflix could lose marketing support, event opportunities, and access to revenue from certain brand campaigns. Quartz reports: Bloomberg described two categories of payment: funding directed at specific programs, and a portion of t",
+      "published": "2026-08-20T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -147,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "199 points · 74 comments",
+      "summary": "204 points · 78 comments",
       "published": "2026-08-20T17:50:02+00:00"
     },
     {
@@ -165,6 +202,13 @@
       "published": "2026-08-20T17:23:48+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Reverse-Lookup Service Exposed Millions of Photos of People's Faces",
+      "url": "https://yro.slashdot.org/story/26/08/20/173219/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Security researcher Jeremiah Fowler found that people-search service ClarityCheck left more than 9 million image files accessible in an unsecured Amazon S3 bucket, despite advertising its reverse-image search as \"private and secure.\" A separate misconfiguration also exposed email addresses, phone numbers, and other personal information. Wired reports: Overall, according to findings from independent security researcher Jeremiah Fowler, the exposed ClarityCheck database contained roughly 450 GB of",
+      "published": "2026-08-20T17:05:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
       "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
@@ -172,18 +216,18 @@
       "published": "2026-08-20T16:59:44+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How threat actors target critical infra",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtn34z/how_threat_actors_target_critical_infra/",
-      "summary": "CISA just published an advisory regarding an active threat to Siemens PLCs. The threat actors are conducting reconnaissance and capability development against U.S.-based Siemens PLC installations using AI-generated exploitation scripts disguised as legitimate monitoring tools. Specifically, the threat actors are leveraging snap7.dll/python-snap7 combined with AI-assisted scripting to create custom tools that mimic legitimate OT monitoring solutions. Techniques: Using Internet scanning services (",
-      "published": "2026-08-20T15:43:50+00:00"
+      "source": "SLASHDOT",
+      "title": "FCC Abolishes Gigabit Speed Goal, Suggesting It Is Unfair To Slower Technologies",
+      "url": "https://mobile.slashdot.org/story/26/08/19/2141221/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: The Federal Communications Commission last week eliminated the gigabit speed goal established during the Biden administration and declared that current levels of broadband deployment in the US are acceptable. Though fiber networks have routinely offered such speeds for years, the FCC said the gigabit speed goal is not \"technologically neutral,\" suggesting that it isn't fair to other, slower technologies. In 2024, the FCC raised its broadband",
+      "published": "2026-08-20T16:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Reverse-lookup service exposed millions of photos of people’s faces",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmwna/reverselookup_service_exposed_millions_of_photos/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-08-20T15:37:20+00:00"
+      "source": "HACKER NEWS",
+      "title": "Linux 7.2",
+      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+      "summary": "200 points · 73 comments",
+      "published": "2026-08-20T15:46:18+00:00"
     },
     {
       "source": "REDDIT",
@@ -198,6 +242,20 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmrz8/wifi_pineapple_in_the_office_story_of_failure/",
       "summary": "So about nine years ago our IDS detected a spoofed network in our India office. We sent out a notice to alert staff about its presence and to be especially careful when attempting to connect to WiFi until the physical device could be located and disposed of. Multiple people there actually manually disconnected from the corporate network and connected to the spoofed one to \"see what would happen\" and compromised their workstations and accounts. It was my opinion that anyone who knowingly did this",
       "published": "2026-08-20T15:32:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://github.com/zachahn/vomit",
+      "summary": "195 points · 214 comments",
+      "published": "2026-08-20T15:26:02+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Japan to Require AI Firms to Disclose Training Data",
+      "url": "https://yro.slashdot.org/story/26/08/19/2322222/japan-to-require-ai-firms-to-disclose-training-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Japan is preparing a nonbinding \"comply or explain\" code that would urge generative AI companies, including foreign firms operating in Japan, to disclose what models they use, what training data they rely on, and how that data was collected. The proposal would also let rights holders ask whether specific webpages were included in training datasets. The Japan Times reports: The draft code comprises three principles. The first principle requires businesses to disclose the generative AI models they",
+      "published": "2026-08-20T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -252,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "395 points · 364 comments",
+      "summary": "409 points · 371 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -273,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "503 points · 106 comments",
+      "summary": "528 points · 109 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -312,11 +370,11 @@
       "published": "2026-08-20T11:06:14+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "885 points · 289 comments",
-      "published": "2026-08-20T10:08:52+00:00"
+      "source": "SLASHDOT",
+      "title": "New Study Challenges Common Assumptions About Screen Time For Kids",
+      "url": "https://hardware.slashdot.org/story/26/08/19/2231240/new-study-challenges-common-assumptions-about-screen-time-for-kids?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "bryanandaimee shares a report from ScienceDaily: A Finnish study has found an unexpected association between screen use and cognitive performance. Children who accumulated more screen time as they grew up tended to show better cognitive processing during adolescence. One of the researchers cautions against viewing screen time as entirely harmful and says the goal should be to balance physical activity with screen use that encourages active thinking. [...] \"The findings suggest that screen time c",
+      "published": "2026-08-20T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -333,11 +391,25 @@
       "published": "2026-08-20T09:46:54+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Rescue Mission Is Called Off For NASA's Aging Swift Space Telescope",
+      "url": "https://science.slashdot.org/story/26/08/19/2213259/rescue-mission-is-called-off-for-nasas-aging-swift-space-telescope?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "NASA has called off a $30 million mission to rescue its aging Swift space telescope after Katalyst Space's Link spacecraft developed persistent control and positioning problems. The Associated Press reports: Katalyst said Link will not attempt to capture Swift and boost it to a higher orbit because of problems with controlling the spacecraft. NASA said this means the telescope will plunge through the atmosphere after more than 20 years of tracking some of the biggest explosions in the universe l",
+      "published": "2026-08-20T07:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft says August Windows updates may cause gaming issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
       "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
       "published": "2026-08-20T06:51:03+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Whistleblower Arturo Bejar Leads Testimony In Landmark Trial Against Meta",
+      "url": "https://tech.slashdot.org/story/26/08/19/2329222/whistleblower-arturo-bejar-leads-testimony-in-landmark-trial-against-meta?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from NPR: Meta was infused with a culture in which employees obsessed over user numbers and consistently pushed safety to the side, according to Arturo Bejar, a former employee turned whistleblower, who testified today in the landmark child safety trial against the social media company. Only one man had the ability to change that, Bejar said: CEO Mark Zuckerberg. But he didn't. \"At the end of the day, it was the company culture that Mark had created that made ",
+      "published": "2026-08-20T03:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -350,7 +422,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "333 points · 207 comments",
+      "summary": "352 points · 215 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -385,22 +457,15 @@
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "574 points · 163 comments",
+      "summary": "608 points · 168 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "560 points · 258 comments",
+      "summary": "595 points · 263 comments",
       "published": "2026-08-18T15:50:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "My Microscope Is a Dashcam",
-      "url": "https://xecaz.com/reverse.engineering/tomlovdm9/",
-      "summary": "8 points · 1 comments",
-      "published": "2026-08-17T10:24:18+00:00"
     },
     {
       "source": "REDDIT",
@@ -408,6 +473,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vqco4n/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-17T00:00:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
+      "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
+      "summary": "13 points · 0 comments",
+      "published": "2026-08-14T20:49:29+00:00"
     },
     {
       "source": "OSINT",
