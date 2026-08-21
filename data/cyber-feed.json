@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T17:59:28.887385+00:00",
+  "updated": "2026-08-21T18:46:52.119141+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,34 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Scientists release biggest 2D map of the universe",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "summary": "6 points · 3 comments",
+      "published": "2026-08-21T18:36:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Log everything, I’m begging you",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vuooju/log_everything_im_begging_you/",
+      "summary": "Yes, there’s noise you can filter out, but you need to log things! A client I work with finally implemented DNS resolver logs and we found unmanaged devices (that’s its own headache) that were requesting domains ranging from guns to porn and malware and everything in between. Due to the already sparse logging, we didn’t know about it until the DNS logs started coming in. Now someone in HR gets to talk to some users about proper conduct in the workplace and the BYOD policy is getting reviewed. su",
+      "published": "2026-08-21T18:36:19+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Micron Unveils $10 Billion AI Memory Research Lab In Boise",
+      "url": "https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Micron says it will spend $10 billion over the next decade on a new research lab in Boise focused on advanced memory technologies, computing systems, and future chip manufacturing. Here are some details, as reported by Reuters: - Micron Research Labs will bring together customers, academia, government and the broader semiconductor ecosystem to pursue breakthroughs, the company said. - The latest investment builds on the more than $250 billion that Micron had separately committed to manufacturing",
+      "published": "2026-08-21T18:25:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+      "published": "2026-08-21T18:01:30+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Linus Torvalds Endures A Debug Session From Hell, 'Enormously Helped' By AI",
       "url": "https://it.slashdot.org/story/26/08/21/1742239/linus-torvalds-endures-a-debug-session-from-hell-enormously-helped-by-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -37,8 +65,15 @@
       "source": "HACKER NEWS",
       "title": "Rebuilding our Electron meeting-recording engine in Swift",
       "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-      "summary": "7 points · 1 comments",
+      "summary": "25 points · 2 comments",
       "published": "2026-08-21T17:33:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Galactic Compass 2: now with new augmented reality mode",
+      "url": "https://interconnected.org/home/2026/08/21/galactic",
+      "summary": "7 points · 2 comments",
+      "published": "2026-08-21T17:30:38+00:00"
     },
     {
       "source": "HACKER NEWS",
@@ -46,20 +81,6 @@
       "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
       "summary": "1 points · 0 comments",
       "published": "2026-08-21T17:00:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Another better lower bound for n=17 square packing",
-      "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
-      "summary": "8 points · 1 comments",
-      "published": "2026-08-21T16:50:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
-      "summary": "16 points · 7 comments",
-      "published": "2026-08-21T16:27:52+00:00"
     },
     {
       "source": "REDDIT",
@@ -72,22 +93,15 @@
       "source": "HACKER NEWS",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "61 points · 14 comments",
+      "summary": "128 points · 54 comments",
       "published": "2026-08-21T16:25:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What happens when a GPU reads memory",
       "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "summary": "22 points · 1 comments",
+      "summary": "37 points · 8 comments",
       "published": "2026-08-21T16:16:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Omacom Foundation Launches with $8M",
-      "url": "https://omarchy.org/news/2026/08/omacom-foundation-launches-with-8-million/",
-      "summary": "116 points · 92 comments",
-      "published": "2026-08-21T16:03:47+00:00"
     },
     {
       "source": "REDDIT",
@@ -95,13 +109,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vukhkf/contemplating_if_i_should_still_get_my_degree/",
       "summary": "Hi everyone! I’m having a hard time deciding if I should continue with my Bachelor’s degree in Cybersecurity. I already have an NYU Cybersecurity Bootcamp Certificate, ISC2 CC, and CompTIA Security+. Right now, I’m preparing for the CompTIA CySA+ exam this Sept. using TryHackMe and Sybex. After that, I’m planning to prepare for PenTest+. I’m trying to earn as many certifications as I can before starting my Bachelor’s degree at WGU. My question is: Do I still have a good chance of getting a cyber",
       "published": "2026-08-21T16:03:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I Just Want to Search",
-      "url": "https://www.0xsid.com/blog/just-want-to-search",
-      "summary": "67 points · 21 comments",
-      "published": "2026-08-21T16:00:54+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -125,6 +132,13 @@
       "published": "2026-08-21T15:52:10+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "summary": "30 points · 7 comments",
+      "published": "2026-08-21T15:51:10+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
@@ -133,23 +147,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "New York’s office market is home to the most tech workers: CBRE report",
-      "url": "https://www.cnbc.com/2026/08/21/new-york-san-francisco-tech-talent-cbre.html",
-      "summary": "18 points · 4 comments",
-      "published": "2026-08-21T15:36:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI boosted homework scores, then exam scores dropped: Study",
-      "url": "https://canews24.online/?p=71",
-      "summary": "163 points · 118 comments",
-      "published": "2026-08-21T15:25:42+00:00"
+      "title": "I ran Photoshop on a £0.60 computer chip",
+      "url": "https://pointinthecloud.com/2026-08-19-144600.html",
+      "summary": "25 points · 1 comments",
+      "published": "2026-08-21T15:17:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "summary": "113 points · 43 comments",
+      "summary": "165 points · 76 comments",
       "published": "2026-08-21T15:17:04+00:00"
     },
     {
@@ -165,13 +172,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
       "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
       "published": "2026-08-21T14:54:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How I came to write that paper with Leslie Lamport",
-      "url": "https://lawrencecpaulson.github.io//2026/08/21/Lamport.html",
-      "summary": "28 points · 8 comments",
-      "published": "2026-08-21T14:46:01+00:00"
     },
     {
       "source": "REDDIT",
@@ -191,8 +191,15 @@
       "source": "HACKER NEWS",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "summary": "685 points · 250 comments",
+      "summary": "759 points · 274 comments",
       "published": "2026-08-21T13:56:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
+      "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
+      "summary": "36 points · 1 comments",
+      "published": "2026-08-21T13:52:53+00:00"
     },
     {
       "source": "OSINT",
@@ -207,13 +214,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vugmes/nmap_plugin_vulnersnse_finally_got_a_major_update/",
       "summary": "The familiar vulners.nse that many of you have used like this: nmap -sV --script vulners finally got a proper update. It still does the same basic job: take what Nmap finds on a port and show the known vulnerabilities. But v2.0 is much better at it: better software/version detection, including web apps and raw banners 700+ fingerprint rules and 900+ HTTP paths parallel probing that follows Nmap timing settings cleaner output and proper machine-readable results findings ranked by real-world risk:",
       "published": "2026-08-21T13:37:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Radiation damage to Hubble has been 4.3 years out of phase with the Solar cycle",
-      "url": "https://arxiv.org/abs/2608.18214",
-      "summary": "77 points · 25 comments",
-      "published": "2026-08-21T13:35:17+00:00"
     },
     {
       "source": "REDDIT",
@@ -233,14 +233,14 @@
       "source": "HACKER NEWS",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "summary": "210 points · 29 comments",
+      "summary": "250 points · 32 comments",
       "published": "2026-08-21T13:11:28+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
       "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "summary": "129 points · 77 comments",
+      "summary": "151 points · 98 comments",
       "published": "2026-08-21T13:07:26+00:00"
     },
     {
@@ -249,6 +249,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
       "published": "2026-08-21T12:25:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Felony charges for citizen deleting phone data at US Border",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "summary": "64 points · 126 comments",
+      "published": "2026-08-21T12:10:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -289,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "summary": "378 points · 124 comments",
+      "summary": "388 points · 126 comments",
       "published": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -322,9 +329,9 @@
     },
     {
       "source": "OSINT",
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
       "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
       "published": "2026-08-21T06:06:11+00:00"
     },
     {
@@ -405,13 +412,6 @@
       "published": "2026-08-20T19:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "YouTube Offers Creators Millions of Dollars to Stay Off Netflix",
-      "url": "https://news.slashdot.org/story/26/08/20/1715225/youtube-offers-creators-millions-of-dollars-to-stay-off-netflix?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Bloomberg reports that YouTube is offering major creators millions of dollars to keep some content exclusive to its platform as Netflix increasingly signs YouTube-native talent to non-exclusive deals. YouTube has also warned that creators who simultaneously publish on Netflix could lose marketing support, event opportunities, and access to revenue from certain brand campaigns. Quartz reports: Bloomberg described two categories of payment: funding directed at specific programs, and a portion of t",
-      "published": "2026-08-20T18:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
@@ -433,13 +433,6 @@
       "published": "2026-08-20T16:59:44+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "WiFi pineapple in the office story of failure",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmrz8/wifi_pineapple_in_the_office_story_of_failure/",
-      "summary": "So about nine years ago our IDS detected a spoofed network in our India office. We sent out a notice to alert staff about its presence and to be especially careful when attempting to connect to WiFi until the physical device could be located and disposed of. Multiple people there actually manually disconnected from the corporate network and connected to the spoofed one to \"see what would happen\" and compromised their workstations and accounts. It was my opinion that anyone who knowingly did this",
-      "published": "2026-08-20T15:32:30+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
@@ -452,6 +445,13 @@
       "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
       "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
       "published": "2026-08-20T14:36:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A look under our trunk: what's in our compute",
+      "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
+      "summary": "12 points · 0 comments",
+      "published": "2026-08-20T14:13:45+00:00"
     },
     {
       "source": "OSINT",
@@ -468,11 +468,11 @@
       "published": "2026-08-20T13:48:24+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-      "published": "2026-08-20T12:14:38+00:00"
+      "source": "HACKER NEWS",
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "summary": "63 points · 141 comments",
+      "published": "2026-08-19T06:13:31+00:00"
     },
     {
       "source": "REDDIT",
@@ -492,7 +492,7 @@
       "source": "HACKER NEWS",
       "title": "Quantifying the honey bee dance floor",
       "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
-      "summary": "9 points · 0 comments",
+      "summary": "12 points · 1 comments",
       "published": "2026-08-14T02:01:47+00:00"
     },
     {
