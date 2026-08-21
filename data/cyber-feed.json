@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T18:46:52.119141+00:00",
+  "updated": "2026-08-21T19:30:09.900636+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,24 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Man Dressed As Darth Vader Defends Flock Cameras to San Diego City Council",
+      "url": "https://yro.slashdot.org/story/26/08/21/1840254/man-dressed-as-darth-vader-defends-flock-cameras-to-san-diego-city-council?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A man dressed as Darth Vader used a Public Safety and Livable Neighborhoods Committee meeting in San Diego to mock the city's use of Flock surveillance cameras, sarcastically arguing that the technology would help the \"emperor\" track \"rebel scum\" and find Luke Skywalker. \"This is what the emperor needs. This technology will help us find the rebel scum and the hidden base on Hoth,\" he said. The Hill reports: He urged that the cameras be used to surveil any \"rebel scum as they move from playground",
+      "published": "2026-08-21T19:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How calendar invites abuse Google's own URL signing",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vuov99/how_calendar_invites_abuse_googles_own_url_signing/",
+      "summary": "Nothing new here. URL signing has been public since 2011, calendar phishing since 2019. This just connects the two. The trick: Google wraps outbound links as google.com/url?q= and signs the ones it generates (usg, a keyed hash over the params). Valid signature, silent redirect. Missing or altered, you get the \"Redirect Notice\" warning. You can't forge it. But you don't need to, because Google signs it for you whenever you use its products. Drop your link in a calendar invite and Google hands you",
+      "published": "2026-08-21T18:42:43+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "summary": "6 points · 3 comments",
+      "summary": "27 points · 3 comments",
       "published": "2026-08-21T18:36:34+00:00"
     },
     {
@@ -65,15 +79,8 @@
       "source": "HACKER NEWS",
       "title": "Rebuilding our Electron meeting-recording engine in Swift",
       "url": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
-      "summary": "25 points · 2 comments",
+      "summary": "33 points · 6 comments",
       "published": "2026-08-21T17:33:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Galactic Compass 2: now with new augmented reality mode",
-      "url": "https://interconnected.org/home/2026/08/21/galactic",
-      "summary": "7 points · 2 comments",
-      "published": "2026-08-21T17:30:38+00:00"
     },
     {
       "source": "HACKER NEWS",
@@ -84,23 +91,37 @@
     },
     {
       "source": "REDDIT",
-      "title": "Is a Cybersecurity Degree Actually Worth It? Looking for Alternatives (Self-Taught / Certs Roadmaps)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vul4nj/is_a_cybersecurity_degree_actually_worth_it/",
-      "summary": "Hi everyone, I’m looking to break into cybersecurity and initially wanted to get a formal foundation by enrolling in a university (specifically looking at distance-learning options like The Open University UK to balance it with a full-time job). However, the deeper I looked into traditional programs, the more discouraged I became: 1. Time commitment: Programs taking up to 6 years part-time. 2. Outdated curriculum: Theory that lags far behind the actual threat landscape. 3. Poor support: Slow com",
-      "published": "2026-08-21T16:27:19+00:00"
+      "title": "Vulnerability Management",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vulxlo/vulnerability_management/",
+      "summary": "Currently using CrowdStrike and Tines to help automate vulnerability ticket submissions. I’m struggling with my workflows though and have noticed a large gap. We calculate SLA based on ExPRT ratings currently. So we filter by critical high medium or low and submit based on those segments. I submit tickets by remediation since that decreases ticket volume + resolves multiple CVEs at once if they share the same remediation. The flaw here is that if one CVE changes rating randomly, the SLA technica",
+      "published": "2026-08-21T16:56:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Another better lower bound for n=17 square packing",
+      "url": "http://gus-massa.blogspot.com/2026/08/another-better-lower-bound-for-n17.html",
+      "summary": "20 points · 2 comments",
+      "published": "2026-08-21T16:50:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "summary": "34 points · 27 comments",
+      "published": "2026-08-21T16:27:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "128 points · 54 comments",
+      "summary": "189 points · 76 comments",
       "published": "2026-08-21T16:25:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What happens when a GPU reads memory",
       "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "summary": "37 points · 8 comments",
+      "summary": "47 points · 11 comments",
       "published": "2026-08-21T16:16:42+00:00"
     },
     {
@@ -135,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "How we made a text-to-speech model respond in sub-50 ms",
       "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
-      "summary": "30 points · 7 comments",
+      "summary": "43 points · 10 comments",
       "published": "2026-08-21T15:51:10+00:00"
     },
     {
@@ -149,14 +170,14 @@
       "source": "HACKER NEWS",
       "title": "I ran Photoshop on a £0.60 computer chip",
       "url": "https://pointinthecloud.com/2026-08-19-144600.html",
-      "summary": "25 points · 1 comments",
+      "summary": "53 points · 6 comments",
       "published": "2026-08-21T15:17:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "summary": "165 points · 76 comments",
+      "summary": "229 points · 102 comments",
       "published": "2026-08-21T15:17:04+00:00"
     },
     {
@@ -191,14 +212,14 @@
       "source": "HACKER NEWS",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "summary": "759 points · 274 comments",
+      "summary": "813 points · 282 comments",
       "published": "2026-08-21T13:56:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Kodak's \"pre-invented\" lunar orbiter camera; or, the fate of SAMOS readout",
       "url": "https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/",
-      "summary": "36 points · 1 comments",
+      "summary": "40 points · 1 comments",
       "published": "2026-08-21T13:52:53+00:00"
     },
     {
@@ -233,15 +254,8 @@
       "source": "HACKER NEWS",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "summary": "250 points · 32 comments",
+      "summary": "287 points · 35 comments",
       "published": "2026-08-21T13:11:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "New Worlds: We are living in the future of J.G. Ballard or William Gibson",
-      "url": "https://precastreinforced.co.uk/2026/08/16/new-worlds/",
-      "summary": "151 points · 98 comments",
-      "published": "2026-08-21T13:07:26+00:00"
     },
     {
       "source": "OSINT",
@@ -254,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "summary": "64 points · 126 comments",
+      "summary": "121 points · 201 comments",
       "published": "2026-08-21T12:10:13+00:00"
     },
     {
@@ -296,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "summary": "388 points · 126 comments",
+      "summary": "396 points · 134 comments",
       "published": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -340,13 +354,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vu5r6h/cloudflare_workers_spectre_attack_leaks_jwt_at_12/",
       "summary": "submitted by /u/Smart_Office_631 [link] [comments]",
       "published": "2026-08-21T04:09:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Stress relief",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vu523m/stress_relief/",
-      "summary": "What does everyone do for stress relief? I took up yoga and it’s helping me manage. My cybersecurity role is stressful. There’s just two of us for cyber in a company of 800 and I often get pulled into sysadmin and help desk tasks. We do technically have help desk staff. submitted by /u/merkat106 [link] [comments]",
-      "published": "2026-08-21T03:35:31+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -405,13 +412,6 @@
       "published": "2026-08-20T19:59:19+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Does Using AI to Edit an Op-Ed on Students' Math Skills Undermine the Argument?",
-      "url": "https://news.slashdot.org/story/26/08/20/1729258/does-using-ai-to-edit-an-op-ed-on-students-math-skills-undermine-the-argument?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Guardian: A math professor at the University of California, Berkeley, criticizing a \"severe\" math deficiency among students in an op-ed for the San Francisco Standard, admitted to using artificial intelligence to help edit the piece. The Standard published a 2,000-word piece by Zvezdelina Stankova last week, in which the professor said some of her math students were \"five to eight years\" behind and lacked a \"middle school\" education on fractions and b",
-      "published": "2026-08-20T19:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
@@ -450,7 +450,7 @@
       "source": "HACKER NEWS",
       "title": "A look under our trunk: what's in our compute",
       "url": "https://waymo.com/blog/2026/08/look-under-our-trunk/",
-      "summary": "12 points · 0 comments",
+      "summary": "33 points · 3 comments",
       "published": "2026-08-20T14:13:45+00:00"
     },
     {
@@ -471,8 +471,15 @@
       "source": "HACKER NEWS",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "summary": "63 points · 141 comments",
+      "summary": "99 points · 158 comments",
       "published": "2026-08-19T06:13:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "People of ACM – Russ Cox",
+      "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
+      "summary": "18 points · 2 comments",
+      "published": "2026-08-17T07:12:15+00:00"
     },
     {
       "source": "REDDIT",
@@ -487,13 +494,6 @@
       "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
       "published": "2026-08-14T11:24:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Quantifying the honey bee dance floor",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0341456",
-      "summary": "12 points · 1 comments",
-      "published": "2026-08-14T02:01:47+00:00"
     },
     {
       "source": "OSINT",
