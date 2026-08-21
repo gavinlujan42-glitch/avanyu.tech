@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:32:53.522275+00:00",
+  "updated": "2026-08-21T11:54:47.136836+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -51,7 +51,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "summary": "93 points · 13 comments",
+      "summary": "123 points · 25 comments",
       "published": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -69,6 +69,13 @@
       "published": "2026-08-21T10:10:42+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "summary": "16 points · 0 comments",
+      "published": "2026-08-21T10:05:46+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
@@ -79,7 +86,7 @@
       "source": "HACKER NEWS",
       "title": "Small, native web tricks worth remembering",
       "url": "https://htmlcat.net/",
-      "summary": "45 points · 11 comments",
+      "summary": "59 points · 16 comments",
       "published": "2026-08-21T09:45:14+00:00"
     },
     {
@@ -107,8 +114,15 @@
       "source": "HACKER NEWS",
       "title": "The Lost Treasure of Sid Meier's Pirates",
       "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "summary": "114 points · 51 comments",
+      "summary": "124 points · 59 comments",
       "published": "2026-08-21T07:23:27+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "40 Fake npm Packages. WSL Was the Real Target.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vu94gm/40_fake_npm_packages_wsl_was_the_real_target/",
+      "summary": "Forty npm packages. About 84 minutes on the registry. And a payload that kept going after the packages were gone. CloudSEK traced BRIDGEHEAD , a typosquatting campaign impersonating chalk, axios, lodash, react, typescript and commander. The clever bit: the install script detects WSL and uses it as a path into the underlying Windows host , where it launches a native payload targeting crypto wallets, Chromium browser data and Telegram sessions. The GitHub-hosted payload stayed live for roughly 39 ",
+      "published": "2026-08-21T07:12:51+00:00"
     },
     {
       "source": "OSINT",
@@ -128,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
       "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "summary": "88 points · 42 comments",
+      "summary": "98 points · 47 comments",
       "published": "2026-08-21T06:59:40+00:00"
     },
     {
@@ -142,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
       "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "summary": "50 points · 29 comments",
+      "summary": "54 points · 31 comments",
       "published": "2026-08-21T05:39:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Japan tried to build an operating system for the world, the US intervened",
       "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "summary": "215 points · 103 comments",
+      "summary": "231 points · 122 comments",
       "published": "2026-08-21T05:31:34+00:00"
     },
     {
@@ -163,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Micron announces $10B research hub in Boise",
       "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
-      "summary": "34 points · 2 comments",
+      "summary": "45 points · 5 comments",
       "published": "2026-08-21T03:51:58+00:00"
     },
     {
@@ -191,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Ox Alpha",
       "url": "https://openrouter.ai/stealth/ox-alpha",
-      "summary": "176 points · 135 comments",
+      "summary": "180 points · 138 comments",
       "published": "2026-08-20T23:56:35+00:00"
     },
     {
@@ -240,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "554 points · 609 comments",
+      "summary": "563 points · 615 comments",
       "published": "2026-08-20T19:22:24+00:00"
     },
     {
@@ -254,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Why aren't smart people happier? (2022)",
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "summary": "195 points · 276 comments",
+      "summary": "203 points · 288 comments",
       "published": "2026-08-20T18:38:47+00:00"
     },
     {
@@ -282,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "292 points · 109 comments",
+      "summary": "296 points · 110 comments",
       "published": "2026-08-20T17:50:02+00:00"
     },
     {
@@ -319,13 +333,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmrz8/wifi_pineapple_in_the_office_story_of_failure/",
       "summary": "So about nine years ago our IDS detected a spoofed network in our India office. We sent out a notice to alert staff about its presence and to be especially careful when attempting to connect to WiFi until the physical device could be located and disposed of. Multiple people there actually manually disconnected from the corporate network and connected to the spoofed one to \"see what would happen\" and compromised their workstations and accounts. It was my opinion that anyone who knowingly did this",
       "published": "2026-08-20T15:32:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-      "url": "https://github.com/runvendo/vendo",
-      "summary": "42 points · 20 comments",
-      "published": "2026-08-20T15:29:52+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -380,15 +387,8 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "511 points · 435 comments",
+      "summary": "513 points · 439 comments",
       "published": "2026-08-20T13:23:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Data analyst tried to extort his former employer for $2.5 million",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtigr4/data_analyst_tried_to_extort_his_former_employer/",
-      "summary": "Guy named Cameron Curry was a data analyst at Brightly Software (acquired by Siemens). When he found out his contract wasn't getting renewed, instead of just updating his resume like a normal person, he used his access to pull employee PII, payroll data, and internal records before he lost access, then spent weeks emailing execs under a fake identity threatening to leak everything unless he got paid in crypto. He got caught because he used his mom's and sister's debit cards linked to the Coinbas",
-      "published": "2026-08-20T12:43:40+00:00"
     },
     {
       "source": "OSINT",
@@ -443,28 +443,28 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "409 points · 248 comments",
+      "summary": "415 points · 254 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "849 points · 190 comments",
+      "summary": "859 points · 190 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "756 points · 306 comments",
+      "summary": "767 points · 308 comments",
       "published": "2026-08-18T15:50:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Flat Chair by Sara Paculdo",
       "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "summary": "25 points · 9 comments",
+      "summary": "34 points · 11 comments",
       "published": "2026-08-17T14:01:37+00:00"
     },
     {
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "The case against a C alternative (2022)",
       "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-      "summary": "45 points · 36 comments",
+      "summary": "48 points · 37 comments",
       "published": "2026-08-16T15:17:09+00:00"
     },
     {
