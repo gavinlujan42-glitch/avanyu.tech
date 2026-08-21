@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T09:43:30.721959+00:00",
+  "updated": "2026-08-21T10:36:27.013821+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,32 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "url": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
+      "published": "2026-08-21T10:10:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Small, native web tricks worth remembering",
+      "url": "https://htmlcat.net/",
+      "summary": "21 points · 2 comments",
+      "published": "2026-08-21T09:45:14+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "W3 also has Cybersecurity Now",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vubaym/w3_also_has_cybersecurity_now/",
       "summary": "submitted by /u/No-Suggestion-4083 [link] [comments]",
       "published": "2026-08-21T09:21:58+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Junior Security Engineer at a HealthTech startup with no mentor — looking for advice",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vub5vt/junior_security_engineer_at_a_healthtech_startup/",
+      "summary": "Hi everyone, I’m currently working as a Junior Security Engineer at a HealthTech startup in North Africa . Our company operates from North Africa, but because we handle health-related services/data and are targeting the European market, we want our security and compliance practices to be aligned with EU requirements and recognized international standards . The challenge is that I’m currently the only person focused on cybersecurity, and I don’t have a senior security engineer, CISO, or mentor in",
+      "published": "2026-08-21T09:14:01+00:00"
     },
     {
       "source": "REDDIT",
@@ -44,8 +65,15 @@
       "source": "HACKER NEWS",
       "title": "The Lost Treasure of Sid Meier's Pirates",
       "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "summary": "69 points · 18 comments",
+      "summary": "96 points · 35 comments",
       "published": "2026-08-21T07:23:27+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "40 Fake npm Packages. WSL Was the Real Target.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vu94gm/40_fake_npm_packages_wsl_was_the_real_target/",
+      "summary": "Forty npm packages. About 84 minutes on the registry. And a payload that kept going after the packages were gone. CloudSEK traced BRIDGEHEAD , a typosquatting campaign impersonating chalk, axios, lodash, react, typescript and commander. The clever bit: the install script detects WSL and uses it as a path into the underlying Windows host , where it launches a native payload targeting crypto wallets, Chromium browser data and Telegram sessions. The GitHub-hosted payload stayed live for roughly 39 ",
+      "published": "2026-08-21T07:12:51+00:00"
     },
     {
       "source": "OSINT",
@@ -65,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
       "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "summary": "60 points · 29 comments",
+      "summary": "78 points · 38 comments",
       "published": "2026-08-21T06:59:40+00:00"
     },
     {
@@ -79,14 +107,14 @@
       "source": "HACKER NEWS",
       "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
       "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "summary": "37 points · 15 comments",
+      "summary": "41 points · 19 comments",
       "published": "2026-08-21T05:39:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Japan tried to build an operating system for the world, the US intervened",
       "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "summary": "139 points · 67 comments",
+      "summary": "178 points · 82 comments",
       "published": "2026-08-21T05:31:34+00:00"
     },
     {
@@ -100,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Micron announces $10B research hub in Boise",
       "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
-      "summary": "19 points · 1 comments",
+      "summary": "25 points · 1 comments",
       "published": "2026-08-21T03:51:58+00:00"
     },
     {
@@ -128,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Ox Alpha",
       "url": "https://openrouter.ai/stealth/ox-alpha",
-      "summary": "150 points · 113 comments",
+      "summary": "164 points · 124 comments",
       "published": "2026-08-20T23:56:35+00:00"
     },
     {
@@ -177,14 +205,14 @@
       "source": "HACKER NEWS",
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "521 points · 587 comments",
+      "summary": "538 points · 596 comments",
       "published": "2026-08-20T19:22:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "summary": "307 points · 163 comments",
+      "summary": "316 points · 164 comments",
       "published": "2026-08-20T19:05:36+00:00"
     },
     {
@@ -198,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Why aren't smart people happier? (2022)",
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "summary": "177 points · 254 comments",
+      "summary": "189 points · 259 comments",
       "published": "2026-08-20T18:38:47+00:00"
     },
     {
@@ -226,15 +254,8 @@
       "source": "HACKER NEWS",
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "282 points · 107 comments",
+      "summary": "284 points · 107 comments",
       "published": "2026-08-20T17:50:02+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "With TLS certificate lifetimes getting shorter, how are you handling certificate renewals across multiple servers and environments?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtqgyh/with_tls_certificate_lifetimes_getting_shorter/",
-      "summary": "How are you guys dealing with TLS certificate renewals these days? I’m wondering because with certificate lifetimes getting shorter, I’m starting to think manual renewals are going to become a bigger pain, especially when you have certificates spread across a bunch of servers and environments. For those managing this at work, are you just using Certbot/ACME and letting everything renew automatically, or do you have some other setup? Also, has anyone actually had an automated renewal fail without",
-      "published": "2026-08-20T17:46:05+00:00"
     },
     {
       "source": "OSINT",
@@ -275,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
       "url": "https://github.com/runvendo/vendo",
-      "summary": "36 points · 20 comments",
+      "summary": "38 points · 20 comments",
       "published": "2026-08-20T15:29:52+00:00"
     },
     {
@@ -307,13 +328,6 @@
       "published": "2026-08-20T14:01:11+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What's with vendors like Cisco (Splunk) and Tenable never getting back to potential customers?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtkbpm/whats_with_vendors_like_cisco_splunk_and_tenable/",
-      "summary": "Cisco says they'll reach out in something like 6 hours, and Tenable has signed me up to and sent 4 newsletters yet no response from sales? You'd think a potential customer with 10k users and global infastructure would tempt them, but apparently not. submitted by /u/Hole-Specialist-2748 [link] [comments]",
-      "published": "2026-08-20T14:00:13+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
       "url": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
@@ -338,7 +352,7 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "494 points · 420 comments",
+      "summary": "504 points · 425 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -415,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "399 points · 245 comments",
+      "summary": "403 points · 247 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -433,38 +447,24 @@
       "published": "2026-08-19T20:53:38+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-      "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
-      "published": "2026-08-19T20:07:12+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "801 points · 190 comments",
+      "summary": "823 points · 189 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "729 points · 301 comments",
+      "summary": "738 points · 304 comments",
       "published": "2026-08-18T15:50:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Version Control for Everything",
-      "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
-      "summary": "37 points · 27 comments",
-      "published": "2026-08-17T19:28:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Flat Chair by Sara Paculdo",
       "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "summary": "5 points · 0 comments",
+      "summary": "13 points · 4 comments",
       "published": "2026-08-17T14:01:37+00:00"
     },
     {
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "The case against a C alternative (2022)",
       "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-      "summary": "23 points · 11 comments",
+      "summary": "33 points · 26 comments",
       "published": "2026-08-16T15:17:09+00:00"
     },
     {
