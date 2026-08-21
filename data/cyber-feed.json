@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:00:34.925176+00:00",
+  "updated": "2026-08-21T11:32:53.522275+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,10 +27,31 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "published": "2026-08-21T11:04:10+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Gives Task Manager Another Task: Watching AI Workloads",
+      "url": "https://tech.slashdot.org/story/26/08/21/0136250/microsoft-gives-task-manager-another-task-watching-ai-workloads?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft is expanding Windows Task Manager to show per-process NPU and GPU neural-engine usage, giving users more visibility into which apps are consuming hardware for AI workloads. The Register reports: The Processes tab can show NPU use alongside CPU and GPU activity, while the Performance tab displays overall utilization. [...] Microsoft was keen to point out the metrics that can be monitored. \"As AI workloads become more common on Windows devices, visibility into NPU and GPU neural engine u",
+      "published": "2026-08-21T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "published": "2026-08-21T11:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "DeepSeek-v4-flash-vision-exp",
       "url": "https://api-docs.deepseek.com/guides/vision/",
-      "summary": "27 points · 0 comments",
+      "summary": "93 points · 13 comments",
       "published": "2026-08-21T10:33:56+00:00"
     },
     {
@@ -48,10 +69,17 @@
       "published": "2026-08-21T10:10:42+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
+      "published": "2026-08-21T10:03:11+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Small, native web tricks worth remembering",
       "url": "https://htmlcat.net/",
-      "summary": "26 points · 8 comments",
+      "summary": "45 points · 11 comments",
       "published": "2026-08-21T09:45:14+00:00"
     },
     {
@@ -79,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "The Lost Treasure of Sid Meier's Pirates",
       "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
-      "summary": "102 points · 44 comments",
+      "summary": "114 points · 51 comments",
       "published": "2026-08-21T07:23:27+00:00"
     },
     {
@@ -100,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
       "url": "https://encore.dev/blog/firecracker-apple-silicon",
-      "summary": "80 points · 39 comments",
+      "summary": "88 points · 42 comments",
       "published": "2026-08-21T06:59:40+00:00"
     },
     {
@@ -114,14 +142,14 @@
       "source": "HACKER NEWS",
       "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
       "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
-      "summary": "44 points · 23 comments",
+      "summary": "50 points · 29 comments",
       "published": "2026-08-21T05:39:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Japan tried to build an operating system for the world, the US intervened",
       "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
-      "summary": "194 points · 93 comments",
+      "summary": "215 points · 103 comments",
       "published": "2026-08-21T05:31:34+00:00"
     },
     {
@@ -135,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Micron announces $10B research hub in Boise",
       "url": "https://investors.micron.com/news/press-release/2026/Micron-Unveils-Micron-Research-Labs-a-U-S--Based-Long-Horizon-Innovation-Hub-to-Shape-the-Future-of-Memory-and-AI/default.aspx",
-      "summary": "29 points · 1 comments",
+      "summary": "34 points · 2 comments",
       "published": "2026-08-21T03:51:58+00:00"
     },
     {
@@ -163,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Ox Alpha",
       "url": "https://openrouter.ai/stealth/ox-alpha",
-      "summary": "168 points · 129 comments",
+      "summary": "176 points · 135 comments",
       "published": "2026-08-20T23:56:35+00:00"
     },
     {
@@ -212,15 +240,8 @@
       "source": "HACKER NEWS",
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "543 points · 601 comments",
+      "summary": "554 points · 609 comments",
       "published": "2026-08-20T19:22:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "summary": "320 points · 166 comments",
-      "published": "2026-08-20T19:05:36+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -233,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Why aren't smart people happier? (2022)",
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "summary": "193 points · 265 comments",
+      "summary": "195 points · 276 comments",
       "published": "2026-08-20T18:38:47+00:00"
     },
     {
@@ -261,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "289 points · 108 comments",
+      "summary": "292 points · 109 comments",
       "published": "2026-08-20T17:50:02+00:00"
     },
     {
@@ -298,6 +319,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmrz8/wifi_pineapple_in_the_office_story_of_failure/",
       "summary": "So about nine years ago our IDS detected a spoofed network in our India office. We sent out a notice to alert staff about its presence and to be especially careful when attempting to connect to WiFi until the physical device could be located and disposed of. Multiple people there actually manually disconnected from the corporate network and connected to the spoofed one to \"see what would happen\" and compromised their workstations and accounts. It was my opinion that anyone who knowingly did this",
       "published": "2026-08-20T15:32:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "summary": "42 points · 20 comments",
+      "published": "2026-08-20T15:29:52+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -352,7 +380,7 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "510 points · 432 comments",
+      "summary": "511 points · 435 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -378,24 +406,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "url": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
-      "published": "2026-08-20T11:45:00+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
       "published": "2026-08-20T11:06:14+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "New Study Challenges Common Assumptions About Screen Time For Kids",
-      "url": "https://hardware.slashdot.org/story/26/08/19/2231240/new-study-challenges-common-assumptions-about-screen-time-for-kids?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "bryanandaimee shares a report from ScienceDaily: A Finnish study has found an unexpected association between screen use and cognitive performance. Children who accumulated more screen time as they grew up tended to show better cognitive processing during adolescence. One of the researchers cautions against viewing screen time as entirely harmful and says the goal should be to balance physical activity with screen use that encourages active thinking. [...] \"The findings suggest that screen time c",
-      "published": "2026-08-20T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -429,42 +443,28 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "406 points · 247 comments",
+      "summary": "409 points · 248 comments",
       "published": "2026-08-20T00:15:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "url": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
-      "published": "2026-08-19T20:59:58+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
-      "published": "2026-08-19T20:53:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "834 points · 189 comments",
+      "summary": "849 points · 190 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "743 points · 304 comments",
+      "summary": "756 points · 306 comments",
       "published": "2026-08-18T15:50:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Flat Chair by Sara Paculdo",
       "url": "https://www.toxel.com/tech/2026/08/07/flat-chair-by-sara-paculdo/",
-      "summary": "16 points · 5 comments",
+      "summary": "25 points · 9 comments",
       "published": "2026-08-17T14:01:37+00:00"
     },
     {
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "The case against a C alternative (2022)",
       "url": "https://c3.handmade.network/blog/p/8486-the_case_against_a_c_alternative",
-      "summary": "38 points · 28 comments",
+      "summary": "45 points · 36 comments",
       "published": "2026-08-16T15:17:09+00:00"
     },
     {
