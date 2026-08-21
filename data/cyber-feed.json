@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T23:52:10.122963+00:00",
+  "updated": "2026-08-21T01:45:48.855123+00:00",
   "item_count": 64,
   "sources": [
     "CISA",
@@ -33,9 +33,37 @@
   "items": [
     {
       "source": "HACKER NEWS",
+      "title": "It is a sign of the times that Amazon gets to call this fair use",
+      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+      "summary": "12 points · 3 comments",
+      "published": "2026-08-21T00:34:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "There's no such thing as a small software team anymore",
+      "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+      "summary": "19 points · 13 comments",
+      "published": "2026-08-21T00:28:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "summary": "80 points · 68 comments",
+      "published": "2026-08-21T00:15:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Stealth Model",
+      "url": "https://openrouter.ai/stealth/ox-alpha",
+      "summary": "26 points · 10 comments",
+      "published": "2026-08-20T23:56:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Detecting scraper bots through scroll behaviour",
       "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-      "summary": "8 points · 4 comments",
+      "summary": "26 points · 9 comments",
       "published": "2026-08-20T22:47:52+00:00"
     },
     {
@@ -49,7 +77,7 @@
       "source": "HACKER NEWS",
       "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
       "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-      "summary": "718 points · 152 comments",
+      "summary": "970 points · 224 comments",
       "published": "2026-08-20T20:07:26+00:00"
     },
     {
@@ -70,35 +98,21 @@
       "source": "HACKER NEWS",
       "title": "The August 17 outage, and the work ahead",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "249 points · 291 comments",
+      "summary": "314 points · 360 comments",
       "published": "2026-08-20T19:22:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
-      "url": "https://tidalcycles.org/",
-      "summary": "44 points · 8 comments",
-      "published": "2026-08-20T19:21:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "SpacetimeDB: A Short Technical Review",
-      "url": "https://strn.cat/posts/spacetime/",
-      "summary": "48 points · 9 comments",
-      "published": "2026-08-20T19:19:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "summary": "193 points · 108 comments",
+      "summary": "221 points · 124 comments",
       "published": "2026-08-20T19:05:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why aren't smart people happier? (2022)",
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "summary": "67 points · 111 comments",
+      "summary": "85 points · 139 comments",
       "published": "2026-08-20T18:38:47+00:00"
     },
     {
@@ -112,7 +126,7 @@
       "source": "HACKER NEWS",
       "title": "Consumer Rights Wiki",
       "url": "https://consumerrights.wiki/w/Main_Page",
-      "summary": "182 points · 12 comments",
+      "summary": "218 points · 32 comments",
       "published": "2026-08-20T18:19:51+00:00"
     },
     {
@@ -133,8 +147,15 @@
       "source": "HACKER NEWS",
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "179 points · 65 comments",
+      "summary": "199 points · 74 comments",
       "published": "2026-08-20T17:50:02+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "With TLS certificate lifetimes getting shorter, how are you handling certificate renewals across multiple servers and environments?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vtqgyh/with_tls_certificate_lifetimes_getting_shorter/",
+      "summary": "How are you guys dealing with TLS certificate renewals these days? I’m wondering because with certificate lifetimes getting shorter, I’m starting to think manual renewals are going to become a bigger pain, especially when you have certificates spread across a bunch of servers and environments. For those managing this at work, are you just using Certbot/ACME and letting everything renew automatically, or do you have some other setup? Also, has anyone actually had an automated renewal fail without",
+      "published": "2026-08-20T17:46:05+00:00"
     },
     {
       "source": "OSINT",
@@ -149,20 +170,6 @@
       "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
       "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
       "published": "2026-08-20T16:59:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How to compromise your system with a job interview",
-      "url": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
-      "summary": "114 points · 91 comments",
-      "published": "2026-08-20T15:50:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Linux 7.2",
-      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "summary": "183 points · 60 comments",
-      "published": "2026-08-20T15:46:18+00:00"
     },
     {
       "source": "REDDIT",
@@ -191,13 +198,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmrz8/wifi_pineapple_in_the_office_story_of_failure/",
       "summary": "So about nine years ago our IDS detected a spoofed network in our India office. We sent out a notice to alert staff about its presence and to be especially careful when attempting to connect to WiFi until the physical device could be located and disposed of. Multiple people there actually manually disconnected from the corporate network and connected to the spoofed one to \"see what would happen\" and compromised their workstations and accounts. It was my opinion that anyone who knowingly did this",
       "published": "2026-08-20T15:32:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "summary": "166 points · 183 comments",
-      "published": "2026-08-20T15:26:02+00:00"
     },
     {
       "source": "OSINT",
@@ -252,7 +252,7 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "369 points · 351 comments",
+      "summary": "395 points · 364 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -273,7 +273,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
       "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "summary": "478 points · 104 comments",
+      "summary": "503 points · 106 comments",
       "published": "2026-08-20T12:04:38+00:00"
     },
     {
@@ -315,7 +315,7 @@
       "source": "HACKER NEWS",
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
       "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "846 points · 279 comments",
+      "summary": "885 points · 289 comments",
       "published": "2026-08-20T10:08:52+00:00"
     },
     {
@@ -331,13 +331,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
       "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
       "published": "2026-08-20T09:46:54+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Anyone here use rapid7 products (any of them)?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vte1wu/anyone_here_use_rapid7_products_any_of_them/",
-      "summary": "Looking for general feedback on quality and value relative to it’s competitors submitted by /u/incongruous_narrator [link] [comments]",
-      "published": "2026-08-20T08:57:40+00:00"
     },
     {
       "source": "OSINT",
@@ -357,7 +350,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "308 points · 199 comments",
+      "summary": "333 points · 207 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -392,15 +385,22 @@
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "530 points · 151 comments",
+      "summary": "574 points · 163 comments",
       "published": "2026-08-19T15:11:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "518 points · 245 comments",
+      "summary": "560 points · 258 comments",
       "published": "2026-08-18T15:50:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "My Microscope Is a Dashcam",
+      "url": "https://xecaz.com/reverse.engineering/tomlovdm9/",
+      "summary": "8 points · 1 comments",
+      "published": "2026-08-17T10:24:18+00:00"
     },
     {
       "source": "REDDIT",
