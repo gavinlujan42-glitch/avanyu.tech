@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T05:43:01.227072+00:00",
+  "updated": "2026-08-21T06:57:47.333104+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,27 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
+      "published": "2026-08-21T06:06:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "url": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+      "summary": "13 points · 3 comments",
+      "published": "2026-08-21T05:39:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Japan tried to build an operating system for the world, the US intervened",
+      "url": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+      "summary": "38 points · 9 comments",
+      "published": "2026-08-21T05:31:34+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Cloudflare Workers Spectre Attack Leaks JWT at 12 Bits/s",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vu5r6h/cloudflare_workers_spectre_attack_leaks_jwt_at_12/",
@@ -51,14 +72,14 @@
       "source": "HACKER NEWS",
       "title": "Codex on AWS bedrock bug causing 10x charges",
       "url": "https://github.com/openai/codex/issues/37674",
-      "summary": "64 points · 17 comments",
+      "summary": "99 points · 31 comments",
       "published": "2026-08-21T03:17:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AI companies destroy physical books – let's scan rare books before it's too late",
       "url": "https://annas-archive.gl/blog/physical-destruction.html",
-      "summary": "211 points · 138 comments",
+      "summary": "269 points · 194 comments",
       "published": "2026-08-21T02:37:47+00:00"
     },
     {
@@ -72,14 +93,14 @@
       "source": "HACKER NEWS",
       "title": "There's no such thing as a small software team anymore",
       "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-      "summary": "56 points · 95 comments",
+      "summary": "75 points · 121 comments",
       "published": "2026-08-21T00:28:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ox Alpha",
       "url": "https://openrouter.ai/stealth/ox-alpha",
-      "summary": "71 points · 59 comments",
+      "summary": "101 points · 81 comments",
       "published": "2026-08-20T23:56:35+00:00"
     },
     {
@@ -135,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "The August 17 outage",
       "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "summary": "427 points · 475 comments",
+      "summary": "458 points · 517 comments",
       "published": "2026-08-20T19:22:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Huzzah – a novel approach to coding with AI",
       "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "summary": "259 points · 143 comments",
+      "summary": "283 points · 149 comments",
       "published": "2026-08-20T19:05:36+00:00"
     },
     {
@@ -156,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Why aren't smart people happier? (2022)",
       "url": "https://www.experimental-history.com/p/why-arent-smart-people-happier",
-      "summary": "133 points · 189 comments",
+      "summary": "147 points · 199 comments",
       "published": "2026-08-20T18:38:47+00:00"
     },
     {
@@ -184,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "I should have loved biology (2020)",
       "url": "https://jsomers.net/i-should-have-loved-biology/",
-      "summary": "231 points · 89 comments",
+      "summary": "251 points · 98 comments",
       "published": "2026-08-20T17:50:02+00:00"
     },
     {
@@ -223,13 +244,6 @@
       "published": "2026-08-20T16:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Linux 7.2",
-      "url": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
-      "summary": "220 points · 76 comments",
-      "published": "2026-08-20T15:46:18+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Black Hat/DEF CON attendees targeted in malware scheme with Google Doc lure",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vtmw32/black_hatdef_con_attendees_targeted_in_malware/",
@@ -245,10 +259,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "summary": "219 points · 229 comments",
-      "published": "2026-08-20T15:26:02+00:00"
+      "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+      "url": "https://github.com/runvendo/vendo",
+      "summary": "34 points · 18 comments",
+      "published": "2026-08-20T15:29:52+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -310,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Malicious Rust crate Arrayref runs a build-time payload",
       "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-      "summary": "440 points · 386 comments",
+      "summary": "467 points · 394 comments",
       "published": "2026-08-20T13:23:12+00:00"
     },
     {
@@ -350,13 +364,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
-      "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
-      "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
-      "published": "2026-08-20T11:26:08+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
@@ -368,13 +375,6 @@
       "url": "https://hardware.slashdot.org/story/26/08/19/2231240/new-study-challenges-common-assumptions-about-screen-time-for-kids?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "bryanandaimee shares a report from ScienceDaily: A Finnish study has found an unexpected association between screen use and cognitive performance. Children who accumulated more screen time as they grew up tended to show better cognitive processing during adolescence. One of the researchers cautions against viewing screen time as entirely harmful and says the goal should be to balance physical activity with screen use that encourages active thinking. [...] \"The findings suggest that screen time c",
       "published": "2026-08-20T11:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
-      "summary": "936 points · 295 comments",
-      "published": "2026-08-20T10:08:52+00:00"
     },
     {
       "source": "OSINT",
@@ -415,7 +415,7 @@
       "source": "HACKER NEWS",
       "title": "CIA funding helped keep NeXT afloat in the 80s",
       "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
-      "summary": "383 points · 229 comments",
+      "summary": "391 points · 233 comments",
       "published": "2026-08-20T00:15:01+00:00"
     },
     {
@@ -443,28 +443,28 @@
       "source": "HACKER NEWS",
       "title": "HTML Can Do That",
       "url": "https://chrisburnell.com/html-can-do-that/",
-      "summary": "664 points · 175 comments",
+      "summary": "711 points · 178 comments",
       "published": "2026-08-19T15:11:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Mojo is now open source",
-      "url": "https://www.modular.com/blog/mojo-open-source",
-      "summary": "377 points · 87 comments",
-      "published": "2026-08-18T16:23:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I like 'em thick: an apology to my English teachers",
       "url": "https://www.experimental-history.com/p/i-like-em-thick",
-      "summary": "647 points · 274 comments",
+      "summary": "683 points · 283 comments",
       "published": "2026-08-18T15:50:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Version Control for Everything",
+      "url": "https://tyoverby.com/posts/version-control-for-everything-else/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-08-17T19:28:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Captain Zilog",
       "url": "https://www.zilog.com/captain_zilog/",
-      "summary": "30 points · 3 comments",
+      "summary": "42 points · 5 comments",
       "published": "2026-08-17T12:42:47+00:00"
     },
     {
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "Make a 6-Tesla-class high-temperature superconducting dipole magnet at 4.2 K",
       "url": "https://journals.aps.org/prab/abstract/10.1103/4nhs-bkwh",
-      "summary": "25 points · 5 comments",
+      "summary": "34 points · 6 comments",
       "published": "2026-08-14T20:49:29+00:00"
     },
     {
