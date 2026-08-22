@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>NM AI HPC Coordination Fabric | Avanyu.tech</title><style>body{margin:0;background:#020504;color:#e8e0d2;font:16px/1.7 system-ui,sans-serif}main{max-width:1050px;margin:auto;padding:5rem 1.5rem}h1,h2{color:#fff}a{color:#63d6c6}.hero,.card,pre{border:1px solid #29443d;background:#07100d;padding:1.5rem}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem;margin:1.5rem 0}pre{white-space:pre-wrap;color:#8de0cb}</style></head><body><main><section class="hero"><p>ARCHITECTURE CONTROL · 22 AUG 2026</p><h1>NM AI HPC Coordination Fabric</h1><p>A sovereign compute coordination, brokerage and token-allocation control plane for New Mexico.</p></section><div class="grid"><div class="card"><h2>Compute</h2><p>GB300 NVL72-class scale-up domains with NVLink/NVSwitch.</p></div><div class="card"><h2>Fabric</h2><p>ConnectX-8 and Quantum-X800-class XDR InfiniBand for high-speed scale-out.</p></div><div class="card"><h2>Control</h2><p>Zero Trust identity, policy, Slurm, Kubernetes, metering, audit and federation.</p></div><div class="card"><h2>Economics</h2><p>Governed compute-token allocations for mission, research, innovation and approved commercial surplus.</p></div></div><h2>Topology</h2><pre>USERS → API/IDENTITY → NM AI CONTROL PLANE
+                         ↓
+                SLURM + KUBERNETES
+                         ↓
+              QUANTUM-X800 XDR IB
+                         ↓
+          GB300 NVL72 ↔ GB300 NVL72
+             NVLink       NVLink
+                         ↓
+             NVMe / PARALLEL / OBJECT
+
+        Separate OOB management/security plane</pre><h2>Design philosophy</h2><p>Mission before market. Policy before placement. Fabric before fleet. Sovereignty through federation. Move compute toward protected data. Measure everything. Keep human authority explicit.</p><p>Compute tokens are auditable entitlement/accounting units, not inherently cryptocurrency. Commercial access cannot displace the NM Sovereign Compute Reserve.</p><p><a href="briefs/nm-ai-hpc-coordination-fabric.md">Architecture Markdown</a> · <a href="briefs/nm-ai-hpc-topology.md">Topology Markdown</a> · <a href="briefs/nm-ai-hpc-design-philosophy.md">Design Philosophy Markdown</a> · <a href="blog.html">Briefs</a></p></main></body></html>
