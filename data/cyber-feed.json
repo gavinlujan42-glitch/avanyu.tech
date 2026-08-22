@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T13:55:24.764136+00:00",
+  "updated": "2026-08-22T14:27:57.828833+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,13 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+      "published": "2026-08-22T14:14:24+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "LLM and Gen. Ai pentesting resources",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vvcwiq/llm_and_gen_ai_pentesting_resources/",
@@ -35,9 +42,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "The New MCP Roadmap",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "summary": "13 points · 6 comments",
+      "published": "2026-08-22T13:31:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
       "url": "https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/",
-      "summary": "19 points · 2 comments",
+      "summary": "47 points · 5 comments",
       "published": "2026-08-22T13:24:06+00:00"
     },
     {
@@ -58,8 +72,15 @@
       "source": "HACKER NEWS",
       "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
       "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "summary": "67 points · 7 comments",
+      "summary": "90 points · 21 comments",
       "published": "2026-08-22T12:07:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A formal degree and algorithmic problem-solving is the answer. Always has been",
+      "url": "https://zaksa.zip/blog/formal-education-is-the-answer/",
+      "summary": "12 points · 11 comments",
+      "published": "2026-08-22T11:39:12+00:00"
     },
     {
       "source": "REDDIT",
@@ -79,21 +100,21 @@
       "source": "HACKER NEWS",
       "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
       "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-      "summary": "479 points · 385 comments",
+      "summary": "518 points · 429 comments",
       "published": "2026-08-22T10:26:09+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Z80–The 1970s Microprocessor Still Alive",
+      "title": "Z80 – The 1970s Microprocessor Still Alive (2021)",
       "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "summary": "50 points · 23 comments",
+      "summary": "57 points · 24 comments",
       "published": "2026-08-22T09:49:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
       "url": "https://munderdiffl.in/",
-      "summary": "105 points · 29 comments",
+      "summary": "125 points · 43 comments",
       "published": "2026-08-22T09:49:14+00:00"
     },
     {
@@ -142,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "summary": "520 points · 371 comments",
+      "summary": "530 points · 383 comments",
       "published": "2026-08-22T01:06:17+00:00"
     },
     {
@@ -163,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "summary": "176 points · 80 comments",
+      "summary": "181 points · 81 comments",
       "published": "2026-08-21T22:29:00+00:00"
     },
     {
@@ -191,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "summary": "314 points · 62 comments",
+      "summary": "323 points · 67 comments",
       "published": "2026-08-21T19:51:54+00:00"
     },
     {
@@ -209,25 +230,11 @@
       "published": "2026-08-21T18:53:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Scientists release biggest 2D map of the universe",
-      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "summary": "223 points · 60 comments",
-      "published": "2026-08-21T18:36:34+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Log everything, I’m begging you",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vuooju/log_everything_im_begging_you/",
       "summary": "Yes, there’s noise you can filter out, but you need to log things! A client I work with finally implemented DNS resolver logs and we found unmanaged devices (that’s its own headache) that were requesting domains ranging from guns to porn and malware and everything in between. Due to the already sparse logging, we didn’t know about it until the DNS logs started coming in. Now someone in HR gets to talk to some users about proper conduct in the workplace and the BYOD policy is getting reviewed. su",
       "published": "2026-08-21T18:36:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How Thailand Resisted Colonization",
-      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
-      "summary": "59 points · 14 comments",
-      "published": "2026-08-21T18:28:42+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -247,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "OTel isn’t going well",
       "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "summary": "159 points · 61 comments",
+      "summary": "165 points · 67 comments",
       "published": "2026-08-21T17:45:41+00:00"
     },
     {
@@ -261,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "594 points · 193 comments",
+      "summary": "599 points · 193 comments",
       "published": "2026-08-21T16:25:25+00:00"
     },
     {
@@ -296,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "summary": "767 points · 300 comments",
+      "summary": "770 points · 302 comments",
       "published": "2026-08-21T15:17:04+00:00"
     },
     {
@@ -315,9 +322,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Zig’s io.threaded is neat",
+      "title": "Zig’s Io.Threaded is neat",
       "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-      "summary": "103 points · 59 comments",
+      "summary": "108 points · 63 comments",
       "published": "2026-08-21T14:28:15+00:00"
     },
     {
@@ -338,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "summary": "1177 points · 371 comments",
+      "summary": "1183 points · 371 comments",
       "published": "2026-08-21T13:56:37+00:00"
     },
     {
@@ -359,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "summary": "595 points · 75 comments",
+      "summary": "599 points · 77 comments",
       "published": "2026-08-21T13:11:28+00:00"
     },
     {
@@ -373,7 +380,7 @@
       "source": "HACKER NEWS",
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "summary": "884 points · 1022 comments",
+      "summary": "895 points · 1069 comments",
       "published": "2026-08-21T12:10:13+00:00"
     },
     {
@@ -429,7 +436,7 @@
       "source": "HACKER NEWS",
       "title": "Stop Making TUIs",
       "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-      "summary": "225 points · 310 comments",
+      "summary": "243 points · 321 comments",
       "published": "2026-08-21T05:37:38+00:00"
     },
     {
@@ -466,13 +473,6 @@
       "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
       "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
       "published": "2026-08-20T16:59:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "published": "2026-08-20T14:39:48+00:00"
     },
     {
       "source": "OSINT",
