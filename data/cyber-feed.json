@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T09:53:03.661747+00:00",
-  "item_count": 88,
+  "updated": "2026-08-22T10:30:15.736190+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -12,6 +12,11 @@
     {
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "error": "HTTPError"
+    },
+    {
+      "source": "REDDIT",
+      "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
     },
     {
@@ -74,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "summary": "406 points · 293 comments",
+      "summary": "419 points · 302 comments",
       "published": "2026-08-22T01:06:17+00:00"
     },
     {
@@ -102,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "summary": "140 points · 66 comments",
+      "summary": "144 points · 70 comments",
       "published": "2026-08-21T22:29:00+00:00"
     },
     {
@@ -130,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "summary": "213 points · 47 comments",
+      "summary": "237 points · 51 comments",
       "published": "2026-08-21T19:51:54+00:00"
     },
     {
@@ -151,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "summary": "205 points · 57 comments",
+      "summary": "209 points · 57 comments",
       "published": "2026-08-21T18:36:34+00:00"
     },
     {
@@ -179,14 +184,14 @@
       "source": "HACKER NEWS",
       "title": "Optimizing meshoptimizer to process billions of triangles in minutes (2025)",
       "url": "https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/",
-      "summary": "31 points · 0 comments",
+      "summary": "36 points · 0 comments",
       "published": "2026-08-21T17:54:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OTel isn’t going well",
       "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "summary": "119 points · 49 comments",
+      "summary": "124 points · 51 comments",
       "published": "2026-08-21T17:45:41+00:00"
     },
     {
@@ -207,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "546 points · 188 comments",
+      "summary": "554 points · 188 comments",
       "published": "2026-08-21T16:25:25+00:00"
     },
     {
@@ -242,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "summary": "704 points · 278 comments",
+      "summary": "712 points · 279 comments",
       "published": "2026-08-21T15:17:04+00:00"
     },
     {
@@ -263,14 +268,14 @@
       "source": "HACKER NEWS",
       "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
       "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-      "summary": "273 points · 180 comments",
+      "summary": "275 points · 183 comments",
       "published": "2026-08-21T14:31:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Zig’s io.threaded is neat",
       "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-      "summary": "71 points · 39 comments",
+      "summary": "73 points · 41 comments",
       "published": "2026-08-21T14:28:15+00:00"
     },
     {
@@ -291,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "summary": "1124 points · 363 comments",
+      "summary": "1134 points · 366 comments",
       "published": "2026-08-21T13:56:37+00:00"
     },
     {
@@ -312,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "summary": "547 points · 65 comments",
+      "summary": "555 points · 66 comments",
       "published": "2026-08-21T13:11:28+00:00"
     },
     {
@@ -326,14 +331,14 @@
       "source": "HACKER NEWS",
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "summary": "786 points · 915 comments",
+      "summary": "799 points · 930 comments",
       "published": "2026-08-21T12:10:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I'm becoming AI-blind",
       "url": "https://cymerys.com/w/im-becoming-ai-blind",
-      "summary": "366 points · 364 comments",
+      "summary": "374 points · 370 comments",
       "published": "2026-08-21T11:48:05+00:00"
     },
     {
@@ -396,8 +401,15 @@
       "source": "HACKER NEWS",
       "title": "Stop Making TUIs",
       "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-      "summary": "136 points · 201 comments",
+      "summary": "147 points · 210 comments",
       "published": "2026-08-21T05:37:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+      "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+      "summary": "91 points · 41 comments",
+      "published": "2026-08-20T21:08:36+00:00"
     },
     {
       "source": "OSINT",
@@ -435,13 +447,6 @@
       "published": "2026-08-20T16:59:44+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Autolith: A programming agent with a live runtime",
-      "url": "https://www.lambda-symbolics.com/autolith",
-      "summary": "65 points · 21 comments",
-      "published": "2026-08-20T15:40:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
@@ -463,87 +468,17 @@
       "published": "2026-08-20T14:01:11+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "ValleyRAT campaign uses fake GSTR-3B overdue notice targeting Indian taxpayers",
-      "url": "https://www.reddit.com/r/netsec/comments/1vsm77y/valleyrat_campaign_uses_fake_gstr3b_overdue/",
-      "summary": "submitted by /u/unknownhad [link] [comments]",
-      "published": "2026-08-19T13:18:26+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CRLF-Powered Desync Attacks: Beheading HTTP Streams",
-      "url": "https://www.reddit.com/r/netsec/comments/1vslpnb/crlfpowered_desync_attacks_beheading_http_streams/",
-      "summary": "submitted by /u/t0xodile [link] [comments]",
-      "published": "2026-08-19T12:58:25+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How to break secure boot without touching any cryptography",
-      "url": "https://www.reddit.com/r/netsec/comments/1vskftw/how_to_break_secure_boot_without_touching_any/",
-      "summary": "I finally found some time to organize my notes on secure boot, remote attestation, measured boot and in general embedded security. This is not ground breaking zero-day research but I figured some of you might like a good story. Good here is obviously subjective but I felt like it came out quite readable. This blog builds heavily on public research so as already stated at the end of article if you liked some particular section, show the respective person some love :) P.S.: yes I know the image is",
-      "published": "2026-08-19T12:01:19+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "summary": "307 points · 320 comments",
+      "summary": "310 points · 322 comments",
       "published": "2026-08-19T06:13:31+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The Curious Incidents with DNS in the Sandbox at Escape-Time",
-      "url": "https://www.reddit.com/r/netsec/comments/1vsbk66/the_curious_incidents_with_dns_in_the_sandbox_at/",
-      "summary": "Three variations on subversive use of DNS by the Agent are documented in Hugging Face's technical writeup of the July 2026 security incident involving OpenAI models. In this article, I discuss what each of these three types of DNS workarounds achieve in practice, the constraints an actor might have faced to attempt a particular one, and additional benefits from choosing each. submitted by /u/lowlevelprog [link] [comments]",
-      "published": "2026-08-19T03:58:53+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "🎥 Operation CameraSwarm: over 14,000 Dahua cameras compromised across Ukraine and Russia",
-      "url": "https://www.reddit.com/r/netsec/comments/1vrw3fd/operation_cameraswarm_over_14000_dahua_cameras/",
-      "summary": "An operator left their full working directory exposed on an open HTTP server. Hunt.io crawled it, 2,616 files, and rebuilt the campaign from the corpus. Three exploitation paths in parallel: an asyncio credential brute-forcer, a CVE-2021-33044/33045 auth-bypass chain, and P2P relay abuse reaching cameras by serial number The relay path never authenticates the connecting party, only the session, via a cloud-issued token obtainable with the fixed SDK credentials in every Dahua client Two CVE label",
-      "published": "2026-08-18T17:34:14+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How a popular Android library silently exposed thousands of apps to Arbitrary File Overwrite (AFO). https://itis911.github.io/writeups/cropper-vulnerability.html",
-      "url": "https://www.reddit.com/r/netsec/comments/1vru26k/how_a_popular_android_library_silently_exposed/",
-      "summary": "submitted by /u/Fit_Veterinarian4403 [link] [comments]",
-      "published": "2026-08-18T16:24:33+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Dissecting House of Apple 2 on modern glibc",
-      "url": "https://www.reddit.com/r/netsec/comments/1vrtfdo/dissecting_house_of_apple_2_on_modern_glibc/",
-      "summary": "submitted by /u/jpxzurich [link] [comments]",
-      "published": "2026-08-18T16:05:30+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hacking your life with AI can get you hacked: How AI orchestration platforms ship RCE by design",
-      "url": "https://www.reddit.com/r/netsec/comments/1vrpmr2/hacking_your_life_with_ai_can_get_you_hacked_how/",
-      "summary": "Author here. I audited NocoBase, Flowise, Langflow, Dify, Activepieces, Kestra, and Airflow and disclosed 14 findings. Every platform inherited the same assumption anyone who can touch a workflow is trusted to run code on the host, which is fine for a dev tool on your laptop but not fine for a multi-tenant HTTP service with an unauthenticated webhook. The chain I'd point people to first is the Flowise one (section 2.2): an unauthenticated request → prompt injection → LLM emits Python → a 38-patt",
-      "published": "2026-08-18T13:45:26+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "DeadLock ransomware: Rust-based encryptor with decentralized recovery infrastructure",
-      "url": "https://www.reddit.com/r/netsec/comments/1vr9ccc/deadlock_ransomware_rustbased_encryptor_with/",
-      "summary": "submitted by /u/Doug_Vitale [link] [comments]",
-      "published": "2026-08-18T00:06:58+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "They patched their SaaS and left the self-hosted OSS version vulnerable - AppFlowy Authenticated SQL Injection",
-      "url": "https://www.reddit.com/r/netsec/comments/1vqojw3/they_patched_their_saas_and_left_the_selfhosted/",
-      "summary": "submitted by /u/ezzzzz [link] [comments]",
-      "published": "2026-08-17T10:30:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "People of ACM – Russ Cox",
       "url": "https://www.acm.org/articles/people-of-acm/2026/russ-cox",
-      "summary": "136 points · 13 comments",
+      "summary": "138 points · 14 comments",
       "published": "2026-08-17T07:12:15+00:00"
     },
     {
@@ -575,11 +510,53 @@
       "published": "2026-08-06T17:00:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "r/netsec monthly discussion & tool thread",
-      "url": "https://www.reddit.com/r/netsec/comments/1vcngz2/rnetsec_monthly_discussion_tool_thread/",
-      "summary": "Questions regarding netsec and discussion related directly to netsec are welcome here, as is sharing tool links. Rules & Guidelines Always maintain civil discourse. Be awesome to one another - moderator intervention will occur if necessary. Avoid NSFW content unless absolutely necessary. If used, mark it as being NSFW. If left unmarked, the comment will be removed entirely. If linking to classified content, mark it as such. If left unmarked, the comment will be removed entirely. Avoid use of mem",
-      "published": "2026-08-01T13:29:06+00:00"
+      "source": "OSINT",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "2026-07-30T16:49:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "LG to Ban Residential Proxies from Smart TV Apps",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
+      "published": "2026-07-22T01:10:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches a Record 570 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
+      "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
+      "published": "2026-07-14T19:22:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "2026-07-13T15:03:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "url": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "2026-07-08T12:31:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "url": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "2026-07-02T19:27:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "url": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "2026-06-23T16:12:49+00:00"
     }
   ]
 }
