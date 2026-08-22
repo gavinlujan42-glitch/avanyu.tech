@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T12:51:35.012081+00:00",
-  "item_count": 76,
+  "updated": "2026-08-22T13:36:53.614600+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,10 +32,24 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
+      "published": "2026-08-22T13:00:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Complete beginner need advice",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vvbpu9/complete_beginner_need_advice/",
+      "summary": "Hey everyone! I'm a complete beginner looking to break into cybersecurity and could really use some guidance. If anyone has a solid roadmap (skills to learn, certifications worth pursuing, order to tackle things in) or good resources — free courses, YouTube channels, communities, practice platforms like TryHackMe/HackTheBox I'd really appreciate it. Any tips from people who've been through this journey would mean a lot. Thanks in advance! 🙏🥹 submitted by /u/Hungry_Cod_2826 [link] [comments]",
+      "published": "2026-08-22T12:55:11+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Hook, hold, harvest and hide: Meta's alleged strategy laid out in first week",
       "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "summary": "12 points · 1 comments",
+      "summary": "50 points · 2 comments",
       "published": "2026-08-22T12:07:06+00:00"
     },
     {
@@ -41,39 +60,25 @@
       "published": "2026-08-22T11:35:13+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Over 1 Million People Have Clicked LinkedIn's AI Slop Button",
-      "url": "https://tech.slashdot.org/story/26/08/21/224221/over-1-million-people-have-clicked-linkedins-ai-slop-button?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "According to a post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on LinkedIn's new \"Seems like AI slop\" button, which launched after one analysis found 41% of the platform's longform posts were fully AI-generated. The Verge reports: In Thursday's post, Srinivasan said that users are overall \"now experiencing 40% less views on what we classify as AI slop from just a few weeks ago.\" LinkedIn is also adding a new message that will tell users who make a post if \"S",
-      "published": "2026-08-22T11:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Canada suspends trade negotiations with USA and match tariffs dollar for dollar",
       "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
-      "summary": "366 points · 234 comments",
+      "summary": "445 points · 345 comments",
       "published": "2026-08-22T10:26:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Z80–The 1970s Microprocessor Still Alive",
       "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
-      "summary": "37 points · 17 comments",
+      "summary": "47 points · 20 comments",
       "published": "2026-08-22T09:49:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
       "url": "https://munderdiffl.in/",
-      "summary": "57 points · 20 comments",
+      "summary": "82 points · 31 comments",
       "published": "2026-08-22T09:49:14+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "'Off the Charts' El Nino Is Already the Strongest Since Records Began",
-      "url": "https://news.slashdot.org/story/26/08/21/2216202/off-the-charts-el-nino-is-already-the-strongest-since-records-began?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A rapidly developing El Nino is already reaching record-setting levels for this time of year and is expected to intensify further over the coming months. \"The El Nino has blossomed. It is off the charts. Usual measures of El Nino have blown past prior record levels in the period with good data, even though maximum effects are still several months in the future,\" writes renowned climate scientist James Hansen at Columbia University in New York in a newsletter sent today. Climate scientists disagr",
-      "published": "2026-08-22T07:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -88,13 +93,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vv4ck2/do_phishing_simulations_actually_change_employee/",
       "summary": "For companies that run phishing simulations, have you actually seen people become better at spotting suspicious emails? I can see the value in training, but I’m curious whether repeated simulations actually reduce incidents or if employees just learn to recognize the specific test format. What has worked for your organization? submitted by /u/Sharp-Daikon7631 [link] [comments]",
       "published": "2026-08-22T06:08:45+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "China Joins Europe In Scrapping Windows For Linux",
-      "url": "https://linux.slashdot.org/story/26/08/21/2158246/china-joins-europe-in-scrapping-windows-for-linux?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from ZDNet: According to a Bloomberg report, attributed to China's Ministry of State Security, the country has ordered some government agencies to drop Windows 10 China Government Edition for Chinese-made Linux distributions. Why not Windows 11? Because China, like many other non-US governments, no longer trusts American companies with their software and services. This approach is all about digital sovereignty. In addition, even before the recent trend of gove",
-      "published": "2026-08-22T03:30:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -114,15 +112,8 @@
       "source": "HACKER NEWS",
       "title": "There's no reason for software to be slow anymore",
       "url": "https://danluu.com/perf-opt/",
-      "summary": "490 points · 337 comments",
+      "summary": "508 points · 366 comments",
       "published": "2026-08-22T01:06:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Try hack me SEC0 or CompTIA A+ ?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vuxzx5/try_hack_me_sec0_or_comptia_a/",
-      "summary": "​ Hi I am new in cyber security and i don't know should I take CompTIA A+ or SEC0 ? submitted by /u/Cold-Interaction7869 [link] [comments]",
-      "published": "2026-08-22T00:51:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -132,53 +123,18 @@
       "published": "2026-08-21T23:35:18+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Township Fights Nuclear Weapons Data Center By Passing a Moratorium on Electrical Infrastructure",
-      "url": "https://hardware.slashdot.org/story/26/08/21/2015213/township-fights-nuclear-weapons-data-center-by-passing-a-moratorium-on-electrical-infrastructure?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ypsilanti Township, Michigan, has imposed a six-month moratorium on \"major electric utility infrastructure\" in its latest attempt to delay a proposed $1.2 billion University of Michigan-Los Alamos data center that would support nuclear-weapons research. Township leaders, who have already paused water service for data centers, say the project has moved forward without adequate consultation and want more time to study noise, grid impacts, and other effects on residents. 404 Media reports: Last yea",
-      "published": "2026-08-21T23:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Three important steps in my maturation process",
       "url": "https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/",
-      "summary": "166 points · 78 comments",
+      "summary": "172 points · 79 comments",
       "published": "2026-08-21T22:29:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Apple Cuts Jobs In Siri, Vision Pro Immersive Video and Gaming Teams",
-      "url": "https://apple.slashdot.org/story/26/08/21/207246/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple is cutting more than 200 jobs as it shifts resources toward a rebuilt, AI-powered Siri and other future products. Roughly 100 positions are being eliminated from the Vision Pro organization, including much of its gaming team and some immersive-video staff. Another 100 cuts are hitting the Siri and software teams. Bloomberg reports: In a statement, Apple acknowledged that it was realigning some teams \"to evolve our business to deliver the best experiences for our users.\" \"While we will crea",
-      "published": "2026-08-21T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "American Who Wiped His Phone With 'Duress' Password During Border Search Gets Felony Charges",
-      "url": "https://yro.slashdot.org/story/26/08/21/202201/american-who-wiped-his-phone-with-duress-password-during-border-search-gets-felony-charges?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Federal prosecutors have charged activist Samuel Tunick with obstruction after he gave Customs and Border Protection officers a duress passcode that wiped his GrapheneOS-powered Pixel during a border search. \"His prosecution is one of the earliest known instances of the federal authorities charging a person with destroying evidence using a program designed to wipe a device clean after a specific code is entered,\" reports The New York Times. From the report: \"Obstructing federal law enforcement i",
-      "published": "2026-08-21T21:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "AI Boosted Homework Scores, Then Exam Scores Dropped",
-      "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Economist: Students and school children are increasingly using artificial intelligence. A survey last year by Chegg, an ed-tech firm, found that 80% of rich-world undergraduates used it in their studies. More recent polls put the figure at 94% in Britain and 93% in Germany. Such widespread adoption has fueled concerns about the impact the technology might be having on learning. Teachers report marking identikit essays that they suspect are churned out",
-      "published": "2026-08-21T20:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
       "url": "https://rust-glancer.github.io/blog/hello-world/",
-      "summary": "301 points · 58 comments",
+      "summary": "309 points · 62 comments",
       "published": "2026-08-21T19:51:54+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Man Dressed As Darth Vader Defends Flock Cameras to San Diego City Council",
-      "url": "https://yro.slashdot.org/story/26/08/21/1840254/man-dressed-as-darth-vader-defends-flock-cameras-to-san-diego-city-council?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A man dressed as Darth Vader used a Public Safety and Livable Neighborhoods Committee meeting in San Diego to mock the city's use of Flock surveillance cameras, sarcastically arguing that the technology would help the \"emperor\" track \"rebel scum\" and find Luke Skywalker. \"This is what the emperor needs. This technology will help us find the rebel scum and the hidden base on Hoth,\" he said. The Hill reports: He urged that the cameras be used to surveil any \"rebel scum as they move from playground",
-      "published": "2026-08-21T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -191,7 +147,7 @@
       "source": "HACKER NEWS",
       "title": "Scientists release biggest 2D map of the universe",
       "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
-      "summary": "219 points · 58 comments",
+      "summary": "221 points · 60 comments",
       "published": "2026-08-21T18:36:34+00:00"
     },
     {
@@ -202,11 +158,11 @@
       "published": "2026-08-21T18:36:19+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Micron Unveils $10 Billion AI Memory Research Lab In Boise",
-      "url": "https://hardware.slashdot.org/story/26/08/21/1752224/micron-unveils-10-billion-ai-memory-research-lab-in-boise?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Micron says it will spend $10 billion over the next decade on a new research lab in Boise focused on advanced memory technologies, computing systems, and future chip manufacturing. Here are some details, as reported by Reuters: - Micron Research Labs will bring together customers, academia, government and the broader semiconductor ecosystem to pursue breakthroughs, the company said. - The latest investment builds on the more than $250 billion that Micron had separately committed to manufacturing",
-      "published": "2026-08-21T18:25:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "How Thailand Resisted Colonization",
+      "url": "https://worksinprogress.co/issue/how-thailand-resisted-colonization/",
+      "summary": "54 points · 13 comments",
+      "published": "2026-08-21T18:28:42+00:00"
     },
     {
       "source": "OSINT",
@@ -219,22 +175,8 @@
       "source": "HACKER NEWS",
       "title": "OTel isn’t going well",
       "url": "https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/",
-      "summary": "148 points · 59 comments",
+      "summary": "153 points · 61 comments",
       "published": "2026-08-21T17:45:41+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Linus Torvalds Endures A Debug Session From Hell, 'Enormously Helped' By AI",
-      "url": "https://it.slashdot.org/story/26/08/21/1742239/linus-torvalds-endures-a-debug-session-from-hell-enormously-helped-by-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Linus Torvalds says AI \"enormously helped\" him track down a stubborn Intel Xe graphics driver bug that took 24 debugging patches and 18 kernel boots to isolate. \"I'd like to call it my tireless helper, but the AI several times stated flat out that this was impossible and unsolvable and that we should just write a report about it,\" wrote Torvalds on the commit. \"I suspect those things have been trained by people who may not be quite as stubborn as I am...\" Phoronix reports: The patch by Linus Tor",
-      "published": "2026-08-21T17:45:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Galactic Compass 2: now with new augmented reality mode",
-      "url": "https://interconnected.org/home/2026/08/21/galactic",
-      "summary": "17 points · 2 comments",
-      "published": "2026-08-21T17:30:38+00:00"
     },
     {
       "source": "REDDIT",
@@ -247,15 +189,8 @@
       "source": "HACKER NEWS",
       "title": "Kobo can run apps now",
       "url": "https://bandarlabs.github.io/Cobalt/",
-      "summary": "584 points · 191 comments",
+      "summary": "591 points · 193 comments",
       "published": "2026-08-21T16:25:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Walmart To Finally Start Accepting Apple Pay and Google Pay",
-      "url": "https://news.slashdot.org/story/26/08/21/1525227/walmart-to-finally-start-accepting-apple-pay-and-google-pay?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "After years of refusing to adopt tap-to-pay technology in its stores, retail giant Walmart announced today that it is finally accepting payments via both Apple Pay and Google Pay. The rollout begins August 24 at select Walmart and Sam's Club locations and is expected to reach all stores by year-end. It will then expand to fuel stations by mid-2027. TechCrunch reports: The news is a surprise, as Walmart has long refused to adopt the ubiquitous payment technology to instead promote its own in-hous",
-      "published": "2026-08-21T16:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -282,15 +217,8 @@
       "source": "HACKER NEWS",
       "title": "Felony Bench",
       "url": "https://www.felonybench.com/",
-      "summary": "752 points · 281 comments",
+      "summary": "763 points · 293 comments",
       "published": "2026-08-21T15:17:04+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Gives Publishers a 'Preferred Sources' Button to Fight AI-Driven Traffic Losses",
-      "url": "https://news.slashdot.org/story/26/08/21/0113259/google-gives-publishers-a-preferred-sources-button-to-fight-ai-driven-traffic-losses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google is giving publishers a new way to fight declining referral traffic from AI-powered search by letting them embed a \"Preferred Sources\" button that readers can use to favor their sites across Search, Discover, and Google News. \"The idea is to make it easier for readers to find links from the sites they know and trust when they're searching for content or interacting with Google's AI to learn about a topic or read the latest news,\" reports TechCrunch. \"As of May's launch, the company said th",
-      "published": "2026-08-21T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -303,7 +231,7 @@
       "source": "HACKER NEWS",
       "title": "Zig’s io.threaded is neat",
       "url": "https://matklad.github.io/2026/08/06/neat-io-threaded.html",
-      "summary": "96 points · 51 comments",
+      "summary": "101 points · 55 comments",
       "published": "2026-08-21T14:28:15+00:00"
     },
     {
@@ -324,7 +252,7 @@
       "source": "HACKER NEWS",
       "title": "Kagi added a setting for removing paywalled links from search results",
       "url": "https://kagi.com/changelog#11296",
-      "summary": "1166 points · 370 comments",
+      "summary": "1175 points · 370 comments",
       "published": "2026-08-21T13:56:37+00:00"
     },
     {
@@ -345,7 +273,7 @@
       "source": "HACKER NEWS",
       "title": "I accidentally logged hundreds of thousands of phone calls to military bases",
       "url": "https://lina.sh/blog/hijacking-e164-arpa",
-      "summary": "582 points · 71 comments",
+      "summary": "590 points · 74 comments",
       "published": "2026-08-21T13:11:28+00:00"
     },
     {
@@ -359,7 +287,7 @@
       "source": "HACKER NEWS",
       "title": "Felony charges for citizen deleting phone data at US Border",
       "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "summary": "862 points · 985 comments",
+      "summary": "877 points · 1001 comments",
       "published": "2026-08-21T12:10:13+00:00"
     },
     {
@@ -415,7 +343,7 @@
       "source": "HACKER NEWS",
       "title": "Stop Making TUIs",
       "url": "https://sockpuppet.org/blog/2026/08/20/stop-making-tuis/",
-      "summary": "194 points · 281 comments",
+      "summary": "212 points · 306 comments",
       "published": "2026-08-21T05:37:38+00:00"
     },
     {
@@ -468,17 +396,10 @@
       "published": "2026-08-20T14:36:27+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "url": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-      "published": "2026-08-20T14:01:11+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "AI boosted homework scores, then exam scores dropped: study",
       "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-      "summary": "325 points · 331 comments",
+      "summary": "331 points · 338 comments",
       "published": "2026-08-19T06:13:31+00:00"
     },
     {
