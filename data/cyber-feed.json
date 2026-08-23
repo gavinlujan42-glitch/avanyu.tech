@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T15:49:22.256538+00:00",
-  "item_count": 75,
+  "updated": "2026-08-23T16:33:34.139222+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,17 +32,24 @@
   ],
   "items": [
     {
-      "source": "SLASHDOT",
-      "title": "23 Years After SimCity 4's Release, 'Eternal Commuter' Bug Finally Fixed",
-      "url": "https://games.slashdot.org/story/26/08/23/0417243/23-years-after-simcity-4s-release-eternal-commuter-bug-finally-fixed?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"It began life just a year after SimCity 4's 2003 launch,\" writes the blog PCGamesN. \"Now, over 20 years later, it's still going strong with the arrival of Network Addon Mod update 50.\" The SimCity 4 Network Addon Mod, or simply 'NAM' among the community, has long been a de facto recommendation to anyone looking to pick up the classic city builder. It's a comprehensive overhaul to the game's transportation and infrastructure networks that combines key fixes with a vast set of additional build pi",
-      "published": "2026-08-23T15:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
+      "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
+      "summary": "7 points · 4 comments",
+      "published": "2026-08-23T15:50:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Universal Housing",
+      "url": "https://twitter.com/christianreber/status/2091532545577849008",
+      "summary": "14 points · 10 comments",
+      "published": "2026-08-23T15:24:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Complex Systems Fail",
       "url": "https://how.complexsystems.fail/",
-      "summary": "5 points · 0 comments",
+      "summary": "46 points · 3 comments",
       "published": "2026-08-23T15:13:31+00:00"
     },
     {
@@ -46,13 +58,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vw9o2u/i_left_my_role_as_a_security_practitioner_to/",
       "summary": "This AMA will run all week from 08-23-2026 to 08-28-2026. The editors at CISO Series present this AMA. This month, we've gathered a group of security leaders who spent years as CISOs, CTOs, and in-house defenders, then made the leap to the vendor side, and are genuinely happy they did. They're here to answer anything you want to know about life on the other side of the table: why they made the move, what surprised them, what they miss (and what they don't), how it changed the way they see the ve",
       "published": "2026-08-23T15:09:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "My thesis in Security of Information",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vw9nyt/my_thesis_in_security_of_information/",
-      "summary": "hmmm, i have doubt about subject of my thesis. I know, AI is in trend, but want some ideas, maybe someone have a good ideea, and i will try to make it real ... Any help is welcome ! submitted by /u/Ok_Lifeguard_9052 [link] [comments]",
-      "published": "2026-08-23T15:08:58+00:00"
     },
     {
       "source": "REDDIT",
@@ -72,21 +77,14 @@
       "source": "HACKER NEWS",
       "title": "Slovakia finds Russian backdoor in traffic speed cameras",
       "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
-      "summary": "66 points · 20 comments",
+      "summary": "108 points · 41 comments",
       "published": "2026-08-23T14:38:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
-      "url": "https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader shared this report from the blog It's FOSS: Canonical has committed funding to a three-year PhD project focused on building a system that can automatically translate large C codebases into Rust. And they are not alone; UK Research and Innovation is matching their funding for the project, which is set to run through the University of Bristol's Programming Languages Research Group. The PhD is aiming to build an all-encompassing platform that can take a C repository running into",
-      "published": "2026-08-23T14:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What Is a Harness?",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "summary": "66 points · 39 comments",
+      "summary": "92 points · 61 comments",
       "published": "2026-08-23T14:24:21+00:00"
     },
     {
@@ -98,16 +96,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
+      "url": "https://ericpardee.github.io/fire-hd-ownership/",
+      "summary": "94 points · 31 comments",
+      "published": "2026-08-23T14:23:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Death to px, long live ch",
       "url": "https://shkspr.mobi/blog/2026/08/death-to-px-long-live-ch/",
-      "summary": "31 points · 20 comments",
+      "summary": "36 points · 28 comments",
       "published": "2026-08-23T13:56:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My favorite nonfiction books about cults, scams, and schemes",
       "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "summary": "59 points · 20 comments",
+      "summary": "87 points · 22 comments",
       "published": "2026-08-23T13:51:10+00:00"
     },
     {
@@ -121,15 +126,8 @@
       "source": "HACKER NEWS",
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "summary": "114 points · 49 comments",
+      "summary": "141 points · 54 comments",
       "published": "2026-08-23T13:05:38+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
-      "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Falling prices have made grid-scale storage batteries more attractive, reports Bloomberg. But after decades of stagnant investment, America's grids \"are racing to make the upgrades needed to plug them in,\" with supplies straining for the necessary equipment. Demand for batteries has skyrocketed as electricity use across the U.S. swells, driven by data centers' booming energy needs and increasing electrification. It's also getting harder to get them connected to power grids... As those upgrades g",
-      "published": "2026-08-23T11:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -142,22 +140,15 @@
       "source": "HACKER NEWS",
       "title": "I gave Qwen 3.8 27B a reverse-engineering job and it finished in 30 minutes",
       "url": "https://www.xda-developers.com/qwen-3-8-27b-reverse-engineering-job-frontier-model/",
-      "summary": "181 points · 87 comments",
+      "summary": "203 points · 98 comments",
       "published": "2026-08-23T10:02:51+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive",
       "url": "https://skylens.yantraai.app/",
-      "summary": "39 points · 20 comments",
+      "summary": "45 points · 21 comments",
       "published": "2026-08-23T09:27:40+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Debian is Voting on Whether to Allow AI-Assisted Contributions",
-      "url": "https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Debian developers are voting on whether to ban AI-assisted contributions, reports the blog Linuxiac, with a ballot listing eight proposals and a \"None of the above\" option. The first one is still the original proposal to ban LLM-assisted contributions by changing the Debian Social Contract. This would stop generative AI from being used for direct Debian work like packaging, software, documentation, translations, websites, and project communication. However, upstream projects made with AI help wo",
-      "published": "2026-08-23T07:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -170,64 +161,36 @@
       "source": "HACKER NEWS",
       "title": "JIT Compiling Code in 5μs",
       "url": "https://malisper.me/jit-compiling-code-in-5-us/",
-      "summary": "125 points · 82 comments",
+      "summary": "130 points · 86 comments",
       "published": "2026-08-23T06:04:51+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The End of an Athlon",
       "url": "http://www.os2museum.com/wp/the-end-of-an-athlon/",
-      "summary": "147 points · 60 comments",
+      "summary": "155 points · 62 comments",
       "published": "2026-08-23T05:51:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fast and Hard Code",
-      "url": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-      "summary": "84 points · 48 comments",
-      "published": "2026-08-23T05:39:06+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Defamation Suit Demanding Elsevier Retract Paper Heads Closer To Trial",
-      "url": "https://science.slashdot.org/story/26/08/23/0113210/defamation-suit-demanding-elsevier-retract-paper-heads-closer-to-trial?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Retraction Watch reports: A trial date has been set in a $1 billion defamation case against Elsevier that alleges the company published what plaintiffs say was a manipulated study about an air purifying technology over objections from peer reviewers. The case has already cost Elsevier a $10,000 sanction from a judge. Global Plasma Solutions (GPS), which makes air quality products, sued Elsevier in 2022 after the publisher declined to retract a 2021 paper in Building and Environment about GPS' ne",
-      "published": "2026-08-23T04:33:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "To become a better writer, read as much as you can",
       "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "summary": "331 points · 212 comments",
+      "summary": "354 points · 227 comments",
       "published": "2026-08-23T03:32:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
       "url": "https://martypc.net/",
-      "summary": "159 points · 55 comments",
+      "summary": "169 points · 55 comments",
       "published": "2026-08-23T03:13:16+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
-      "url": "https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "BleepingComputer reports: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. As Microsoft explained when it confirmed it's investigating on Wednesday, this known issue affects games like ARC Raiders, MARVEL Tokon: Fighting Souls, and The Finals on systems running Windows 11 24H2 and 25H2... \"[Peripherals or internal device components with RGB lighting features] may install drivers",
-      "published": "2026-08-23T02:29:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Art and Beauty of Blade Runner (2015)",
       "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
-      "summary": "137 points · 75 comments",
+      "summary": "150 points · 84 comments",
       "published": "2026-08-23T00:56:03+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Battery Fires At Recycling Centres Are Costing the UK £1bn a Year",
-      "url": "https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Wrongly discarded lithium batteries, such as those in vapes, are causing more than 10 fires a week at U.K. recycling centers, according to figures shared with the Guardian: The Environment Services Association (ESA), the trade body for waste management companies, said its members had reported 1,518 fires in the year to March 2026. At least 541 of these fires were directly attributed to lithium ion batteries, the survey found. There were a further 216 battery fires in bin lorries [garbage trucks]",
-      "published": "2026-08-23T00:29:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -237,32 +200,11 @@
       "published": "2026-08-22T23:46:02+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "How Will AI Change the Field of Mathematics?",
-      "url": "https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"AI went from being very terrible to seemingly genuinely quite good at a professional level in a very short space of time...\" says the Verge's AI reporter. But AI systems \"are still truly, truly terrible at some areas of math... even the days of the week.\" If you look at academic math papers, a lot of the time you won't see numbers... So they're still terrible, but they're now also very good at this other part. As to why, at some point you reach a critical mass of what these systems can do. We s",
-      "published": "2026-08-22T22:39:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "So what do you actually do day to day?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vvoe6w/so_what_do_you_actually_do_day_to_day/",
       "summary": "I can read a job description but I wanna know what your day to day looks like? Do you sit and stare at a screen until something pops up red? Are you actively looking through servers for weird things? Posting on Reddit while waiting for something to go wrong? submitted by /u/Tyler_origami94 [link] [comments]",
       "published": "2026-08-22T21:24:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
-      "url": "https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Remember that rush rescue mission for NASA's $500M space telescope? It failed, reports CNN, and the LINK satellite won't be able to boost the telescope's orbit. NASA says its decades-old Swift telescope will now continue losing altitude, until it reaches Earth's atmosphere later this year and burns up. CNN reports: Just weeks after LINK lifted off on July 3, it started to spin out of control. [Satellite designer] Katalyst was able to regain control of the satellite, but the company acknowledged ",
-      "published": "2026-08-22T21:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police",
-      "url": "https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Slashdot reader fjo3 shared this article from Wired: [Flock] has told the public for years that its technology \"cannot recognize, identify, or track individuals.\" It has now built a system that does both, an artificial intelligence tool for police that can identify drivers and track vehicles by their patterns of movement alone, WIRED has learned... Because the system also reaches police case files, 911 dispatch logs, and commercial identity records, those plates can be turned into names, home ad",
-      "published": "2026-08-22T20:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -272,39 +214,18 @@
       "published": "2026-08-22T19:13:25+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Low Emission Zone Led To Better Lung Size, Function Among London Children",
-      "url": "https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Long-time Slashdot reader AmiMoJo shared this report from the Guardian: Children's lungs grew bigger and stronger after the most polluting vehicles were restricted from entering London, a study has found. Examinations of London schoolchildren before and after the introduction of the city's ultra-low emission zone found a restoration of lung capacity that had been stunted by exposure to pollution... \"Traffic pollution in cities damages children's health and development,\" said Chris Griffiths, a p",
-      "published": "2026-08-22T19:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Things I want in a modern relational query language",
       "url": "https://sporks.space/2026/08/19/things-i-want-in-a-modern-relational-query-language/",
-      "summary": "27 points · 16 comments",
+      "summary": "42 points · 27 comments",
       "published": "2026-08-22T18:38:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "summary": "423 points · 174 comments",
+      "summary": "431 points · 179 comments",
       "published": "2026-08-22T18:14:16+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope",
-      "url": "https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Reuters reports \"a major success in a new field of cancer treatment this week, as Moderna and Merck announced a personalized mRNA cancer vaccine \"reduced the risk of recurrence and spread of melanoma in a late-stage trial\". The vaccine was tested with Merck's widely used immunotherapy drug Keytruda: Thousands of patients who have undergone surgery to remove high-risk melanoma tumors could benefit as soon as next year if regulators approve the vaccine, Moderna President Stephen Hoge said in an in",
-      "published": "2026-08-22T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "url": "https://quantumi.sh/public/labs.html",
-      "summary": "446 points · 134 comments",
-      "published": "2026-08-22T14:54:07+00:00"
     },
     {
       "source": "OSINT",
@@ -326,6 +247,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
       "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
       "published": "2026-08-22T13:00:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Australia - Is a Cert IV in digital forensics worth it ? considering it is very expensive",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vva2r7/australia_is_a_cert_iv_in_digital_forensics_worth/",
+      "summary": "submitted by /u/Any_Recording_7929 [link] [comments]",
+      "published": "2026-08-22T11:35:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -368,6 +296,13 @@
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
       "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
       "published": "2026-08-21T15:41:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "published": "2026-08-21T14:54:49+00:00"
     },
     {
       "source": "OSINT",
@@ -466,13 +401,6 @@
       "url": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
       "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
       "published": "2026-08-20T16:59:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hister – A private, full content search index that you control",
-      "url": "https://hister.org/",
-      "summary": "428 points · 95 comments",
-      "published": "2026-08-18T20:00:50+00:00"
     },
     {
       "source": "REDDIT",
