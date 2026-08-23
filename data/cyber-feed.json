@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T03:09:50.162043+00:00",
-  "item_count": 64,
+  "updated": "2026-08-23T04:10:57.104703+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,6 +27,27 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
+      "url": "https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BleepingComputer reports: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. As Microsoft explained when it confirmed it's investigating on Wednesday, this known issue affects games like ARC Raiders, MARVEL Tokon: Fighting Souls, and The Finals on systems running Windows 11 24H2 and 25H2... \"[Peripherals or internal device components with RGB lighting features] may install drivers",
+      "published": "2026-08-23T02:29:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Art and Beauty of Blade Runner",
+      "url": "https://nappertime.com/the-art-of-and-beauty-of-blade-runner/",
+      "summary": "12 points · 4 comments",
+      "published": "2026-08-23T00:56:03+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Battery Fires At Recycling Centres Are Costing the UK £1bn a Year",
+      "url": "https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Wrongly discarded lithium batteries, such as those in vapes, are causing more than 10 fires a week at U.K. recycling centers, according to figures shared with the Guardian: The Environment Services Association (ESA), the trade body for waste management companies, said its members had reported 1,518 fires in the year to March 2026. At least 541 of these fires were directly attributed to lithium ion batteries, the survey found. There were a further 216 battery fires in bin lorries [garbage trucks]",
+      "published": "2026-08-23T00:29:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Hey folks,Security engineer here. Doing SOC work. Want to get into detection engineering/ Incident Response. Whats it like working IR. What kind of projects would one get ? Any suggestions are appreciated",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vvrlt9/hey_folkssecurity_engineer_here_doing_soc_work/",
@@ -39,10 +55,17 @@
       "published": "2026-08-22T23:46:02+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "How Will AI Change the Field of Mathematics?",
+      "url": "https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"AI went from being very terrible to seemingly genuinely quite good at a professional level in a very short space of time...\" says the Verge's AI reporter. But AI systems \"are still truly, truly terrible at some areas of math... even the days of the week.\" If you look at academic math papers, a lot of the time you won't see numbers... So they're still terrible, but they're now also very good at this other part. As to why, at some point you reach a critical mass of what these systems can do. We s",
+      "published": "2026-08-22T22:39:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "NanoGPT Speedrun Frontier",
       "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
-      "summary": "55 points · 18 comments",
+      "summary": "65 points · 18 comments",
       "published": "2026-08-22T22:14:27+00:00"
     },
     {
@@ -51,6 +74,20 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vvoe6w/so_what_do_you_actually_do_day_to_day/",
       "summary": "I can read a job description but I wanna know what your day to day looks like? Do you sit and stare at a screen until something pops up red? Are you actively looking through servers for weird things? Posting on Reddit while waiting for something to go wrong? submitted by /u/Tyler_origami94 [link] [comments]",
       "published": "2026-08-22T21:24:15+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
+      "url": "https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Remember that rush rescue mission for NASA's $500M space telescope? It failed, reports CNN, and the LINK satellite won't be able to boost the telescope's orbit. NASA says its decades-old Swift telescope will now continue losing altitude, until it reaches Earth's atmosphere later this year and burns up. CNN reports: Just weeks after LINK lifted off on July 3, it started to spin out of control. [Satellite designer] Katalyst was able to regain control of the satellite, but the company acknowledged ",
+      "published": "2026-08-22T21:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Flock is Secretly Building a Powerful New Prompt-Based AI Tool for Police",
+      "url": "https://yro.slashdot.org/story/26/08/22/0526219/flock-is-secretly-building-a-powerful-new-prompt-based-ai-tool-for-police?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Slashdot reader fjo3 shared this article from Wired: [Flock] has told the public for years that its technology \"cannot recognize, identify, or track individuals.\" It has now built a system that does both, an artificial intelligence tool for police that can identify drivers and track vehicles by their patterns of movement alone, WIRED has learned... Because the system also reaches police case files, 911 dispatch logs, and commercial identity records, those plates can be turned into names, home ad",
+      "published": "2026-08-22T20:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -63,15 +100,15 @@
       "source": "HACKER NEWS",
       "title": "NetBSD and my life (2005)",
       "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
-      "summary": "101 points · 25 comments",
+      "summary": "103 points · 28 comments",
       "published": "2026-08-22T19:07:46+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
-      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
-      "summary": "168 points · 70 comments",
-      "published": "2026-08-22T19:04:41+00:00"
+      "source": "SLASHDOT",
+      "title": "Low Emission Zone Led To Better Lung Size, Function Among London Children",
+      "url": "https://news.slashdot.org/story/26/08/22/0537243/low-emission-zone-led-to-better-lung-size-function-among-london-children?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Long-time Slashdot reader AmiMoJo shared this report from the Guardian: Children's lungs grew bigger and stronger after the most polluting vehicles were restricted from entering London, a study has found. Examinations of London schoolchildren before and after the introduction of the city's ultra-low emission zone found a restoration of lung capacity that had been stunted by exposure to pollution... \"Traffic pollution in cities damages children's health and development,\" said Chris Griffiths, a p",
+      "published": "2026-08-22T19:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -84,42 +121,42 @@
       "source": "HACKER NEWS",
       "title": "Why your local LLM feels dumber than it is",
       "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "summary": "202 points · 69 comments",
+      "summary": "224 points · 74 comments",
       "published": "2026-08-22T18:14:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-      "url": "https://marcua.net/minitools/figmimic/",
-      "summary": "65 points · 5 comments",
-      "published": "2026-08-22T18:11:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Thinking in Python",
       "url": "https://thinkinginpython.com/",
-      "summary": "70 points · 18 comments",
+      "summary": "91 points · 20 comments",
       "published": "2026-08-22T18:10:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Scrap (2006)",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "summary": "326 points · 177 comments",
+      "summary": "338 points · 184 comments",
       "published": "2026-08-22T18:08:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I set a trap for a book-marketing scammer (2025)",
       "url": "https://rwwgreene.substack.com/p/i-set-a-trap-for-a-book-marketing",
-      "summary": "13 points · 9 comments",
+      "summary": "16 points · 14 comments",
       "published": "2026-08-22T18:08:25+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Moderna-Merck Vaccine Cuts Recurrence And Spread of Melanoma, Raises New Treatment Hope",
+      "url": "https://science.slashdot.org/story/26/08/22/0346210/moderna-merck-vaccine-cuts-recurrence-and-spread-of-melanoma-raises-new-treatment-hope?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Reuters reports \"a major success in a new field of cancer treatment this week, as Moderna and Merck announced a personalized mRNA cancer vaccine \"reduced the risk of recurrence and spread of melanoma in a late-stage trial\". The vaccine was tested with Merck's widely used immunotherapy drug Keytruda: Thousands of patients who have undergone surgery to remove high-risk melanoma tumors could benefit as soon as next year if regulators approve the vaccine, Moderna President Stephen Hoge said in an in",
+      "published": "2026-08-22T18:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Reading Maps – Journeys from fiction drawn on the real world",
       "url": "https://readingmaps.com/",
-      "summary": "8 points · 2 comments",
+      "summary": "13 points · 2 comments",
       "published": "2026-08-22T17:59:09+00:00"
     },
     {
@@ -130,10 +167,31 @@
       "published": "2026-08-22T17:54:41+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Is AI Really to Blame for High Unemployment Among Recent Graduates? What Economists Say",
+      "url": "https://it.slashdot.org/story/26/08/22/0418223/is-ai-really-to-blame-for-high-unemployment-among-recent-graduates-what-economists-say?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "47% of recent graduates say AI has already impacted hiring in their field, according to an April survey from ZipRecruiter. \"But is AI really the problem, or is it more complicated?\" asks NPR. \"Here's what economists have to say.\" According to the Federal Reserve Bank of New York, the unemployment rate for recent graduates — which it defines as 22-to-27-year-olds with a new bachelor's degree or higher — was 5.7% as of June, more than the rate for all workers, which stands at 4.1%... Stanford Univ",
+      "published": "2026-08-22T17:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Firefox Announces Free VPN and 'Startpage' Search Engine Rolling Out to Android, iOS - Plus GeForce NOW Support",
+      "url": "https://news.slashdot.org/story/26/08/22/0220219/firefox-announces-free-vpn-and-startpage-search-engine-rolling-out-to-android-ios---plus-geforce-now-support?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Firefox 154 \"brings a number of usability improvements,\" writes PC World: The free built-in VPN, introduced with Firefox 149, continues to offer a selection of virtual locations — temporarily extended to 28 countries until the end of August... The free VPN is currently available to Firefox users in the US, Canada, the UK, France, and Germany. In addition, the free VPN can now also be used in Firefox for Android (rolling out gradually) with iOS to follow soon. Firefox 154 also begins adding the p",
+      "published": "2026-08-22T16:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "New York Dethrones San Francisco Bay Area As Largest Tech Talent Market",
+      "url": "https://news.slashdot.org/story/26/08/21/228222/new-york-dethrones-san-francisco-bay-area-as-largest-tech-talent-market?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "fjo3 shares a report from SFGATE: The San Francisco Bay Area, epicenter of the artificial intelligence boom, is home to a massive amount of tech workers employed by some of the world's most valuable companies, from Apple to Nvidia. But for the first time, New York has eclipsed the Bay Area as the home of the largest \"tech talent workforce,\" a report by real estate and investment firm CBRE shows. The firm has published the annual report for 13 years. Last year, the New York Metro Area's tech tale",
+      "published": "2026-08-22T15:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
       "url": "https://quantumi.sh/public/labs.html",
-      "summary": "331 points · 102 comments",
+      "summary": "337 points · 107 comments",
       "published": "2026-08-22T14:54:07+00:00"
     },
     {
@@ -154,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "A Friendly Introduction to Racket",
       "url": "https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/",
-      "summary": "203 points · 104 comments",
+      "summary": "206 points · 108 comments",
       "published": "2026-08-22T14:08:19+00:00"
     },
     {
@@ -172,17 +230,31 @@
       "published": "2026-08-22T11:35:13+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Over 1 Million People Have Clicked LinkedIn's AI Slop Button",
+      "url": "https://tech.slashdot.org/story/26/08/21/224221/over-1-million-people-have-clicked-linkedins-ai-slop-button?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "According to a post from chief product officer Hari Srinivasan, \"over a million people\" have clicked on LinkedIn's new \"Seems like AI slop\" button, which launched after one analysis found 41% of the platform's longform posts were fully AI-generated. The Verge reports: In Thursday's post, Srinivasan said that users are overall \"now experiencing 40% less views on what we classify as AI slop from just a few weeks ago.\" LinkedIn is also adding a new message that will tell users who make a post if \"S",
+      "published": "2026-08-22T11:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Munder Difflin – Agent harness to run an office of your clones",
       "url": "https://munderdiffl.in/",
-      "summary": "259 points · 115 comments",
+      "summary": "261 points · 115 comments",
       "published": "2026-08-22T09:49:14+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'Off the Charts' El Nino Is Already the Strongest Since Records Began",
+      "url": "https://news.slashdot.org/story/26/08/21/2216202/off-the-charts-el-nino-is-already-the-strongest-since-records-began?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A rapidly developing El Nino is already reaching record-setting levels for this time of year and is expected to intensify further over the coming months. \"The El Nino has blossomed. It is off the charts. Usual measures of El Nino have blown past prior record levels in the period with good data, even though maximum effects are still several months in the future,\" writes renowned climate scientist James Hansen at Columbia University in New York in a newsletter sent today. Climate scientists disagr",
+      "published": "2026-08-22T07:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
       "url": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-      "summary": "516 points · 1276 comments",
+      "summary": "539 points · 1308 comments",
       "published": "2026-08-22T06:16:57+00:00"
     },
     {
@@ -205,6 +277,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vuwamd/how_are_cisco_firewalls_these_days/",
       "summary": "I used to deploy a lot of 5506 firewalls, and at the time, firepower kinda sucked. I ended up moving to Fortinet, but they’ve really been dropping the ball a lot lately as well as pricing going up. So I’m evaluating other brands. How are Cisco firewalls these days? Are they reliable? Does it take less than 15 minutes to commit changes (lol)? How are its layer 7 capabilities compared with Palo Alto (I have experience with PA)? submitted by /u/JustinHoMi [link] [comments]",
       "published": "2026-08-21T23:35:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "summary": "151 points · 170 comments",
+      "published": "2026-08-21T19:51:48+00:00"
     },
     {
       "source": "OSINT",
@@ -250,13 +329,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
-      "published": "2026-08-21T14:54:49+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Is Online Privacy Possible? How Digital Identities Can Help",
       "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
       "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
@@ -266,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "summary": "119 points · 43 comments",
+      "summary": "128 points · 44 comments",
       "published": "2026-08-21T13:43:33+00:00"
     },
     {
@@ -350,7 +422,7 @@
       "source": "HACKER NEWS",
       "title": "ATProto spaces: A new extension to ATProto that enables non-public data",
       "url": "https://atproto.com/blog/atproto-spaces-alpha",
-      "summary": "124 points · 18 comments",
+      "summary": "126 points · 18 comments",
       "published": "2026-08-20T20:22:35+00:00"
     },
     {
@@ -385,21 +457,21 @@
       "source": "HACKER NEWS",
       "title": "RF Cafe",
       "url": "https://www.rfcafe.com/",
-      "summary": "158 points · 28 comments",
+      "summary": "165 points · 28 comments",
       "published": "2026-08-19T02:05:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Hister – A private, full content search index that you control",
       "url": "https://hister.org/",
-      "summary": "252 points · 68 comments",
+      "summary": "267 points · 73 comments",
       "published": "2026-08-18T20:00:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "typ.ing",
       "url": "https://typ.ing/",
-      "summary": "199 points · 58 comments",
+      "summary": "209 points · 62 comments",
       "published": "2026-08-18T15:12:53+00:00"
     },
     {
