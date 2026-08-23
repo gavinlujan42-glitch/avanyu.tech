@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-23T19:47:08.575049+00:00",
-  "item_count": 74,
+  "updated": "2026-08-23T20:30:46.720877+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,6 +13,11 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
+    },
+    {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -28,6 +33,13 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Does Good Engineering Go Unnoticed?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwhhie/does_good_engineering_go_unnoticed/",
+      "summary": "Something I've been thinking about: a personality now making the rounds in YouTube podcasts, Bryce Case Jr. seems like a competent engineer, and it made me wonder about something broader in the engineering and security community. If an engineer consistently does things correctly—follows good practices, prevents incidents, documents systems, and avoids outages—most people outside their organization may never know their name because nothing dramatic happens. But if someone makes a highly visible m",
+      "published": "2026-08-23T20:06:25+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "What’s the best way to actually study for GIAC GCIH?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vwgk5f/whats_the_best_way_to_actually_study_for_giac_gcih/",
       "summary": "So far I’m just reading through the books and tabbing pages that have keywords of interest and highlighting those. I don’t know if this is the most efficient method though. submitted by /u/WordTimely8559 [link] [comments]",
@@ -37,42 +49,35 @@
       "source": "HACKER NEWS",
       "title": "How I Find Problems to Solve as a Staff Engineer",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "summary": "5 points · 0 comments",
+      "summary": "46 points · 22 comments",
       "published": "2026-08-23T19:23:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fable and the End of the Free Lunch",
       "url": "https://www.dbreunig.com/2026/08/23/fable-the-end-of-moore-s-law.html",
-      "summary": "6 points · 0 comments",
+      "summary": "35 points · 19 comments",
       "published": "2026-08-23T19:06:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Over 170k Nonprofits Lost All Their Data. Is Microsoft to Blame?",
       "url": "https://slate.com/technology/2026/08/microsoft-software-nonprofit-data-delete.html",
-      "summary": "32 points · 7 comments",
+      "summary": "52 points · 16 comments",
       "published": "2026-08-23T18:55:54+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days",
-      "url": "https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Iran shut down a British power plant for four days in an unprecedented cyber attack,\" reports the Telegraph. More details from the BBC: The government said that at no point was there a risk to the UK's energy system, but the Department for Energy Security and Net Zero (DESNZ) has contacted power companies to advise them about the risk of cyber attacks... DESNZ said the incident had affected a small-scale generator and at no point had there been a risk to the wider energy system. The UK's power ",
-      "published": "2026-08-23T18:53:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Say It Four Times (In Your System Prompt)",
       "url": "https://www.khola.blog/p/say-it-four-times",
-      "summary": "3 points · 0 comments",
+      "summary": "7 points · 8 comments",
       "published": "2026-08-23T18:40:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Vibe Tax",
       "url": "https://insufferable.dev/posts/vibe-tax/",
-      "summary": "5 points · 0 comments",
+      "summary": "21 points · 5 comments",
       "published": "2026-08-23T18:31:02+00:00"
     },
     {
@@ -86,14 +91,14 @@
       "source": "HACKER NEWS",
       "title": "Explain it to me like I'm ten",
       "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-      "summary": "16 points · 10 comments",
+      "summary": "26 points · 14 comments",
       "published": "2026-08-23T18:08:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "summary": "5 points · 0 comments",
+      "summary": "23 points · 11 comments",
       "published": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -111,52 +116,38 @@
       "published": "2026-08-23T17:44:54+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Slovakia Finds Russian Backdoor In Traffic Speed Cameras",
-      "url": "https://yro.slashdot.org/story/26/08/23/1735228/slovakia-finds-russian-backdoor-in-traffic-speed-cameras?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Slovakia acquired speed cameras to modernize its traffic control-- but there was a surprise. Tom's Hardware cites this story from the Risky Bulletin Newsletter: Unfortunately, the country's national security service, the NBU, has discovered that the cameras have multiple security issues. Firstly, they have SMS-activated Russian backdoors. Secondly, live camera feeds can be accessed by anyone with the device IP, no password necessary... [The cameras] are thought to be rebranded Russian CORDON PRO",
-      "published": "2026-08-23T17:38:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "A website for debloated open source alternatives",
       "url": "https://debloat.dev/",
-      "summary": "102 points · 49 comments",
+      "summary": "151 points · 62 comments",
       "published": "2026-08-23T16:54:10+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Stanford Economist Now Believes an AI Job Apocalypse Is Unlikely",
-      "url": "https://it.slashdot.org/story/26/08/22/211256/stanford-economist-now-believes-an-ai-job-apocalypse-is-unlikely?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"There is still no sign of economy-wide job destruction,\" says economist Erik Brynjolfsson. Working with researchers at the Stanford Digital Economy Lab, Brynjolfsson has determined an AI \"job apocalypse\" is unlikely, reports the Washington Post, \"even though it will likely impact entry-level jobs.\" And Brynjolfsson \"predicts that demand for experienced workers such as senior coders will still be high even if AI takes on more routine knowledge and coding work in the future.\" Earlier this month, ",
-      "published": "2026-08-23T16:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Phoenix tried a reflective coating on black asphalt; noon surface heat fell 12°F",
+      "url": "https://economictimes.indiatimes.com/news/international/us/phoenix-swapped-black-asphalt-for-a-reflective-road-coating-noon-surface-heat-fell-12f-but-pedestrians-faced-higher-radiant-heat/articleshow/133421891.cms?from=mdr",
+      "summary": "13 points · 15 comments",
+      "published": "2026-08-23T16:43:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
       "url": "https://punyamishra.com/2026/04/16/why-sal-khant-on-learning-by-making-but-teaching-by-telling/",
-      "summary": "70 points · 38 comments",
+      "summary": "82 points · 51 comments",
       "published": "2026-08-23T15:59:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
       "url": "https://studyfinds.com/coconut-oil-jet-fuel-matches-kerosenes-efficiency-in-engine-tests/",
-      "summary": "89 points · 82 comments",
+      "summary": "104 points · 90 comments",
       "published": "2026-08-23T15:50:18+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "23 Years After SimCity 4's Release, 'Eternal Commuter' Bug Finally Fixed",
-      "url": "https://games.slashdot.org/story/26/08/23/0417243/23-years-after-simcity-4s-release-eternal-commuter-bug-finally-fixed?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"It began life just a year after SimCity 4's 2003 launch,\" writes the blog PCGamesN. \"Now, over 20 years later, it's still going strong with the arrival of Network Addon Mod update 50.\" The SimCity 4 Network Addon Mod, or simply 'NAM' among the community, has long been a de facto recommendation to anyone looking to pick up the classic city builder. It's a comprehensive overhaul to the game's transportation and infrastructure networks that combines key fixes with a vast set of additional build pi",
-      "published": "2026-08-23T15:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
-      "summary": "149 points · 40 comments",
+      "summary": "165 points · 45 comments",
       "published": "2026-08-23T15:13:31+00:00"
     },
     {
@@ -167,24 +158,17 @@
       "published": "2026-08-23T15:09:05+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Posting Repos",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vw92hd/posting_repos/",
-      "summary": "I noticed a user just posting a repo link with one sentence here. Some other sub reddita class this as \"low effort \" But this is ok here? I assume paid subscriptions app links are not ok? Asking before I get shadow banned out of the blue. submitted by /u/KrystalUnity [link] [comments]",
-      "published": "2026-08-23T14:45:40+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
-      "url": "https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader shared this report from the blog It's FOSS: Canonical has committed funding to a three-year PhD project focused on building a system that can automatically translate large C codebases into Rust. And they are not alone; UK Research and Innovation is matching their funding for the project, which is set to run through the University of Bristol's Programming Languages Research Group. The PhD is aiming to build an all-encompassing platform that can take a C repository running into",
-      "published": "2026-08-23T14:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Slovakia finds Russian backdoor in traffic speed cameras",
+      "url": "https://risky.biz/risky-bulletin-slovakia-finds-russian-backdoor-in-traffic-speed-cameras/",
+      "summary": "285 points · 115 comments",
+      "published": "2026-08-23T14:38:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What Is a Harness?",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "summary": "176 points · 100 comments",
+      "summary": "195 points · 102 comments",
       "published": "2026-08-23T14:24:21+00:00"
     },
     {
@@ -198,14 +182,14 @@
       "source": "HACKER NEWS",
       "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
       "url": "https://ericpardee.github.io/fire-hd-ownership/",
-      "summary": "475 points · 212 comments",
+      "summary": "531 points · 234 comments",
       "published": "2026-08-23T14:23:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My favorite nonfiction books about cults, scams, and schemes",
       "url": "https://bookdna.com/best-books/nonfiction-about-cults-scams-and-schemes",
-      "summary": "140 points · 44 comments",
+      "summary": "153 points · 58 comments",
       "published": "2026-08-23T13:51:10+00:00"
     },
     {
@@ -219,22 +203,8 @@
       "source": "HACKER NEWS",
       "title": "Malware infects Android-based automotive head unit firmware",
       "url": "https://securelist.com/android-head-unit-malware/121106/",
-      "summary": "174 points · 83 comments",
+      "summary": "180 points · 85 comments",
       "published": "2026-08-23T13:05:38+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Supply Chain Issues Delaying US Grid Batteries' Installation",
-      "url": "https://hardware.slashdot.org/story/26/08/23/0333203/supply-chain-issues-delaying-us-grid-batteries-installation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Falling prices have made grid-scale storage batteries more attractive, reports Bloomberg. But after decades of stagnant investment, America's grids \"are racing to make the upgrades needed to plug them in,\" with supplies straining for the necessary equipment. Demand for batteries has skyrocketed as electricity use across the U.S. swells, driven by data centers' booming energy needs and increasing electrification. It's also getting harder to get them connected to power grids... As those upgrades g",
-      "published": "2026-08-23T11:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Debian is Voting on Whether to Allow AI-Assisted Contributions",
-      "url": "https://linux.slashdot.org/story/26/08/23/0539230/debian-is-voting-on-whether-to-allow-ai-assisted-contributions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Debian developers are voting on whether to ban AI-assisted contributions, reports the blog Linuxiac, with a ballot listing eight proposals and a \"None of the above\" option. The first one is still the original proposal to ban LLM-assisted contributions by changing the Debian Social Contract. This would stop generative AI from being used for direct Debian work like packaging, software, documentation, translations, websites, and project communication. However, upstream projects made with AI help wo",
-      "published": "2026-08-23T07:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -247,36 +217,8 @@
       "source": "HACKER NEWS",
       "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
       "url": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-      "summary": "232 points · 180 comments",
+      "summary": "246 points · 189 comments",
       "published": "2026-08-23T06:41:51+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Defamation Suit Demanding Elsevier Retract Paper Heads Closer To Trial",
-      "url": "https://science.slashdot.org/story/26/08/23/0113210/defamation-suit-demanding-elsevier-retract-paper-heads-closer-to-trial?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Retraction Watch reports: A trial date has been set in a $1 billion defamation case against Elsevier that alleges the company published what plaintiffs say was a manipulated study about an air purifying technology over objections from peer reviewers. The case has already cost Elsevier a $10,000 sanction from a judge. Global Plasma Solutions (GPS), which makes air quality products, sued Elsevier in 2022 after the publisher declined to retract a 2021 paper in Building and Environment about GPS' ne",
-      "published": "2026-08-23T04:33:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "To become a better writer, read as much as you can",
-      "url": "https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/",
-      "summary": "392 points · 245 comments",
-      "published": "2026-08-23T03:32:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Microsoft Blames Windows Gaming Issues On RGB Lighting Devices",
-      "url": "https://tech.slashdot.org/story/26/08/23/0046217/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "BleepingComputer reports: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. As Microsoft explained when it confirmed it's investigating on Wednesday, this known issue affects games like ARC Raiders, MARVEL Tokon: Fighting Souls, and The Finals on systems running Windows 11 24H2 and 25H2... \"[Peripherals or internal device components with RGB lighting features] may install drivers",
-      "published": "2026-08-23T02:29:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Battery Fires At Recycling Centres Are Costing the UK £1bn a Year",
-      "url": "https://hardware.slashdot.org/story/26/08/23/0027208/battery-fires-at-recycling-centres-are-costing-the-uk-1bn-a-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Wrongly discarded lithium batteries, such as those in vapes, are causing more than 10 fires a week at U.K. recycling centers, according to figures shared with the Guardian: The Environment Services Association (ESA), the trade body for waste management companies, said its members had reported 1,518 fires in the year to March 2026. At least 541 of these fires were directly attributed to lithium ion batteries, the survey found. There were a further 216 battery fires in bin lorries [garbage trucks]",
-      "published": "2026-08-23T00:29:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -286,25 +228,11 @@
       "published": "2026-08-22T23:46:02+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "How Will AI Change the Field of Mathematics?",
-      "url": "https://science.slashdot.org/story/26/08/22/2235244/how-will-ai-change-the-field-of-mathematics?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"AI went from being very terrible to seemingly genuinely quite good at a professional level in a very short space of time...\" says the Verge's AI reporter. But AI systems \"are still truly, truly terrible at some areas of math... even the days of the week.\" If you look at academic math papers, a lot of the time you won't see numbers... So they're still terrible, but they're now also very good at this other part. As to why, at some point you reach a critical mass of what these systems can do. We s",
-      "published": "2026-08-22T22:39:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "So what do you actually do day to day?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vvoe6w/so_what_do_you_actually_do_day_to_day/",
       "summary": "I can read a job description but I wanna know what your day to day looks like? Do you sit and stare at a screen until something pops up red? Are you actively looking through servers for weird things? Posting on Reddit while waiting for something to go wrong? submitted by /u/Tyler_origami94 [link] [comments]",
       "published": "2026-08-22T21:24:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Rush Rescue Mission for NASA's $500M Space Telescope Fails",
-      "url": "https://science.slashdot.org/story/26/08/22/1844225/rush-rescue-mission-for-nasas-500m-space-telescope-fails?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Remember that rush rescue mission for NASA's $500M space telescope? It failed, reports CNN, and the LINK satellite won't be able to boost the telescope's orbit. NASA says its decades-old Swift telescope will now continue losing altitude, until it reaches Earth's atmosphere later this year and burns up. CNN reports: Just weeks after LINK lifted off on July 3, it started to spin out of control. [Satellite designer] Katalyst was able to regain control of the satellite, but the company acknowledged ",
-      "published": "2026-08-22T21:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -368,6 +296,13 @@
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
       "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
       "published": "2026-08-21T15:41:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "published": "2026-08-21T14:54:49+00:00"
     },
     {
       "source": "OSINT",
