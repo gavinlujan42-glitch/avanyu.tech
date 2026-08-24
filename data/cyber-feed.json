@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T18:50:40.339598+00:00",
+  "updated": "2026-08-24T19:35:06.325282+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,60 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+      "published": "2026-08-24T19:26:32+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "15 fake Kanban VS Code extensions that download and run a remote payload",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxcliu/15_fake_kanban_vs_code_extensions_that_download/",
+      "summary": "submitted by /u/tame-impaled [link] [comments]",
+      "published": "2026-08-24T19:19:51+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
-      "url": "https://textlog.cc/post/2059",
-      "summary": "3 points · 0 comments",
-      "published": "2026-08-24T18:45:43+00:00"
+      "title": "LLMs could control their host machines by exploiting inference engines",
+      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-24T19:03:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Nvidia Senior Manager Linked To Supermicro Scheme Smuggling AI Servers To China",
+      "url": "https://slashdot.org/story/26/08/24/1844211/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: Taiwan has indicted nine people -- reportedly including an Nvidia senior manager and two Supermicro employees based in the country -- who allegedly helped forge documents to cover up illegal exports of high-end AI servers to China in violation of US export controls. On Monday, Reuters reported that prosecutors in Keelung did not release any names but confirmed that the suspects were \"charged with breach of trust and document forgery.\" One su",
+      "published": "2026-08-24T19:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Anger, Anxiety and Agency",
       "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "summary": "4 points · 0 comments",
+      "summary": "32 points · 22 comments",
       "published": "2026-08-24T18:37:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+      "url": "https://github.com/getkern/kern",
+      "summary": "11 points · 0 comments",
+      "published": "2026-08-24T18:24:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Your \"File\" Menu Isn't About Files",
+      "url": "https://adam.farkas.pro/your-file-menu-isnt-about-files/",
+      "summary": "21 points · 22 comments",
+      "published": "2026-08-24T18:21:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What Is a Syslog Server?",
+      "url": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+      "summary": "15 points · 7 comments",
+      "published": "2026-08-24T18:15:50+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -62,13 +104,6 @@
       "published": "2026-08-24T17:53:14+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Adding 4 more 2.5GbE interfaces to the GMKtec NucBox G9",
-      "url": "https://catskull.net/adding-4-more-25gbe-interfaces-to-the-gmktec-nucbox-g9.html",
-      "summary": "11 points · 3 comments",
-      "published": "2026-08-24T17:50:18+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Can running local LLMs be a security threat?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vx9i0l/can_running_local_llms_be_a_security_threat/",
@@ -79,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "87 points · 30 comments",
+      "summary": "132 points · 50 comments",
       "published": "2026-08-24T17:05:38+00:00"
     },
     {
@@ -93,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "summary": "37 points · 3 comments",
+      "summary": "49 points · 4 comments",
       "published": "2026-08-24T16:52:01+00:00"
     },
     {
@@ -107,14 +142,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: GlassBox – what the browser reveals, and how identifiable you are",
       "url": "https://glassbox.codecanary.org",
-      "summary": "45 points · 21 comments",
+      "summary": "57 points · 30 comments",
       "published": "2026-08-24T16:15:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
       "url": "https://picomq.com/",
-      "summary": "35 points · 0 comments",
+      "summary": "45 points · 3 comments",
       "published": "2026-08-24T16:08:17+00:00"
     },
     {
@@ -133,37 +168,30 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Coding expertise is going to collapse from AI reliance",
-      "url": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
-      "summary": "253 points · 286 comments",
-      "published": "2026-08-24T15:52:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "summary": "59 points · 24 comments",
+      "summary": "74 points · 30 comments",
       "published": "2026-08-24T15:51:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "IPFS Maintainers Winding Down",
       "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "summary": "187 points · 78 comments",
+      "summary": "228 points · 103 comments",
       "published": "2026-08-24T15:48:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "280 points · 127 comments",
+      "summary": "333 points · 139 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
       "url": "https://developers.openai.com/api/docs/pricing",
-      "summary": "179 points · 170 comments",
+      "summary": "202 points · 183 comments",
       "published": "2026-08-24T15:22:43+00:00"
     },
     {
@@ -177,15 +205,8 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "441 points · 272 comments",
+      "summary": "495 points · 323 comments",
       "published": "2026-08-24T15:08:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Adafruit USB Type C CC Resistor Fixer",
-      "url": "https://www.adafruit.com/product/6323",
-      "summary": "49 points · 39 comments",
-      "published": "2026-08-24T15:05:22+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -226,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "749 points · 503 comments",
+      "summary": "796 points · 533 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -296,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "summary": "142 points · 31 comments",
+      "summary": "148 points · 31 comments",
       "published": "2026-08-24T11:32:51+00:00"
     },
     {
@@ -319,13 +340,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vwz1yt/how_are_you_handling_nonhuman_identity_security/",
       "summary": "did an inventory of non-human identities and the count came back higher than our human headcount by a wide margin, with almost none of them owned by anyone. service accounts from projects that ended years ago, workload identities with permissions nobody remembers granting, and agents getting added on top of all of it with no lifecycle process at all. rotating credentials manually across that many identities isn't sustainable at this scale. how is everyone actually managing lifecycle for this, an",
       "published": "2026-08-24T10:34:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Code Execution via Text Template Files + 2 New LOLBins",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwyehm/code_execution_via_text_template_files_2_new/",
-      "summary": "submitted by /u/netbiosX [link] [comments]",
-      "published": "2026-08-24T09:59:20+00:00"
     },
     {
       "source": "OSINT",
@@ -408,15 +422,8 @@
       "source": "HACKER NEWS",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "summary": "429 points · 535 comments",
+      "summary": "441 points · 547 comments",
       "published": "2026-08-23T20:38:09+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Iran-linked Cyberattackers Shut Down a UK Power Plant for Four Days",
-      "url": "https://news.slashdot.org/story/26/08/23/1849216/iran-linked-cyberattackers-shut-down-a-uk-power-plant-for-four-days?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Iran shut down a British power plant for four days in an unprecedented cyber attack,\" reports the Telegraph. More details from the BBC: The government said that at no point was there a risk to the UK's energy system, but the Department for Energy Security and Net Zero (DESNZ) has contacted power companies to advise them about the risk of cyber attacks... DESNZ said the incident had affected a small-scale generator and at no point had there been a risk to the wider energy system. The UK's power ",
-      "published": "2026-08-23T18:53:00+00:00"
     },
     {
       "source": "OSINT",
@@ -459,13 +466,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
       "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
       "published": "2026-08-21T18:01:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
-      "published": "2026-08-21T15:55:15+00:00"
     },
     {
       "source": "OSINT",
