@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T11:57:48.892026+00:00",
+  "updated": "2026-08-24T13:03:12.661157+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,60 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "Laptop Recommendation for Cybersecurity",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx0jm9/laptop_recommendation_for_cybersecurity/",
-      "summary": "Hi, I’m looking for a laptop that would be suitable for cybersecurity work and studying. I’d like something with strong CPU performance, at least 16GB of RAM, a good display, and preferably a slim and lightweight design. Could you recommend the best specifications or models you have at a reasonable price? I’m mainly looking for the best balance between performance, portability, and price. submitted by /u/CriticalRutabaga7846 [link] [comments]",
-      "published": "2026-08-24T11:48:18+00:00"
+      "source": "OSINT",
+      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+      "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
+      "published": "2026-08-24T12:40:21+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "Lawful Basis for CVs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx0h30/lawful_basis_for_cvs/",
-      "summary": "Hi 👋🏿 What is the lawful basis for keeping a candidate’s CV, or do we need consent? submitted by /u/Anas5667 [link] [comments]",
-      "published": "2026-08-24T11:44:54+00:00"
+      "title": "Email domain Whitelisting",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx1l1d/email_domain_whitelisting/",
+      "summary": "Our organisation is planning to implement a policy where email communication will only be permitted with whitelisted domains, while all other domains will be blocked. Before implementing this, we need to identify all external domains that our users have communicated with over the past six months. Is there an easy way to retrieve a list of all domains to which emails were sent during the last six months? This information will help us review the domains and build an appropriate whitelist. submitte",
+      "published": "2026-08-24T12:36:01+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "National Threat Intelligence Database",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx1knu/national_threat_intelligence_database/",
+      "summary": "submitted by /u/glatisantbeast [link] [comments]",
+      "published": "2026-08-24T12:35:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: Why do corporate failures always seem to punish the wrong people?",
+      "url": "https://news.ycombinator.com/item?id=49418675",
+      "summary": "25 points · 12 comments",
+      "published": "2026-08-24T12:18:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "91 Vulnerabilities Patched in Spring Application Framework",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx0ycx/91_vulnerabilities_patched_in_spring_application/",
+      "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/ submitted by /u/sunychoudhary [link] [comments]",
+      "published": "2026-08-24T12:07:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+      "published": "2026-08-24T11:58:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+      "published": "2026-08-24T11:56:34+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+      "published": "2026-08-24T11:51:36+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -49,17 +91,31 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Omakase Computing",
-      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
-      "summary": "6 points · 1 comments",
-      "published": "2026-08-24T11:13:53+00:00"
+      "title": "SeL4 security proofs now complete on AArch64",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "summary": "45 points · 9 comments",
+      "published": "2026-08-24T11:32:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
+      "published": "2026-08-24T11:30:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Omacom Foundation funding hits $10M",
-      "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
-      "summary": "5 points · 1 comments",
-      "published": "2026-08-24T11:04:42+00:00"
+      "title": "Agent Is Not the Model",
+      "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
+      "summary": "15 points · 0 comments",
+      "published": "2026-08-24T11:20:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Omakase Computing",
+      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+      "summary": "43 points · 38 comments",
+      "published": "2026-08-24T11:13:53+00:00"
     },
     {
       "source": "OSINT",
@@ -90,13 +146,6 @@
       "published": "2026-08-24T09:59:19+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-      "summary": "67 points · 47 comments",
-      "published": "2026-08-24T09:45:02+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
@@ -107,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "The Future Belongs to the Weird",
       "url": "https://essays.georgestrakhov.com/weird/",
-      "summary": "28 points · 6 comments",
+      "summary": "49 points · 25 comments",
       "published": "2026-08-24T08:46:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fast drilldown dashboards from a single Parquet file",
       "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-      "summary": "37 points · 0 comments",
+      "summary": "55 points · 1 comments",
       "published": "2026-08-24T08:13:17+00:00"
     },
     {
@@ -142,35 +191,28 @@
       "source": "HACKER NEWS",
       "title": "Andreessen Horowitz is investing billions into a bleak future",
       "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-      "summary": "250 points · 87 comments",
+      "summary": "311 points · 113 comments",
       "published": "2026-08-24T06:57:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "summary": "69 points · 21 comments",
+      "summary": "85 points · 28 comments",
       "published": "2026-08-24T06:30:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
       "url": "https://github.com/thiagotigaz/ocr-it",
-      "summary": "65 points · 11 comments",
+      "summary": "69 points · 13 comments",
       "published": "2026-08-24T06:25:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "New EU-wide product repair rules come into force",
-      "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-      "summary": "156 points · 85 comments",
-      "published": "2026-08-24T05:47:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Executable Is a SQLite Database",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "summary": "140 points · 17 comments",
+      "summary": "181 points · 25 comments",
       "published": "2026-08-24T04:48:20+00:00"
     },
     {
@@ -212,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "summary": "191 points · 38 comments",
+      "summary": "218 points · 41 comments",
       "published": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -226,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "summary": "1034 points · 285 comments",
+      "summary": "1086 points · 295 comments",
       "published": "2026-08-23T22:41:04+00:00"
     },
     {
@@ -254,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "summary": "203 points · 294 comments",
+      "summary": "246 points · 360 comments",
       "published": "2026-08-23T20:38:09+00:00"
     },
     {
@@ -265,24 +307,17 @@
       "published": "2026-08-23T20:37:18+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Does Good Engineering Go Unnoticed?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwhhie/does_good_engineering_go_unnoticed/",
-      "summary": "Something I've been thinking about: a personality now making the rounds in YouTube podcasts, Bryce Case Jr. seems like a competent engineer, and it made me wonder about something broader in the engineering and security community. If an engineer consistently does things correctly—follows good practices, prevents incidents, documents systems, and avoids outages—most people outside their organization may never know their name because nothing dramatic happens. But if someone makes a highly visible m",
-      "published": "2026-08-23T20:06:25+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Google Workspace thinks my domain is an email provider (2025)",
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "summary": "324 points · 108 comments",
+      "summary": "337 points · 115 comments",
       "published": "2026-08-23T19:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How I find problems to solve as a staff engineer",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "summary": "437 points · 135 comments",
+      "summary": "446 points · 136 comments",
       "published": "2026-08-23T19:23:29+00:00"
     },
     {
@@ -296,14 +331,14 @@
       "source": "HACKER NEWS",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "578 points · 518 comments",
+      "summary": "602 points · 534 comments",
       "published": "2026-08-23T18:16:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "summary": "327 points · 139 comments",
+      "summary": "336 points · 144 comments",
       "published": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -338,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "What Is a Harness?",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "summary": "474 points · 156 comments",
+      "summary": "485 points · 157 comments",
       "published": "2026-08-23T14:24:21+00:00"
     },
     {
@@ -441,13 +476,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
-      "published": "2026-08-21T11:04:10+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
       "url": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
       "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
@@ -459,34 +487,6 @@
       "url": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
       "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
       "published": "2026-08-21T07:04:25+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
-      "published": "2026-08-21T06:06:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "url": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
-      "published": "2026-08-20T20:22:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "url": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. \"These clusters engage in persistent, adaptive",
-      "published": "2026-08-20T19:59:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-      "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage. Nothing here needs",
-      "published": "2026-08-20T17:23:48+00:00"
     },
     {
       "source": "OSINT",
