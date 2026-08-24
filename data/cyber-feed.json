@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-24T22:55:35.671367+00:00",
-  "item_count": 64,
+  "updated": "2026-08-24T23:27:40.437511+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,11 +16,6 @@
     },
     {
       "source": "REDDIT",
-      "url": "https://www.reddit.com/r/cybersecurity/.rss",
-      "error": "HTTPError"
-    },
-    {
-      "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
     },
@@ -32,17 +27,31 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "What are the most common containment use cases in SOC?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxinxn/what_are_the_most_common_containment_use_cases_in/",
+      "summary": "I'm trying to understand what exactly are the most common use cases for containment after a threat was investigated. Is it disabling the principal at the IdP, is it isolating a host, could it be something more fine grained than those? How do you know that it won't affect the business negatively? Is there a way to measure it? Thank you! submitted by /u/iTZAvishay [link] [comments]",
+      "published": "2026-08-24T23:09:26+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Amazon Hikes Hardware Prices By 60%, Blaming Memory Shortage",
+      "url": "https://news.slashdot.org/story/26/08/24/228251/amazon-hikes-hardware-prices-by-60-blaming-memory-shortage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Amazon has raised the prices of its hardware devices by as much as 60%, blaming \"significant increases in memory and storage component costs.\" TechCrunch reports: The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that's been cited is that of the Echo Dot, one of Amazon's cheapest smart speakers, the price of which jumped 60% overnight, from $49.99 to $79.99. Price-tracking sites like CamelCamelCamel show the stark uptick, which has previously hovered much lo",
+      "published": "2026-08-24T23:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "65 points · 16 comments",
+      "summary": "113 points · 24 comments",
       "published": "2026-08-24T22:13:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Moon",
       "url": "https://ciechanow.ski/moon/",
-      "summary": "11 points · 2 comments",
+      "summary": "49 points · 5 comments",
       "published": "2026-08-24T22:06:02+00:00"
     },
     {
@@ -51,6 +60,13 @@
       "url": "https://yro.slashdot.org/story/26/08/24/2155211/sec-investigating-near-implosion-of-ai-hedge-fund?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The SEC is investigating the near-collapse of AI-focused hedge fund Situational Awareness, sending subpoenas to major Wall Street banks for details about the fund's trades, borrowing, and communications with lenders. The fund, founded by former OpenAI researcher Leopold Aschenbrenner, managed over $30 billion and borrowed tens of billions more before leveraged bets unraveled, forcing it to sell most of its stock portfolio to Citadel at a discount. The New York Times reports: The subpoenas asked ",
       "published": "2026-08-24T22:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Does anyone have personal experience using Dragos OT security products?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxguce/does_anyone_have_personal_experience_using_dragos/",
+      "summary": "As the title asks, just curious what others have experienced at various scales. I work in a relatively small system, under a hundred nodes monitored, using 2 sensors and a single site store. The system looks great I will admit, I see a LOT of potential in a system properly setup. Unfortunately, I really couldn't be a smaller team and still exist, and the amount of focus and time it's required to get this system actually paying back is still in calculation with concerns popping up along the way. ",
+      "published": "2026-08-24T21:56:25+00:00"
     },
     {
       "source": "OSINT",
@@ -63,14 +79,14 @@
       "source": "HACKER NEWS",
       "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
       "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "summary": "80 points · 58 comments",
+      "summary": "93 points · 67 comments",
       "published": "2026-08-24T21:03:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "summary": "31 points · 2 comments",
+      "summary": "37 points · 2 comments",
       "published": "2026-08-24T21:01:38+00:00"
     },
     {
@@ -95,17 +111,24 @@
       "published": "2026-08-24T19:26:32+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "15 fake Kanban VS Code extensions that download and run a remote payload",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxcliu/15_fake_kanban_vs_code_extensions_that_download/",
+      "summary": "submitted by /u/tame-impaled [link] [comments]",
+      "published": "2026-08-24T19:19:51+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Oceans hit highest temperature on record",
       "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "summary": "324 points · 191 comments",
+      "summary": "345 points · 214 comments",
       "published": "2026-08-24T19:19:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "LLMs could control their host machines by exploiting inference engines",
       "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "summary": "70 points · 35 comments",
+      "summary": "78 points · 37 comments",
       "published": "2026-08-24T19:03:06+00:00"
     },
     {
@@ -119,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Anger, Anxiety and Agency",
       "url": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
-      "summary": "81 points · 86 comments",
+      "summary": "82 points · 92 comments",
       "published": "2026-08-24T18:37:24+00:00"
     },
     {
@@ -133,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Octopus intelligence may be related to never-before-seen mutation",
       "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "summary": "55 points · 19 comments",
+      "summary": "60 points · 21 comments",
       "published": "2026-08-24T17:57:13+00:00"
     },
     {
@@ -151,17 +174,38 @@
       "published": "2026-08-24T17:53:14+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+      "published": "2026-08-24T17:41:30+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+      "published": "2026-08-24T17:41:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Can running local LLMs be a security threat?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx9i0l/can_running_local_llms_be_a_security_threat/",
+      "summary": "I'm just wondering why they keep releasing these really useful but free to use LLMs (Qwen, Kimi, Deepseek). and now we even have mysterious ones like Ox Alpha. Can these models perform malicious acts while running as local LLMs? If so, how? submitted by /u/DingoBimbo [link] [comments]",
+      "published": "2026-08-24T17:32:57+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "111 points · 196 comments",
+      "summary": "119 points · 220 comments",
       "published": "2026-08-24T17:07:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "288 points · 105 comments",
+      "summary": "301 points · 105 comments",
       "published": "2026-08-24T17:05:38+00:00"
     },
     {
@@ -175,14 +219,14 @@
       "source": "HACKER NEWS",
       "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
       "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "summary": "65 points · 8 comments",
+      "summary": "67 points · 8 comments",
       "published": "2026-08-24T16:52:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: PicoMQ – Durable Streams over HTTP, on object storage",
       "url": "https://picomq.com/",
-      "summary": "75 points · 13 comments",
+      "summary": "82 points · 14 comments",
       "published": "2026-08-24T16:08:17+00:00"
     },
     {
@@ -193,24 +237,31 @@
       "published": "2026-08-24T16:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "SPF pass due to an Exchange hop in front of a spoof.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx6pwx/spf_pass_due_to_an_exchange_hop_in_front_of_a/",
+      "summary": "I had a spearphishing attack today and the attacker used something that I personally haven’t accounted for and probably should have. No one clicked or interacted with the email, and it was user reported to us. So endpoints appear to be clean(still verifying) I’m still a remotely new cyber analyst but I’ve really overhauled our email security in terms of anti spam / anti phish. I run a third party anti spam in front of our defender m365 security anti spam policies and have the appropriate filters",
+      "published": "2026-08-24T15:54:29+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "summary": "142 points · 54 comments",
+      "summary": "149 points · 59 comments",
       "published": "2026-08-24T15:51:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "IPFS Maintainers Winding Down",
       "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "summary": "303 points · 149 comments",
+      "summary": "308 points · 157 comments",
       "published": "2026-08-24T15:48:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "491 points · 194 comments",
+      "summary": "510 points · 209 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -224,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "674 points · 458 comments",
+      "summary": "685 points · 469 comments",
       "published": "2026-08-24T15:08:17+00:00"
     },
     {
@@ -233,6 +284,13 @@
       "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Gizmodo: Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac's \"California Love\" and Eminem's \"The Real Slim Shady,\" is very much pro using artificial intelligence tools to make music. In an interview with the New York Times, Dr. Dre and Interscope Records co-founder Jimmy Iovine spoke about artificial intelligence's recent foray into music production, with the producer characterizing those who oppose AI song ",
       "published": "2026-08-24T15:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Phishing Emails - Domain block",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx515x/phishing_emails_domain_block/",
+      "summary": "Hi all, I am new to my role. My question is if a supplier informs us that an email address has been compromised and is involved in phishing attempts, what is your approach? To block the domain or only the affected email address. If the domain is blocked, how do we go about contacting the supplier to inform them that their domain has been blocked and to gain reassurance that the email is now free of compromise. We require suppliers to fill out a form for reconnection but how do we get it to them ",
+      "published": "2026-08-24T14:52:13+00:00"
     },
     {
       "source": "OSINT",
@@ -259,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "989 points · 619 comments",
+      "summary": "1005 points · 627 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -270,6 +328,13 @@
       "published": "2026-08-24T12:40:21+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "Email domain Whitelisting",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx1l1d/email_domain_whitelisting/",
+      "summary": "Our organisation is planning to implement a policy where email communication will only be permitted with whitelisted domains, while all other domains will be blocked. Before implementing this, we need to identify all external domains that our users have communicated with over the past six months. Is there an easy way to retrieve a list of all domains to which emails were sent during the last six months? This information will help us review the domains and build an appropriate whitelist. submitte",
+      "published": "2026-08-24T12:36:01+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
       "url": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
@@ -277,11 +342,18 @@
       "published": "2026-08-24T12:35:36+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-      "published": "2026-08-24T11:58:00+00:00"
+      "source": "REDDIT",
+      "title": "National Threat Intelligence Database",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx1knu/national_threat_intelligence_database/",
+      "summary": "submitted by /u/glatisantbeast [link] [comments]",
+      "published": "2026-08-24T12:35:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "91 Vulnerabilities Patched in Spring Application Framework",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx0ycx/91_vulnerabilities_patched_in_spring_application/",
+      "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/ submitted by /u/sunychoudhary [link] [comments]",
+      "published": "2026-08-24T12:07:20+00:00"
     },
     {
       "source": "OSINT",
@@ -319,6 +391,13 @@
       "published": "2026-08-24T10:45:12+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "How are you handling non-human identity security across service accounts, workloads and AI agents?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwz1yt/how_are_you_handling_nonhuman_identity_security/",
+      "summary": "did an inventory of non-human identities and the count came back higher than our human headcount by a wide margin, with almost none of them owned by anyone. service accounts from projects that ended years ago, workload identities with permissions nobody remembers granting, and agents getting added on top of all of it with no lifecycle process at all. rotating credentials manually across that many identities isn't sustainable at this scale. how is everyone actually managing lifecycle for this, an",
+      "published": "2026-08-24T10:34:20+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
@@ -347,11 +426,18 @@
       "published": "2026-08-24T04:34:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Could Mecha Comet's Linux PC-Phone Hybrid Be the Future of Linux Smartphones?",
-      "url": "https://linux.slashdot.org/story/26/08/24/0228216/could-mecha-comets-linux-pc-phone-hybrid-be-the-future-of-linux-smartphones?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "3,346 backers pledged $1,198,844 on Kickstarter to build the (modular) handheld Linux computer, the Mecha Comet. It's slightly bigger and heavier than your smartphone, with a 4-inch AMOLED display and loaded up with things like microphones, speakers, a SIM tray, two USB ports and a mini HDMI port. There's three separate kill switches for wifi, microphone and camera — plus a \"boot mode\" switch for the SD card, and even three pins for instant access to its debug console. It's now expected to ship ",
-      "published": "2026-08-24T02:31:00+00:00"
+      "source": "REDDIT",
+      "title": "How to get out of govtech",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwpkhw/how_to_get_out_of_govtech/",
+      "summary": "Been in cyber security as a federal contractor for years with about 10 years of experience, was laid off earlier this year and got a role as a dod contractor with about 2 years before the end of the contract I have a bs in mechanical engineering , and 3 cyber certs at the moment ( sec + and X and CISM ) , while the job is good I’m not really comfortable with it and would go as far to say I’d be ok with something that paid less but in a different field ( health or banking etc ) , i dont want to e",
+      "published": "2026-08-24T01:53:53+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwn3rb/mentorship_monday_post_all_career_education_and/",
+      "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
+      "published": "2026-08-24T00:00:13+00:00"
     },
     {
       "source": "OSINT",
@@ -401,13 +487,6 @@
       "url": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
       "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
       "published": "2026-08-21T15:41:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "url": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "published": "2026-08-21T11:21:39+00:00"
     },
     {
       "source": "OSINT",
