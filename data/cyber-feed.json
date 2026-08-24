@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T13:56:11.751488+00:00",
+  "updated": "2026-08-24T14:49:53.820716+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,38 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "🔴 Breaking News 17-Year-Old Discovers 55 Critical Vulnerabilities in PSEB Portal - Government Silent for 25 Days | Student Data at Risk | CERTIn-39087726",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx4vq8/breaking_news_17yearold_discovers_55_critical/",
+      "summary": "I'm Tushar Kumar, 17-year-old security researcher. WHAT I FOUND: • 55 critical vulnerabilities in pseb.ac.in • 9 CRITICAL flaws (Server takeover possible) • 45 HIGH severity issues • Affects 10+ million students TIMELINE: • July 25, 2026 - Discovered • July 26, 2026 - Reported to PSEB • July 27, 2026 - CERT-In notification (CERTIn-39087726) • August 21, 2026 - 25 DAYS - NO RESPONSE from PSEB STUDENT DATA AT RISK: ✗ Names, addresses, phone numbers ✗ Exam results ✗ Certificates ✗ Parent informatio",
+      "published": "2026-08-24T14:46:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+      "published": "2026-08-24T14:00:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "South Korean startup platform breach exposes key management failures",
+      "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
+      "published": "2026-08-24T14:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: A techno machine in one HTML file, with verifiable renders",
+      "url": "https://ssx360.github.io/rack-02/?src=hn",
+      "summary": "12 points · 2 comments",
+      "published": "2026-08-24T13:17:11+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "150 points · 50 comments",
+      "summary": "348 points · 218 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -100,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "SeL4 security proofs now complete on AArch64",
       "url": "https://proofcraft.systems/news-2026/#2026-08-21",
-      "summary": "70 points · 16 comments",
+      "summary": "91 points · 20 comments",
       "published": "2026-08-24T11:32:51+00:00"
     },
     {
@@ -114,22 +142,15 @@
       "source": "HACKER NEWS",
       "title": "Why older tech is sometimes safer from hackers",
       "url": "https://www.bbc.com/future/article/20260821-why-older-tech-is-sometimes-safer-from-hackers",
-      "summary": "16 points · 6 comments",
+      "summary": "35 points · 23 comments",
       "published": "2026-08-24T11:23:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Agent Is Not the Model",
       "url": "https://code.joejag.com/2026/your-agent-is-not-the-model.html",
-      "summary": "29 points · 8 comments",
+      "summary": "37 points · 16 comments",
       "published": "2026-08-24T11:20:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The treasury bond mess: is this the demise of the US as a safe haven?",
-      "url": "https://www.theguardian.com/business/2026/aug/24/treasury-bonds-trump-administration-debt",
-      "summary": "77 points · 49 comments",
-      "published": "2026-08-24T10:52:24+00:00"
     },
     {
       "source": "OSINT",
@@ -156,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
       "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-      "summary": "103 points · 79 comments",
+      "summary": "124 points · 88 comments",
       "published": "2026-08-24T09:45:02+00:00"
     },
     {
@@ -170,14 +191,14 @@
       "source": "HACKER NEWS",
       "title": "The Future Belongs to the Weird",
       "url": "https://essays.georgestrakhov.com/weird/",
-      "summary": "69 points · 37 comments",
+      "summary": "82 points · 50 comments",
       "published": "2026-08-24T08:46:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fast drilldown dashboards from a single Parquet file",
       "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
-      "summary": "80 points · 1 comments",
+      "summary": "100 points · 5 comments",
       "published": "2026-08-24T08:13:17+00:00"
     },
     {
@@ -205,28 +226,28 @@
       "source": "HACKER NEWS",
       "title": "Andreessen Horowitz is investing billions into a bleak future",
       "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-      "summary": "370 points · 134 comments",
+      "summary": "433 points · 175 comments",
       "published": "2026-08-24T06:57:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "summary": "97 points · 34 comments",
+      "summary": "108 points · 41 comments",
       "published": "2026-08-24T06:30:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
       "url": "https://github.com/thiagotigaz/ocr-it",
-      "summary": "80 points · 18 comments",
+      "summary": "88 points · 20 comments",
       "published": "2026-08-24T06:25:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Executable Is a SQLite Database",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "summary": "220 points · 41 comments",
+      "summary": "261 points · 55 comments",
       "published": "2026-08-24T04:48:20+00:00"
     },
     {
@@ -268,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "summary": "245 points · 45 comments",
+      "summary": "264 points · 50 comments",
       "published": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -282,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "summary": "1140 points · 302 comments",
+      "summary": "1188 points · 307 comments",
       "published": "2026-08-23T22:41:04+00:00"
     },
     {
@@ -310,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "summary": "285 points · 400 comments",
+      "summary": "323 points · 428 comments",
       "published": "2026-08-23T20:38:09+00:00"
     },
     {
@@ -322,16 +343,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "summary": "347 points · 119 comments",
-      "published": "2026-08-23T19:29:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "How I find problems to solve as a staff engineer",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "summary": "468 points · 140 comments",
+      "summary": "486 points · 141 comments",
       "published": "2026-08-23T19:23:29+00:00"
     },
     {
@@ -345,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "640 points · 560 comments",
+      "summary": "668 points · 582 comments",
       "published": "2026-08-23T18:16:37+00:00"
     },
     {
@@ -370,18 +384,18 @@
       "published": "2026-08-23T15:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "I left my role as a security practitioner to happily work for a vendor. Ask Me Anything about the other side of the table.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vw9o2u/i_left_my_role_as_a_security_practitioner_to/",
-      "summary": "This AMA will run all week from 08-23-2026 to 08-28-2026. The editors at CISO Series present this AMA. This month, we've gathered a group of security leaders who spent years as CISOs, CTOs, and in-house defenders, then made the leap to the vendor side, and are genuinely happy they did. They're here to answer anything you want to know about life on the other side of the table: why they made the move, what surprised them, what they miss (and what they don't), how it changed the way they see the ve",
-      "published": "2026-08-23T15:09:05+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Canonical is Funding a PhD to Automate C to Rust Translation",
       "url": "https://developers.slashdot.org/story/26/08/23/0458226/canonical-is-funding-a-phd-to-automate-c-to-rust-translation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader shared this report from the blog It's FOSS: Canonical has committed funding to a three-year PhD project focused on building a system that can automatically translate large C codebases into Rust. And they are not alone; UK Research and Innovation is matching their funding for the project, which is set to run through the University of Bristol's Programming Languages Research Group. The PhD is aiming to build an all-encompassing platform that can take a C repository running into",
       "published": "2026-08-23T14:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What Is a Harness?",
+      "url": "https://earendil.com/posts/what-is-a-harness/",
+      "summary": "507 points · 162 comments",
+      "published": "2026-08-23T14:24:21+00:00"
     },
     {
       "source": "OSINT",
@@ -459,20 +473,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
       "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
       "published": "2026-08-21T14:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-      "published": "2026-08-21T13:39:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
-      "published": "2026-08-21T12:25:33+00:00"
     },
     {
       "source": "OSINT",
