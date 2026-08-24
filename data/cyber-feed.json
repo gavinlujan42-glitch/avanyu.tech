@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T10:12:55.421756+00:00",
+  "updated": "2026-08-24T11:03:33.857398+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,20 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+      "published": "2026-08-24T10:45:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How are you handling non-human identity security across service accounts, workloads and AI agents?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwz1yt/how_are_you_handling_nonhuman_identity_security/",
+      "summary": "did an inventory of non-human identities and the count came back higher than our human headcount by a wide margin, with almost none of them owned by anyone. service accounts from projects that ended years ago, workload identities with permissions nobody remembers granting, and agents getting added on top of all of it with no lifecycle process at all. rotating credentials manually across that many identities isn't sustainable at this scale. how is everyone actually managing lifecycle for this, an",
+      "published": "2026-08-24T10:34:20+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Code Execution via Text Template Files + 2 New LOLBins",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vwyehm/code_execution_via_text_template_files_2_new/",
@@ -44,7 +58,7 @@
       "source": "HACKER NEWS",
       "title": "Woman stranded in Spain after UK's eVisa system mistakes her for twin sister",
       "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-      "summary": "18 points · 1 comments",
+      "summary": "38 points · 25 comments",
       "published": "2026-08-24T09:45:02+00:00"
     },
     {
@@ -56,17 +70,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "We never use AI. For anything",
-      "url": "https://corkmac.app/our-ai-stance/",
-      "summary": "49 points · 37 comments",
-      "published": "2026-08-24T09:32:32+00:00"
+      "title": "The Future Belongs to the Weird",
+      "url": "https://essays.georgestrakhov.com/weird/",
+      "summary": "15 points · 4 comments",
+      "published": "2026-08-24T08:46:19+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Future Belongs to the Weird",
-      "url": "https://essays.georgestrakhov.com/weird/",
-      "summary": "5 points · 1 comments",
-      "published": "2026-08-24T08:46:19+00:00"
+      "title": "Fast drilldown dashboards from a single Parquet file",
+      "url": "https://www.hamiltonulmer.com/customer-dashboards-r2-hyparquet/",
+      "summary": "20 points · 0 comments",
+      "published": "2026-08-24T08:13:17+00:00"
     },
     {
       "source": "OSINT",
@@ -98,44 +112,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Over 5,200 Ebola cases recorded in Congo",
-      "url": "https://www.afro.who.int/countries/democratic-republic-of-congo/news/over-5200-cases-recorded-democratic-republic-congocrosses100-days-ebola-outbreak-declaration",
-      "summary": "52 points · 8 comments",
-      "published": "2026-08-24T07:03:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Andreessen Horowitz is investing billions into a bleak future",
       "url": "https://www.modelrepublic.org/articles/a16z-portfolio",
-      "summary": "151 points · 44 comments",
+      "summary": "195 points · 60 comments",
       "published": "2026-08-24T06:57:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
       "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-      "summary": "46 points · 13 comments",
+      "summary": "61 points · 17 comments",
       "published": "2026-08-24T06:30:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OCR It – pull text out of un-copyable documents for your LLM",
       "url": "https://github.com/thiagotigaz/ocr-it",
-      "summary": "36 points · 10 comments",
+      "summary": "50 points · 11 comments",
       "published": "2026-08-24T06:25:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New EU-wide product repair rules come into force",
       "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-      "summary": "129 points · 51 comments",
+      "summary": "144 points · 76 comments",
       "published": "2026-08-24T05:47:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Executable Is a SQLite Database",
       "url": "https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database",
-      "summary": "76 points · 9 comments",
+      "summary": "106 points · 14 comments",
       "published": "2026-08-24T04:48:20+00:00"
     },
     {
@@ -177,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "I built a low-latency AI companion that plays Skyrim with me",
       "url": "https://pantel.is/projects/ai-gaming-companion/",
-      "summary": "164 points · 30 comments",
+      "summary": "177 points · 36 comments",
       "published": "2026-08-23T23:18:17+00:00"
     },
     {
@@ -191,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Everything I own, owned",
       "url": "https://schlarp.com/posts/everything-i-own-owned/",
-      "summary": "926 points · 262 comments",
+      "summary": "984 points · 275 comments",
       "published": "2026-08-23T22:41:04+00:00"
     },
     {
@@ -219,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "I were 17, I'd learn how to build LLMs from scratch",
       "url": "https://twitter.com/paulg/status/2091544343589060625",
-      "summary": "122 points · 209 comments",
+      "summary": "165 points · 241 comments",
       "published": "2026-08-23T20:38:09+00:00"
     },
     {
@@ -240,14 +247,14 @@
       "source": "HACKER NEWS",
       "title": "Google Workspace thinks my domain is an email provider (2025)",
       "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-      "summary": "307 points · 101 comments",
+      "summary": "312 points · 101 comments",
       "published": "2026-08-23T19:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How I find problems to solve as a staff engineer",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
-      "summary": "417 points · 132 comments",
+      "summary": "424 points · 132 comments",
       "published": "2026-08-23T19:23:29+00:00"
     },
     {
@@ -261,14 +268,14 @@
       "source": "HACKER NEWS",
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
       "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-      "summary": "525 points · 461 comments",
+      "summary": "551 points · 489 comments",
       "published": "2026-08-23T18:16:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "My agent.md to improve LLM-assisted code quality",
       "url": "https://fabiensanglard.net/agent.md/index.html",
-      "summary": "315 points · 134 comments",
+      "summary": "322 points · 138 comments",
       "published": "2026-08-23T17:59:52+00:00"
     },
     {
@@ -296,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "How Complex Systems Fail (1998)",
       "url": "https://how.complexsystems.fail/",
-      "summary": "317 points · 72 comments",
+      "summary": "327 points · 72 comments",
       "published": "2026-08-23T15:13:31+00:00"
     },
     {
@@ -317,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "What Is a Harness?",
       "url": "https://earendil.com/posts/what-is-a-harness/",
-      "summary": "451 points · 153 comments",
+      "summary": "463 points · 155 comments",
       "published": "2026-08-23T14:24:21+00:00"
     },
     {
@@ -335,11 +342,11 @@
       "published": "2026-08-23T11:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Splunk",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vw073v/splunk/",
-      "summary": "I want to learn how to use splunk (cybersecurity analyst). Any suggestion courses, certifcation ..? submitted by /u/According-Tension-49 [link] [comments]",
-      "published": "2026-08-23T07:07:43+00:00"
+      "source": "HACKER NEWS",
+      "title": "AI Chip Architectures",
+      "url": "https://www.jepeake.com/ai-chip-architectures",
+      "summary": "91 points · 31 comments",
+      "published": "2026-08-23T02:25:10+00:00"
     },
     {
       "source": "OSINT",
@@ -436,15 +443,8 @@
       "source": "OSINT",
       "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "summary": "Microsoft has patched multiple maximum-severity vulnerabilities in Entra ID, Azure Arc, and Exchange Online that allowed attackers to gain remote code execution and escalate privileges. [...]",
       "published": "2026-08-21T11:04:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-      "published": "2026-08-21T11:00:00+00:00"
     },
     {
       "source": "OSINT",
