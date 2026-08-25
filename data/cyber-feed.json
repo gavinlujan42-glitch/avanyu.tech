@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:34:20.784002+00:00",
+  "updated": "2026-08-25T11:57:47.591204+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,20 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "A made-up security questionnaire answer is worse than a blank one",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxxcbk/a_madeup_security_questionnaire_answer_is_worse/",
+      "summary": "I build tooling in this space, so read this as a builder's account rather than a practitioner's. No link and no product name in this post, the mechanism is the part I want argued with. The setup: when a vendor fills out a security questionnaire, whoever signs it is asserting facts to someone else's procurement team. So \"the model hallucinated\" stops being a cute failure mode. \"Yes, MFA is enforced on all administrative access\" from a company that has not enforced it is a false statement sitting ",
+      "published": "2026-08-25T11:38:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
+      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "summary": "9 points · 0 comments",
+      "published": "2026-08-25T11:37:24+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Windows Backdoor 'Sleepwalker' Hides in Memory Until Activated by a 'Magic Packet'",
       "url": "https://it.slashdot.org/story/26/08/25/062246/windows-backdoor-sleepwalker-hides-in-memory-until-activated-by-a-magic-packet?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -44,7 +58,7 @@
       "source": "HACKER NEWS",
       "title": "Quantum battery upends the rules of charging",
       "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "summary": "15 points · 5 comments",
+      "summary": "28 points · 24 comments",
       "published": "2026-08-25T10:34:12+00:00"
     },
     {
@@ -56,16 +70,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Why some US restaurants are banning tips",
-      "url": "https://www.bbc.com/news/articles/c4g36yze692o",
-      "summary": "130 points · 187 comments",
-      "published": "2026-08-25T10:09:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
       "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
-      "summary": "35 points · 20 comments",
+      "summary": "41 points · 32 comments",
       "published": "2026-08-25T09:17:33+00:00"
     },
     {
@@ -114,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Headlong: A Microharness for Persistent Agents",
       "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "77 points · 28 comments",
+      "summary": "78 points · 29 comments",
       "published": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -128,14 +135,14 @@
       "source": "HACKER NEWS",
       "title": "SiFive's First Server Platform",
       "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "66 points · 16 comments",
+      "summary": "68 points · 16 comments",
       "published": "2026-08-25T03:06:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "summary": "141 points · 174 comments",
+      "summary": "151 points · 182 comments",
       "published": "2026-08-25T01:40:39+00:00"
     },
     {
@@ -144,13 +151,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxlv4e/what_logs_have_shown_a_surprisingly_high_value/",
       "summary": "I saw a similar post earlier about “logging everything“ which led me to think about which logs have you collected, besides the typical sources, which has brought great value to your detections and threat hunting. I‘m aware this is a subjective question. submitted by /u/IamOnlyLookingThanks [link] [comments]",
       "published": "2026-08-25T01:26:08+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Easy Cybersecurity awareness month resources",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxjuuv/easy_cybersecurity_awareness_month_resources/",
-      "summary": "For any security leaders looking for Oct cybersecurity awareness month campaigns, check this out. https://fablesecurity.com/resources/blog/ocam-2026/ . Easy to deploy and can make the month a bit entertaining instead of the old phishing crap we usually do. submitted by /u/outdoorguy007 [link] [comments]",
-      "published": "2026-08-24T23:59:48+00:00"
     },
     {
       "source": "REDDIT",
@@ -163,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "112 points · 40 comments",
+      "summary": "116 points · 42 comments",
       "published": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -177,14 +177,14 @@
       "source": "HACKER NEWS",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "497 points · 144 comments",
+      "summary": "504 points · 147 comments",
       "published": "2026-08-24T22:13:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
-      "summary": "207 points · 36 comments",
+      "summary": "209 points · 36 comments",
       "published": "2026-08-24T22:06:02+00:00"
     },
     {
@@ -212,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "summary": "109 points · 21 comments",
+      "summary": "116 points · 22 comments",
       "published": "2026-08-24T21:01:38+00:00"
     },
     {
@@ -282,14 +282,14 @@
       "source": "HACKER NEWS",
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "258 points · 568 comments",
+      "summary": "262 points · 575 comments",
       "published": "2026-08-24T17:07:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "493 points · 144 comments",
+      "summary": "503 points · 145 comments",
       "published": "2026-08-24T17:05:38+00:00"
     },
     {
@@ -310,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "739 points · 348 comments",
+      "summary": "744 points · 353 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -324,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "896 points · 641 comments",
+      "summary": "899 points · 647 comments",
       "published": "2026-08-24T15:08:17+00:00"
     },
     {
@@ -333,6 +333,13 @@
       "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Gizmodo: Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac's \"California Love\" and Eminem's \"The Real Slim Shady,\" is very much pro using artificial intelligence tools to make music. In an interview with the New York Times, Dr. Dre and Interscope Records co-founder Jimmy Iovine spoke about artificial intelligence's recent foray into music production, with the producer characterizing those who oppose AI song ",
       "published": "2026-08-24T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Walgit – a Git server that is one binary in front of an object store",
+      "url": "https://github.com/tobi/walgit",
+      "summary": "106 points · 35 comments",
+      "published": "2026-08-24T14:49:49+00:00"
     },
     {
       "source": "OSINT",
@@ -359,14 +366,14 @@
       "source": "HACKER NEWS",
       "title": "What's new in Emacs 31.1",
       "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "summary": "163 points · 33 comments",
+      "summary": "171 points · 33 comments",
       "published": "2026-08-24T13:07:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "1423 points · 899 comments",
+      "summary": "1435 points · 904 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -447,13 +454,6 @@
       "published": "2026-08-24T00:00:13+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "url": "https://tarjan.itch.io/thoreaubasic",
-      "summary": "75 points · 23 comments",
-      "published": "2026-08-23T17:48:12+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
       "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "Nostr is an inclusive communication commons",
       "url": "https://nostr.org/",
-      "summary": "158 points · 101 comments",
+      "summary": "164 points · 102 comments",
       "published": "2026-08-22T13:49:01+00:00"
     },
     {
