@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:57:47.591204+00:00",
+  "updated": "2026-08-25T12:59:32.331015+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,60 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "A made-up security questionnaire answer is worse than a blank one",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxxcbk/a_madeup_security_questionnaire_answer_is_worse/",
-      "summary": "I build tooling in this space, so read this as a builder's account rather than a practitioner's. No link and no product name in this post, the mechanism is the part I want argued with. The setup: when a vendor fills out a security questionnaire, whoever signs it is asserting facts to someone else's procurement team. So \"the model hallucinated\" stops being a cute failure mode. \"Yes, MFA is enforced on all administrative access\" from a company that has not enforced it is a false statement sitting ",
-      "published": "2026-08-25T11:38:32+00:00"
+      "source": "HACKER NEWS",
+      "title": "France's tax agency got hacked (in French)",
+      "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
+      "summary": "13 points · 1 comments",
+      "published": "2026-08-25T12:44:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
+      "published": "2026-08-25T12:04:02+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "url": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based. Mirage2FA Campaign",
+      "published": "2026-08-25T11:56:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the",
+      "published": "2026-08-25T11:52:43+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Credit Card Rewards Became a $9.2B Wealth Transfer",
-      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
-      "summary": "9 points · 0 comments",
-      "published": "2026-08-25T11:37:24+00:00"
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "summary": "67 points · 22 comments",
+      "published": "2026-08-25T11:49:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "HelloAssembly The smallest possible complete Windows application",
+      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "summary": "17 points · 12 comments",
+      "published": "2026-08-25T11:40:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development",
+      "published": "2026-08-25T11:33:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a",
+      "published": "2026-08-25T11:14:07+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -55,25 +97,11 @@
       "published": "2026-08-25T10:53:20+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Quantum battery upends the rules of charging",
-      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
-      "summary": "28 points · 24 comments",
-      "published": "2026-08-25T10:34:12+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "What agent activity/log would you never want to lose when an autonomous coding agent changes your repo?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxvqbp/what_agent_activitylog_would_you_never_want_to/",
       "summary": "For people building with AI coding agents, what agent logs have turned out to be surprisingly useful? Commands, files touched, denied actions, or the full action history? I'm exploring this with Ralon and would love to know what you'd actually want recorded. submitted by /u/Whole_Membership_135 [link] [comments]",
       "published": "2026-08-25T10:16:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
-      "url": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
-      "summary": "41 points · 32 comments",
-      "published": "2026-08-25T09:17:33+00:00"
     },
     {
       "source": "OSINT",
@@ -121,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Headlong: A Microharness for Persistent Agents",
       "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "78 points · 29 comments",
+      "summary": "90 points · 36 comments",
       "published": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -135,14 +163,14 @@
       "source": "HACKER NEWS",
       "title": "SiFive's First Server Platform",
       "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "68 points · 16 comments",
+      "summary": "81 points · 22 comments",
       "published": "2026-08-25T03:06:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "summary": "151 points · 182 comments",
+      "summary": "170 points · 200 comments",
       "published": "2026-08-25T01:40:39+00:00"
     },
     {
@@ -151,6 +179,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxlv4e/what_logs_have_shown_a_surprisingly_high_value/",
       "summary": "I saw a similar post earlier about “logging everything“ which led me to think about which logs have you collected, besides the typical sources, which has brought great value to your detections and threat hunting. I‘m aware this is a subjective question. submitted by /u/IamOnlyLookingThanks [link] [comments]",
       "published": "2026-08-25T01:26:08+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Easy Cybersecurity awareness month resources",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxjuuv/easy_cybersecurity_awareness_month_resources/",
+      "summary": "For any security leaders looking for Oct cybersecurity awareness month campaigns, check this out. https://fablesecurity.com/resources/blog/ocam-2026/ . Easy to deploy and can make the month a bit entertaining instead of the old phishing crap we usually do. submitted by /u/outdoorguy007 [link] [comments]",
+      "published": "2026-08-24T23:59:48+00:00"
     },
     {
       "source": "REDDIT",
@@ -163,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "116 points · 42 comments",
+      "summary": "123 points · 47 comments",
       "published": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -177,14 +212,14 @@
       "source": "HACKER NEWS",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "504 points · 147 comments",
+      "summary": "517 points · 156 comments",
       "published": "2026-08-24T22:13:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
-      "summary": "209 points · 36 comments",
+      "summary": "218 points · 38 comments",
       "published": "2026-08-24T22:06:02+00:00"
     },
     {
@@ -212,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Vintage Artificial Intelligence: Before It Got Awkward",
       "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "summary": "116 points · 22 comments",
+      "summary": "122 points · 23 comments",
       "published": "2026-08-24T21:01:38+00:00"
     },
     {
@@ -282,14 +317,14 @@
       "source": "HACKER NEWS",
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "262 points · 575 comments",
+      "summary": "279 points · 597 comments",
       "published": "2026-08-24T17:07:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "503 points · 145 comments",
+      "summary": "519 points · 151 comments",
       "published": "2026-08-24T17:05:38+00:00"
     },
     {
@@ -310,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "744 points · 353 comments",
+      "summary": "761 points · 373 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -324,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "899 points · 647 comments",
+      "summary": "917 points · 656 comments",
       "published": "2026-08-24T15:08:17+00:00"
     },
     {
@@ -338,8 +373,15 @@
       "source": "HACKER NEWS",
       "title": "Walgit – a Git server that is one binary in front of an object store",
       "url": "https://github.com/tobi/walgit",
-      "summary": "106 points · 35 comments",
+      "summary": "117 points · 36 comments",
       "published": "2026-08-24T14:49:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
+      "summary": "185 points · 87 comments",
+      "published": "2026-08-24T14:44:55+00:00"
     },
     {
       "source": "OSINT",
@@ -366,14 +408,14 @@
       "source": "HACKER NEWS",
       "title": "What's new in Emacs 31.1",
       "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "summary": "171 points · 33 comments",
+      "summary": "191 points · 43 comments",
       "published": "2026-08-24T13:07:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "1435 points · 904 comments",
+      "summary": "1468 points · 922 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -420,13 +462,6 @@
     },
     {
       "source": "OSINT",
-      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-      "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
-      "published": "2026-08-24T11:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
@@ -438,13 +473,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
       "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
       "published": "2026-08-24T09:42:05+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
-      "url": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
-      "published": "2026-08-24T08:08:31+00:00"
     },
     {
       "source": "REDDIT",
@@ -459,34 +487,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
       "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
       "published": "2026-08-23T14:23:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "url": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
-      "published": "2026-08-22T14:32:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
-      "published": "2026-08-22T14:14:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nostr is an inclusive communication commons",
-      "url": "https://nostr.org/",
-      "summary": "164 points · 102 comments",
-      "published": "2026-08-22T13:49:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "url": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
-      "published": "2026-08-21T18:53:00+00:00"
     },
     {
       "source": "OSINT",
