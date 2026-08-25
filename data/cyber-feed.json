@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T12:59:32.331015+00:00",
+  "updated": "2026-08-25T13:55:08.658029+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,88 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
+      "published": "2026-08-25T13:51:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The state of AI in 2026: On the road to ROI",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "summary": "9 points · 5 comments",
+      "published": "2026-08-25T13:32:52+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
+      "published": "2026-08-25T13:19:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CVE-2026-8508: Captive-Portal Social-Login Bypass Affecting 39 Zyxel Access Point Models with full firmware emulation guide",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxzfia/cve20268508_captiveportal_sociallogin_bypass/",
+      "summary": "I published my technical write-up for CVE-2026-8508, a pre-authentication trust-boundary flaw in Zyxel's guest Wi-Fi social-login flow. The analysis is based on the WAX650S, while Zyxel's advisory expanded the affected scope to 39 models (APs, FWA7 units, and a security router). The post includes root cause, affected versions, remediation, and the reproduction environment. submitted by /u/TheReedemer69 [link] [comments]",
+      "published": "2026-08-25T13:10:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US data centers tripled annual water consumption to 17B gallons",
+      "url": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+      "summary": "36 points · 35 comments",
+      "published": "2026-08-25T13:08:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "summary": "138 points · 72 comments",
+      "published": "2026-08-25T13:03:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "summary": "220 points · 148 comments",
+      "published": "2026-08-25T13:01:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+      "published": "2026-08-25T13:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Agent.lock is the policy to secure files.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxz5ox/agentlock_is_the_policy_to_secure_files/",
+      "summary": "I'm exploring whether coding agents should have project-level policies that are enforced at runtime, rather than relying only on agent instructions or CI checks. Ralon is my current experiment. Checkout and need feedback submitted by /u/Whole_Membership_135 [link] [comments]",
+      "published": "2026-08-25T12:59:20+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "France's tax agency got hacked (in French)",
       "url": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-      "summary": "13 points · 1 comments",
+      "summary": "56 points · 24 comments",
       "published": "2026-08-25T12:44:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode. The vulnerability, tracked",
+      "published": "2026-08-25T12:43:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
+      "url": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
+      "summary": "46 points · 28 comments",
+      "published": "2026-08-25T12:33:00+00:00"
     },
     {
       "source": "OSINT",
@@ -58,14 +135,21 @@
       "source": "HACKER NEWS",
       "title": "Don't Wordle",
       "url": "https://dontwordle.com/",
-      "summary": "67 points · 22 comments",
+      "summary": "105 points · 43 comments",
       "published": "2026-08-25T11:49:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
+      "url": "https://modelscope.cn/models/Qwen/Qwen3.8-Flash-Next",
+      "summary": "59 points · 14 comments",
+      "published": "2026-08-25T11:49:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "HelloAssembly The smallest possible complete Windows application",
       "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
-      "summary": "17 points · 12 comments",
+      "summary": "30 points · 22 comments",
       "published": "2026-08-25T11:40:00+00:00"
     },
     {
@@ -125,13 +209,6 @@
       "published": "2026-08-25T07:49:47+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Ai security?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxsrib/ai_security/",
-      "summary": "I'm working on an open-source project called Ralon for controlling autonomous AI coding agents from the CLI. The problem I'm exploring is: how do you prevent an AI agent from making changes outside the rules you've defined for a project? The current idea is a project-level `agent.lock` file that defines what an agent is allowed to do, combined with a CLI (`ralon`) that enforces those restrictions. For example, a project could define: * which files/directories an agent can modify * which commands",
-      "published": "2026-08-25T07:20:14+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "AliExpress Leverages User Audio Systems For Fingerprinting",
       "url": "https://yro.slashdot.org/story/26/08/25/0548233/aliexpress-leverages-user-audio-systems-for-fingerprinting?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -146,13 +223,6 @@
       "published": "2026-08-25T06:12:35+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "90 points · 36 comments",
-      "published": "2026-08-25T03:54:19+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "World's Oceans Hit Highest Temperature On Record As El Nino Grows",
       "url": "https://news.slashdot.org/story/26/08/24/2245233/worlds-oceans-hit-highest-temperature-on-record-as-el-nino-grows?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -163,14 +233,14 @@
       "source": "HACKER NEWS",
       "title": "SiFive's First Server Platform",
       "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "81 points · 22 comments",
+      "summary": "91 points · 24 comments",
       "published": "2026-08-25T03:06:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "summary": "170 points · 200 comments",
+      "summary": "182 points · 219 comments",
       "published": "2026-08-25T01:40:39+00:00"
     },
     {
@@ -182,24 +252,10 @@
     },
     {
       "source": "REDDIT",
-      "title": "Easy Cybersecurity awareness month resources",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxjuuv/easy_cybersecurity_awareness_month_resources/",
-      "summary": "For any security leaders looking for Oct cybersecurity awareness month campaigns, check this out. https://fablesecurity.com/resources/blog/ocam-2026/ . Easy to deploy and can make the month a bit entertaining instead of the old phishing crap we usually do. submitted by /u/outdoorguy007 [link] [comments]",
-      "published": "2026-08-24T23:59:48+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "What are the most common containment use cases in SOC?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxinxn/what_are_the_most_common_containment_use_cases_in/",
       "summary": "I'm trying to understand what exactly are the most common use cases for containment after a threat was investigated. Is it disabling the principal at the IdP, is it isolating a host, could it be something more fine grained than those? How do you know that it won't affect the business negatively? Is there a way to measure it? Thank you! submitted by /u/iTZAvishay [link] [comments]",
       "published": "2026-08-24T23:09:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "123 points · 47 comments",
-      "published": "2026-08-24T23:00:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -212,14 +268,14 @@
       "source": "HACKER NEWS",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "517 points · 156 comments",
+      "summary": "534 points · 163 comments",
       "published": "2026-08-24T22:13:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
-      "summary": "218 points · 38 comments",
+      "summary": "228 points · 38 comments",
       "published": "2026-08-24T22:06:02+00:00"
     },
     {
@@ -242,13 +298,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
       "published": "2026-08-24T21:14:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "summary": "122 points · 23 comments",
-      "published": "2026-08-24T21:01:38+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -315,16 +364,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Where did all the public bathrooms go?",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "279 points · 597 comments",
-      "published": "2026-08-24T17:07:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "519 points · 151 comments",
+      "summary": "534 points · 155 comments",
       "published": "2026-08-24T17:05:38+00:00"
     },
     {
@@ -345,7 +387,7 @@
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "761 points · 373 comments",
+      "summary": "780 points · 379 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -359,7 +401,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "917 points · 656 comments",
+      "summary": "928 points · 664 comments",
       "published": "2026-08-24T15:08:17+00:00"
     },
     {
@@ -368,20 +410,6 @@
       "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Gizmodo: Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac's \"California Love\" and Eminem's \"The Real Slim Shady,\" is very much pro using artificial intelligence tools to make music. In an interview with the New York Times, Dr. Dre and Interscope Records co-founder Jimmy Iovine spoke about artificial intelligence's recent foray into music production, with the producer characterizing those who oppose AI song ",
       "published": "2026-08-24T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Walgit – a Git server that is one binary in front of an object store",
-      "url": "https://github.com/tobi/walgit",
-      "summary": "117 points · 36 comments",
-      "published": "2026-08-24T14:49:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-      "summary": "185 points · 87 comments",
-      "published": "2026-08-24T14:44:55+00:00"
     },
     {
       "source": "OSINT",
@@ -408,14 +436,14 @@
       "source": "HACKER NEWS",
       "title": "What's new in Emacs 31.1",
       "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "summary": "191 points · 43 comments",
+      "summary": "251 points · 49 comments",
       "published": "2026-08-24T13:07:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "1468 points · 922 comments",
+      "summary": "1495 points · 934 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -448,31 +476,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
-      "published": "2026-08-24T11:56:34+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "url": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
-      "published": "2026-08-24T11:51:36+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
       "published": "2026-08-24T10:45:12+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-      "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
-      "published": "2026-08-24T09:42:05+00:00"
     },
     {
       "source": "REDDIT",
@@ -480,13 +487,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vwn3rb/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-24T00:00:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "url": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
-      "published": "2026-08-23T14:23:46+00:00"
     },
     {
       "source": "OSINT",
