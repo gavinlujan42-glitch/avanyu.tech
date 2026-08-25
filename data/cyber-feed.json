@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:58:31.697355+00:00",
+  "updated": "2026-08-25T21:34:54.223099+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,11 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "The GTA VI leaks are breaking the internet. Security researchers have seen this before.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyc9rn/the_gta_vi_leaks_are_breaking_the_internet/",
-      "summary": "submitted by /u/drewchainzz [link] [comments]",
-      "published": "2026-08-25T20:55:17+00:00"
+      "source": "SLASHDOT",
+      "title": "FDA Approves First Wearable Device to Monitor Glucose, Ketone Levels",
+      "url": "https://science.slashdot.org/story/26/08/25/210214/fda-approves-first-wearable-device-to-monitor-glucose-ketone-levels?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The FDA has authorized the first wearable in the U.S. to continuously monitor ketone levels and the first device globally to track both ketones and glucose together in a single system. From a report: [Abbott's] Libre Duo 10 Day continuously measures both glucose and ketone levels in the fluid just beneath the skin every minute, day and night. Readings are transmitted wirelessly to a compatible smartphone, where users can view current glucose and ketone levels and whether those values are trendin",
+      "published": "2026-08-25T21:01:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -70,9 +70,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "C2PA Cameras Do Not Survive Contact with Reality",
+      "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
+      "summary": "15 points · 4 comments",
+      "published": "2026-08-25T19:38:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "92 points · 49 comments",
+      "summary": "127 points · 84 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -100,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "800 points · 120 comments",
+      "summary": "897 points · 130 comments",
       "published": "2026-08-25T18:02:22+00:00"
     },
     {
@@ -114,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Firefox 157 will include JPEG XL by default on all platforms",
       "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "summary": "163 points · 23 comments",
+      "summary": "187 points · 32 comments",
       "published": "2026-08-25T17:55:23+00:00"
     },
     {
@@ -128,21 +135,21 @@
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "79 points · 32 comments",
+      "summary": "87 points · 35 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "359 points · 242 comments",
+      "summary": "386 points · 268 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "126 points · 71 comments",
+      "summary": "139 points · 89 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -156,22 +163,29 @@
       "source": "HACKER NEWS",
       "title": "My Friend Aaron",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "summary": "294 points · 70 comments",
+      "summary": "341 points · 86 comments",
       "published": "2026-08-25T16:53:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "summary": "63 points · 24 comments",
+      "summary": "72 points · 25 comments",
       "published": "2026-08-25T16:52:05+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Starbase, LA",
-      "url": "https://www.spacex.com/sites/starbase-la",
-      "summary": "149 points · 202 comments",
-      "published": "2026-08-25T16:37:52+00:00"
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "summary": "80 points · 17 comments",
+      "published": "2026-08-25T16:35:36+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The Sandbox Paradigm: Why emulation and dynamic analysis are a SOC analyst's best friend (and what they miss)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vy4qi8/the_sandbox_paradigm_why_emulation_and_dynamic/",
+      "summary": "Hey everyone, I’ve been diving deeper into dynamic analysis lately, and it’s incredible how much a solid sandbox setup reveals that static analysis completely misses—especially when dealing with packed samples, heavily obfuscated scripts, or evasive malware. However, dealing with modern evasive techniques (like environment checks, timing delays, or hardware fingerprinting) reminds us that sandboxes aren't a silver bullet. For those of you working in threat hunting or incident response: What are ",
+      "published": "2026-08-25T16:29:41+00:00"
     },
     {
       "source": "REDDIT",
@@ -205,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "49 points · 12 comments",
+      "summary": "58 points · 14 comments",
       "published": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -226,14 +240,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "210 points · 115 comments",
+      "summary": "220 points · 120 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "194 points · 150 comments",
+      "summary": "211 points · 158 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -247,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "171 points · 116 comments",
+      "summary": "196 points · 133 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -275,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "370 points · 204 comments",
+      "summary": "380 points · 212 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
@@ -289,14 +303,14 @@
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "640 points · 385 comments",
+      "summary": "649 points · 396 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "817 points · 730 comments",
+      "summary": "841 points · 766 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -333,13 +347,6 @@
       "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the",
       "published": "2026-08-25T11:52:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Don't Wordle",
-      "url": "https://dontwordle.com/",
-      "summary": "256 points · 109 comments",
-      "published": "2026-08-25T11:49:48+00:00"
     },
     {
       "source": "OSINT",
@@ -424,13 +431,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
       "published": "2026-08-24T21:14:30+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Trump Admin Moves to Impose More Than $100K Fee For H-1B Worker Visas",
-      "url": "https://news.slashdot.org/story/26/08/24/2023203/trump-admin-moves-to-impose-more-than-100k-fee-for-h-1b-worker-visas?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Trump administration is proposing to make permanent a $103,265 fee on certain new H-1B visas, dramatically increasing costs for employers that rely on highly skilled foreign workers in tech, education, and research. \"A federal judge in June ruled that the fee was illegal and blocked the Trump administration from collecting it,\" reports Reuters. \"A Boston-based appeals court is reviewing that decision while a different court considers whether a judge properly rejected a challenge to the fee b",
-      "published": "2026-08-24T21:00:00+00:00"
     },
     {
       "source": "OSINT",
