@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T01:40:45.973245+00:00",
-  "item_count": 64,
+  "updated": "2026-08-25T03:05:46.973324+00:00",
+  "item_count": 46,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,22 +28,26 @@
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
+    },
+    {
+      "source": "HACKER NEWS",
+      "error": "URLError"
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "keep getting verification codes for tiktok from middle east",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxndlk/keep_getting_verification_codes_for_tiktok_from/",
+      "summary": "i have multiple tiktok accounts and only one of them has been getting these emails. i can't even log in to the account as it comes up with an error that 'this user does not exist', even though i can look the account up. the account was never used by me, i made it and then forgot about it, and only noticed it again after i keep getting these verification codes. i've been getting one every few months for the past 2 years, but for the past month it's increased a lot. the account has random middle e",
+      "published": "2026-08-25T02:34:32+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "What logs have shown a surprisingly high value that you can’t live without now",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxlv4e/what_logs_have_shown_a_surprisingly_high_value/",
       "summary": "I saw a similar post earlier about “logging everything“ which led me to think about which logs have you collected, besides the typical sources, which has brought great value to your detections and threat hunting. I‘m aware this is a subjective question. submitted by /u/IamOnlyLookingThanks [link] [comments]",
       "published": "2026-08-25T01:26:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What languages are agent skills written in?",
-      "url": "https://plicara.ai/research/agent-skill-languages/",
-      "summary": "3 points · 0 comments",
-      "published": "2026-08-25T00:52:27+00:00"
     },
     {
       "source": "REDDIT",
@@ -60,27 +64,6 @@
       "published": "2026-08-24T23:09:26+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-      "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "33 points · 9 comments",
-      "published": "2026-08-24T23:00:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "216 points · 49 comments",
-      "published": "2026-08-24T22:13:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Moon (2024)",
-      "url": "https://ciechanow.ski/moon/",
-      "summary": "96 points · 16 comments",
-      "published": "2026-08-24T22:06:02+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Does anyone have personal experience using Dragos OT security products?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxguce/does_anyone_have_personal_experience_using_dragos/",
@@ -95,46 +78,11 @@
       "published": "2026-08-24T21:14:30+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
-      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
-      "summary": "126 points · 101 comments",
-      "published": "2026-08-24T21:03:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
-      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
-      "summary": "53 points · 12 comments",
-      "published": "2026-08-24T21:01:38+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
       "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
       "published": "2026-08-24T19:26:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Oceans hit highest temperature on record",
-      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-      "summary": "394 points · 294 comments",
-      "published": "2026-08-24T19:19:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "LLMs could control their host machines by exploiting inference engines",
-      "url": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-      "summary": "93 points · 50 comments",
-      "published": "2026-08-24T19:03:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Octopus intelligence may be related to never-before-seen mutation",
-      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
-      "summary": "78 points · 48 comments",
-      "published": "2026-08-24T17:57:13+00:00"
     },
     {
       "source": "OSINT",
@@ -165,27 +113,6 @@
       "published": "2026-08-24T17:32:57+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Where did all the public bathrooms go?",
-      "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "154 points · 309 comments",
-      "published": "2026-08-24T17:07:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The entire city of San Francisco as a video game",
-      "url": "https://sf.thijs.gg/",
-      "summary": "342 points · 119 comments",
-      "published": "2026-08-24T17:05:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hot Chips 2026: CUDA Targets RISC-V – By Chester Lam",
-      "url": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
-      "summary": "76 points · 10 comments",
-      "published": "2026-08-24T16:52:01+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "SPF pass due to an Exchange hop in front of a spoof.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vx6pwx/spf_pass_due_to_an_exchange_hop_in_front_of_a/",
@@ -193,53 +120,11 @@
       "published": "2026-08-24T15:54:29+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Jabber/XMPP: 25 Years of Digital Independence",
-      "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "summary": "169 points · 64 comments",
-      "published": "2026-08-24T15:51:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "IPFS Maintainers Winding Down",
-      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-      "summary": "326 points · 163 comments",
-      "published": "2026-08-24T15:48:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "562 points · 228 comments",
-      "published": "2026-08-24T15:28:04+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
       "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
       "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
       "published": "2026-08-24T15:17:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "723 points · 487 comments",
-      "published": "2026-08-24T15:08:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Phishing Emails - Domain block",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx515x/phishing_emails_domain_block/",
-      "summary": "Hi all, I am new to my role. My question is if a supplier informs us that an email address has been compromised and is involved in phishing attempts, what is your approach? To block the domain or only the affected email address. If the domain is blocked, how do we go about contacting the supplier to inform them that their domain has been blocked and to gain reassurance that the email is now free of compromise. We require suppliers to fill out a form for reconnection but how do we get it to them ",
-      "published": "2026-08-24T14:52:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Peppermint oil reduces blood pressure by 8.48 mmHg in small study",
-      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344538",
-      "summary": "92 points · 64 comments",
-      "published": "2026-08-24T14:44:55+00:00"
     },
     {
       "source": "OSINT",
@@ -261,13 +146,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
       "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
       "published": "2026-08-24T14:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "1061 points · 656 comments",
-      "published": "2026-08-24T13:05:25+00:00"
     },
     {
       "source": "OSINT",
