@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T04:45:46.520554+00:00",
-  "item_count": 76,
+  "updated": "2026-08-25T05:37:27.424251+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,6 +13,11 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
+    },
+    {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -28,30 +33,30 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "Headlong: A Microharness for Persistent Agents",
-      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "12 points · 4 comments",
-      "published": "2026-08-25T03:54:19+00:00"
+      "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+      "url": "https://github.com/dragthelake/ambient-context",
+      "summary": "6 points · 1 comments",
+      "published": "2026-08-25T04:33:24+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "World's Oceans Hit Highest Temperature On Record As El Nino Grows",
-      "url": "https://news.slashdot.org/story/26/08/24/2245233/worlds-oceans-hit-highest-temperature-on-record-as-el-nino-grows?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from the BBC: The world's oceans are hotter than ever recorded, new data suggests, as they suffer from human-caused climate change and the growing El Nino weather phenomenon. The average surface temperature of the planet's seas outside the polar regions hit 21.1C (70F) on Saturday, according to figures from the European Copernicus climate change service. That edges past the 21.09C recorded on three separate days in March 2024, and is far above average for the ",
-      "published": "2026-08-25T03:30:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Headlong: A Microharness for Persistent Agents",
+      "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
+      "summary": "22 points · 7 comments",
+      "published": "2026-08-25T03:54:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "summary": "52 points · 52 comments",
+      "summary": "69 points · 62 comments",
       "published": "2026-08-25T01:40:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Was modern art a CIA psy-op? (2020)",
       "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "summary": "41 points · 43 comments",
+      "summary": "48 points · 53 comments",
       "published": "2026-08-25T01:35:00+00:00"
     },
     {
@@ -79,36 +84,22 @@
       "source": "HACKER NEWS",
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "60 points · 24 comments",
+      "summary": "68 points · 26 comments",
       "published": "2026-08-24T23:00:37+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Amazon Hikes Hardware Prices By 60%, Blaming Memory Shortage",
-      "url": "https://news.slashdot.org/story/26/08/24/228251/amazon-hikes-hardware-prices-by-60-blaming-memory-shortage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Amazon has raised the prices of its hardware devices by as much as 60%, blaming \"significant increases in memory and storage component costs.\" TechCrunch reports: The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that's been cited is that of the Echo Dot, one of Amazon's cheapest smart speakers, the price of which jumped 60% overnight, from $49.99 to $79.99. Price-tracking sites like CamelCamelCamel show the stark uptick, which has previously hovered much lo",
-      "published": "2026-08-24T23:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "319 points · 77 comments",
+      "summary": "341 points · 90 comments",
       "published": "2026-08-24T22:13:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
-      "summary": "126 points · 20 comments",
+      "summary": "137 points · 22 comments",
       "published": "2026-08-24T22:06:02+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "SEC Investigating Near-Implosion of AI Hedge Fund",
-      "url": "https://yro.slashdot.org/story/26/08/24/2155211/sec-investigating-near-implosion-of-ai-hedge-fund?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The SEC is investigating the near-collapse of AI-focused hedge fund Situational Awareness, sending subpoenas to major Wall Street banks for details about the fund's trades, borrowing, and communications with lenders. The fund, founded by former OpenAI researcher Leopold Aschenbrenner, managed over $30 billion and borrowed tens of billions more before leveraged bets unraveled, forcing it to sell most of its stock portfolio to Citadel at a discount. The New York Times reports: The subpoenas asked ",
-      "published": "2026-08-24T22:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -125,20 +116,6 @@
       "published": "2026-08-24T21:14:30+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Trump Admin Moves to Impose More Than $100K Fee For H-1B Worker Visas",
-      "url": "https://news.slashdot.org/story/26/08/24/2023203/trump-admin-moves-to-impose-more-than-100k-fee-for-h-1b-worker-visas?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Trump administration is proposing to make permanent a $103,265 fee on certain new H-1B visas, dramatically increasing costs for employers that rely on highly skilled foreign workers in tech, education, and research. \"A federal judge in June ruled that the fee was illegal and blocked the Trump administration from collecting it,\" reports Reuters. \"A Boston-based appeals court is reviewing that decision while a different court considers whether a judge properly rejected a challenge to the fee b",
-      "published": "2026-08-24T21:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Raspberry Pi Shares Its Official Tutorial For Making a Cyberdeck",
-      "url": "https://hardware.slashdot.org/story/26/08/24/1853204/raspberry-pi-shares-its-official-tutorial-for-making-a-cyberdeck?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Raspberry Pi has published an official guide for building a cyberdeck, leaning into a viral trend of homemade portable computers built from repurposed cases, purses, and other oddball hardware. The guide uses a Raspberry Pi 5, keyboard, battery, and Pelican-style case. The Verge reports: Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Raspberry Pi has also increased its prices multiple t",
-      "published": "2026-08-24T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
@@ -146,18 +123,11 @@
       "published": "2026-08-24T19:26:32+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Nvidia Senior Manager Linked To Supermicro Scheme Smuggling AI Servers To China",
-      "url": "https://slashdot.org/story/26/08/24/1844211/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: Taiwan has indicted nine people -- reportedly including an Nvidia senior manager and two Supermicro employees based in the country -- who allegedly helped forge documents to cover up illegal exports of high-end AI servers to China in violation of US export controls. On Monday, Reuters reported that prosecutors in Keelung did not release any names but confirmed that the suspects were \"charged with breach of trust and document forgery.\" One su",
-      "published": "2026-08-24T19:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "China Delays Ambitious Chang'e 7 Lunar Mission Until 2027",
-      "url": "https://science.slashdot.org/story/26/08/24/1736239/china-delays-ambitious-change-7-lunar-mission-until-2027?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "China has delayed its ambitious Chang'e 7 lunar mission until at least 2027 after scrubbing an August 24 launch. Poor weather conditions were likely a factor, with China's Manned Space Agency (CMSA) saying the decision reflects the need for \"absolute safety.\" Scientific American reports: China and the U.S. are in a race to send humans back to the moon, a feat that that U.S. accomplished in the 1960s and that has never been achieved by any other country. Chang'e 7 is to play to a crucial part in ",
-      "published": "2026-08-24T18:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Octopus intelligence may be related to never-before-seen mutation",
+      "url": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+      "summary": "119 points · 88 comments",
+      "published": "2026-08-24T17:57:13+00:00"
     },
     {
       "source": "OSINT",
@@ -191,36 +161,22 @@
       "source": "HACKER NEWS",
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "191 points · 404 comments",
+      "summary": "199 points · 436 comments",
       "published": "2026-08-24T17:07:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "395 points · 130 comments",
+      "summary": "406 points · 131 comments",
       "published": "2026-08-24T17:05:38+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "FDA Approves First Alzheimer's Blood Test For Americans As Young As 40",
-      "url": "https://science.slashdot.org/story/26/08/24/1637252/fda-approves-first-alzheimers-blood-test-for-americans-as-young-as-40?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The FDA has cleared the first Alzheimer's blood test for symptomatic patients as young as 40. The test measures amyloid and tau biomarkers from a single blood draw and identified positive biomarkers with 97.6% accuracy in a validation study. New Atlas reports: PrecivityAD2 is a single blood test that quickly assesses the proteins amyloid and tau, using mass spectrometry to measure plasma AB42/40 and p-tau217/np-tau217. The results are then scored, qualifying as negative, likely positive, or posi",
-      "published": "2026-08-24T17:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ox-Alpha Is GLM?",
       "url": "https://dejan.ai/blog/ox-alpha/",
-      "summary": "34 points · 8 comments",
+      "summary": "47 points · 24 comments",
       "published": "2026-08-24T16:30:16+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Humanoid Robots Run 100 Meters Faster Than Usain Bolt's Record Pace",
-      "url": "https://hardware.slashdot.org/story/26/08/24/089213/humanoid-robots-run-100-meters-faster-than-usain-bolts-record-pace?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Two humanoid robots competing at the World Humanoid Robot Games in Beijing on Saturday ran the 100-meter dash faster than Usain Bolt's 9.58-second world-record time. \"[T]he Tiangong Ultra humanoid robot completed the 100-meter dash in 9.39 seconds during a preliminary heat,\" reports Engadget. \"Developed by Beijing Humanoid Robot Innovation Center, the record-holding robot overtook Honor's Lightning robot, which completed the sprint in 9.47 seconds. From the report: Despite the impressive finish ",
-      "published": "2026-08-24T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -233,14 +189,14 @@
       "source": "HACKER NEWS",
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "summary": "196 points · 91 comments",
+      "summary": "201 points · 93 comments",
       "published": "2026-08-24T15:51:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "616 points · 242 comments",
+      "summary": "633 points · 254 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -254,15 +210,8 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "780 points · 528 comments",
+      "summary": "793 points · 546 comments",
       "published": "2026-08-24T15:08:17+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Dr. Dre Says He Uses AI To Produce Songs",
-      "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Gizmodo: Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac's \"California Love\" and Eminem's \"The Real Slim Shady,\" is very much pro using artificial intelligence tools to make music. In an interview with the New York Times, Dr. Dre and Interscope Records co-founder Jimmy Iovine spoke about artificial intelligence's recent foray into music production, with the producer characterizing those who oppose AI song ",
-      "published": "2026-08-24T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -270,13 +219,6 @@
       "url": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
       "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are. Plenty to clean up. Here’s the short version. ⚡ Threat of the Week U.S.",
       "published": "2026-08-24T14:32:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Crafting QR Codes: A deep dive into QR code art (2024)",
-      "url": "https://kylezhe.ng/writes/crafting-qr-codes",
-      "summary": "32 points · 0 comments",
-      "published": "2026-08-24T14:15:38+00:00"
     },
     {
       "source": "OSINT",
@@ -296,14 +238,14 @@
       "source": "HACKER NEWS",
       "title": "What's new in Emacs 31.1",
       "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "summary": "59 points · 8 comments",
+      "summary": "72 points · 12 comments",
       "published": "2026-08-24T13:07:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "1134 points · 677 comments",
+      "summary": "1169 points · 690 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -356,13 +298,6 @@
       "published": "2026-08-24T11:51:36+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "After 50 Years, Physicists May Have Finally Found a Particle Made of Pure Force",
-      "url": "https://science.slashdot.org/story/26/08/24/0055233/after-50-years-physicists-may-have-finally-found-a-particle-made-of-pure-force?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Gluons are the quantum 'Gorilla Glue' involved in binding quarks together, ScienceAlert reminds us. But for nearly 50 years, physicists have hunted for \"glueballs\", exotic particles predicted by this theory of the strong interaction — the only type of particle in nature composed entirely of force mediators: Now, a collaboration working at a collider in Beijing says it has the clearest evidence yet that a known particle called X(2370) is dominated by one of these elusive states... Physicists sift",
-      "published": "2026-08-24T11:34:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
       "url": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
@@ -398,13 +333,6 @@
       "published": "2026-08-24T08:08:31+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "SCO Successor Xinuos Asks Court to Rehear Its Claims Against IBM/Red Hat Over Project Monterey",
-      "url": "https://linux.slashdot.org/story/26/08/24/037241/sco-successor-xinuos-asks-court-to-rehear-its-claims-against-ibmred-hat-over-project-monterey?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The long legal battle over ownership of Linux \"is closer than ever to ending,\" reports the Register, \"after a panel of three judges ruled a claim against IBM and Red Hat isn't valid, and that time has expired for further action.\" In 2021, an heir to SCO settled with IBM for $14.25 million — a sum that reflects the fact SCO had for years failed to produce strong evidence to back its claims. Another of SCO's legal successors, Xinuos, filed a new claim that IBM should be on the hook because Big Blu",
-      "published": "2026-08-24T07:34:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "How to get out of govtech",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vwpkhw/how_to_get_out_of_govtech/",
@@ -422,15 +350,8 @@
       "source": "HACKER NEWS",
       "title": "Training AI to Paint with Code",
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "summary": "46 points · 5 comments",
+      "summary": "58 points · 5 comments",
       "published": "2026-08-23T19:39:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
-      "url": "https://tarjan.itch.io/thoreaubasic",
-      "summary": "21 points · 7 comments",
-      "published": "2026-08-23T17:48:12+00:00"
     },
     {
       "source": "OSINT",
@@ -457,7 +378,7 @@
       "source": "HACKER NEWS",
       "title": "Nostr is an inclusive communication commons",
       "url": "https://nostr.org/",
-      "summary": "47 points · 3 comments",
+      "summary": "62 points · 13 comments",
       "published": "2026-08-22T13:49:01+00:00"
     },
     {
