@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:34:54.223099+00:00",
+  "updated": "2026-08-25T21:55:42.531657+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,27 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "NGFW IP reputation score-based policy?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vydm87/ngfw_ip_reputation_scorebased_policy/",
+      "summary": "Is it possible to configure IP reputation score-based policy on Palo Alto firewall that blocks traffic to and from public IP addresses with low reputation score? submitted by /u/Ok_Technician_2653 [link] [comments]",
+      "published": "2026-08-25T21:45:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Which Varonis competitors are actually worth evaluating?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vydgcb/which_varonis_competitors_are_actually_worth/",
+      "summary": "For anyone who's evaluated Varonis competitors recently, what made you shortlist them during the POC? submitted by /u/TurboDrifter68 [link] [comments]",
+      "published": "2026-08-25T21:39:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+      "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+      "published": "2026-08-25T21:39:01+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "FDA Approves First Wearable Device to Monitor Glucose, Ketone Levels",
       "url": "https://science.slashdot.org/story/26/08/25/210214/fda-approves-first-wearable-device-to-monitor-glucose-ketone-levels?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -39,6 +60,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vyc4fs/confused_about_access_control_models/",
       "summary": "Hi everyone, I’m currently learning cybersecurity fundamentals, and I’m a little confused about what exactly we mean by an access control model. Earlier, while learning about the CIA triad, I came across Bell-LaPadula and Biba . I understood Bell-LaPadula as a model focused on confidentiality and Biba as a model focused on integrity. Later, while learning about Identity and Access Management (IAM), I was introduced to DAC, MAC, RBAC, and ABAC as four major access control models. This confused me",
       "published": "2026-08-25T20:49:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+      "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+      "summary": "13 points · 5 comments",
+      "published": "2026-08-25T20:49:03+00:00"
     },
     {
       "source": "OSINT",
@@ -72,14 +100,14 @@
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "15 points · 4 comments",
+      "summary": "22 points · 6 comments",
       "published": "2026-08-25T19:38:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "127 points · 84 comments",
+      "summary": "140 points · 95 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -88,13 +116,6 @@
       "url": "https://slashdot.org/story/26/08/25/1848204/perplexity-and-nvidia-launch-fully-local-ai-agent-with-zero-token-costs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Perplexity and Nvidia have launched \"Portable Computer,\" a local-first version of Perplexity's agent platform that runs AI models, files, tools, and workflows directly on Nvidia-powered Linux hardware. Local tasks incur no token charges and keep data on-device by default, with users asked for permission before the system escalates a step to a cloud model. VentureBeat reports: For Nvidia, which has spent the past two years selling the world on trillion-dollar AI data centers, the announcement sig",
       "published": "2026-08-25T19:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Career Path",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vy87fx/career_path/",
-      "summary": "I’ve been working as a cybersecurity consultant for a year and a half now. Quite curious on what career path I can further take if the work I’ve done is mostly use case engineering for SIEM platforms. Thanks! submitted by /u/jasmonie [link] [comments]",
-      "published": "2026-08-25T18:31:42+00:00"
     },
     {
       "source": "OSINT",
@@ -107,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "897 points · 130 comments",
+      "summary": "942 points · 141 comments",
       "published": "2026-08-25T18:02:22+00:00"
     },
     {
@@ -116,13 +137,6 @@
       "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Ars Technica: For years, AI industry watchers of all stripes have been warning of a coming jobs apocalypse driven by ultra-intelligent AI systems that will be able to replicate most human tasks more cheaply. Now, newly updated research from Stanford University economists suggests AI seems to be causing significant entry-level job losses for younger workers in some fields, even as older workers appear largely unaffected so far. The August 2026 edition of \"",
       "published": "2026-08-25T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Firefox 157 will include JPEG XL by default on all platforms",
-      "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-      "summary": "187 points · 32 comments",
-      "published": "2026-08-25T17:55:23+00:00"
     },
     {
       "source": "HACKER NEWS",
@@ -135,21 +149,21 @@
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "87 points · 35 comments",
+      "summary": "88 points · 35 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "386 points · 268 comments",
+      "summary": "414 points · 294 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "139 points · 89 comments",
+      "summary": "143 points · 97 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -163,21 +177,21 @@
       "source": "HACKER NEWS",
       "title": "My Friend Aaron",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "summary": "341 points · 86 comments",
+      "summary": "356 points · 89 comments",
       "published": "2026-08-25T16:53:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "summary": "72 points · 25 comments",
+      "summary": "78 points · 25 comments",
       "published": "2026-08-25T16:52:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "summary": "80 points · 17 comments",
+      "summary": "85 points · 17 comments",
       "published": "2026-08-25T16:35:36+00:00"
     },
     {
@@ -219,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "58 points · 14 comments",
+      "summary": "62 points · 15 comments",
       "published": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -240,14 +254,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "220 points · 120 comments",
+      "summary": "227 points · 126 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "211 points · 158 comments",
+      "summary": "219 points · 162 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -261,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "196 points · 133 comments",
+      "summary": "210 points · 144 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -289,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "380 points · 212 comments",
+      "summary": "385 points · 214 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
@@ -303,14 +317,14 @@
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "649 points · 396 comments",
+      "summary": "656 points · 402 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "841 points · 766 comments",
+      "summary": "849 points · 780 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -459,20 +473,6 @@
       "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
       "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
       "published": "2026-08-24T17:41:11+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Can running local LLMs be a security threat?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx9i0l/can_running_local_llms_be_a_security_threat/",
-      "summary": "I'm just wondering why they keep releasing these really useful but free to use LLMs (Qwen, Kimi, Deepseek). and now we even have mysterious ones like Ox Alpha. Can these models perform malicious acts while running as local LLMs? If so, how? submitted by /u/DingoBimbo [link] [comments]",
-      "published": "2026-08-24T17:32:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-      "published": "2026-08-24T15:17:16+00:00"
     },
     {
       "source": "REDDIT",
