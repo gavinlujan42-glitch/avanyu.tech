@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T06:58:44.634224+00:00",
+  "updated": "2026-08-25T07:50:06.729296+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,34 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "GitHub - JuanLunaIA/aegis-latent-core: AI governance and evidence gateway for multi-provider LLM applications. FastAPI + optional Rust core for policy, WAF, egress, rate limits, sessions, signed durable evidence, and fail-closed error paths. Self-hosted; no certification or SLO claim.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxt90l/github_juanlunaiaaegislatentcore_ai_governance/",
+      "summary": "Hi everyone, I've been looking into how enterprises are deploying LLMs, and there's a massive compliance gap. If an AI agent makes a discriminatory financial decision or leaks medical data, standard access logs (Splunk, SQL) are legally deniable. A database admin can just alter the row. I spent the last few months building an open-source (AGPLv3) AI Evidence Gateway called Aegis Latent Core to fix this. Instead of normal logging, it treats AI inference as a cryptographic ledger: 1. Rust WAL: It ",
+      "published": "2026-08-25T07:49:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "My M friend’s number is being SMS bombed need help",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxt4qe/my_m_friends_number_is_being_sms_bombed_need_help/",
+      "summary": "My friend’s number is being SMS bombed — need help My friend is suddenly receiving dozens of identical “❤️❤️❤️ Janu I Love You ❤️❤️❤️” messages from 20+ different numbers within minutes. Even more concerning: another person is receiving messages from my friend’s number, and some messages are appearing in his Sent folder, even though he didn’t send them. Could this be SMS bombing, a compromised phone/app, or a SIM issue? What should we do right now? How can we stop it and check whether his phone ",
+      "published": "2026-08-25T07:42:35+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Ai security?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxsrib/ai_security/",
+      "summary": "I'm working on an open-source project called Ralon for controlling autonomous AI coding agents from the CLI. The problem I'm exploring is: how do you prevent an AI agent from making changes outside the rules you've defined for a project? The current idea is a project-level `agent.lock` file that defines what an agent is allowed to do, combined with a CLI (`ralon`) that enforces those restrictions. For example, a project could define: * which files/directories an agent can modify * which commands",
+      "published": "2026-08-25T07:20:14+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "AliExpress Leverages User Audio Systems For Fingerprinting",
+      "url": "https://yro.slashdot.org/story/26/08/25/0548233/aliexpress-leverages-user-audio-systems-for-fingerprinting?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A developer says AliExpress is using the browser's WebAudio API to help fingerprint users by playing inaudible audio and measuring tiny differences in how their devices process it. CyberNews reports: The developer, \"laserphile,\" wrote on their blog that they recently ran into some weird issues with their Bluetooth headphones. They couldn't play music via their phone when, at the same time, the AliExpress website was open on their PC. The headphones, laserphile explained, support multipoint Bluet",
+      "published": "2026-08-25T07:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
       "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
@@ -34,24 +62,17 @@
       "published": "2026-08-25T06:12:35+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Looking for a cybersecurity professional’s advice (especially a Pentesters)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxrj8w/looking_for_a_cybersecurity_professionals_advice/",
-      "summary": "Greetings, professionals. I am pursuing this finely curated cybersecurity roadmap and I need a professional overall outlook so that I eliminate doubts and uncertainties. Also concerning the right certificates I should hunt for. Note that I will DM you after I see your interests in the comment section. Please, consider clearing the smoke for a brother. And those with experience, you are welcome to give me some non-cliche ideas. submitted by /u/QedusCS [link] [comments]",
-      "published": "2026-08-25T06:09:29+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: Screen memory without screenshots, just text to Markdown",
       "url": "https://github.com/dragthelake/ambient-context",
-      "summary": "24 points · 9 comments",
+      "summary": "32 points · 12 comments",
       "published": "2026-08-25T04:33:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Headlong: A Microharness for Persistent Agents",
       "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "34 points · 10 comments",
+      "summary": "47 points · 15 comments",
       "published": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -65,21 +86,21 @@
       "source": "HACKER NEWS",
       "title": "SiFive's First Server Platform",
       "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "18 points · 5 comments",
+      "summary": "35 points · 7 comments",
       "published": "2026-08-25T03:06:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "summary": "91 points · 99 comments",
+      "summary": "99 points · 121 comments",
       "published": "2026-08-25T01:40:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Was modern art a CIA psy-op? (2020)",
       "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "summary": "62 points · 66 comments",
+      "summary": "68 points · 80 comments",
       "published": "2026-08-25T01:35:00+00:00"
     },
     {
@@ -107,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "78 points · 32 comments",
+      "summary": "84 points · 32 comments",
       "published": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -121,14 +142,14 @@
       "source": "HACKER NEWS",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "389 points · 103 comments",
+      "summary": "412 points · 108 comments",
       "published": "2026-08-24T22:13:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
-      "summary": "153 points · 28 comments",
+      "summary": "165 points · 30 comments",
       "published": "2026-08-24T22:06:02+00:00"
     },
     {
@@ -219,14 +240,14 @@
       "source": "HACKER NEWS",
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "210 points · 486 comments",
+      "summary": "222 points · 511 comments",
       "published": "2026-08-24T17:07:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "427 points · 137 comments",
+      "summary": "440 points · 139 comments",
       "published": "2026-08-24T17:05:38+00:00"
     },
     {
@@ -235,13 +256,6 @@
       "url": "https://science.slashdot.org/story/26/08/24/1637252/fda-approves-first-alzheimers-blood-test-for-americans-as-young-as-40?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The FDA has cleared the first Alzheimer's blood test for symptomatic patients as young as 40. The test measures amyloid and tau biomarkers from a single blood draw and identified positive biomarkers with 97.6% accuracy in a validation study. New Atlas reports: PrecivityAD2 is a single blood test that quickly assesses the proteins amyloid and tau, using mass spectrometry to measure plasma AB42/40 and p-tau217/np-tau217. The results are then scored, qualifying as negative, likely positive, or posi",
       "published": "2026-08-24T17:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: A Modern GUI Library for Ada: CSS Styling, XML UI, SDL3",
-      "url": "https://github.com/ovenpasta/adi2",
-      "summary": "45 points · 15 comments",
-      "published": "2026-08-24T16:30:51+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -261,14 +275,14 @@
       "source": "HACKER NEWS",
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "summary": "210 points · 103 comments",
+      "summary": "216 points · 109 comments",
       "published": "2026-08-24T15:51:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "663 points · 266 comments",
+      "summary": "681 points · 272 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -282,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "821 points · 575 comments",
+      "summary": "837 points · 589 comments",
       "published": "2026-08-24T15:08:17+00:00"
     },
     {
@@ -291,13 +305,6 @@
       "url": "https://entertainment.slashdot.org/story/26/08/24/081231/dr-dre-says-he-uses-ai-to-produce-songs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Gizmodo: Dr. Dre, the pioneering rapper and seven-time Grammy-winning producer behind hit songs like Tupac's \"California Love\" and Eminem's \"The Real Slim Shady,\" is very much pro using artificial intelligence tools to make music. In an interview with the New York Times, Dr. Dre and Interscope Records co-founder Jimmy Iovine spoke about artificial intelligence's recent foray into music production, with the producer characterizing those who oppose AI song ",
       "published": "2026-08-24T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Walgit – a Git server that is one binary in front of an object store",
-      "url": "https://github.com/tobi/walgit",
-      "summary": "66 points · 10 comments",
-      "published": "2026-08-24T14:49:49+00:00"
     },
     {
       "source": "OSINT",
@@ -324,14 +331,14 @@
       "source": "HACKER NEWS",
       "title": "What's new in Emacs 31.1",
       "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "summary": "99 points · 21 comments",
+      "summary": "108 points · 23 comments",
       "published": "2026-08-24T13:07:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "1229 points · 725 comments",
+      "summary": "1270 points · 768 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -361,13 +368,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vx1knu/national_threat_intelligence_database/",
       "summary": "submitted by /u/glatisantbeast [link] [comments]",
       "published": "2026-08-24T12:35:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "91 Vulnerabilities Patched in Spring Application Framework",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vx0ycx/91_vulnerabilities_patched_in_spring_application/",
-      "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/ submitted by /u/sunychoudhary [link] [comments]",
-      "published": "2026-08-24T12:07:20+00:00"
     },
     {
       "source": "OSINT",
@@ -419,25 +419,25 @@
       "published": "2026-08-24T08:08:31+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "SCO Successor Xinuos Asks Court to Rehear Its Claims Against IBM/Red Hat Over Project Monterey",
-      "url": "https://linux.slashdot.org/story/26/08/24/037241/sco-successor-xinuos-asks-court-to-rehear-its-claims-against-ibmred-hat-over-project-monterey?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The long legal battle over ownership of Linux \"is closer than ever to ending,\" reports the Register, \"after a panel of three judges ruled a claim against IBM and Red Hat isn't valid, and that time has expired for further action.\" In 2021, an heir to SCO settled with IBM for $14.25 million — a sum that reflects the fact SCO had for years failed to produce strong evidence to back its claims. Another of SCO's legal successors, Xinuos, filed a new claim that IBM should be on the hook because Big Blu",
-      "published": "2026-08-24T07:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How to get out of govtech",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vwpkhw/how_to_get_out_of_govtech/",
-      "summary": "Been in cyber security as a federal contractor for years with about 10 years of experience, was laid off earlier this year and got a role as a dod contractor with about 2 years before the end of the contract I have a bs in mechanical engineering , and 3 cyber certs at the moment ( sec + and X and CISM ) , while the job is good I’m not really comfortable with it and would go as far to say I’d be ok with something that paid less but in a different field ( health or banking etc ) , i dont want to e",
-      "published": "2026-08-24T01:53:53+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vwn3rb/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-24T00:00:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Training AI to Paint with Code",
+      "url": "https://surya.website/rling-qwen-to-paint-with-code",
+      "summary": "81 points · 7 comments",
+      "published": "2026-08-23T19:39:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
+      "url": "https://tarjan.itch.io/thoreaubasic",
+      "summary": "43 points · 11 comments",
+      "published": "2026-08-23T17:48:12+00:00"
     },
     {
       "source": "OSINT",
@@ -464,7 +464,7 @@
       "source": "HACKER NEWS",
       "title": "Nostr is an inclusive communication commons",
       "url": "https://nostr.org/",
-      "summary": "95 points · 32 comments",
+      "summary": "112 points · 36 comments",
       "published": "2026-08-22T13:49:01+00:00"
     },
     {
