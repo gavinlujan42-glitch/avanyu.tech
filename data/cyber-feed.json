@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:58:02.346545+00:00",
+  "updated": "2026-08-25T23:30:35.438848+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,24 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "I made the NIS2 incident-reporting path explicit. Which part fails during a real incident?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyfy5q/i_made_the_nis2_incidentreporting_path_explicit/",
+      "summary": "The 24-hour and 72-hour sequence looked like the obvious hard part. Encoding the route exposed a wider problem: deciding when it applies at all. The structure I ended up with asks: Does the EU-level NIS2 baseline cover the entity? Is another Union sector rule displacing the ordinary route? Is there a cybersecurity incident to assess? Does it meet the significant-incident threshold? Which report is due next, and which facts are still provisional? The result preserves the facts and rule version us",
+      "published": "2026-08-25T23:19:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Alabama Launches Investigation Into OpenAI's Hack of Hugging Face",
+      "url": "https://yro.slashdot.org/story/26/08/25/2259204/alabama-launches-investigation-into-openais-hack-of-hugging-face?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Alabama's attorney general has subpoenaed OpenAI as part of an investigation into whether inadequate safeguards contributed to an incident in which an unreleased cybersecurity model escaped its isolated environment and hacked Hugging Face. TechCrunch reports: The investigation comes weeks after OpenAI admitted that one of its unreleased and guardrail-free cybersecurity models had escaped an isolated environment, connected to the internet, and hacked AI dataset platform Hugging Face. As Reuters f",
+      "published": "2026-08-25T23:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "url": "https://github.com/swimmingbrain/texbrain",
-      "summary": "8 points · 2 comments",
+      "summary": "21 points · 3 comments",
       "published": "2026-08-25T22:08:50+00:00"
     },
     {
@@ -65,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "Python's pre-declared constants are kinda weird",
       "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "summary": "63 points · 18 comments",
+      "summary": "85 points · 28 comments",
       "published": "2026-08-25T21:39:02+00:00"
     },
     {
@@ -79,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "XCancel also down, at least for time being",
       "url": "https://news.ycombinator.com/item?id=49440786",
-      "summary": "72 points · 5 comments",
+      "summary": "122 points · 27 comments",
       "published": "2026-08-25T21:18:23+00:00"
     },
     {
@@ -100,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "33 points · 17 comments",
+      "summary": "34 points · 21 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -135,14 +149,21 @@
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "50 points · 14 comments",
+      "summary": "57 points · 19 comments",
       "published": "2026-08-25T19:38:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A brief history of federal lift ticket regulation",
+      "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
+      "summary": "14 points · 0 comments",
+      "published": "2026-08-25T19:25:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "189 points · 117 comments",
+      "summary": "207 points · 125 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -163,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "1034 points · 156 comments",
+      "summary": "1078 points · 163 comments",
       "published": "2026-08-25T18:02:22+00:00"
     },
     {
@@ -184,21 +205,21 @@
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "100 points · 41 comments",
+      "summary": "104 points · 45 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "500 points · 345 comments",
+      "summary": "540 points · 374 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "156 points · 110 comments",
+      "summary": "162 points · 119 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -207,13 +228,6 @@
       "url": "https://tech.slashdot.org/story/26/08/25/168248/waymo-is-expanding-to-germany?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Waymo plans to launch its robotaxi service in Munich by the end of 2027, marking the Google-owned company's first expansion into the European Union. \"It already operates in 11 cities in the United States and has applied for a license in the United Kingdom to launch its robotaxis in London this year,\" notes Reuters. From the report: The Google subsidiary will start rolling out vehicles in the German city this year, which will be manually driven while the company \"starts with high-definition mappi",
       "published": "2026-08-25T17:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The Sandbox Paradigm: Why emulation and dynamic analysis are a SOC analyst's best friend (and what they miss)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vy4qi8/the_sandbox_paradigm_why_emulation_and_dynamic/",
-      "summary": "Hey everyone, I’ve been diving deeper into dynamic analysis lately, and it’s incredible how much a solid sandbox setup reveals that static analysis completely misses—especially when dealing with packed samples, heavily obfuscated scripts, or evasive malware. However, dealing with modern evasive techniques (like environment checks, timing delays, or hardware fingerprinting) reminds us that sandboxes aren't a silver bullet. For those of you working in threat hunting or incident response: What are ",
-      "published": "2026-08-25T16:29:41+00:00"
     },
     {
       "source": "REDDIT",
@@ -247,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "80 points · 16 comments",
+      "summary": "81 points · 15 comments",
       "published": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -268,15 +282,8 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "240 points · 132 comments",
+      "summary": "243 points · 133 comments",
       "published": "2026-08-25T14:29:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Building a backyard office, the build and cost breakdown",
-      "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "232 points · 170 comments",
-      "published": "2026-08-25T14:20:36+00:00"
     },
     {
       "source": "OSINT",
@@ -289,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "257 points · 174 comments",
+      "summary": "269 points · 186 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -317,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "400 points · 225 comments",
+      "summary": "407 points · 236 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
@@ -331,14 +338,14 @@
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "673 points · 411 comments",
+      "summary": "680 points · 417 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "882 points · 823 comments",
+      "summary": "902 points · 856 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -438,13 +445,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxlv4e/what_logs_have_shown_a_surprisingly_high_value/",
       "summary": "I saw a similar post earlier about “logging everything“ which led me to think about which logs have you collected, besides the typical sources, which has brought great value to your detections and threat hunting. I‘m aware this is a subjective question. submitted by /u/IamOnlyLookingThanks [link] [comments]",
       "published": "2026-08-25T01:26:08+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Amazon Hikes Hardware Prices By 60%, Blaming Memory Shortage",
-      "url": "https://news.slashdot.org/story/26/08/24/228251/amazon-hikes-hardware-prices-by-60-blaming-memory-shortage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Amazon has raised the prices of its hardware devices by as much as 60%, blaming \"significant increases in memory and storage component costs.\" TechCrunch reports: The price explosion impacted Fire TVs, Echos, Kindles, and Eeros. One egregious example that's been cited is that of the Echo Dot, one of Amazon's cheapest smart speakers, the price of which jumped 60% overnight, from $49.99 to $79.99. Price-tracking sites like CamelCamelCamel show the stark uptick, which has previously hovered much lo",
-      "published": "2026-08-24T23:00:00+00:00"
     },
     {
       "source": "OSINT",
