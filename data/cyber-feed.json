@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T21:55:42.531657+00:00",
+  "updated": "2026-08-25T22:34:15.878882+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,17 +28,52 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "I joined a discord server, and everyone knew what other servers i've been in, what messages/images i've sent, what all my profile pictures were, how did they do this?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyesnq/i_joined_a_discord_server_and_everyone_knew_what/",
+      "summary": "submitted by /u/Severe_Specific_8680 [link] [comments]",
+      "published": "2026-08-25T22:32:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "New Zealand Introduces Under-16 Social Media, AI Companion Ban",
+      "url": "https://tech.slashdot.org/story/26/08/25/2116226/new-zealand-introduces-under-16-social-media-ai-companion-ban?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "New Zealand has introduced legislation that would ban children under 16 from social media platforms and AI companion services. \"We have protections to keep children safe in the real world and we need them in the virtual world too,\" said Prime Minister Christopher Luxon in announcing the bill. Jurist.org reports: The Online Safety (Minimum Age and Child Safety Risk Assessment) Bill would require an age restriction on platforms with harmful features for children. These features include recommender",
+      "published": "2026-08-25T22:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "LACMA data breach last year exposed social security and medical data",
+      "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+      "published": "2026-08-25T21:58:14+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "NGFW IP reputation score-based policy?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vydm87/ngfw_ip_reputation_scorebased_policy/",
       "summary": "Is it possible to configure IP reputation score-based policy on Palo Alto firewall that blocks traffic to and from public IP addresses with low reputation score? submitted by /u/Ok_Technician_2653 [link] [comments]",
       "published": "2026-08-25T21:45:24+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+      "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+      "summary": "10 points · 2 comments",
+      "published": "2026-08-25T21:43:37+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Which Varonis competitors are actually worth evaluating?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vydgcb/which_varonis_competitors_are_actually_worth/",
-      "summary": "For anyone who's evaluated Varonis competitors recently, what made you shortlist them during the POC? submitted by /u/TurboDrifter68 [link] [comments]",
+      "summary": "We're reviewing data security platforms and Varonis is obviously on the list, but I don't want us to default to the biggest name without looking at what else is out there. Our environment is pretty SaaS-heavy with a lot of unstructured data, so classification accuracy and not burying the security team in false positives are probably the biggest things I'm looking at. For anyone who's evaluated Varonis competitors recently, what else made your shortlist and what separated them during the POC? sub",
       "published": "2026-08-25T21:39:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Python's pre-declared constants are kinda weird",
+      "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
+      "summary": "39 points · 4 comments",
+      "published": "2026-08-25T21:39:02+00:00"
     },
     {
       "source": "OSINT",
@@ -65,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "13 points · 5 comments",
+      "summary": "27 points · 14 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -90,24 +125,17 @@
       "published": "2026-08-25T20:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "mystery cudasvc wrapper in my boss' email - HELP:)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyac0d/mystery_cudasvc_wrapper_in_my_boss_email_help/",
-      "summary": "Hi, This could be the dumbest question ever, or it could be a real mystery. I only barely understand what I'm asking. So, please answer like I'm 5. lol We regularly email a client and we recently discovered they can't get emails from our CEO, no mailer daemon or bounce notification -- just absorbed by their filter. Their email filter (Proofpoint) rejected his email because of a URL in our email footer. It looks normal to a human, but when hovering over it, the actual URL starts with linkprotect.",
-      "published": "2026-08-25T19:46:47+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "22 points · 6 comments",
+      "summary": "41 points · 12 comments",
       "published": "2026-08-25T19:38:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "140 points · 95 comments",
+      "summary": "169 points · 113 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -128,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "942 points · 141 comments",
+      "summary": "1003 points · 151 comments",
       "published": "2026-08-25T18:02:22+00:00"
     },
     {
@@ -149,21 +177,21 @@
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "88 points · 35 comments",
+      "summary": "97 points · 39 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "414 points · 294 comments",
+      "summary": "473 points · 315 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "143 points · 97 comments",
+      "summary": "154 points · 108 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -175,24 +203,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "My Friend Aaron",
-      "url": "https://rorz.io/writing/my-friend-aaron",
-      "summary": "356 points · 89 comments",
-      "published": "2026-08-25T16:53:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "summary": "78 points · 25 comments",
+      "summary": "87 points · 28 comments",
       "published": "2026-08-25T16:52:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tooltips need a delay, and then they need to skip it",
-      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "summary": "85 points · 17 comments",
-      "published": "2026-08-25T16:35:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -233,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "62 points · 15 comments",
+      "summary": "73 points · 16 comments",
       "published": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -254,14 +268,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "227 points · 126 comments",
+      "summary": "235 points · 128 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "219 points · 162 comments",
+      "summary": "226 points · 170 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -275,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "210 points · 144 comments",
+      "summary": "246 points · 164 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -303,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "385 points · 214 comments",
+      "summary": "394 points · 223 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
@@ -317,14 +331,14 @@
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "656 points · 402 comments",
+      "summary": "666 points · 407 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "849 points · 780 comments",
+      "summary": "874 points · 807 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -433,13 +447,6 @@
       "published": "2026-08-24T23:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "SEC Investigating Near-Implosion of AI Hedge Fund",
-      "url": "https://yro.slashdot.org/story/26/08/24/2155211/sec-investigating-near-implosion-of-ai-hedge-fund?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The SEC is investigating the near-collapse of AI-focused hedge fund Situational Awareness, sending subpoenas to major Wall Street banks for details about the fund's trades, borrowing, and communications with lenders. The fund, founded by former OpenAI researcher Leopold Aschenbrenner, managed over $30 billion and borrowed tens of billions more before leveraged bets unraveled, forcing it to sell most of its stock portfolio to Citadel at a discount. The New York Times reports: The subpoenas asked ",
-      "published": "2026-08-24T22:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
@@ -452,13 +459,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
       "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
       "published": "2026-08-24T19:26:32+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "url": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-      "published": "2026-08-24T17:56:24+00:00"
     },
     {
       "source": "OSINT",
