@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:37:21.973243+00:00",
+  "updated": "2026-08-25T20:36:15.203855+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,45 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "url": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      "published": "2026-08-25T20:25:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Has anyone used OpenKAT?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyb26q/has_anyone_used_openkat/",
+      "summary": "This must sound very niche, especially since there are already established products such as Greenbone and Tenable Nessus. But I still want to ask. I live and work in the Netherlands and I recently (like an hour ago) came across a project by the Dutch government called OpenKAT It seems active in its development https://github.com/SSC-ICT-Innovatie/nl-kat-coordination And I was wondering if there is anyone else out there who can tell me more on what is it compared to things such as greenbone and t",
+      "published": "2026-08-25T20:12:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do I learn cyber security exactly?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyax3b/how_do_i_learn_cyber_security_exactly/",
+      "summary": "I'm interested in the red and blue team roles, with emphasis on the red team ones and the network security ones. The eventual goal is a job in the field and the bigger one is to learn about and practice cyber security. I'm planning on studying network security in university. Also, what courses, materials and tools are genuinely worth investing time and money into, so I can get as much as possible out of them? What topics and areas would be recommended to go in first? I have low level knowledge c",
+      "published": "2026-08-25T20:07:25+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Canadian Streaming Content Becomes a US Trade Issue",
+      "url": "https://news.slashdot.org/story/26/08/25/1857205/canadian-streaming-content-becomes-a-us-trade-issue?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Canada's cultural-content rules have become a flashpoint in its trade fight with the U.S., after American negotiators reportedly demanded that Ottawa drop requirements for streaming services to promote Canadian and French-language content. Canada refused, even as it has already backed away from some financial levies on streamers. \"We were not prepared to compromise on our sovereignty, the protection of the French language, and our culture,\" Prime Minister Mark Carney said in a speech on Saturday",
+      "published": "2026-08-25T20:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "mystery cudasvc wrapper in my boss' email - HELP:)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyac0d/mystery_cudasvc_wrapper_in_my_boss_email_help/",
+      "summary": "Hi, This could be the dumbest question ever, or it could be a real mystery. I only barely understand what I'm asking. So, please answer like I'm 5. lol We regularly email a client and we recently discovered they can't get emails from our CEO, no mailer daemon or bounce notification -- just absorbed by their filter. Their email filter (Proofpoint) rejected his email because of a URL in our email footer. It looks normal to a human, but when hovering over it, the actual URL starts with linkprotect.",
+      "published": "2026-08-25T19:46:47+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "22 points · 2 comments",
+      "summary": "56 points · 30 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -48,13 +83,6 @@
       "published": "2026-08-25T18:31:42+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-      "url": "https://pgbot.dev/",
-      "summary": "25 points · 5 comments",
-      "published": "2026-08-25T18:30:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
       "url": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
@@ -65,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "514 points · 81 comments",
+      "summary": "722 points · 110 comments",
       "published": "2026-08-25T18:02:22+00:00"
     },
     {
@@ -74,6 +102,13 @@
       "url": "https://slashdot.org/story/26/08/25/1756243/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Ars Technica: For years, AI industry watchers of all stripes have been warning of a coming jobs apocalypse driven by ultra-intelligent AI systems that will be able to replicate most human tasks more cheaply. Now, newly updated research from Stanford University economists suggests AI seems to be causing significant entry-level job losses for younger workers in some fields, even as older workers appear largely unaffected so far. The August 2026 edition of \"",
       "published": "2026-08-25T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Firefox 157 will include JPEG XL by default on all platforms",
+      "url": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+      "summary": "142 points · 18 comments",
+      "published": "2026-08-25T17:55:23+00:00"
     },
     {
       "source": "HACKER NEWS",
@@ -86,21 +121,21 @@
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "50 points · 22 comments",
+      "summary": "74 points · 27 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "265 points · 184 comments",
+      "summary": "326 points · 226 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "90 points · 42 comments",
+      "summary": "115 points · 61 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -114,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "My Friend Aaron",
       "url": "https://rorz.io/writing/my-friend-aaron",
-      "summary": "183 points · 41 comments",
+      "summary": "263 points · 64 comments",
       "published": "2026-08-25T16:53:33+00:00"
     },
     {
@@ -128,22 +163,15 @@
       "source": "HACKER NEWS",
       "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
       "url": "https://github.com/jeffhajewski/latticedb",
-      "summary": "47 points · 14 comments",
+      "summary": "59 points · 20 comments",
       "published": "2026-08-25T16:52:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Starbase, LA",
       "url": "https://www.spacex.com/sites/starbase-la",
-      "summary": "109 points · 123 comments",
+      "summary": "139 points · 175 comments",
       "published": "2026-08-25T16:37:52+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The Sandbox Paradigm: Why emulation and dynamic analysis are a SOC analyst's best friend (and what they miss)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vy4qi8/the_sandbox_paradigm_why_emulation_and_dynamic/",
-      "summary": "Hey everyone, I’ve been diving deeper into dynamic analysis lately, and it’s incredible how much a solid sandbox setup reveals that static analysis completely misses—especially when dealing with packed samples, heavily obfuscated scripts, or evasive malware. However, dealing with modern evasive techniques (like environment checks, timing delays, or hardware fingerprinting) reminds us that sandboxes aren't a silver bullet. For those of you working in threat hunting or incident response: What are ",
-      "published": "2026-08-25T16:29:41+00:00"
     },
     {
       "source": "REDDIT",
@@ -174,17 +202,10 @@
       "published": "2026-08-25T15:49:23+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Security+ or Security X?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vy2vqe/security_or_security_x/",
-      "summary": "Is there one that’s better than the other? Will one be more likely to get me a job than the other? Just trying to learn more and would love some advice on how I can get into my very first tech/IT role submitted by /u/xWinterSchnee [link] [comments]",
-      "published": "2026-08-25T15:23:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "17 points · 1 comments",
+      "summary": "38 points · 11 comments",
       "published": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -205,14 +226,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "184 points · 111 comments",
+      "summary": "199 points · 113 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "168 points · 139 comments",
+      "summary": "188 points · 144 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -226,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "125 points · 66 comments",
+      "summary": "163 points · 109 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -254,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "343 points · 179 comments",
+      "summary": "359 points · 196 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
@@ -268,14 +289,14 @@
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "612 points · 362 comments",
+      "summary": "629 points · 380 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "754 points · 629 comments",
+      "summary": "798 points · 708 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -314,6 +335,13 @@
       "published": "2026-08-25T11:52:43+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Don't Wordle",
+      "url": "https://dontwordle.com/",
+      "summary": "256 points · 109 comments",
+      "published": "2026-08-25T11:49:48+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
       "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
@@ -347,13 +375,6 @@
       "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
       "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below - CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation",
       "published": "2026-08-25T08:34:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Building certgrep.sh: a free certificate transparency search engine",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxtm5f/building_certgrepsh_a_free_certificate/",
-      "summary": "submitted by /u/JDBHub [link] [comments]",
-      "published": "2026-08-25T08:11:30+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -412,13 +433,6 @@
       "published": "2026-08-24T21:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Raspberry Pi Shares Its Official Tutorial For Making a Cyberdeck",
-      "url": "https://hardware.slashdot.org/story/26/08/24/1853204/raspberry-pi-shares-its-official-tutorial-for-making-a-cyberdeck?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Raspberry Pi has published an official guide for building a cyberdeck, leaning into a viral trend of homemade portable computers built from repurposed cases, purses, and other oddball hardware. The guide uses a Raspberry Pi 5, keyboard, battery, and Pelican-style case. The Verge reports: Raspberry Pi's head of social, Ashley Whittaker, acknowledged the cyberdeck trend today, saying \"we haven't been able to get away from cyberdecks this year.\" Raspberry Pi has also increased its prices multiple t",
-      "published": "2026-08-24T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
@@ -454,25 +468,11 @@
       "published": "2026-08-24T17:32:57+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Tracking Costco gas prices",
-      "url": "https://www.jack.bio/blog/costco-gas-tracking",
-      "summary": "36 points · 21 comments",
-      "published": "2026-08-24T17:21:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
       "url": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
       "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
       "published": "2026-08-24T15:17:16+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Teams now lets admins block external bots from meetings",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-      "published": "2026-08-24T14:00:19+00:00"
     },
     {
       "source": "REDDIT",
