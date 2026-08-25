@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T22:34:15.878882+00:00",
+  "updated": "2026-08-25T22:58:02.346545+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,11 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "I joined a discord server, and everyone knew what other servers i've been in, what messages/images i've sent, what all my profile pictures were, how did they do this?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyesnq/i_joined_a_discord_server_and_everyone_knew_what/",
-      "summary": "submitted by /u/Severe_Specific_8680 [link] [comments]",
-      "published": "2026-08-25T22:32:06+00:00"
+      "source": "HACKER NEWS",
+      "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+      "url": "https://github.com/swimmingbrain/texbrain",
+      "summary": "8 points · 2 comments",
+      "published": "2026-08-25T22:08:50+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -55,13 +55,6 @@
       "published": "2026-08-25T21:45:24+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
-      "url": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
-      "summary": "10 points · 2 comments",
-      "published": "2026-08-25T21:43:37+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Which Varonis competitors are actually worth evaluating?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vydgcb/which_varonis_competitors_are_actually_worth/",
@@ -72,7 +65,7 @@
       "source": "HACKER NEWS",
       "title": "Python's pre-declared constants are kinda weird",
       "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "summary": "39 points · 4 comments",
+      "summary": "63 points · 18 comments",
       "published": "2026-08-25T21:39:02+00:00"
     },
     {
@@ -81,6 +74,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
       "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
       "published": "2026-08-25T21:39:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "XCancel also down, at least for time being",
+      "url": "https://news.ycombinator.com/item?id=49440786",
+      "summary": "72 points · 5 comments",
+      "published": "2026-08-25T21:18:23+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -100,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "27 points · 14 comments",
+      "summary": "33 points · 17 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -125,17 +125,24 @@
       "published": "2026-08-25T20:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "mystery cudasvc wrapper in my boss' email - HELP:)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyac0d/mystery_cudasvc_wrapper_in_my_boss_email_help/",
+      "summary": "Hi, This could be the dumbest question ever, or it could be a real mystery. I only barely understand what I'm asking. So, please answer like I'm 5. lol We regularly email a client and we recently discovered they can't get emails from our CEO, no mailer daemon or bounce notification -- just absorbed by their filter. Their email filter (Proofpoint) rejected his email because of a URL in our email footer. It looks normal to a human, but when hovering over it, the actual URL starts with linkprotect.",
+      "published": "2026-08-25T19:46:47+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "41 points · 12 comments",
+      "summary": "50 points · 14 comments",
       "published": "2026-08-25T19:38:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "169 points · 113 comments",
+      "summary": "189 points · 117 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -156,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "1003 points · 151 comments",
+      "summary": "1034 points · 156 comments",
       "published": "2026-08-25T18:02:22+00:00"
     },
     {
@@ -177,21 +184,21 @@
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "97 points · 39 comments",
+      "summary": "100 points · 41 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nitter project received cease and desist",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "473 points · 315 comments",
+      "summary": "500 points · 345 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "154 points · 108 comments",
+      "summary": "156 points · 110 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -200,13 +207,6 @@
       "url": "https://tech.slashdot.org/story/26/08/25/168248/waymo-is-expanding-to-germany?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Waymo plans to launch its robotaxi service in Munich by the end of 2027, marking the Google-owned company's first expansion into the European Union. \"It already operates in 11 cities in the United States and has applied for a license in the United Kingdom to launch its robotaxis in London this year,\" notes Reuters. From the report: The Google subsidiary will start rolling out vehicles in the German city this year, which will be manually driven while the company \"starts with high-definition mappi",
       "published": "2026-08-25T17:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
-      "url": "https://github.com/jeffhajewski/latticedb",
-      "summary": "87 points · 28 comments",
-      "published": "2026-08-25T16:52:05+00:00"
     },
     {
       "source": "REDDIT",
@@ -247,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "73 points · 16 comments",
+      "summary": "80 points · 16 comments",
       "published": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -268,14 +268,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "235 points · 128 comments",
+      "summary": "240 points · 132 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "226 points · 170 comments",
+      "summary": "232 points · 170 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -289,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "246 points · 164 comments",
+      "summary": "257 points · 174 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -317,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "394 points · 223 comments",
+      "summary": "400 points · 225 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
@@ -331,14 +331,14 @@
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "666 points · 407 comments",
+      "summary": "673 points · 411 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "874 points · 807 comments",
+      "summary": "882 points · 823 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
