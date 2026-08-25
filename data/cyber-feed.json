@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T07:50:06.729296+00:00",
+  "updated": "2026-08-25T08:51:07.713978+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,17 +28,17 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Building certgrep.sh: a free certificate transparency search engine",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxtm5f/building_certgrepsh_a_free_certificate/",
+      "summary": "submitted by /u/JDBHub [link] [comments]",
+      "published": "2026-08-25T08:11:30+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "GitHub - JuanLunaIA/aegis-latent-core: AI governance and evidence gateway for multi-provider LLM applications. FastAPI + optional Rust core for policy, WAF, egress, rate limits, sessions, signed durable evidence, and fail-closed error paths. Self-hosted; no certification or SLO claim.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vxt90l/github_juanlunaiaaegislatentcore_ai_governance/",
       "summary": "Hi everyone, I've been looking into how enterprises are deploying LLMs, and there's a massive compliance gap. If an AI agent makes a discriminatory financial decision or leaks medical data, standard access logs (Splunk, SQL) are legally deniable. A database admin can just alter the row. I spent the last few months building an open-source (AGPLv3) AI Evidence Gateway called Aegis Latent Core to fix this. Instead of normal logging, it treats AI inference as a cryptographic ledger: 1. Rust WAL: It ",
       "published": "2026-08-25T07:49:47+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "My M friend’s number is being SMS bombed need help",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxt4qe/my_m_friends_number_is_being_sms_bombed_need_help/",
-      "summary": "My friend’s number is being SMS bombed — need help My friend is suddenly receiving dozens of identical “❤️❤️❤️ Janu I Love You ❤️❤️❤️” messages from 20+ different numbers within minutes. Even more concerning: another person is receiving messages from my friend’s number, and some messages are appearing in his Sent folder, even though he didn’t send them. Could this be SMS bombing, a compromised phone/app, or a SIM issue? What should we do right now? How can we stop it and check whether his phone ",
-      "published": "2026-08-25T07:42:35+00:00"
     },
     {
       "source": "REDDIT",
@@ -65,14 +65,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Screen memory without screenshots, just text to Markdown",
       "url": "https://github.com/dragthelake/ambient-context",
-      "summary": "32 points · 12 comments",
+      "summary": "42 points · 15 comments",
       "published": "2026-08-25T04:33:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Headlong: A Microharness for Persistent Agents",
       "url": "https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents",
-      "summary": "47 points · 15 comments",
+      "summary": "51 points · 17 comments",
       "published": "2026-08-25T03:54:19+00:00"
     },
     {
@@ -86,22 +86,15 @@
       "source": "HACKER NEWS",
       "title": "SiFive's First Server Platform",
       "url": "https://chipsandcheese.com/p/sifives-first-server-platform",
-      "summary": "35 points · 7 comments",
+      "summary": "43 points · 8 comments",
       "published": "2026-08-25T03:06:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Universities Should Prepare Founders",
       "url": "https://paulgraham.com/prepare.html",
-      "summary": "99 points · 121 comments",
+      "summary": "111 points · 133 comments",
       "published": "2026-08-25T01:40:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Was modern art a CIA psy-op? (2020)",
-      "url": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-      "summary": "68 points · 80 comments",
-      "published": "2026-08-25T01:35:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -128,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
       "url": "https://github.com/murerkinn/bookshelf",
-      "summary": "84 points · 32 comments",
+      "summary": "90 points · 33 comments",
       "published": "2026-08-24T23:00:37+00:00"
     },
     {
@@ -142,14 +135,14 @@
       "source": "HACKER NEWS",
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-      "summary": "412 points · 108 comments",
+      "summary": "438 points · 119 comments",
       "published": "2026-08-24T22:13:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Moon (2024)",
       "url": "https://ciechanow.ski/moon/",
-      "summary": "165 points · 30 comments",
+      "summary": "175 points · 32 comments",
       "published": "2026-08-24T22:06:02+00:00"
     },
     {
@@ -172,6 +165,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
       "published": "2026-08-24T21:14:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Vintage Artificial Intelligence: Before It Got Awkward",
+      "url": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "summary": "90 points · 18 comments",
+      "published": "2026-08-24T21:01:38+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -240,14 +240,14 @@
       "source": "HACKER NEWS",
       "title": "Where did all the public bathrooms go?",
       "url": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
-      "summary": "222 points · 511 comments",
+      "summary": "230 points · 532 comments",
       "published": "2026-08-24T17:07:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The entire city of San Francisco as a video game",
       "url": "https://sf.thijs.gg/",
-      "summary": "440 points · 139 comments",
+      "summary": "448 points · 140 comments",
       "published": "2026-08-24T17:05:38+00:00"
     },
     {
@@ -275,14 +275,14 @@
       "source": "HACKER NEWS",
       "title": "Jabber/XMPP: 25 Years of Digital Independence",
       "url": "https://gultsch.de/posts/25-years-of-digital-independence/",
-      "summary": "216 points · 109 comments",
+      "summary": "227 points · 120 comments",
       "published": "2026-08-24T15:51:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
       "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-      "summary": "681 points · 272 comments",
+      "summary": "696 points · 289 comments",
       "published": "2026-08-24T15:28:04+00:00"
     },
     {
@@ -296,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
-      "summary": "837 points · 589 comments",
+      "summary": "850 points · 606 comments",
       "published": "2026-08-24T15:08:17+00:00"
     },
     {
@@ -331,14 +331,14 @@
       "source": "HACKER NEWS",
       "title": "What's new in Emacs 31.1",
       "url": "https://www.masteringemacs.org/article/whats-new-in-emacs-311",
-      "summary": "108 points · 23 comments",
+      "summary": "123 points · 24 comments",
       "published": "2026-08-24T13:07:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Europe is killing makers and micro-entrepreneurs",
       "url": "https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs",
-      "summary": "1270 points · 768 comments",
+      "summary": "1313 points · 810 comments",
       "published": "2026-08-24T13:05:25+00:00"
     },
     {
@@ -429,14 +429,14 @@
       "source": "HACKER NEWS",
       "title": "Training AI to Paint with Code",
       "url": "https://surya.website/rling-qwen-to-paint-with-code",
-      "summary": "81 points · 7 comments",
+      "summary": "82 points · 9 comments",
       "published": "2026-08-23T19:39:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: I wrote a BASIC interpreter that boots on UEFI machines",
       "url": "https://tarjan.itch.io/thoreaubasic",
-      "summary": "43 points · 11 comments",
+      "summary": "56 points · 13 comments",
       "published": "2026-08-23T17:48:12+00:00"
     },
     {
@@ -464,7 +464,7 @@
       "source": "HACKER NEWS",
       "title": "Nostr is an inclusive communication commons",
       "url": "https://nostr.org/",
-      "summary": "112 points · 36 comments",
+      "summary": "132 points · 61 comments",
       "published": "2026-08-22T13:49:01+00:00"
     },
     {
