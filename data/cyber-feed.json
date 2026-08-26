@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T04:11:23.072544+00:00",
+  "updated": "2026-08-26T05:06:59.005358+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -42,16 +42,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
-      "url": "https://news.ycombinator.com/item?id=49443820",
-      "summary": "20 points · 30 comments",
-      "published": "2026-08-26T03:17:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
       "url": "https://arxiv.org/abs/2607.21503",
-      "summary": "9 points · 3 comments",
+      "summary": "12 points · 3 comments",
       "published": "2026-08-26T02:35:25+00:00"
     },
     {
@@ -72,7 +65,7 @@
       "source": "HACKER NEWS",
       "title": "Queryable Executables",
       "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "51 points · 6 comments",
+      "summary": "59 points · 7 comments",
       "published": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -86,14 +79,14 @@
       "source": "HACKER NEWS",
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "url": "https://github.com/runetes/maiao",
-      "summary": "48 points · 19 comments",
+      "summary": "49 points · 19 comments",
       "published": "2026-08-25T22:40:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "url": "https://github.com/swimmingbrain/texbrain",
-      "summary": "69 points · 11 comments",
+      "summary": "71 points · 12 comments",
       "published": "2026-08-25T22:08:50+00:00"
     },
     {
@@ -109,6 +102,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
       "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
       "published": "2026-08-25T21:58:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "NGFW IP reputation score-based policy?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vydm87/ngfw_ip_reputation_scorebased_policy/",
+      "summary": "Is it possible to configure IP reputation score-based policy on Palo Alto firewall that blocks traffic to and from public IP addresses with low reputation score? submitted by /u/Ok_Technician_2653 [link] [comments]",
+      "published": "2026-08-25T21:45:24+00:00"
     },
     {
       "source": "REDDIT",
@@ -142,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "87 points · 38 comments",
+      "summary": "89 points · 39 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -167,24 +167,17 @@
       "published": "2026-08-25T20:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "mystery cudasvc wrapper in my boss' email - HELP:)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyac0d/mystery_cudasvc_wrapper_in_my_boss_email_help/",
-      "summary": "Hi, This could be the dumbest question ever, or it could be a real mystery. I only barely understand what I'm asking. So, please answer like I'm 5. lol We regularly email a client and we recently discovered they can't get emails from our CEO, no mailer daemon or bounce notification -- just absorbed by their filter. Their email filter (Proofpoint) rejected his email because of a URL in our email footer. It looks normal to a human, but when hovering over it, the actual URL starts with linkprotect.",
-      "published": "2026-08-25T19:46:47+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "106 points · 56 comments",
+      "summary": "108 points · 58 comments",
       "published": "2026-08-25T19:38:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "322 points · 158 comments",
+      "summary": "326 points · 158 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -219,14 +212,14 @@
       "source": "HACKER NEWS",
       "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "721 points · 619 comments",
+      "summary": "729 points · 623 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "213 points · 152 comments",
+      "summary": "214 points · 152 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -238,9 +231,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+      "url": "https://github.com/jeffhajewski/latticedb",
+      "summary": "129 points · 36 comments",
+      "published": "2026-08-25T16:52:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Tooltips need a delay, and then they need to skip it",
       "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
-      "summary": "133 points · 34 comments",
+      "summary": "134 points · 34 comments",
       "published": "2026-08-25T16:35:36+00:00"
     },
     {
@@ -289,14 +289,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "288 points · 146 comments",
+      "summary": "290 points · 147 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "295 points · 201 comments",
+      "summary": "296 points · 202 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -310,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "383 points · 257 comments",
+      "summary": "389 points · 256 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -338,21 +338,21 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "457 points · 279 comments",
+      "summary": "458 points · 282 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "725 points · 479 comments",
+      "summary": "727 points · 481 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "1026 points · 947 comments",
+      "summary": "1032 points · 953 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
