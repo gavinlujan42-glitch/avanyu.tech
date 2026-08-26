@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T06:59:20.266935+00:00",
+  "updated": "2026-08-26T07:51:55.243191+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,6 +28,34 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Would you normally test whether test/trial accounts can access production data?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyq44j/would_you_normally_test_whether_testtrial/",
+      "summary": "Looking for some input from people who work in software security, IAM/RBAC, or government IT assurance. I’m not particularly technical, so I’m trying to get my head around what would normally be expected here. Say you’ve got a system holding sensitive personal information. It has a live production environment, a training environment, and role-based access controls. Before launch it goes through a formal Certification & Accreditation process and gets an Authority to Operate. Later on, some legiti",
+      "published": "2026-08-26T07:28:51+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Books recommendations",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyponr/books_recommendations/",
+      "summary": "Hi all - now that AI is becoming established tool available to anyone, I would like to educate myself about the key principles of cyber security to be more prepared about potential risks and things I should be worried about from a strategic point of view. Are there any good and up to date books out there you’d recommend? Thanks! submitted by /u/pieduke88 [link] [comments]",
+      "published": "2026-08-26T07:04:01+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "SpaceX Plans to Build a $100 Billion Spaceport In Louisiana",
+      "url": "https://science.slashdot.org/story/26/08/25/2337244/spacex-plans-to-build-a-100-billion-spaceport-in-louisiana?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "SpaceX plans to spend up to $100 billion building a new Starship launch facility in Vermilion Parish, Louisiana, which the state says could eventually \"support thousands of launches annually.\" CNBC reports: Once built, Starbase, LA will serve as the main launch facility for Starship, SpaceX's in-development rocket that's the largest ever built and designed to be fully reusable. Musk has aspirations to massively expand SpaceX's Starlink satellite network, to launch orbital data centers and to som",
+      "published": "2026-08-26T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the",
+      "published": "2026-08-26T06:27:07+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Chinese State Hackers Use Cheap AI Models to Double Attack Volume",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vyp0w1/chinese_state_hackers_use_cheap_ai_models_to/",
       "summary": "submitted by /u/Revolutionary-Cod276 [link] [comments]",
@@ -44,14 +72,21 @@
       "source": "HACKER NEWS",
       "title": "More than half of adults in U.S. say they lack basic statistical understanding",
       "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "summary": "39 points · 39 comments",
+      "summary": "67 points · 93 comments",
       "published": "2026-08-26T05:49:20+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is credit-metered and drives lures across",
+      "published": "2026-08-26T05:47:28+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Secret Cold War IBM Supercomputer Was Built for One Job",
+      "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
       "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "summary": "6 points · 0 comments",
+      "summary": "20 points · 6 comments",
       "published": "2026-08-26T05:09:07+00:00"
     },
     {
@@ -65,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
       "url": "https://arxiv.org/abs/2607.21503",
-      "summary": "24 points · 12 comments",
+      "summary": "42 points · 14 comments",
       "published": "2026-08-26T02:35:25+00:00"
     },
     {
@@ -86,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Queryable Executables",
       "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "114 points · 18 comments",
+      "summary": "141 points · 23 comments",
       "published": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -100,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "url": "https://github.com/runetes/maiao",
-      "summary": "63 points · 33 comments",
+      "summary": "71 points · 36 comments",
       "published": "2026-08-25T22:40:07+00:00"
     },
     {
@@ -116,13 +151,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
       "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
       "published": "2026-08-25T21:58:14+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "NGFW IP reputation score-based policy?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vydm87/ngfw_ip_reputation_scorebased_policy/",
-      "summary": "Is it possible to configure IP reputation score-based policy on Palo Alto firewall that blocks traffic to and from public IP addresses with low reputation score? submitted by /u/Ok_Technician_2653 [link] [comments]",
-      "published": "2026-08-25T21:45:24+00:00"
     },
     {
       "source": "REDDIT",
@@ -156,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "99 points · 44 comments",
+      "summary": "109 points · 46 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -177,14 +205,14 @@
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "127 points · 75 comments",
+      "summary": "139 points · 80 comments",
       "published": "2026-08-25T19:38:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "353 points · 174 comments",
+      "summary": "369 points · 183 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -212,21 +240,21 @@
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "149 points · 68 comments",
+      "summary": "156 points · 72 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "810 points · 682 comments",
+      "summary": "854 points · 706 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "224 points · 167 comments",
+      "summary": "230 points · 169 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -282,14 +310,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "302 points · 155 comments",
+      "summary": "307 points · 160 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "320 points · 209 comments",
+      "summary": "331 points · 210 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -303,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "429 points · 281 comments",
+      "summary": "449 points · 287 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -331,21 +359,21 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "479 points · 297 comments",
+      "summary": "487 points · 297 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "749 points · 491 comments",
+      "summary": "757 points · 499 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "1078 points · 1024 comments",
+      "summary": "1101 points · 1052 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -419,25 +447,11 @@
       "published": "2026-08-25T08:34:07+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "AliExpress Leverages User Audio Systems For Fingerprinting",
-      "url": "https://yro.slashdot.org/story/26/08/25/0548233/aliexpress-leverages-user-audio-systems-for-fingerprinting?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A developer says AliExpress is using the browser's WebAudio API to help fingerprint users by playing inaudible audio and measuring tiny differences in how their devices process it. CyberNews reports: The developer, \"laserphile,\" wrote on their blog that they recently ran into some weird issues with their Bluetooth headphones. They couldn't play music via their phone when, at the same time, the AliExpress website was open on their PC. The headphones, laserphile explained, support multipoint Bluet",
-      "published": "2026-08-25T07:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
       "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to",
       "published": "2026-08-25T06:12:35+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What logs have shown a surprisingly high value that you can’t live without now",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxlv4e/what_logs_have_shown_a_surprisingly_high_value/",
-      "summary": "I saw a similar post earlier about “logging everything“ which led me to think about which logs have you collected, besides the typical sources, which has brought great value to your detections and threat hunting. I‘m aware this is a subjective question. submitted by /u/IamOnlyLookingThanks [link] [comments]",
-      "published": "2026-08-25T01:26:08+00:00"
     },
     {
       "source": "OSINT",
@@ -452,20 +466,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
       "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
       "published": "2026-08-24T19:26:32+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "url": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-      "published": "2026-08-24T17:41:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "url": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
-      "published": "2026-08-24T17:41:11+00:00"
     },
     {
       "source": "REDDIT",
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "summary": "35 points · 12 comments",
+      "summary": "63 points · 19 comments",
       "published": "2026-08-22T01:52:24+00:00"
     },
     {
