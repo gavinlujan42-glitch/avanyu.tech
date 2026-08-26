@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T09:50:18.776394+00:00",
+  "updated": "2026-08-26T10:40:47.032772+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,41 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "url": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "summary": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was first reported by ABC News on August 10, based on chat logs and screenshots the user supplied. He had asked an",
+      "published": "2026-08-26T10:27:23+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "MmMapIoSpace Returns NULL: Tracing the Real Kernel Mechanism Through ntoskrnl",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyt6t5/mmmapiospace_returns_null_tracing_the_real_kernel/",
+      "summary": "submitted by /u/Important_Map6928 [link] [comments]",
+      "published": "2026-08-26T10:25:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "summary": "20 points · 2 comments",
+      "published": "2026-08-26T10:04:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nobody Wants Artisanal Code Anymore",
+      "url": "https://gordonbeeming.com/blog/2026-04-29/nobody-wants-artisanal-code-anymore",
+      "summary": "12 points · 10 comments",
+      "published": "2026-08-26T10:03:37+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn. The accounts \"were being used to promote the International Burke Institute (IBI), a",
+      "published": "2026-08-26T09:38:45+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Staff engineers shift from solving problems to shaping systems",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vys8je/staff_engineers_shift_from_solving_problems_to/",
@@ -34,31 +69,24 @@
       "published": "2026-08-26T09:33:23+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "New tool for sanitizing log files before sending them to third-party platforms for processing, analysis, or troubleshooting.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyrx3k/new_tool_for_sanitizing_log_files_before_sending/",
-      "summary": "submitted by /u/Suitable_Air [link] [comments]",
-      "published": "2026-08-26T09:15:26+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: Banking Access Index – 19 US banking providers, 8 countries, CC-BY",
       "url": "https://www.globalsolo.global/data/banking-access-index",
-      "summary": "3 points · 0 comments",
+      "summary": "8 points · 6 comments",
       "published": "2026-08-26T09:01:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Value Classes Still Need Compiler Sympathy",
       "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-      "summary": "4 points · 0 comments",
+      "summary": "17 points · 4 comments",
       "published": "2026-08-26T08:59:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oldinsurancemaps.net is now a Charter Project",
       "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "summary": "9 points · 0 comments",
+      "summary": "41 points · 3 comments",
       "published": "2026-08-26T08:57:46+00:00"
     },
     {
@@ -72,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "RAG Is Simpler Than You Think",
       "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "summary": "10 points · 0 comments",
+      "summary": "46 points · 23 comments",
       "published": "2026-08-26T08:39:17+00:00"
     },
     {
@@ -86,15 +114,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Buslens – where can I get to by bus? (UK)",
       "url": "https://rupertlinacre.com/buslens/",
-      "summary": "19 points · 7 comments",
+      "summary": "32 points · 21 comments",
       "published": "2026-08-26T07:36:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
-      "summary": "51 points · 35 comments",
-      "published": "2026-08-26T07:31:31+00:00"
     },
     {
       "source": "OSINT",
@@ -135,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
       "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "summary": "36 points · 10 comments",
+      "summary": "43 points · 12 comments",
       "published": "2026-08-26T05:09:07+00:00"
     },
     {
@@ -144,13 +165,6 @@
       "url": "https://science.slashdot.org/story/26/08/25/2331240/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Ars Technica: Antibodies play a central role in your body's immune defense. But they're also nearly ubiquitous in biological research, being essential for several widely used lab techniques. While some researchers need to go through the process of producing their own antibodies, antibodies to many key proteins are commercially available and can be ordered for overnight delivery. In May, however, Reese Richardson, a post-doc at Northwestern University, dis",
       "published": "2026-08-26T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
-      "url": "https://arxiv.org/abs/2607.21503",
-      "summary": "53 points · 17 comments",
-      "published": "2026-08-26T02:35:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -170,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Queryable Executables",
       "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "184 points · 48 comments",
+      "summary": "198 points · 53 comments",
       "published": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -184,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "url": "https://github.com/runetes/maiao",
-      "summary": "81 points · 47 comments",
+      "summary": "83 points · 50 comments",
       "published": "2026-08-25T22:40:07+00:00"
     },
     {
@@ -233,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "124 points · 51 comments",
+      "summary": "133 points · 54 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -254,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "397 points · 194 comments",
+      "summary": "403 points · 198 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -282,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "246 points · 183 comments",
+      "summary": "256 points · 183 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -345,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "483 points · 308 comments",
+      "summary": "493 points · 317 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -373,21 +387,21 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "497 points · 310 comments",
+      "summary": "500 points · 317 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "769 points · 508 comments",
+      "summary": "770 points · 515 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "1143 points · 1105 comments",
+      "summary": "1152 points · 1125 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -424,20 +438,6 @@
       "url": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
       "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the",
       "published": "2026-08-25T11:52:43+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "url": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development",
-      "published": "2026-08-25T11:33:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "url": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a",
-      "published": "2026-08-25T11:14:07+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "summary": "99 points · 28 comments",
+      "summary": "110 points · 33 comments",
       "published": "2026-08-22T01:52:24+00:00"
     },
     {
