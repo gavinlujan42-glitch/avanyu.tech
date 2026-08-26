@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T13:59:53.043374+00:00",
+  "updated": "2026-08-26T14:51:20.613959+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,10 +27,73 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
+      "published": "2026-08-26T14:47:51+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Are we giving AI agents too much trust just because they act like “employees”?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyyuml/are_we_giving_ai_agents_too_much_trust_just/",
+      "summary": "I've been thinking about this with the rise of AI agents that can read emails, access internal docs, call APIs, write code, and actually take actions A lot of the security conversation seems to focus on what data an agent can access But shouldn't we also be asking What is the most dangerous action we're allowing the agent to take? For example, an agent might legitimately need read access to a repository, but does it really need the ability to: merge code create credentials modify production infr",
+      "published": "2026-08-26T14:35:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cyber Security Insurers Cover Only ~32% of Ransomware Incident Cost",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyymbh/cyber_security_insurers_cover_only_32_of/",
+      "summary": "submitted by /u/ethervariance161 [link] [comments]",
+      "published": "2026-08-26T14:26:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+      "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
+      "published": "2026-08-26T14:17:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Twitter Viewer – View Twitter Without Account",
+      "url": "https://twitterwebviewer.com/",
+      "summary": "27 points · 6 comments",
+      "published": "2026-08-26T14:11:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GLM-5.3-Flash",
+      "url": "https://z.ai/blog/glm-5.3-flash",
+      "summary": "165 points · 49 comments",
+      "published": "2026-08-26T14:08:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Snowflake ends service-account passwords. Now comes the hard part",
+      "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+      "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...]",
+      "published": "2026-08-26T14:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI Is a Harsh Mistress",
+      "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
+      "summary": "7 points · 0 comments",
+      "published": "2026-08-26T13:45:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "url": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a subscription-based phishing platform that",
+      "published": "2026-08-26T13:44:31+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Meta reaches $16.68B settlement over social media harms to children",
       "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-      "summary": "53 points · 23 comments",
+      "summary": "187 points · 138 comments",
       "published": "2026-08-26T13:28:32+00:00"
     },
     {
@@ -41,6 +104,13 @@
       "published": "2026-08-26T13:17:54+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
+      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
+      "summary": "40 points · 20 comments",
+      "published": "2026-08-26T13:13:55+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Medical device maker Boston Scientific is being hit by a cyberattack. The shares are falling",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vywm1q/medical_device_maker_boston_scientific_is_being/",
@@ -48,17 +118,24 @@
       "published": "2026-08-26T13:07:37+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "url": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Both organizations were fully compromised at the domain level, and in both, the red team also",
+      "published": "2026-08-26T13:07:02+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "AWS Acquires DuckDB",
       "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "summary": "273 points · 61 comments",
+      "summary": "436 points · 97 comments",
       "published": "2026-08-26T12:59:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
       "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "summary": "133 points · 43 comments",
+      "summary": "241 points · 78 comments",
       "published": "2026-08-26T12:52:12+00:00"
     },
     {
@@ -72,22 +149,8 @@
       "source": "HACKER NEWS",
       "title": "A curmudgeon tries a language server",
       "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "summary": "25 points · 3 comments",
+      "summary": "38 points · 15 comments",
       "published": "2026-08-26T12:48:37+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Security+",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyw3xm/security/",
-      "summary": "Hey guys, Just wanted to ask if do you think security+ certificate will be useful to get a job or internship for an undergrad or not submitted by /u/Antique_Yellow_5859 [link] [comments]",
-      "published": "2026-08-26T12:46:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
-      "url": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
-      "summary": "147 points · 16 comments",
-      "published": "2026-08-26T12:11:19+00:00"
     },
     {
       "source": "OSINT",
@@ -135,14 +198,14 @@
       "source": "HACKER NEWS",
       "title": "Beyond Recall and the Illusion of Competence",
       "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-      "summary": "46 points · 16 comments",
+      "summary": "58 points · 18 comments",
       "published": "2026-08-26T10:07:02+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
       "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "summary": "264 points · 102 comments",
+      "summary": "320 points · 118 comments",
       "published": "2026-08-26T10:04:55+00:00"
     },
     {
@@ -151,13 +214,6 @@
       "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
       "summary": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack, Telegram, X, Facebook and LinkedIn. The accounts \"were being used to promote the International Burke Institute (IBI), a",
       "published": "2026-08-26T09:38:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "XCancel and Nitter are receiving C&D letters from XCorp",
-      "url": "https://news.ycombinator.com/item?id=49446210",
-      "summary": "216 points · 81 comments",
-      "published": "2026-08-26T09:34:38+00:00"
     },
     {
       "source": "REDDIT",
@@ -170,28 +226,21 @@
       "source": "HACKER NEWS",
       "title": "Value Classes Still Need Compiler Sympathy",
       "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-      "summary": "58 points · 20 comments",
+      "summary": "61 points · 24 comments",
       "published": "2026-08-26T08:59:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oldinsurancemaps.net is now a Charter Project",
       "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "summary": "117 points · 19 comments",
+      "summary": "124 points · 21 comments",
       "published": "2026-08-26T08:57:46+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Looking for guidance",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyrblt/looking_for_guidance/",
-      "summary": "Hey @all, I'm Rishab. I'm in my 3rd year of B.Tech in CS. Initially I was just fascinated by cybersecurity but later as my interest grew, I started to see a career in it. Things I've learnt so far include: Comp. Networking, OS, writing Bash scripts (smaller ones, but they work), OOP, OSINT(intermediate), decent in Linux. Things I'm learning: ML, Cryptography (both as part of my coursework), and Bug hunting (when time allows, Yaworski's book). So far, I have participated in 4-5 CTF, my highest in",
-      "published": "2026-08-26T08:41:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RAG Is Simpler Than You Think",
       "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "summary": "225 points · 104 comments",
+      "summary": "266 points · 112 comments",
       "published": "2026-08-26T08:39:17+00:00"
     },
     {
@@ -261,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Queryable Executables",
       "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "261 points · 73 comments",
+      "summary": "268 points · 74 comments",
       "published": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -317,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "460 points · 210 comments",
+      "summary": "466 points · 214 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -398,13 +447,6 @@
       "published": "2026-08-25T14:07:37+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "543 points · 342 comments",
-      "published": "2026-08-25T14:06:02+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
       "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
@@ -412,53 +454,11 @@
       "published": "2026-08-25T14:01:11+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
-      "published": "2026-08-25T13:51:58+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "url": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
-      "published": "2026-08-25T13:19:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "795 points · 527 comments",
-      "published": "2026-08-25T13:03:17+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "1233 points · 1182 comments",
+      "summary": "1252 points · 1194 comments",
       "published": "2026-08-25T13:01:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "url": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-      "published": "2026-08-25T13:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "url": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode. The vulnerability, tracked",
-      "published": "2026-08-25T12:43:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-      "published": "2026-08-25T12:04:02+00:00"
     },
     {
       "source": "REDDIT",
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "summary": "170 points · 51 comments",
+      "summary": "183 points · 53 comments",
       "published": "2026-08-22T01:52:24+00:00"
     },
     {
