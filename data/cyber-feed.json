@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T23:50:30.367348+00:00",
+  "updated": "2026-08-26T01:46:11.111355+00:00",
   "item_count": 64,
   "sources": [
     "CISA",
@@ -33,6 +33,20 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Not interested in working for Google, Apple, Amazon, etc. Who are actually the best cybersecurity employers in your opinion?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyijkn/not_interested_in_working_for_google_apple_amazon/",
+      "summary": "submitted by /u/bankster24 [link] [comments]",
+      "published": "2026-08-26T01:11:46+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Google Staff Security Engineer (Cloud CISO / Product Security) Interview - What should I expect?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyhvwh/google_staff_security_engineer_cloud_ciso_product/",
+      "summary": "I have an upcoming interview with Google for a Staff Security Engineer - Product Security Engineering, Cloud CISO role. The process is 3 rounds, 45 minutes each : Round 1: Security domain + coding Coding is expected to be on par with a Software Engineer interview Security-focused and closer to production-level coding Rounds 2 & 3: Security domain + role-specific Cloud security Product security Complex security scenarios / hypotheticals One round will include AI/ML knowledge Recruiter also mentio",
+      "published": "2026-08-26T00:42:23+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "I made the NIS2 incident-reporting path explicit. Which part fails during a real incident?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vyfy5q/i_made_the_nis2_incidentreporting_path_explicit/",
       "summary": "The 24-hour and 72-hour sequence looked like the obvious hard part. Encoding the route exposed a wider problem: deciding when it applies at all. The structure I ended up with asks: Does the EU-level NIS2 baseline cover the entity? Is another Union sector rule displacing the ordinary route? Is there a cybersecurity incident to assess? Does it meet the significant-incident threshold? Which report is due next, and which facts are still provisional? The result preserves the facts and rule version us",
@@ -40,9 +54,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+      "url": "https://github.com/runetes/maiao",
+      "summary": "26 points · 8 comments",
+      "published": "2026-08-25T22:40:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
       "url": "https://github.com/swimmingbrain/texbrain",
-      "summary": "29 points · 6 comments",
+      "summary": "47 points · 9 comments",
       "published": "2026-08-25T22:08:50+00:00"
     },
     {
@@ -51,13 +72,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
       "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
       "published": "2026-08-25T21:58:14+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "NGFW IP reputation score-based policy?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vydm87/ngfw_ip_reputation_scorebased_policy/",
-      "summary": "Is it possible to configure IP reputation score-based policy on Palo Alto firewall that blocks traffic to and from public IP addresses with low reputation score? submitted by /u/Ok_Technician_2653 [link] [comments]",
-      "published": "2026-08-25T21:45:24+00:00"
     },
     {
       "source": "REDDIT",
@@ -70,7 +84,7 @@
       "source": "HACKER NEWS",
       "title": "Python's pre-declared constants are kinda weird",
       "url": "https://sebsite.pw/w/20260801-pythonconstants.html",
-      "summary": "94 points · 43 comments",
+      "summary": "145 points · 116 comments",
       "published": "2026-08-25T21:39:02+00:00"
     },
     {
@@ -79,13 +93,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
       "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
       "published": "2026-08-25T21:39:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "XCancel also down, at least for time being",
-      "url": "https://news.ycombinator.com/item?id=49440786",
-      "summary": "154 points · 55 comments",
-      "published": "2026-08-25T21:18:23+00:00"
     },
     {
       "source": "REDDIT",
@@ -98,7 +105,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "37 points · 21 comments",
+      "summary": "61 points · 29 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -126,21 +133,21 @@
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "60 points · 24 comments",
+      "summary": "79 points · 35 comments",
       "published": "2026-08-25T19:38:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A brief history of federal lift ticket regulation",
       "url": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
-      "summary": "15 points · 0 comments",
+      "summary": "33 points · 0 comments",
       "published": "2026-08-25T19:25:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "216 points · 126 comments",
+      "summary": "263 points · 145 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -154,28 +161,28 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton has died",
       "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-      "summary": "1101 points · 166 comments",
+      "summary": "1217 points · 190 comments",
       "published": "2026-08-25T18:02:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Run OpenBSD on DigitalOcean for $4/month",
       "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "109 points · 50 comments",
+      "summary": "123 points · 57 comments",
       "published": "2026-08-25T17:23:07+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Nitter project received cease and desist",
+      "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "553 points · 393 comments",
+      "summary": "636 points · 537 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "165 points · 122 comments",
+      "summary": "185 points · 127 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -203,7 +210,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: I made a Raspberry with Qwen my local car AI",
       "url": "https://github.com/ThinkOffApp/CarWatch",
-      "summary": "81 points · 15 comments",
+      "summary": "103 points · 22 comments",
       "published": "2026-08-25T15:20:20+00:00"
     },
     {
@@ -217,14 +224,14 @@
       "source": "HACKER NEWS",
       "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
       "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "245 points · 135 comments",
+      "summary": "271 points · 142 comments",
       "published": "2026-08-25T14:29:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "244 points · 179 comments",
+      "summary": "267 points · 190 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -238,7 +245,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "278 points · 191 comments",
+      "summary": "328 points · 223 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -266,28 +273,21 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "410 points · 240 comments",
+      "summary": "427 points · 259 comments",
       "published": "2026-08-25T13:13:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CVE-2026-8508: Captive-Portal Social-Login Bypass Affecting 39 Zyxel Access Point Models with full firmware emulation guide",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vxzfia/cve20268508_captiveportal_sociallogin_bypass/",
-      "summary": "I published my technical write-up for CVE-2026-8508, a pre-authentication trust-boundary flaw in Zyxel's guest Wi-Fi social-login flow. The analysis is based on the WAX650S, while Zyxel's advisory expanded the affected scope to 39 models (APs, FWA7 units, and a security router). The post includes root cause, affected versions, remediation, and the reproduction environment. submitted by /u/TheReedemer69 [link] [comments]",
-      "published": "2026-08-25T13:10:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "684 points · 419 comments",
+      "summary": "704 points · 448 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "912 points · 863 comments",
+      "summary": "962 points · 901 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
