@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T07:51:55.243191+00:00",
+  "updated": "2026-08-26T08:52:27.331674+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,17 +28,45 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Looking for guidance",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyrblt/looking_for_guidance/",
+      "summary": "Hey @all, I'm Rishab. I'm in my 3rd year of B.Tech in CS. Initially I was just fascinated by cybersecurity but later as my interest grew, I started to see a career in it. Things I've learnt so far include: Comp. Networking, OS, writing Bash scripts (smaller ones, but they work), OOP, OSINT(intermediate), decent in Linux. Things I'm learning: ML, Cryptography (both as part of my coursework), and Bug hunting (when time allows, Yaworski's book). So far, I have participated in 4-5 CTF, my highest in",
+      "published": "2026-08-26T08:41:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Need CRTP preparation guidance",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyqxc3/need_crtp_preparation_guidance/",
+      "summary": "I’m planning to do CRTP, I have purchased the exam but I have no idea from where should I start. Any help and resources would be appreciated. Thanks in advance 🥹 submitted by /u/0xbug_ [link] [comments]",
+      "published": "2026-08-26T08:17:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
+      "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
+      "summary": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by West African criminal networks – such as the Black Axe and other similar groups,\" INTERPOL said. \"These groups are",
+      "published": "2026-08-26T07:54:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+      "summary": "30 points · 9 comments",
+      "published": "2026-08-26T07:31:31+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Would you normally test whether test/trial accounts can access production data?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vyq44j/would_you_normally_test_whether_testtrial/",
       "summary": "Looking for some input from people who work in software security, IAM/RBAC, or government IT assurance. I’m not particularly technical, so I’m trying to get my head around what would normally be expected here. Say you’ve got a system holding sensitive personal information. It has a live production environment, a training environment, and role-based access controls. Before launch it goes through a formal Certification & Accreditation process and gets an Authority to Operate. Later on, some legiti",
       "published": "2026-08-26T07:28:51+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Books recommendations",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyponr/books_recommendations/",
-      "summary": "Hi all - now that AI is becoming established tool available to anyone, I would like to educate myself about the key principles of cyber security to be more prepared about potential risks and things I should be worried about from a strategic point of view. Are there any good and up to date books out there you’d recommend? Thanks! submitted by /u/pieduke88 [link] [comments]",
-      "published": "2026-08-26T07:04:01+00:00"
+      "source": "OSINT",
+      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
+      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an unsigned 64-bit Windows dynamic-link library (DLL) of 59,904 bytes, built to be side-loaded into&",
+      "published": "2026-08-26T07:12:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -62,17 +90,10 @@
       "published": "2026-08-26T06:27:04+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What DevSecOps improvements have actually been worth implementing in your team?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyodnp/what_devsecops_improvements_have_actually_been/",
-      "summary": "Looking for practical DevSecOps improvement ideas that have actually worked in real teams. I am less interested in buzzword type ideas and more interested in things that produced clear value, saved time, reduced noise, or improved security outcomes in a measurable way. A few questions: What initiative gave you the best return for the effort? What ended up being more trouble than it was worth? Any low effort, high impact improvements you would recommend? What helped with developer adoption instea",
-      "published": "2026-08-26T05:51:33+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "More than half of adults in U.S. say they lack basic statistical understanding",
       "url": "https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding",
-      "summary": "67 points · 93 comments",
+      "summary": "80 points · 114 comments",
       "published": "2026-08-26T05:49:20+00:00"
     },
     {
@@ -86,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War",
       "url": "https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm",
-      "summary": "20 points · 6 comments",
+      "summary": "33 points · 9 comments",
       "published": "2026-08-26T05:09:07+00:00"
     },
     {
@@ -100,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
       "url": "https://arxiv.org/abs/2607.21503",
-      "summary": "42 points · 14 comments",
+      "summary": "50 points · 16 comments",
       "published": "2026-08-26T02:35:25+00:00"
     },
     {
@@ -121,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Queryable Executables",
       "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "141 points · 23 comments",
+      "summary": "171 points · 37 comments",
       "published": "2026-08-26T00:20:49+00:00"
     },
     {
@@ -135,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
       "url": "https://github.com/runetes/maiao",
-      "summary": "71 points · 36 comments",
+      "summary": "78 points · 44 comments",
       "published": "2026-08-25T22:40:07+00:00"
     },
     {
@@ -184,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "When str.lower() is a security vulnerability in Python",
       "url": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
-      "summary": "109 points · 46 comments",
+      "summary": "118 points · 48 comments",
       "published": "2026-08-25T20:49:03+00:00"
     },
     {
@@ -205,14 +226,14 @@
       "source": "HACKER NEWS",
       "title": "C2PA Cameras Do Not Survive Contact with Reality",
       "url": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
-      "summary": "139 points · 80 comments",
+      "summary": "147 points · 87 comments",
       "published": "2026-08-25T19:38:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "369 points · 183 comments",
+      "summary": "382 points · 188 comments",
       "published": "2026-08-25T19:07:01+00:00"
     },
     {
@@ -238,23 +259,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Run OpenBSD on DigitalOcean for $4/month",
-      "url": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-      "summary": "156 points · 72 comments",
-      "published": "2026-08-25T17:23:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Nitter and XCancel receive cease and desist notices",
       "url": "https://github.com/zedeus/nitter/issues/1442",
-      "summary": "854 points · 706 comments",
+      "summary": "900 points · 747 comments",
       "published": "2026-08-25T17:08:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Black hole singularity is a surface not a point",
       "url": "https://arxiv.org/abs/2608.21590",
-      "summary": "230 points · 169 comments",
+      "summary": "238 points · 174 comments",
       "published": "2026-08-25T17:02:49+00:00"
     },
     {
@@ -263,6 +277,13 @@
       "url": "https://tech.slashdot.org/story/26/08/25/168248/waymo-is-expanding-to-germany?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Waymo plans to launch its robotaxi service in Munich by the end of 2027, marking the Google-owned company's first expansion into the European Union. \"It already operates in 11 cities in the United States and has applied for a license in the United Kingdom to launch its robotaxis in London this year,\" notes Reuters. From the report: The Google subsidiary will start rolling out vehicles in the German city this year, which will be manually driven while the company \"starts with high-definition mappi",
       "published": "2026-08-25T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tooltips need a delay, and then they need to skip it",
+      "url": "https://blog.master.dev/tooltips-need-a-delay-and-then-they-need-to-skip-it/",
+      "summary": "172 points · 45 comments",
+      "published": "2026-08-25T16:35:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -308,16 +329,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "url": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-      "summary": "307 points · 160 comments",
-      "published": "2026-08-25T14:29:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Building a backyard office, the build and cost breakdown",
       "url": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-      "summary": "331 points · 210 comments",
+      "summary": "340 points · 212 comments",
       "published": "2026-08-25T14:20:36+00:00"
     },
     {
@@ -331,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
       "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "summary": "449 points · 287 comments",
+      "summary": "470 points · 302 comments",
       "published": "2026-08-25T14:06:02+00:00"
     },
     {
@@ -359,21 +373,21 @@
       "source": "HACKER NEWS",
       "title": "New Mac mini, featuring M6 and M5 Pro",
       "url": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
-      "summary": "487 points · 297 comments",
+      "summary": "491 points · 302 comments",
       "published": "2026-08-25T13:13:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New Mac Studio with M5 Max and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-      "summary": "757 points · 499 comments",
+      "summary": "767 points · 506 comments",
       "published": "2026-08-25T13:03:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple introduces M6 and M5 Ultra",
       "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "1101 points · 1052 comments",
+      "summary": "1123 points · 1080 comments",
       "published": "2026-08-25T13:01:22+00:00"
     },
     {
@@ -441,20 +455,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "url": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below - CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation",
-      "published": "2026-08-25T08:34:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to",
-      "published": "2026-08-25T06:12:35+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
       "url": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
       "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "summary": "63 points · 19 comments",
+      "summary": "83 points · 24 comments",
       "published": "2026-08-22T01:52:24+00:00"
     },
     {
