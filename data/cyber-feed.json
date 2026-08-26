@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T14:51:20.613959+00:00",
+  "updated": "2026-08-26T16:23:05.665751+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,83 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "summary": "5 points · 0 comments",
+      "published": "2026-08-26T16:06:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tim Curry, Star of Rocky Horror Picture Show and Stephen King's It, Dies Aged 80",
+      "url": "https://www.theguardian.com/film/2026/aug/26/tim-curry-dies-rocky-horror-show-stephen-king-it-legend-film",
+      "summary": "22 points · 2 comments",
+      "published": "2026-08-26T16:03:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Firefox 157 Will Include JPEG XL By Default On All Platforms",
+      "url": "https://tech.slashdot.org/story/26/08/26/0633229/firefox-157-will-include-jpeg-xl-by-default-on-all-platforms?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Mozilla plans to enable JPEG XL decoding by default in Firefox 157, which is due at the end of September. Phoronix reports: Firefox Nightly has JPEG-XL support enabled by default right now to help in vetting this support while Mozilla believes the support is in good enough shape for a stable debut with Firefox 157. This follows Chrome shipping JPEG-XL and Google Research developing jxl-rs as a Rust-based JPEG-XL image decoder that is both performant and secure. In today's Mozilla Hacks blog post",
+      "published": "2026-08-26T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "It's so hard to finish an idea that is not yours (and suggested by AI)",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "summary": "17 points · 3 comments",
+      "published": "2026-08-26T15:30:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Disruption with Some GitHub Services",
+      "url": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+      "summary": "89 points · 50 comments",
+      "published": "2026-08-26T15:19:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "url": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
+      "published": "2026-08-26T15:19:21+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "MCP + Skills plugins stack for Qwen3.8",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyzunx/mcp_skills_plugins_stack_for_qwen38/",
+      "summary": "i need recommendations on plugins i should use for the new Qwen3.8 abliterated model running locally in LM Studio… i will use for most likely anything that comes to my mind (creating softwares, bots, chrome extension… do security checks on my websites… generally use it for building all type of stuff) so i want to make it super useful for me. all tips appreciated:) submitted by /u/OkraOtherwise3425 [link] [comments]",
+      "published": "2026-08-26T15:12:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "summary": "91 points · 39 comments",
+      "published": "2026-08-26T15:03:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+      "url": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+      "summary": "37 points · 30 comments",
+      "published": "2026-08-26T15:02:15+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Chinese Government Fears AI Might Replace Human Intimacy",
+      "url": "https://yro.slashdot.org/story/26/08/26/0618208/chinese-government-fears-ai-might-replace-human-intimacy?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "China has imposed new restrictions on AI companion services over concerns they can foster \"emotional dependence or addiction\" and replace real-world social interaction. Officials are also worried that increasingly satisfying AI relationships could deepen loneliness and further discourage marriage and parenthood. The Guardian reports: No country has rolled out AI as comprehensively and as enthusiastically as China; the country's demographic challenges are forcing the government to turn to technol",
+      "published": "2026-08-26T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/glm-5-3-flash",
+      "summary": "65 points · 16 comments",
+      "published": "2026-08-26T14:58:54+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
@@ -34,11 +111,11 @@
       "published": "2026-08-26T14:47:51+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Are we giving AI agents too much trust just because they act like “employees”?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyyuml/are_we_giving_ai_agents_too_much_trust_just/",
-      "summary": "I've been thinking about this with the rise of AI agents that can read emails, access internal docs, call APIs, write code, and actually take actions A lot of the security conversation seems to focus on what data an agent can access But shouldn't we also be asking What is the most dangerous action we're allowing the agent to take? For example, an agent might legitimately need read access to a repository, but does it really need the ability to: merge code create credentials modify production infr",
-      "published": "2026-08-26T14:35:11+00:00"
+      "source": "HACKER NEWS",
+      "title": "You could have invented PageRank",
+      "url": "https://praveshkoirala.com/2026/08/26/you-could-have-invented-pagerank/",
+      "summary": "36 points · 19 comments",
+      "published": "2026-08-26T14:29:05+00:00"
     },
     {
       "source": "REDDIT",
@@ -46,6 +123,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vyymbh/cyber_security_insurers_cover_only_32_of/",
       "summary": "submitted by /u/ethervariance161 [link] [comments]",
       "published": "2026-08-26T14:26:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Taylor Farms: How One Company's Reach Became a National Risk",
+      "url": "https://farmaction.us/taylorfarmsreport/",
+      "summary": "75 points · 35 comments",
+      "published": "2026-08-26T14:21:44+00:00"
     },
     {
       "source": "OSINT",
@@ -56,17 +140,38 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: How much of Hacker News is AI?",
+      "url": "https://hnstats.com",
+      "summary": "37 points · 25 comments",
+      "published": "2026-08-26T14:16:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Twitter Viewer – View Twitter Without Account",
       "url": "https://twitterwebviewer.com/",
-      "summary": "27 points · 6 comments",
+      "summary": "105 points · 36 comments",
       "published": "2026-08-26T14:11:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "☢️ Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyy6zv/philippine_nuclear_agency_and_naval_contractor/",
+      "summary": "Hunt.io reseachers discovered an open directory staging the tooling and stolen data from an intrusion into two Philippine organizations, a nuclear research agency and a marine engineering company that contracts with the Navy. Nothing exotic was needed to get in. ownCloud compromised via CVE-2023-49105 (patched in 2023), abusing an empty signing secret that is the default on new installs Naval contractor hit via CVE-2024-28000 (LiteSpeed Cache, patched Aug 2024) and an XML-RPC brute force using t",
+      "published": "2026-08-26T14:10:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GLM-5.3-Flash",
       "url": "https://z.ai/blog/glm-5.3-flash",
-      "summary": "165 points · 49 comments",
+      "summary": "351 points · 146 comments",
       "published": "2026-08-26T14:08:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Citation to Asimov",
+      "url": "https://www.bookandsword.com/2026/08/25/a-citation-to-asimov/",
+      "summary": "23 points · 1 comments",
+      "published": "2026-08-26T14:06:16+00:00"
     },
     {
       "source": "OSINT",
@@ -74,13 +179,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
       "summary": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...]",
       "published": "2026-08-26T14:01:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI Is a Harsh Mistress",
-      "url": "https://cacm.acm.org/opinion/ai-is-a-harsh-mistress-on-anima-machina-herd-acceptance-and-the-politics-of-conscious-machines/",
-      "summary": "7 points · 0 comments",
-      "published": "2026-08-26T13:45:21+00:00"
     },
     {
       "source": "OSINT",
@@ -91,10 +189,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Meta reaches $16.68B settlement over social media harms to children",
-      "url": "https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/",
-      "summary": "187 points · 138 comments",
-      "published": "2026-08-26T13:28:32+00:00"
+      "title": "France reaches 94.9% fiber coverage in 2026",
+      "url": "https://cartefibre.arcep.fr",
+      "summary": "97 points · 41 comments",
+      "published": "2026-08-26T13:32:35+00:00"
     },
     {
       "source": "OSINT",
@@ -102,13 +200,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
       "summary": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]",
       "published": "2026-08-26T13:17:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Wiped out: US faces surging toilet paper prices amid trade war with Canada",
-      "url": "https://www.theguardian.com/us-news/2026/aug/26/paper-product-toilet-paper-tariffs-us-canada",
-      "summary": "40 points · 20 comments",
-      "published": "2026-08-26T13:13:55+00:00"
     },
     {
       "source": "REDDIT",
@@ -128,14 +219,14 @@
       "source": "HACKER NEWS",
       "title": "AWS Acquires DuckDB",
       "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "summary": "436 points · 97 comments",
+      "summary": "625 points · 158 comments",
       "published": "2026-08-26T12:59:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
       "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "summary": "241 points · 78 comments",
+      "summary": "359 points · 107 comments",
       "published": "2026-08-26T12:52:12+00:00"
     },
     {
@@ -144,13 +235,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vyw70i/hackers_now_exploit_critical_gitea_flaw_in_code/",
       "summary": "submitted by /u/Doug24 [link] [comments]",
       "published": "2026-08-26T12:50:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A curmudgeon tries a language server",
-      "url": "https://entropicthoughts.com/curmudgeon-tries-language-server",
-      "summary": "38 points · 15 comments",
-      "published": "2026-08-26T12:48:37+00:00"
     },
     {
       "source": "OSINT",
@@ -195,20 +279,6 @@
       "published": "2026-08-26T10:27:23+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Beyond Recall and the Illusion of Competence",
-      "url": "https://var0.xyz/posts/beyond-recall-and-the-illusion-of-competence.html",
-      "summary": "58 points · 18 comments",
-      "published": "2026-08-26T10:07:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
-      "summary": "320 points · 118 comments",
-      "published": "2026-08-26T10:04:55+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
       "url": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
@@ -224,23 +294,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Value Classes Still Need Compiler Sympathy",
-      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
-      "summary": "61 points · 24 comments",
-      "published": "2026-08-26T08:59:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Oldinsurancemaps.net is now a Charter Project",
-      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
-      "summary": "124 points · 21 comments",
-      "published": "2026-08-26T08:57:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "RAG Is Simpler Than You Think",
       "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
-      "summary": "266 points · 112 comments",
+      "summary": "314 points · 138 comments",
       "published": "2026-08-26T08:39:17+00:00"
     },
     {
@@ -307,13 +363,6 @@
       "published": "2026-08-26T00:42:23+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Queryable Executables",
-      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
-      "summary": "268 points · 74 comments",
-      "published": "2026-08-26T00:20:49+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Alabama Launches Investigation Into OpenAI's Hack of Hugging Face",
       "url": "https://yro.slashdot.org/story/26/08/25/2259204/alabama-launches-investigation-into-openais-hack-of-hugging-face?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -363,13 +412,6 @@
       "published": "2026-08-25T20:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
-      "summary": "466 points · 214 comments",
-      "published": "2026-08-25T19:07:01+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Perplexity and Nvidia Launch Fully Local AI Agent With Zero Token Costs",
       "url": "https://slashdot.org/story/26/08/25/1848204/perplexity-and-nvidia-launch-fully-local-ai-agent-with-zero-token-costs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -398,20 +440,6 @@
       "published": "2026-08-25T17:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What 5 tools/software would be worth learning for a cybersecurity analyst to be more employable?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vy4nha/what_5_toolssoftware_would_be_worth_learning_for/",
-      "summary": "submitted by /u/Previous-Sand-6065 [link] [comments]",
-      "published": "2026-08-25T16:26:36+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Apple Announces New Mac Mini With M6 and M5 Pro Chips",
-      "url": "https://hardware.slashdot.org/story/26/08/25/1553245/apple-announces-new-mac-mini-with-m6-and-m5-pro-chips?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple has unveiled a new Mac mini with either its new M6 chip or the M5 Pro chip released earlier this year. It adds faster CPU, GPU, storage, and AI performance along with Wi-Fi 7, Bluetooth 6, and 2.5Gb Ethernet as standard. There's also a new higher starting price of $899, which is up from the previous $799 base price and far above the $599 starting price of the 2024 model. MacRumors reports: The M6 chip is equipped with a 12-core CPU and a 12-core GPU, up from a 10-core CPU and 10-core GPU i",
-      "published": "2026-08-25T16:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Massive DDoS attack disrupts Norway’s government digital services",
       "url": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
@@ -424,13 +452,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vy3lus/cisa_slaps_its_tightest_threeday_patching/",
       "summary": "submitted by /u/Much_Preparation_832 [link] [comments]",
       "published": "2026-08-25T15:49:23+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Motorola's 2027 Flagships Will Officially Support GrapheneOS",
-      "url": "https://news.slashdot.org/story/26/08/25/0617230/motorolas-2027-flagships-will-officially-support-grapheneos?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Motorola is working with GrapheneOS to officially support the privacy-focused Android alternative on its 2027 flagship phones, starting with a non-folding model and later expanding to the next Razr Fold and Razr Ultra. \"These will ship with Motorola's normal Android skin, but you will be able to switch to GrapheneOS later if you want to,\" notes GSMArena.com. GrapheneOS says the devices will \"meet or exceed\" its hardware and update requirements, and will include seven years of \"proper updates.\" I",
-      "published": "2026-08-25T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -447,20 +468,6 @@
       "published": "2026-08-25T14:07:37+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "url": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
-      "published": "2026-08-25T14:01:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Apple introduces M6 and M5 Ultra",
-      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-      "summary": "1252 points · 1194 comments",
-      "published": "2026-08-25T13:01:22+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vwn3rb/mentorship_monday_post_all_career_education_and/",
@@ -473,13 +480,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vw9o2u/i_left_my_role_as_a_security_practitioner_to/",
       "summary": "This AMA will run all week from 08-23-2026 to 08-28-2026. The editors at CISO Series present this AMA. This month, we've gathered a group of security leaders who spent years as CISOs, CTOs, and in-house defenders, then made the leap to the vendor side, and are genuinely happy they did. They're here to answer anything you want to know about life on the other side of the table: why they made the move, what surprised them, what they miss (and what they don't), how it changed the way they see the ve",
       "published": "2026-08-23T15:09:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]",
-      "url": "https://www.youtube.com/watch?v=656058JxTM0",
-      "summary": "183 points · 53 comments",
-      "published": "2026-08-22T01:52:24+00:00"
     },
     {
       "source": "OSINT",
