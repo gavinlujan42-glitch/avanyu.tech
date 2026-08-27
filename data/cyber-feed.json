@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-27T00:37:12.143392+00:00",
-  "item_count": 75,
+  "updated": "2026-08-27T11:05:44.470681+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,17 +27,150 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "A Log4j2 RCE That Isn’t Log4Shell (Probably)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vzqu0e/a_log4j2_rce_that_isnt_log4shell_probably/",
+      "summary": "submitted by /u/skisedr [link] [comments]",
+      "published": "2026-08-27T11:05:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "More Than 100 Water Systems Were Hit In July Cyberattacks",
+      "url": "https://it.slashdot.org/story/26/08/27/0041254/more-than-100-water-systems-were-hit-in-july-cyberattacks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "CISA says more than 100 internet-exposed U.S. water and wastewater systems were targeted in July, often through programmable logic controllers connected directly to cellular modems. \"That's the first time the feds have put a number on the digital intrusions, but they have yet to attribute the campaign, widely suspected to be linked to Iran, to a particular group,\" reports The Register. From the report: Suspected Iranian attackers targeted water and wastewater facilities across at least a dozen s",
+      "published": "2026-08-27T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Papercut NG/MF Urgent Security Advisory",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vzqmd3/papercut_ngmf_urgent_security_advisory/",
+      "summary": "https://www.papercut.com/kb/Main/security-bulletin-27-aug-2026-urgent-security-advisory/ (For those unaware, PaperCut is a print management platform used globally across many different verticals) Impacts all NG/MF versions of PaperCut. Not a lot of detail on the page yet, but some IoCs are provided. Hopefully most people don't have their PaperCut instance publicly accessible. submitted by /u/Informal_Thought [link] [comments]",
+      "published": "2026-08-27T10:54:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Anyone running local LLMs for security work? Want to hear about your setup + use cases",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vzq1ld/anyone_running_local_llms_for_security_work_want/",
+      "summary": "Hey all, I'm looking into setting up a local LLM rig for security-related work (code auditing, vuln analysis, that kind of thing) and wanted to pick the brain of anyone here already doing this in practice. A few things I'd love to hear about: What are you actually using local AI for? Code review/auditing, malware analysis, log triage, report writing, pentest note-taking, something else entirely? Which models are you running? Curious what's actually holding up well for security-adjacent tasks vs.",
+      "published": "2026-08-27T10:22:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address",
+      "url": "https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html",
+      "summary": "Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization in Venezuela. GoCaracal provides operators with remote shell access and payload execution, while the extended profile adds browser data theft, keylogging, remote desktop control",
+      "published": "2026-08-27T09:33:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/",
+      "summary": "CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]",
+      "published": "2026-08-27T09:16:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Qwen3.8-Flash-Next Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/qwen3-8-flash-next",
+      "summary": "8 points · 1 comments",
+      "published": "2026-08-27T09:06:30+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ATF confirms “major incident” after recent Qilin breach claims",
+      "url": "https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/",
+      "summary": "ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang. [...]",
+      "published": "2026-08-27T08:13:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access",
+      "url": "https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html",
+      "summary": "Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables denial-of-service (DoS) and privilege escalation to a root shell. Dubbed GPUThor, the attack was developed by researchers at the University of Toronto, who hammered four DRAM",
+      "published": "2026-08-27T08:13:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "If you already have ISO 27001, here's how much of the NHS DSPT you've basically already done",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vznnpv/if_you_already_have_iso_27001_heres_how_much_of/",
+      "summary": "BISO in regulated healthcare here, so DSPT is my day job. If you're supplying the NHS, the Data Security and Protection Toolkit is usually non-negotiable and \"Standards Met\" is the bar. What trips people up: - It's annual and self-assessed, but evidence-backed — treat it like a mini audit, not a form. Dates and screenshots matter. - ISO 27001 gets you most of the way; heavy overlap, so map existing controls across rather than starting fresh. - The staff-training and leadership-accountability sec",
+      "published": "2026-08-27T08:01:19+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Any OT/ICS Cybersecurity Specialist here? question regarding to training and certifications",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vzn7kz/any_otics_cybersecurity_specialist_here_question/",
+      "summary": "Currently we are checking ISA 62443 certs and TÜV SÜD Certified Industrial Cybersecurity aligned for IEC 62443 for Training and Certification as we check they are both similar and the difference is its price what should we choose besides being ISA62443 as gold standard for OT does TÜV SÜD Certified Industrial Cybersecurity training and certs are good ? submitted by /u/Hefty-Ad3604 [link] [comments]",
+      "published": "2026-08-27T07:34:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+      "url": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix NetScaler ADC and NetScaler Gateway, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2019-1068 - A remote code execution vulnerability in",
+      "published": "2026-08-27T07:05:28+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Radiation Link In Flight Attendant's Breast Cancer, French Court Finds",
+      "url": "https://science.slashdot.org/story/26/08/26/2356248/radiation-link-in-flight-attendants-breast-cancer-french-court-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A French court has for the first time recognized cosmic radiation as a contributing occupational factor in a flight attendant's breast cancer, alongside passive smoking and years of night work. The landmark ruling could open the door to similar claims from other aircrew, as research continues to link long-term high-altitude flying with elevated exposure to radiation-related cancers. The BBC reports: Sophie Lainault, a 59 year-old former stewardess on Air France, sought to have her cancer recogni",
+      "published": "2026-08-27T07:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Tested how easily LLMs leak sensitive data through tool calls - here’s what happened",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vzkgav/tested_how_easily_llms_leak_sensitive_data/",
+      "summary": "Hey everyone! Built a simple testbed to see how easily an LLM agent can be tricked into leaking sensitive data when hooked up to custom tools. Ran 5 common prompt attack styles against two backend setups using the same model: Naive tool: blindly returns whatever data is requested with zero validation. Hardened tool: enforces basic authorization checks and strips password fields. The main takeaway: Blunt attacks like \"give me the admin password\" were refused right away by the model's safety guard",
+      "published": "2026-08-27T04:57:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Bill Gates Proposes Major Limits On AI Development",
+      "url": "https://hardware.slashdot.org/story/26/08/26/2117239/bill-gates-proposes-major-limits-on-ai-development?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from CNN: Microsoft co-founder Bill Gates argued on Wednesday that artificial intelligence needs significant limits or else the harm to humans will outweigh any potential good. \"AI will either be the greatest equalizer ever invented, or the worst source of injustice,\" he said in a 6,000-word essay, entitled \"The turbulent AI era is here. The choices we make now are critical.\" [...] \"Even under the best circumstances, the transition to this new AI era will be o",
+      "published": "2026-08-27T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Laion Big Video Dataset",
+      "url": "https://projects.laion.ai/bvd/",
+      "summary": "67 points · 18 comments",
+      "published": "2026-08-27T01:50:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "summary": "653 points · 417 comments",
+      "published": "2026-08-27T01:46:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "summary": "1211 points · 527 comments",
+      "published": "2026-08-27T01:12:55+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Recommendations for affordable cloud forensics firm/expert",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1vzfmf0/recommendations_for_affordable_cloud_forensics/",
+      "summary": "Hi everyone, Our company recently faced a security breach. We use AWS, GitHub, and Cloudflare. Based on our internal audit, it looks like the hackers were mostly hunting for code/repositories. However, we need to be absolutely certain whether they accessed any customer personal identifiable information (PII) or databases. We want to hire an outside expert or digital forensics firm to verify this, but we do not have the budget for massive enterprise firms (like CrowdStrike/Kroll). Our Stack: AWS,",
+      "published": "2026-08-27T01:06:34+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Mechanical Turk shutting down September 30",
       "url": "https://www.mturk.com/",
-      "summary": "41 points · 9 comments",
+      "summary": "388 points · 113 comments",
       "published": "2026-08-26T23:55:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Zohran and the Short Link",
       "url": "https://iamwillwang.com/notes/zohran-and-the-short-link/",
-      "summary": "29 points · 8 comments",
+      "summary": "207 points · 82 comments",
       "published": "2026-08-26T23:50:15+00:00"
     },
     {
@@ -51,8 +184,15 @@
       "source": "HACKER NEWS",
       "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
       "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-      "summary": "41 points · 16 comments",
+      "summary": "194 points · 121 comments",
       "published": "2026-08-26T22:44:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Asahi Linux Progress Report: Linux 7.2",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "summary": "298 points · 122 comments",
+      "published": "2026-08-26T22:35:02+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -69,25 +209,18 @@
       "published": "2026-08-26T21:33:20+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Stripe acquires Clerky",
+      "url": "https://www.clerky.com/blog/clerky-is-joining-stripe",
+      "summary": "185 points · 33 comments",
+      "published": "2026-08-26T21:09:32+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Apple Maps Now Has Ads",
       "url": "https://apple.slashdot.org/story/26/08/26/2033235/apple-maps-now-has-ads?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Apple has begun rolling out ads in Apple Maps, with sponsored businesses appearing at the top of search results and in the \"suggested places\" section for users in the U.S. and Canada. Apple says the ads can be based on approximate location, search terms, or the area of the map being viewed, but are not tied to users' Apple Accounts and personal data remains on-device. 9to5Mac reports: Ads appear just like every other business listing, except they have a small blue badge that says 'Ad.' You can s",
       "published": "2026-08-26T21:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "mold: A Parallel Linker",
-      "url": "https://arxiv.org/abs/2608.23228",
-      "summary": "60 points · 9 comments",
-      "published": "2026-08-26T20:37:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "IBM Unveils Next Generation Dual-Architecture Processor for IBM Z and LinuxONE",
-      "url": "https://newsroom.ibm.com/2026-08-24-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-      "summary": "72 points · 53 comments",
-      "published": "2026-08-26T20:32:29+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -98,30 +231,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Serve Markdown to AI Agents with Accept Headers",
-      "url": "https://acceptmarkdown.com/",
-      "summary": "76 points · 43 comments",
-      "published": "2026-08-26T19:45:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GitHub Outage Tracker: Is GitHub Cooked?",
-      "url": "https://isgithubcooked.com/",
-      "summary": "161 points · 83 comments",
-      "published": "2026-08-26T19:43:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "url": "https://www.actinideinc.com/press/actinide-becomes-first-startup-to-ever-enrich-natural-uranium-to-produce-haleu",
-      "summary": "132 points · 67 comments",
-      "published": "2026-08-26T19:23:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The Hugging Face incident and the road ahead",
       "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead/",
-      "summary": "153 points · 189 comments",
+      "summary": "264 points · 345 comments",
       "published": "2026-08-26T19:15:23+00:00"
     },
     {
@@ -139,13 +251,6 @@
       "published": "2026-08-26T18:48:24+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "PATCHCORD: New malware cluster targets Afghan telecom and South Asian critical infrastructure",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vz5u3t/patchcord_new_malware_cluster_targets_afghan/",
-      "summary": "Acronis Threat Research Unit (TRU) has identified an ongoing campaign delivering a previously undocumented custom backdoor against Afghan telecom providers and South Asian critical infrastructure organizations. The backdoor, tracked as PATCHCORD, is a compiled C/C++ implant delivered through sector-specific lures, including fake VPN installers impersonating Afghan Telecom (AFTEL) and telecom management tools. The research is published here - https://www.acronis.com/en/tru/posts/patchcord-new-mal",
-      "published": "2026-08-26T18:43:58+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Amazon to Acquire DuckLabs, Adding the Team Behind DuckDB",
       "url": "https://developers.slashdot.org/story/26/08/26/1824257/amazon-to-acquire-ducklabs-adding-the-team-behind-duckdb?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -156,28 +261,28 @@
       "source": "HACKER NEWS",
       "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
       "url": "https://github.com/tailscale/tailcat",
-      "summary": "456 points · 89 comments",
+      "summary": "587 points · 104 comments",
       "published": "2026-08-26T17:42:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "An ongoing 3D-printer AGPL violation",
       "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "summary": "294 points · 127 comments",
+      "summary": "416 points · 178 comments",
       "published": "2026-08-26T17:41:40+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "U.S. State Department Pauses Immigrant Visa Applications",
+      "title": "U.S. State Department pauses immigrant visa applications",
       "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
-      "summary": "236 points · 274 comments",
+      "summary": "550 points · 808 comments",
       "published": "2026-08-26T17:22:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "CoMaps: The Offline App That Guided Rescuers Without a Signal in Venezuela",
       "url": "https://hotosm.org/en/news/comaps-the-offline-app-that-guided-rescuers-without-a-signal-in-the-venezuela-response/",
-      "summary": "185 points · 45 comments",
+      "summary": "287 points · 66 comments",
       "published": "2026-08-26T17:20:12+00:00"
     },
     {
@@ -203,9 +308,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+      "title": "FDA approves first in class targeted therapy for metastatic pancreatic cancer",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
-      "summary": "148 points · 38 comments",
+      "summary": "225 points · 53 comments",
       "published": "2026-08-26T16:19:03+00:00"
     },
     {
@@ -214,13 +319,6 @@
       "url": "https://tech.slashdot.org/story/26/08/26/0633229/firefox-157-will-include-jpeg-xl-by-default-on-all-platforms?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Mozilla plans to enable JPEG XL decoding by default in Firefox 157, which is due at the end of September. Phoronix reports: Firefox Nightly has JPEG-XL support enabled by default right now to help in vetting this support while Mozilla believes the support is in good enough shape for a stable debut with Firefox 157. This follows Chrome shipping JPEG-XL and Google Research developing jxl-rs as a Rust-based JPEG-XL image decoder that is both performant and secure. In today's Mozilla Hacks blog post",
       "published": "2026-08-26T16:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "ISO27001 and GxP",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vz10m4/iso27001_and_gxp/",
-      "summary": "Hi there, I’m conducting personal research trying to learn more about GxP which are “Good practice regulations” and how they could be tied to ISO27001:2022. Does anyone have any experience with mapping the two and how they can be implemented together? Also, I just want to learn more about GxP, so I’d love additional information to help my research. Thanks in advance! submitted by /u/nk38 [link] [comments]",
-      "published": "2026-08-26T15:54:45+00:00"
     },
     {
       "source": "OSINT",
@@ -237,11 +335,11 @@
       "published": "2026-08-26T15:19:21+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "MCP + Skills plugins stack for Qwen3.8",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyzunx/mcp_skills_plugins_stack_for_qwen38/",
-      "summary": "i need recommendations on plugins i should use for the new Qwen3.8 abliterated model running locally in LM Studio… i will use for most likely anything that comes to my mind (creating softwares, bots, chrome extension… do security checks on my websites… generally use it for building all type of stuff) so i want to make it super useful for me. all tips appreciated:) submitted by /u/OkraOtherwise3425 [link] [comments]",
-      "published": "2026-08-26T15:12:28+00:00"
+      "source": "HACKER NEWS",
+      "title": "Nebula Sans",
+      "url": "https://www.nebulasans.com",
+      "summary": "427 points · 171 comments",
+      "published": "2026-08-26T15:03:52+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -275,21 +373,14 @@
       "source": "HACKER NEWS",
       "title": "Twitter Viewer – View Twitter Without Account",
       "url": "https://twitterwebviewer.com/",
-      "summary": "305 points · 156 comments",
+      "summary": "467 points · 287 comments",
       "published": "2026-08-26T14:11:39+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "☢️ Philippine Nuclear Agency and Naval Contractor Targeted by Suspected Chinese-Speaking Operator Using Known Vulnerabilities",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyy6zv/philippine_nuclear_agency_and_naval_contractor/",
-      "summary": "Hunt.io reseachers discovered an open directory staging the tooling and stolen data from an intrusion into two Philippine organizations, a nuclear research agency and a marine engineering company that contracts with the Navy. Nothing exotic was needed to get in. ownCloud compromised via CVE-2023-49105 (patched in 2023), abusing an empty signing secret that is the default on new installs Naval contractor hit via CVE-2024-28000 (LiteSpeed Cache, patched Aug 2024) and an XML-RPC brute force using t",
-      "published": "2026-08-26T14:10:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GLM-5.3-Flash",
       "url": "https://z.ai/blog/glm-5.3-flash",
-      "summary": "859 points · 434 comments",
+      "summary": "1042 points · 526 comments",
       "published": "2026-08-26T14:08:50+00:00"
     },
     {
@@ -328,27 +419,6 @@
       "published": "2026-08-26T13:07:02+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "AWS Acquires DuckLabs",
-      "url": "https://ducklabs.com/news/2026/08/26/ducklabs-to-join-aws",
-      "summary": "955 points · 287 comments",
-      "published": "2026-08-26T12:59:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Qwen3.8-Flash-Next",
-      "url": "https://qwen.ai/blog?id=qwen3.8-flash-next",
-      "summary": "607 points · 196 comments",
-      "published": "2026-08-26T12:52:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyw70i/hackers_now_exploit_critical_gitea_flaw_in_code/",
-      "summary": "submitted by /u/Doug24 [link] [comments]",
-      "published": "2026-08-26T12:50:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
@@ -370,11 +440,11 @@
       "published": "2026-08-26T11:36:49+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Scientists May Have Figured Out Why Dead Brains Don't Always Rot",
-      "url": "https://science.slashdot.org/story/26/08/26/0626223/scientists-may-have-figured-out-why-dead-brains-dont-always-rot?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "fahrbot-bot shares a report from Smithsonian Magazine: The brain is one of the first organs to begin decomposing after death. Yet archaeologists have discovered more than 4,400 preserved human brains around the world, some of which have remained intact for the last 12,000 years. In hundreds of cases, the brain was the only soft tissue left among otherwise skeletal remains. But how and why do brains sometimes persist for millennia while all other types of soft tissue disappear? This preservation ",
-      "published": "2026-08-26T11:00:00+00:00"
+      "source": "OSINT",
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "2026-08-26T11:07:48+00:00"
     },
     {
       "source": "OSINT",
@@ -391,13 +461,6 @@
       "published": "2026-08-26T09:38:45+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Staff engineers shift from solving problems to shaping systems",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vys8je/staff_engineers_shift_from_solving_problems_to/",
-      "summary": "submitted by /u/Suspicious_Orchid770 [link] [comments]",
-      "published": "2026-08-26T09:33:23+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
       "url": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
@@ -405,67 +468,11 @@
       "published": "2026-08-26T07:54:12+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-      "url": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-      "summary": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own design. The sample is an unsigned 64-bit Windows dynamic-link library (DLL) of 59,904 bytes, built to be side-loaded into&",
-      "published": "2026-08-26T07:12:55+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "SpaceX Plans to Build a $100 Billion Spaceport In Louisiana",
-      "url": "https://science.slashdot.org/story/26/08/25/2337244/spacex-plans-to-build-a-100-billion-spaceport-in-louisiana?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "SpaceX plans to spend up to $100 billion building a new Starship launch facility in Vermilion Parish, Louisiana, which the state says could eventually \"support thousands of launches annually.\" CNBC reports: Once built, Starbase, LA will serve as the main launch facility for Starship, SpaceX's in-development rocket that's the largest ever built and designed to be fully reusable. Musk has aspirations to massively expand SpaceX's Starlink satellite network, to launch orbital data centers and to som",
-      "published": "2026-08-26T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-      "url": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the",
-      "published": "2026-08-26T06:27:07+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Chinese State Hackers Use Cheap AI Models to Double Attack Volume",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1vyp0w1/chinese_state_hackers_use_cheap_ai_models_to/",
       "summary": "submitted by /u/Revolutionary-Cod276 [link] [comments]",
       "published": "2026-08-26T06:27:04+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-      "url": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is credit-metered and drives lures across",
-      "published": "2026-08-26T05:47:28+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Lab Supply Companies Have Been Selling Antibodies Using Manipulated Images",
-      "url": "https://science.slashdot.org/story/26/08/25/2331240/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: Antibodies play a central role in your body's immune defense. But they're also nearly ubiquitous in biological research, being essential for several widely used lab techniques. While some researchers need to go through the process of producing their own antibodies, antibodies to many key proteins are commercially available and can be ordered for overnight delivery. In May, however, Reese Richardson, a post-doc at Northwestern University, dis",
-      "published": "2026-08-26T03:30:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Frustrated with the Cybersecurity Job Market",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1vyib8j/frustrated_with_the_cybersecurity_job_market/",
-      "summary": "I've had an incredibly frustrating experience interviewing for cybersecurity roles, despite being in the industry since 2019. This year, I applied and interviewed for both an Incident Response Manager position and a Senior Security Analyst position. The management role was originally classified internally as a G5 position, but during my second interview, it was reclassified to a higher-level G6 role, which ultimately made me ineligible to continue in the interview process. Then, after making it ",
-      "published": "2026-08-26T01:01:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "url": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
-      "published": "2026-08-25T21:58:14+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-      "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
-      "published": "2026-08-25T21:39:01+00:00"
     },
     {
       "source": "REDDIT",
