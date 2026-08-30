@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T07:17:32.882185+00:00",
+  "updated": "2026-08-30T13:11:43.214594+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,31 +28,157 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Building a Program From the Ground Up Pt 1. - Tactical Level, Advice Requested!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w2h3e5/building_a_program_from_the_ground_up_pt_1/",
+      "summary": "Good day everyone! A little bit on my background - 20 years IT experience, about 50/50 software development and security, with some data engineering sprinkled in. CISSP and some tactical level certs. Private sector, high emphasis on compliance and confidentiality. A lot of my security background is GRC/A&A, but I am capable in a lot of hands-on-keyboard. I recently came into an org that, for its size, is pretty capable at security. They have good tools that were set up by someone who was a good ",
+      "published": "2026-08-30T13:06:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "summary": "20 points · 2 comments",
+      "published": "2026-08-30T12:50:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter",
+      "url": "https://github.com/fugue-labs/monty-go",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-30T12:02:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An implementation of Conway's Game of Life for Windows 3.1x and later",
+      "url": "https://www.muppetlabs.com/~breadbox/software/windows.html",
+      "summary": "9 points · 1 comments",
+      "published": "2026-08-30T11:41:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "summary": "17 points · 1 comments",
+      "published": "2026-08-30T11:39:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The turbulent AI era is here. The choices we make now are critical",
+      "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+      "summary": "14 points · 1 comments",
+      "published": "2026-08-30T11:38:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "One Nix flake to rule them all",
+      "url": "https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all",
+      "summary": "9 points · 2 comments",
+      "published": "2026-08-30T11:22:04+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "SpaceX Launching NASA's Roman Space Telescope to Explore Dark Energy and Habitable Planets",
+      "url": "https://science.slashdot.org/story/26/08/30/0317245/spacex-launching-nasas-roman-space-telescope-to-explore-dark-energy-and-habitable-planets?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "SpaceX is scheduled to launch the Roman Space Telescope on a Falcon Heavy rocket, with the launch window opening at 7:26 a.m. EDT (1126 GMT). NASA will carry the launch live on YouTube. CNN offers this mission overview from NASA Administrator Jared Isaacman. \"Roman will investigate dark matter, dark energy and the structure of the universe itself, and accelerate the future of discovery of potentially habitable planets outside our solar system.\" In fact, \"NASA anticipates that Roman will image mo",
+      "published": "2026-08-30T11:22:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Spark: Sparklines in your shell",
+      "url": "https://git.zx2c4.com/spark/about/",
+      "summary": "40 points · 9 comments",
+      "published": "2026-08-30T10:02:16+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Risk assessment and Threat Modeling",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w2di7j/risk_assessment_and_threat_modeling/",
+      "summary": "Hello cyber enthusiasts and gurus, I have a question regarding threat modelling and risk assessment approach. So, there are many frameworks and methodologies by which threat modelling and risk assessment can be performed but Reading through these multiple frameworks can be a bit overwhelming in determining what approach to use. For software I have seen OWASP Top 10 is commonly used. For hardware and software, STRIDE analysis. For risk assessment, many say IEC 62443-3-2 standard would be a good s",
+      "published": "2026-08-30T10:02:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+      "url": "https://github.com/AniketWathore/bolnee-chat",
+      "summary": "24 points · 0 comments",
+      "published": "2026-08-30T09:56:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Everyone Should Build Their Own Network Stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "summary": "54 points · 35 comments",
+      "published": "2026-08-30T09:52:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What would you do if you boss was trying to cheat certification",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w2d554/what_would_you_do_if_you_boss_was_trying_to_cheat/",
+      "summary": "So we are trying to obtain a significant accreditation for the org, but my line manager is trying to game the process and it really doesn't sit well with me. Instead of fixing the problem, he is trying to hide it. He has said that in previous places he has worked, they turned off services that would not get passed certification during audits. What would you do? Obviously this could be career limiting if I choose the wrong approach Edit. Worth adding the auditor will be working with me, forcing m",
+      "published": "2026-08-30T09:41:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Brits would quite like their private messages to stay private",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "summary": "179 points · 103 comments",
+      "published": "2026-08-30T09:26:08+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Looking for a VAPT & Bug Bounty Learning Partner",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w2cied/looking_for_a_vapt_bug_bounty_learning_partner/",
+      "summary": "I'm currently learning VAPT (Vulnerability Assessment and Penetration Testing) and I'm also interested in Web Application Security and Bug Bounty Hunting. I'm looking for someone who is genuinely serious about learning and building a career in cybersecurity so we can learn and grow together. We can: • Practice VAPT labs and challenges • Work on TryHackMe / Hack The Box • Learn Web Application Security and OWASP Top 10 • Practice Bug Bounty methodologies • Discuss vulnerabilities and concepts • E",
+      "published": "2026-08-30T09:04:30+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Machine State analysis Vs Executable analysis",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w2caxz/machine_state_analysis_vs_executable_analysis/",
+      "summary": "I would like to announce that I have built the free VMA 486 Emulator that runs DOS, Win 3.0, 3.1, 3.11 and 95. It includes a machine state analyser that can freeze, save, load, disassemble and patch the machine memory. It then allows resuming execution. My new VAXD_VM allows doing this with a VM running Win7. https://vma-broadcast.com/vaxd-vaxd\\_vm/ submitted by /u/Bicurico [link] [comments]",
+      "published": "2026-08-30T08:52:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "summary": "94 points · 36 comments",
+      "published": "2026-08-30T08:51:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "summary": "117 points · 27 comments",
+      "published": "2026-08-30T08:23:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "url": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
+      "published": "2026-08-30T07:36:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Xcena and Samsung's Near Memory Compute CXL Device",
+      "url": "https://chipsandcheese.com/p/hot-chips-2026-xcena-and-samsungs",
+      "summary": "31 points · 2 comments",
+      "published": "2026-08-30T07:35:41+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "BMW Blames Young People For Loss of Real Buttons In New Cars",
+      "url": "https://tech.slashdot.org/story/26/08/30/067214/bmw-blames-young-people-for-loss-of-real-buttons-in-new-cars?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BMW is about to release their most screen-dependent vehicles ever, reports Car and Driver: Step into the BMW iX3, and you'll notice something is missing: real buttons. The climate controls are fettered to the center screen, as is nearly every other feature, save for a handful located in the center console — at least the window switches are still on the doors... But don't blame a desire for larger profit margins; BMW's move away from physical switchgear and toward touchscreen dependence is the fa",
+      "published": "2026-08-30T07:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Testing Security on Al Shopping Assistants: from Chat Box to Remote Code Execution on a Top US Retailer's Servers.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w2ai09/testing_security_on_al_shopping_assistants_from/",
       "summary": "submitted by /u/_clickfix_ [link] [comments]",
       "published": "2026-08-30T07:08:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "EC Council CTIA v2 advice",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w29o3a/ec_council_ctia_v2_advice/",
-      "summary": "Hi fellow cybersecurity enthusiasts, what are your advise for me for this CTIA exam preparation. What should I expect? TYIA submitted by /u/EnthusiasmOrnery8295 [link] [comments]",
-      "published": "2026-08-30T06:21:19+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Situation in cybersecurty",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w28qeo/situation_in_cybersecurty/",
-      "summary": "Hi Everyone, I'm completing my final year on university this year and started thinking about master in cybersecurty. I don't want to ask questions around it it is fine for me and interesting. I'm already working as full stack dev. I'm interested on market situation around it right now and how promising it looks in future. Thank you on all answers. submitted by /u/BinaryKnight1099 [link] [comments]",
-      "published": "2026-08-30T05:29:37+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cybersecurity Career",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w27v0c/cybersecurity_career/",
-      "summary": "While I know now isn’t the best time to enter cybersecurity (the cake has been baked essentially) I’m in my final semester at GA Tech getting my masters in cybersecurity. I have Network and Security plus. I interned this summer as an information security intern for a fin tech and before that was an information technology intern. Now I’m just doing customer support IT part time while o juggle classes. I was disheartened to see that this customer support role was all I could get. I trouble shoot a",
-      "published": "2026-08-30T04:43:47+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -62,17 +188,10 @@
       "published": "2026-08-30T04:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "apply for “system admin” role ?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w27nf7/apply_for_system_admin_role/",
-      "summary": "I have a master’s degree in Cybersecurity (2022), along with several basic certifications. I’m currently studying for the Network+ certification and may earn a few more certifications as well. Can I apply directly for a Sys/Admin position, or do I have to start in a Help Desk role first? I’m wondering if it’s possible to get into a System Administrator position right away. Location: Los Angeles Thank U ! submitted by /u/f_troy [link] [comments]",
-      "published": "2026-08-30T04:32:37+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
       "url": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-      "summary": "157 points · 31 comments",
+      "summary": "418 points · 188 comments",
       "published": "2026-08-30T03:15:36+00:00"
     },
     {
@@ -81,48 +200,6 @@
       "url": "https://linux.slashdot.org/story/26/08/29/2223248/debian-decides-contributors-can-use-generative-ai-responsibly?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "This week Debian voted on whether to ban AI-assisted contributions. The winning proposal? \"Debian neither endorses nor prohibits the use of generative AI tools\" in its projects, documentation, and packaging... Generative AI \"is neither exempt from nor subject to special rules beyond the standards already expected of Debian contributors.\" \"The responsibility for every contribution rests with the contributor who submits it, who remains accountable for its technical quality, legal acceptability, an",
       "published": "2026-08-30T01:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "FreeCORE TrueNAS Core – Continued",
-      "url": "https://freecore.org/",
-      "summary": "78 points · 48 comments",
-      "published": "2026-08-30T01:31:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-      "url": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-      "summary": "43 points · 11 comments",
-      "published": "2026-08-30T01:09:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-      "url": "https://github.com/mk6i/open-oscar-server",
-      "summary": "25 points · 9 comments",
-      "published": "2026-08-30T00:33:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "summary": "193 points · 91 comments",
-      "published": "2026-08-30T00:21:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Rise and Fall of Agent Civilizations",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "summary": "55 points · 14 comments",
-      "published": "2026-08-29T23:43:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "summary": "256 points · 131 comments",
-      "published": "2026-08-29T23:17:17+00:00"
     },
     {
       "source": "OSINT",
@@ -170,15 +247,8 @@
       "source": "HACKER NEWS",
       "title": "Hy4 preview",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "summary": "263 points · 162 comments",
+      "summary": "341 points · 204 comments",
       "published": "2026-08-29T19:33:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
-      "url": "https://dl.acm.org/doi/10.1145/3830438.3830958",
-      "summary": "77 points · 32 comments",
-      "published": "2026-08-29T19:01:09+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -230,20 +300,6 @@
       "published": "2026-08-29T16:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "summary": "181 points · 71 comments",
-      "published": "2026-08-29T15:48:02+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Xylitol Linked To Strokes and Heart Attacks, Study Finds",
-      "url": "https://science.slashdot.org/story/26/08/29/0058228/xylitol-linked-to-strokes-and-heart-attacks-study-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Guardian: A common sweetener used in products such as chewing gum, toothpaste, jam, yoghurts and ice-cream has been linked to an increased risk of strokes, heart attacks and death. Xylitol is a sugar alcohol present in some natural foods in very low amounts. It is also added -- often in amounts 1,000 times higher -- to artificially sweeten foods, beverages and oral care products. Despite its growing use, the long-term health impacts of xylitol have ne",
-      "published": "2026-08-29T15:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Brave browser adds email aliases to help users evade tracking",
       "url": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
@@ -251,25 +307,11 @@
       "published": "2026-08-29T14:19:23+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "The World's Busiest Spaceport Is About To Get a Lot Quieter, At Least For Now",
-      "url": "https://science.slashdot.org/story/26/08/29/0049211/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "SpaceX is significantly reducing Falcon 9 launches from Florida this year, ending the Space Coast's decade-long run as the world's busiest spaceport as more missions shift to Vandenberg Space Force Base in California. The slowdown is expected to continue until Starship begins flying regularly from Florida. Longtime Slashdot reader schwit1 shares a report from Ars Technica: A Falcon 9 launch early Tuesday was the last planned Starlink mission from Cape Canaveral until SpaceX begins flying Starshi",
-      "published": "2026-08-29T11:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "ShinyHunters Claims to have Voice-Phished 2 McKesson Employees and Extracted 284 Million Patient Records Including: Predictive health data, Identity, and Healthcare Identifiers. McKesson Confirms Breach but not severity",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w1ffak/shinyhunters_claims_to_have_voicephished_2/",
       "summary": "submitted by /u/lead_oxide2 [link] [comments]",
       "published": "2026-08-29T07:00:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Trying to Breakout in IT but unsure how",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w198wj/trying_to_breakout_in_it_but_unsure_how/",
-      "summary": "Hi everyone, Im looking for some advice and experiences on how to break into IT. Ive been trying for 2 years now since graduating with my BS in Cyber Security with zero luck. I have on top of the bachelors a GRC Anaylst Cert from USF, Sec + and a Cyber Security Professional Diploma. I have prior military experience and have held a clearance in the past but currently have non active. Really needing to make a career change before my body fully fails me from beating it to hell to much. Thank you al",
-      "published": "2026-08-29T01:41:45+00:00"
     },
     {
       "source": "OSINT",
@@ -392,13 +434,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
-      "url": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html",
-      "summary": "cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user. The vulnerability, assigned the CVE identifier CVE-2026-65643, impacts all supported versions of cPanel & WHM. cPanel described the issue as a critical security vulnerability and said that an",
-      "published": "2026-08-28T09:45:15+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
       "url": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
       "summary": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]",
@@ -413,10 +448,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Benchmarking Pocket-Scale Inference",
-      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
-      "summary": "34 points · 2 comments",
-      "published": "2026-08-27T19:12:03+00:00"
+      "title": "Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]",
+      "url": "https://www.youtube.com/watch?v=hpj6r6CjJf8",
+      "summary": "57 points · 3 comments",
+      "published": "2026-08-27T12:40:43+00:00"
     },
     {
       "source": "OSINT",
@@ -427,52 +462,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Is it safe to call print in a Python signal handler?",
-      "url": "https://iafisher.com/2026/08/sigprint",
-      "summary": "37 points · 20 comments",
-      "published": "2026-08-26T14:53:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
-      "url": "https://github.com/gbin/defragger",
-      "summary": "51 points · 36 comments",
-      "published": "2026-08-25T18:57:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Creating Teensy ELF Executables for Linux (Or, \"Size Is Everything\")",
-      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html",
-      "summary": "33 points · 6 comments",
-      "published": "2026-08-25T13:20:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "EVE Online moves to Python 3",
-      "url": "https://www.eveonline.com/news/view/the-move-to-python-3-begins",
-      "summary": "337 points · 183 comments",
-      "published": "2026-08-25T13:04:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "SQLite as a Document Database (2020)",
-      "url": "https://dgl.cx/2020/06/sqlite-json-support",
-      "summary": "197 points · 48 comments",
-      "published": "2026-08-24T23:00:10+00:00"
+      "title": "JupyterGIS 0.16: a grammar of graphics for maps, and collaborative story maps",
+      "url": "https://blog.jupyter.org/jupytergis-0-16-new-visualization-capabilities-collaborative-story-maps-and-more-03e6b78bacc0",
+      "summary": "49 points · 5 comments",
+      "published": "2026-08-25T08:43:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RISC-V is now officially supported by CPython",
       "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "summary": "111 points · 21 comments",
+      "summary": "224 points · 40 comments",
       "published": "2026-08-24T20:12:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "summary": "435 points · 171 comments",
-      "published": "2026-08-24T05:09:23+00:00"
     },
     {
       "source": "REDDIT",
