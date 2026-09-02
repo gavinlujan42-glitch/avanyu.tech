@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T21:56:11.181606+00:00",
-  "item_count": 62,
+  "updated": "2026-09-02T23:58:18.439094+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -31,6 +26,55 @@
     }
   ],
   "items": [
+    {
+      "source": "HACKER NEWS",
+      "title": "METR Report on OpenAI / Hugging Face Hacking Incident",
+      "url": "https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#core-takeaways-about-this-incident",
+      "summary": "38 points · 16 comments",
+      "published": "2026-09-02T23:08:47+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "FCC Plans Robocall Scorecard to Grade Phone Companies On Spam Call Blocking",
+      "url": "https://mobile.slashdot.org/story/26/09/02/215232/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The FCC is proposing (PDF) a public \"robocall mitigation scorecard\" that would grade phone companies on how well they block illegal spam calls while avoiding false positives on the legitimate ones. \"The Scorecard will empower consumers and encourage providers to continue to combat illegal robocalls by providing the public with an assessment of the effectiveness of voice service providers' efforts to protect consumers from illegal robocalls,\" the FCC Consumer and Governmental Affairs Bureau said ",
+      "published": "2026-09-02T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Maybe We Shouldn't Be Reviewing All This Code",
+      "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+      "summary": "27 points · 35 comments",
+      "published": "2026-09-02T22:36:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "url": "https://ronanrx.com/",
+      "summary": "11 points · 13 comments",
+      "published": "2026-09-02T22:36:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
+      "summary": "15 points · 1 comments",
+      "published": "2026-09-02T22:02:30+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "1Password Wades Into a Right-Wing Mess After Funding a Linux Project",
+      "url": "https://news.slashdot.org/story/26/09/02/2055245/1password-wades-into-a-right-wing-mess-after-funding-a-linux-project?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "1Password is facing customer and internal employee backlash after pledging $300,000 to support a Linux distro created by David Heinemeier Hansson, who has regularly published racist and anti-immigrant rhetoric. \"The popular password manager is now a 'distinguished corporate patron' of Omacom, the nonprofit foundation that oversees a popular Linux distribution known as Omarchy,\" reports The Verge. From the report: One viral blog post declared that 1Password \"Supports the Ethnic Cleansing of Europ",
+      "published": "2026-09-02T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
+      "summary": "55 points · 22 comments",
+      "published": "2026-09-02T21:46:33+00:00"
+    },
     {
       "source": "OSINT",
       "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
@@ -46,31 +90,45 @@
       "published": "2026-09-02T21:00:04+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
-      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
-      "summary": "20 points · 5 comments",
-      "published": "2026-09-02T20:08:22+00:00"
+      "source": "SLASHDOT",
+      "title": "CERN Transitioning From RHEL To Debian",
+      "url": "https://linux.slashdot.org/story/26/09/02/2041220/cern-transitioning-from-rhel-to-debian?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader Microsplat: CERN plans to have all 2,200+ industrial computers and embedded systems in its accelerator-control infrastructure running Debian 13 by the end of 2026. These are systems used for accelerator control, laboratory equipment and other operational functions ... They also generate and interact with a hefty amount of data, although this Linux.com article refers more broadly to CERN's computing infrastructure. It's unclear whether the Debian migration covers all serv",
+      "published": "2026-09-02T21:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "I wanna live an NPC life",
-      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
-      "summary": "120 points · 103 comments",
-      "published": "2026-09-02T19:52:53+00:00"
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "summary": "37 points · 11 comments",
+      "published": "2026-09-02T20:08:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI's Altman Says the Use of AI is 'Non-Negotiable'",
+      "url": "https://slashdot.org/story/26/09/02/1957204/openais-altman-says-the-use-of-ai-is-non-negotiable?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "OpenAI CEO Sam Altman said AI adoption is \"non-negotiable\" for countries, comparing rejecting it to refusing electricity a century ago and predicting it will unleash an unprecedented boom in entrepreneurship. \"The economic growth and benefit to people that can come from this, the value to a country, is too high to ignore,\" he said. His comments were made during a fireside chat with U.S. Commerce Secretary Howard Lutnick at the G20 Innovation Ministerial in Chapel Hill, North Carolina. CNBC repor",
+      "published": "2026-09-02T20:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Three high-severity vulnerabilities in HP Easy Start for macOS - CVE-2026-12554, CVE-2026-12555 and CVE-2026-12556",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5l3sm/three_highseverity_vulnerabilities_in_hp_easy/",
+      "summary": "I recently completed disclosure of three vulnerabilities I found in HP Easy Start for macOS. submitted by /u/ciphersecuritylabs [link] [comments]",
+      "published": "2026-09-02T19:51:51+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fable 5.1 World Modeling",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "summary": "68 points · 18 comments",
+      "summary": "119 points · 42 comments",
       "published": "2026-09-02T19:49:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Muse Spark 1.3",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "254 points · 151 comments",
+      "summary": "330 points · 234 comments",
       "published": "2026-09-02T19:35:04+00:00"
     },
     {
@@ -88,11 +146,11 @@
       "published": "2026-09-02T19:24:35+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5jpuh/hackers_exploit_critical_jfrog_artifactory_flaw/",
-      "summary": "submitted by /u/Secure-Expression148 [link] [comments]",
-      "published": "2026-09-02T19:03:16+00:00"
+      "source": "SLASHDOT",
+      "title": "NYC Public Schools Ban AI Use Through Middle School",
+      "url": "https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "New York City Public Schools is banning generative AI for students from pre-K through eighth grade for the 2026-27 school year, affecting more than half a million students in the nation's largest school district. ABC News reports: In a statement to ABC News, New York City Mayor Zohran Mamdani said that the city is implementing a moratorium on generative AI for students in pre-school or 2-K through eighth grade and will spend the next year \"studying the impacts of this technology.\" Mamdani wrote ",
+      "published": "2026-09-02T19:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -105,15 +163,8 @@
       "source": "HACKER NEWS",
       "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
       "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
-      "summary": "49 points · 24 comments",
+      "summary": "68 points · 39 comments",
       "published": "2026-09-02T18:42:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Embedded Rust RTOS vs. C RTOS",
-      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
-      "summary": "41 points · 18 comments",
-      "published": "2026-09-02T18:32:24+00:00"
     },
     {
       "source": "OSINT",
@@ -130,18 +181,18 @@
       "published": "2026-09-02T18:09:44+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Google Defeats US Bid to Force Ad Tech Sale",
+      "url": "https://yro.slashdot.org/story/26/09/02/1755251/google-defeats-us-bid-to-force-ad-tech-sale?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Reuters: Alphabet's Google escaped a breakup of its advertising technology business on Wednesday, when a judge in Virginia rejected U.S. antitrust enforcers' bid to force a sale of Google's online advertising exchange. While the ad exchange is a small part of Google's business, the ruling is the second powerful symbolic victory against the U.S. Department of Justice in its efforts to force Google to sell assets to address illegal monopolies. U.S. Judge Le",
+      "published": "2026-09-02T18:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Wireless Routers as Motion Detectors - Schneier on Security",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w5hrzh/wireless_routers_as_motion_detectors_schneier_on/",
       "summary": "submitted by /u/homothebrave [link] [comments]",
       "published": "2026-09-02T17:56:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Earth's organisms developed via evolution. What if the cosmos did, too?",
-      "url": "https://www.smithsonianmag.com/science-nature/earths-organisms-developed-via-evolution-some-theorists-wonder-what-if-the-entire-cosmos-did-too-180989338/",
-      "summary": "17 points · 8 comments",
-      "published": "2026-09-02T17:46:42+00:00"
     },
     {
       "source": "REDDIT",
@@ -158,6 +209,13 @@
       "published": "2026-09-02T17:21:12+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Uber Is Laying Off 10% of Its Workforce",
+      "url": "https://tech.slashdot.org/story/26/09/02/161253/uber-is-laying-off-10-of-its-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Uber is laying off about 3,300 employees, or roughly 10% of its workforce, as part of a restructuring aimed at cutting management layers and redirecting investment toward ridesharing, delivery, and robotaxis. CEO Dara Khosrowshahi announced the changes in an internal email that was also published online.TechCrunch reports: According to the email, the layoffs are part of a restructuring exercise that would shrink the number of managers by 20%, and some personnel in these roles would work as indiv",
+      "published": "2026-09-02T17:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
       "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
@@ -165,17 +223,38 @@
       "published": "2026-09-02T16:41:06+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://yro.slashdot.org/story/26/09/02/0611226/fbi-probes-service-selling-153m-drivers-licenses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A dark-web identity theft service called Nexus claims to be selling scans of more than 153 million U.S. and Canadian driver's licenses, along with millions of other identity documents. \"Based on interviews with individuals whose licenses are available for purchase through the service, it appears to be siphoning images collected by a widely used Louisiana-based identity verification company,\" reports KrebsOnSecurity. The outlet also reports that the FBI's New Orleans field office has launched an ",
+      "published": "2026-09-02T16:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+      "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+      "published": "2026-09-02T15:47:08+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "summary": "721 points · 420 comments",
+      "summary": "792 points · 470 comments",
       "published": "2026-09-02T15:12:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Dell Stock Surges On Record Orders For AI Servers",
+      "url": "https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings per share came in at $6.34, up 273% from a year ago. Adjusted earnings rose 203% to $7.04 per share. \"With AI momentum accelerating and our opportunity expanding across the portfolio, we're raising our full-year FY27 revenue outlook by $25 bil",
+      "published": "2026-09-02T15:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google avoids a breakup of its ad tech business",
       "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "summary": "150 points · 79 comments",
+      "summary": "225 points · 136 comments",
       "published": "2026-09-02T14:46:16+00:00"
     },
     {
@@ -184,13 +263,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w5boq6/how_do_non_technical_leaders_manage_technical/",
       "summary": "Hi, I am not sure if anyone has been in a team led by a non technical manager. I know a few who became directors in well known organizations with zero background in cybersecurity, no formal education or technical background. I have always been wondering how they manage security engineers without knowing the subject matter. They got those positions through their contacts like one director I know has a CISO who is his brother in law. He hired him to be a director. submitted by /u/Alone-Asparagus-2",
       "published": "2026-09-02T14:18:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Exit the Cave",
-      "url": "https://turtlespace.blog/p/exit-the-cave",
-      "summary": "182 points · 54 comments",
-      "published": "2026-09-02T14:16:45+00:00"
     },
     {
       "source": "OSINT",
@@ -207,6 +279,13 @@
       "published": "2026-09-02T14:02:12+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "summary": "286 points · 126 comments",
+      "published": "2026-09-02T13:59:59+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Lazy Colleagues?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w5ay4w/lazy_colleagues/",
@@ -221,13 +300,6 @@
       "published": "2026-09-02T13:44:16+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Biggest dark matter detector spots a single weird particle",
-      "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "summary": "214 points · 63 comments",
-      "published": "2026-09-02T13:40:29+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
       "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
@@ -236,16 +308,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
-      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "summary": "167 points · 76 comments",
-      "published": "2026-09-02T12:59:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "summary": "344 points · 147 comments",
+      "summary": "359 points · 155 comments",
       "published": "2026-09-02T12:30:39+00:00"
     },
     {
@@ -268,6 +333,13 @@
       "url": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
       "summary": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of cyber risk. Download the full eBook here. The Business Reality In Sygnia’s 2026 CISO Survey Report, which",
       "published": "2026-09-02T11:30:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Sonos Has New Devices, a New OS, and Yes, a New App",
+      "url": "https://entertainment.slashdot.org/story/26/09/02/0543221/sonos-has-new-devices-a-new-os-and-yes-a-new-app?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Wired: Sonos has a new app. Stop me if you've heard this one before. The smart speaker company, long a darling of the audio industry, undid much of the goodwill it earned with its multiroom speakers through a bevy of software updates that broke its app in 2024. Almost all app users hated it, citing the loss of features like volume control and accessibility tools meant to help blind people use the wireless speaker system. Sonos eventually owned up to the m",
+      "published": "2026-09-02T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -312,13 +384,6 @@
       "published": "2026-09-02T09:06:48+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Commodore 64 released September 1, 1982",
-      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-      "summary": "305 points · 158 comments",
-      "published": "2026-09-02T08:36:43+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Sality botnet infrastructure dismantled in joint global takedown",
       "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
@@ -340,6 +405,13 @@
       "published": "2026-09-02T07:08:50+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "NASA Selects Blue Origin As Mars Telecommunications Network Provider",
+      "url": "https://science.slashdot.org/story/26/09/02/0527234/nasa-selects-blue-origin-as-mars-telecommunications-network-provider?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "NASA has awarded Blue Origin a contract worth up to $700 million to build and operate a dedicated Mars telecommunications network for current and future missions to the Red Planet. Blue Origin is expected to deliver the spacecraft by the end of 2028, with the network targeted to become operational by 2030. From a press release: Blue Origin will design, develop, integrate, launch, and operate the network as a part of the agency's broader space communications and navigation infrastructure. The arc",
+      "published": "2026-09-02T07:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
@@ -347,18 +419,11 @@
       "published": "2026-09-02T06:39:29+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w4xss2/fbi_probes_service_selling_153m_drivers_licenses/",
-      "summary": "submitted by /u/BarnacleBasic1988 [link] [comments]",
-      "published": "2026-09-02T02:38:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
-      "url": "https://owntime.app/",
-      "summary": "5 points · 0 comments",
-      "published": "2026-09-01T21:29:24+00:00"
+      "source": "SLASHDOT",
+      "title": "LZ Experiment Sees Surprising Result In Search For Dark Matter",
+      "url": "https://science.slashdot.org/story/26/09/02/0018212/lz-experiment-sees-surprising-result-in-search-for-dark-matter?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "New submitter greytree shares a report from Brown University: LUX-ZEPLIN, an experiment co-led by Brown University faculty and students, observed a particle interaction that could be interpreted as a signal from WIMPs, a dark matter candidate -- but researchers need more data to confirm. [...] The result does not yet meet the statistical threshold required to claim a discovery, but it is the most compelling hint of dark matter reported by the experiment to date. \"We're very intrigued to see this",
+      "published": "2026-09-02T03:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -383,17 +448,31 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Engineering of the fastest WebAssembly interpreters",
+      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
+      "summary": "28 points · 0 comments",
+      "published": "2026-09-01T12:25:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Wendell Berry has died",
       "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-      "summary": "94 points · 44 comments",
+      "summary": "129 points · 65 comments",
       "published": "2026-09-01T01:49:58+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Reverse Engineering Unknown File Formats with ImHex",
       "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "summary": "26 points · 2 comments",
+      "summary": "76 points · 10 comments",
       "published": "2026-08-31T12:01:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Holden's Lightning Flight",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "summary": "21 points · 0 comments",
+      "published": "2026-08-31T11:29:44+00:00"
     },
     {
       "source": "REDDIT",
