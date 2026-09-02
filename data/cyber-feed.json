@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T16:24:59.080120+00:00",
-  "item_count": 73,
+  "updated": "2026-09-02T19:27:42.973814+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,11 +27,88 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "NYC Public Schools Ban AI Use Through Middle School",
+      "url": "https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "New York City Public Schools is banning generative AI for students from pre-K through eighth grade for the 2026-27 school year, affecting more than half a million students in the nation's largest school district. ABC News reports: In a statement to ABC News, New York City Mayor Zohran Mamdani said that the city is implementing a moratorium on generative AI for students in pre-school or 2-K through eighth grade and will spend the next year \"studying the impacts of this technology.\" Mamdani wrote ",
+      "published": "2026-09-02T19:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Surge AI, Mercor Reportedly Sell Training Data to Chinese Labs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5jh0e/surge_ai_mercor_reportedly_sell_training_data_to/",
+      "summary": "Chinese military companies are buying the same exact training data that the US Army and Air Force use. How bad is this for security? submitted by /u/BarnacleBasic1988 [link] [comments]",
+      "published": "2026-09-02T18:54:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "summary": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program. \"The Fairwind Program gives high-priority defenders (like governments, healthcare providers, and telecommunications services) early access to advanced models that help them",
+      "published": "2026-09-02T18:27:49+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Freeze the Controller, Defrost the Food: Uncovering Vulnerabilities in Danfoss Refrigeration Controllers",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5i5y2/freeze_the_controller_defrost_the_food_uncovering/",
+      "summary": "Team82 recently analyzed the Danfoss AK-SM 800A refrigeration controller and identified multiple vulnerabilities in its embedded web management interface. One finding involved a hidden “code-of-the-day” authentication mechanism that could be abused to bypass the controller’s standard authentication controls. Successful exploitation could enable an attacker to inject code and potentially disrupt refrigeration operations . Team82 disclosed the findings to Danfoss, and the vulnerabilities were addr",
+      "published": "2026-09-02T18:09:44+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Defeats US Bid to Force Ad Tech Sale",
+      "url": "https://yro.slashdot.org/story/26/09/02/1755251/google-defeats-us-bid-to-force-ad-tech-sale?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Reuters: Alphabet's Google escaped a breakup of its advertising technology business on Wednesday, when a judge in Virginia rejected U.S. antitrust enforcers' bid to force a sale of Google's online advertising exchange. While the ad exchange is a small part of Google's business, the ruling is the second powerful symbolic victory against the U.S. Department of Justice in its efforts to force Google to sell assets to address illegal monopolies. U.S. Judge Le",
+      "published": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Wireless Routers as Motion Detectors - Schneier on Security",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5hrzh/wireless_routers_as_motion_detectors_schneier_on/",
+      "summary": "submitted by /u/homothebrave [link] [comments]",
+      "published": "2026-09-02T17:56:03+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Saving money on Google Photos with Immich: Your own personal photo storage",
-      "url": "https://www.markpitblado.me/blog/saving-on-google-photos-with-immich-your-own-personal-photo-storage/",
-      "summary": "6 points · 3 comments",
-      "published": "2026-09-02T16:07:18+00:00"
+      "title": "I Don't Have a Smartphone",
+      "url": "https://ploum.net/2026-09-02-i_dont_have_a_smartphone.html",
+      "summary": "117 points · 102 comments",
+      "published": "2026-09-02T17:51:29+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How can you tell in system logs when an AI agent is trying to break rules, rather than a human hacker?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5hftj/how_can_you_tell_in_system_logs_when_an_ai_agent/",
+      "summary": "Building log alerts, so trying to understand how autonomous behavior looks in practice submitted by /u/Mariel-Netwrix [link] [comments]",
+      "published": "2026-09-02T17:44:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cloud Administrator to Cybersecurity",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5gs0m/cloud_administrator_to_cybersecurity/",
+      "summary": "Hey folks, I’d love to get your feedback on whether this is a dumb idea I’m considering. Background: I’ve been working as a Cloud Administrator for about 4 years now, with some DevOps experience on the side, although I wouldn’t consider myself a full-blown DevOps Engineer. Most of my career has been focused on Microsoft Azure and GCP. I currently have pretty good work-life balance and my stress level is manageable. But lately I’ve been thinking about moving into Cybersecurity, starting in SOC an",
+      "published": "2026-09-02T17:21:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Paint.net 5.2 alpha now runs on Linux",
+      "url": "https://forums.paint.net/topic/134562-paintnet-52-alpha-build-9739/",
+      "summary": "106 points · 78 comments",
+      "published": "2026-09-02T17:18:39+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Uber Is Laying Off 10% of Its Workforce",
+      "url": "https://tech.slashdot.org/story/26/09/02/161253/uber-is-laying-off-10-of-its-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Uber is laying off about 3,300 employees, or roughly 10% of its workforce, as part of a restructuring aimed at cutting management layers and redirecting investment toward ridesharing, delivery, and robotaxis. CEO Dara Khosrowshahi announced the changes in an internal email that was also published online.TechCrunch reports: According to the email, the layoffs are part of a restructuring exercise that would shrink the number of managers by 20%, and some personnel in these roles would work as indiv",
+      "published": "2026-09-02T17:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
+      "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+      "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affecting China-based operations of multinational organizations and Chinese-speaking users,\" Microsoft",
+      "published": "2026-09-02T16:41:06+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -49,16 +126,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "summary": "27 points · 2 comments",
-      "published": "2026-09-02T15:44:06+00:00"
+      "title": "SteamdDB Joins Nexus Mods",
+      "url": "https://www.nexusmods.com/news/15597",
+      "summary": "64 points · 32 comments",
+      "published": "2026-09-02T15:25:55+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Gemini 3.8 Flash",
-      "url": "https://deepmind.google/models/model-cards/gemini-3-8-flash/",
-      "summary": "243 points · 120 comments",
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "summary": "576 points · 356 comments",
       "published": "2026-09-02T15:12:40+00:00"
     },
     {
@@ -67,6 +144,13 @@
       "url": "https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings per share came in at $6.34, up 273% from a year ago. Adjusted earnings rose 203% to $7.04 per share. \"With AI momentum accelerating and our opportunity expanding across the portfolio, we're raising our full-year FY27 revenue outlook by $25 bil",
       "published": "2026-09-02T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "summary": "8 points · 0 comments",
+      "published": "2026-09-02T14:46:16+00:00"
     },
     {
       "source": "REDDIT",
@@ -79,15 +163,8 @@
       "source": "HACKER NEWS",
       "title": "Exit the Cave",
       "url": "https://turtlespace.blog/p/exit-the-cave",
-      "summary": "59 points · 13 comments",
+      "summary": "138 points · 36 comments",
       "published": "2026-09-02T14:16:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Multiple vulnerabilities in Aruba Networking (Aruba CX) switches (Sept-01-2026)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5bmjb/multiple_vulnerabilities_in_aruba_networking/",
-      "summary": "Some of them are pretty nasty, plan accordingly. https://networkingsupport.hpe.com/notification/security/Tm90aWZpY2F0aW9uOjE5ODY4OA%3D%3D submitted by /u/ch0jin [link] [comments]",
-      "published": "2026-09-02T14:15:49+00:00"
     },
     {
       "source": "OSINT",
@@ -100,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "WebLLM: high-performance in-browser LLM inference engine",
       "url": "https://github.com/mlc-ai/web-llm",
-      "summary": "28 points · 8 comments",
+      "summary": "60 points · 14 comments",
       "published": "2026-09-02T14:02:35+00:00"
     },
     {
@@ -112,16 +189,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "GrapheneOS says Pixel 11 has MTE support after all",
-      "url": "https://grapheneos.social/@GrapheneOS/117194007157499435",
-      "summary": "92 points · 59 comments",
-      "published": "2026-09-02T14:00:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "141 points · 79 comments",
+      "summary": "233 points · 109 comments",
       "published": "2026-09-02T13:59:59+00:00"
     },
     {
@@ -133,16 +203,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A third of Perplexity's citations don't contain the number they're cited for",
-      "url": "https://hausresearch.com/reports/perplexity-citation-audit/",
-      "summary": "46 points · 14 comments",
-      "published": "2026-09-02T13:49:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Poisson Disk Sampling",
       "url": "https://stripeacross.com/posts/poisson-disk-sampling/",
-      "summary": "55 points · 6 comments",
+      "summary": "95 points · 13 comments",
       "published": "2026-09-02T13:47:49+00:00"
     },
     {
@@ -154,16 +217,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Six curl CVEs after OpenAI and Anthropic came back with zero",
-      "url": "https://aisle.com/blog/aisle-discovered-six-curl-cves-after-openai-and-anthropic-found-zero",
-      "summary": "96 points · 30 comments",
-      "published": "2026-09-02T13:43:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Biggest dark matter detector spots a single weird particle",
       "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "summary": "111 points · 21 comments",
+      "summary": "186 points · 44 comments",
       "published": "2026-09-02T13:40:29+00:00"
     },
     {
@@ -177,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "A Note from LWN",
       "url": "https://lwn.net/Articles/1090585/",
-      "summary": "448 points · 96 comments",
+      "summary": "631 points · 125 comments",
       "published": "2026-09-02T13:17:12+00:00"
     },
     {
@@ -188,24 +244,17 @@
       "published": "2026-09-02T13:12:45+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Recommended Cloud Sandbox?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w59q1b/recommended_cloud_sandbox/",
-      "summary": "This will be for enterprise usage. I need a secure sandbox that I can use to detonate payloads, investigate phishing messages, etc. We had previously used Joes Sandbox but we are having some procurement issues and now looking for an alternative. Since that was the main product they have been using for years, figured there might be better options by now anyways. While I personally am an old school guy who loves open source, virtual machine, local stuff the organization is going to prefer a cloud ",
-      "published": "2026-09-02T13:01:57+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Aging Brains Blend Memories Together Instead of Just Forgetting Them",
       "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "summary": "74 points · 26 comments",
+      "summary": "135 points · 57 comments",
       "published": "2026-09-02T12:59:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mistral now trains on user input by default, except on enterprise tier",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "summary": "174 points · 80 comments",
+      "summary": "298 points · 126 comments",
       "published": "2026-09-02T12:30:39+00:00"
     },
     {
@@ -214,13 +263,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
       "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
       "published": "2026-09-02T12:30:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Check if a file was made with Claude",
-      "url": "https://claude.com/check-content",
-      "summary": "75 points · 47 comments",
-      "published": "2026-09-02T12:23:20+00:00"
     },
     {
       "source": "OSINT",
@@ -296,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "Commodore 64 released September 1, 1982",
       "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
-      "summary": "241 points · 121 comments",
+      "summary": "290 points · 140 comments",
       "published": "2026-09-02T08:36:43+00:00"
     },
     {
@@ -329,24 +371,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
-      "published": "2026-09-02T06:56:30+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
       "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
       "published": "2026-09-02T06:39:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres | ‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w526cb/police_scotland_warns_robust_security_needed_to/",
-      "summary": "submitted by /u/KeanuRave100 [link] [comments]",
-      "published": "2026-09-02T06:19:50+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -354,13 +382,6 @@
       "url": "https://science.slashdot.org/story/26/09/02/0018212/lz-experiment-sees-surprising-result-in-search-for-dark-matter?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "New submitter greytree shares a report from Brown University: LUX-ZEPLIN, an experiment co-led by Brown University faculty and students, observed a particle interaction that could be interpreted as a signal from WIMPs, a dark matter candidate -- but researchers need more data to confirm. [...] The result does not yet meet the statistical threshold required to claim a discovery, but it is the most compelling hint of dark matter reported by the experiment to date. \"We're very intrigued to see this",
       "published": "2026-09-02T03:30:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w4xe0i/hackers_abuse_faronics_deploy_admin_tool_to/",
-      "summary": "submitted by /u/AsterPrivacy [link] [comments]",
-      "published": "2026-09-02T02:19:28+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -384,6 +405,13 @@
       "published": "2026-09-01T21:00:00+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+      "published": "2026-09-01T20:53:23+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Dyson Made a Camera-Equipped Toothbrush That Flosses For You",
       "url": "https://tech.slashdot.org/story/26/09/01/1927243/dyson-made-a-camera-equipped-toothbrush-that-flosses-for-you?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -398,46 +426,11 @@
       "published": "2026-09-01T19:28:17+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "BT's Old Copper Landline Network Could Be Worth Over $2 Billion",
-      "url": "https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "BT could make more than $2.7 billion by recycling copper from its aging UK landline network as BT subsidiary Openreach replaces legacy wiring with full-fiber broadband. Engadget reports: BT's recovered copper was previously valued at around $2 billion. But prices have surged, thanks to rising global demand tied to AI data centers, renewable energy and electrification. With global demand expected to grow sharply over the next decade, the value of BT's copper could potentially exceed even that $2.",
-      "published": "2026-09-01T19:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What is actually expected from a cybersecurity manager at a FAANG-level company?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w4kpwu/what_is_actually_expected_from_a_cybersecurity/",
-      "summary": "Beyond technical skills, what does success look like for a cybersecurity manager at a FAANG-scale organization? submitted by /u/10ninja [link] [comments]",
-      "published": "2026-09-01T18:35:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenClaw 2.0 Is Here, Ushering In the Era of 'Multiplayer' AI Coding",
-      "url": "https://developers.slashdot.org/story/26/09/01/1733206/openclaw-20-is-here-ushering-in-the-era-of-multiplayer-ai-coding?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from VentureBeat: The viral fervor we saw earlier this year around OpenClaw, the open source AI harness that turns powerful language models into autonomous workers the user can message via their favorite channels (Telegram, iMessage, WhatsApp, Discord etc), has cooled off substantially from its peak in March 2026. But over the weekend, OpenClaw's creator Peter Steinberger and current team of co-developers gave the world -- especially enterprises -- a reason to",
-      "published": "2026-09-01T18:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
       "url": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
       "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
       "published": "2026-09-01T17:54:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "summary": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to administrative access in Artifactory. \"JFrog Artifactory contains an authentication weakness that, under default",
-      "published": "2026-09-01T17:53:11+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda",
-      "url": "https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Anthropic has reportedly signed a $35 billion cloud-computing deal with Nvidia-backed Lambda for a roughly 350-megawatt Texas data center being developed by Hut 8. \"Lambda will install Nvidia chips at the Hut 8 facility, with the arrangement designed to expand the pool of Nvidia computing resources available to power Anthropic's Claude AI products,\" reports Quartz. From the report: The arrangement is a further sign of how Nvidia is positioning itself as a facilitator of computing access across t",
-      "published": "2026-09-01T17:10:00+00:00"
     },
     {
       "source": "OSINT",
@@ -455,17 +448,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A Selection of Los Alamos Rolodex Business Cards",
-      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
-      "summary": "41 points · 7 comments",
-      "published": "2026-08-31T19:25:44+00:00"
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "summary": "17 points · 0 comments",
+      "published": "2026-09-01T13:41:11+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "AI, ex-Soviet engineers, and the Holy Grail of rocketry",
-      "url": "https://www.fastcompany.com/91563020/aspire-rocket-design-spacex",
-      "summary": "10 points · 1 comments",
-      "published": "2026-08-31T09:04:32+00:00"
+      "title": "Wendell Berry has died",
+      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
+      "summary": "15 points · 12 comments",
+      "published": "2026-09-01T01:49:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Selection of Los Alamos Rolodex Business Cards",
+      "url": "https://clui.org/collections/los-alamos-business-cards/selection-cards",
+      "summary": "100 points · 20 comments",
+      "published": "2026-08-31T19:25:44+00:00"
     },
     {
       "source": "REDDIT",
@@ -473,6 +473,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w2xjlk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-31T00:00:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Making the Internet Boring",
+      "url": "https://cemrehancavdar.com/2026/08/30/making-the-internet-boring/",
+      "summary": "26 points · 10 comments",
+      "published": "2026-08-30T20:20:30+00:00"
     },
     {
       "source": "OSINT",
