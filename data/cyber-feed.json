@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-02T06:20:05.134678+00:00",
-  "item_count": 72,
+  "updated": "2026-09-02T11:38:26.228560+00:00",
+  "item_count": 61,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,6 +32,139 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
+      "url": "https://arxiv.org/abs/2608.31016",
+      "summary": "6 points · 0 comments",
+      "published": "2026-09-02T11:07:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "summary": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are listed below - CVE-2026-83548 (CVSS score: 10.0) - A pre-authentication SSRF vulnerability in the Appliance",
+      "published": "2026-09-02T10:53:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-09-02T10:39:02+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+      "published": "2026-09-02T10:29:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cybersecurity as a hobby?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w56eza/cybersecurity_as_a_hobby/",
+      "summary": "I’ve realized that ever since I was young, I’ve always had an interest in networks, computers, and even the dumb little hacks and cheats people used to do for facebook games, cod, and other games growing up. That whole side of tech always intrigued me and it wasn’t until recently that I decided I genuinely want to learn how it all works. I started learning through tryhackme and was wondering if anyone here does cybersecurity mainly as a hobby. What do you usually do in your free time to practice",
+      "published": "2026-09-02T10:22:55+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "SAP security job",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w567kx/sap_security_job/",
+      "summary": "Hey guys, I am earning 50k INR in SAP security job with 5 yrs exp. And looking for a change. Any leads. I don't have hands on GRC, but will be prepared with it before I change my company. I am now currently undergoing IAG,BTP training and have worked on CIS as well in cloud. I am willing to relocate as well. submitted by /u/Chris-pe0 [link] [comments]",
+      "published": "2026-09-02T10:11:44+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Quantum computing needs software engineers",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w566pc/quantum_computing_needs_software_engineers/",
+      "summary": "For those in the technology industry, it can feel hard to escape from AI. It’s at the center of the technological universe, with most major advancements, opportunities, and funding focused on its development. In the background, quantum computing is making strides with the funding to match, creating an alternate opportunity for technologists. submitted by /u/Suspicious_Orchid770 [link] [comments]",
+      "published": "2026-09-02T10:10:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sweden pauses Denmark power cable over EU grid rules",
+      "url": "https://www.nordiskpost.com/2026/05/08/sweden-power-cable-dispute-freezes-link-to-denmark/",
+      "summary": "22 points · 0 comments",
+      "published": "2026-09-02T09:20:34+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "summary": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8, 2026, and published the vulnerability details on August 31. GeoNetwork originated at the United Nations Food and",
+      "published": "2026-09-02T09:18:02+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "url": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "summary": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich Aktulaev, 40, was arrested in Cyprus in May 2025, the U.S. Attorney's Office for the Northern District of California",
+      "published": "2026-09-02T09:10:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+      "published": "2026-09-02T09:06:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "4 CVEs in GeoNetwork exposed government geoportals in 39 countries to unauthenticated RCE, fully patched after coordinated disclosure",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w54tgo/4_cves_in_geonetwork_exposed_government/",
+      "summary": "submitted by /u/ZealousidealHunter80 [link] [comments]",
+      "published": "2026-09-02T08:52:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Telli (YC F24) is hiring engineers and designers [Berlin, on-site]",
+      "url": "https://careers.telli.com/",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-02T08:43:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Commodore 64 released September 1, 1982",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "summary": "110 points · 32 comments",
+      "published": "2026-09-02T08:36:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
+      "published": "2026-09-02T08:00:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets CVE-2021-31886, a stack-based buffer overflow in the Nucleus FTP server's handling of the USER command",
+      "published": "2026-09-02T07:47:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
+      "published": "2026-09-02T07:08:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "url": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary, and Romania, in collaboration with private industry partners CrowdStrike and the Shadowserver Foundation. To that",
+      "published": "2026-09-02T06:56:30+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+      "published": "2026-09-02T06:39:29+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres | ‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w526cb/police_scotland_warns_robust_security_needed_to/",
@@ -37,22 +175,15 @@
       "source": "HACKER NEWS",
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
       "url": "https://arxiv.org/abs/2608.29530",
-      "summary": "43 points · 5 comments",
+      "summary": "170 points · 59 comments",
       "published": "2026-09-02T04:15:56+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "WebFPGA",
+      "title": "WebFPGA (2019)",
       "url": "https://webfpga.io/",
-      "summary": "28 points · 17 comments",
+      "summary": "92 points · 32 comments",
       "published": "2026-09-02T03:54:58+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "LZ Experiment Sees Surprising Result In Search For Dark Matter",
-      "url": "https://science.slashdot.org/story/26/09/02/0018212/lz-experiment-sees-surprising-result-in-search-for-dark-matter?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "New submitter greytree shares a report from Brown University: LUX-ZEPLIN, an experiment co-led by Brown University faculty and students, observed a particle interaction that could be interpreted as a signal from WIMPs, a dark matter candidate -- but researchers need more data to confirm. [...] The result does not yet meet the statistical threshold required to claim a discovery, but it is the most compelling hint of dark matter reported by the experiment to date. \"We're very intrigued to see this",
-      "published": "2026-09-02T03:30:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -60,13 +191,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w4xss2/fbi_probes_service_selling_153m_drivers_licenses/",
       "summary": "submitted by /u/BarnacleBasic1988 [link] [comments]",
       "published": "2026-09-02T02:38:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "True Rate of Unemployment",
-      "url": "https://www.lisep.org/tru",
-      "summary": "132 points · 72 comments",
-      "published": "2026-09-02T02:21:10+00:00"
     },
     {
       "source": "REDDIT",
@@ -79,22 +203,8 @@
       "source": "HACKER NEWS",
       "title": "The efficient frontier of LLM inference",
       "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
-      "summary": "85 points · 22 comments",
+      "summary": "129 points · 35 comments",
       "published": "2026-09-01T23:48:05+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "GoPro Says It's Moving Into Data Centers As Part of a $285 Million Merger",
-      "url": "https://slashdot.org/story/26/09/01/1943244/gopro-says-its-moving-into-data-centers-as-part-of-a-285-million-merger?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "GoPro plans to expand into AI infrastructure through a $285 million merger with optical-photonics company Starman Optical, whose transceivers will give the action-camera maker a foothold in the fast-growing data center market. GoPro also plans to push into defense, robotics, aerospace, and government markets while continuing its existing camera business. Engadget reports: Starman's optical transceivers are expected to fall under its umbrella, \"extending the Company's reach into the large and rap",
-      "published": "2026-09-01T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "My local model setup on an M4 Pro Mac Mini",
-      "url": "https://lws.io/blog/my-local-model-setup/",
-      "summary": "137 points · 67 comments",
-      "published": "2026-09-01T22:30:52+00:00"
     },
     {
       "source": "REDDIT",
@@ -107,50 +217,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
       "url": "https://masteranza.github.io/weedout/",
-      "summary": "97 points · 40 comments",
+      "summary": "155 points · 68 comments",
       "published": "2026-09-01T22:06:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Who Is John Ternus, the New Apple CEO?",
-      "url": "https://hardware.slashdot.org/story/26/09/01/1955204/who-is-john-ternus-the-new-apple-ceo?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "John Ternus has officially taken over as Apple CEO after 15 years under Tim Cook, stepping up from his role as senior vice president of hardware engineering. A 25-year Apple veteran who helped oversee products including AirPods, Apple Watch, Vision Pro, Apple silicon, and the new MacBook Neo, Ternus now inherits the challenge of pushing Apple forward in AI while Cook stays on as executive chairman. TechCrunch reports: Ternus has worked at Apple for nearly half of his life -- now 51 years old, he",
-      "published": "2026-09-01T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Anthropic's Claude Fable 5.1 and Mythos 5.1 Arrive With a 75% Cost Reduction For Fable Cache Reads",
-      "url": "https://it.slashdot.org/story/26/09/01/2037255/anthropics-claude-fable-51-and-mythos-51-arrive-with-a-75-cost-reduction-for-fable-cache-reads?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Anthropic has released Claude Fable 5.1 and Mythos 5.1, two versions of the same underlying model aimed at longer-running agentic work. \"For enterprise buyers, however, the release is about more than another round of benchmark gains,\" reports VentureBeat. \"Anthropic is simultaneously changing the economics of running persistent agents, reducing the cost of cached context by 75%, and introducing a new security architecture called Enterprise Frontier Safeguards, or EFS, designed to let organizatio",
-      "published": "2026-09-01T21:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
-      "url": "https://hnmatchmaker.com/",
-      "summary": "68 points · 30 comments",
-      "published": "2026-09-01T20:53:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra/",
-      "summary": "119 points · 52 comments",
-      "published": "2026-09-01T20:20:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "summary": "336 points · 153 comments",
-      "published": "2026-09-01T20:07:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Dyson Made a Camera-Equipped Toothbrush That Flosses For You",
-      "url": "https://tech.slashdot.org/story/26/09/01/1927243/dyson-made-a-camera-equipped-toothbrush-that-flosses-for-you?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Dyson is entering oral care with the $499 CameraJet, a smart toothbrush that uses a tiny camera and on-device AI to detect gaps between teeth and automatically blast them with mouthwash while you brush. Regular toothpaste and mouthwash will work with the CameraJet, but Dyson plans to sell its own non- or low-foaming formulas designed to give the toothbrush's camera a clearer view inside your mouth. The Verge reports: Just below the brush head is a tiny camera with a 100,000-pixel resolution and ",
-      "published": "2026-09-01T20:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -158,13 +226,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
       "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
       "published": "2026-09-01T19:28:17+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "BT's Old Copper Landline Network Could Be Worth Over $2 Billion",
-      "url": "https://news.slashdot.org/story/26/09/01/1815258/bts-old-copper-landline-network-could-be-worth-over-2-billion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "BT could make more than $2.7 billion by recycling copper from its aging UK landline network as BT subsidiary Openreach replaces legacy wiring with full-fiber broadband. Engadget reports: BT's recovered copper was previously valued at around $2 billion. But prices have surged, thanks to rising global demand tied to AI data centers, renewable energy and electrification. With global demand expected to grow sharply over the next decade, the value of BT's copper could potentially exceed even that $2.",
-      "published": "2026-09-01T19:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -177,15 +238,8 @@
       "source": "HACKER NEWS",
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
       "url": "https://danluu.com/zitron/",
-      "summary": "586 points · 670 comments",
+      "summary": "742 points · 818 comments",
       "published": "2026-09-01T18:35:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenClaw 2.0 Is Here, Ushering In the Era of 'Multiplayer' AI Coding",
-      "url": "https://developers.slashdot.org/story/26/09/01/1733206/openclaw-20-is-here-ushering-in-the-era-of-multiplayer-ai-coding?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from VentureBeat: The viral fervor we saw earlier this year around OpenClaw, the open source AI harness that turns powerful language models into autonomous workers the user can message via their favorite channels (Telegram, iMessage, WhatsApp, Discord etc), has cooled off substantially from its peak in March 2026. But over the weekend, OpenClaw's creator Peter Steinberger and current team of co-developers gave the world -- especially enterprises -- a reason to",
-      "published": "2026-09-01T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -198,7 +252,7 @@
       "source": "HACKER NEWS",
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "summary": "1100 points · 1019 comments",
+      "summary": "1285 points · 1200 comments",
       "published": "2026-09-01T17:53:53+00:00"
     },
     {
@@ -210,10 +264,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The creator of Jujutsu has joined ERSC",
-      "url": "https://ersc.io/blog/martin-joins-ersc",
-      "summary": "215 points · 161 comments",
-      "published": "2026-09-01T17:46:21+00:00"
+      "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
+      "url": "https://www.norirobotics.com/",
+      "summary": "176 points · 55 comments",
+      "published": "2026-09-01T17:35:10+00:00"
     },
     {
       "source": "OSINT",
@@ -223,39 +277,11 @@
       "published": "2026-09-01T17:19:24+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Regarding cybersecurity and documentation, are you expected to reinvent the wheel?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w4ih1r/regarding_cybersecurity_and_documentation_are_you/",
-      "summary": "So I'm under the impression that in terms of cybersecurity, employers care more about skill than degrees, and one of those ways to show skill is projects and documentation The thing is though, is that what could someone like me possibly document or make a project of in an industry that has seemingly been fully covered by other people? Like, if I practice attacking and defending in cybersecurity or practice analyzing, what could a noob like me possibly offer that others haven't Am I expected to r",
-      "published": "2026-09-01T17:19:06+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Fine, I'll build my own text editor",
       "url": "https://dbushell.com/2026/09/01/text-editor/",
-      "summary": "48 points · 39 comments",
+      "summary": "155 points · 136 comments",
       "published": "2026-09-01T17:12:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Anthropic Signs $35 Billion Cloud Deal With Nvidia-Backed Lambda",
-      "url": "https://slashdot.org/story/26/09/01/177239/anthropic-signs-35-billion-cloud-deal-with-nvidia-backed-lambda?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Anthropic has reportedly signed a $35 billion cloud-computing deal with Nvidia-backed Lambda for a roughly 350-megawatt Texas data center being developed by Hut 8. \"Lambda will install Nvidia chips at the Hut 8 facility, with the arrangement designed to expand the pool of Nvidia computing resources available to power Anthropic's Claude AI products,\" reports Quartz. From the report: The arrangement is a further sign of how Nvidia is positioning itself as a facilitator of computing access across t",
-      "published": "2026-09-01T17:10:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Jensen Huang and Lisa Su Snubbed By TIME's 2026 List of Top 100 AI Leaders",
-      "url": "https://slashdot.org/story/26/09/01/0331222/jensen-huang-and-lisa-su-snubbed-by-times-2026-list-of-top-100-ai-leaders?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "TIME's 2026 list of the 100 most influential people in AI omits Nvidia CEO Jensen Huang and AMD CEO Lisa Su, despite both having appeared on previous editions and playing central roles in the hardware powering the AI boom. Nvidia's only representative this year is sustainability chief Josh Parker, while the list includes figures such as Ben Affleck and Paris Hilton alongside major tech executives and policymakers. Tom's Hardware reports: Broadcom CEO Hock Tan, Micron CEO Sanjay Mehrotra, SMIC co",
-      "published": "2026-09-01T16:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Florida Bans Flock Cameras From State Highways",
-      "url": "https://news.slashdot.org/story/26/09/01/032256/florida-bans-flock-cameras-from-state-highways?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "schwit1 shares a report from WCTV: Florida Governor Ron DeSantis said he's removing Flock camera from state roadways. The announcement comes amid a growing concern over the misuse of automated license plate readers. On Monday, DeSantis ordered all Flock cameras removed from what he calls the 'state highway system' within the next 30 days, which would include interstates like I-10 and I-75. That order led to several sheriff's departments like in Franklin, Liberty and Putnam Counties to announce t",
-      "published": "2026-09-01T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -286,25 +312,11 @@
       "published": "2026-09-01T14:01:11+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Tired and Feel Stuck",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w4cp4n/tired_and_feel_stuck/",
-      "summary": "Hi everyone, I’ve been in working in the general sector of IT for about 3 years now and have always enjoyed studying cybersecurity. I got my B.S. in Cybersecurity, along general certs (8) such as CompTIA CySA+ and others. I get ppl are normally in IT for 5-7 years with moving up to a network admin or system admin and then try to pivot into cyber. I understand that a degree and labs are only a small piece to the overall process. There is zero cybersecurity jobs where I live and if there is an ope",
-      "published": "2026-09-01T13:54:55+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Introducing Ad Blocker for Firefox on iOS",
       "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
-      "summary": "388 points · 128 comments",
+      "summary": "507 points · 166 comments",
       "published": "2026-09-01T13:46:49+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Is docusign sufficiently secure? Does this example raise any security concerns?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w4biwl/is_docusign_sufficiently_secure_does_this_example/",
-      "summary": "Apologies if this is meant for r/cybersecurity_help , it felt like a general question that concerns the overall security of a product rather than just my personal experience, so I thought this sub would be the right place. Let me know if not, I can move it. My employer sent me a document to sign via docusign which has a button called \"Review documents\" which leads to the following URL: https://eu.docusign.net/Signing/EmailStart.aspx?a= &etti= &acct= &er= I've annonimized any ids or hashes in the",
-      "published": "2026-09-01T13:09:04+00:00"
     },
     {
       "source": "OSINT",
@@ -312,13 +324,6 @@
       "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
       "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript. Russian cybersecurity company Kaspersky is tracking the",
       "published": "2026-09-01T13:08:58+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w4au2i/five_venezuelans_plead_guilty_to_atm_jackpotting/",
-      "summary": "submitted by /u/Doug24 [link] [comments]",
-      "published": "2026-09-01T12:41:06+00:00"
     },
     {
       "source": "OSINT",
@@ -342,11 +347,11 @@
       "published": "2026-09-01T11:30:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "California Lawmakers Greenlight Solar Panels You Can Plug Into the Wall",
-      "url": "https://hardware.slashdot.org/story/26/09/01/0318201/california-lawmakers-greenlight-solar-panels-you-can-plug-into-the-wall?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "California lawmakers have passed a bill that would legalize plug-in \"balcony\" solar systems, allowing residents to connect small solar panels directly to a standard wall outlet after completing a simple online registration. The systems would be capped at 1,200 watts and must meet safety requirements designed to prevent power from feeding back onto the grid during outages. KQED reports: The legislation, SB 868, sailed through the state assembly and senate with bipartisan support. The bill now mov",
-      "published": "2026-09-01T11:00:00+00:00"
+      "source": "OSINT",
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "url": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+      "published": "2026-09-01T09:15:07+00:00"
     },
     {
       "source": "OSINT",
@@ -356,20 +361,6 @@
       "published": "2026-09-01T09:05:30+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "url": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on X, is to deliberately trip a large language model's (LLM) safety mechanisms and prevent its",
-      "published": "2026-09-01T08:26:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
-      "published": "2026-09-01T07:48:24+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "China-linked campaign targets high-value networks, critical infrastructure",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w44wtj/chinalinked_campaign_targets_highvalue_networks/",
@@ -377,74 +368,11 @@
       "published": "2026-09-01T07:36:31+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user. CVE-2026-66066 aka",
-      "published": "2026-09-01T07:22:30+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Electrically Charged Raindrops Can Corrode Cars and Buildings",
-      "url": "https://science.slashdot.org/story/26/09/01/0043208/electrically-charged-raindrops-can-corrode-cars-and-buildings?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Researchers have found that tiny electrical charges picked up by moving water droplets may be damaging cars and buildings like the Eiffel Tower. In experiments, thousands of charged droplets degraded Teflon and corroded the copper beneath it, while uncharged droplets caused no comparable damage. C&EN reports: For years, researchers at the Max Planck Institute for Polymer Research have studied how water droplets from rain, dew, ocean waves, and melting snow become electrically charged. They say t",
-      "published": "2026-09-01T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "url": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
-      "published": "2026-08-31T20:47:54+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-      "published": "2026-08-31T18:51:04+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
-      "url": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
-      "summary": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and the medical profession. The ongoing insider threat is part of what has been described as the IT worker scheme,",
-      "published": "2026-08-31T17:24:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-      "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
-      "published": "2026-08-31T16:56:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
-      "url": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
-      "summary": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task was optional. Elsewhere, fake apps, helpful support calls, cheap banking kits, exposed systems, and weak defaults kept",
-      "published": "2026-08-31T13:50:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions",
-      "url": "https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html",
-      "summary": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclusions. Russian cybersecurity vendor Kaspersky said the attackers built the disguise around QN Wallpaper, a genuine Chinese desktop-wallpaper tool",
-      "published": "2026-08-31T12:14:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "url": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its",
-      "published": "2026-08-31T11:47:24+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Salad Theory",
-      "url": "https://saladtheory.github.io/",
-      "summary": "9 points · 1 comments",
-      "published": "2026-08-31T03:11:39+00:00"
+      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
+      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/",
+      "summary": "28 points · 3 comments",
+      "published": "2026-08-31T11:01:19+00:00"
     },
     {
       "source": "REDDIT",
@@ -455,16 +383,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Forgotten History of Small Nuclear Reactors (2015)",
-      "url": "https://spectrum.ieee.org/the-forgotten-history-of-small-nuclear-reactors",
-      "summary": "25 points · 3 comments",
-      "published": "2026-08-28T22:05:39+00:00"
+      "title": "Open Battery Information",
+      "url": "https://github.com/mnh-jansson/open-battery-information",
+      "summary": "20 points · 8 comments",
+      "published": "2026-08-29T23:27:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sonic Pi",
       "url": "https://sonic-pi.net/",
-      "summary": "92 points · 14 comments",
+      "summary": "181 points · 36 comments",
       "published": "2026-08-28T17:51:19+00:00"
     },
     {
