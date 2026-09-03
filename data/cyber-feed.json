@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T13:29:01.922449+00:00",
-  "item_count": 74,
+  "updated": "2026-09-03T17:07:58.297067+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,174 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-03T17:00:16+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Audacity 4 Rebuilds the Open Source Audio Editor But Leaves Some Features Behind",
+      "url": "https://news.slashdot.org/story/26/09/03/163216/audacity-4-rebuilds-the-open-source-audio-editor-but-leaves-some-features-behind?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BrianFagioli writes: Audacity 4.0 has been released with a rebuilt Qt interface, a new clip-editing model, customizable workspaces, native high-DPI rendering, and a new AUP4 project format. The open source audio editor also adds ASIO playback and recording support to official Windows builds, while bringing major changes to recording, playback, plugins, and project handling. The overhaul comes with some tradeoffs. Audacity 4.0 currently lacks several features found in Audacity 3, including Time T",
+      "published": "2026-09-03T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
+      "url": "https://www.mireye.com",
+      "summary": "5 points · 0 comments",
+      "published": "2026-09-03T16:24:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Designing a Fail-Closed & Bare-Metal Zeroization Engine: Architectural Challenges",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6c5nw/designing_a_failclosed_baremetal_zeroization/",
+      "summary": "I've been deep into developing a custom low-level engine focused on fail-closed state enforcement, bare-metal memory scrubbing, and automated zeroization protocols. When working close to the metal with volatile RAM persistence, handling edge cases where a process drops or encounters a fault without leaking sensitive states is notoriously tricky. Traditional garbage collection or standard OS-level termination isn't always enough when dealing with high-integrity threat models. For those of you bui",
+      "published": "2026-09-03T16:23:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Texas Data Center Map: See where data centers are operating or planned",
+      "url": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
+      "summary": "23 points · 10 comments",
+      "published": "2026-09-03T16:10:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6bqde/an_aiassisted_cyber_attack_inside_a_unit_42/",
+      "summary": "submitted by /u/putcheeseonit [link] [comments]",
+      "published": "2026-09-03T16:08:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Releases Gemini 3.8 Flash, Its Third Flash Model In Six Weeks",
+      "url": "https://tech.slashdot.org/story/26/09/03/1557237/google-releases-gemini-38-flash-its-third-flash-model-in-six-weeks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google released Gemini 3.8 Flash, its third Flash model in six weeks, claiming it's their best reasoning and coding model yet (topping the DeepSWE leaderboard). Ars Technica reports: Gemini 3.8 Flash comes in two variations. There's the standard Flash, which Google describes as a \"workhorse\" model that's good for anything from agentic tasks to software development. Then we have Gemini 3.8 Flash Cyber, which runs on the same foundations but has been tuned for vulnerability detection and mitigatio",
+      "published": "2026-09-03T16:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+      "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+      "summary": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella CVEs, 2 of which are rated 9.8, with no workaround for any IOS XR version. The Nexus vulnerability, tracked as CVE-2026-20212 (CVSS score: 9.8), is",
+      "published": "2026-09-03T15:52:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sony makes bold claim about game ownership",
+      "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
+      "summary": "99 points · 114 comments",
+      "published": "2026-09-03T15:44:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "K2 Horizon: Frontier Performance, Radically Open",
+      "url": "https://ifm.ai/blog/k2/",
+      "summary": "77 points · 24 comments",
+      "published": "2026-09-03T15:36:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+      "url": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts. \"Unlike the standard infostealer model, BraZetsu is a comprehensive master toolkit that empowers Initial Access Brokers (IABs) by turning compromised systems into highly valuable commercial",
+      "published": "2026-09-03T15:26:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+      "summary": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+      "published": "2026-09-03T15:22:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+      "summary": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+      "published": "2026-09-03T15:13:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "url": "https://news.ycombinator.com/item?id=49551096",
+      "summary": "122 points · 93 comments",
+      "published": "2026-09-03T15:07:01+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic confirms Claude is down, multiple models affected",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+      "published": "2026-09-03T15:02:52+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
+      "url": "https://yro.slashdot.org/story/26/09/02/230259/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Wired: Michele Spagnuolo, the Google engineer arrested in May by U.S. authorities for alleged insider trading on Polymarket, is making a new bold bet. On Wednesday, his legal team filed a motion to dismiss the charges against him. Spagnuolo isn't outright denying that he made money using internal information from Google. Instead, his legal team says that the wagers were not financial instruments subject to regulation by the United States' Commodities Exch",
+      "published": "2026-09-03T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": ".name Termination",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "summary": "335 points · 89 comments",
+      "published": "2026-09-03T14:54:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+      "published": "2026-09-03T14:52:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
+      "url": "https://anyhumanever.com/",
+      "summary": "133 points · 67 comments",
+      "published": "2026-09-03T14:51:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+      "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+      "summary": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands, and Ontario, Canada. West Publishing said it discovered the activity on June 30, 2026. A subset of court records could contain individuals' names",
+      "published": "2026-09-03T14:39:05+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents | US owner of Claude chatbot previously said its models had hacked three organisations during testing",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w68udz/not_perfectly_aligned_with_human_values_anthropic/",
+      "summary": "submitted by /u/KeanuRave100 [link] [comments]",
+      "published": "2026-09-03T14:22:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Evaluating Outsourcing Computer Requirements - Third Party Security",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w68ovc/evaluating_outsourcing_computer_requirements/",
+      "summary": "Hello everyone's! We’re currently reviewing the security of our outsourced/third-party workers after discovering that some were using personal computers with little to no security controls in place. Our current workflow is: We send a security checklist to the vendor. The vendor completes and returns it. Our security team reviews the answers and approves/rejects the device. The problem is that we have a lot of vendors, . We’re also a very small security team — basically me, myself and I :) For th",
+      "published": "2026-09-03T14:16:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
+      "summary": "126 points · 57 comments",
+      "published": "2026-09-03T13:51:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
+      "published": "2026-09-03T13:50:59+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Plex warns users to patch security vulnerabilities immediately",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w66xgm/plex_warns_users_to_patch_security/",
@@ -51,15 +219,8 @@
       "source": "HACKER NEWS",
       "title": "Nvidia to Acquire Hugging Face",
       "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "summary": "44 points · 10 comments",
+      "summary": "223 points · 60 comments",
       "published": "2026-09-03T12:10:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "summary": "1 points · 0 comments",
-      "published": "2026-09-03T12:00:52+00:00"
     },
     {
       "source": "OSINT",
@@ -69,18 +230,11 @@
       "published": "2026-09-03T11:58:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Penetration testing with a MacBook",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w64os3/penetration_testing_with_a_macbook/",
-      "summary": "I’ve read comments saying that it’s difficult to set up a virtualised Kali system on a MacBook to carry out penetration testing, and that some features might not work – has anyone experienced this? submitted by /u/GoodSecurity4304 [link] [comments]",
-      "published": "2026-09-03T11:27:39+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "A dark horse enters China's AI race: StartLux",
-      "url": "https://chinaonchina.com/article/chen-dawei-returns-enters-the-large-model-sector",
-      "summary": "28 points · 10 comments",
-      "published": "2026-09-03T11:12:57+00:00"
+      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
+      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
+      "summary": "114 points · 75 comments",
+      "published": "2026-09-03T11:01:04+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -100,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Audacity 4.0",
       "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "summary": "315 points · 68 comments",
+      "summary": "812 points · 180 comments",
       "published": "2026-09-03T10:53:08+00:00"
     },
     {
@@ -116,13 +270,6 @@
       "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
       "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
       "published": "2026-09-03T10:36:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Claude for Commerce Agents",
-      "url": "https://claude.com/blog/claude-for-commerce-agents",
-      "summary": "17 points · 8 comments",
-      "published": "2026-09-03T09:37:55+00:00"
     },
     {
       "source": "REDDIT",
@@ -146,20 +293,6 @@
       "published": "2026-09-03T08:43:17+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Matrix/Element preferred by governments vs. using Signal",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w60pj7/matrixelement_preferred_by_governments_vs_using/",
-      "summary": "I use Element for secure communications. Apparently EU countries are setting up their own restricted servers for government use only. For example: Tchap - France, Belgium- BEAM, Luxembourg - LuxChat4Gov, Germany - BundesMessenger, Greece - grnet. There are several other countries where the topic is classified. These countries are trying to get away from US \"security\" messengers. 25+ governments are now using Matrix, with 150+ Matrix based deployments. In terms of security, do you agree with Euro",
-      "published": "2026-09-03T07:45:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
-      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
-      "summary": "103 points · 39 comments",
-      "published": "2026-09-03T07:04:13+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Instrument Clusters Are Now Paid Extras In Two Hyundai Models",
       "url": "https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -170,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "Pre-Release of Polars 2.0",
       "url": "https://pola.rs/posts/announcing-polars-2/",
-      "summary": "261 points · 75 comments",
+      "summary": "331 points · 107 comments",
       "published": "2026-09-03T06:59:08+00:00"
     },
     {
@@ -251,13 +384,6 @@
       "published": "2026-09-02T20:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Muse Spark 1.3",
-      "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "628 points · 411 comments",
-      "published": "2026-09-02T19:35:04+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
@@ -286,25 +412,11 @@
       "published": "2026-09-02T18:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Uber Is Laying Off 10% of Its Workforce",
-      "url": "https://tech.slashdot.org/story/26/09/02/161253/uber-is-laying-off-10-of-its-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Uber is laying off about 3,300 employees, or roughly 10% of its workforce, as part of a restructuring aimed at cutting management layers and redirecting investment toward ridesharing, delivery, and robotaxis. CEO Dara Khosrowshahi announced the changes in an internal email that was also published online.TechCrunch reports: According to the email, the layoffs are part of a restructuring exercise that would shrink the number of managers by 20%, and some personnel in these roles would work as indiv",
-      "published": "2026-09-02T17:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
       "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
       "summary": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers. \"The campaign has targeted users looking to download popular software and has resulted in compromises across multiple organizations and industries, primarily affecting China-based operations of multinational organizations and Chinese-speaking users,\" Microsoft",
       "published": "2026-09-02T16:41:06+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://yro.slashdot.org/story/26/09/02/0611226/fbi-probes-service-selling-153m-drivers-licenses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A dark-web identity theft service called Nexus claims to be selling scans of more than 153 million U.S. and Canadian driver's licenses, along with millions of other identity documents. \"Based on interviews with individuals whose licenses are available for purchase through the service, it appears to be siphoning images collected by a widely used Louisiana-based identity verification company,\" reports KrebsOnSecurity. The outlet also reports that the FBI's New Orleans field office has launched an ",
-      "published": "2026-09-02T16:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -317,29 +429,8 @@
       "source": "HACKER NEWS",
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "summary": "1078 points · 614 comments",
+      "summary": "1131 points · 638 comments",
       "published": "2026-09-02T15:12:40+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Dell Stock Surges On Record Orders For AI Servers",
-      "url": "https://slashdot.org/story/26/09/02/0551240/dell-stock-surges-on-record-orders-for-ai-servers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Dell reported record fiscal Q2 results as AI server demand surged, booking $60.9 billion in AI server orders and ending the quarter with a $95 billion backlog. From a report: The company posted record revenue of $47 billion, up 58% year over year. Earnings per share came in at $6.34, up 273% from a year ago. Adjusted earnings rose 203% to $7.04 per share. \"With AI momentum accelerating and our opportunity expanding across the portfolio, we're raising our full-year FY27 revenue outlook by $25 bil",
-      "published": "2026-09-02T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google avoids a breakup of its ad tech business",
-      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "summary": "423 points · 299 comments",
-      "published": "2026-09-02T14:46:16+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How do non technical leaders manage technical security engineers?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5boq6/how_do_non_technical_leaders_manage_technical/",
-      "summary": "Hi, I am not sure if anyone has been in a team led by a non technical manager. I know a few who became directors in well known organizations with zero background in cybersecurity, no formal education or technical background. I have always been wondering how they manage security engineers without knowing the subject matter. They got those positions through their contacts like one director I know has a CISO who is his brother in law. He hired him to be a director. submitted by /u/Alone-Asparagus-2",
-      "published": "2026-09-02T14:18:10+00:00"
     },
     {
       "source": "OSINT",
@@ -356,115 +447,31 @@
       "published": "2026-09-02T14:02:12+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
-      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "467 points · 223 comments",
-      "published": "2026-09-02T13:59:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Lazy Colleagues?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5ay4w/lazy_colleagues/",
-      "summary": "I belong to a SOC team. Lately I’ve noticed a few teammates cherry-picking tickets. Grabbing the quick, easy ones and leaving the rest sitting in the queue. We’re not micromanaged, which I generally like, but it also means nobody’s really watching who’s taking what, so this kind of thing just goes unnoticed. Our queue tends to be pretty light early in the shift and picks up in the afternoon, so the gaps are easy to paper over until they’re not. (We do not have round-robin ticket assignment) I’m ",
-      "published": "2026-09-02T13:50:21+00:00"
-    },
-    {
       "source": "OSINT",
-      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-      "url": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-      "summary": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting online gambling and sports betting. Check Point Research said it has tracked the campaign since mid-2025. The modules",
-      "published": "2026-09-02T13:44:16+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-      "url": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-      "summary": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked Virtualizor hypervisors sustained root-level compromise. The incident window ran from approximately August 28 at 20:57",
-      "published": "2026-09-02T13:12:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Dropbox accounts breached through Lenovo email verification flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-      "summary": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-      "published": "2026-09-02T12:30:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-      "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said the campaign's advertisement focused on Spain and reached an estimated 570,950 Meta accounts in the European Union",
-      "published": "2026-09-02T12:22:02+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Defender flags legitimate Google search links as malicious",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-      "summary": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-      "published": "2026-09-02T10:29:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "US charges Russian for infecting 80,000 freelancers with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-      "summary": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-      "published": "2026-09-02T09:06:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Sality botnet infrastructure dismantled in joint global takedown",
-      "url": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-      "summary": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-      "published": "2026-09-02T08:00:43+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-      "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-      "published": "2026-09-02T06:39:29+00:00"
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
+      "published": "2026-09-01T22:40:28+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Browser's Main Thread Is Expensive",
+      "title": "The browser's main thread is expensive",
       "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "summary": "206 points · 63 comments",
+      "summary": "305 points · 101 comments",
       "published": "2026-09-01T14:00:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Invisible Companies",
       "url": "https://colossus.com/article/invisible-companies/",
-      "summary": "44 points · 10 comments",
+      "summary": "125 points · 37 comments",
       "published": "2026-09-01T12:48:40+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Fish Bad, Sugar Good and Other Medieval Ideas About Food",
-      "url": "https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/",
-      "summary": "41 points · 25 comments",
-      "published": "2026-08-31T19:14:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Computer Museum of America reclamation project",
-      "url": "https://computer-museum.org/wp/",
-      "summary": "67 points · 28 comments",
-      "published": "2026-08-31T16:15:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Holden's Lightning Flight",
-      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "summary": "187 points · 39 comments",
-      "published": "2026-08-31T11:29:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Intrusive Linked Lists",
+      "title": "Intrusive linked lists (2019)",
       "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
-      "summary": "14 points · 1 comments",
+      "summary": "67 points · 39 comments",
       "published": "2026-08-31T03:28:32+00:00"
     },
     {
@@ -478,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "What I Learned from My Mom (1941-2026)",
       "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
-      "summary": "90 points · 4 comments",
+      "summary": "210 points · 8 comments",
       "published": "2026-08-29T19:52:51+00:00"
     },
     {
