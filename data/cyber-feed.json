@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T17:07:58.297067+00:00",
+  "updated": "2026-09-03T20:04:33.965100+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,8 +27,92 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "url": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "summary": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+      "published": "2026-09-03T20:04:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Millions of US/Canadian drivers license being sold - Who do we think got breached? Id.me? Verify.me?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6gzs0/millions_of_uscanadian_drivers_license_being_sold/",
+      "summary": "FBI probes dark web site selling millions of US and Canada drivers' licenses submitted by /u/Dtrain-14 [link] [comments]",
+      "published": "2026-09-03T19:12:55+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Network pentesters with 2–3 years of experience: What does your day-to-day work actually look like?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6guig/network_pentesters_with_23_years_of_experience/",
+      "summary": "For those of you with **2–3 years of experience in network penetration testing.**can you tell me what you guys doing actually. I’m currently trying to get into network pentesting. I have the fundamentals and I’m practicing on Hack The Box and TryHackMe , but I’d like to understand what the actual work is like in a professional environment. i only know till like Nessus, Nmap, and OpenVAS . seen some guys scans and give reports like these port are open. these port have that vurnilbilty like that. ",
+      "published": "2026-09-03T19:07:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Nvidia Launches Free Tool That Links Idle Computers Into a Personal AI Data Center",
+      "url": "https://tech.slashdot.org/story/26/09/03/1723202/nvidia-launches-free-tool-that-links-idle-computers-into-a-personal-ai-data-center?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Nvidia has launched PAIR, a free open-source tool that links compatible computers on a home network so they can pool idle processing power for local AI inference and agentic workloads. \"While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spark systems), Apple's M4 chips or newer will also work,\" reports The Verge. From the report: The key thing here is that PAIR uses your in-home systems when they're idle to ",
+      "published": "2026-09-03T19:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Breaking Down Appsec Part 1: Application Context",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6glyi/breaking_down_appsec_part_1_application_context/",
+      "summary": "I started a blog series to provide free insights into appsec. It’s mainly to breakdown what application security is all about and it’s mainly targeted towards beginners and startups, so take it as you will. Just want to teach every one interested in appsec my perspective on it from my experience in big tech. I talk about the importance of Application Context aka understanding what your application is doing. I can dive into any topic anyone is interested in. Just let me know what sort of topic yo",
+      "published": "2026-09-03T18:59:32+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Founding Creative Engineer – Gooseworks (YC W23) Is Hiring",
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "summary": "353 points · 185 comments",
+      "published": "2026-09-03T18:41:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "summary": "231 points · 77 comments",
+      "published": "2026-09-03T18:32:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+      "summary": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+      "published": "2026-09-03T18:28:12+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "summary": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links, and software guides that point to unsafe downloads. One wrong letter in a web address can be enough. There is also",
+      "published": "2026-09-03T18:02:47+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI's New Reasoning Technique Alarms AI Safety Experts",
+      "url": "https://it.slashdot.org/story/26/09/03/174254/openais-new-reasoning-technique-alarms-ai-safety-experts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TechCrunch: OpenAI's new Astra model will use a reasoning technique called \"recurrent depth\" that allows it to operate outside of the sequential thinking that characterizes most reasoning models, The Information reported on Tuesday. This technique, also called \"opaque recurrence,\" will likely make the model's chain of thought more difficult to monitor -- and that has AI safety experts rattled. While Astra's use of the technique is reportedly limited, its ",
+      "published": "2026-09-03T18:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What do you guys use for quick cybersecurity news?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6er66/what_do_you_guys_use_for_quick_cybersecurity_news/",
+      "summary": "Looking for something i could listen to for 20-30 minutes with whats going on in the world of cyber. Everything i get referenced is like 2 hours long. I use bleeping computer generally but wanted something while im driving. submitted by /u/NikkaSheyr [link] [comments]",
+      "published": "2026-09-03T17:55:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How concerned should we be about Astra's recurrent architecture?",
+      "url": "https://www.lesswrong.com/posts/PLisnSFir8y5AHkmP/how-concerned-should-we-be-about-astra-s-recurrent",
+      "summary": "34 points · 17 comments",
+      "published": "2026-09-03T17:10:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Gooseworks (YC W23) Is Hiring – Founding Creative Engineer",
       "url": "https://www.ycombinator.com/companies/gooseworks/jobs/rfgY8La-founding-creative-engineer",
       "summary": "1 points · 0 comments",
       "published": "2026-09-03T17:00:16+00:00"
@@ -42,24 +126,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Launch HN: Mireye (YC S26) – Infrastructure for Physical World AI Agents",
-      "url": "https://www.mireye.com",
-      "summary": "5 points · 0 comments",
-      "published": "2026-09-03T16:24:13+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Designing a Fail-Closed & Bare-Metal Zeroization Engine: Architectural Challenges",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6c5nw/designing_a_failclosed_baremetal_zeroization/",
-      "summary": "I've been deep into developing a custom low-level engine focused on fail-closed state enforcement, bare-metal memory scrubbing, and automated zeroization protocols. When working close to the metal with volatile RAM persistence, handling edge cases where a process drops or encounters a fault without leaking sensitive states is notoriously tricky. Traditional garbage collection or standard OS-level termination isn't always enough when dealing with high-integrity threat models. For those of you bui",
-      "published": "2026-09-03T16:23:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Texas Data Center Map: See where data centers are operating or planned",
-      "url": "https://www.kxan.com/news/texas/texas-data-center-tracker-see-where-600-projects-are-operating-or-planned-across-state-in-interactive-map/",
-      "summary": "23 points · 10 comments",
-      "published": "2026-09-03T16:10:12+00:00"
+      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
+      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
+      "summary": "50 points · 5 comments",
+      "published": "2026-09-03T16:21:33+00:00"
     },
     {
       "source": "REDDIT",
@@ -84,16 +154,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Sony makes bold claim about game ownership",
-      "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
-      "summary": "99 points · 114 comments",
-      "published": "2026-09-03T15:44:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "K2 Horizon: Frontier Performance, Radically Open",
+      "title": "K2 Horizon: A connected fleet of six open models",
       "url": "https://ifm.ai/blog/k2/",
-      "summary": "77 points · 24 comments",
+      "summary": "186 points · 60 comments",
       "published": "2026-09-03T15:36:43+00:00"
     },
     {
@@ -119,9 +182,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ask HN: Why are OpenAI, Claude, and Grok simultaneously down? Coincidence?",
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
       "url": "https://news.ycombinator.com/item?id=49551096",
-      "summary": "122 points · 93 comments",
+      "summary": "252 points · 468 comments",
       "published": "2026-09-03T15:07:01+00:00"
     },
     {
@@ -142,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
-      "summary": "335 points · 89 comments",
+      "summary": "952 points · 276 comments",
       "published": "2026-09-03T14:54:39+00:00"
     },
     {
@@ -156,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Any Human Ever – One life, drawn at random from all who have ever lived",
       "url": "https://anyhumanever.com/",
-      "summary": "133 points · 67 comments",
+      "summary": "299 points · 133 comments",
       "published": "2026-09-03T14:51:10+00:00"
     },
     {
@@ -167,25 +230,18 @@
       "published": "2026-09-03T14:39:05+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "summary": "81 points · 30 comments",
+      "published": "2026-09-03T14:28:18+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents | US owner of Claude chatbot previously said its models had hacked three organisations during testing",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w68udz/not_perfectly_aligned_with_human_values_anthropic/",
       "summary": "submitted by /u/KeanuRave100 [link] [comments]",
       "published": "2026-09-03T14:22:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Evaluating Outsourcing Computer Requirements - Third Party Security",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w68ovc/evaluating_outsourcing_computer_requirements/",
-      "summary": "Hello everyone's! We’re currently reviewing the security of our outsourced/third-party workers after discovering that some were using personal computers with little to no security controls in place. Our current workflow is: We send a security checklist to the vendor. The vendor completes and returns it. Our security team reviews the answers and approves/rejects the device. The problem is that we have a lot of vendors, . We’re also a very small security team — basically me, myself and I :) For th",
-      "published": "2026-09-03T14:16:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
-      "url": "https://newsguild.org/new-york-times-and-the-athletic-workers-demand-company-scrap-kalshi-deal/",
-      "summary": "126 points · 57 comments",
-      "published": "2026-09-03T13:51:44+00:00"
     },
     {
       "source": "OSINT",
@@ -216,25 +272,11 @@
       "published": "2026-09-03T12:16:32+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Nvidia to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "summary": "223 points · 60 comments",
-      "published": "2026-09-03T12:10:33+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
       "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
       "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
       "published": "2026-09-03T11:58:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "summary": "114 points · 75 comments",
-      "published": "2026-09-03T11:01:04+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -244,17 +286,10 @@
       "published": "2026-09-03T11:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How does multiple products that require traffic decryption work on the same endpoint?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6418e/how_does_multiple_products_that_require_traffic/",
-      "summary": "With lots of ShadowIT and shadowAI, many organizations are worried about data controls. I was reading on the new products, safeguards, guardrails and what not. There are products out there who all are a variation of a Secure Web Gateway (or part of a SSE solution). They see the data in motion at their cloud tenant/deployed tenant and apply controls. The issue as I see is there are two ways of reading traffic. Explicit Proxy - Apply a proxy auto config file or configure the proxy plugin URL in to",
-      "published": "2026-09-03T10:55:03+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Audacity 4.0",
       "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
-      "summary": "812 points · 180 comments",
+      "summary": "934 points · 208 comments",
       "published": "2026-09-03T10:53:08+00:00"
     },
     {
@@ -270,6 +305,13 @@
       "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
       "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
       "published": "2026-09-03T10:36:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Gloria Steinem has died",
+      "url": "https://www.theguardian.com/books/2026/sep/03/gloria-steinem-groundbreaking-feminist-campaigner-dies-aged-92",
+      "summary": "49 points · 17 comments",
+      "published": "2026-09-03T10:31:18+00:00"
     },
     {
       "source": "REDDIT",
@@ -300,13 +342,6 @@
       "published": "2026-09-03T07:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Pre-Release of Polars 2.0",
-      "url": "https://pola.rs/posts/announcing-polars-2/",
-      "summary": "331 points · 107 comments",
-      "published": "2026-09-03T06:59:08+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
       "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
@@ -335,6 +370,13 @@
       "published": "2026-09-03T02:28:58+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "GPS glitched across the US by as much as 33 feet",
+      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
+      "summary": "35 points · 5 comments",
+      "published": "2026-09-03T00:49:07+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Which area of cybersecurity will be the most resistant to AI and layoffs?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w5rx2g/which_area_of_cybersecurity_will_be_the_most/",
@@ -342,18 +384,18 @@
       "published": "2026-09-03T00:16:47+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "SHARE Foundation: Students and Opposition Politicians Targeted by Spyware",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5rkz1/share_foundation_students_and_opposition/",
-      "summary": "Citizen Lab investigators confirmed that the phone belonging to the student movement member who received the warning was infected with Pegasus, spyware developed by the Israeli company NSO Group. The device was hacked with a 0-click exploit targeting iPhone application iMessage. This means that the device was infected remotely, without any knowledge or interaction by the user. submitted by /u/Navodar94 [link] [comments]",
-      "published": "2026-09-03T00:01:53+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "FCC Plans Robocall Scorecard to Grade Phone Companies On Spam Call Blocking",
       "url": "https://mobile.slashdot.org/story/26/09/02/215232/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The FCC is proposing (PDF) a public \"robocall mitigation scorecard\" that would grade phone companies on how well they block illegal spam calls while avoiding false positives on the legitimate ones. \"The Scorecard will empower consumers and encourage providers to continue to combat illegal robocalls by providing the public with an assessment of the effectiveness of voice service providers' efforts to protect consumers from illegal robocalls,\" the FCC Consumer and Governmental Affairs Bureau said ",
       "published": "2026-09-02T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "VC isn't VC anymore",
+      "url": "https://www.anildash.com/2026/09/02/cancer-capital/",
+      "summary": "71 points · 106 comments",
+      "published": "2026-09-02T22:05:39+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -391,13 +433,6 @@
       "published": "2026-09-02T19:28:46+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "NYC Public Schools Ban AI Use Through Middle School",
-      "url": "https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "New York City Public Schools is banning generative AI for students from pre-K through eighth grade for the 2026-27 school year, affecting more than half a million students in the nation's largest school district. ABC News reports: In a statement to ABC News, New York City Mayor Zohran Mamdani said that the city is implementing a moratorium on generative AI for students in pre-school or 2-K through eighth grade and will spend the next year \"studying the impacts of this technology.\" Mamdani wrote ",
-      "published": "2026-09-02T19:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
       "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
@@ -405,11 +440,11 @@
       "published": "2026-09-02T18:27:49+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Google Defeats US Bid to Force Ad Tech Sale",
-      "url": "https://yro.slashdot.org/story/26/09/02/1755251/google-defeats-us-bid-to-force-ad-tech-sale?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Reuters: Alphabet's Google escaped a breakup of its advertising technology business on Wednesday, when a judge in Virginia rejected U.S. antitrust enforcers' bid to force a sale of Google's online advertising exchange. While the ad exchange is a small part of Google's business, the ruling is the second powerful symbolic victory against the U.S. Department of Justice in its efforts to force Google to sell assets to address illegal monopolies. U.S. Judge Le",
-      "published": "2026-09-02T18:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Static Allocation, Constant Work",
+      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "summary": "79 points · 13 comments",
+      "published": "2026-09-02T17:30:55+00:00"
     },
     {
       "source": "OSINT",
@@ -419,32 +454,18 @@
       "published": "2026-09-02T16:41:06+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-      "summary": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-      "published": "2026-09-02T15:47:08+00:00"
+      "source": "HACKER NEWS",
+      "title": "Unusual Suspects",
+      "url": "https://neal.fun/unusual-suspects/",
+      "summary": "29 points · 9 comments",
+      "published": "2026-09-02T15:48:13+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "summary": "1131 points · 638 comments",
-      "published": "2026-09-02T15:12:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-      "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-      "summary": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the user, outside the agent's sandbox and without an approval prompt, and exploitation requires the repository to arrive",
-      "published": "2026-09-02T14:06:59+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-      "url": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-      "summary": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]",
-      "published": "2026-09-02T14:02:12+00:00"
+      "title": "The true horror of Edgar Allan Poe’s stories lies in their confessions",
+      "url": "https://yalereview.org/article/emily-ogden-edgar-allan-poe",
+      "summary": "16 points · 3 comments",
+      "published": "2026-09-02T15:18:59+00:00"
     },
     {
       "source": "OSINT",
@@ -455,24 +476,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The browser's main thread is expensive",
-      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
-      "summary": "305 points · 101 comments",
-      "published": "2026-09-01T14:00:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Invisible Companies",
-      "url": "https://colossus.com/article/invisible-companies/",
-      "summary": "125 points · 37 comments",
-      "published": "2026-09-01T12:48:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Intrusive linked lists (2019)",
-      "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
-      "summary": "67 points · 39 comments",
-      "published": "2026-08-31T03:28:32+00:00"
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "summary": "9 points · 4 comments",
+      "published": "2026-09-01T19:02:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -480,13 +487,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w2xjlk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-31T00:00:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What I Learned from My Mom (1941-2026)",
-      "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
-      "summary": "210 points · 8 comments",
-      "published": "2026-08-29T19:52:51+00:00"
     },
     {
       "source": "OSINT",
