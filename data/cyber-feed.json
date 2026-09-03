@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-03T04:03:24.753544+00:00",
-  "item_count": 74,
+  "updated": "2026-09-03T08:51:09.270083+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,18 +27,67 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Training on Try hack me but get certifications on Googles coursera?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w61g0o/training_on_try_hack_me_but_get_certifications_on/",
+      "summary": "I want to do that because I feel like watching videos aren't a good way to study for the certification test because try hack me give me good hands on experience however from what I've researched tryhackme certifications aren't as respected by employers, especially European employers. Is this a good strategy or is there a better way of doing this? submitted by /u/Unlikely_You_5015 [link] [comments]",
+      "published": "2026-09-03T08:28:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Matrix/Element preferred by governments vs. using Signal",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w60pj7/matrixelement_preferred_by_governments_vs_using/",
+      "summary": "I use Element for secure communications. Apparently EU countries are setting up their own restricted servers for government use only. For example: Tchap - France, Belgium- BEAM, Luxembourg - LuxChat4Gov, Germany - BundesMessenger, Greece - grnet. There are several other countries where the topic is classified. These countries are trying to get away from US \"security\" messengers. 25+ governments are now using Matrix, with 150+ Matrix based deployments. In terms of security, do you agree with Euro",
+      "published": "2026-09-03T07:45:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)",
+      "url": "https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/",
+      "summary": "22 points · 7 comments",
+      "published": "2026-09-03T07:04:13+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Instrument Clusters Are Now Paid Extras In Two Hyundai Models",
+      "url": "https://tech.slashdot.org/story/26/09/02/2246257/instrument-clusters-are-now-paid-extras-in-two-hyundai-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Enshittification of car controls [is] rapidly accelerating,\" writes longtime Slashdot reader sinij, pointing to a new report from Car and Driver. From the report: Remember when iPhones used to come with free headphones and a phone charger (including the wall plug)? It didn't feel so much like Apple giving you free goodies as it did that the company was providing you with the relevant hardware to use the device. Apple stopped including headphones and charging blocks in 2020. Now, Hyundai is pull",
+      "published": "2026-09-03T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pre-Release of Polars 2.0",
+      "url": "https://pola.rs/posts/announcing-polars-2/",
+      "summary": "72 points · 5 comments",
+      "published": "2026-09-03T06:59:08+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+      "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+      "summary": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the office malicious macros remediation in CrowdStrike Falcon Sensor,\" the researcher said in a GitHub README file, adding",
+      "published": "2026-09-03T06:26:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs. The vulnerabilities are as follows - CVE-2026-83548 (CVSS score: 10.0) - A server-side request forgery vulnerability in SonicWall SMA 1000 Appliances that could allow a remote unauthenticated",
+      "published": "2026-09-03T05:19:04+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Interview Help - Cybersecurity Rotational Program",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5wq48/interview_help_cybersecurity_rotational_program/",
+      "summary": "Hey, everyone! Hope you’re all having a beautiful week! :) I would like some guidance / suggestions on what I should study/research and prep for. To give some context - There is a rotational program for New Grads where the person joins different teams like Identity & Access Management, Third Party Risk, Resilience/Disaster Recovery, Data Governance, Cyber Operations, Cryptography, and more. I finished the behavioural interview and will move onto the technical interview next week. I’m curious wha",
+      "published": "2026-09-03T04:03:36+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Global Heating Will Hit At Least 1.8C, UN Warns, and There Are 'No Good Outcomes'",
       "url": "https://news.slashdot.org/story/26/09/02/2228245/global-heating-will-hit-at-least-18c-un-warns-and-there-are-no-good-outcomes?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from The Guardian: Global heating will reach at least 1.8C under even the most optimistic future, well beyond the Paris agreement goal of 1.5C, according to a UN report that warns every fraction of temperature rise intensifies destructive extreme weather, glacier melt, ecosystem loss, and island and coastal city submersion. The report by the Nairobi-based UN Environment Program confirmed overshooting the 1.5C goal inscribed in the landmark Paris agreement of 2",
       "published": "2026-09-03T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Wk. 6 of Vibecoding an MMO",
-      "url": "https://eldermyr.com/",
-      "summary": "7 points · 3 comments",
-      "published": "2026-09-03T03:13:54+00:00"
     },
     {
       "source": "REDDIT",
@@ -72,15 +121,8 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
       "url": "https://news.ycombinator.com/item?id=49543530",
-      "summary": "34 points · 42 comments",
+      "summary": "57 points · 65 comments",
       "published": "2026-09-02T22:36:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Reasons robotics is hard",
-      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
-      "summary": "61 points · 23 comments",
-      "published": "2026-09-02T22:02:30+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -114,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "Fable 5.1 World Modeling",
       "url": "https://github.com/PhiloLabs/fable51-worlds",
-      "summary": "162 points · 54 comments",
+      "summary": "236 points · 69 comments",
       "published": "2026-09-02T19:49:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Muse Spark 1.3",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
-      "summary": "441 points · 297 comments",
+      "summary": "557 points · 379 comments",
       "published": "2026-09-02T19:35:04+00:00"
     },
     {
@@ -132,25 +174,11 @@
       "published": "2026-09-02T19:28:46+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Could cybersecurity jobs be targeted by malicious actors?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5kbtm/could_cybersecurity_jobs_be_targeted_by_malicious/",
-      "summary": "I'm exploring all kinds of possibilities to explain a strange phenomenon. A L1 SOC job listed yesterday with on-site demand gained 180 applicants in one day, It does not happen to any other job in any other fields. It just gained an additional 6 applicants as I'm typing this message. probably reach 200 by the time i post this. Do people specifically set up bots to automatically apply to cybersecurity job? I wonder how many applicants are even in the city or country, this is not a new phenomenon ",
-      "published": "2026-09-02T19:24:35+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "NYC Public Schools Ban AI Use Through Middle School",
       "url": "https://news.slashdot.org/story/26/09/02/167206/nyc-public-schools-ban-ai-use-through-middle-school?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "New York City Public Schools is banning generative AI for students from pre-K through eighth grade for the 2026-27 school year, affecting more than half a million students in the nation's largest school district. ABC News reports: In a statement to ABC News, New York City Mayor Zohran Mamdani said that the city is implementing a moratorium on generative AI for students in pre-school or 2-K through eighth grade and will spend the next year \"studying the impacts of this technology.\" Mamdani wrote ",
       "published": "2026-09-02T19:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Surge AI, Mercor Reportedly Sell Training Data to Chinese Labs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w5jh0e/surge_ai_mercor_reportedly_sell_training_data_to/",
-      "summary": "Chinese military companies are buying the same exact training data that the US Army and Air Force use. How bad is this for security? submitted by /u/BarnacleBasic1988 [link] [comments]",
-      "published": "2026-09-02T18:54:55+00:00"
     },
     {
       "source": "OSINT",
@@ -212,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "summary": "876 points · 513 comments",
+      "summary": "999 points · 567 comments",
       "published": "2026-09-02T15:12:40+00:00"
     },
     {
@@ -226,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Google avoids a breakup of its ad tech business",
       "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
-      "summary": "299 points · 218 comments",
+      "summary": "368 points · 275 comments",
       "published": "2026-09-02T14:46:16+00:00"
     },
     {
@@ -254,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
       "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
-      "summary": "332 points · 159 comments",
+      "summary": "405 points · 195 comments",
       "published": "2026-09-02T13:59:59+00:00"
     },
     {
@@ -275,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "Biggest dark matter detector spots a single weird particle",
       "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
-      "summary": "260 points · 85 comments",
+      "summary": "288 points · 99 comments",
       "published": "2026-09-02T13:40:29+00:00"
     },
     {
@@ -289,14 +317,14 @@
       "source": "HACKER NEWS",
       "title": "Aging brains blend memories together instead of just forgetting them",
       "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
-      "summary": "228 points · 107 comments",
+      "summary": "272 points · 117 comments",
       "published": "2026-09-02T12:59:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Can I opt out of my input or output data being used for training?",
       "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
-      "summary": "392 points · 168 comments",
+      "summary": "436 points · 195 comments",
       "published": "2026-09-02T12:30:39+00:00"
     },
     {
@@ -378,31 +406,24 @@
     },
     {
       "source": "OSINT",
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "summary": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets CVE-2021-31886, a stack-based buffer overflow in the Nucleus FTP server's handling of the USER command",
-      "published": "2026-09-02T07:47:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "summary": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection vulnerability in Sangoma Switchvox SMB Edition 8.3 (104997) that can allow attackers to remotely execute arbitrary code as",
-      "published": "2026-09-02T07:08:50+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "NASA Selects Blue Origin As Mars Telecommunications Network Provider",
-      "url": "https://science.slashdot.org/story/26/09/02/0527234/nasa-selects-blue-origin-as-mars-telecommunications-network-provider?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "NASA has awarded Blue Origin a contract worth up to $700 million to build and operate a dedicated Mars telecommunications network for current and future missions to the Red Planet. Blue Origin is expected to deliver the spacecraft by the end of 2028, with the network targeted to become operational by 2030. From a press release: Blue Origin will design, develop, integrate, launch, and operate the network as a part of the agency's broader space communications and navigation infrastructure. The arc",
-      "published": "2026-09-02T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
       "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
       "summary": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
       "published": "2026-09-02T06:39:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "LLMs and Self-Referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "summary": "32 points · 16 comments",
+      "published": "2026-09-02T00:20:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: OwnTime – a chess clock for your day's priorities",
+      "url": "https://owntime.app/",
+      "summary": "71 points · 37 comments",
+      "published": "2026-09-01T21:29:24+00:00"
     },
     {
       "source": "OSINT",
@@ -427,44 +448,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Whistleblower warns Postal Service mail ballot system has catastrophic problems",
-      "url": "https://www.cbsnews.com/news/whistleblower-postal-service-new-mail-ballot-system/",
-      "summary": "166 points · 111 comments",
-      "published": "2026-09-01T16:41:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Engineering of the fastest WebAssembly interpreters",
-      "url": "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0/",
-      "summary": "60 points · 3 comments",
-      "published": "2026-09-01T12:25:13+00:00"
+      "title": "The Browser's Main Thread Is Expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-09-01T14:00:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Higher Multipoles of the Cow",
       "url": "https://arxiv.org/abs/2504.00506",
-      "summary": "16 points · 6 comments",
+      "summary": "63 points · 20 comments",
       "published": "2026-09-01T09:27:19+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Wendell Berry has died",
-      "url": "https://www.nytimes.com/2026/08/31/us/wendell-berry-dead.html",
-      "summary": "152 points · 84 comments",
-      "published": "2026-09-01T01:49:58+00:00"
+      "title": "The Computer Museum of America reclamation project",
+      "url": "https://computer-museum.org/wp/",
+      "summary": "37 points · 11 comments",
+      "published": "2026-08-31T16:15:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Reverse Engineering Unknown File Formats with ImHex",
       "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
-      "summary": "129 points · 25 comments",
+      "summary": "193 points · 34 comments",
       "published": "2026-08-31T12:01:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Holden's Lightning Flight",
       "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
-      "summary": "86 points · 13 comments",
+      "summary": "148 points · 29 comments",
       "published": "2026-08-31T11:29:44+00:00"
     },
     {
@@ -473,13 +487,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w2xjlk/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-08-31T00:00:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The shrinking landscape of linguistic diversity in the age of LLMs",
-      "url": "https://www.nature.com/articles/s41562-026-02550-0",
-      "summary": "66 points · 41 comments",
-      "published": "2026-08-30T12:12:56+00:00"
     },
     {
       "source": "OSINT",
