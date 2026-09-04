@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T13:42:26.366927+00:00",
+  "updated": "2026-09-04T17:33:12.619689+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,104 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Attacking and Securing GitHub Actions Pipeline - Magno Logan",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w7aj6y/attacking_and_securing_github_actions_pipeline/",
+      "summary": "submitted by /u/LeopardThink6153 [link] [comments]",
+      "published": "2026-09-04T17:14:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
+      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
+      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
+      "published": "2026-09-04T16:56:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "VAXD_VM: Reverse Engineering a Running Windows Program from Outside the VM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w79m8i/vaxd_vm_reverse_engineering_a_running_windows/",
+      "summary": "submitted by /u/Bicurico [link] [comments]",
+      "published": "2026-09-04T16:42:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "summary": "13 points · 1 comments",
+      "published": "2026-09-04T16:24:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
+      "published": "2026-09-04T15:57:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Corporate America is getting hooked on open-source AI",
+      "url": "https://www.nytimes.com/2026/09/04/technology/open-source-ai-anthropic-openai.html",
+      "summary": "115 points · 82 comments",
+      "published": "2026-09-04T15:33:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
+      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
+      "published": "2026-09-04T15:25:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
+      "published": "2026-09-04T15:20:19+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Auto Companies Call For Ban On Chinese-Made Cars",
+      "url": "https://tech.slashdot.org/story/26/09/04/0441229/auto-companies-call-for-ban-on-chinese-made-cars?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The Hill: A group representing American automakers sent a letter (PDF) Thursday to congressional leaders asking for a \"permanent ban\" on Chinese-made cars in the U.S. John Bozzella, the Alliance for Automotive Innovation's CEO and president, described in the letter China's manufacturing industry as \"rooted in a well-documented pattern of unfair trade, subsidies, intellectual property theft and surveillance.\" Bozzella addressed his request to Senate Majori",
+      "published": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
+      "published": "2026-09-04T14:51:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "153M drivers' licenses exposed on the Dark Web",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w762zc/153m_drivers_licenses_exposed_on_the_dark_web/",
+      "summary": "submitted by /u/MW2_Lobbies [link] [comments]",
+      "published": "2026-09-04T14:32:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft says some users can’t open the Teams desktop client",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
+      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
+      "published": "2026-09-04T14:30:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "39 New Methods That Compromise Passkey Authentication",
+      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
+      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
+      "published": "2026-09-04T14:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US Military disables ad trackers on troops' phones",
+      "url": "https://www.theguardian.com/us-news/2026/sep/04/military-disables-phone-ad-trackers",
+      "summary": "106 points · 51 comments",
+      "published": "2026-09-04T13:44:14+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
       "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
@@ -37,28 +135,28 @@
       "source": "HACKER NEWS",
       "title": "IBM Bob",
       "url": "https://bob.ibm.com/",
-      "summary": "27 points · 20 comments",
+      "summary": "114 points · 118 comments",
       "published": "2026-09-04T12:50:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
       "url": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-      "summary": "14 points · 6 comments",
+      "summary": "40 points · 53 comments",
       "published": "2026-09-04T12:49:44+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Nearly impossible? How Fairphone built the ethical, repairable Fairphone Gen 6+",
+      "title": "How Fairphone built the Fairphone Gen 6+",
       "url": "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-      "summary": "25 points · 12 comments",
+      "summary": "139 points · 121 comments",
       "published": "2026-09-04T12:43:49+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ok, but Does It Scale?",
+      "title": "Ok, but does it scale?",
       "url": "https://spacetimedb.com/blog/how-does-spacetime-scale",
-      "summary": "24 points · 0 comments",
+      "summary": "83 points · 48 comments",
       "published": "2026-09-04T12:42:08+00:00"
     },
     {
@@ -91,9 +189,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
+      "url": "https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products",
+      "summary": "300 points · 54 comments",
+      "published": "2026-09-04T11:59:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Discovery of a new OpenAI agent message board",
       "url": "https://collusion.wiki/",
-      "summary": "266 points · 168 comments",
+      "summary": "915 points · 719 comments",
       "published": "2026-09-04T11:54:53+00:00"
     },
     {
@@ -118,13 +223,6 @@
       "published": "2026-09-04T11:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "O&O ShutUp10 – The antispy tool for Windows 10 and 11",
-      "url": "https://www.oo-software.com/en/shutup10",
-      "summary": "50 points · 27 comments",
-      "published": "2026-09-04T10:56:07+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Giving AI agents a wallet also gives them a mouth. They'll happily leak your payment data while paying for stuff.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w7102b/giving_ai_agents_a_wallet_also_gives_them_a_mouth/",
@@ -140,9 +238,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "title": "Solving the Jane Street reverse engineering challenge",
       "url": "https://jestoph.com/2026/09/04/jane-street-challenge.html",
-      "summary": "161 points · 46 comments",
+      "summary": "291 points · 73 comments",
       "published": "2026-09-04T10:17:01+00:00"
     },
     {
@@ -186,20 +284,6 @@
       "url": "https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html",
       "summary": "OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the \"world's most intelligent and aligned model.\" The development comes days after the artificial intelligence (AI) company said the model had reached the \"Critical\" cybersecurity capability threshold under its Preparedness Framework. \"Astra is state-of-the-art on computer use, browsing, software engineering,",
       "published": "2026-09-04T06:47:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year",
-      "url": "http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/",
-      "summary": "323 points · 128 comments",
-      "published": "2026-09-04T06:47:51+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How does build up experience work in this bad market?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6tjgg/how_does_build_up_experience_work_in_this_bad/",
-      "summary": "Hi everyone, I just have a quick question i’ve been wondering about. If you’re working towards becoming a cybersecurity engineer and you’re building your experience towards it by following a path like 2 years helpdesk → 2 years system admin → 1 year cybersecurity analyst, and the the job market gets bad and you’re laid off, what happens then? If cybersecurity analyst jobs are mostly mid-level and you’re competing against people with 3–5 years of security analyst experience, and you only have one",
-      "published": "2026-09-04T03:58:27+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -275,14 +359,14 @@
       "source": "HACKER NEWS",
       "title": "GPT-6 Astra",
       "url": "https://openai.com/index/gpt-6-astra/",
-      "summary": "1939 points · 1749 comments",
+      "summary": "2068 points · 1885 comments",
       "published": "2026-09-03T18:41:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
       "url": "https://inference-docs.cerebras.ai/models/overview",
-      "summary": "609 points · 203 comments",
+      "summary": "658 points · 218 comments",
       "published": "2026-09-03T18:32:13+00:00"
     },
     {
@@ -307,25 +391,11 @@
       "published": "2026-09-03T18:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What do you guys use for quick cybersecurity news?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w6er66/what_do_you_guys_use_for_quick_cybersecurity_news/",
-      "summary": "Looking for something i could listen to for 20-30 minutes with whats going on in the world of cyber. Everything i get referenced is like 2 hours long. I use bleeping computer generally but wanted something while im driving. submitted by /u/NikkaSheyr [link] [comments]",
-      "published": "2026-09-03T17:55:07+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Audacity 4 Rebuilds the Open Source Audio Editor But Leaves Some Features Behind",
       "url": "https://news.slashdot.org/story/26/09/03/163216/audacity-4-rebuilds-the-open-source-audio-editor-but-leaves-some-features-behind?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "BrianFagioli writes: Audacity 4.0 has been released with a rebuilt Qt interface, a new clip-editing model, customizable workspaces, native high-DPI rendering, and a new AUP4 project format. The open source audio editor also adds ASIO playback and recording support to official Windows builds, while bringing major changes to recording, playback, plugins, and project handling. The overhaul comes with some tradeoffs. Audacity 4.0 currently lacks several features found in Audacity 3, including Time T",
       "published": "2026-09-03T17:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "summary": "303 points · 97 comments",
-      "published": "2026-09-03T16:21:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -363,32 +433,11 @@
       "published": "2026-09-03T15:13:29+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Anthropic confirms Claude is down, multiple models affected",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-      "summary": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-      "published": "2026-09-03T15:02:52+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Engineer Accused of Polymarket Insider Trading Says He Was Just Gambling",
-      "url": "https://yro.slashdot.org/story/26/09/02/230259/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Wired: Michele Spagnuolo, the Google engineer arrested in May by U.S. authorities for alleged insider trading on Polymarket, is making a new bold bet. On Wednesday, his legal team filed a motion to dismiss the charges against him. Spagnuolo isn't outright denying that he made money using internal information from Google. Instead, his legal team says that the wagers were not financial instruments subject to regulation by the United States' Commodities Exch",
-      "published": "2026-09-03T15:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": ".name Termination",
       "url": "https://neil.fraser.name/news/2026/09/03/",
-      "summary": "1989 points · 488 comments",
+      "summary": "2094 points · 516 comments",
       "published": "2026-09-03T14:54:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-      "published": "2026-09-03T14:52:20+00:00"
     },
     {
       "source": "OSINT",
@@ -399,52 +448,24 @@
     },
     {
       "source": "OSINT",
-      "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-      "url": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-      "summary": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond before it leads to account takeover. [...]",
-      "published": "2026-09-03T13:50:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w66xgm/plex_warns_users_to_patch_security/",
-      "summary": "submitted by /u/Doug24 [link] [comments]",
-      "published": "2026-09-03T13:08:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-      "summary": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-      "published": "2026-09-03T12:16:32+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
       "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
       "summary": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries. Around 45% of observed activity was associated with the United States, making it the campaign's top geographic target. ANY.RUN research connected 601 cases to the wider operation, which uses",
       "published": "2026-09-03T11:58:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-      "summary": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads. According to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use in attacks targeting government departments, technology companies, and hotels since February 2026. \"The technique's appeal is that node.exe (the",
-      "published": "2026-09-03T10:43:01+00:00"
+      "source": "HACKER NEWS",
+      "title": "The Two Abstractions of System Design: Hide or Reduce",
+      "url": "http://muratbuffalo.blogspot.com/2026/05/the-two-abstractions-of-system-design.html",
+      "summary": "70 points · 8 comments",
+      "published": "2026-09-02T11:54:14+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-      "url": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-      "summary": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, cloud configurations, and even AI tool configs. Earlier variants of the infostealer worm only checked 189 paths. The jump says a lot. Attackers have",
-      "published": "2026-09-03T10:36:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-      "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-      "summary": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation. \"Our analysis confirmed that an iMessage zero-click exploit was used to infect the device with NSO Group's Pegasus spyware,\" the Citizen Lab said. \"We found high-confidence indicators of",
-      "published": "2026-09-03T08:43:17+00:00"
+      "source": "HACKER NEWS",
+      "title": "A Switch-Level Simulation Model for Integrated Logic Circuits (1981) [pdf]",
+      "url": "https://www.cs.cmu.edu/~bryant/pubdir/MIT-LCS-TR-259.pdf",
+      "summary": "5 points · 0 comments",
+      "published": "2026-09-02T02:36:01+00:00"
     },
     {
       "source": "OSINT",
@@ -455,38 +476,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "summary": "387 points · 275 comments",
-      "published": "2026-09-01T19:02:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Authorization terminology is a mess: Let's fix it",
-      "url": "https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/",
-      "summary": "85 points · 57 comments",
-      "published": "2026-09-01T14:18:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why is Arrays.fill 265 times slower on G1GC?",
-      "url": "https://krzysztofslusarski.github.io/2026/08/19/g1barrier.html",
-      "summary": "9 points · 1 comments",
-      "published": "2026-09-01T04:29:03+00:00"
+      "title": "Getting Started with AT Protocol",
+      "url": "https://bnb.im/posts/atproto-essential-resources/",
+      "summary": "18 points · 3 comments",
+      "published": "2026-09-01T19:48:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
       "url": "https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building",
-      "summary": "44 points · 16 comments",
+      "summary": "105 points · 35 comments",
       "published": "2026-09-01T00:01:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How an MIT research project became the Julia programming language",
-      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-      "summary": "147 points · 73 comments",
-      "published": "2026-08-31T08:26:09+00:00"
     },
     {
       "source": "REDDIT",
