@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T17:17:38.823473+00:00",
+  "updated": "2026-09-06T19:26:18.751653+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -28,10 +28,31 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "Any Nix package, live in the browser",
-      "url": "https://fzakaria.com/2026/09/04/any-nix-package-live-in-your-browser",
-      "summary": "5 points · 0 comments",
-      "published": "2026-09-06T17:00:56+00:00"
+      "title": "Finder is so frustrating and has been since day one",
+      "url": "https://kepter.app/finder",
+      "summary": "23 points · 4 comments",
+      "published": "2026-09-06T19:06:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Following legal advice, the Nitter project will continue",
+      "url": "https://github.com/zedeus/nitter",
+      "summary": "192 points · 42 comments",
+      "published": "2026-09-06T17:51:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nitter is unarchived and will continue",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "summary": "99 points · 12 comments",
+      "published": "2026-09-06T17:49:47+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Flock Offered Webinar Teaching Cops How to Surveil 'No Kings' Protesters",
+      "url": "https://yro.slashdot.org/story/26/09/05/0659243/flock-offered-webinar-teaching-cops-how-to-surveil-no-kings-protesters?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Thursday 404 Media reported that Flock taught America's cops \"how they could surveil the No Kings protests\" against President Trump (as well as \"small parades\") in a webinar last year that described \"using a mix of Flock's technology and law enforcement's own databases.\" In the webinar, Flock's director of market management Caity Peak explains how real time crime centers — which are police surveillance centers that utilize Flock cameras and other surveillance cameras — can be used for emergency ",
+      "published": "2026-09-06T17:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -49,6 +70,13 @@
     },
     {
       "source": "REDDIT",
+      "title": "Your coding agent already read your .env. You never pasted a thing.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w91krr/your_coding_agent_already_read_your_env_you_never/",
+      "summary": "I opened a Claude Code transcript last week and found a production database URL. I never dropped the file into chat. The agent read .env on its own, then wrote the values into ~/.claude/projects as plaintext JSONL. Cursor, Codex, Windsurf, Aider, and Copilot Chat all keep a version of this. Shell history gets cleaned. Agent history grows forever, readable by anything running as your user. gitleaks and trufflehog are built for git repos. They do not treat ~/.codex/sessions as a secrets store. I w",
+      "published": "2026-09-06T16:59:20+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Do we have really need a seperate PAM solution like Delinea or Beyond Trust..We are planning to go for Zscaler Sase..is it possible to achieve PAM via Sase ?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w914qk/do_we_have_really_need_a_seperate_pam_solution/",
       "summary": "submitted by /u/roachwickey [link] [comments]",
@@ -56,30 +84,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "OpenAI: We monitor internal coding agents for misalignment",
-      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
-      "summary": "7 points · 0 comments",
-      "published": "2026-09-06T16:37:55+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Looking for advice",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w90w9n/looking_for_advice/",
-      "summary": "So I’ve been in cybersecurity for about 2 years and some change I went to a cybersecurity boot camp and recently got my security+. like others I have been struggling to find a job I’ve had few interviews that didn’t turn into anything most of the time they say it’s because I don’t have a bachelors degree I don’t really have money/ want to pay for more school should I try to do more projects or get another cert to make myself more desirable? submitted by /u/Unlikely-Detail-3636 [link] [comments]",
-      "published": "2026-09-06T16:33:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "An Alien Mind",
       "url": "https://openai.com/index/an-alien-mind/",
-      "summary": "38 points · 19 comments",
+      "summary": "157 points · 104 comments",
       "published": "2026-09-06T16:27:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Research carried out using NetBSD",
       "url": "https://www.netbsd.org/gallery/research.html",
-      "summary": "17 points · 0 comments",
+      "summary": "42 points · 9 comments",
       "published": "2026-09-06T16:10:05+00:00"
     },
     {
@@ -93,21 +107,28 @@
       "source": "HACKER NEWS",
       "title": "NetBSD 9.5 released and EOL for NetBSD-9",
       "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "summary": "23 points · 1 comments",
+      "summary": "76 points · 3 comments",
       "published": "2026-09-06T15:44:24+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Kadō – open-source habit tracker, with non-binary habit score, for iOS",
-      "url": "https://github.com/scastiel/kado",
-      "summary": "34 points · 12 comments",
-      "published": "2026-09-06T14:34:46+00:00"
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "58 points · 32 comments",
+      "published": "2026-09-06T15:08:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Recreating Minecraft Is Not a Benchmark",
+      "url": "https://kuber.studio/blog/Reflections/Recreating-Minecraft-is-Not-a-Benchmark",
+      "summary": "44 points · 29 comments",
+      "published": "2026-09-06T14:52:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A/I shuts down – Stay human",
       "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "summary": "278 points · 167 comments",
+      "summary": "369 points · 246 comments",
       "published": "2026-09-06T14:34:34+00:00"
     },
     {
@@ -125,27 +146,6 @@
       "published": "2026-09-06T14:23:46+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Asahi Linux Now Officially Supports Apple M3 Macs – With Caveats",
-      "url": "https://www.phoronix.com/news/Asahi-Linux-Official-M3",
-      "summary": "144 points · 80 comments",
-      "published": "2026-09-06T14:08:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The many mysteries and lessons of the Bayeux tapestry",
-      "url": "https://economist.com/interactive/culture/2026/09/03/the-many-mysteries-and-lessons-of-the-bayeux-tapestry",
-      "summary": "38 points · 5 comments",
-      "published": "2026-09-06T13:38:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "url": "https://beige.party/@intransitivelie/117057396732763183",
-      "summary": "576 points · 99 comments",
-      "published": "2026-09-06T13:02:41+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w8vkox/over_5400_hacked_sites_serve_clickfix_payloads/",
@@ -156,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "Your intellectual fly is open (2025)",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "summary": "297 points · 163 comments",
+      "summary": "349 points · 242 comments",
       "published": "2026-09-06T11:56:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Doomscrolling Ourselves to Death",
       "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
-      "summary": "223 points · 150 comments",
+      "summary": "273 points · 188 comments",
       "published": "2026-09-06T11:53:40+00:00"
     },
     {
@@ -205,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
       "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
-      "summary": "431 points · 130 comments",
+      "summary": "470 points · 144 comments",
       "published": "2026-09-06T07:21:06+00:00"
     },
     {
@@ -244,13 +244,6 @@
       "published": "2026-09-06T00:09:57+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "url": "https://cloudinabottle.org/blog/launch-post",
-      "summary": "548 points · 273 comments",
-      "published": "2026-09-06T00:03:29+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "FSF is Now on Bluesky - But Won't Advocate Signing Up Due to Nonfree JavaScript",
       "url": "https://news.slashdot.org/story/26/09/05/0452205/fsf-is-now-on-bluesky---but-wont-advocate-signing-up-due-to-nonfree-javascript?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -263,6 +256,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w8dgql/someone_accidentally_logged_hundreds_of_thousands/",
       "summary": "submitted by /u/ni5arga [link] [comments]",
       "published": "2026-09-05T21:43:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The revolt of the reader",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "summary": "534 points · 252 comments",
+      "published": "2026-09-05T21:37:49+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -377,13 +377,6 @@
       "published": "2026-09-04T15:20:19+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Auto Companies Call For Ban On Chinese-Made Cars",
-      "url": "https://tech.slashdot.org/story/26/09/04/0441229/auto-companies-call-for-ban-on-chinese-made-cars?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Hill: A group representing American automakers sent a letter (PDF) Thursday to congressional leaders asking for a \"permanent ban\" on Chinese-made cars in the U.S. John Bozzella, the Alliance for Automotive Innovation's CEO and president, described in the letter China's manufacturing industry as \"rooted in a well-documented pattern of unfair trade, subsidies, intellectual property theft and surveillance.\" Bozzella addressed his request to Senate Majori",
-      "published": "2026-09-04T15:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
       "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
@@ -448,23 +441,30 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
+      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
+      "summary": "21 points · 15 comments",
+      "published": "2026-09-03T18:40:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Is There I/O After Death? What Happens to Io_uring When a Process Dies",
       "url": "https://blog.ydb.tech/is-there-i-o-after-death-what-happens-to-io-uring-when-a-process-dies-92c65354873f?postPublishedType=repub",
-      "summary": "25 points · 2 comments",
+      "summary": "40 points · 10 comments",
       "published": "2026-09-02T20:58:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Electronic skin for prosthetics to sense temperature and pressure",
       "url": "https://news.wsu.edu/press-release/2026/08/20/researchers-develop-electronic-skin-for-prosthetics-to-sense-temperature-and-pressure/",
-      "summary": "12 points · 0 comments",
+      "summary": "19 points · 3 comments",
       "published": "2026-09-02T18:06:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years",
       "url": "https://en.wikipedia.org/wiki/M-DISC",
-      "summary": "136 points · 57 comments",
+      "summary": "154 points · 67 comments",
       "published": "2026-09-02T04:10:21+00:00"
     },
     {
