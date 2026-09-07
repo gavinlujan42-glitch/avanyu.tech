@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T12:12:30.177059+00:00",
-  "item_count": 63,
+  "updated": "2026-09-07T17:52:11.426683+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,11 +13,6 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
-    },
-    {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -33,6 +28,132 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "How has CCNA helped you?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9yuze/how_has_ccna_helped_you/",
+      "summary": "Was the cert worth it? submitted by /u/Glittering_Fig4548 [link] [comments]",
+      "published": "2026-09-07T17:40:08+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "A Man Charged His EV at a Dealership - and Was Billed $418",
+      "url": "https://hardware.slashdot.org/story/26/09/07/012247/a-man-charged-his-ev-at-a-dealership---and-was-billed-418?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The EV blog Electrek reports: A Clinton Township, Michigan man was charged $418 for a single EV charging session at Elder Hyundai's Macomb Township store after finding the charger listed as publicly available on the EVgo app, but didn't discover the charges until after wrapping up his 40-ish minute charging session. \"I was flabbergasted,\" explained Stanley Kpenkann, who had been driving a rented Chevy Bolt EV at the time. \"Never in my wildest dreams did I think I would be saddled with a bill of ",
+      "published": "2026-09-07T17:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
+      "published": "2026-09-07T16:50:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
+      "url": "https://news.ycombinator.com/item?id=49600233",
+      "summary": "47 points · 26 comments",
+      "published": "2026-09-07T16:40:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+      "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
+      "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
+      "published": "2026-09-07T15:51:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
+      "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
+      "summary": "64 points · 33 comments",
+      "published": "2026-09-07T15:50:37+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
+      "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
+      "published": "2026-09-07T15:39:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "C Is Not a Low-Level Language (2018)",
+      "url": "https://queue.acm.org/doi/10.1145/3212477.3212479",
+      "summary": "6 points · 0 comments",
+      "published": "2026-09-07T15:39:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Security+ recommends two internal firewalls?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9v9yq/security_recommends_two_internal_firewalls/",
+      "summary": "I am completing practice questions based on Security+. I came across this one: A security auditor discovers that a company has two firewalls of the same model protecting their internal network. What should the auditor recommend for their security architecture? A. Change one of the firewalls to a different platform B. Add a firewall of the same model C. Only use one firewall D. Remove firewalls in front of the internal network Regardless of what the Security+ says, do you agree that A is the righ",
+      "published": "2026-09-07T15:28:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bill Gates tries to install MovieMaker",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "summary": "105 points · 71 comments",
+      "published": "2026-09-07T15:27:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What happens to you info in data branches?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9v6h3/what_happens_to_you_info_in_data_branches/",
+      "summary": "This may be a silly question, but I’m a bit uneducated on this topic. Over the years, I’ve been notified a handful of times that my info may have been a part of a data breach/leak (I.e. name, email, etc) with different websites. I know this is relatively common, but what actually happens with this potentially leaked information? Is it privately sold amongst hackers/criminals or is information exposed in breaches oftentimes publicly posted? Is it relatively uncommon for the breached data to be pu",
+      "published": "2026-09-07T15:24:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+      "summary": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you were counting on. Elsewhere, a trusted software source delivered code that stole credentials, and a protocol designed for secure network management",
+      "published": "2026-09-07T14:36:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
+      "url": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Billionaire Bill Ackman's life was upended this February when his 26-year-old daughter collapsed in her Brooklyn apartment, suffering a brain hemorrhage that would render her unable to move, speak or see,\" writes the Washingon Post. But then... The hedge fund manager did what any good father would do — at least, any father with vast financial resources and what friends describe as a \"Mr. Fix-It\" tendency. He sprung into action, getting her topline care at New York City's Mt. Sinai Hospital and ",
+      "published": "2026-09-07T14:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "summary": "206 points · 63 comments",
+      "published": "2026-09-07T13:35:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Mathspace discloses data breach affecting over 1 million people",
+      "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
+      "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
+      "published": "2026-09-07T13:05:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "summary": "403 points · 168 comments",
+      "published": "2026-09-07T13:00:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Splash-free urinals (2025)",
+      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
+      "summary": "179 points · 97 comments",
+      "published": "2026-09-07T12:58:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Trezor data breach impact now reaches 81,000 customers",
+      "url": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+      "summary": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+      "published": "2026-09-07T12:16:32+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "MikroTik under active exploitation: 122,500 routers expose SSH port, emergency patches available",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9q0g6/mikrotik_under_active_exploitation_122500_routers/",
       "summary": "Independent researchers are reverse-engineering the bugs using AI. submitted by /u/sunychoudhary [link] [comments]",
@@ -42,22 +163,36 @@
       "source": "HACKER NEWS",
       "title": "Smartphone makers don't bother to comply with EU repairability requirements",
       "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "summary": "19 points · 0 comments",
+      "summary": "208 points · 122 comments",
       "published": "2026-09-07T11:46:37+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
-      "url": "https://news.ycombinator.com/item?id=49596976",
-      "summary": "23 points · 9 comments",
-      "published": "2026-09-07T11:22:40+00:00"
+      "source": "OSINT",
+      "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
+      "url": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
+      "summary": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and found that risk profiles across providers have almost nothing in common. Here’s what the data looks like. How risk differs across cloud providers",
+      "published": "2026-09-07T11:45:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Would a cloud environment that continuously generates realistic security activity be useful to you?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9ouzu/would_a_cloud_environment_that_continuously/",
-      "summary": "I'm exploring an idea and want to validate whether there's actually a need for it before building it further. Imagine having a small Azure environment that behaves somewhat like a real organization: Multiple identities with different roles Normal day-to-day activity Resource access and changes Administrative activity Deployments and configuration changes Authentication activity Background \"noise\" And on top of that, specific security scenarios or attack activity is triggered at different times, ",
-      "published": "2026-09-07T10:51:20+00:00"
+      "source": "OSINT",
+      "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
+      "url": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
+      "summary": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use diverse initial access methods, namely a Quick Assist tech-support scam, a phishing-delivered MSI installer, and a fake",
+      "published": "2026-09-07T11:36:39+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'The Jobs Apocalypse Is Postponed. An AI Jobs Boom Is Here'",
+      "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A new article about AI in The Economist argues that \"Initial effects of the technology on employment look positive.\" Perhaps AI will eventually make many humans unemployable — but there is no sign of it yet. On September 4th the Bureau of Labour Statistics reported that the American economy added 162,000 jobs in August, far above expectations. The unemployment rate is just 4.1%, lower than in almost 90% of months over the past half-century. Young workers, often cast as AI's first victims, are ho",
+      "published": "2026-09-07T11:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
+      "url": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
+      "summary": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports of exploitation in the wild. Security firm TantoSec has published a working exploit chain targeting vulnerabilities",
+      "published": "2026-09-07T11:20:14+00:00"
     },
     {
       "source": "REDDIT",
@@ -65,13 +200,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9or8n/looking_for_ideas_how_would_you_run_cybersecurity/",
       "summary": "I'm planning a full Cybersecurity Awareness Month 2026 program that I'll be presenting to our CISO for approval. The challenge is: We currently have no dedicated security awareness/training platform Little to no budget for this initiative It's an older organization, while our cybersecurity department is relatively new Many employees are fairly old-school and unlikely to voluntarily participate in games, scavenger hunts, quizzes, etc. I've found some great ideas around gamification, CTFs, scaveng",
       "published": "2026-09-07T10:45:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
-      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
-      "summary": "21 points · 5 comments",
-      "published": "2026-09-07T10:41:29+00:00"
     },
     {
       "source": "OSINT",
@@ -98,35 +226,28 @@
       "source": "HACKER NEWS",
       "title": "Impedance Matching (2017)",
       "url": "https://www.edge.org/response-detail/27238",
-      "summary": "25 points · 6 comments",
+      "summary": "63 points · 20 comments",
       "published": "2026-09-07T09:52:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
-      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
-      "summary": "93 points · 45 comments",
-      "published": "2026-09-07T09:33:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
-      "summary": "43 points · 6 comments",
+      "summary": "151 points · 35 comments",
       "published": "2026-09-07T09:26:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Speculative Decoding in vLLM on AMD GPUs",
       "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "summary": "37 points · 9 comments",
+      "summary": "100 points · 35 comments",
       "published": "2026-09-07T09:26:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Live map of public transport in Belgium",
       "url": "https://openbaarvervoerbelgie.be/",
-      "summary": "75 points · 25 comments",
+      "summary": "146 points · 62 comments",
       "published": "2026-09-07T09:02:47+00:00"
     },
     {
@@ -151,18 +272,18 @@
       "published": "2026-09-07T07:53:04+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Bitcoin-based Liquid Network Says $320 Million Withdrawn in Hack",
+      "url": "https://yro.slashdot.org/story/26/09/07/0727220/bitcoin-based-liquid-network-says-320-million-withdrawn-in-hack?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Reuters reports: Liquid Network, a Bitcoin-based payments and settlement network, said on Sunday that about $320 million was withdrawn from its federation wallet in a hack. \"Purported white-hat hackers\" withdrew around 4,000 of the 4,200 bitcoin held in its Liquid Federation wallet, Liquid Network said in a post on X. \"Liquid wallets will be impacted,\" their post concluded, adding \"and we're sorry for any inconvenience.\" Read more of this story at Slashdot.",
+      "published": "2026-09-07T07:30:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
       "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-      "summary": "331 points · 184 comments",
+      "summary": "953 points · 449 comments",
       "published": "2026-09-07T07:03:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Does anyone here have an OSWE? Any thoughts on this certification or opinions from appsec folks?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9kpm8/does_anyone_here_have_an_oswe_any_thoughts_on/",
-      "summary": "I'm a mid level appsec engineer looking to upskill. I work in Microsoft and have heard it is really good to get this cert. Does anyone know much about it? I do know it's a very hard cert, 48 hours long submitted by /u/Exact-Advantage-3190 [link] [comments]",
-      "published": "2026-09-07T06:54:42+00:00"
     },
     {
       "source": "OSINT",
@@ -186,6 +307,13 @@
       "published": "2026-09-07T06:11:33+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Roku's 24/7 AI Slop Channel Is Even Worse Than Expected",
+      "url": "https://entertainment.slashdot.org/story/26/09/06/0633216/rokus-247-ai-slop-channel-is-even-worse-than-expected?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A new streaming TV channel shows films made with genAI, reports Engadget. \"Fairground AI Creator TV\" is free — and supported with ads — describing its material as \"AI Cinema\": \"AI-generated\" can make it sound as though someone typed a sentence into a machine and came back five minutes later to find a finished movie. Fairground's catalog shows why that description can be too simple. Take Lost Garden: The Awakening of the Lantern Knight. According to its Fairground page, creator Frank Houbre wrote",
+      "published": "2026-09-07T04:30:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Should I switch my career to software engineering?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9hi6c/should_i_switch_my_career_to_software_engineering/",
@@ -196,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Keep Our Servers Running",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "summary": "593 points · 131 comments",
+      "summary": "805 points · 201 comments",
       "published": "2026-09-07T03:29:51+00:00"
     },
     {
@@ -207,11 +335,11 @@
       "published": "2026-09-07T03:02:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
-      "url": "https://gettogether.dev",
-      "summary": "73 points · 33 comments",
-      "published": "2026-09-07T01:41:11+00:00"
+      "source": "SLASHDOT",
+      "title": "US Military Disables Ad Trackers On Devices To Protect Troops",
+      "url": "https://yro.slashdot.org/story/26/09/06/0553230/us-military-disables-ad-trackers-on-devices-to-protect-troops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Slashdot reader DeanonymizedCoward writes: Reuters reports that the US Military is disabling ad tracking on devices, to prevent adversaries from buying publicly-available tracking data to assist in targeting troops. Military officials say that they have disabled trackers on a variety of computers and mobile devices, according to letters released on Friday by Sen. Ron Wyden, and following reports that commercially-available tracking data has been used to target troops in the Middle East.... Wyden",
+      "published": "2026-09-07T01:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -228,11 +356,11 @@
       "published": "2026-09-07T00:00:10+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "summary": "251 points · 88 comments",
-      "published": "2026-09-06T23:14:08+00:00"
+      "source": "SLASHDOT",
+      "title": "Where a Massive Solar Storm Could Take Down the US Power Grid for Millions",
+      "url": "https://hardware.slashdot.org/story/26/09/05/2253221/where-a-massive-solar-storm-could-take-down-the-us-power-grid-for-millions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A new study published Friday in AGU Advances \"depicts the most advanced picture yet of how a rare but massive solar storm could affect some US industries and electric systems more than others,\" reports CNN. \"During a 250-year solar storm, the East Coast would have widespread potential for grid failure.\" Researchers modeled what a Carrington Event — a 1-in-150-year geomagnetic storm or even rarer — could mean for the modern day. They estimate the US economy would lose about $1.5 billion to $2 bil",
+      "published": "2026-09-06T23:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -242,25 +370,32 @@
       "published": "2026-09-06T20:36:01+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "summary": "291 points · 138 comments",
-      "published": "2026-09-06T20:32:38+00:00"
+      "source": "SLASHDOT",
+      "title": "TiVo Will Start Charging Fees For Its Automatic Commercial Break-Skipping Feature 'SkipMode'",
+      "url": "https://entertainment.slashdot.org/story/26/09/06/0347252/tivo-will-start-charging-fees-for-its-automatic-commercial-break-skipping-feature-skipmode?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "TiVo is notifying customers about changes to \"one of its longest-standing and most popular DVR features,\" reports the blog Cord Cutter News: Starting November 2, 2026, the current version of SkipMode that allows users to jump over commercial breaks with a single button press on the remote will no longer be available. The company is instead preparing to test a new paid add-on called Premium Auto Commercial Skip. SkipMode has been a core part of the TiVo experience for years. After a supported sho",
+      "published": "2026-09-06T20:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "summary": "318 points · 216 comments",
-      "published": "2026-09-06T20:24:00+00:00"
+      "title": "The Dataflow Model Revisited",
+      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
+      "summary": "25 points · 6 comments",
+      "published": "2026-09-06T18:10:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: How do you manage skills files?",
-      "url": "https://news.ycombinator.com/item?id=49589914",
-      "summary": "169 points · 146 comments",
-      "published": "2026-09-06T19:27:10+00:00"
+      "source": "SLASHDOT",
+      "title": "Flock Offered Webinar Teaching Cops How to Surveil 'No Kings' Protesters",
+      "url": "https://yro.slashdot.org/story/26/09/05/0659243/flock-offered-webinar-teaching-cops-how-to-surveil-no-kings-protesters?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Thursday 404 Media reported that Flock taught America's cops \"how they could surveil the No Kings protests\" against President Trump (as well as \"small parades\") in a webinar last year that described \"using a mix of Flock's technology and law enforcement's own databases.\" In the webinar, Flock's director of market management Caity Peak explains how real time crime centers — which are police surveillance centers that utilize Flock cameras and other surveillance cameras — can be used for emergency ",
+      "published": "2026-09-06T17:34:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "UN Votes To Encourage Map Projections More Accurately Reflecting the True Size of Continents",
+      "url": "https://yro.slashdot.org/story/26/09/06/0017242/un-votes-to-encourage-map-projections-more-accurately-reflecting-the-true-size-of-continents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The United Nations has an announcement. \"The UN General Assembly has voted overwhelmingly to encourage governments, schools and tech companies worldwide to stop using maps that make Africa look far smaller than it really is.\" By 164 votes to one, Member States on Friday endorsed a resolution promoting map projections that more accurately reflect the true size of continents — the culmination of an African-led campaign against the 16th-century Mercator projection, still the most widely used map in",
+      "published": "2026-09-06T14:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -270,11 +405,18 @@
       "published": "2026-09-06T14:23:46+00:00"
     },
     {
-      "source": "REDDIT",
+      "source": "SLASHDOT",
+      "title": "Private German Rocket Makes History, Reaches Orbit From European Soil",
+      "url": "https://science.slashdot.org/story/26/09/06/0446242/private-german-rocket-makes-history-reaches-orbit-from-european-soil?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"No rocket had ever reached orbit from Western European soil — until today,\" reports Space.com. DW.com reports that a Spectrum space rocket from German company Isar Aerospace launched today from the Arctic Norwegian spaceport at Andoya: \"Germany has spaceflight capabilities,\" said the country's Ministry for Research, Technology and Space on X, praising a \"milestone that impressively demonstrates our country's innovative strength and technical expertise\". This was the German company's second atte",
+      "published": "2026-09-06T11:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w8tp9q/attackers_hijack_mikrotik_routers_through/",
-      "summary": "submitted by /u/xavvito [link] [comments]",
-      "published": "2026-09-06T11:30:05+00:00"
+      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or",
+      "published": "2026-09-06T09:32:38+00:00"
     },
     {
       "source": "OSINT",
@@ -282,6 +424,13 @@
       "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
       "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner. The company named the four programs ProManager, WinUpdate, SoftManager, and",
       "published": "2026-09-06T08:34:20+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "2026 Hugo Award Winners Include Ursula Le Guin-Authored Graphic Novel",
+      "url": "https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "This year's Hugo Award winners were announced last weekend at Worldcon — the world's longest-running science fiction/fantasy convention. The Orange County Register reports there were fans \"clad in capes, gowns and elaborate character costumes,\" with famous attendees including Game of Thrones author George R. R. Martin, who held a book signing: Martin attended his first Worldcon in 1971 in Boston, before he published his first novel. Fresh out of his graduate studies, Martin, then 22 years old, f",
+      "published": "2026-09-06T07:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -305,25 +454,11 @@
       "published": "2026-09-05T16:05:08+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: Fable hacked my piano, can I release the results?",
-      "url": "https://news.ycombinator.com/item?id=49577129",
-      "summary": "182 points · 112 comments",
-      "published": "2026-09-05T14:54:44+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
       "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
       "published": "2026-09-05T14:29:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-      "url": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-      "summary": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order numbers between November 2019 and August 2021. The breach does not affect the security of the company's hardware wallets",
-      "published": "2026-09-05T14:17:02+00:00"
     },
     {
       "source": "OSINT",
@@ -333,74 +468,25 @@
       "published": "2026-09-05T11:11:50+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "summary": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass around a way out of their sandbox. The activity was concentrated on DSEwiki, a German software developer wiki that runs",
-      "published": "2026-09-05T07:55:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as",
-      "published": "2026-09-05T07:31:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "IDScan sued over alleged data breach affecting 153 million drivers",
-      "url": "https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/",
-      "summary": "Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]",
-      "published": "2026-09-04T16:56:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-      "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
-      "summary": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters. \"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used them to split financial lure words such as 'funding' to prevent email filters from parsing them,\" the Microsoft Security Research team said. The",
-      "published": "2026-09-04T15:57:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/",
-      "summary": "Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]",
-      "published": "2026-09-04T15:25:59+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-      "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-      "summary": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical decoding was introduced in PostgreSQL 9.4 in 2014. Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are",
-      "published": "2026-09-04T15:20:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
-      "published": "2026-09-04T14:30:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "url": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "summary": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries without breaking FIDO2 cryptography. [...]",
-      "published": "2026-09-04T14:01:11+00:00"
+      "source": "HACKER NEWS",
+      "title": "Whistle Synth",
+      "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
+      "summary": "21 points · 6 comments",
+      "published": "2026-09-04T09:44:45+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
-      "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
-      "summary": "17 points · 3 comments",
-      "published": "2026-09-03T14:33:01+00:00"
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "summary": "27 points · 0 comments",
+      "published": "2026-09-04T05:53:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
-      "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
-      "summary": "30 points · 15 comments",
-      "published": "2026-09-02T10:39:02+00:00"
+      "title": "Simple Is Not Small",
+      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
+      "summary": "82 points · 25 comments",
+      "published": "2026-09-03T23:47:28+00:00"
     },
     {
       "source": "OSINT",
