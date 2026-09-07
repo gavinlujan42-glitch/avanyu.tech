@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T05:54:07.238711+00:00",
-  "item_count": 74,
+  "updated": "2026-09-07T12:12:30.177059+00:00",
+  "item_count": 63,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,6 +13,11 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
+    },
+    {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -28,17 +33,157 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "Mid-level AppSec Engineer. What should I be studying in case Amazon lays me off?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9i8vo/midlevel_appsec_engineer_what_should_i_be/",
-      "summary": "A bit scared about this AI wave as the talk of the town at Amazon and other FAANG's is constantly about layoffs. What should I be studying? submitted by /u/Exact-Advantage-3190 [link] [comments]",
-      "published": "2026-09-07T04:43:31+00:00"
+      "title": "MikroTik under active exploitation: 122,500 routers expose SSH port, emergency patches available",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9q0g6/mikrotik_under_active_exploitation_122500_routers/",
+      "summary": "Independent researchers are reverse-engineering the bugs using AI. submitted by /u/sunychoudhary [link] [comments]",
+      "published": "2026-09-07T11:51:16+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Roku's 24/7 AI Slop Channel Is Even Worse Than Expected",
-      "url": "https://entertainment.slashdot.org/story/26/09/06/0633216/rokus-247-ai-slop-channel-is-even-worse-than-expected?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A new streaming TV channel shows films made with genAI, reports Engadget. \"Fairground AI Creator TV\" is free — and supported with ads — describing its material as \"AI Cinema\": \"AI-generated\" can make it sound as though someone typed a sentence into a machine and came back five minutes later to find a finished movie. Fairground's catalog shows why that description can be too simple. Take Lost Garden: The Awakening of the Lantern Knight. According to its Fairground page, creator Frank Houbre wrote",
-      "published": "2026-09-07T04:30:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "summary": "19 points · 0 comments",
+      "published": "2026-09-07T11:46:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apparently CodePen 2.0 sends data to their servers as you type",
+      "url": "https://news.ycombinator.com/item?id=49596976",
+      "summary": "23 points · 9 comments",
+      "published": "2026-09-07T11:22:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Would a cloud environment that continuously generates realistic security activity be useful to you?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9ouzu/would_a_cloud_environment_that_continuously/",
+      "summary": "I'm exploring an idea and want to validate whether there's actually a need for it before building it further. Imagine having a small Azure environment that behaves somewhat like a real organization: Multiple identities with different roles Normal day-to-day activity Resource access and changes Administrative activity Deployments and configuration changes Authentication activity Background \"noise\" And on top of that, specific security scenarios or attack activity is triggered at different times, ",
+      "published": "2026-09-07T10:51:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Looking for ideas: How would you run Cybersecurity Awareness Month with almost no budget and an uninterested workforce?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9or8n/looking_for_ideas_how_would_you_run_cybersecurity/",
+      "summary": "I'm planning a full Cybersecurity Awareness Month 2026 program that I'll be presenting to our CISO for approval. The challenge is: We currently have no dedicated security awareness/training platform Little to no budget for this initiative It's an older organization, while our cybersecurity department is relatively new Many employees are fairly old-school and unlikely to voluntarily participate in games, scavenger hunts, quizzes, etc. I've found some great ideas around gamification, CTFs, scaveng",
+      "published": "2026-09-07T10:45:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tiny $70 Xteink X3 e-reader puts Silicon Valley to shame",
+      "url": "https://www.theatlantic.com/technology/2026/09/xteink-e-reader-best-technology-years/688539/",
+      "summary": "21 points · 5 comments",
+      "published": "2026-09-07T10:41:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+      "summary": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+      "published": "2026-09-07T10:36:37+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+      "summary": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+      "published": "2026-09-07T10:32:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+      "published": "2026-09-07T10:06:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Impedance Matching (2017)",
+      "url": "https://www.edge.org/response-detail/27238",
+      "summary": "25 points · 6 comments",
+      "published": "2026-09-07T09:52:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "'You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes",
+      "url": "https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/",
+      "summary": "93 points · 45 comments",
+      "published": "2026-09-07T09:33:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "summary": "43 points · 6 comments",
+      "published": "2026-09-07T09:26:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "summary": "37 points · 9 comments",
+      "published": "2026-09-07T09:26:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "summary": "75 points · 25 comments",
+      "published": "2026-09-07T09:02:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
+      "published": "2026-09-07T08:31:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What do you use for AI security in a large enterprise?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9m1dm/what_do_you_use_for_ai_security_in_a_large/",
+      "summary": "We’re starting to see AI move from internal experimentation into workflows that can access knowledge bases, tickets, code, and sometimes production-adjacent systems. For teams in larger enterprises, what are you actually using for AI security beyond standard IAM, DLP, and vendor questionnaires? Interested in how people are handling model access, prompt injection, agent permissions, audit trails, and testing before new AI tools are approved. Is this owned by the security architecture team, the AI",
+      "published": "2026-09-07T08:09:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, control-flow flattening, proxy functions, and operation wrappers,\" Check Point Research said in a",
+      "published": "2026-09-07T07:53:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
+      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
+      "summary": "331 points · 184 comments",
+      "published": "2026-09-07T07:03:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Does anyone here have an OSWE? Any thoughts on this certification or opinions from appsec folks?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9kpm8/does_anyone_here_have_an_oswe_any_thoughts_on/",
+      "summary": "I'm a mid level appsec engineer looking to upskill. I work in Microsoft and have heard it is really good to get this cert. Does anyone know much about it? I do know it's a very hard cert, 48 hours long submitted by /u/Exact-Advantage-3190 [link] [comments]",
+      "published": "2026-09-07T06:54:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "summary": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+      "published": "2026-09-07T06:17:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "LG smart TVs caught logging audio with screen off!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9jzgz/lg_smart_tvs_caught_logging_audio_with_screen_off/",
+      "summary": "submitted by /u/East-Experience2862 [link] [comments]",
+      "published": "2026-09-07T06:15:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Should I try to memorize everything I learn on TryHackMe, or just keep moving forward?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9jwt7/should_i_try_to_memorize_everything_i_learn_on/",
+      "summary": "I've been studying cybersecurity through TryHackMe, and I've been wondering about the best way to retain what I learn. When I study a new Room, I usually understand and remember the topic pretty well while I'm working through it. However, once I move on to another Room and start learning something completely different, I gradually forget parts of the previous topic. This makes me wonder whether I'm approaching learning the wrong way. Should I try to memorize everything before moving on to the ne",
+      "published": "2026-09-07T06:11:33+00:00"
     },
     {
       "source": "REDDIT",
@@ -51,7 +196,7 @@
       "source": "HACKER NEWS",
       "title": "Keep Our Servers Running",
       "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "summary": "161 points · 38 comments",
+      "summary": "593 points · 131 comments",
       "published": "2026-09-07T03:29:51+00:00"
     },
     {
@@ -63,24 +208,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
-      "url": "https://rfd.shared.oxide.computer/rfd/0301",
-      "summary": "9 points · 0 comments",
-      "published": "2026-09-07T02:14:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Show HN: GET Together – A social network where you don't need POST to Post",
       "url": "https://gettogether.dev",
-      "summary": "26 points · 10 comments",
+      "summary": "73 points · 33 comments",
       "published": "2026-09-07T01:41:11+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "US Military Disables Ad Trackers On Devices To Protect Troops",
-      "url": "https://yro.slashdot.org/story/26/09/06/0553230/us-military-disables-ad-trackers-on-devices-to-protect-troops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Slashdot reader DeanonymizedCoward writes: Reuters reports that the US Military is disabling ad tracking on devices, to prevent adversaries from buying publicly-available tracking data to assist in targeting troops. Military officials say that they have disabled trackers on a variety of computers and mobile devices, according to letters released on Friday by Sen. Ron Wyden, and following reports that commercially-available tracking data has been used to target troops in the Middle East.... Wyden",
-      "published": "2026-09-07T01:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -90,13 +221,6 @@
       "published": "2026-09-07T01:15:43+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://github.com/Staatsgeheim/MathKernel",
-      "summary": "29 points · 5 comments",
-      "published": "2026-09-07T00:21:01+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9cd9j/mentorship_monday_post_all_career_education_and/",
@@ -104,39 +228,11 @@
       "published": "2026-09-07T00:00:10+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Where a Massive Solar Storm Could Take Down the US Power Grid for Millions",
-      "url": "https://hardware.slashdot.org/story/26/09/05/2253221/where-a-massive-solar-storm-could-take-down-the-us-power-grid-for-millions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A new study published Friday in AGU Advances \"depicts the most advanced picture yet of how a rare but massive solar storm could affect some US industries and electric systems more than others,\" reports CNN. \"During a 250-year solar storm, the East Coast would have widespread potential for grid failure.\" Researchers modeled what a Carrington Event — a 1-in-150-year geomagnetic storm or even rarer — could mean for the modern day. They estimate the US economy would lose about $1.5 billion to $2 bil",
-      "published": "2026-09-06T23:34:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Making a Python interpreter in 1024 bytes",
       "url": "https://austinhenley.com/blog/python1024.html",
-      "summary": "168 points · 63 comments",
+      "summary": "251 points · 88 comments",
       "published": "2026-09-06T23:14:08+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9angd/hpe_patches_critical_rce_vulnerabilities_in_aoscx/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-09-06T22:44:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Signing TLS handshakes inside a TPM",
-      "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
-      "summary": "15 points · 6 comments",
-      "published": "2026-09-06T21:05:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "url": "https://github.com/marsbos/mador",
-      "summary": "84 points · 23 comments",
-      "published": "2026-09-06T20:45:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -146,60 +242,25 @@
       "published": "2026-09-06T20:36:01+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "TiVo Will Start Charging Fees For Its Automatic Commercial Break-Skipping Feature 'SkipMode'",
-      "url": "https://entertainment.slashdot.org/story/26/09/06/0347252/tivo-will-start-charging-fees-for-its-automatic-commercial-break-skipping-feature-skipmode?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "TiVo is notifying customers about changes to \"one of its longest-standing and most popular DVR features,\" reports the blog Cord Cutter News: Starting November 2, 2026, the current version of SkipMode that allows users to jump over commercial breaks with a single button press on the remote will no longer be available. The company is instead preparing to test a new paid add-on called Premium Auto Commercial Skip. SkipMode has been a core part of the TiVo experience for years. After a supported sho",
-      "published": "2026-09-06T20:34:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "It took a year to ship WebAssembly in Anubis",
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "summary": "208 points · 110 comments",
+      "summary": "291 points · 138 comments",
       "published": "2026-09-06T20:32:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "url": "https://arxiv.org/abs/2505.12540",
-      "summary": "64 points · 23 comments",
-      "published": "2026-09-06T20:31:20+00:00"
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "summary": "318 points · 216 comments",
+      "published": "2026-09-06T20:24:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ask HN: How do you manage skills files?",
       "url": "https://news.ycombinator.com/item?id=49589914",
-      "summary": "53 points · 45 comments",
+      "summary": "169 points · 146 comments",
       "published": "2026-09-06T19:27:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "summary": "599 points · 295 comments",
-      "published": "2026-09-06T17:49:47+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Flock Offered Webinar Teaching Cops How to Surveil 'No Kings' Protesters",
-      "url": "https://yro.slashdot.org/story/26/09/05/0659243/flock-offered-webinar-teaching-cops-how-to-surveil-no-kings-protesters?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Thursday 404 Media reported that Flock taught America's cops \"how they could surveil the No Kings protests\" against President Trump (as well as \"small parades\") in a webinar last year that described \"using a mix of Flock's technology and law enforcement's own databases.\" In the webinar, Flock's director of market management Caity Peak explains how real time crime centers — which are police surveillance centers that utilize Flock cameras and other surveillance cameras — can be used for emergency ",
-      "published": "2026-09-06T17:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "We have 650 users..And we are in microsoft ecosystem. Is defender plan 2 enough for email security. What is the cost effective way to have an email security",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w8zy0i/we_have_650_usersand_we_are_in_microsoft/",
-      "summary": "submitted by /u/roachwickey [link] [comments]",
-      "published": "2026-09-06T15:58:10+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "UN Votes To Encourage Map Projections More Accurately Reflecting the True Size of Continents",
-      "url": "https://yro.slashdot.org/story/26/09/06/0017242/un-votes-to-encourage-map-projections-more-accurately-reflecting-the-true-size-of-continents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The United Nations has an announcement. \"The UN General Assembly has voted overwhelmingly to encourage governments, schools and tech companies worldwide to stop using maps that make Africa look far smaller than it really is.\" By 164 votes to one, Member States on Friday endorsed a resolution promoting map projections that more accurately reflect the true size of continents — the culmination of an African-led campaign against the 16th-century Mercator projection, still the most widely used map in",
-      "published": "2026-09-06T14:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -207,20 +268,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
       "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
       "published": "2026-09-06T14:23:46+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w8vkox/over_5400_hacked_sites_serve_clickfix_payloads/",
-      "summary": "submitted by /u/Secure-Expression148 [link] [comments]",
-      "published": "2026-09-06T13:00:21+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Private German Rocket Makes History, Reaches Orbit From European Soil",
-      "url": "https://science.slashdot.org/story/26/09/06/0446242/private-german-rocket-makes-history-reaches-orbit-from-european-soil?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"No rocket had ever reached orbit from Western European soil — until today,\" reports Space.com. DW.com reports that a Spectrum space rocket from German company Isar Aerospace launched today from the Arctic Norwegian spaceport at Andoya: \"Germany has spaceflight capabilities,\" said the country's Ministry for Research, Technology and Space on X, praising a \"milestone that impressively demonstrates our country's innovative strength and technical expertise\". This was the German company's second atte",
-      "published": "2026-09-06T11:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -235,69 +282,6 @@
       "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
       "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner. The company named the four programs ProManager, WinUpdate, SoftManager, and",
       "published": "2026-09-06T08:34:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CrowdStrike Launches Frontier Models for Cybersecurity, Created with NVIDIA",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w8pxuo/crowdstrike_launches_frontier_models_for/",
-      "summary": "CrowdStrike SafeMind, the first agentic system for defenders, built with NVIDIA Nemotron, protects more and costs less than generic frontier models. submitted by /u/israelavila [link] [comments]",
-      "published": "2026-09-06T08:00:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "2026 Hugo Award Winners Include Ursula Le Guin-Authored Graphic Novel",
-      "url": "https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "This year's Hugo Award winners were announced last weekend at Worldcon — the world's longest-running science fiction/fantasy convention. The Orange County Register reports there were fans \"clad in capes, gowns and elaborate character costumes,\" with famous attendees including Game of Thrones author George R. R. Martin, who held a book signing: Martin attended his first Worldcon in 1971 in Boston, before he published his first novel. Fresh out of his graduate studies, Martin, then 22 years old, f",
-      "published": "2026-09-06T07:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: Would you read a statistics textbook?",
-      "url": "https://news.ycombinator.com/item?id=49583440",
-      "summary": "37 points · 18 comments",
-      "published": "2026-09-06T04:52:18+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "To Promote Grand Theft Auto 6, Mayor Might Transform Miami into 'Vice City'",
-      "url": "https://games.slashdot.org/story/26/09/06/0123212/to-promote-grand-theft-auto-6-mayor-might-transform-miami-into-vice-city?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Rockstar Games and the mayor of Miami-Dade county are discussing a joint marketing campaign transforming parts of the county to look like areas from Grand Theft Auto 6, reports the blog Rock Paper Shotgun: The proposed publicity event would include \"an immersive arrival experience\" at Miami International Airport. with signs for Vice City and planes coated in GTA 6 livery, together with branded Metromover skytrains and specially designed manhole covers... [I]t proposes a dockyard visual installat",
-      "published": "2026-09-06T04:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What security practice should be mandatory in every organisation?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w8kpjk/what_security_practice_should_be_mandatory_in/",
-      "summary": "submitted by /u/10ninja [link] [comments]",
-      "published": "2026-09-06T03:18:18+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "How US Campaigns Are Already Using AI to Try to Sway Voters",
-      "url": "https://politics.slashdot.org/story/26/09/05/223250/how-us-campaigns-are-already-using-ai-to-try-to-sway-voters?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "39 U.S. congressional candidates \"reported paying for an OpenAI subscription this election cycle,\" writes the Washington Post, citing campaign finance disclosures. This means the campaigns \"are using the technology to court voters — despite limits imposed by leading AI companies to protect elections from the technology's risks.\" Two [candidates] said explicitly in filings that they had used the subscription for advertising, even though the company's policies prohibit candidates from using their ",
-      "published": "2026-09-06T01:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "FSF is Now on Bluesky - But Won't Advocate Signing Up Due to Nonfree JavaScript",
-      "url": "https://news.slashdot.org/story/26/09/05/0452205/fsf-is-now-on-bluesky---but-wont-advocate-signing-up-due-to-nonfree-javascript?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Free Software Foundation (FSF) is now on Bluesky, they announced this week. But \"We can't advocate that you sign up for a Bluesky account like we do with Mastodon or PeerTube since signing up for Bluesky means loading the registration page's nonfree JavaScript...\" While federated, Bluesky is generally not considered part of the \"fediverse\" network of social media services like Mastodon and PeerTube, as it uses its own AT protocol rather than ActivityPub... Hosting your own Bluesky \"Personal ",
-      "published": "2026-09-05T22:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Someone accidentally logged hundreds of thousands of phone calls to military bases",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w8dgql/someone_accidentally_logged_hundreds_of_thousands/",
-      "summary": "submitted by /u/ni5arga [link] [comments]",
-      "published": "2026-09-05T21:43:19+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "The World Now Has More Seniors Than Young People - for the First Time In History",
-      "url": "https://slashdot.org/story/26/09/05/0548237/the-world-now-has-more-seniors-than-young-people---for-the-first-time-in-history?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"There are now more seniors in the world than young children,\" reports the International Business Times, citing a new report from the U.S. Census Bureau report. And it warns that \"The share of the population aged 65 and over is projected to nearly double, from 10.5 percent (about 1 in 10 people) in 2025 to 19.6 percent (about 1 in 5 people) by 2060.\" The world is expected to add another 2 billion people from 2025 to 2060, increasing global population from around 8 billion to around 10 billion...",
-      "published": "2026-09-05T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -324,8 +308,15 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: Fable hacked my piano, can I release the results?",
       "url": "https://news.ycombinator.com/item?id=49577129",
-      "summary": "74 points · 34 comments",
+      "summary": "182 points · 112 comments",
       "published": "2026-09-05T14:54:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+      "published": "2026-09-05T14:29:13+00:00"
     },
     {
       "source": "OSINT",
@@ -354,13 +345,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
       "summary": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an authentication bypass and remote code execution chain – to conduct command execution and reconnaissance, as well as",
       "published": "2026-09-05T07:31:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GitSpawn: Untrusted repos can execute code via AI coding agents",
-      "url": "https://www.manifold.security/blog/ai-coding-agents-git-hijack",
-      "summary": "8 points · 2 comments",
-      "published": "2026-09-05T01:45:53+00:00"
     },
     {
       "source": "OSINT",
@@ -392,13 +376,6 @@
     },
     {
       "source": "OSINT",
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "summary": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug strings left in the binary. It is not a HAProxy vulnerability, and installing it requires code execution on the host and",
-      "published": "2026-09-04T14:51:13+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Microsoft says some users can’t open the Teams desktop client",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
       "summary": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]",
@@ -413,66 +390,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The NX bit is not just about security",
-      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
-      "summary": "48 points · 33 comments",
-      "published": "2026-09-04T13:47:25+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/",
-      "summary": "An anonymous security researcher who uses the \"Nightmare Eclipse\" handle released a CrowdStrike Falcon zero-day exploit named \"FalconFlank\" that lets attackers escalate privileges on up-to-date Windows systems. [...]",
-      "published": "2026-09-04T13:22:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Exchange Online outage causes email delays, 'Server busy' errors",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/",
-      "summary": "Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]",
-      "published": "2026-09-04T12:22:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Google warns of new Chrome zero-day flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/",
-      "summary": "Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]",
-      "published": "2026-09-04T11:48:17+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-      "url": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-      "summary": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence. The vulnerabilities in question are - CVE-2026-14894 (CVSS score: 9.8) - A missing file type validation vulnerability in Super Forms – Drag & Drop Form Builder that allows unauthenticated attackers to upload files of any type, including",
-      "published": "2026-09-04T08:48:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-      "url": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-      "summary": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-      "published": "2026-09-03T22:01:37+00:00"
+      "title": "I Connected My Withings Body+ to Home Assistant with an ESP32",
+      "url": "https://didac.dev/blog/i-made-my-withings-scale-sync-to-home-assistant-without-the-cloud",
+      "summary": "17 points · 3 comments",
+      "published": "2026-09-03T14:33:01+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Every Novel Is Boring–Until It Isn't",
-      "url": "https://www.publicbooks.org/every-novel-is-boring-until-it-isnt/",
-      "summary": "37 points · 26 comments",
-      "published": "2026-09-03T19:10:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Babylonian Lamb Stew with Beets (1750–1730 BCE)",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "summary": "125 points · 72 comments",
-      "published": "2026-09-03T18:40:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I'm a seeing-eye dog for a computer",
-      "url": "https://claytonwramsey.com/blog/seeing-eye/",
-      "summary": "33 points · 8 comments",
-      "published": "2026-09-03T14:20:06+00:00"
+      "title": "Why are there no flow batteries with symmetric ferrocyanide electrolytes?",
+      "url": "https://chemisting.com/2026/09/02/why-are-there-no-flow-batteries-with-symmetric-ferrocyanide-electrolytes/",
+      "summary": "30 points · 15 comments",
+      "published": "2026-09-02T10:39:02+00:00"
     },
     {
       "source": "OSINT",
