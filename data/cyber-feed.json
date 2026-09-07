@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T17:52:11.426683+00:00",
+  "updated": "2026-09-07T21:24:14.054219+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,6 +28,76 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "For those who've actually sat through a ransomware tabletop exercise, useful, or just theater?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa41t8/for_those_whove_actually_sat_through_a_ransomware/",
+      "summary": "I've spent a few years doing incident response and negotiation work around real ransomware cases, and \"we run tabletop exercises\" is the answer I keep hearing from leadership whenever prevention comes up. But I'm curious from people who've actually been in the room, on either side: did it change how your team actually responded when something real happened later, or did it feel more like a compliance checkbox everyone forgot by Monday? What would've made it feel less like theater? submitted by /",
+      "published": "2026-09-07T20:49:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "summary": "11 points · 0 comments",
+      "published": "2026-09-07T20:34:32+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Instead of Fighting AI, Some Teachers Work It Into Their Lessons",
+      "url": "https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Last year the writing program at the University of Baltimore used an app that tracks students while they're writing in Google Docs, offering teachers a video playing back revisions \"with a scoreboard of all the edits, pastes and minutes spent on it,\" writes the Washington Post. \"Is it surveillance? Yes, I think obviously,\" says the program's director. But was there a better way? She is one of a dozen educators around the country who told The Post that they're experimenting with a different appro",
+      "published": "2026-09-07T20:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Most “AI-powered security tools” are just expensive placebo and CISOs know it",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa265u/most_aipowered_security_tools_are_just_expensive/",
+      "summary": "90% of the “AI detection” products companies are buying right now don’t actually stop anything meaningful. They just generate prettier dashboards and give executives something to point at during board meetings. Meanwhile real attackers are using the same AI (or better) to bypass them in minutes. We’re in the golden age of security theater and nobody wants to say it out loud because the budgets are too good. Agree or am I tripping? submitted by /u/Strong-Cause-5813 [link] [comments]",
+      "published": "2026-09-07T19:39:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Replaceable but Employed: Automation and the Meaning of Work",
+      "url": "https://www.nber.org/papers/w35559",
+      "summary": "27 points · 0 comments",
+      "published": "2026-09-07T19:06:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "summary": "115 points · 45 comments",
+      "published": "2026-09-07T18:52:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Which security checks are missing from current AI agent APIs?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa0el0/which_security_checks_are_missing_from_current_ai/",
+      "summary": "I’ve (we) been looking into security for AI agents and would be interested in hearing from people who are already building or deploying them. The most common protections seem to cover prompt injection, PII exposure, and individual tool calls. But I’m wondering where the biggest gaps are in practice. For example, should security systems also evaluate whether a sequence of tool calls matches the user’s original intent? What about detecting suspicious combinations of individually legitimate actions",
+      "published": "2026-09-07T18:35:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: HomeCat – Design your backyard office",
+      "url": "https://myhomecat.com",
+      "summary": "21 points · 15 comments",
+      "published": "2026-09-07T18:23:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
+      "published": "2026-09-07T18:12:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "SOC analyst considering quitting due to burnout",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9znc7/soc_analyst_considering_quitting_due_to_burnout/",
+      "summary": "Long story short, I work in a SOC and its started to take its toll on my personal life and mental health due to burnout. It would be very liberating to just walk away from it all. But I also don't have any other job prospects currently. I have sufficient savings to support me, but the job market is ass so I could be out of work for months and that could also be very stressful. I'm not sure what I should do. submitted by /u/jaydee288 [link] [comments]",
+      "published": "2026-09-07T18:08:35+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "How has CCNA helped you?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9yuze/how_has_ccna_helped_you/",
       "summary": "Was the cert worth it? submitted by /u/Glittering_Fig4548 [link] [comments]",
@@ -48,25 +118,11 @@
       "published": "2026-09-07T16:50:29+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Tell HN: OpenAI brings back 5 hour limit for plus and business standard users",
-      "url": "https://news.ycombinator.com/item?id=49600233",
-      "summary": "47 points · 26 comments",
-      "published": "2026-09-07T16:40:32+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
       "published": "2026-09-07T15:51:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bing Wallpaper showing Ad for Harry Potter and Fantastic beasts box set",
-      "url": "https://www.thurrott.com/forums/microsoft/windows/thread/bing-wallpaper-showing-ad-for-harry-potter-and-fantastic-beasts-box-set",
-      "summary": "64 points · 33 comments",
-      "published": "2026-09-07T15:50:37+00:00"
     },
     {
       "source": "OSINT",
@@ -76,32 +132,11 @@
       "published": "2026-09-07T15:39:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "C Is Not a Low-Level Language (2018)",
-      "url": "https://queue.acm.org/doi/10.1145/3212477.3212479",
-      "summary": "6 points · 0 comments",
-      "published": "2026-09-07T15:39:20+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Security+ recommends two internal firewalls?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9v9yq/security_recommends_two_internal_firewalls/",
       "summary": "I am completing practice questions based on Security+. I came across this one: A security auditor discovers that a company has two firewalls of the same model protecting their internal network. What should the auditor recommend for their security architecture? A. Change one of the firewalls to a different platform B. Add a firewall of the same model C. Only use one firewall D. Remove firewalls in front of the internal network Regardless of what the Security+ says, do you agree that A is the righ",
       "published": "2026-09-07T15:28:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bill Gates tries to install MovieMaker",
-      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-      "summary": "105 points · 71 comments",
-      "published": "2026-09-07T15:27:03+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What happens to you info in data branches?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9v6h3/what_happens_to_you_info_in_data_branches/",
-      "summary": "This may be a silly question, but I’m a bit uneducated on this topic. Over the years, I’ve been notified a handful of times that my info may have been a part of a data breach/leak (I.e. name, email, etc) with different websites. I know this is relatively common, but what actually happens with this potentially leaked information? Is it privately sold amongst hackers/criminals or is information exposed in breaches oftentimes publicly posted? Is it relatively uncommon for the breached data to be pu",
-      "published": "2026-09-07T15:24:59+00:00"
     },
     {
       "source": "OSINT",
@@ -121,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "bzip3",
       "url": "https://github.com/iczelia/bzip3",
-      "summary": "206 points · 63 comments",
+      "summary": "340 points · 95 comments",
       "published": "2026-09-07T13:35:13+00:00"
     },
     {
@@ -130,20 +165,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/",
       "summary": "Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]",
       "published": "2026-09-07T13:05:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "De-Brainrot Vacations",
-      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-      "summary": "403 points · 168 comments",
-      "published": "2026-09-07T13:00:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Splash-free urinals (2025)",
-      "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-      "summary": "179 points · 97 comments",
-      "published": "2026-09-07T12:58:57+00:00"
     },
     {
       "source": "OSINT",
@@ -158,13 +179,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9q0g6/mikrotik_under_active_exploitation_122500_routers/",
       "summary": "Independent researchers are reverse-engineering the bugs using AI. submitted by /u/sunychoudhary [link] [comments]",
       "published": "2026-09-07T11:51:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-      "summary": "208 points · 122 comments",
-      "published": "2026-09-07T11:46:37+00:00"
     },
     {
       "source": "OSINT",
@@ -224,31 +238,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Impedance Matching (2017)",
-      "url": "https://www.edge.org/response-detail/27238",
-      "summary": "63 points · 20 comments",
-      "published": "2026-09-07T09:52:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
-      "summary": "151 points · 35 comments",
+      "summary": "198 points · 61 comments",
       "published": "2026-09-07T09:26:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Speculative Decoding in vLLM on AMD GPUs",
-      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
-      "summary": "100 points · 35 comments",
-      "published": "2026-09-07T09:26:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Live map of public transport in Belgium",
-      "url": "https://openbaarvervoerbelgie.be/",
-      "summary": "146 points · 62 comments",
-      "published": "2026-09-07T09:02:47+00:00"
     },
     {
       "source": "OSINT",
@@ -279,13 +272,6 @@
       "published": "2026-09-07T07:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "LG smart TVs caught logging audio with screen off and snooping on local devices",
-      "url": "https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html",
-      "summary": "953 points · 449 comments",
-      "published": "2026-09-07T07:03:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "N-able patches max severity N-central flaw amid ongoing attacks",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
@@ -298,13 +284,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9jzgz/lg_smart_tvs_caught_logging_audio_with_screen_off/",
       "summary": "submitted by /u/East-Experience2862 [link] [comments]",
       "published": "2026-09-07T06:15:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Should I try to memorize everything I learn on TryHackMe, or just keep moving forward?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9jwt7/should_i_try_to_memorize_everything_i_learn_on/",
-      "summary": "I've been studying cybersecurity through TryHackMe, and I've been wondering about the best way to retain what I learn. When I study a new Room, I usually understand and remember the topic pretty well while I'm working through it. However, once I move on to another Room and start learning something completely different, I gradually forget parts of the previous topic. This makes me wonder whether I'm approaching learning the wrong way. Should I try to memorize everything before moving on to the ne",
-      "published": "2026-09-07T06:11:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -321,20 +300,6 @@
       "published": "2026-09-07T04:05:33+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Keep Our Servers Running",
-      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
-      "summary": "805 points · 201 comments",
-      "published": "2026-09-07T03:29:51+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Do Big Companies Still Hire Penetration Testers?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9g8gf/do_big_companies_still_hire_penetration_testers/",
-      "summary": "Are big companies still hiring penetration testers? I feel like penetration testing jobs barely exist at big companies anymore. Most of the openings I see seem to be at small startups or small security firms started by a few people working together. Meanwhile, I see software engineering positions at almost every big company, but rarely penetration testing roles. It’s honestly making me wonder if I should switch my career path to software engineering instead. submitted by /u/Weekly_Rough_1284 [li",
-      "published": "2026-09-07T03:02:53+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "US Military Disables Ad Trackers On Devices To Protect Troops",
       "url": "https://yro.slashdot.org/story/26/09/06/0553230/us-military-disables-ad-trackers-on-devices-to-protect-troops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -347,6 +312,13 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
       "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
       "published": "2026-09-07T01:15:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
+      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
+      "summary": "315 points · 621 comments",
+      "published": "2026-09-07T00:22:04+00:00"
     },
     {
       "source": "REDDIT",
@@ -363,13 +335,6 @@
       "published": "2026-09-06T23:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Geekom admits to shipping malware-laced network drivers for AMD mini PCs — company responds with guidance, removes malicious package",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w97gqm/geekom_admits_to_shipping_malwarelaced_network/",
-      "summary": "submitted by /u/128G [link] [comments]",
-      "published": "2026-09-06T20:36:01+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "TiVo Will Start Charging Fees For Its Automatic Commercial Break-Skipping Feature 'SkipMode'",
       "url": "https://entertainment.slashdot.org/story/26/09/06/0347252/tivo-will-start-charging-fees-for-its-automatic-commercial-break-skipping-feature-skipmode?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -380,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "The Dataflow Model Revisited",
       "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-      "summary": "25 points · 6 comments",
+      "summary": "70 points · 12 comments",
       "published": "2026-09-06T18:10:53+00:00"
     },
     {
@@ -405,6 +370,13 @@
       "published": "2026-09-06T14:23:46+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "summary": "85 points · 10 comments",
+      "published": "2026-09-06T13:07:52+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Private German Rocket Makes History, Reaches Orbit From European Soil",
       "url": "https://science.slashdot.org/story/26/09/06/0446242/private-german-rocket-makes-history-reaches-orbit-from-european-soil?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -426,11 +398,11 @@
       "published": "2026-09-06T08:34:20+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "2026 Hugo Award Winners Include Ursula Le Guin-Authored Graphic Novel",
-      "url": "https://news.slashdot.org/story/26/09/06/0316245/2026-hugo-award-winners-include-ursula-le-guin-authored-graphic-novel?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "This year's Hugo Award winners were announced last weekend at Worldcon — the world's longest-running science fiction/fantasy convention. The Orange County Register reports there were fans \"clad in capes, gowns and elaborate character costumes,\" with famous attendees including Game of Thrones author George R. R. Martin, who held a book signing: Martin attended his first Worldcon in 1971 in Boston, before he published his first novel. Fresh out of his graduate studies, Martin, then 22 years old, f",
-      "published": "2026-09-06T07:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Decapitating a MacBook (2025)",
+      "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
+      "summary": "33 points · 19 comments",
+      "published": "2026-09-06T04:40:00+00:00"
     },
     {
       "source": "OSINT",
@@ -448,17 +420,17 @@
     },
     {
       "source": "OSINT",
-      "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-      "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-      "summary": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions. The vulnerability, tracked as CVE-2026-59346 (CVSS score: 9.3), is an integer-overflow vulnerability that a local attacker with elevated privileges can exploit to run arbitrary code. \"A",
-      "published": "2026-09-05T16:05:08+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
       "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
       "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
       "published": "2026-09-05T14:29:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "summary": "56 points · 9 comments",
+      "published": "2026-09-05T11:25:18+00:00"
     },
     {
       "source": "OSINT",
@@ -469,24 +441,52 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Whistle Synth",
-      "url": "https://www.jefftk.com/p/whistle-synth-mac-app",
-      "summary": "21 points · 6 comments",
-      "published": "2026-09-04T09:44:45+00:00"
+      "title": "This Month in Ladybird – August 2026",
+      "url": "https://ladybird.org/newsletter/2026-08-31/",
+      "summary": "98 points · 10 comments",
+      "published": "2026-09-04T22:47:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "summary": "45 points · 8 comments",
+      "published": "2026-09-04T20:28:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "url": "https://kallus.org/blog/dummit_and_foote.html",
+      "summary": "37 points · 7 comments",
+      "published": "2026-09-04T20:20:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Decoding the NEC V20 Microcode",
       "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "summary": "27 points · 0 comments",
+      "summary": "89 points · 4 comments",
       "published": "2026-09-04T05:53:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Simple Is Not Small",
       "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-      "summary": "82 points · 25 comments",
+      "summary": "157 points · 47 comments",
       "published": "2026-09-03T23:47:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Methods for Random Gradients (2024)",
+      "url": "https://justinjay.wang/methods-for-random-gradients/",
+      "summary": "34 points · 4 comments",
+      "published": "2026-09-03T22:26:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "WeatherNext 3",
+      "url": "https://deepmind.google/science/weathernext/",
+      "summary": "118 points · 18 comments",
+      "published": "2026-09-03T16:06:08+00:00"
     },
     {
       "source": "OSINT",
