@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-07T21:24:14.054219+00:00",
-  "item_count": 76,
+  "updated": "2026-09-07T23:42:18.340129+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,48 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Switzerland's Federal Government Tests Open-Source Alternatives to Microsoft on 3,000 Computers",
+      "url": "https://yro.slashdot.org/story/26/09/07/0128205/switzerlands-federal-government-tests-open-source-alternatives-to-microsoft-on-3000-computers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Switzerland has a population of 9,154,242. And its federal government just launched a pilot program to test open source alternatives to Microsoft 365 on 3,000 workstations, reports the blog It's FOSS. \"That's about 7% of the federal workforce.\" The target is to complete the migration by end of 2027... On September 3, 2026, the Federal Council published results of \"PoC BOSS\", a feasibility proof-of-concept involving 172 federal employees who tested the openDesk suite, a German open-source collabo",
+      "published": "2026-09-07T23:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What changes are worth alerting on in a recon monitoring pipeline?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa67dh/what_changes_are_worth_alerting_on_in_a_recon/",
+      "summary": "We’re building SubAnalyzer, and would like feedback on its monitoring service from people who already run their own recon pipelines. It reports new and removed subdomains, DNS and service changes, and potential takeover risks. You can choose which changes trigger alerts, with updates grouped into an email digest. One design detail: manual scans stay separate from monitoring alerts, and changes are compared with the last reported state rather than simply the last scan. We’d like to hear how other",
+      "published": "2026-09-07T22:14:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "summary": "14 points · 3 comments",
+      "published": "2026-09-07T22:12:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa4tqd/peep_turns_chrome_and_edge_into_postcompromise/",
+      "summary": "submitted by /u/Secure-Expression148 [link] [comments]",
+      "published": "2026-09-07T21:19:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Education of a Doomer",
+      "url": "https://borretti.me/article/the-education-of-a-doomer",
+      "summary": "45 points · 35 comments",
+      "published": "2026-09-07T21:19:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Working on Economics with Fable 5",
+      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+      "summary": "33 points · 18 comments",
+      "published": "2026-09-07T21:18:15+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "For those who've actually sat through a ransomware tabletop exercise, useful, or just theater?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wa41t8/for_those_whove_actually_sat_through_a_ransomware/",
@@ -37,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "Macbeth and His Problems",
       "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-      "summary": "11 points · 0 comments",
+      "summary": "30 points · 9 comments",
       "published": "2026-09-07T20:34:32+00:00"
     },
     {
@@ -48,6 +90,13 @@
       "published": "2026-09-07T20:34:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "summary": "50 points · 22 comments",
+      "published": "2026-09-07T20:32:55+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Most “AI-powered security tools” are just expensive placebo and CISOs know it",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wa265u/most_aipowered_security_tools_are_just_expensive/",
@@ -56,38 +105,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Replaceable but Employed: Automation and the Meaning of Work",
-      "url": "https://www.nber.org/papers/w35559",
-      "summary": "27 points · 0 comments",
-      "published": "2026-09-07T19:06:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
       "url": "https://lax-skyline.parcelscope.net/",
-      "summary": "115 points · 45 comments",
+      "summary": "179 points · 86 comments",
       "published": "2026-09-07T18:52:06+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Which security checks are missing from current AI agent APIs?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa0el0/which_security_checks_are_missing_from_current_ai/",
-      "summary": "I’ve (we) been looking into security for AI agents and would be interested in hearing from people who are already building or deploying them. The most common protections seem to cover prompt injection, PII exposure, and individual tool calls. But I’m wondering where the biggest gaps are in practice. For example, should security systems also evaluate whether a sequence of tool calls matches the user’s original intent? What about detecting suspicious combinations of individually legitimate actions",
-      "published": "2026-09-07T18:35:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: HomeCat – Design your backyard office",
-      "url": "https://myhomecat.com",
-      "summary": "21 points · 15 comments",
-      "published": "2026-09-07T18:23:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
-      "published": "2026-09-07T18:12:09+00:00"
     },
     {
       "source": "REDDIT",
@@ -151,13 +172,6 @@
       "url": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"Billionaire Bill Ackman's life was upended this February when his 26-year-old daughter collapsed in her Brooklyn apartment, suffering a brain hemorrhage that would render her unable to move, speak or see,\" writes the Washingon Post. But then... The hedge fund manager did what any good father would do — at least, any father with vast financial resources and what friends describe as a \"Mr. Fix-It\" tendency. He sprung into action, getting her topline care at New York City's Mt. Sinai Hospital and ",
       "published": "2026-09-07T14:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "bzip3",
-      "url": "https://github.com/iczelia/bzip3",
-      "summary": "340 points · 95 comments",
-      "published": "2026-09-07T13:35:13+00:00"
     },
     {
       "source": "OSINT",
@@ -240,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
       "url": "https://mathathonchallenge.com/index.html",
-      "summary": "198 points · 61 comments",
+      "summary": "215 points · 74 comments",
       "published": "2026-09-07T09:26:53+00:00"
     },
     {
@@ -249,13 +263,6 @@
       "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
       "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
       "published": "2026-09-07T08:31:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What do you use for AI security in a large enterprise?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9m1dm/what_do_you_use_for_ai_security_in_a_large/",
-      "summary": "We’re starting to see AI move from internal experimentation into workflows that can access knowledge bases, tickets, code, and sometimes production-adjacent systems. For teams in larger enterprises, what are you actually using for AI security beyond standard IAM, DLP, and vendor questionnaires? Interested in how people are handling model access, prompt injection, agent permissions, audit trails, and testing before new AI tools are approved. Is this owned by the security architecture team, the AI",
-      "published": "2026-09-07T08:09:38+00:00"
     },
     {
       "source": "OSINT",
@@ -317,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "216M Spy TVs – The LG Smart TV Problem [video]",
       "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "summary": "315 points · 621 comments",
+      "summary": "437 points · 694 comments",
       "published": "2026-09-07T00:22:04+00:00"
     },
     {
@@ -340,13 +347,6 @@
       "url": "https://entertainment.slashdot.org/story/26/09/06/0347252/tivo-will-start-charging-fees-for-its-automatic-commercial-break-skipping-feature-skipmode?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "TiVo is notifying customers about changes to \"one of its longest-standing and most popular DVR features,\" reports the blog Cord Cutter News: Starting November 2, 2026, the current version of SkipMode that allows users to jump over commercial breaks with a single button press on the remote will no longer be available. The company is instead preparing to test a new paid add-on called Premium Auto Commercial Skip. SkipMode has been a core part of the TiVo experience for years. After a supported sho",
       "published": "2026-09-06T20:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Dataflow Model Revisited",
-      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-      "summary": "70 points · 12 comments",
-      "published": "2026-09-06T18:10:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -373,15 +373,8 @@
       "source": "HACKER NEWS",
       "title": "Icy Moons Are Ocean Worlds",
       "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-      "summary": "85 points · 10 comments",
+      "summary": "118 points · 10 comments",
       "published": "2026-09-06T13:07:52+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Private German Rocket Makes History, Reaches Orbit From European Soil",
-      "url": "https://science.slashdot.org/story/26/09/06/0446242/private-german-rocket-makes-history-reaches-orbit-from-european-soil?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"No rocket had ever reached orbit from Western European soil — until today,\" reports Space.com. DW.com reports that a Spectrum space rocket from German company Isar Aerospace launched today from the Arctic Norwegian spaceport at Andoya: \"Germany has spaceflight capabilities,\" said the country's Ministry for Research, Technology and Space on X, praising a \"milestone that impressively demonstrates our country's innovative strength and technical expertise\". This was the German company's second atte",
-      "published": "2026-09-06T11:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -401,7 +394,7 @@
       "source": "HACKER NEWS",
       "title": "Decapitating a MacBook (2025)",
       "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-      "summary": "33 points · 19 comments",
+      "summary": "51 points · 35 comments",
       "published": "2026-09-06T04:40:00+00:00"
     },
     {
@@ -429,7 +422,7 @@
       "source": "HACKER NEWS",
       "title": "Trusting-Trust Attack against an Entire Linux Distribution",
       "url": "https://arxiv.org/abs/2607.24888",
-      "summary": "56 points · 9 comments",
+      "summary": "119 points · 28 comments",
       "published": "2026-09-05T11:25:18+00:00"
     },
     {
@@ -443,49 +436,49 @@
       "source": "HACKER NEWS",
       "title": "This Month in Ladybird – August 2026",
       "url": "https://ladybird.org/newsletter/2026-08-31/",
-      "summary": "98 points · 10 comments",
+      "summary": "135 points · 26 comments",
       "published": "2026-09-04T22:47:04+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Scientists observe Einstein's gravity in the quantum world",
       "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "summary": "45 points · 8 comments",
+      "summary": "109 points · 26 comments",
       "published": "2026-09-04T20:28:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
       "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "summary": "37 points · 7 comments",
+      "summary": "56 points · 32 comments",
       "published": "2026-09-04T20:20:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: I built an aesthetically pleasing puzzle",
+      "url": "https://jigsawhaiku.com/",
+      "summary": "19 points · 6 comments",
+      "published": "2026-09-04T18:14:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Decoding the NEC V20 Microcode",
       "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "summary": "89 points · 4 comments",
+      "summary": "106 points · 7 comments",
       "published": "2026-09-04T05:53:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Simple Is Not Small",
-      "url": "https://jyn.dev/simple-is-not-the-same-as-small/",
-      "summary": "157 points · 47 comments",
-      "published": "2026-09-03T23:47:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Methods for Random Gradients (2024)",
-      "url": "https://justinjay.wang/methods-for-random-gradients/",
-      "summary": "34 points · 4 comments",
-      "published": "2026-09-03T22:26:44+00:00"
+      "title": "Show HN: Interactive Tree of Life",
+      "url": "https://ptree.org/",
+      "summary": "44 points · 14 comments",
+      "published": "2026-09-04T00:40:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "WeatherNext 3",
       "url": "https://deepmind.google/science/weathernext/",
-      "summary": "118 points · 18 comments",
+      "summary": "195 points · 37 comments",
       "published": "2026-09-03T16:06:08+00:00"
     },
     {
