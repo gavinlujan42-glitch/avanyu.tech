@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T17:23:01.904725+00:00",
-  "item_count": 76,
+  "updated": "2026-09-08T20:09:55.660324+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,18 +27,81 @@
   ],
   "items": [
     {
-      "source": "HACKER NEWS",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution/",
-      "summary": "21 points · 3 comments",
-      "published": "2026-09-08T17:13:21+00:00"
+      "source": "OSINT",
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "summary": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
+      "published": "2026-09-08T20:08:55+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Australia To Let Social Media Users 'Opt Out' of Algorithm-Based Feeds",
+      "url": "https://tech.slashdot.org/story/26/09/08/1959259/australia-to-let-social-media-users-opt-out-of-algorithm-based-feeds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Australia is proposing the \"My Feed, My Way\" initiative that would force social media platforms to let users over 16 turn off algorithmic recommendations and instead see only posts from people and creators they follow. Platforms that fail to comply could face fines of up to $79 million. CNBC reports: The legislation, which is being drafted and released Tuesday for targeted consultation, would require platforms to send notifications to new and existing users so they can choose their default feed.",
+      "published": "2026-09-08T20:01:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
-      "url": "https://cepr.org/publications/dp21706",
-      "summary": "12 points · 8 comments",
-      "published": "2026-09-08T17:00:45+00:00"
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "url": "https://ai.meta.com/muse/",
+      "summary": "88 points · 68 comments",
+      "published": "2026-09-08T19:25:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "A Secret New Elizabeth Holmes Documentary Stuns Telluride",
+      "url": "https://entertainment.slashdot.org/story/26/09/08/1652228/a-secret-new-elizabeth-holmes-documentary-stuns-telluride?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TechCrunch: Telluride just managed one of its best-kept secrets in years, per The Hollywood Reporter. On Sunday night, festival-goers filed into a 650-seat theater with their phones locked away, having no idea what they were about to see, told only that it ran nearly three hours, hadn't been shown anywhere, and that its principal creators would be in the audience. The surprise premiere they went on to enjoy is a new documentary from co-directors Nathan Fi",
+      "published": "2026-09-08T19:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft releases Windows 10 KB5122878 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
+      "published": "2026-09-08T18:49:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "summary": "188 points · 227 comments",
+      "published": "2026-09-08T18:37:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "100s of flights cancelled at UK airports due to ATC issue",
+      "url": "https://www.bbc.com/news/live/c6x2z0yy32ejt",
+      "summary": "57 points · 26 comments",
+      "published": "2026-09-08T18:26:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+      "summary": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
+      "published": "2026-09-08T18:18:05+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "LG TVs Caught Spying Even When Offline or On Standby",
+      "url": "https://yro.slashdot.org/story/26/09/08/1634205/lg-tvs-caught-spying-even-when-offline-or-on-standby?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A Gamers Nexus investigation found that LG smart TVs are almost constantly logging and uploading data about owners and their homes, even while they are offline or in standby mode. \"The company's TV sets scan Wi-Fi networks for nearby devices, record audio logs through their microphones, and use audio and video sampling to recognize exactly what you're watching from across the TV inputs,\" reports The Verge. From the report: Gamers Nexus partnered with fellow YouTubers Level1Techs and independent ",
+      "published": "2026-09-08T18:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
+      "summary": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "2026-09-08T17:57:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "summary": "738 points · 540 comments",
+      "published": "2026-09-08T17:13:21+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -51,15 +114,22 @@
       "source": "HACKER NEWS",
       "title": "Show HN: LLM Attention Visualization",
       "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "summary": "11 points · 0 comments",
+      "summary": "65 points · 14 comments",
       "published": "2026-09-08T16:59:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Connecting the Machines",
       "url": "https://herdr.dev/blog/connecting-the-machines/",
-      "summary": "15 points · 2 comments",
+      "summary": "52 points · 18 comments",
       "published": "2026-09-08T16:43:55+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1watmgu/wechat_zeroclick_worm_took_over_accounts_on/",
+      "summary": "submitted by /u/ni5arga [link] [comments]",
+      "published": "2026-09-08T16:41:29+00:00"
     },
     {
       "source": "OSINT",
@@ -72,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Y Combinator Early Access Network",
       "url": "https://events.ycombinator.com/yc-early-access-fall-26",
-      "summary": "10 points · 0 comments",
+      "summary": "55 points · 36 comments",
       "published": "2026-09-08T16:31:01+00:00"
     },
     {
@@ -90,13 +160,6 @@
       "published": "2026-09-08T16:20:23+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "LG TVs caught spying even when offline or on standby",
-      "url": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-      "summary": "109 points · 29 comments",
-      "published": "2026-09-08T16:07:08+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Teen Reading Slumps to Worst This Century Due to Surge in Screen Time",
       "url": "https://news.slashdot.org/story/26/09/08/1545207/teen-reading-slumps-to-worst-this-century-due-to-surge-in-screen-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -107,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "C*: Unifying Programming and Verification in C",
       "url": "https://arxiv.org/abs/2504.02246",
-      "summary": "27 points · 17 comments",
+      "summary": "48 points · 32 comments",
       "published": "2026-09-08T15:56:56+00:00"
     },
     {
@@ -128,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Google DeepMind Releases AlphaGenome Atlas",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "summary": "205 points · 41 comments",
+      "summary": "384 points · 97 comments",
       "published": "2026-09-08T14:55:45+00:00"
     },
     {
@@ -147,16 +210,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "ZX Spectrum: Experimenting with 1-Bit Sound",
-      "url": "https://bumbershootsoft.wordpress.com/2026/09/05/zx-spectrum-experimenting-with-1-bit-sound/",
-      "summary": "46 points · 14 comments",
-      "published": "2026-09-08T14:54:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "summary": "78 points · 41 comments",
+      "summary": "153 points · 83 comments",
       "published": "2026-09-08T14:49:19+00:00"
     },
     {
@@ -170,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "The two Christian saints who are the Buddha",
       "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-      "summary": "102 points · 40 comments",
+      "summary": "160 points · 91 comments",
       "published": "2026-09-08T14:44:25+00:00"
     },
     {
@@ -181,20 +237,6 @@
       "published": "2026-09-08T14:40:32+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "DHS 'Predictive Policing' Unit Is Analyzing Americans' Financial Habits",
-      "url": "https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over/",
-      "summary": "182 points · 73 comments",
-      "published": "2026-09-08T14:40:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Paramount Caught Using 'Astroturf' Group to Drum Up Fake Support for Merger",
-      "url": "https://www.techdirt.com/2026/09/08/paramount-caught-using-astroturf-group-to-drum-up-fake-support-for-merger/",
-      "summary": "166 points · 48 comments",
-      "published": "2026-09-08T14:33:52+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
       "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
@@ -203,16 +245,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "summary": "41 points · 4 comments",
-      "published": "2026-09-08T14:14:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "summary": "80 points · 61 comments",
+      "summary": "186 points · 150 comments",
       "published": "2026-09-08T14:13:26+00:00"
     },
     {
@@ -233,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "DaVinci Resolve 21.1",
       "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "summary": "221 points · 92 comments",
+      "summary": "294 points · 127 comments",
       "published": "2026-09-08T13:36:53+00:00"
     },
     {
@@ -247,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Copperhead – Hardware as Fast as Software",
       "url": "https://copperhead.sh/",
-      "summary": "140 points · 51 comments",
+      "summary": "172 points · 66 comments",
       "published": "2026-09-08T13:26:45+00:00"
     },
     {
@@ -284,20 +319,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
       "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
       "published": "2026-09-08T12:03:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
-      "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
-      "published": "2026-09-08T11:57:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-      "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
-      "published": "2026-09-08T11:54:29+00:00"
     },
     {
       "source": "OSINT",
@@ -350,13 +371,6 @@
     },
     {
       "source": "OSINT",
-      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
-      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
-      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based path using default credentials. [...]",
-      "published": "2026-09-08T07:35:50+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
       "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
       "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
@@ -405,13 +419,6 @@
       "published": "2026-09-07T23:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "For those who've actually sat through a ransomware tabletop exercise, useful, or just theater?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa41t8/for_those_whove_actually_sat_through_a_ransomware/",
-      "summary": "I've spent a few years doing incident response and negotiation work around real ransomware cases, and \"we run tabletop exercises\" is the answer I keep hearing from leadership whenever prevention comes up. But I'm curious from people who've actually been in the room, on either side: did it change how your team actually responded when something real happened later, or did it feel more like a compliance checkbox everyone forgot by Monday? What would've made it feel less like theater? submitted by /",
-      "published": "2026-09-07T20:49:52+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Instead of Fighting AI, Some Teachers Work It Into Their Lessons",
       "url": "https://news.slashdot.org/story/26/09/07/0021232/instead-of-fighting-ai-some-teachers-work-it-into-their-lessons?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -429,22 +436,8 @@
       "source": "HACKER NEWS",
       "title": "The Helicopter with Radioactive Blades",
       "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-      "summary": "53 points · 13 comments",
+      "summary": "111 points · 25 comments",
       "published": "2026-09-07T17:44:33+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "A Man Charged His EV at a Dealership - and Was Billed $418",
-      "url": "https://hardware.slashdot.org/story/26/09/07/012247/a-man-charged-his-ev-at-a-dealership---and-was-billed-418?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The EV blog Electrek reports: A Clinton Township, Michigan man was charged $418 for a single EV charging session at Elder Hyundai's Macomb Township store after finding the charger listed as publicly available on the EVgo app, but didn't discover the charges until after wrapping up his 40-ish minute charging session. \"I was flabbergasted,\" explained Stanley Kpenkann, who had been driving a rented Chevy Bolt EV at the time. \"Never in my wildest dreams did I think I would be saddled with a bill of ",
-      "published": "2026-09-07T17:34:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-      "url": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-      "summary": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
-      "published": "2026-09-07T16:50:29+00:00"
     },
     {
       "source": "OSINT",
@@ -452,27 +445,6 @@
       "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
       "published": "2026-09-07T15:51:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
-      "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
-      "published": "2026-09-07T15:39:51+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "'She Lost Her Sight. Her Billionaire Father Bet On a Daring New Treatment.'",
-      "url": "https://science.slashdot.org/story/26/09/07/0036234/she-lost-her-sight-her-billionaire-father-bet-on-a-daring-new-treatment?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Billionaire Bill Ackman's life was upended this February when his 26-year-old daughter collapsed in her Brooklyn apartment, suffering a brain hemorrhage that would render her unable to move, speak or see,\" writes the Washingon Post. But then... The hedge fund manager did what any good father would do — at least, any father with vast financial resources and what friends describe as a \"Mr. Fix-It\" tendency. He sprung into action, getting her topline care at New York City's Mt. Sinai Hospital and ",
-      "published": "2026-09-07T14:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "'The Jobs Apocalypse Is Postponed. An AI Jobs Boom Is Here'",
-      "url": "https://slashdot.org/story/26/09/06/214258/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A new article about AI in The Economist argues that \"Initial effects of the technology on employment look positive.\" Perhaps AI will eventually make many humans unemployable — but there is no sign of it yet. On September 4th the Bureau of Labour Statistics reported that the American economy added 162,000 jobs in August, far above expectations. The unemployment rate is just 4.1%, lower than in almost 90% of months over the past half-century. Young workers, often cast as AI's first victims, are ho",
-      "published": "2026-09-07T11:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -487,6 +459,20 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9cd9j/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-09-07T00:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
+      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
+      "summary": "35 points · 13 comments",
+      "published": "2026-09-05T12:32:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+      "url": "https://uecker.codeberg.page/2026-09-05.html",
+      "summary": "17 points · 0 comments",
+      "published": "2026-09-05T12:09:29+00:00"
     },
     {
       "source": "OSINT",
