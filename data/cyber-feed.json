@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T09:00:16.125762+00:00",
+  "updated": "2026-09-08T13:28:11.840108+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,115 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "AMA: I'm Larry Pesce. 20+ years of IoT and wireless hacking, software supply chain security, SANS course author, and Paul's Security Weekly. Ask me anything!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wanu96/ama_im_larry_pesce_20_years_of_iot_and_wireless/",
+      "summary": "Hey r/cybersecurity ! I'm Larry Pesce, VP of Services at Finite State. I've spent the last two decades-plus breaking (and then helping fix) the things most people don't think of as computers: medical devices, cars, industrial control systems, IP cameras, routers, and basically anything with a radio or a debug header. A quick rundown of what I've been up to over the years: Hardware and firmware hacking. Pulling firmware off devices via JTAG, UART, SPI, and chip-off, reverse engineering it, and fi",
+      "published": "2026-09-08T13:03:25+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Someone factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wantsx/someone_factored_the_rsa_keys_of_a_certificate/",
+      "summary": "submitted by /u/ni5arga [link] [comments]",
+      "published": "2026-09-08T13:02:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+      "summary": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing companies reduce their exposure. [...]",
+      "published": "2026-09-08T12:40:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers build AI frameworks for widescale credential theft",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+      "summary": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
+      "published": "2026-09-08T12:03:03+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+      "summary": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
+      "published": "2026-09-08T11:57:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+      "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "summary": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones. The person being called does not have to answer or touch their phone for it to work, but the caller must already be one of their WeChat contacts. Calif reported the flaw to Tencent in July and says the company has since",
+      "published": "2026-09-08T11:54:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "What It Took to Reach 1 Billion Build Manifests",
+      "url": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+      "summary": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I want to share what's actually behind them. The number itself is less interesting than the system that produced it, and why we had to fundamentally",
+      "published": "2026-09-08T11:49:02+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "AMD Working To 'Push Rust Deep into the GPU Stack'",
+      "url": "https://developers.slashdot.org/story/26/09/07/086221/amd-working-to-push-rust-deep-into-the-gpu-stack?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Phoronix reports: AMD is building out what they are describing as an \"elite\" team of developers for driving Rust code \"deep into the GPU stack\" from firmware to drivers, shader compilers, and other GPU software in Rust. AMD Senior Fellow Harsh Meno posted this week to LinkedIn about this new effort... And note this AMD job posting that's active for hiring a software development engineer to work on Rust code... \"We are building next-generation systems software for AMD GPUs with Rust as a core tec",
+      "published": "2026-09-08T11:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+      "url": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+      "summary": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says. FreeIPA is the system that determines who may log in across a Linux domain and maintains all identities in a 389 Directory Server database accessed via LDAP. The attack needs a second flaw in that database software. The",
+      "published": "2026-09-08T11:22:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PISA 2025 Students' reading and mathematics performance declined across the OECD",
+      "url": "https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html",
+      "summary": "52 points · 45 comments",
+      "published": "2026-09-08T11:13:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why getting your hands dirty is good for you",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "summary": "96 points · 71 comments",
+      "published": "2026-09-08T09:48:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "summary": "107 points · 30 comments",
+      "published": "2026-09-08T09:43:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "2 weeks into my first security role at an MSP and feeling pretty overwhelmed, is this normal?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wajc2n/2_weeks_into_my_first_security_role_at_an_msp_and/",
+      "summary": "Started a new role about two weeks ago as a Security Associate at an MSP (I'm remote, working a different timezone than the rest of the team). Coming from a single-org security background, and now I'm dealing with 150+ client environments, compliance frameworks I've never touched before (working toward an MSP-specific certification/audit), and honestly every task I dig into seems to surface three more things I don't have context for. My manager has been genuinely supportive, low pressure, encour",
+      "published": "2026-09-08T09:17:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "url": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "summary": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed StyleSmuggler by Sansec, which discovered zero-day exploitation starting September 4, 2026. \"This update resolves a critical",
+      "published": "2026-09-08T09:13:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "url": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "summary": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has operated out of the Indian state of Rajasthan since at least 2015, driven by two IT service providers named WeConnect",
+      "published": "2026-09-08T08:43:51+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
       "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
-      "summary": "4 points · 0 comments",
+      "summary": "242 points · 205 comments",
       "published": "2026-09-08T08:42:56+00:00"
     },
     {
@@ -39,13 +144,6 @@
       "url": "https://entertainment.slashdot.org/story/26/09/06/1745223/three-cities-16-years-and-1-billion-later-defiant-lucas-museum-of-narrative-art-opens-to-mixed-reviews?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "It looks like a spaceship hovering over South Los Angeles, writes CNN, with futuristic tube-like elevators and an exhibition of Banksy murals. There's a room featuring Luke Skywalker's X-34 Landspeeder, but in its gardens there's a 19th-century cast of a sculpture showing David conquering Goliath — and then a bronze statue of Princess Leia strangling Jabba the Hutt with a chain. Next to Rosie the Riveter. CNN argues it's the museum's message that \"all forms of art and mythology on display here —",
       "published": "2026-09-08T08:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "RMM Phishing Campaign Spans 46 Countries as Attackers Abuse Trusted IT Tools",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1waidtf/rmm_phishing_campaign_spans_46_countries_as/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-09-08T08:20:50+00:00"
     },
     {
       "source": "OSINT",
@@ -60,6 +158,13 @@
       "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
       "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
       "published": "2026-09-08T07:00:43+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Do you feel Cybersecurity positions are becoming more consolidated?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wags5v/do_you_feel_cybersecurity_positions_are_becoming/",
+      "summary": "Outside of specific services, typically. For example, its hard to find a job where you're \"just\" doing threat hunting. Or you're \"just\" doing threat intelligence analysis. But rather a lot of these jobs seem to have some kind of overlap. Its not uncommon for me to be looking at positions for hunting, intelligence, etc. And many times I see the description/skill requirements/duties and they overlap with other positions. The most common trend I see is a position that is basically a Threat hunter +",
+      "published": "2026-09-08T06:44:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -86,50 +191,22 @@
       "source": "HACKER NEWS",
       "title": "Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
-      "summary": "40 points · 31 comments",
+      "summary": "87 points · 55 comments",
       "published": "2026-09-08T05:20:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "My Feed, My Way",
-      "url": "https://www.pm.gov.au/media/my-feed-my-way",
-      "summary": "109 points · 72 comments",
-      "published": "2026-09-08T05:10:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mistral raises €3B",
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-      "summary": "400 points · 260 comments",
+      "summary": "623 points · 439 comments",
       "published": "2026-09-08T05:06:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "We have a year to fix security everywhere",
-      "url": "https://jyn.dev/a-year-to-fix-security/",
-      "summary": "210 points · 167 comments",
-      "published": "2026-09-08T04:48:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-      "url": "https://rohanadwankar.github.io/posts/platforms.html",
-      "summary": "27 points · 6 comments",
-      "published": "2026-09-08T04:36:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
       "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-      "summary": "38 points · 20 comments",
+      "summary": "63 points · 43 comments",
       "published": "2026-09-08T04:06:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I tested 10 model/harness combinations on the same Three.js task",
-      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
-      "summary": "78 points · 44 comments",
-      "published": "2026-09-08T03:42:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -142,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "How well do agents use test/verification techniques?",
       "url": "https://danluu.com/agentic-testing/",
-      "summary": "79 points · 20 comments",
+      "summary": "124 points · 45 comments",
       "published": "2026-09-08T02:58:16+00:00"
     },
     {
@@ -156,15 +233,8 @@
       "source": "HACKER NEWS",
       "title": "There's a new \"Google Jail\" for independent wikis",
       "url": "https://weirdgloop.org/blog/google-jail",
-      "summary": "111 points · 40 comments",
+      "summary": "289 points · 107 comments",
       "published": "2026-09-08T01:57:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "summary": "339 points · 139 comments",
-      "published": "2026-09-08T01:56:35+00:00"
     },
     {
       "source": "REDDIT",
@@ -177,21 +247,14 @@
       "source": "HACKER NEWS",
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
       "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "summary": "308 points · 53 comments",
+      "summary": "402 points · 77 comments",
       "published": "2026-09-08T01:16:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What are you guys doing to actually scale Sentinel/XDR operations?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa8vj7/what_are_you_guys_doing_to_actually_scale/",
-      "summary": "Curious what other security teams and MSSPs are doing to make Microsoft security operations more efficient at scale. We’re pretty heavily in the Sentinel, Defender XDR, Azure and M365 world, and I’ve been spending more time thinking about the engineering side of running all of this. There’s only so much value in continuing to add detections and playbooks if every new customer, rule, data source, or workflow creates more manual work for the team. How much are you guys actually automating? For exa",
-      "published": "2026-09-08T00:10:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "TALA Is Open-Source",
       "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "summary": "215 points · 14 comments",
+      "summary": "258 points · 22 comments",
       "published": "2026-09-07T23:37:42+00:00"
     },
     {
@@ -219,14 +282,14 @@
       "source": "HACKER NEWS",
       "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
       "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "summary": "189 points · 76 comments",
+      "summary": "228 points · 111 comments",
       "published": "2026-09-07T20:32:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
       "url": "https://lax-skyline.parcelscope.net/",
-      "summary": "286 points · 141 comments",
+      "summary": "315 points · 154 comments",
       "published": "2026-09-07T18:52:06+00:00"
     },
     {
@@ -235,13 +298,6 @@
       "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
       "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
       "published": "2026-09-07T18:12:09+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "SOC analyst considering quitting due to burnout",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9znc7/soc_analyst_considering_quitting_due_to_burnout/",
-      "summary": "Long story short, I work in a SOC and its started to take its toll on my personal life and mental health due to burnout. It would be very liberating to just walk away from it all. But I also don't have any other job prospects currently. I have sufficient savings to support me, but the job market is ass so I could be out of work for months and that could also be very stressful. I'm not sure what I should do. submitted by /u/jaydee288 [link] [comments]",
-      "published": "2026-09-07T18:08:35+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -270,13 +326,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/",
       "summary": "A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]",
       "published": "2026-09-07T15:39:51+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Security+ recommends two internal firewalls?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9v9yq/security_recommends_two_internal_firewalls/",
-      "summary": "I am completing practice questions based on Security+. I came across this one: A security auditor discovers that a company has two firewalls of the same model protecting their internal network. What should the auditor recommend for their security architecture? A. Change one of the firewalls to a different platform B. Add a firewall of the same model C. Only use one firewall D. Remove firewalls in front of the internal network Regardless of what the Security+ says, do you agree that A is the righ",
-      "published": "2026-09-07T15:28:31+00:00"
     },
     {
       "source": "OSINT",
@@ -363,27 +412,6 @@
       "published": "2026-09-07T10:06:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "anystation: Calling any station A public board shaped like a tree. No account",
-      "url": "https://anystation.net/",
-      "summary": "5 points · 1 comments",
-      "published": "2026-09-07T09:00:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "summary": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in five weeks for the N-central remote monitoring and management (RMM) platform, this time for a",
-      "published": "2026-09-07T08:31:12+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "url": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "summary": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including RC4-protected strings, control-flow flattening, proxy functions, and operation wrappers,\" Check Point Research said in a",
-      "published": "2026-09-07T07:53:04+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Bitcoin-based Liquid Network Says $320 Million Withdrawn in Hack",
       "url": "https://yro.slashdot.org/story/26/09/07/0727220/bitcoin-based-liquid-network-says-320-million-withdrawn-in-hack?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -419,13 +447,6 @@
       "published": "2026-09-07T01:34:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "summary": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
-      "published": "2026-09-07T01:15:43+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9cd9j/mentorship_monday_post_all_career_education_and/",
@@ -433,60 +454,39 @@
       "published": "2026-09-07T00:00:10+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Where a Massive Solar Storm Could Take Down the US Power Grid for Millions",
-      "url": "https://hardware.slashdot.org/story/26/09/05/2253221/where-a-massive-solar-storm-could-take-down-the-us-power-grid-for-millions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A new study published Friday in AGU Advances \"depicts the most advanced picture yet of how a rare but massive solar storm could affect some US industries and electric systems more than others,\" reports CNN. \"During a 250-year solar storm, the East Coast would have widespread potential for grid failure.\" Researchers modeled what a Carrington Event — a 1-in-150-year geomagnetic storm or even rarer — could mean for the modern day. They estimate the US economy would lose about $1.5 billion to $2 bil",
-      "published": "2026-09-06T23:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Robot writes in languages it has never seen before (2019)",
+      "url": "https://www.wired.com/story/robot-writing/",
+      "summary": "14 points · 7 comments",
+      "published": "2026-09-06T05:47:05+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Understanding Computer Memory Architecture and SSD Internals",
-      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
-      "summary": "35 points · 2 comments",
-      "published": "2026-09-06T19:51:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers conceal phishing lures using invisible Unicode characters",
-      "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-      "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
-      "published": "2026-09-06T14:23:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "summary": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful attacks date to at least September 2. The Hacker News’s September 6 review of the warning found no victim count or",
-      "published": "2026-09-06T09:32:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-      "url": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-      "summary": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself. One of them switches off Windows Update and Microsoft Defender before running a cryptocurrency miner. The company named the four programs ProManager, WinUpdate, SoftManager, and",
-      "published": "2026-09-06T08:34:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-      "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-      "summary": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which discovered the flaw and named it StyleSmuggler, said attacks started on September 4. \"Sansec is",
-      "published": "2026-09-05T20:14:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "We built our house for LAN parties",
+      "title": "We built our house for LAN parties (2024)",
       "url": "https://lanparty.house/",
-      "summary": "37 points · 13 comments",
+      "summary": "249 points · 154 comments",
       "published": "2026-09-05T18:44:40+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-      "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-      "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-      "published": "2026-09-05T14:29:13+00:00"
+      "source": "HACKER NEWS",
+      "title": "Picolibrary: A Small Press",
+      "url": "https://novalis.org/blog/2026-08-31-picolibrary-a-very-small-press.html",
+      "summary": "15 points · 2 comments",
+      "published": "2026-09-05T09:54:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "End-to-end infrastructure for training and inferencing open weight models",
+      "url": "https://docs.appliedcompute.com",
+      "summary": "34 points · 5 comments",
+      "published": "2026-09-04T21:25:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: Are others seeing Google's reCAPTCHA rejecting Firefox users?",
+      "url": "https://news.ycombinator.com/item?id=49555592",
+      "summary": "85 points · 31 comments",
+      "published": "2026-09-03T19:38:46+00:00"
     },
     {
       "source": "OSINT",
