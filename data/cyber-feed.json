@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-08T04:11:39.678939+00:00",
-  "item_count": 75,
+  "updated": "2026-09-08T09:00:16.125762+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,11 +27,109 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "summary": "4 points · 0 comments",
+      "published": "2026-09-08T08:42:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Three Cities, 16 Years And $1 Billion Later, 'Defiant' Lucas Museum of Narrative Art Opens To Mixed Reviews",
+      "url": "https://entertainment.slashdot.org/story/26/09/06/1745223/three-cities-16-years-and-1-billion-later-defiant-lucas-museum-of-narrative-art-opens-to-mixed-reviews?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "It looks like a spaceship hovering over South Los Angeles, writes CNN, with futuristic tube-like elevators and an exhibition of Banksy murals. There's a room featuring Luke Skywalker's X-34 Landspeeder, but in its gardens there's a 19th-century cast of a sculpture showing David conquering Goliath — and then a bronze statue of Princess Leia strangling Jabba the Hutt with a chain. Next to Rosie the Riveter. CNN argues it's the museum's message that \"all forms of art and mythology on display here —",
+      "published": "2026-09-08T08:34:00+00:00"
+    },
+    {
       "source": "REDDIT",
-      "title": "I passed the AppSec challenge, but I’m freaking out about the technical interviews",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1waduba/i_passed_the_appsec_challenge_but_im_freaking_out/",
-      "summary": "I have two upcoming technical interviews for an AppSec role, and I’m freaking out. I hate technical interviews as much as I hate pickles. I passed the practical challenge like a pro with no problem, but I’m horrible when I have to verbally explain technical things. I can actually do the work, but when someone asks me to explain definitions, concepts, or walk through the steps out loud, my mind just goes blank. I’m really anxious that I might lose this opportunity just because I’m not good at spe",
-      "published": "2026-09-08T04:05:10+00:00"
+      "title": "RMM Phishing Campaign Spans 46 Countries as Attackers Abuse Trusted IT Tools",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1waidtf/rmm_phishing_campaign_spans_46_countries_as/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-09-08T08:20:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "url": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "summary": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system through a cloud-based path using default credentials. [...]",
+      "published": "2026-09-08T07:35:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "url": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "summary": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April 2024, accusing it of violating U.K. privacy laws by sharing sensitive data for commercial purposes such as advertising.",
+      "published": "2026-09-08T07:00:43+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Is this fair to say? The defender’s dilemma or defender–attacker asymmetry in cybersecurity. The classic formulation is: The defender must protect every potential avenue of attack; the attacker only needs to find one successful avenue. Thoughts?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wagdbg/is_this_fair_to_say_the_defenders_dilemma_or/",
+      "summary": "It’s also described as the asymmetry of cybersecurity/asymmetric advantage of attacker. Modern security experts often criticize the literal “defender must be perfect, attacker only needs to succeed once” version, because defence in depth means one successful intrusion doesn’t necessarily equal a successful breach. submitted by /u/MannerNo7000 [link] [comments]",
+      "published": "2026-09-08T06:21:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "I removed Qwen3-4B's refusal guardrails (no fine-tuning, runs in Ollama)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wafulx/i_removed_qwen34bs_refusal_guardrails_no/",
+      "summary": "During my research into model alignment, I noticed how frequently safety guardrails cause false positive refusals on legitimate cybersecurity tasks. To address this, I applied directional abliteration to Qwen3-4B. By locating the specific internal activation pattern responsible for refusal and removing it directly from the model weights, I neutralised the refusal response entirely. [model : https://huggingface.co/IamLucif3r/Qwen3-4B-Instruct-2507-Abliterated ] The process requires no fine tuning",
+      "published": "2026-09-08T05:52:48+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Why Google Told Drivers to Drive a Longer Way On Purpose",
+      "url": "https://tech.slashdot.org/story/26/09/07/0653248/why-google-told-drivers-to-drive-a-longer-way-on-purpose?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"A team at Google's research arm used Google Maps to reroute a small portion of drivers in 10 U.S. cities,\" reports SFGate — including San Francisco and Los Angeles. \"Through their experiment, which was published in the journal Nature Cities in June, the researchers sought to evenly spread traffic down more corridors as the drivers head to similar destinations, in the hopes of reducing congestion.\" The experiments nudged up vehicle speeds by 2% on average on the congested roads, and shortened tr",
+      "published": "2026-09-08T05:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Multi-Agents LLM Financial Trading Framework",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "summary": "40 points · 31 comments",
+      "published": "2026-09-08T05:20:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "My Feed, My Way",
+      "url": "https://www.pm.gov.au/media/my-feed-my-way",
+      "summary": "109 points · 72 comments",
+      "published": "2026-09-08T05:10:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "summary": "400 points · 260 comments",
+      "published": "2026-09-08T05:06:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "We have a year to fix security everywhere",
+      "url": "https://jyn.dev/a-year-to-fix-security/",
+      "summary": "210 points · 167 comments",
+      "published": "2026-09-08T04:48:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+      "url": "https://rohanadwankar.github.io/posts/platforms.html",
+      "summary": "27 points · 6 comments",
+      "published": "2026-09-08T04:36:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+      "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+      "summary": "38 points · 20 comments",
+      "published": "2026-09-08T04:06:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I tested 10 model/harness combinations on the same Three.js task",
+      "url": "https://alvins82.github.io/hangar-harness-model-tests/",
+      "summary": "78 points · 44 comments",
+      "published": "2026-09-08T03:42:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -42,17 +140,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A Screensaver for LG's Spying Smart TVs",
-      "url": "https://weowntheglass.com",
-      "summary": "5 points · 0 comments",
-      "published": "2026-09-08T03:20:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
-      "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
-      "summary": "20 points · 9 comments",
-      "published": "2026-09-08T02:53:51+00:00"
+      "title": "How well do agents use test/verification techniques?",
+      "url": "https://danluu.com/agentic-testing/",
+      "summary": "79 points · 20 comments",
+      "published": "2026-09-08T02:58:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -63,9 +154,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "summary": "111 points · 40 comments",
+      "published": "2026-09-08T01:57:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Jellyfin 12.0",
       "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "summary": "153 points · 61 comments",
+      "summary": "339 points · 139 comments",
       "published": "2026-09-08T01:56:35+00:00"
     },
     {
@@ -79,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
       "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "summary": "161 points · 30 comments",
+      "summary": "308 points · 53 comments",
       "published": "2026-09-08T01:16:59+00:00"
     },
     {
@@ -93,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "TALA Is Open-Source",
       "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "summary": "128 points · 10 comments",
+      "summary": "215 points · 14 comments",
       "published": "2026-09-07T23:37:42+00:00"
     },
     {
@@ -102,20 +200,6 @@
       "url": "https://yro.slashdot.org/story/26/09/07/0128205/switzerlands-federal-government-tests-open-source-alternatives-to-microsoft-on-3000-computers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Switzerland has a population of 9,154,242. And its federal government just launched a pilot program to test open source alternatives to Microsoft 365 on 3,000 workstations, reports the blog It's FOSS. \"That's about 7% of the federal workforce.\" The target is to complete the migration by end of 2027... On September 3, 2026, the Federal Council published results of \"PoC BOSS\", a feasibility proof-of-concept involving 172 federal employees who tested the openDesk suite, a German open-source collabo",
       "published": "2026-09-07T23:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "summary": "125 points · 45 comments",
-      "published": "2026-09-07T22:12:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa4tqd/peep_turns_chrome_and_edge_into_postcompromise/",
-      "summary": "submitted by /u/Secure-Expression148 [link] [comments]",
-      "published": "2026-09-07T21:19:54+00:00"
     },
     {
       "source": "REDDIT",
@@ -135,22 +219,22 @@
       "source": "HACKER NEWS",
       "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
       "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "summary": "134 points · 55 comments",
+      "summary": "189 points · 76 comments",
       "published": "2026-09-07T20:32:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Emacs Bedrock 2.0",
-      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
-      "summary": "64 points · 2 comments",
-      "published": "2026-09-07T20:12:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
       "url": "https://lax-skyline.parcelscope.net/",
-      "summary": "245 points · 126 comments",
+      "summary": "286 points · 141 comments",
       "published": "2026-09-07T18:52:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "summary": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension directly into Chrome/Edge profiles, bypassing Web Store checks and user prompts by forging Chromium's own Secure Preferences",
+      "published": "2026-09-07T18:12:09+00:00"
     },
     {
       "source": "REDDIT",
@@ -258,13 +342,6 @@
       "published": "2026-09-07T11:20:14+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Looking for ideas: How would you run Cybersecurity Awareness Month with almost no budget and an uninterested workforce?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9or8n/looking_for_ideas_how_would_you_run_cybersecurity/",
-      "summary": "I'm planning a full Cybersecurity Awareness Month 2026 program that I'll be presenting to our CISO for approval. The challenge is: We currently have no dedicated security awareness/training platform Little to no budget for this initiative It's an older organization, while our cybersecurity department is relatively new Many employees are fairly old-school and unlikely to voluntarily participate in games, scavenger hunts, quizzes, etc. I've found some great ideas around gamification, CTFs, scaveng",
-      "published": "2026-09-07T10:45:34+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ChatGPT can now connect to your personal apps to mimic writing style",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
@@ -284,6 +361,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
       "summary": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
       "published": "2026-09-07T10:06:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "anystation: Calling any station A public board shaped like a tree. No account",
+      "url": "https://anystation.net/",
+      "summary": "5 points · 1 comments",
+      "published": "2026-09-07T09:00:01+00:00"
     },
     {
       "source": "OSINT",
@@ -342,13 +426,6 @@
       "published": "2026-09-07T01:15:43+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "216M Spy TVs – The LG Smart TV Problem [video]",
-      "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "summary": "608 points · 837 comments",
-      "published": "2026-09-07T00:22:04+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9cd9j/mentorship_monday_post_all_career_education_and/",
@@ -363,18 +440,11 @@
       "published": "2026-09-06T23:34:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "TiVo Will Start Charging Fees For Its Automatic Commercial Break-Skipping Feature 'SkipMode'",
-      "url": "https://entertainment.slashdot.org/story/26/09/06/0347252/tivo-will-start-charging-fees-for-its-automatic-commercial-break-skipping-feature-skipmode?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "TiVo is notifying customers about changes to \"one of its longest-standing and most popular DVR features,\" reports the blog Cord Cutter News: Starting November 2, 2026, the current version of SkipMode that allows users to jump over commercial breaks with a single button press on the remote will no longer be available. The company is instead preparing to test a new paid add-on called Premium Auto Commercial Skip. SkipMode has been a core part of the TiVo experience for years. After a supported sho",
-      "published": "2026-09-06T20:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Flock Offered Webinar Teaching Cops How to Surveil 'No Kings' Protesters",
-      "url": "https://yro.slashdot.org/story/26/09/05/0659243/flock-offered-webinar-teaching-cops-how-to-surveil-no-kings-protesters?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Thursday 404 Media reported that Flock taught America's cops \"how they could surveil the No Kings protests\" against President Trump (as well as \"small parades\") in a webinar last year that described \"using a mix of Flock's technology and law enforcement's own databases.\" In the webinar, Flock's director of market management Caity Peak explains how real time crime centers — which are police surveillance centers that utilize Flock cameras and other surveillance cameras — can be used for emergency ",
-      "published": "2026-09-06T17:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Understanding Computer Memory Architecture and SSD Internals",
+      "url": "https://codingpirate.com/understanding-computer-memory-architecture-ac9320110787",
+      "summary": "35 points · 2 comments",
+      "published": "2026-09-06T19:51:28+00:00"
     },
     {
       "source": "OSINT",
@@ -398,13 +468,6 @@
       "published": "2026-09-06T08:34:20+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Everything is free now, so why not a floating orb in my IDE",
-      "url": "https://eighttrigrams.net/post/79",
-      "summary": "8 points · 1 comments",
-      "published": "2026-09-05T20:15:36+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
       "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
@@ -412,11 +475,11 @@
       "published": "2026-09-05T20:14:47+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-      "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-      "summary": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment. \"Cadence users should immediately revoke or rotate all credentials and secrets that may have been used to run their Cadence executions,\" JetBrains said.",
-      "published": "2026-09-05T16:52:33+00:00"
+      "source": "HACKER NEWS",
+      "title": "We built our house for LAN parties",
+      "url": "https://lanparty.house/",
+      "summary": "37 points · 13 comments",
+      "published": "2026-09-05T18:44:40+00:00"
     },
     {
       "source": "OSINT",
@@ -424,62 +487,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
       "summary": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
       "published": "2026-09-05T14:29:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "summary": "176 points · 37 comments",
-      "published": "2026-09-05T11:25:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-      "summary": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [...]",
-      "published": "2026-09-05T11:11:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "summary": "173 points · 42 comments",
-      "published": "2026-09-04T20:28:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Jigsaw Haiku",
-      "url": "https://jigsawhaiku.com/",
-      "summary": "70 points · 23 comments",
-      "published": "2026-09-04T18:14:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
-      "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
-      "summary": "16 points · 5 comments",
-      "published": "2026-09-04T13:05:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "John Margolies' photographs of roadside America",
-      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
-      "summary": "45 points · 13 comments",
-      "published": "2026-09-04T04:57:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Interactive Tree of Life",
-      "url": "https://ptree.org/",
-      "summary": "76 points · 22 comments",
-      "published": "2026-09-04T00:40:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
-      "summary": "269 points · 63 comments",
-      "published": "2026-09-03T16:06:08+00:00"
     },
     {
       "source": "OSINT",
