@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T23:42:18.340129+00:00",
+  "updated": "2026-09-08T04:11:39.678939+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,76 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "I passed the AppSec challenge, but I’m freaking out about the technical interviews",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1waduba/i_passed_the_appsec_challenge_but_im_freaking_out/",
+      "summary": "I have two upcoming technical interviews for an AppSec role, and I’m freaking out. I hate technical interviews as much as I hate pickles. I passed the practical challenge like a pro with no problem, but I’m horrible when I have to verbally explain technical things. I can actually do the work, but when someone asks me to explain definitions, concepts, or walk through the steps out loud, my mind just goes blank. I’m really anxious that I might lose this opportunity just because I’m not good at spe",
+      "published": "2026-09-08T04:05:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Reports: FBI investigates alleged cybersecurity breach at ID verification company",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wad5qe/reports_fbi_investigates_alleged_cybersecurity/",
+      "summary": "submitted by /u/israelavila [link] [comments]",
+      "published": "2026-09-08T03:30:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Screensaver for LG's Spying Smart TVs",
+      "url": "https://weowntheglass.com",
+      "summary": "5 points · 0 comments",
+      "published": "2026-09-08T03:20:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Prompting Is Dead in 6 Months. Andrew Ng, Stanford [video]",
+      "url": "https://www.youtube.com/watch?v=9EuNUe-CJRM",
+      "summary": "20 points · 9 comments",
+      "published": "2026-09-08T02:53:51+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Does Brave Browser Load Faster Than Chrome, Firefox, and Microsoft Edge?",
+      "url": "https://news.slashdot.org/story/26/09/07/0155210/does-brave-browser-load-faster-than-chrome-firefox-and-microsoft-edge?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Brave web browser published a new round of benchmarks claiming its desktop browser uses less system resources than Chrome, Microsoft Edge, and Firefox — and also loads pages faster. The blog Linuxiac reports: According to Brave's testing, the browser used 44% less CPU, 28% less memory, and 10% less energy on average compared with the three competing browsers. It also completed page loads 20% faster while transferring 26% less inbound data and 39% less outbound data... - Brave averaged about ",
+      "published": "2026-09-08T02:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
+      "summary": "153 points · 61 comments",
+      "published": "2026-09-08T01:56:35+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cyber incident closes Springfield Public Schools",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1waal1l/cyber_incident_closes_springfield_public_schools/",
+      "summary": "A cyber incident forced Springfield Public Schools to close its 64 schools Tuesday, disrupting instruction for more than 23,000 students across Springfield, Massachusetts. The district also canceled after-school activities and told staff and students to avoid its network and district-issued laptops while officials investigate and restore systems. submitted by /u/DysruptionHub [link] [comments]",
+      "published": "2026-09-08T01:28:21+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "summary": "161 points · 30 comments",
+      "published": "2026-09-08T01:16:59+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What are you guys doing to actually scale Sentinel/XDR operations?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa8vj7/what_are_you_guys_doing_to_actually_scale/",
+      "summary": "Curious what other security teams and MSSPs are doing to make Microsoft security operations more efficient at scale. We’re pretty heavily in the Sentinel, Defender XDR, Azure and M365 world, and I’ve been spending more time thinking about the engineering side of running all of this. There’s only so much value in continuing to add detections and playbooks if every new customer, rule, data source, or workflow creates more manual work for the team. How much are you guys actually automating? For exa",
+      "published": "2026-09-08T00:10:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
+      "summary": "128 points · 10 comments",
+      "published": "2026-09-07T23:37:42+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Switzerland's Federal Government Tests Open-Source Alternatives to Microsoft on 3,000 Computers",
       "url": "https://yro.slashdot.org/story/26/09/07/0128205/switzerlands-federal-government-tests-open-source-alternatives-to-microsoft-on-3000-computers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -34,17 +104,10 @@
       "published": "2026-09-07T23:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What changes are worth alerting on in a recon monitoring pipeline?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa67dh/what_changes_are_worth_alerting_on_in_a_recon/",
-      "summary": "We’re building SubAnalyzer, and would like feedback on its monitoring service from people who already run their own recon pipelines. It reports new and removed subdomains, DNS and service changes, and potential takeover risks. You can choose which changes trigger alerts, with updates grouped into an email digest. One design detail: manual scans stay separate from monitoring alerts, and changes are compared with the last reported state rather than simply the last scan. We’d like to hear how other",
-      "published": "2026-09-07T22:14:52+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
       "url": "https://github.com/Sadpainy/Stuxnet",
-      "summary": "14 points · 3 comments",
+      "summary": "125 points · 45 comments",
       "published": "2026-09-07T22:12:38+00:00"
     },
     {
@@ -55,32 +118,11 @@
       "published": "2026-09-07T21:19:54+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Education of a Doomer",
-      "url": "https://borretti.me/article/the-education-of-a-doomer",
-      "summary": "45 points · 35 comments",
-      "published": "2026-09-07T21:19:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Working on Economics with Fable 5",
-      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-      "summary": "33 points · 18 comments",
-      "published": "2026-09-07T21:18:15+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "For those who've actually sat through a ransomware tabletop exercise, useful, or just theater?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wa41t8/for_those_whove_actually_sat_through_a_ransomware/",
       "summary": "I've spent a few years doing incident response and negotiation work around real ransomware cases, and \"we run tabletop exercises\" is the answer I keep hearing from leadership whenever prevention comes up. But I'm curious from people who've actually been in the room, on either side: did it change how your team actually responded when something real happened later, or did it feel more like a compliance checkbox everyone forgot by Monday? What would've made it feel less like theater? submitted by /",
       "published": "2026-09-07T20:49:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Macbeth and His Problems",
-      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
-      "summary": "30 points · 9 comments",
-      "published": "2026-09-07T20:34:32+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -93,21 +135,21 @@
       "source": "HACKER NEWS",
       "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
       "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "summary": "50 points · 22 comments",
+      "summary": "134 points · 55 comments",
       "published": "2026-09-07T20:32:55+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Most “AI-powered security tools” are just expensive placebo and CISOs know it",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wa265u/most_aipowered_security_tools_are_just_expensive/",
-      "summary": "90% of the “AI detection” products companies are buying right now don’t actually stop anything meaningful. They just generate prettier dashboards and give executives something to point at during board meetings. Meanwhile real attackers are using the same AI (or better) to bypass them in minutes. We’re in the golden age of security theater and nobody wants to say it out loud because the budgets are too good. Agree or am I tripping? submitted by /u/Strong-Cause-5813 [link] [comments]",
-      "published": "2026-09-07T19:39:38+00:00"
+      "source": "HACKER NEWS",
+      "title": "Emacs Bedrock 2.0",
+      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "summary": "64 points · 2 comments",
+      "published": "2026-09-07T20:12:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
       "url": "https://lax-skyline.parcelscope.net/",
-      "summary": "179 points · 86 comments",
+      "summary": "245 points · 126 comments",
       "published": "2026-09-07T18:52:06+00:00"
     },
     {
@@ -116,13 +158,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9znc7/soc_analyst_considering_quitting_due_to_burnout/",
       "summary": "Long story short, I work in a SOC and its started to take its toll on my personal life and mental health due to burnout. It would be very liberating to just walk away from it all. But I also don't have any other job prospects currently. I have sufficient savings to support me, but the job market is ass so I could be out of work for months and that could also be very stressful. I'm not sure what I should do. submitted by /u/jaydee288 [link] [comments]",
       "published": "2026-09-07T18:08:35+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How has CCNA helped you?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9yuze/how_has_ccna_helped_you/",
-      "summary": "Was the cert worth it? submitted by /u/Glittering_Fig4548 [link] [comments]",
-      "published": "2026-09-07T17:40:08+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -251,13 +286,6 @@
       "published": "2026-09-07T10:06:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
-      "url": "https://mathathonchallenge.com/index.html",
-      "summary": "215 points · 74 comments",
-      "published": "2026-09-07T09:26:53+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
       "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
@@ -300,13 +328,6 @@
       "published": "2026-09-07T04:30:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Should I switch my career to software engineering?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1w9hi6c/should_i_switch_my_career_to_software_engineering/",
-      "summary": "I feel like I see software engineering jobs everywhere. Almost every company needs software engineers, and there seem to be plenty of junior and entry-level opportunities. Cybersecurity feels completely different. There seem to be fewer entry-level jobs, and whenever one gets posted, I sometimes see hundreds or even 1,000+ applicants. Employers also seem extremely picky, even for junior positions. Do you think switching to software engineering would give me better chances of finding a job, or sh",
-      "published": "2026-09-07T04:05:33+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "US Military Disables Ad Trackers On Devices To Protect Troops",
       "url": "https://yro.slashdot.org/story/26/09/06/0553230/us-military-disables-ad-trackers-on-devices-to-protect-troops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -324,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "216M Spy TVs – The LG Smart TV Problem [video]",
       "url": "https://www.youtube.com/watch?v=6IFVTcM28KA",
-      "summary": "437 points · 694 comments",
+      "summary": "608 points · 837 comments",
       "published": "2026-09-07T00:22:04+00:00"
     },
     {
@@ -356,25 +377,11 @@
       "published": "2026-09-06T17:34:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "UN Votes To Encourage Map Projections More Accurately Reflecting the True Size of Continents",
-      "url": "https://yro.slashdot.org/story/26/09/06/0017242/un-votes-to-encourage-map-projections-more-accurately-reflecting-the-true-size-of-continents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The United Nations has an announcement. \"The UN General Assembly has voted overwhelmingly to encourage governments, schools and tech companies worldwide to stop using maps that make Africa look far smaller than it really is.\" By 164 votes to one, Member States on Friday endorsed a resolution promoting map projections that more accurately reflect the true size of continents — the culmination of an African-led campaign against the 16th-century Mercator projection, still the most widely used map in",
-      "published": "2026-09-06T14:34:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Attackers conceal phishing lures using invisible Unicode characters",
       "url": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
       "summary": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
       "published": "2026-09-06T14:23:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Icy Moons Are Ocean Worlds",
-      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
-      "summary": "118 points · 10 comments",
-      "published": "2026-09-06T13:07:52+00:00"
     },
     {
       "source": "OSINT",
@@ -392,10 +399,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Decapitating a MacBook (2025)",
-      "url": "https://mm-dev.rocks/series/decapitating-macbook-an-odyssey/",
-      "summary": "51 points · 35 comments",
-      "published": "2026-09-06T04:40:00+00:00"
+      "title": "Everything is free now, so why not a floating orb in my IDE",
+      "url": "https://eighttrigrams.net/post/79",
+      "summary": "8 points · 1 comments",
+      "published": "2026-09-05T20:15:36+00:00"
     },
     {
       "source": "OSINT",
@@ -422,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "Trusting-Trust Attack against an Entire Linux Distribution",
       "url": "https://arxiv.org/abs/2607.24888",
-      "summary": "119 points · 28 comments",
+      "summary": "176 points · 37 comments",
       "published": "2026-09-05T11:25:18+00:00"
     },
     {
@@ -434,51 +441,44 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "This Month in Ladybird – August 2026",
-      "url": "https://ladybird.org/newsletter/2026-08-31/",
-      "summary": "135 points · 26 comments",
-      "published": "2026-09-04T22:47:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Scientists observe Einstein's gravity in the quantum world",
       "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "summary": "109 points · 26 comments",
+      "summary": "173 points · 42 comments",
       "published": "2026-09-04T20:28:52+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "url": "https://kallus.org/blog/dummit_and_foote.html",
-      "summary": "56 points · 32 comments",
-      "published": "2026-09-04T20:20:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I built an aesthetically pleasing puzzle",
+      "title": "Show HN: Jigsaw Haiku",
       "url": "https://jigsawhaiku.com/",
-      "summary": "19 points · 6 comments",
+      "summary": "70 points · 23 comments",
       "published": "2026-09-04T18:14:44+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Decoding the NEC V20 Microcode",
-      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-      "summary": "106 points · 7 comments",
-      "published": "2026-09-04T05:53:38+00:00"
+      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
+      "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
+      "summary": "16 points · 5 comments",
+      "published": "2026-09-04T13:05:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "John Margolies' photographs of roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "summary": "45 points · 13 comments",
+      "published": "2026-09-04T04:57:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Interactive Tree of Life",
       "url": "https://ptree.org/",
-      "summary": "44 points · 14 comments",
+      "summary": "76 points · 22 comments",
       "published": "2026-09-04T00:40:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "WeatherNext 3",
       "url": "https://deepmind.google/science/weathernext/",
-      "summary": "195 points · 37 comments",
+      "summary": "269 points · 63 comments",
       "published": "2026-09-03T16:06:08+00:00"
     },
     {
