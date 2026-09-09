@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T22:55:27.971922+00:00",
+  "updated": "2026-09-09T01:08:25.446602+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,32 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "I Resigned from Anthropic Today",
+      "url": "https://xcancel.com/hilbertspaess/status/2097476196791709843#m",
+      "summary": "30 points · 23 comments",
+      "published": "2026-09-09T00:40:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Will 'Degrade' Search In Europe to Avoid EU Fines",
+      "url": "https://search.slashdot.org/story/26/09/08/2214256/google-will-degrade-search-in-europe-to-avoid-eu-fines?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google says it will overhaul Search in Europe to comply with the EU's Digital Markets Act, giving more prominence to comparison services like Expedia and Hotels.com while stripping some real-time features from hotel, airline, and restaurant results. \"These changes degrade the user experience for Europeans -- boosting online intermediaries at the expense of local businesses, and removing helpful features people rely on every day,\" said Nick Fox, senior vice-president of knowledge and information ",
+      "published": "2026-09-08T23:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "One man team",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wb3ea5/one_man_team/",
       "summary": "I'm the sole cybersecurity person for mid-size local government municipality (around 600 users), came in about 8 months ago. Landscape here is pretty wild west…minimal governance, no real established program but slowly building it out. I’m running EDR/NDR, a firewall/log platform, email security, and phishing awareness training (all different platforms) while also owning policy development, policy gap analysis (establishing NIST CSF 2.0 framework), risk assessments, audits and quarterly reportin",
       "published": "2026-09-08T22:30:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Topological Picture Book, Rendered",
+      "url": "https://e-infinity.space/picture-book/",
+      "summary": "41 points · 5 comments",
+      "published": "2026-09-08T22:28:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -42,9 +63,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "title": "Large language models develop novel social biases through adaptive exploration",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "summary": "34 points · 7 comments",
+      "summary": "86 points · 45 comments",
       "published": "2026-09-08T21:47:38+00:00"
     },
     {
@@ -56,16 +77,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "How to Build a Printer",
+      "title": "How to build a printer",
       "url": "https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/",
-      "summary": "20 points · 1 comments",
+      "summary": "118 points · 26 comments",
       "published": "2026-09-08T21:22:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tao: Open math problems being non-renewably mined by AI",
       "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "summary": "13 points · 2 comments",
+      "summary": "119 points · 79 comments",
       "published": "2026-09-08T21:00:52+00:00"
     },
     {
@@ -93,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Mercury 2.5",
       "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
-      "summary": "93 points · 10 comments",
+      "summary": "120 points · 15 comments",
       "published": "2026-09-08T20:14:52+00:00"
     },
     {
@@ -107,14 +128,14 @@
       "source": "HACKER NEWS",
       "title": "Animation in Bevy: The Big Picture",
       "url": "https://glocq.com/en/blog/20260827/",
-      "summary": "29 points · 1 comments",
+      "summary": "42 points · 2 comments",
       "published": "2026-09-08T20:08:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
       "url": "https://github.com/argonautlabsai/deltafin",
-      "summary": "181 points · 81 comments",
+      "summary": "204 points · 104 comments",
       "published": "2026-09-08T20:07:55+00:00"
     },
     {
@@ -126,9 +147,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "title": "Muse – Meta’s personal AI agent",
       "url": "https://ai.meta.com/muse/",
-      "summary": "204 points · 195 comments",
+      "summary": "277 points · 267 comments",
       "published": "2026-09-08T19:25:00+00:00"
     },
     {
@@ -153,6 +174,13 @@
       "published": "2026-09-08T18:18:05+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "Redis Cryptomining Botnet Compromised 3,562 Servers, Exposed by the Operator's Own Files",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wavyi2/redis_cryptomining_botnet_compromised_3562/",
+      "summary": "An operator running a Redis cryptomining botnet left their entire working directory exposed on a server. Instead of the usual single payload, the whole toolkit was there: exploit code, raw campaign logs, a bundled Python runtime, even two exported Windows registry hives. That let us read their own campaign logs instead of guessing: 3,562 distinct Redis servers compromised, out of 12,966 targeted Only one technique actually worked at scale, an abuse of Redis replication that drops a cron job to r",
+      "published": "2026-09-08T18:02:55+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "LG TVs Caught Spying Even When Offline or On Standby",
       "url": "https://yro.slashdot.org/story/26/09/08/1634205/lg-tvs-caught-spying-even-when-offline-or-on-standby?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -170,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "On the Navier–Stokes Millennium Prize Problem",
       "url": "https://openai.com/index/navier-stokes-solution/",
-      "summary": "1005 points · 822 comments",
+      "summary": "1092 points · 951 comments",
       "published": "2026-09-08T17:13:21+00:00"
     },
     {
@@ -179,13 +207,6 @@
       "url": "https://tech.slashdot.org/story/26/09/08/1559238/google-deepmind-publishes-ai-powered-predictions-for-effect-of-all-9-billion-mutations-to-human-dna?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Google DeepMind has released AlphaGenome Atlas, a free research database containing AI-generated predictions for the effects of all 9 billion possible single-letter mutations in the human genome. Built from its AlphaGenome model, the atlas is designed to help scientists interpret both protein-coding and harder-to-understand regulatory DNA. Fortune reports: AlphaGenome Atlas, as DeepMind calls the database, is a precomputed catalogue of what each substitution of a single DNA base is likely to do ",
       "published": "2026-09-08T17:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "summary": "102 points · 19 comments",
-      "published": "2026-09-08T16:59:41+00:00"
     },
     {
       "source": "REDDIT",
@@ -216,13 +237,6 @@
       "published": "2026-09-08T16:20:23+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "remote physical attack",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1waso4t/remote_physical_attack/",
-      "summary": "I found this article mentioning \"remote physical attacks\" and I cannot wrap my head around this concept. What is it actually? From my knowledge, a physical attack is done on site. submitted by /u/stellifera [link] [comments]",
-      "published": "2026-09-08T16:07:24+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Teen Reading Slumps to Worst This Century Due to Surge in Screen Time",
       "url": "https://news.slashdot.org/story/26/09/08/1545207/teen-reading-slumps-to-worst-this-century-due-to-surge-in-screen-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -245,9 +259,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
       "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
-      "summary": "461 points · 109 comments",
+      "summary": "487 points · 115 comments",
       "published": "2026-09-08T14:55:45+00:00"
     },
     {
@@ -268,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "url": "https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/",
-      "summary": "195 points · 97 comments",
+      "summary": "208 points · 105 comments",
       "published": "2026-09-08T14:49:19+00:00"
     },
     {
@@ -296,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "summary": "266 points · 210 comments",
+      "summary": "308 points · 242 comments",
       "published": "2026-09-08T14:13:26+00:00"
     },
     {
@@ -317,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "DaVinci Resolve 21.1",
       "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
-      "summary": "326 points · 144 comments",
+      "summary": "345 points · 154 comments",
       "published": "2026-09-08T13:36:53+00:00"
     },
     {
@@ -415,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "Navier-Stokes – Tristan Buckmaster [pdf]",
       "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "summary": "1040 points · 462 comments",
+      "summary": "1219 points · 533 comments",
       "published": "2026-09-08T05:42:28+00:00"
     },
     {
@@ -433,13 +447,6 @@
       "published": "2026-09-08T03:30:16+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Does Brave Browser Load Faster Than Chrome, Firefox, and Microsoft Edge?",
-      "url": "https://news.slashdot.org/story/26/09/07/0155210/does-brave-browser-load-faster-than-chrome-firefox-and-microsoft-edge?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Brave web browser published a new round of benchmarks claiming its desktop browser uses less system resources than Chrome, Microsoft Edge, and Firefox — and also loads pages faster. The blog Linuxiac reports: According to Brave's testing, the browser used 44% less CPU, 28% less memory, and 10% less energy on average compared with the three competing browsers. It also completed page loads 20% faster while transferring 26% less inbound data and 39% less outbound data... - Brave averaged about ",
-      "published": "2026-09-08T02:34:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
       "url": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
@@ -447,18 +454,18 @@
       "published": "2026-09-07T18:12:09+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Helicopter with Radioactive Blades",
-      "url": "https://hackaday.com/2026/09/07/the-helicopter-with-radioactive-blades/",
-      "summary": "138 points · 35 comments",
-      "published": "2026-09-07T17:44:33+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
       "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
       "summary": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-middle (AitM) token theft, and residential-proxy sign-ins. The activity, which mainly singles out directors, vice presidents, and other executive staff",
       "published": "2026-09-07T15:51:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: 3.5 inch diskette read errors, would a period correct drive do better?",
+      "url": "https://news.ycombinator.com/item?id=49598009",
+      "summary": "7 points · 5 comments",
+      "published": "2026-09-07T13:09:44+00:00"
     },
     {
       "source": "REDDIT",
@@ -469,24 +476,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Replacing a Rust Enum with a 64-Bit Word Made My Interpreter 17% Faster",
-      "url": "https://pointersgonewild.com/2026-08-25-replacing-a-rust-enum-with-a-64-bit-word/",
-      "summary": "64 points · 28 comments",
-      "published": "2026-09-05T12:32:06+00:00"
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "summary": "23 points · 6 comments",
+      "published": "2026-09-06T21:24:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
       "url": "https://uecker.codeberg.page/2026-09-05.html",
-      "summary": "45 points · 5 comments",
+      "summary": "54 points · 9 comments",
       "published": "2026-09-05T12:09:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tracing np.add, all the way down",
-      "url": "https://blog.veitheller.de/numpy.html",
-      "summary": "22 points · 1 comments",
-      "published": "2026-09-04T09:42:29+00:00"
     },
     {
       "source": "OSINT",
