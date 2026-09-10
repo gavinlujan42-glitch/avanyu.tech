@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T21:53:11.142227+00:00",
+  "updated": "2026-09-10T00:00:48.164676+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,34 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Google to Invest Record $15 Billion In AI Infrastructure In Finland",
+      "url": "https://hardware.slashdot.org/story/26/09/09/2151202/google-to-invest-record-15-billion-in-ai-infrastructure-in-finland?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google plans to invest at least $15 billion in AI infrastructure in Finland through 2028, its largest single investment in Europe. The company also signed a 22-year power agreement with Finnish utility Fortum and said it will explore business models that could support new nuclear reactors at Fortum's Loviisa site. Finland has emerged as a major data-center hub thanks to its available land and power. \"I've heard it called the 'Texas of Europe' at industry events,\" Matti Lajunen, partner of real e",
+      "published": "2026-09-09T23:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple's New iPhone Camera Mode Promises to Prove Your Photo Isn't AI",
+      "url": "https://mobile.slashdot.org/story/26/09/09/2144238/apples-new-iphone-camera-mode-promises-to-prove-your-photo-isnt-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple is introducing a new \"Reference Image\" mode on the iPhone 18 Pro and Pro Max that uses the camera sensor to digitally sign captured data and create an \"unalterable\" version of a photo, giving users a way to verify what the camera actually saw before any edits were made. The Verge reports: As AI-generated images and videos become more realistic, several new standards have emerged to label images not created by a human, such as SynthID, C2PA, and Meta's Content Seal. Apple is putting a twist",
+      "published": "2026-09-09T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "South Park creators rename show 'South America'",
+      "url": "https://www.bbc.co.uk/news/articles/cp9340rg7k8o",
+      "summary": "98 points · 19 comments",
+      "published": "2026-09-09T21:53:43+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cisco confirms max-severity FMC bug (CVE-2026-20079) is being exploited in the wild",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wbzdsv/cisco_confirms_maxseverity_fmc_bug_cve202620079/",
+      "summary": "CVSS 10.0, unauthenticated auth bypass in Cisco Secure FMC. Attacker sends a crafted HTTP request to the web interface → gets root. No login needed. Disclosed back in March as \"no known exploitation.\" That changed — Cisco confirmed this week (Sept 9) that PSIRT saw active exploitation starting in August. No workarounds exist. Patching is the only fix. CISA added it to KEV — federal agencies must patch by Sept 12. The sketchy part: back in July, Cisco disclosed a different FMC bug (static credent",
+      "published": "2026-09-09T21:44:38+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
@@ -41,13 +69,6 @@
       "published": "2026-09-09T21:30:36+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Automattic CEO Matt Mullenweg Put on 'Leave of Absence'",
-      "url": "https://www.404media.co/wordpress-automattic-ceo-matt-mullenweg-put-on-leave-of-absence/",
-      "summary": "32 points · 6 comments",
-      "published": "2026-09-09T21:28:56+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
       "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
@@ -60,13 +81,6 @@
       "url": "https://slashdot.org/story/26/09/09/1943258/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot reader fahrbot-bot shares a report from the BBC: A top safety researcher at Anthropic has warned AI is advancing so quickly he believes there is a greater than 10% chance it \"could kill all humans\" within the next decade. Evan Hubinger said in a post on X the risk from the models which currently exist was \"low\" but he was \"worried\" the technology might develop and improve itself soon to the point where it posed an existential risk to humanity. He did not spell out how he though",
       "published": "2026-09-09T21:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Amazon refused to give pregnant workers bathroom breaks",
-      "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-      "summary": "65 points · 11 comments",
-      "published": "2026-09-09T20:52:24+00:00"
     },
     {
       "source": "REDDIT",
@@ -114,50 +128,43 @@
       "source": "HACKER NEWS",
       "title": "iPhone Duo",
       "url": "https://www.apple.com/iphone-duo/",
-      "summary": "645 points · 1340 comments",
+      "summary": "801 points · 1574 comments",
       "published": "2026-09-09T18:15:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple Watch Series 12",
       "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
-      "summary": "163 points · 176 comments",
+      "summary": "190 points · 216 comments",
       "published": "2026-09-09T17:56:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AirPods 5",
       "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "summary": "296 points · 232 comments",
+      "summary": "350 points · 292 comments",
       "published": "2026-09-09T17:39:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "iPhone 18 Pro and iPhone 18 Pro Max",
       "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "summary": "200 points · 187 comments",
+      "summary": "249 points · 259 comments",
       "published": "2026-09-09T17:33:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
       "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
-      "summary": "129 points · 56 comments",
+      "summary": "159 points · 65 comments",
       "published": "2026-09-09T17:24:28+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Growing proof that autonomous cars save lives",
       "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "summary": "113 points · 181 comments",
+      "summary": "171 points · 289 comments",
       "published": "2026-09-09T17:14:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "url": "https://arxiv.org/abs/2609.09153",
-      "summary": "36 points · 10 comments",
-      "published": "2026-09-09T17:13:52+00:00"
     },
     {
       "source": "OSINT",
@@ -198,28 +205,28 @@
       "source": "HACKER NEWS",
       "title": "Understanding the recent DDoS attack against Read the Docs",
       "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
-      "summary": "127 points · 42 comments",
+      "summary": "143 points · 48 comments",
       "published": "2026-09-09T15:55:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GNU Radio in the browser",
       "url": "https://gnuradioworld.com/",
-      "summary": "145 points · 20 comments",
+      "summary": "163 points · 22 comments",
       "published": "2026-09-09T15:53:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "No Man's Sky Cosmos",
       "url": "https://www.nomanssky.com/cosmos-update/",
-      "summary": "228 points · 232 comments",
+      "summary": "272 points · 288 comments",
       "published": "2026-09-09T15:47:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Planet Labs' open satellite feed",
       "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
-      "summary": "120 points · 24 comments",
+      "summary": "137 points · 25 comments",
       "published": "2026-09-09T15:44:09+00:00"
     },
     {
@@ -254,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
       "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "summary": "286 points · 106 comments",
+      "summary": "328 points · 117 comments",
       "published": "2026-09-09T14:37:47+00:00"
     },
     {
@@ -282,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Shopify acquires Tailwind",
       "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "summary": "792 points · 321 comments",
+      "summary": "856 points · 341 comments",
       "published": "2026-09-09T13:27:11+00:00"
     },
     {
@@ -303,14 +310,14 @@
       "source": "HACKER NEWS",
       "title": "How I advertise malicious software on Google Ads",
       "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-      "summary": "325 points · 199 comments",
+      "summary": "343 points · 207 comments",
       "published": "2026-09-09T11:43:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Desert Ant Labs: local, fast models that run on device",
       "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-      "summary": "355 points · 87 comments",
+      "summary": "375 points · 89 comments",
       "published": "2026-09-09T11:39:46+00:00"
     },
     {
@@ -426,13 +433,6 @@
       "published": "2026-09-09T03:30:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "August 2026 recorded the highest number of ransomware events to date.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wb7wbg/august_2026_recorded_the_highest_number_of/",
-      "summary": "With 1168 ransomware events recorded in August 2026, it is now the month with the highest amount of ransomware events ever, what are we making of this? submitted by /u/Malwarebeasts [link] [comments]",
-      "published": "2026-09-09T01:43:52+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
@@ -447,25 +447,11 @@
       "published": "2026-09-08T23:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Feds Accuse China of 'Systematic' Distillation of US AI Models",
-      "url": "https://slashdot.org/story/26/09/08/220242/feds-accuse-china-of-systematic-distillation-of-us-ai-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The NSA, CISA, and FBI are accusing (PDF) several Chinese AI companies of carrying out \"industrial-scale\" distillation campaigns against leading U.S. models such as ChatGPT, Claude, Gemini, and Grok. Since at least 2024, the companies have allegedly routed millions of requests across accounts, APIs, proxies, cloud providers, and third-party aggregators to extract capabilities for their own models. \"China-based artificial intelligence companies are conducting systematic extraction of proprietary ",
-      "published": "2026-09-08T22:02:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
       "published": "2026-09-08T21:44:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Meta Debuts Muse, Its Long-Planned Personal AI Agent",
-      "url": "https://meta.slashdot.org/story/26/09/08/2012246/meta-debuts-muse-its-long-planned-personal-ai-agent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Meta has launched Muse, a personal AI agent developed under chief AI officer Alexandr Wang. \"The product, long in development, was touted as a key next step by CEO Mark Zuckerberg in his recent 6,500-word manifesto,\" reports Axios. From the report: Muse, as the agent is known, exists in a chat interface, similar to a text thread. It's designed to be more proactive and long-running than typical chatbots. Users can name their agent, create an avatar and customize how it communicates. The Muse agen",
-      "published": "2026-09-08T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -478,8 +464,22 @@
       "source": "HACKER NEWS",
       "title": "What do Visa and Mastercard do? An intro to card networks",
       "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "summary": "250 points · 148 comments",
+      "summary": "325 points · 203 comments",
       "published": "2026-09-08T18:11:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
+      "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
+      "summary": "8 points · 1 comments",
+      "published": "2026-09-08T05:25:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Use Vsock with Libzmq",
+      "url": "https://blog.remijouan.net/posts/libzmq-vsock-pyzmq/",
+      "summary": "20 points · 2 comments",
+      "published": "2026-09-07T20:24:53+00:00"
     },
     {
       "source": "REDDIT",
