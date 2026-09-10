@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T17:06:50.660609+00:00",
+  "updated": "2026-09-10T19:35:25.712985+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,76 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "does email auth actually helps catch compromised mailbox",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wct7no/does_email_auth_actually_helps_catch_compromised/",
+      "summary": "If a vendor's mailbox is fully compromised, does it still pass SPF/DKIM/DMARC clean ? Trying to figure out how much email auth actually helps catch this stuff? submitted by /u/deepikaau [link] [comments]",
+      "published": "2026-09-10T19:28:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+      "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+      "summary": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
+      "published": "2026-09-10T19:15:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+      "summary": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]",
+      "published": "2026-09-10T19:07:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Genuine Creativity Is Your New Moat (2026)",
+      "url": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+      "summary": "11 points · 3 comments",
+      "published": "2026-09-10T19:03:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI Targets Work of Wall Street Junior Bankers",
+      "url": "https://news.slashdot.org/story/26/09/10/191248/openai-targets-work-of-wall-street-junior-bankers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "OpenAI has launched ChatGPT for Financial Services, a Wall Street-focused version of ChatGPT Work developed with Morgan Stanley and Evercore that can research companies, analyze financial data, and build presentations using the company's latest and most advanced model, GPT-6 Astra. \"We're effectively teaching ChatGPT to research like an analyst and back up its conclusions like an analyst as well,\" said OpenAI's Vice President of Product, Nick Turley. CNBC reports: The rollout puts OpenAI deeper ",
+      "published": "2026-09-10T19:02:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Some OWASP pages cannot be found",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wcs91w/some_owasp_pages_cannot_be_found/",
+      "summary": "I went to the OWASP website to read about SQL injection and for some reason the page is not found anymore. WWW Community, WSTG and Top10 pages cannot be found. What is going on? submitted by /u/Thel-Vadam-II [link] [comments]",
+      "published": "2026-09-10T18:55:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "IMDb Adds 'Digital Creator' Profiles For the First Time",
+      "url": "https://tech.slashdot.org/story/26/09/10/1750233/imdb-adds-digital-creator-profiles-for-the-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "IMDb is introducing \"Digital Creator\" as a new professional category on IMDb and IMDbPro, giving streamers, vloggers, influencers, video essayists, and other online creators a \"dedicated way to represent [their] work and connect with audiences, industry peers, and potential employers,\" according to IMDb. Variety reports: The category includes sub-professions to further specify their work, including \"Streamer,\" \"Vlogger,\" \"Video Essayist,\" \"Video Creator,\" \"Gaming Creator\" and \"Influencer.\" The \"",
+      "published": "2026-09-10T18:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
+      "published": "2026-09-10T17:47:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "JEP 544: Ahead-of-Time Code Compilation",
+      "url": "https://openjdk.org/jeps/544",
+      "summary": "29 points · 15 comments",
+      "published": "2026-09-10T17:30:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Music Theory for the 21st-Century Classroom",
+      "url": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+      "summary": "38 points · 14 comments",
+      "published": "2026-09-10T17:14:12+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Automattic's Board Forces CEO Matt Mullenweg Into Leave of Absence",
       "url": "https://slashdot.org/story/26/09/10/1649254/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -42,9 +112,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Software Drives People Insane",
+      "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+      "url": "https://tokenstead.ai/models/swe-2",
+      "summary": "26 points · 11 comments",
+      "published": "2026-09-10T16:52:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I have a theory that software drives people insane",
       "url": "https://graybeard.ing/software-drives-people-insane/",
-      "summary": "28 points · 14 comments",
+      "summary": "211 points · 85 comments",
       "published": "2026-09-10T16:13:42+00:00"
     },
     {
@@ -55,6 +132,13 @@
       "published": "2026-09-10T16:11:49+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Forgejo <=16.0.3 Critical RCE",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "summary": "76 points · 33 comments",
+      "published": "2026-09-10T15:57:40+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
       "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
@@ -63,23 +147,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Casablanca: How an unproduced play marched into movie history",
-      "url": "https://www.thecollector.com/casablanca-unproduced-play-movie-history/",
-      "summary": "19 points · 6 comments",
-      "published": "2026-09-10T15:52:02+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Neki by PlanetScale",
+      "title": "Neki is sharded Postgres by PlanetScale",
       "url": "https://neki.dev/",
-      "summary": "46 points · 7 comments",
+      "summary": "93 points · 20 comments",
       "published": "2026-09-10T15:48:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Silicon Valley Is Transforming the Military-Industrial Complex",
       "url": "https://costsofwar.watson.brown.edu/paper/how-big-tech-and-silicon-valley-are-transforming-military-industrial-complex",
-      "summary": "11 points · 6 comments",
+      "summary": "82 points · 124 comments",
       "published": "2026-09-10T15:47:50+00:00"
     },
     {
@@ -93,21 +170,21 @@
       "source": "HACKER NEWS",
       "title": "Neki",
       "url": "https://planetscale.com/blog/introducing-neki",
-      "summary": "49 points · 9 comments",
+      "summary": "136 points · 51 comments",
       "published": "2026-09-10T15:43:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
       "url": "https://cognition.com/blog/swe-2",
-      "summary": "82 points · 34 comments",
+      "summary": "197 points · 97 comments",
       "published": "2026-09-10T15:29:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
       "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
-      "summary": "38 points · 8 comments",
+      "summary": "134 points · 29 comments",
       "published": "2026-09-10T15:29:30+00:00"
     },
     {
@@ -156,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Shopify moves back to Native from React Native",
       "url": "https://shopify.engineering/back-to-native",
-      "summary": "404 points · 275 comments",
+      "summary": "533 points · 378 comments",
       "published": "2026-09-10T14:09:31+00:00"
     },
     {
@@ -168,13 +245,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "Need a new distraction in life, which cert to pursue?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wck19h/need_a_new_distraction_in_life_which_cert_to/",
-      "summary": "I'm in a very low phase of my life and I'm spending a lot of time indoors so I'm thinking of getting another cert under my belt. The last time I felt like this was during covid lockdown and I got my Security+ and OSCP then, which finally helped me break into the cyber space. Background: 6 years in security consulting performing web app/api, mobile, network pen tests and source code reviews. I had always wanted to get Offsec's OSWE, but I already have a decent bit of experience in pen testing web",
-      "published": "2026-09-10T13:59:40+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Awareness Month ideas",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wcjmpe/awareness_month_ideas/",
       "summary": "With next month being Awareness month, i am trying to com up with some ideas that will be a little fun instead of the same old posting about phishing, password reuse, etc. We have locations all over the country and in Canada. So what ever I come up with has to be general. What do you all do for Cyber Awareness month? For the last few years, we've put articles up on the corporate site. But looking at the statistics, maybe a dozen people read them. They were short and sweet, maybe a 30-45 seconds ",
@@ -182,9 +252,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Rust Is Tier-1 Language at Microsoft",
+      "title": "Rust is tier-1 language at Microsoft",
       "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-      "summary": "295 points · 139 comments",
+      "summary": "459 points · 253 comments",
       "published": "2026-09-10T13:39:16+00:00"
     },
     {
@@ -193,13 +263,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wcj7au/psa_fake_client_meeting_scam_targeting/",
       "summary": "Got contacted by someone posing as a client for a call. The meeting link opened Zoom/Teams but showed an invalid meeting ID. When I flagged it, they sent a \"fix\" — a Terminal command to paste and run. It was malware: downloaded an unsigned binary + shell script from wirevixbox.us, ran them silently in the background, then cleared the terminal to hide it. macOS's built-in warning for suspicious pasted commands is what caught it — I dismissed the warning but didn't hit Enter, so nothing executed. ",
       "published": "2026-09-10T13:27:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
-      "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-      "summary": "225 points · 73 comments",
-      "published": "2026-09-10T12:18:06+00:00"
     },
     {
       "source": "OSINT",
@@ -214,13 +277,6 @@
       "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
       "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from \"45.142.193[.]132,\" an IP address that has been linked to",
       "published": "2026-09-10T11:41:53+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Who would be the ideal facilitator for a recurring annual Cybersecurity Incident Response TTX?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wcgpcb/who_would_be_the_ideal_facilitator_for_a/",
-      "summary": "Who would be the ideal facilitator for a recurring annual Cybersecurity Incident Response TTX? We conducted an exercise last year with the Cybersecurity Manager serving as the facilitator, but that prevented him from fully participating in the exercise as the Incident Response Manager. Would it be better to have someone else facilitate so that active participants are not excluded from the exercise? Who typically facilitates the TTX at your organization? EDIT: We cannot engage consulting firms to",
-      "published": "2026-09-10T11:39:15+00:00"
     },
     {
       "source": "OSINT",
@@ -256,13 +312,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]",
       "published": "2026-09-10T09:10:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
-      "summary": "263 points · 129 comments",
-      "published": "2026-09-10T09:04:14+00:00"
     },
     {
       "source": "OSINT",
@@ -303,14 +352,14 @@
       "source": "HACKER NEWS",
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
       "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-      "summary": "124 points · 320 comments",
+      "summary": "312 points · 432 comments",
       "published": "2026-09-10T06:49:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "DeepSeek v4.1 Flash",
       "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-      "summary": "772 points · 413 comments",
+      "summary": "853 points · 481 comments",
       "published": "2026-09-10T06:11:05+00:00"
     },
     {
@@ -356,20 +405,6 @@
       "published": "2026-09-09T21:40:44+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-      "summary": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-      "published": "2026-09-09T21:30:36+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-      "url": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-      "summary": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-      "published": "2026-09-09T21:02:14+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Anthropic Researcher Believes More Than 10% Chance AI 'Could Kill All Humans'",
       "url": "https://slashdot.org/story/26/09/09/1943258/anthropic-researcher-believes-more-than-10-chance-ai-could-kill-all-humans?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -398,25 +433,11 @@
       "published": "2026-09-09T18:26:05+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Apple Unveils the iPhone Duo, Its First Foldable iPhone",
-      "url": "https://mobile.slashdot.org/story/26/09/09/1821247/apple-unveils-the-iphone-duo-its-first-foldable-iphone?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "At its September event today, Apple unveiled the iPhone Duo, its first foldable iPhone and one of the biggest changes to the device's form factor since its debut. Starting at $1,999 and available for preorder beginning October 16th, the device is roughly the size of a passport when closed and pairs a 5.4-inch outer screen with a 7.6-inch Super Retina XDR inner display. Apple says the inner screen offers 50% more display area than the iPhone 18 Pro Max, while the exterior display provides about 9",
-      "published": "2026-09-09T18:22:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
       "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
       "summary": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed to the China-aligned state-sponsored group tracked as APT31 (aka Bronze Vinewood, Judgement Panda, JungleBamboo,",
       "published": "2026-09-09T16:34:05+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Microsoft Breaks Another Patch Tuesday Record",
-      "url": "https://it.slashdot.org/story/26/09/09/0626256/microsoft-breaks-another-patch-tuesday-record?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft's September 2026 Patch Tuesday is its largest ever, fixing a record 966 vulnerabilities, including 105 rated critical and two zero-days already being exploited in attacks. BleepingComputer reports: This Patch Tuesday addresses 105 \"Critical\" vulnerabilities, 81 of which are remote code execution, 20 are elevation of privileges, 2 are information disclosure, and 1 security feature bypass. The approximate number of bugs in each vulnerability category is listed below: - 438 Elevation of P",
-      "published": "2026-09-09T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -429,7 +450,7 @@
       "source": "HACKER NEWS",
       "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
       "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-      "summary": "213 points · 162 comments",
+      "summary": "241 points · 201 comments",
       "published": "2026-09-09T14:54:12+00:00"
     },
     {
@@ -448,13 +469,6 @@
     },
     {
       "source": "OSINT",
-      "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-      "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-      "summary": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command. The tool runs an agent's commands inside an operating-system sandbox, so that an agent working on untrusted files cannot write outside its workspace. The agent could remove that limit by calling the tool's own web",
-      "published": "2026-09-09T11:17:07+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
       "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
       "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
@@ -464,29 +478,8 @@
       "source": "HACKER NEWS",
       "title": ">10x More Efficient Pretraining",
       "url": "https://magic.dev/blog/pretraining#",
-      "summary": "52 points · 17 comments",
+      "summary": "94 points · 51 comments",
       "published": "2026-09-08T16:59:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Python sets and dictionaries can have quadratic-time performance",
-      "url": "https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance/",
-      "summary": "27 points · 7 comments",
-      "published": "2026-09-08T16:17:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "To write non-fiction, draw the trunk, then the rest of the tree",
-      "url": "https://devz.cl/posts/how-to-write/",
-      "summary": "53 points · 15 comments",
-      "published": "2026-09-08T14:25:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Stockfish 19",
-      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
-      "summary": "197 points · 121 comments",
-      "published": "2026-09-07T16:17:27+00:00"
     },
     {
       "source": "REDDIT",
@@ -494,6 +487,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1w9cd9j/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-09-07T00:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Douglas Hofstadter: Analogy as the Core of Cognition [video]",
+      "url": "https://www.youtube.com/watch?v=n8m7lFQ3njk",
+      "summary": "78 points · 37 comments",
+      "published": "2026-09-06T14:59:33+00:00"
     },
     {
       "source": "OSINT",
