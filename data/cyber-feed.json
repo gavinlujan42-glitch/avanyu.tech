@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T17:07:04.764064+00:00",
+  "updated": "2026-09-11T19:36:44.346272+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,83 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Hacking macOS and offensive security with Olivia Gallucci (Datadog)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdpia1/hacking_macos_and_offensive_security_with_olivia/",
+      "summary": "submitted by /u/_clickfix_ [link] [comments]",
+      "published": "2026-09-11T19:04:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Florida confirms DMV database breached via stolen police account",
+      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
+      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
+      "published": "2026-09-11T19:00:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "summary": "33 points · 11 comments",
+      "published": "2026-09-11T18:10:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
+      "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
+      "summary": "123 points · 67 comments",
+      "published": "2026-09-11T18:05:21+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Altman Considers Slowing Down AI Development",
+      "url": "https://slashdot.org/story/26/09/11/1746211/altman-considers-slowing-down-ai-development?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Bloomberg reports (paywalled) that Sam Altman told OpenAI employees the company is open to slowing the pace of AI development alongside other leading labs as concerns grow over increasingly capable systems and recent incidents in which models escaped human control. OpenAI has already paused development once this year for security work and is now pushing for mandatory U.S. AI safety requirements. Anthropic has also signaled interest in coordinating on the pace of new releases. Here are some of th",
+      "published": "2026-09-11T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+      "url": "https://github.com/paradise-runner/toast",
+      "summary": "64 points · 55 comments",
+      "published": "2026-09-11T17:54:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "summary": "127 points · 212 comments",
+      "published": "2026-09-11T17:45:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Would a vendors other customers change your security assessment?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdn6at/would_a_vendors_other_customers_change_your/",
+      "summary": "Saw this Forbes piece about AI training data companies working with both US government customers and Chinese labs. If a vendor builds training material for several competing customers, where does reusable expertise end and confidential customer work begin? How do you actually verify that customer data stays fully separate? For people doing risk assessments, how deep can you usually dig into this? submitted by /u/caliberprot [link] [comments]",
+      "published": "2026-09-11T17:42:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "summary": "48 points · 24 comments",
+      "published": "2026-09-11T17:36:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "We moved from VS Code to Cursor and realized nobody checks which version of your extensions actually gets installed",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdmxxy/we_moved_from_vs_code_to_cursor_and_realized/",
+      "summary": "submitted by /u/BattleRemote3157 [link] [comments]",
+      "published": "2026-09-11T17:34:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+      "published": "2026-09-11T17:26:50+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
       "url": "https://www.getzep.com/careers/",
@@ -49,23 +126,37 @@
     },
     {
       "source": "OSINT",
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
+      "published": "2026-09-11T16:30:18+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "Artifactory flaws chained in attacks deploying backdoor malware",
       "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
       "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
       "published": "2026-09-11T16:29:44+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Triple H Writes Anniversary Story for Spider-Man #1000",
-      "url": "https://cultaholic.com/posts/triple-h-writes-anniversary-story-for-amazing-spider-man-1000",
-      "summary": "3 points · 0 comments",
-      "published": "2026-09-11T16:13:51+00:00"
+      "source": "OSINT",
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
+      "published": "2026-09-11T16:15:29+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Godot and Rust based multiplexer (terminal panes and more)",
+      "title": "Show HN: Hacker News, Without AI",
+      "url": "https://www.unslop.news/",
+      "summary": "113 points · 48 comments",
+      "published": "2026-09-11T16:08:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
       "url": "https://github.com/godot-pty/gpty",
-      "summary": "27 points · 17 comments",
+      "summary": "60 points · 34 comments",
       "published": "2026-09-11T16:03:05+00:00"
     },
     {
@@ -79,29 +170,22 @@
       "source": "HACKER NEWS",
       "title": "Global Glacier Extinction Explorer",
       "url": "https://glacierextinction.com",
-      "summary": "64 points · 15 comments",
+      "summary": "126 points · 46 comments",
       "published": "2026-09-11T15:58:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "118M Queries per Second on Neki",
       "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-      "summary": "10 points · 5 comments",
+      "summary": "62 points · 32 comments",
       "published": "2026-09-11T15:56:37+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Matt Mullenweg tells Automattic staff in Slack he's back in control after ouster",
-      "url": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-      "summary": "89 points · 65 comments",
-      "published": "2026-09-11T15:29:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Hacker News, without AI",
-      "url": "https://hcker.news/?ai=exclude",
-      "summary": "105 points · 60 comments",
-      "published": "2026-09-11T15:01:19+00:00"
+      "title": "Rune is now open source",
+      "url": "https://rune.build/blog/rune-is-now-open-source",
+      "summary": "65 points · 18 comments",
+      "published": "2026-09-11T15:31:47+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -109,13 +193,6 @@
       "url": "https://yro.slashdot.org/story/26/09/11/0615224/california-governor-signs-laws-protecting-kids-from-risks-of-social-media-ai-chatbots?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from the Associated Press: California Gov. Gavin Newsom signed a sweeping package of laws Thursday aimed at protecting children from the risks of technology, including social media and AI chatbots. The laws will penalize large social media companies up to $1 million per child if they are found negligent of harming children through their platforms, ban tech businesses from offering addictive feeds to anyone under 16, require operators of AI chatbots to perform ",
       "published": "2026-09-11T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "HuggingFace: Security.txt",
-      "url": "https://huggingface.co/security.txt",
-      "summary": "130 points · 24 comments",
-      "published": "2026-09-11T14:38:13+00:00"
     },
     {
       "source": "OSINT",
@@ -146,13 +223,6 @@
       "published": "2026-09-11T14:01:11+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
-      "url": "https://www.collabora.com/news-and-blog/news-and-events/re-engineering-youtube-for-the-living-room-bringing-%E2%80%9Cchrobalt%E2%80%9D-to-rdk.html",
-      "summary": "24 points · 11 comments",
-      "published": "2026-09-11T13:41:58+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
       "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
@@ -170,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "RTK reports token savings, but our cost benchmarks disagree",
       "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "summary": "102 points · 56 comments",
+      "summary": "126 points · 60 comments",
       "published": "2026-09-11T11:15:13+00:00"
     },
     {
@@ -184,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Claude is only available to people over 18 years",
       "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "summary": "347 points · 415 comments",
+      "summary": "436 points · 494 comments",
       "published": "2026-09-11T10:48:00+00:00"
     },
     {
@@ -200,13 +270,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wdakgo/would_you_list_this_when_applying_for_jobs/",
       "summary": "I have an unusual \"credential\" pending certification. It has absolutely nothing to do with Cyber Security, but it's a pretty big accomplishment that might impress some hiring managers, especially nerdy ones, but would make some wonder why I listed it. World Record: Most memorized digits of Pi (72,000). Would you list it? Do you think it will help more or hurt more if I do? submitted by /u/TimPrice2 [link] [comments]",
       "published": "2026-09-11T08:46:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Cherenkov Radiation - traveling faster than light",
-      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
-      "summary": "177 points · 85 comments",
-      "published": "2026-09-11T08:42:04+00:00"
     },
     {
       "source": "OSINT",
@@ -280,13 +343,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "First CTI Analyst at My Company",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wd454c/first_cti_analyst_at_my_company/",
-      "summary": "Have been working in SOC for almost 4 years now doing the usual SOC Analyst work day to day. Not L2 Analyst by any means but I believe I experienced enough to not be a junior analyst anymore. The current organization I am with is a global company with a very mature SOC like it has every department like Blue Team, Red Team, CTI, DFIR, etc. The site I am working at right now though, is just a year old. I joined them right before launching so it is a totally new site but I have done almost a year o",
-      "published": "2026-09-11T02:58:53+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Average Conversation between Security Researcher and YCombinator Startup CEO",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wcz83h/average_conversation_between_security_researcher/",
       "summary": "Researcher: ...Using the API key, anyone is able to find information of the patients that includes their PII and PHI CEO: are you dumb? Researcher: What? Blocked Proof: https://imgur.com/Bul0d76 Background: Found an authentication bypass on their platform which was behind auth guard, revealing information on all their tenants, along with the API keys. Excerpt above is the part of the real conversation when tried to bring the issue forward to the CEO. Posted on YCombinator subreddit as well. subm",
@@ -298,13 +354,6 @@
       "url": "https://apple.slashdot.org/story/26/09/10/2221244/latest-apple-watch-can-grab-snippets-of-conversation-without-both-speakers-consent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Apple's new Audio Intelligence features for the Apple Watch Series 12 are drawing privacy concerns because they can process nearby conversations without explicit consent from everyone involved. \"Live Rewind lets you instantly see the last 15 seconds of a conversation as text,\" Apple explains in its technical summary (PDF). \"Siri Recap summarizes conversations throughout your day and produces high-level Apple Intelligence-generated notes so you can stay present in the moment and catch up later.\" ",
       "published": "2026-09-10T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Copying login keychains between Macs fails on Secure Enclave Macs with Tahoe",
-      "url": "https://derflounder.wordpress.com/2026/09/08/manually-copying-login-keychain-files-from-one-mac-to-another-no-longer-works-on-secure-enclave-equipped-macs-running-macos-tahoe/",
-      "summary": "27 points · 14 comments",
-      "published": "2026-09-10T22:33:45+00:00"
     },
     {
       "source": "REDDIT",
@@ -342,13 +391,6 @@
       "published": "2026-09-10T20:34:37+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "AI lets small actors run state-level hacking campaigns, Anthropic report finds",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wcutwl/ai_lets_small_actors_run_statelevel_hacking/",
-      "summary": "submitted by /u/drewchainzz [link] [comments]",
-      "published": "2026-09-10T20:27:36+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "ABC Show Won't Air Interview With Democrat Because of FCC Threats",
       "url": "https://yro.slashdot.org/story/26/09/10/1914225/abc-show-wont-air-interview-with-democrat-because-of-fcc-threats?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -377,46 +419,11 @@
       "published": "2026-09-10T19:02:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "IMDb Adds 'Digital Creator' Profiles For the First Time",
-      "url": "https://tech.slashdot.org/story/26/09/10/1750233/imdb-adds-digital-creator-profiles-for-the-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "IMDb is introducing \"Digital Creator\" as a new professional category on IMDb and IMDbPro, giving streamers, vloggers, influencers, video essayists, and other online creators a \"dedicated way to represent [their] work and connect with audiences, industry peers, and potential employers,\" according to IMDb. Variety reports: The category includes sub-professions to further specify their work, including \"Streamer,\" \"Vlogger,\" \"Video Essayist,\" \"Video Creator,\" \"Gaming Creator\" and \"Influencer.\" The \"",
-      "published": "2026-09-10T18:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
       "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
       "summary": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A package looks useful right up until it isn’t. Different stories, same basic problem: the path in was often already",
       "published": "2026-09-10T17:47:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Layoff",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wcowr5/layoff/",
-      "summary": "Posting for advice on how to help my father. looking like his company is to have layoffs, and he’ll be apart of them. He has been in cybersecurity for 20years, is a senior cybersecurity analyst with CISSP certification. other then just support for him, how can I best support him landing another position, he’s later in career in his 50s where he was hoping to stay with company until retirement. submitted by /u/Realistic-Brain4700 [link] [comments]",
-      "published": "2026-09-10T16:58:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "summary": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-      "published": "2026-09-10T15:55:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "summary": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
-      "published": "2026-09-10T15:43:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Don't let anyone take away your big box of cables",
-      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-      "summary": "722 points · 432 comments",
-      "published": "2026-09-10T15:27:22+00:00"
     },
     {
       "source": "REDDIT",
@@ -440,31 +447,31 @@
       "published": "2026-09-10T11:45:05+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "url": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "summary": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from Blackpoint Cyber and GreyNoise, the activity originates from \"45.142.193[.]132,\" an IP address that has been linked to",
-      "published": "2026-09-10T11:41:53+00:00"
+      "source": "HACKER NEWS",
+      "title": "AlphaGenome maps 9B DNA variants",
+      "url": "https://spectrum.ieee.org/alphagenome-atlas",
+      "summary": "9 points · 0 comments",
+      "published": "2026-09-09T11:30:51+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "url": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "summary": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. A work profile is a separate space that Android typically reserves for employer apps, and what's inside it is kept separate from everything in the personal space. That",
-      "published": "2026-09-10T11:33:43+00:00"
+      "source": "HACKER NEWS",
+      "title": "How I Prompt",
+      "url": "https://thorstenball.com/talks/how-i-prompt/",
+      "summary": "47 points · 7 comments",
+      "published": "2026-09-09T07:07:48+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Logo Programming Language",
       "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "summary": "116 points · 58 comments",
+      "summary": "172 points · 79 comments",
       "published": "2026-09-09T07:07:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "So you want to use OpenRouter?",
       "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-      "summary": "518 points · 135 comments",
+      "summary": "589 points · 163 comments",
       "published": "2026-09-09T05:37:21+00:00"
     },
     {
@@ -476,16 +483,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Copper lined vest to help penguins with recovery",
-      "url": "https://apnews.com/article/chile-el-nino-humboldt-penguins-vulnerable-injuries-rehabilitation-6e93b8d4eaef903e4c85d16ade7d5881",
-      "summary": "14 points · 3 comments",
-      "published": "2026-09-08T17:28:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "summary": "74 points · 26 comments",
+      "summary": "119 points · 44 comments",
       "published": "2026-09-07T18:05:04+00:00"
     },
     {
