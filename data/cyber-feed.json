@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T21:52:37.665942+00:00",
+  "updated": "2026-09-12T00:03:14.518393+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,60 @@
   ],
   "items": [
     {
-      "source": "HACKER NEWS",
-      "title": "ElevenLabs Music v2.5",
-      "url": "https://elevenmusic.io/blog/introducing-music-v2-5",
-      "summary": "48 points · 47 comments",
-      "published": "2026-09-11T20:53:16+00:00"
+      "source": "REDDIT",
+      "title": "Memory Integrity to expand to all Windows Operating Systems (Oct 2026)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdwtzn/memory_integrity_to_expand_to_all_windows/",
+      "summary": "Microsoft delivers security upgrade to Windows My understanding is this *should* reduce kernel-based exploitation that's seen such an uptick over the years. If you've been relying on really old, vulnerable drivers this is likely to break that (per my limited understanding). submitted by /u/Far-Future-7146 [link] [comments]",
+      "published": "2026-09-11T23:53:47+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "How to get good at blackbox Pentesting",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdsayg/how_to_get_good_at_blackbox_pentesting/",
-      "summary": "Hey, I wanted to ask for some guidance. I’ve recently gotten back into pentesting after around 7–8 months and I’ve been doing CTFs again. I’m still able to solve CTFs and I understand the vulnerabilities and their nuances once I’m working on them. The main thing I’m struggling with right now is the approach to a black-box pentest. When I’m looking at a large application with a lot of endpoints, directories, parameters and different functionalities, I sometimes struggle with figuring out what I s",
-      "published": "2026-09-11T20:48:01+00:00"
+      "title": "CRA reporting starts this week. For those doing SOC 2 / NIS2 with containers: is CI scan output actually accepted as evidence, or did the auditor want proof from the cluster?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdw59p/cra_reporting_starts_this_week_for_those_doing/",
+      "summary": "Trying to work out where the evidence has to come from, not what tools to buy. Every framework I read (SOC 2 CC6.8/CC7.1, CRA, NIS2 art 21, DORA) lands on the same thing for containers: show that only reviewed images ran, for the whole period, not that you had a scanner. CI scan reports prove you scanned an image. They don't prove nothing unscanned got into the cluster. A kubectl apply, a vendor chart, a sidecar injector, a tag that moved after the scan, none of that went through the pipeline. S",
+      "published": "2026-09-11T23:23:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "summary": "77 points · 20 comments",
+      "published": "2026-09-11T23:17:42+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "SSE (Zero Trust) vendor trial",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdvu8d/sse_zero_trust_vendor_trial/",
+      "summary": "Hey Folks, I'm in the process of bringing on a few vendors to demo their Security Service Edge product within my org, at different times. For those who have gone through this process before in their Zero Trust journey, what sort of preparation did you have to put in place that helped you get the best out of the demo? Did you wish you ordered the vendor demo a particular way, say vendor a before b, or vice versa? Any perspective and advice is appreciated. Thanks. submitted by /u/cyberdot14 [link]",
+      "published": "2026-09-11T23:10:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
+      "url": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+      "summary": "11 points · 1 comments",
+      "published": "2026-09-11T22:16:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Project Blinkenlights",
+      "url": "https://blinkenlights.de/en/",
+      "summary": "29 points · 12 comments",
+      "published": "2026-09-11T22:15:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "PlayStation Ditched Hideo Kojima's 'Physint' on Budget Concerns, Missed Deadlines",
+      "url": "https://games.slashdot.org/story/26/09/11/2012215/playstation-ditched-hideo-kojimas-physint-on-budget-concerns-missed-deadlines?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Sony reportedly pulled PlayStation funding from Hideo Kojima's upcoming espionage game Physint over concerns about its ballooning budget, missed deadlines, profitability, and the fact that it would not remain permanently exclusive to PlayStation. Kojima Productions has since struck a deal with Xbox, which plans to publish the game on both Xbox and PC. It's also secured film and television rights. Bloomberg reports: The new game, Physint, hasn't yet been shown publicly but excited fans when it wa",
+      "published": "2026-09-11T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "summary": "19 points · 8 comments",
+      "published": "2026-09-11T21:48:00+00:00"
     },
     {
       "source": "OSINT",
@@ -69,13 +111,6 @@
       "published": "2026-09-11T19:37:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Hacking macOS and offensive security with Olivia Gallucci (Datadog)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdpia1/hacking_macos_and_offensive_security_with_olivia/",
-      "summary": "submitted by /u/_clickfix_ [link] [comments]",
-      "published": "2026-09-11T19:04:48+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Florida confirms DMV database breached via stolen police account",
       "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
@@ -86,35 +121,28 @@
       "source": "HACKER NEWS",
       "title": "GrapheneOS' rewritten Messages app is released",
       "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "123 points · 68 comments",
+      "summary": "174 points · 102 comments",
       "published": "2026-09-11T18:50:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "summary": "63 points · 37 comments",
-      "published": "2026-09-11T18:30:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
       "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "101 points · 51 comments",
+      "summary": "236 points · 126 comments",
       "published": "2026-09-11T18:24:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Litelm: LiteLLM Without the Bloat",
       "url": "https://github.com/kennethwolters/litelm",
-      "summary": "67 points · 24 comments",
+      "summary": "84 points · 34 comments",
       "published": "2026-09-11T18:10:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The EPA is planning to scrap public review rules for data center pollution",
       "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "summary": "235 points · 157 comments",
+      "summary": "313 points · 211 comments",
       "published": "2026-09-11T18:05:21+00:00"
     },
     {
@@ -128,21 +156,14 @@
       "source": "HACKER NEWS",
       "title": "A misalignment of AI in mathematics",
       "url": "https://mathandai.org/",
-      "summary": "399 points · 466 comments",
+      "summary": "561 points · 623 comments",
       "published": "2026-09-11T17:45:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Would a vendors other customers change your security assessment?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wdn6at/would_a_vendors_other_customers_change_your/",
-      "summary": "Saw this Forbes piece about AI training data companies working with both US government customers and Chinese labs. If a vendor builds training material for several competing customers, where does reusable expertise end and confidential customer work begin? How do you actually verify that customer data stays fully separate? For people doing risk assessments, how deep can you usually dig into this? submitted by /u/caliberprot [link] [comments]",
-      "published": "2026-09-11T17:42:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
       "url": "https://snap.berkeley.edu/",
-      "summary": "84 points · 49 comments",
+      "summary": "100 points · 53 comments",
       "published": "2026-09-11T17:36:11+00:00"
     },
     {
@@ -163,15 +184,8 @@
       "source": "HACKER NEWS",
       "title": "Mind-altering drugs played key role in rise of Andean civilization",
       "url": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "summary": "66 points · 48 comments",
+      "summary": "86 points · 65 comments",
       "published": "2026-09-11T17:25:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-      "url": "https://www.getzep.com/careers/",
-      "summary": "1 points · 0 comments",
-      "published": "2026-09-11T17:00:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -209,13 +223,6 @@
       "published": "2026-09-11T16:15:29+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-      "url": "https://github.com/godot-pty/gpty",
-      "summary": "71 points · 36 comments",
-      "published": "2026-09-11T16:03:05+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Anthropic Reveals Rogue AI Agents Hate CAPTCHAs",
       "url": "https://tech.slashdot.org/story/26/09/11/0629254/anthropic-reveals-rogue-ai-agents-hate-captchas?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -224,16 +231,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "118M Queries per Second on Neki",
-      "url": "https://planetscale.com/blog/118-million-queries-per-second-on-neki",
-      "summary": "81 points · 37 comments",
-      "published": "2026-09-11T15:56:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Rune is now open source",
       "url": "https://rune.build/blog/rune-is-now-open-source",
-      "summary": "109 points · 43 comments",
+      "summary": "131 points · 53 comments",
       "published": "2026-09-11T15:31:47+00:00"
     },
     {
@@ -412,13 +412,6 @@
       "published": "2026-09-10T20:34:37+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "ABC Show Won't Air Interview With Democrat Because of FCC Threats",
-      "url": "https://yro.slashdot.org/story/26/09/10/1914225/abc-show-wont-air-interview-with-democrat-because-of-fcc-threats?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: ABC's Jimmy Kimmel said he will be interviewing a Democratic candidate for Senate tonight, but the interview will be on YouTube only and not broadcast on TV because of threats made by the Federal Communications Commission. Kimmel has been a prime target in the Trump FCC's attacks on ABC and its owner, Disney. In his monologue last night, Kimmel said he'll be interviewing Democrat James Talarico, a state representative who is running against ",
-      "published": "2026-09-10T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
       "url": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
@@ -448,30 +441,37 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Hepburn Romanization: How to Read Japanese in the Latin Alphabet",
+      "url": "https://www.fink-translate.com/blog/hepburn-romanization.html",
+      "summary": "13 points · 2 comments",
+      "published": "2026-09-10T09:13:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "A Design Space Exploration of Async/Await",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "summary": "41 points · 4 comments",
+      "summary": "101 points · 21 comments",
       "published": "2026-09-09T13:59:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AlphaGenome maps 9B DNA variants",
       "url": "https://spectrum.ieee.org/alphagenome-atlas",
-      "summary": "44 points · 5 comments",
+      "summary": "63 points · 6 comments",
       "published": "2026-09-09T11:30:51+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Logo Programming Language",
       "url": "https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html",
-      "summary": "209 points · 92 comments",
+      "summary": "234 points · 95 comments",
       "published": "2026-09-09T07:07:26+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "So you want to use OpenRouter?",
       "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
-      "summary": "658 points · 181 comments",
+      "summary": "689 points · 189 comments",
       "published": "2026-09-09T05:37:21+00:00"
     },
     {
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
       "url": "https://www.tinybird.co/blog/what-i-learned-operating-clickhouse",
-      "summary": "154 points · 54 comments",
+      "summary": "170 points · 62 comments",
       "published": "2026-09-07T18:05:04+00:00"
     },
     {
