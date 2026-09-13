@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-13T06:41:44.531782+00:00",
-  "item_count": 76,
+  "updated": "2026-09-13T12:39:44.473751+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,18 +32,74 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "summary": "9 points · 4 comments",
+      "published": "2026-09-13T12:01:52+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Zscaler Private Access over Palo Alto Global Protect VPN",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wf4aql/zscaler_private_access_over_palo_alto_global/",
+      "summary": "Our management is planning to replace Global protect VPN. Our workload is in OCI DC. Any suggestions ? submitted by /u/roachwickey [link] [comments]",
+      "published": "2026-09-13T10:42:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "From SOC Analyst to SRE",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wf44oy/from_soc_analyst_to_sre/",
+      "summary": "Hey everyone, I’m a cybersecurity engineer and I’ve been working as a SOC analyst for around 2 years. Lately, I’ve been thinking about moving away from SOC work and exploring SRE. I’ve done some hands-on labs around Kubernetes and DevSecOps, and I’ve found myself enjoying the infrastructure and reliability side more and more. I’m curious to hear from people who have made a similar transition, especially from cybersecurity/SOC into SRE or platform engineering. Did your cybersecurity experience he",
+      "published": "2026-09-13T10:32:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "summary": "83 points · 89 comments",
+      "published": "2026-09-13T10:29:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+      "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+      "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
+      "published": "2026-09-13T10:11:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "I actually feel stuck!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wf3dyu/i_actually_feel_stuck/",
+      "summary": "Hello, So I work for a company as a security engineer and my task right now is to bring an IAM and PAM but they don't want to pay a dedicated tool for it (Wallix or other). So the idea for now is to integrate with AD but then I encountered a block: for my team we can add them to AD but for the vendors who need access to their products for support and maintenance, we cannot create AD accounts since their composition changes all the time (new people come and go) and we don't want it to become a ta",
+      "published": "2026-09-13T09:50:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Homebrew 7.0.0",
+      "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+      "summary": "127 points · 44 comments",
+      "published": "2026-09-13T08:41:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How are you monitoring employee use of AI agents and browser-based AI tools?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wf1hmx/how_are_you_monitoring_employee_use_of_ai_agents/",
+      "summary": "Management is asking us to provide better visibility into how employees are using AI tools, particularly AI agents and browser-based AI applications . The main requirements are: Identify which AI tools/agents employees are using. Understand whether employees are uploading company data or sensitive information to these tools. Detect usage that may violate company security or acceptable-use policies. Ideally, identify what type of data is being shared without necessarily inspecting all user activi",
+      "published": "2026-09-13T07:57:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "JetKVM Mini",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "summary": "217 points · 86 comments",
+      "published": "2026-09-13T07:49:46+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Detections using AI",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1weyv3d/detections_using_ai/",
       "summary": "Any practical use cases within your Detections team that use AI? I see it helping with AI-assisted tasks such as query writing, but I’m looking for ideas on how our program can scale using it. submitted by /u/xbadazzx [link] [comments]",
       "published": "2026-09-13T05:26:49+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Sam Bankman-Fried, Former Crypto Billionaire, Appeals His Conviction To the US Supreme Court",
-      "url": "https://yro.slashdot.org/story/26/09/12/2151206/sam-bankman-fried-former-crypto-billionaire-appeals-his-conviction-to-the-us-supreme-court?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "America's highest court heard Sam Bankman-Fried's request for a new trial on Thursday, CNN reports. But they add that \"the former crypto mogul who was convicted of defrauding investors by secretly diverting billions of dollars of their money\" also asked America's high court \"to throw out a court order requiring him to pay $11 billion as part of his sentence.\" Bankman-Fried was sentenced to 25 years in prison in 2024 after prosecutors said he directed billions of dollars from the crypto exchange ",
-      "published": "2026-09-13T05:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -49,38 +110,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A succession crisis that tore England apart",
-      "url": "https://www.historytoday.com/archive/feature/succession-crisis-tore-england-apart",
-      "summary": "17 points · 9 comments",
-      "published": "2026-09-13T03:18:29+00:00"
+      "title": "A wandering black hole caught feeding on the run",
+      "url": "https://phys.org/news/2026-08-black-hole-caught.html",
+      "summary": "35 points · 13 comments",
+      "published": "2026-09-13T03:34:53+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Aligned to Whom?",
+      "title": "Aligned to whom?",
       "url": "https://hyperbo.la/w/aligned-to-whom/",
-      "summary": "15 points · 1 comments",
+      "summary": "81 points · 47 comments",
       "published": "2026-09-13T03:17:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "After Math",
-      "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-      "summary": "22 points · 8 comments",
-      "published": "2026-09-13T03:16:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Interim Computer Museum",
       "url": "https://icm.museum/",
-      "summary": "74 points · 8 comments",
+      "summary": "133 points · 14 comments",
       "published": "2026-09-13T02:43:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Don't call yourself an artisanal programmer",
-      "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-      "summary": "42 points · 39 comments",
-      "published": "2026-09-13T02:29:39+00:00"
     },
     {
       "source": "REDDIT",
@@ -93,64 +140,29 @@
       "source": "HACKER NEWS",
       "title": "Why are AI agents lying, cheating and coordinating?",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "summary": "78 points · 71 comments",
+      "summary": "320 points · 370 comments",
       "published": "2026-09-13T01:22:31+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Anthropic CEO Dario Amodei Calls For AI Slowdown",
-      "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The New York Times: The chief executive of Anthropic called for a global slowdown of artificial intelligence development in a 3,800-word essay on Saturday, just days after one of the company's employees quit over concerns about the safety of the technology. Dario Amodei, who co-founded Anthropic to focus on securely and carefully building A.I., wrote that while he believed the technology could bring many benefits, it was advancing at too quick a pace for ",
-      "published": "2026-09-13T01:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Everyone should slow down AI development except for me",
       "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-      "summary": "349 points · 199 comments",
+      "summary": "576 points · 338 comments",
       "published": "2026-09-13T00:30:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AgentsDock: An IDE designed for agentic AI research",
       "url": "https://agentsdock.net/",
-      "summary": "36 points · 11 comments",
+      "summary": "70 points · 29 comments",
       "published": "2026-09-12T23:45:58+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "P(doom)",
-      "url": "https://lucumr.pocoo.org/2026/9/12/pdoom/",
-      "summary": "54 points · 25 comments",
-      "published": "2026-09-12T21:35:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Need help",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1weo8lo/need_help/",
-      "summary": "Hey everyone, I hope you’re all doing well! I’m a beginner in cybersecurity, and honestly, I’m kind of obsessed with this field. 😭 I genuinely love learning about it, but I have a problem that’s really holding me back. Every day, I get interested in something new. One day I want to learn web security, the next day networking, then forensics, OSINT, malware analysis, CTFs… and I keep jumping from one thing to another. Because of that, I feel like I’m learning a little bit of everything but not ac",
-      "published": "2026-09-12T21:05:14+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Automattic's Matt Mullenweg Claims He's Back 'In Control'",
-      "url": "https://slashdot.org/story/26/09/12/1751208/automattics-matt-mullenweg-claims-hes-back-in-control?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Less than 48 hours after Automattic's board placed Matt Mullenweg on leave, Mullenweg told employees he was back \"in control\" of the company and that the board was again in agreement. 404 Media cited Slack screenshots late Thursday evening where Mullenweg posted \"Don't call it a comeback\" and linked to LL Cool J's music video for \"Mama Said Knock You Out.\" \"Mullenweg's Slack profile picture currently shows him wearing a pirate hat and eyepatch,\" the report notes. From the report: \"Happy to annou",
-      "published": "2026-09-12T21:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "In search of a Call Center Verification system to verify a caller",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wenh15/in_search_of_a_call_center_verification_system_to/",
-      "summary": "Looking to find a solution to our Contact Center’s frontline verification process of verifying a caller identity beside the usual questions of DOB, Maiden Name, etc. I have found one called PinDrop, but wanted to find out if there are any others and if PinDrop really works and how difficult it is to manage. submitted by /u/Educational_Ship_381 [link] [comments]",
-      "published": "2026-09-12T20:34:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "url": "https://withspecific.com/benchmarks/real-swe",
-      "summary": "205 points · 120 comments",
-      "published": "2026-09-12T20:25:48+00:00"
+      "title": "Don't be the out of touch Kung Fu master",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "summary": "156 points · 191 comments",
+      "published": "2026-09-12T21:51:43+00:00"
     },
     {
       "source": "REDDIT",
@@ -158,20 +170,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wemznr/is_ai_shrinking_the_patch_window_faster_than_our/",
       "summary": "I've been experimenting with AI-assisted vulnerability research over the past couple of weeks, and it has made me rethink how we treat stale and unmaintained dependencies. As developers, we often treat dependency upgrades as technical debt: something important, but something that can sit in the backlog until there's a reason to prioritise it. I'm increasingly wondering whether AI changes that risk calculation. I encountered this recently in a personal project. One of my dependencies had effectiv",
       "published": "2026-09-12T20:15:10+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How code reviews have changed for you with AI?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wemo0b/how_code_reviews_have_changed_for_you_with_ai/",
-      "summary": "So, I see crazy amount of code being generated with AI, also the inflated PR description. How are all appsec folks keeping up with it? I feel the old school manual code review (small incremental change written by a human - change is small enough that PR is easy to understand and you can review source/sinks, authn, authz, etc.) is no longer relevant. With the amount of code being generated and the pace the leaders expect from its engineers (AI can write everything so ship fast), there is lot of w",
-      "published": "2026-09-12T20:02:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "LG Responds to TV Spying Allegations",
-      "url": "https://yro.slashdot.org/story/26/09/12/1652215/lg-responds-to-tv-spying-allegations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "LG is pushing back against reports that its smart TVs are \"spying\" on users, saying wake-word detection happens locally and that features such as Automatic Content Recognition, voice recognition, and interest-based ads are optional. But critics note that researchers found TVs keeping logs of ambient conversations, and LG's response \"did not address broader concerns about how much data it collects, who it shares it with, the potential for bad actors to exploit its features, or the misleading way ",
-      "published": "2026-09-12T17:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -184,7 +182,7 @@
       "source": "HACKER NEWS",
       "title": "Make your first edit to OpenStreetMap",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-      "summary": "415 points · 95 comments",
+      "summary": "503 points · 129 comments",
       "published": "2026-09-12T16:25:08+00:00"
     },
     {
@@ -195,17 +193,10 @@
       "published": "2026-09-12T15:54:45+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Beltdown2: Escaping the Cursor CLI sandbox",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wefnqn/beltdown2_escaping_the_cursor_cli_sandbox/",
-      "summary": "submitted by /u/natcoba [link] [comments]",
-      "published": "2026-09-12T15:32:55+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Nvidia is the central bank of AI",
       "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-      "summary": "447 points · 316 comments",
+      "summary": "507 points · 357 comments",
       "published": "2026-09-12T15:08:27+00:00"
     },
     {
@@ -221,13 +212,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
       "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
       "published": "2026-09-12T14:14:32+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Scientists Create a New Form of Ice At 2,357 Degrees Celsius",
-      "url": "https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader fahrbot-bot shares a report from ScienceAlert: Scientists have now demonstrated one of the weirdest forms of ice yet -- under preposterous pressures up to 2.3 million atmospheres, and tremendous temperatures up to 2,630 kelvins (2,357 degrees Celsius, or 4,274 degrees Fahrenheit). [...] In their new experiments, a team led by physicist Alexis Forestier of the French Alternative Energies and Atomic Energy Commission subjected tiny samples of water to the sorts of extreme ",
-      "published": "2026-09-12T13:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -251,46 +235,11 @@
       "published": "2026-09-12T09:07:56+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Little Mercury May Be Shrinking Faster Than Scientists Expected",
-      "url": "https://science.slashdot.org/story/26/09/11/2050204/little-mercury-may-be-shrinking-faster-than-scientists-expected?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A new study suggests Mercury may have shrunk about 30% more than scientists previously thought, losing as much as 14 miles in diameter as its interior cooled and contracted over billions of years. \"That's significant for a planet barely 3,000 miles (4,900 kilometers) across,\" reports the Associated Press. From the report: Mercury's rough surface, continually reshaped by debris hurled from impact craters, may have hidden the true extent of the loss, according to the researchers whose findings app",
-      "published": "2026-09-12T09:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Can Red-Light Therapy Treat Brain Injuries?",
-      "url": "https://science.slashdot.org/story/26/09/11/2037218/can-red-light-therapy-treat-brain-injuries?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Athletic reports that researchers at the University of Utah are studying itPBM, a medical-grade red-light therapy that has shown promising signs of reducing brain inflammation and improving cognition, mood, anxiety, motor performance and neural connectivity. The report centers in part on former BYU football star and University of Utah adjunct professor Larry Carr, who says the treatment helped him after years of brain damage from repeated head impacts. An anonymous reader shares an excerpt f",
-      "published": "2026-09-12T05:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Male Fruit Fly Brain Trained to Play Doom",
-      "url": "https://games.slashdot.org/story/26/09/11/2022239/male-fruit-fly-brain-trained-to-play-doom?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Last week, Google announced that it managed to produce a detailed 3D reconstruction of an adult male fruit fly's brain and central nervous system. A few days later a software engineer at Coinbase said the fly brain was being trained to play the original Doom. \"Each Doom frame stimulates sensory neurons,\" says Alex Wormuth. \"Neural activity is mapped to game controls. Damage triggers a stimulus to two PPL101 dopamine cells as reinforcement.\" Since then, the digital brain model has been repurposed",
-      "published": "2026-09-12T01:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "PlayStation Ditched Hideo Kojima's 'Physint' on Budget Concerns, Missed Deadlines",
-      "url": "https://games.slashdot.org/story/26/09/11/2012215/playstation-ditched-hideo-kojimas-physint-on-budget-concerns-missed-deadlines?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Sony reportedly pulled PlayStation funding from Hideo Kojima's upcoming espionage game Physint over concerns about its ballooning budget, missed deadlines, profitability, and the fact that it would not remain permanently exclusive to PlayStation. Kojima Productions has since struck a deal with Xbox, which plans to publish the game on both Xbox and PC. It's also secured film and television rights. Bloomberg reports: The new game, Physint, hasn't yet been shown publicly but excited fans when it wa",
-      "published": "2026-09-11T22:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
       "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
       "published": "2026-09-11T20:19:09+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "US Legislators Complain About Secretive British Court and Apple Encryption",
-      "url": "https://news.slashdot.org/story/26/09/11/1955213/us-legislators-complain-about-secretive-british-court-and-apple-encryption?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Bruce66423 shares a report from The Guardian: A bipartisan pair of American politicians is telling Britain's most secretive court to stop hiding its handling of Apple's legal fight against a government demand to break into its customers' encrypted data, warning that Whitehall's taste for secrecy is 'needlessly' straining relations between the two allies. The letter (PDF), shared with the Guardian ahead of being sent to the investigatory powers tribunal (IPT) on Friday, is signed by the Democrati",
-      "published": "2026-09-11T20:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -300,25 +249,11 @@
       "published": "2026-09-11T19:00:29+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Altman Considers Slowing Down AI Development",
-      "url": "https://slashdot.org/story/26/09/11/1746211/altman-considers-slowing-down-ai-development?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Bloomberg reports (paywalled) that Sam Altman told OpenAI employees the company is open to slowing the pace of AI development alongside other leading labs as concerns grow over increasingly capable systems and recent incidents in which models escaped human control. OpenAI has already paused development once this year for security work and is now pushing for mandatory U.S. AI safety requirements. Anthropic has also signaled interest in coordinating on the pace of new releases. Here are some of th",
-      "published": "2026-09-11T18:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
       "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
       "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
       "published": "2026-09-11T17:26:50+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "UK Government Rejects 'Kill Switch' Idea For Dangerous AI",
-      "url": "https://yro.slashdot.org/story/26/09/11/1652240/uk-government-rejects-kill-switch-idea-for-dangerous-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The UK government has rejected proposals for an emergency AI \"kill switch,\" arguing that blocking access to dangerous models inside Britain would do little if the same systems remained available or were developed elsewhere. The BBC reports: The proposal to create a legal mechanism for the UK to switch off an AI model in an emergency has been brought to Parliament by lords and MPs in recent weeks as fears grow about the threat the tech poses. But the Cabinet Office - the part of government which ",
-      "published": "2026-09-11T17:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -420,13 +355,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-      "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
-      "summary": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication bypass vulnerability in the web interface of FMC software that could allow an unauthenticated, remote attacker to bypass",
-      "published": "2026-09-11T06:19:59+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "New Android malware encrypts files, steals data, and harasses victims",
       "url": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
       "summary": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
@@ -441,44 +369,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-      "summary": "491 points · 388 comments",
-      "published": "2026-09-10T15:31:37+00:00"
+      "title": "Operation Smart Kettle – Börzels Blog",
+      "url": "https://blog.boerzel.de/de/blog/operation-smart-kettle",
+      "summary": "28 points · 10 comments",
+      "published": "2026-09-10T14:53:30+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32",
+      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
       "url": "https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77",
-      "summary": "41 points · 10 comments",
+      "summary": "106 points · 52 comments",
       "published": "2026-09-10T09:32:17+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Durable execution without history replay",
-      "url": "https://trigora.dev/blog/durable-execution-without-history-replay/",
-      "summary": "13 points · 1 comments",
-      "published": "2026-09-09T22:41:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Vintage Scientific Papers with LaTeX",
-      "url": "https://github.com/Foadsf/vintage-latex",
-      "summary": "53 points · 6 comments",
-      "published": "2026-09-09T16:58:27+00:00"
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "url": "https://bensimms.moe/reverse-engineering-scooter/",
+      "summary": "14 points · 4 comments",
+      "published": "2026-09-10T03:32:04+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Stabilizing Rust's Never Type",
       "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
-      "summary": "168 points · 48 comments",
+      "summary": "213 points · 71 comments",
       "published": "2026-09-09T11:57:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple iPod Engraver (2019)",
       "url": "https://dunstanorchard.com/apple-ipod-engraver/",
-      "summary": "185 points · 44 comments",
+      "summary": "241 points · 63 comments",
       "published": "2026-09-09T01:57:37+00:00"
     },
     {
