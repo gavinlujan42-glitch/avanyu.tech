@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T19:11:49.668515+00:00",
+  "updated": "2026-09-14T22:41:05.162205+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,67 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Red Heron exploits Gitea n-day flaw in multinational campaign, exposing new Linux rootkit",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgh4hr/red_heron_exploits_gitea_nday_flaw_in/",
+      "summary": "Acronis Threat Research Unit (TRU) uncovered a multinational campaign in which a Chinese-speaking threat actor, tracked as Red Heron, rapidly weaponized CVE-2026-60004 to compromise internet-facing instances of Gitea, a self-hosted source-code management platform. The activity progressed from source-code theft to persistent access, credential collection, and lateral movement, including root-level access to a three-node Proxmox cluster. TRU traced a Linux implant to Red Heron’s exposed staging se",
+      "published": "2026-09-14T21:43:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "summary": "126 points · 116 comments",
+      "published": "2026-09-14T21:05:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "summary": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+      "published": "2026-09-14T20:52:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "summary": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+      "published": "2026-09-14T20:36:02+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "A Visit to San Francisco's AI-run Store: No Customers, Nothing Useful, And Losing Money Fast",
+      "url": "https://slashdot.org/story/26/09/13/0523208/a-visit-to-san-franciscos-ai-run-store-no-customers-nothing-useful-and-losing-money-fast?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Previously Andon Labs handled the hardware and software integration for that AI-powered vending machine that went bankrupt after Wall Street Journal reporters \"systematically manipulated the bot into giving away its entire inventory for free\".Today they announced \"we are opening up the platform we use to run our real-world autonomous businesses for anyone to run their organization on.\" Specifically they've released Pion, \"an agent designed to run any company fully autonomously... Pion lets peopl",
+      "published": "2026-09-14T20:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Digging Into the History and Technical Side of AI",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgei60/digging_into_the_history_and_technical_side_of_ai/",
+      "summary": "I have been struggling with correlating the technical and historic side of the AI development of the last 10 years with the research and news we are seeing today, so I have started this series to research and collect my thoughts on this. Part one focuses heavily on how AI specifically works and the transition from RNNs to transformers. I think this is important as we see new developments and reactions to those developments in the field. Edit: fixed typo, because I did not proofread (yes, I shoul",
+      "published": "2026-09-14T20:06:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "summary": "74 points · 88 comments",
+      "published": "2026-09-14T19:56:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "url": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "summary": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+      "published": "2026-09-14T19:51:04+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
       "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
       "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
       "published": "2026-09-14T19:03:51+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Vulnerability Summary for the Week of September 7, 2026",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgcn3t/vulnerability_summary_for_the_week_of_september_7/",
-      "summary": "submitted by /u/antdude [link] [comments]",
-      "published": "2026-09-14T19:00:48+00:00"
     },
     {
       "source": "OSINT",
@@ -55,31 +104,38 @@
       "published": "2026-09-14T18:28:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "164 points · 147 comments",
-      "published": "2026-09-14T17:50:29+00:00"
+      "source": "OSINT",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
+      "published": "2026-09-14T18:02:13+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Steam Frame starts at $1059",
-      "url": "https://store.steampowered.com/hardware/steamframe",
-      "summary": "190 points · 96 comments",
-      "published": "2026-09-14T17:27:55+00:00"
+      "source": "OSINT",
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of",
+      "published": "2026-09-14T18:01:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
+      "published": "2026-09-14T17:58:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pion, an agent designed to run any company autonomously",
       "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "summary": "117 points · 117 comments",
+      "summary": "225 points · 237 comments",
       "published": "2026-09-14T17:16:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
       "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "summary": "19 points · 5 comments",
+      "summary": "67 points · 20 comments",
       "published": "2026-09-14T17:02:34+00:00"
     },
     {
@@ -91,37 +147,23 @@
     },
     {
       "source": "OSINT",
-      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
-      "published": "2026-09-14T16:58:42+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
       "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
-      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU) said in an",
+      "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU)",
       "published": "2026-09-14T16:56:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why don't machine learning research agents overfit?",
       "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "summary": "60 points · 30 comments",
+      "summary": "90 points · 53 comments",
       "published": "2026-09-14T16:32:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "When LLM judges agree, should we believe them?",
-      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
-      "summary": "34 points · 14 comments",
-      "published": "2026-09-14T16:29:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How my e-reader lost its stripes",
       "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "summary": "45 points · 3 comments",
+      "summary": "121 points · 13 comments",
       "published": "2026-09-14T16:23:16+00:00"
     },
     {
@@ -133,9 +175,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Microsoft patches Windows and Excel – breaks audio, remote access, and paste",
+      "url": "https://www.theregister.com/os-platforms/2026/09/14/microsoft-patches-windows-and-excel-breaks-audio-remote-access-and-paste/5296085",
+      "summary": "173 points · 88 comments",
+      "published": "2026-09-14T16:09:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
       "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-      "summary": "15 points · 5 comments",
+      "summary": "55 points · 11 comments",
       "published": "2026-09-14T16:07:58+00:00"
     },
     {
@@ -147,17 +196,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Distributed Systems Classics (2017)",
-      "url": "https://nvartolomei.com/dist-sys-classics/",
-      "summary": "121 points · 26 comments",
-      "published": "2026-09-14T16:02:01+00:00"
+      "title": "Show HN: Neobrutalism.dev – Just added Base UI support and added new color theme",
+      "url": "https://www.neobrutalism.dev/",
+      "summary": "121 points · 53 comments",
+      "published": "2026-09-14T16:02:02+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Truncated SVD (2023)",
-      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
-      "summary": "25 points · 1 comments",
-      "published": "2026-09-14T16:00:33+00:00"
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "summary": "207 points · 39 comments",
+      "published": "2026-09-14T16:02:01+00:00"
     },
     {
       "source": "OSINT",
@@ -170,14 +219,14 @@
       "source": "HACKER NEWS",
       "title": "A Beginning for Mathematics",
       "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "summary": "62 points · 12 comments",
+      "summary": "149 points · 82 comments",
       "published": "2026-09-14T15:33:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Principles for Fast Tokio Applications",
       "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "summary": "88 points · 15 comments",
+      "summary": "147 points · 30 comments",
       "published": "2026-09-14T15:27:56+00:00"
     },
     {
@@ -193,6 +242,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wg5kiq/reliaquest_soc_got_vished/",
       "summary": "Knowing the company this publicity is not favorable for sure but goes to show training is important! submitted by /u/AccomplishedJuice135 [link] [comments]",
       "published": "2026-09-14T14:50:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Dario, Please",
+      "url": "https://pop.rdi.sh/dario-please/",
+      "summary": "171 points · 76 comments",
+      "published": "2026-09-14T14:50:32+00:00"
     },
     {
       "source": "OSINT",
@@ -216,20 +272,6 @@
       "published": "2026-09-14T14:01:11+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
-      "summary": "89 points · 40 comments",
-      "published": "2026-09-14T13:59:09+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "BCR Cyber CWA (Cyber Workforce Accelerator) Honest Opinions",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wg44zg/bcr_cyber_cwa_cyber_workforce_accelerator_honest/",
-      "summary": "I recently completed a concentrated program at a community college that assisted me in earning my CompTIA Security+ certification. After receiving this certification and graduating the program, I was invited to apply to the BCR Cyber CWA program in Maryland. This program will offer me the SOC Operations Analyst I (SOCOA I) certification — an Industry-Recognized Credential that prepares you for entry-level roles in Security Operations Centers. It sounds interesting and I would love to get involve",
-      "published": "2026-09-14T13:55:53+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "ClickFix attacks infecting PCs and Macs are going viral",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wg2q64/clickfix_attacks_infecting_pcs_and_macs_are_going/",
@@ -240,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "224 points · 213 comments",
+      "summary": "330 points · 287 comments",
       "published": "2026-09-14T12:40:57+00:00"
     },
     {
@@ -289,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "XCancel service is suspended until further notice",
       "url": "https://xcancel.com/#",
-      "summary": "220 points · 494 comments",
+      "summary": "378 points · 678 comments",
       "published": "2026-09-14T09:51:50+00:00"
     },
     {
@@ -370,13 +412,6 @@
       "published": "2026-09-13T17:34:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-      "summary": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-      "published": "2026-09-13T14:26:32+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Flock Worker Calls Police On Reporter - For Filming Them in Public",
       "url": "https://yro.slashdot.org/story/26/09/13/0650227/flock-worker-calls-police-on-reporter---for-filming-them-in-public?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -419,11 +454,11 @@
       "published": "2026-09-12T21:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "LG Responds to TV Spying Allegations",
-      "url": "https://yro.slashdot.org/story/26/09/12/1652215/lg-responds-to-tv-spying-allegations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "LG is pushing back against reports that its smart TVs are \"spying\" on users, saying wake-word detection happens locally and that features such as Automatic Content Recognition, voice recognition, and interest-based ads are optional. But critics note that researchers found TVs keeping logs of ambient conversations, and LG's response \"did not address broader concerns about how much data it collects, who it shares it with, the potential for bad actors to exploit its features, or the misleading way ",
-      "published": "2026-09-12T17:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Compressing a Flag to 11 Bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "summary": "14 points · 4 comments",
+      "published": "2026-09-12T15:57:43+00:00"
     },
     {
       "source": "OSINT",
@@ -434,13 +469,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-      "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-      "summary": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-      "published": "2026-09-12T14:14:32+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
       "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
       "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
@@ -448,10 +476,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "An atlas of periodic solutions to the three-body problem",
-      "url": "https://www.threebodyorbits.com/",
-      "summary": "275 points · 63 comments",
-      "published": "2026-09-12T10:13:24+00:00"
+      "title": "Optimizing a Spin-Lock",
+      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+      "summary": "22 points · 9 comments",
+      "published": "2026-09-12T09:43:44+00:00"
     },
     {
       "source": "OSINT",
@@ -459,34 +487,6 @@
       "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
       "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
       "published": "2026-09-12T09:07:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "summary": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-      "published": "2026-09-11T20:19:09+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-      "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-      "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
-      "published": "2026-09-11T16:30:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-      "url": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-      "summary": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
-      "published": "2026-09-11T16:15:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Apollo Lunar Module landing simulation",
-      "url": "https://gosandeep.com/eagles-descent/",
-      "summary": "9 points · 0 comments",
-      "published": "2026-09-09T18:29:37+00:00"
     },
     {
       "source": "OSINT",
