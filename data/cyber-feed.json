@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T13:49:49.748600+00:00",
+  "updated": "2026-09-14T19:11:49.668515+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,207 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+      "url": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+      "summary": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+      "published": "2026-09-14T19:03:51+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Vulnerability Summary for the Week of September 7, 2026",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgcn3t/vulnerability_summary_for_the_week_of_september_7/",
+      "summary": "submitted by /u/antdude [link] [comments]",
+      "published": "2026-09-14T19:00:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+      "summary": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+      "published": "2026-09-14T18:34:16+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Is ClickFix becoming one of the more effective social engineering techniques?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgbp9o/is_clickfix_becoming_one_of_the_more_effective/",
+      "summary": "Hi，I’ve been seeing more ClickFix-style attacks where users are tricked into opening PowerShell or Terminal and running a command themselves, often disguised as a CAPTCHA, verification step, software update, or troubleshooting fix. What makes it interesting is that there doesn’t necessarily need to be a suspicious attachment or executable to download. The attacker basically convinces the user to execute the payload for them. It also makes me wonder whether years of copy-paste troubleshooting hav",
+      "published": "2026-09-14T18:28:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Volkswagen Just Built an EV That Can Go Nearly 900 Miles on a Charge",
-      "url": "https://www.motor1.com/news/808114/vw-mission-efficiency-concept-specs-photos/",
-      "summary": "20 points · 17 comments",
-      "published": "2026-09-14T13:15:05+00:00"
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "summary": "164 points · 147 comments",
+      "published": "2026-09-14T17:50:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Steam Frame starts at $1059",
+      "url": "https://store.steampowered.com/hardware/steamframe",
+      "summary": "190 points · 96 comments",
+      "published": "2026-09-14T17:27:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "summary": "117 points · 117 comments",
+      "published": "2026-09-14T17:16:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
+      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
+      "summary": "19 points · 5 comments",
+      "published": "2026-09-14T17:02:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Cua (YC P25) Is Hiring a Founding Technical GTM Lead",
+      "url": "https://www.ycombinator.com/companies/cua/jobs/1IWEKVH-founding-technical-gtm-lead",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-14T17:00:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+      "url": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+      "summary": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack requires an attacker who already controls the server's software and can briefly access the machine to insert a small circuit",
+      "published": "2026-09-14T16:58:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+      "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+      "summary": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU) said in an",
+      "published": "2026-09-14T16:56:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "summary": "60 points · 30 comments",
+      "published": "2026-09-14T16:32:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "When LLM judges agree, should we believe them?",
+      "url": "https://www.amazon.science/blog/when-llm-judges-agree-should-we-believe-them",
+      "summary": "34 points · 14 comments",
+      "published": "2026-09-14T16:29:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How my e-reader lost its stripes",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "summary": "45 points · 3 comments",
+      "published": "2026-09-14T16:23:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+      "summary": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+      "published": "2026-09-14T16:15:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+      "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+      "summary": "15 points · 5 comments",
+      "published": "2026-09-14T16:07:58+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "No Rolling Power Outages for California Since 2020 - Thanks to 17,000 MW of New Battery Storage",
+      "url": "https://yro.slashdot.org/story/26/09/14/0446243/no-rolling-power-outages-for-california-since-2020---thanks-to-17000-mw-of-new-battery-storage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Californians just made it through the hottest August on record without having to endure any rolling power outages,\" reports the Los Angeles Times. In fact, the state hasn't implemented rotating power outages since 2020. Because \"Over the last few years, California has quietly but dramatically increased the resiliency of its electrical grid through a significant expansion in battery energy storage.\" These batteries hold onto solar energy captured during the day, so it can be sent to the grid as ",
+      "published": "2026-09-14T16:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "summary": "121 points · 26 comments",
+      "published": "2026-09-14T16:02:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Truncated SVD (2023)",
+      "url": "https://brashandplucky.com/2023/09/09/truncated-svd.html",
+      "summary": "25 points · 1 comments",
+      "published": "2026-09-14T16:00:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+      "url": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+      "summary": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved. \"New plugins are reviewed before they enter the directory, but updates ship continuously after that,\" David Perez, WordPress Official Plugin",
+      "published": "2026-09-14T16:00:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Beginning for Mathematics",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "summary": "62 points · 12 comments",
+      "published": "2026-09-14T15:33:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Principles for Fast Tokio Applications",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "summary": "88 points · 15 comments",
+      "published": "2026-09-14T15:27:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "HBO Max ads on a compromised Reddit account exposed a massive PasteSwitch ClickFix operation",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wg5s0u/hbo_max_ads_on_a_compromised_reddit_account/",
+      "summary": "In September 2026, the cybersecurity community uncovered a massive, highly coordinated malvertising campaign leveraging the official, verified HBO Max Reddit account ( u/hbomax ). Over a frantic 48-hour period, the compromised account pushed 108 distinct “ClickFix” advertisements to users across the platform. submitted by /u/Malwarebeasts [link] [comments]",
+      "published": "2026-09-14T14:58:49+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "ReliaQuest (SOC) Got Vished.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wg5kiq/reliaquest_soc_got_vished/",
+      "summary": "Knowing the company this publicity is not favorable for sure but goes to show training is important! submitted by /u/AccomplishedJuice135 [link] [comments]",
+      "published": "2026-09-14T14:50:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+      "url": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+      "summary": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination. The rest of the week is more familiar: old bugs still working, fresh exploit chains, exposed systems, weak defaults, and simple paths that should have been harder to abuse. A few of",
+      "published": "2026-09-14T14:40:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Inside the ShinyHunters vishing playbook: two captured Okta clones and a passkey bypass",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wg4sym/inside_the_shinyhunters_vishing_playbook_two/",
+      "summary": "submitted by /u/rlazer [link] [comments]",
+      "published": "2026-09-14T14:21:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "url": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "summary": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing control. [...]",
+      "published": "2026-09-14T14:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "url": "https://patrickmccanna.net/notes-on-migrating-large-prompts-away-from-anthropic-openai-to-self-hosted-llms/",
+      "summary": "89 points · 40 comments",
+      "published": "2026-09-14T13:59:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "BCR Cyber CWA (Cyber Workforce Accelerator) Honest Opinions",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wg44zg/bcr_cyber_cwa_cyber_workforce_accelerator_honest/",
+      "summary": "I recently completed a concentrated program at a community college that assisted me in earning my CompTIA Security+ certification. After receiving this certification and graduating the program, I was invited to apply to the BCR Cyber CWA program in Maryland. This program will offer me the SOC Operations Analyst I (SOCOA I) certification — an Industry-Recognized Credential that prepares you for entry-level roles in Security Operations Centers. It sounds interesting and I would love to get involve",
+      "published": "2026-09-14T13:55:53+00:00"
     },
     {
       "source": "REDDIT",
@@ -42,24 +238,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "70 points · 85 comments",
+      "summary": "224 points · 213 comments",
       "published": "2026-09-14T12:40:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "If an AI tool has local file access, can it exfiltrate files to a USB or external drive?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wg29kr/if_an_ai_tool_has_local_file_access_can_it/",
-      "summary": "I read about this as a NEW security concern, but then... the USB still needs a human to actually exfiltrate it, right? submitted by /u/Mariel-Netwrix [link] [comments]",
-      "published": "2026-09-14T12:38:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Texas judge rules TikTok misled users on child safety feature",
-      "url": "https://www.reuters.com/legal/litigation/texas-judge-rules-tiktok-misled-users-child-safety-feature-2026-09-11/",
-      "summary": "34 points · 6 comments",
-      "published": "2026-09-14T12:37:42+00:00"
     },
     {
       "source": "OSINT",
@@ -67,27 +249,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
       "summary": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]",
       "published": "2026-09-14T12:15:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "XCancel suspended \"due to a new development in the ongoing legal proceedings\"",
-      "url": "https://xcancel.com/twitter",
-      "summary": "169 points · 129 comments",
-      "published": "2026-09-14T12:05:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-      "summary": "87 points · 26 comments",
-      "published": "2026-09-14T12:01:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-      "url": "https://github.com/callbacked/kinesis",
-      "summary": "63 points · 19 comments",
-      "published": "2026-09-14T12:01:31+00:00"
     },
     {
       "source": "REDDIT",
@@ -125,6 +286,13 @@
       "published": "2026-09-14T11:14:38+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "summary": "220 points · 494 comments",
+      "published": "2026-09-14T09:51:50+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft: September updates cause RDS failures on Windows Server",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
@@ -139,32 +307,11 @@
       "published": "2026-09-14T08:48:24+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "A 386 PC for Your RP2350",
-      "url": "https://github.com/rh1tech/frank-386",
-      "summary": "112 points · 28 comments",
-      "published": "2026-09-14T08:25:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "EuroBirdPortal – Live bird movements across Europe",
-      "url": "https://www.eurobirdportal.org/ebp/en/",
-      "summary": "146 points · 49 comments",
-      "published": "2026-09-14T08:25:47+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft: September updates break audio on some Windows PCs",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
       "summary": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
       "published": "2026-09-14T08:08:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenArch – PyTorch implementations of modern LLM architectures",
-      "url": "https://github.com/anuj0456/OpenArch",
-      "summary": "86 points · 18 comments",
-      "published": "2026-09-14T07:55:19+00:00"
     },
     {
       "source": "OSINT",
@@ -189,13 +336,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "CrowdStrike Identity Protection – Are the “Attack Paths” actually useful?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wfuuf2/crowdstrike_identity_protection_are_the_attack/",
-      "summary": "We’re evaluating CrowdStrike Identity Protection, and I’m finding the Attack Paths shown under individual user identities to be quite underwhelming — in some cases, they honestly feel almost useless. Is anyone else using this feature and seeing the same thing? I’m particularly interested in: How accurate/useful are the attack paths in your environment? Are you getting meaningful relationships between users, devices, privileges, and potential attack paths? Have you found a way to make these insig",
-      "published": "2026-09-14T05:44:42+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "May get layed off at AWS due to some political issues at work. 6 years of experience and willing to relocate anywhere. How employable am I?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wfu640/may_get_layed_off_at_aws_due_to_some_political/",
       "summary": "I have been working as a security engineer 1 for 4 years then promod to security engineer 2 for the last 2. I had to leave work due to some unsolvable political issues. I have worked on some high level projects. I did get a exceeding expectations once two years ago and have gotten meets bar every other time. I have OSWE certification and can solve python problems on leetcode at around a medium level (idk how many companies check for this) I'm willing to relocate anywhere in the country because I",
@@ -207,20 +347,6 @@
       "url": "https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A misconfigured Advance Passenger Information System (APIS) database linked to Vietnam exposed more than 220 million passenger and crew travel records spanning 2017 to 2026, including names, passport numbers, nationalities, flight details, seat assignments, and baggage references. Researchers said the database was reachable through a chain of security mistakes and default credentials. It was later secured after the disclosure, but it's unclear whether the data had already been copied or abused. ",
       "published": "2026-09-14T02:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The case against JPEG XL",
-      "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-      "summary": "216 points · 280 comments",
-      "published": "2026-09-14T01:02:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Apple's Dimensional Drawings",
-      "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-      "summary": "286 points · 94 comments",
-      "published": "2026-09-14T00:11:21+00:00"
     },
     {
       "source": "REDDIT",
@@ -237,46 +363,11 @@
       "published": "2026-09-13T22:04:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-      "summary": "336 points · 167 comments",
-      "published": "2026-09-13T21:47:04+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How to learn DLP policy testing?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wfklpb/how_to_learn_dlp_policy_testing/",
-      "summary": "Hello! I work in DLP incident response, but I'm starting to stagnate in my career, so I want to shift (or try to) to a more technical position. I don't want to shift to a GRC or roles like IAM. Ideally, it makes sense that I move to a role where I can use my knowledge while learning more and have more value as a professional, like a DLP engineer for example. I've tried to get into policy improvement in my current company but they won't let me (big as* company with lots of segregation roles, the ",
-      "published": "2026-09-13T21:41:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-      "summary": "1094 points · 495 comments",
-      "published": "2026-09-13T21:06:13+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Im wanting to get into DFIR. I just have this absolute fascination for data recovery and techniques and etc. where do i start or find classes etc?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wfehjb/im_wanting_to_get_into_dfir_i_just_have_this/",
-      "summary": "submitted by /u/YeetisDaFetus [link] [comments]",
-      "published": "2026-09-13T17:49:57+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "California's Gig Drivers Just Secured Collective Bargaining Power with Newly Certified Union",
       "url": "https://yro.slashdot.org/story/26/09/13/0245218/californias-gig-drivers-just-secured-collective-bargaining-power-with-newly-certified-union?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A union representing Uber and Lyft drivers was just certified by California's Public Employment Relations Board, officially recognizing them as the drivers' bargaining organization. The Sacramento Bee reports that this new bargaining structure : The move will allow the California Gig Workers Union to help drivers negotiate issues affecting working conditions and benefits. It comes as at least 30% of active drivers expressed support of the union... [California] Assembly Bill 1340 helped bring the",
       "published": "2026-09-13T17:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Opinions On Awareness Training?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wf9djd/opinions_on_awareness_training/",
-      "summary": "Not looking for vendor recommendations. Instead, a question and would love input. Awareness training typically focuses on Cybersecurity concepts. But, I think there’s more value in procedural training. IE instead of teaching someone about “Juice Jacking” which is a waste of time and pointless… Teaching someone the correct way to handle a scenario. IE Helpdesk Impersonation… The process is Helpdesk will never contact you from a phone number. Here’s the correct approach. Here’s the process for pas",
-      "published": "2026-09-13T14:35:44+00:00"
     },
     {
       "source": "OSINT",
@@ -298,13 +389,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
       "summary": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant, involved sending over a million scam emails between August 3 and 5, 2026, by masquerading as chief executive officers",
       "published": "2026-09-13T10:11:48+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "I actually feel stuck!",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wf3dyu/i_actually_feel_stuck/",
-      "summary": "Hello, So I work for a company as a security engineer and my task right now is to bring an IAM and PAM but they don't want to pay a dedicated tool for it (Wallix or other). So the idea for now is to integrate with AD but then I encountered a block: for my team we can add them to AD but for the vendors who need access to their products for support and maintenance, we cannot create AD accounts since their composition changes all the time (new people come and go) and we don't want it to become a ta",
-      "published": "2026-09-13T09:50:11+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -356,13 +440,6 @@
       "published": "2026-09-12T14:14:32+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Scientists Create a New Form of Ice At 2,357 Degrees Celsius",
-      "url": "https://science.slashdot.org/story/26/09/11/2249242/scientists-create-a-new-form-of-ice-at-2357-degrees-celsius?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader fahrbot-bot shares a report from ScienceAlert: Scientists have now demonstrated one of the weirdest forms of ice yet -- under preposterous pressures up to 2.3 million atmospheres, and tremendous temperatures up to 2,630 kelvins (2,357 degrees Celsius, or 4,274 degrees Fahrenheit). [...] In their new experiments, a team led by physicist Alexis Forestier of the French Alternative Energies and Atomic Energy Commission subjected tiny samples of water to the sorts of extreme ",
-      "published": "2026-09-12T13:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
       "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
@@ -373,7 +450,7 @@
       "source": "HACKER NEWS",
       "title": "An atlas of periodic solutions to the three-body problem",
       "url": "https://www.threebodyorbits.com/",
-      "summary": "126 points · 31 comments",
+      "summary": "275 points · 63 comments",
       "published": "2026-09-12T10:13:24+00:00"
     },
     {
@@ -392,31 +469,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "url": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "summary": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
-      "published": "2026-09-11T19:00:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "summary": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
-      "published": "2026-09-11T17:26:50+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
       "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
       "summary": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
       "published": "2026-09-11T16:30:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "url": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "summary": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
-      "published": "2026-09-11T16:29:44+00:00"
     },
     {
       "source": "OSINT",
@@ -427,66 +483,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-      "url": "https://www.sciencedaily.com/releases/2026/09/260909005152.htm",
-      "summary": "8 points · 7 comments",
-      "published": "2026-09-11T14:55:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "summary": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial",
-      "published": "2026-09-11T14:29:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "url": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "summary": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight",
-      "published": "2026-09-11T14:10:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "url": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "summary": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and ClickFix-style lures. [...]",
-      "published": "2026-09-11T14:01:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-      "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-      "summary": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a scanner report, but if it sits behind strong segmentation, identity controls, and other defenses that prevent an attacker",
-      "published": "2026-09-11T11:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
-      "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
-      "summary": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and September 8. JFrog had fixed both flaws before then, so only servers that had not been updated were open to them.",
-      "published": "2026-09-11T07:31:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Vacuum Diode for Make: Magazine",
-      "url": "https://www.nickpoole.me/2023/12/10/a-vacuum-diode-for-make-magazine/",
-      "summary": "22 points · 2 comments",
-      "published": "2026-09-10T23:56:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Spaceships (Reverse Asteroid)",
-      "url": "https://spaceships.treybastian.com/",
-      "summary": "292 points · 55 comments",
-      "published": "2026-09-10T04:44:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Drawably: Hand-Drawn UI Controls",
-      "url": "https://github.com/Danilaa1/drawably",
-      "summary": "20 points · 13 comments",
-      "published": "2026-09-09T17:45:32+00:00"
+      "title": "Show HN: Apollo Lunar Module landing simulation",
+      "url": "https://gosandeep.com/eagles-descent/",
+      "summary": "9 points · 0 comments",
+      "published": "2026-09-09T18:29:37+00:00"
     },
     {
       "source": "OSINT",
