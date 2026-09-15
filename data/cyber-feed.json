@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T01:20:00.104154+00:00",
+  "updated": "2026-09-15T06:35:40.496128+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,41 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+      "url": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
+      "summary": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of insufficient validation in the email parsing logic that could allow an unauthenticated, remote attacker",
+      "published": "2026-09-15T06:11:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "FYP Guidence",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgrzwh/fyp_guidence/",
+      "summary": "hi i am a bs cyber security student in 5th semester i need guidence to choose my Final Year Project kindly anybody can help? submitted by /u/xploitx5 [link] [comments]",
+      "published": "2026-09-15T06:02:38+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "ChatGPT-Using Lawyer Cited Its Fake Witnesses and Police Testimony in Court",
+      "url": "https://slashdot.org/story/26/09/14/0611201/chatgpt-using-lawyer-cited-its-fake-witnesses-and-police-testimony-in-court?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Reuters reports: A defense lawyer appealing his client's murder conviction submitted a brief containing made-up police testimony and witnesses fabricated by OpenAI's ChatGPT, New Mexico's highest court said. The New Mexico Supreme Court on Wednesday fined the attorney, Stephen Aarons [for $5,000], and held him in contempt for failing to verify the accuracy of the court filing, which Aarons said he prepared with help from the AI program... and said they will refer him to an attorney disciplinary ",
+      "published": "2026-09-15T05:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
+      "url": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "summary": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the moniker UTA0560, said the activity targeted multiple non-governmental organizations (NGOs) on September 1, 2026. \"The",
+      "published": "2026-09-15T05:31:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Linux from Scratch",
+      "url": "https://www.linuxfromscratch.org/",
+      "summary": "62 points · 23 comments",
+      "published": "2026-09-15T04:15:23+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Reservations Go Live for Valve's Steam Frame VR Headset. An Experiment in Progress?",
       "url": "https://games.slashdot.org/story/26/09/14/2019212/reservations-go-live-for-valves-steam-frame-vr-headset-an-experiment-in-progress?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -51,7 +86,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
       "url": "https://github.com/JamesRyanATX/fcbnerd",
-      "summary": "30 points · 2 comments",
+      "summary": "54 points · 11 comments",
       "published": "2026-09-14T23:01:36+00:00"
     },
     {
@@ -72,15 +107,8 @@
       "source": "HACKER NEWS",
       "title": "Charts built for Chat",
       "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
-      "summary": "84 points · 28 comments",
+      "summary": "193 points · 61 comments",
       "published": "2026-09-14T21:22:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit",
-      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
-      "summary": "167 points · 168 comments",
-      "published": "2026-09-14T21:05:22+00:00"
     },
     {
       "source": "OSINT",
@@ -100,7 +128,7 @@
       "source": "SLASHDOT",
       "title": "A Visit to San Francisco's AI-run Store: No Customers, Nothing Useful, And Losing Money Fast",
       "url": "https://slashdot.org/story/26/09/13/0523208/a-visit-to-san-franciscos-ai-run-store-no-customers-nothing-useful-and-losing-money-fast?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Previously Andon Labs handled the hardware and software integration for that AI-powered vending machine that went bankrupt after Wall Street Journal reporters \"systematically manipulated the bot into giving away its entire inventory for free\".Today they announced \"we are opening up the platform we use to run our real-world autonomous businesses for anyone to run their organization on.\" Specifically they've released Pion, \"an agent designed to run any company fully autonomously... Pion lets peopl",
+      "summary": "Previously Andon Labs handled the hardware and software integration for that AI-powered vending machine that went bankrupt after Wall Street Journal reporters \"systematically manipulated the bot into giving away its entire inventory for free\". Today they announced \"we are opening up the platform we use to run our real-world autonomous businesses for anyone to run their organization on.\" Specifically they've released Pion, \"an agent designed to run any company fully autonomously... Pion lets peop",
       "published": "2026-09-14T20:34:00+00:00"
     },
     {
@@ -156,29 +184,15 @@
       "source": "HACKER NEWS",
       "title": "iOS 27, iPadOS 27, and macOS 27",
       "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-      "summary": "361 points · 407 comments",
+      "summary": "529 points · 572 comments",
       "published": "2026-09-14T17:50:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Steam Frame starts at $1059",
-      "url": "https://store.steampowered.com/hardware/steamframe",
-      "summary": "487 points · 361 comments",
-      "published": "2026-09-14T17:27:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pion, an agent designed to run any company autonomously",
       "url": "https://andonlabs.com/blog/why-we-built-pion",
-      "summary": "279 points · 298 comments",
+      "summary": "360 points · 412 comments",
       "published": "2026-09-14T17:16:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Cloudflare AKE cuts origin HelloRetryRequests from 52% to 3.7%",
-      "url": "https://blog.cloudflare.com/automatic-key-exchange-for-origins/",
-      "summary": "84 points · 24 comments",
-      "published": "2026-09-14T17:02:34+00:00"
     },
     {
       "source": "OSINT",
@@ -186,20 +200,6 @@
       "url": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
       "summary": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven countries and maintained a separate dataset of 477 Taiwan-based systems,\" Acronis Threat Research Unit (TRU)",
       "published": "2026-09-14T16:56:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why don't machine learning research agents overfit?",
-      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
-      "summary": "103 points · 57 comments",
-      "published": "2026-09-14T16:32:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How my e-reader lost its stripes",
-      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
-      "summary": "149 points · 24 comments",
-      "published": "2026-09-14T16:23:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -212,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Distributed Systems Classics (2017)",
       "url": "https://nvartolomei.com/dist-sys-classics/",
-      "summary": "231 points · 52 comments",
+      "summary": "274 points · 60 comments",
       "published": "2026-09-14T16:02:01+00:00"
     },
     {
@@ -224,16 +224,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A Beginning for Mathematics",
+      "title": "A beginning for mathematics",
       "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
-      "summary": "166 points · 96 comments",
+      "summary": "195 points · 108 comments",
       "published": "2026-09-14T15:33:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Principles for Fast Tokio Applications",
       "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
-      "summary": "160 points · 41 comments",
+      "summary": "192 points · 47 comments",
       "published": "2026-09-14T15:27:56+00:00"
     },
     {
@@ -261,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
       "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-      "summary": "20 points · 4 comments",
+      "summary": "87 points · 24 comments",
       "published": "2026-09-14T14:29:23+00:00"
     },
     {
@@ -289,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI bots knew about the RubyGems caching vulnerability",
       "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-      "summary": "368 points · 315 comments",
+      "summary": "426 points · 342 comments",
       "published": "2026-09-14T12:40:57+00:00"
     },
     {
@@ -324,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "XCancel service is suspended until further notice",
       "url": "https://xcancel.com/#",
-      "summary": "443 points · 757 comments",
+      "summary": "571 points · 839 comments",
       "published": "2026-09-14T09:51:50+00:00"
     },
     {
@@ -340,6 +340,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
       "summary": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
       "published": "2026-09-14T08:48:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "When code is a maze, smart developers make maps",
+      "url": "https://medium.com/@simonsmartiom/when-code-is-a-maze-smart-developers-make-maps-fbc452a48c1b",
+      "summary": "7 points · 7 comments",
+      "published": "2026-09-14T08:35:30+00:00"
     },
     {
       "source": "OSINT",
@@ -370,13 +377,6 @@
       "published": "2026-09-14T07:04:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "May get layed off at AWS due to some political issues at work. 6 years of experience and willing to relocate anywhere. How employable am I?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wfu640/may_get_layed_off_at_aws_due_to_some_political/",
-      "summary": "I have been working as a security engineer 1 for 4 years then promod to security engineer 2 for the last 2. I had to leave work due to some unsolvable political issues. I have worked on some high level projects. I did get a exceeding expectations once two years ago and have gotten meets bar every other time. I have OSWE certification and can solve python problems on leetcode at around a medium level (idk how many companies check for this) I'm willing to relocate anywhere in the country because I",
-      "published": "2026-09-14T05:07:57+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "220 Million Traveler Records Exposed In Vietnam-Linked APIS Leak",
       "url": "https://yro.slashdot.org/story/26/09/12/1758204/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -403,6 +403,20 @@
       "url": "https://yro.slashdot.org/story/26/09/13/0245218/californias-gig-drivers-just-secured-collective-bargaining-power-with-newly-certified-union?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A union representing Uber and Lyft drivers was just certified by California's Public Employment Relations Board, officially recognizing them as the drivers' bargaining organization. The Sacramento Bee reports that this new bargaining structure : The move will allow the California Gig Workers Union to help drivers negotiate issues affecting working conditions and benefits. It comes as at least 30% of active drivers expressed support of the union... [California] Assembly Bill 1340 helped bring the",
       "published": "2026-09-13T17:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: What are you working on? (September 2026)",
+      "url": "https://news.ycombinator.com/item?id=49686380",
+      "summary": "318 points · 983 comments",
+      "published": "2026-09-13T17:31:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenArm: An open-source 7DOF humanoid arm",
+      "url": "https://github.com/enactic/OpenArm",
+      "summary": "34 points · 2 comments",
+      "published": "2026-09-13T14:17:49+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -433,24 +447,31 @@
       "published": "2026-09-13T05:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Anthropic CEO Dario Amodei Calls For AI Slowdown",
-      "url": "https://slashdot.org/story/26/09/12/1738240/anthropic-ceo-dario-amodei-calls-for-ai-slowdown?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The New York Times: The chief executive of Anthropic called for a global slowdown of artificial intelligence development in a 3,800-word essay on Saturday, just days after one of the company's employees quit over concerns about the safety of the technology. Dario Amodei, who co-founded Anthropic to focus on securely and carefully building A.I., wrote that while he believed the technology could bring many benefits, it was advancing at too quick a pace for ",
-      "published": "2026-09-13T01:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Every invoice in Brazil's economy runs on SOAP 1.2",
+      "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
+      "summary": "59 points · 34 comments",
+      "published": "2026-09-13T03:19:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Redis City – Explore how Redis works in an interactive 3D model",
+      "url": "https://poltora.dev/redis",
+      "summary": "38 points · 6 comments",
+      "published": "2026-09-12T19:43:34+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
       "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
-      "summary": "7 points · 2 comments",
+      "summary": "93 points · 18 comments",
       "published": "2026-09-12T18:51:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Compressing a Flag to 11 Bits",
       "url": "https://read.vantezzen.io/miniflags",
-      "summary": "62 points · 27 comments",
+      "summary": "114 points · 46 comments",
       "published": "2026-09-12T15:57:43+00:00"
     },
     {
@@ -459,27 +480,6 @@
       "url": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. Details of the vulnerabilities are as follows - CVE-2026-42016 (CVSS score: 8.1) - An incorrect authorization",
       "published": "2026-09-12T15:54:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-      "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-      "summary": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyday footprint of an organization using it, from developers running coding agents and non-technical staff signing consumer AI tools into corporate",
-      "published": "2026-09-12T10:24:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Optimizing a Spin-Lock",
-      "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-      "summary": "40 points · 18 comments",
-      "published": "2026-09-12T09:43:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-      "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-      "summary": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, disclosed details of a coordinated cyber attack that targeted the package manager for the",
-      "published": "2026-09-12T09:07:56+00:00"
     },
     {
       "source": "OSINT",
