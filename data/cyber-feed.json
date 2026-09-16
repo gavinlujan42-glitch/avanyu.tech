@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T16:38:31.709230+00:00",
+  "updated": "2026-09-16T19:57:21.735059+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,6 +28,132 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Mogelijkheden binnen Cyber",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi7t80/mogelijkheden_binnen_cyber/",
+      "summary": "Ik werk nu al 2 jaar in cybersecurity GRC als consultant maar ik weet niet zo goed wat ik voor stappen ik verder kan zetten. Het operationele als consultant begin ik steeds minder leuk te vinden o.a. doordat je gewoon meer met AI alles kan uitwerken. Het werk ook best eentonig en saai kan zijn. En GRC voor klanten vaak een vinkje zetten is. Ik weet niet zo goed meer wat ik moet doen en wat voor opties er zijn. submitted by /u/Front_Loss7024 [link] [comments]",
+      "published": "2026-09-16T19:50:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Security concerns with new Siri AI?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi6gt7/security_concerns_with_new_siri_ai/",
+      "summary": "Wondering if there’s any security consideration for having Siri AI where the AI has deep access to iOS and your data. Both in a personal and corp environment. Can this AI basically monitor all actions on your devices and capture all that data constantly? submitted by /u/PHL534_2 [link] [comments]",
+      "published": "2026-09-16T19:02:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A coffee shop owner used AI to make a menu poster. Then came the angry DMs",
+      "url": "https://www.businessinsider.com/coffee-shop-owner-ai-menu-backlash-2026-9",
+      "summary": "23 points · 22 comments",
+      "published": "2026-09-16T18:59:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "summary": "19 points · 1 comments",
+      "published": "2026-09-16T18:56:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fed hikes rates as inflation worries push up bond yields",
+      "url": "https://www.reuters.com/live/live-fed-rate-hike-expected-inflation-worries-push-up-bond-yields-2026-09-16/",
+      "summary": "72 points · 26 comments",
+      "published": "2026-09-16T18:55:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+      "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+      "published": "2026-09-16T18:50:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "summary": "51 points · 6 comments",
+      "published": "2026-09-16T18:50:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Vectorized and performance-portable Quicksort",
+      "url": "https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html",
+      "summary": "121 points · 20 comments",
+      "published": "2026-09-16T18:31:35+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What type of Snyk implementation has been most effective in helping your organization identify and remediate vulnerabilities early, while ensuring SLAs are met?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi57y6/what_type_of_snyk_implementation_has_been_most/",
+      "summary": "Just trying to gauge some idea of how snyk has been implemented across different applications, CI/CD pipelines and have some questions Do your teams follow a particular policy that has been implemented across the org like say pipeline gets blocked on discovery of Critical/high findings, so you provide deviations for some duration so that their release doesn't get affected? Different branching strategies have different snyk configurations? What about different environments(staying, dev, other low",
+      "published": "2026-09-16T18:18:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
+      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
+      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
+      "published": "2026-09-16T18:14:22+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Our family business Gmail was hacked and sent fake DocuSign emails to ALL our contacts",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi4mpk/our_family_business_gmail_was_hacked_and_sent/",
+      "summary": "Hi everyone. I’m hoping someone can help us understand what’s happening because we’re a small family-owned business without an IT department. It’s literally just us trying to figure this out. Yesterday, one of our business Gmail accounts sent a fake DocuSign email to a bunch of our contacts. We did not create or send it. Customers started calling and replying because they couldn’t open the document, so we warned everyone we could identify not to click it. When we checked the Google account, we f",
+      "published": "2026-09-16T17:57:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Commits to Independent AI Evaluators, Wants Slower Development. Nvidia's CEO Wants It 'As Fast as You Can'",
+      "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Anthropic's CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development,\" reports the Guardian, \" while Nvidia's CEO argued against slowing its development. \"Run as fast as you can.\" Amodei is calling for three courses of action: embedding third-party evaluators inside AI companies; coordinating safety standards among Democratic countries; and, eventually, larger global coordination. At Dreamforce, Amodei said Anthropic has committed to ",
+      "published": "2026-09-16T17:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GitHub is having trouble counting things",
+      "url": "https://chuckgreenman.com/2026/09/16/counting-at-github",
+      "summary": "46 points · 29 comments",
+      "published": "2026-09-16T17:31:19+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CISA is Sunsetting the Weekly Vulnerability Bulletin",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi3s2h/cisa_is_sunsetting_the_weekly_vulnerability/",
+      "summary": "\"CISA will discontinue the weekly Vulnerability Bulletin at the end of FY26 (September 28, 2026) as part of a broader shift from severity‑based vulnerability management to risk‑based vulnerability prioritization. Newly recorded vulnerabilities remain available on CVE.org , and users should rely on the Known Exploited Vulnerability (KEV) Catalog, CISA Cybersecurity Alerts and Advisories, and vendor security alerts for actionable, risk‑based updates.\" I can't help but feel that we're at the end of",
+      "published": "2026-09-16T17:27:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Spain's data agency gets first report of AI-powered data breach",
+      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+      "published": "2026-09-16T17:26:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "🐁 SpiceRAT infrastructure targets government and energy across Central Asia",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi3do1/spicerat_infrastructure_targets_government_and/",
+      "summary": "Researchers tie SpiceRAT servers to energy and government targets across Central Asia, extending Bitdefender's SilkParasite report New research from Hunt.io on a SpiceRAT command and control cluster that connects to the SilkParasite infrastructure Bitdefender reported last month. The short version: three malware families that were treated as separate (SpiceRAT, NodeEdgeRAT, NomadRAT) share infrastructure at the registration and certificate level. A TLS certificate from a Chinese state-funded CA,",
+      "published": "2026-09-16T17:13:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "If a critical API key leaks, how do you revoke it without taking down production?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi34q2/if_a_critical_api_key_leaks_how_do_you_revoke_it/",
+      "summary": "Was looking into incident response plans for leaked credentials, and I’ve noticed a flaw in how most of us handle it. When an AWS or database key gets exposed, the normal thing is to revoke it immediately to stop an attacker. But if you do that without knowing all the services that rely on it, you could just trigger a self-inflicted outage. The main issue is tracing the affected area. If your secrets are scattered across Vercel, Kubernetes, and local environments, figuring out what breaks may ta",
+      "published": "2026-09-16T17:04:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude Cowork and chat are now one Claude",
+      "url": "https://claude.com/blog/cowork-is-now-claude",
+      "summary": "140 points · 168 comments",
+      "published": "2026-09-16T16:26:25+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "BragJack - $20K in bounty rewards from Anthropic, Perplexity, Google, Microsoft and Opera",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wi1z3o/bragjack_20k_in_bounty_rewards_from_anthropic/",
       "summary": "Hi folks, my name is Gal Weizman, I do browser security research. Excited to finally share my recent work, where I managed to hack Chrome, Comet, Edge, Opera and Claude in Chrome using one single browser extension 2 CVEs & $20,000 in bounties 🙂 Hope you like it! https://forever.security/blog/bragjack-attack-hijacks-every-browser-agent submitted by /u/Content-Winter5328 [link] [comments]",
@@ -35,16 +161,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Code Is Crap",
-      "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
-      "summary": "23 points · 11 comments",
-      "published": "2026-09-16T16:13:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Small Programming Tricks",
+      "title": "Small programming tricks",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "summary": "44 points · 14 comments",
+      "summary": "222 points · 123 comments",
       "published": "2026-09-16T15:56:47+00:00"
     },
     {
@@ -55,13 +174,6 @@
       "published": "2026-09-16T15:50:59+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Can we stop with the uptime percentages?",
-      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
-      "summary": "46 points · 35 comments",
-      "published": "2026-09-16T15:40:04+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
       "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
@@ -69,25 +181,18 @@
       "published": "2026-09-16T15:27:49+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "6 months of experience — assigned to develop PoCs for new Chrome RCEs and Android CVEs. Is this too difficult?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whztxm/6_months_of_experience_assigned_to_develop_pocs/",
-      "summary": "Hello everyone, I recently joined a company and have around 6 months of experience in cybersecurity. My senior assigned me a task to collect and maintain public PoCs for Android and browser RCE CVEs, and also develop PoCs for vulnerabilities that don't have a public PoC available. I'm not really sure how difficult this type of work is or whether it's reasonable for someone with less than a year of experience. I've never done this kind of vulnerability research/exploit development professionally ",
-      "published": "2026-09-16T15:05:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Security+ SY0-701",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whzh83/security_sy0701/",
-      "summary": "Hello all, I am getting ready to start the study of Security +, and hopefully pass the exam in 4 weeks time. Does anyone have a pointers, study references, materials, or just helpful tips to help me along the way? It would be very much appreciated. I did use professor messer so far. As well as some other reference sheets I found online. Thank you in advance! submitted by /u/Sanch_Is_King26 [link] [comments]",
-      "published": "2026-09-16T14:53:13+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
       "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
       "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
       "published": "2026-09-16T14:36:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The DeepMind Institute",
+      "url": "https://institute.deepmind.com/",
+      "summary": "76 points · 23 comments",
+      "published": "2026-09-16T14:32:11+00:00"
     },
     {
       "source": "OSINT",
@@ -100,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
       "url": "https://arxiv.org/abs/2609.14858",
-      "summary": "89 points · 23 comments",
+      "summary": "140 points · 44 comments",
       "published": "2026-09-16T13:44:40+00:00"
     },
     {
@@ -112,9 +217,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "title": "Hackers Got Inside a Flock Camera",
       "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
-      "summary": "237 points · 107 comments",
+      "summary": "370 points · 181 comments",
       "published": "2026-09-16T13:18:47+00:00"
     },
     {
@@ -128,15 +233,8 @@
       "source": "SLASHDOT",
       "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
       "url": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Firefox 156 is the second release since Mozilla moved to a twice-monthly release schedule, and the blog OMG Ubuntu notes it has faster start-up times for its built-in PDF viewer and also lower CPU usage when viewing large JPEG images: In Firefox 156, the browser now uses libjpeg-turbo's IDCT scaling to reduce images during decoding, rather than loading a full-size image into memory and then shrinking it. Benchmarks from the bug report show up to 20Ã-- less memory used during very large image loa",
+      "summary": "Firefox 156 is the second release since Mozilla moved to a twice-monthly release schedule, and the blog OMG Ubuntu notes it has faster start-up times for its built-in PDF viewer and also lower CPU usage when viewing large JPEG images: In Firefox 156, the browser now uses libjpeg-turbo's IDCT scaling to reduce images during decoding, rather than loading a full-size image into memory and then shrinking it. Benchmarks from the bug report show up to 20x less memory used during very large image loadi",
       "published": "2026-09-16T13:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Scaling Golang CI by Replacing actions/setup-go",
-      "url": "https://www.cloudx.ai/posts/setup-go",
-      "summary": "42 points · 5 comments",
-      "published": "2026-09-16T13:02:14+00:00"
     },
     {
       "source": "REDDIT",
@@ -160,13 +258,6 @@
       "published": "2026-09-16T12:11:19+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
-      "summary": "1 points · 0 comments",
-      "published": "2026-09-16T12:01:09+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "How do URL shorteners prevent their domain from getting blacklisted?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1whv73t/how_do_url_shorteners_prevent_their_domain_from/",
@@ -182,10 +273,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
-      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
-      "summary": "166 points · 44 comments",
-      "published": "2026-09-16T11:49:40+00:00"
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "url": "https://gultsch.social/@daniel/117280438824908947",
+      "summary": "307 points · 294 comments",
+      "published": "2026-09-16T11:19:11+00:00"
     },
     {
       "source": "OSINT",
@@ -217,10 +308,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Salesforce Global Outage",
-      "url": "https://status.salesforce.com/products/all",
-      "summary": "215 points · 122 comments",
-      "published": "2026-09-16T10:37:08+00:00"
+      "title": "Learning Programming in an Age of LLMs",
+      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+      "summary": "205 points · 150 comments",
+      "published": "2026-09-16T09:12:34+00:00"
     },
     {
       "source": "OSINT",
@@ -228,13 +319,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
       "summary": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
       "published": "2026-09-16T09:10:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CARTE & OAOTC",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whrwuj/carte_oaotc/",
-      "summary": "I can't decide what I should chose. My company pays me a cert for cloud pentesting. Since I did two sans certs in the past and I'm not convinced by their teaching style, I wanted to do something more hands on. Now I have to decide between the two. I did crte in the past and was quite happy with altered security. Has anyone done one of the two and can help me with my decision? submitted by /u/Capable-Audience6760 [link] [comments]",
-      "published": "2026-09-16T09:03:43+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -247,15 +331,8 @@
       "source": "HACKER NEWS",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "summary": "349 points · 114 comments",
+      "summary": "459 points · 164 comments",
       "published": "2026-09-16T08:08:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Looking for Advice on OffSec",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whq4bl/looking_for_advice_on_offsec/",
-      "summary": "Hey everyone, I wanted to ask for some advice. I currently have around 1 year of professional experience in cybersecurity, mainly doing web and mobile application penetration testing. I'm fairly comfortable with Android pentesting, but I feel like I need to sharpen my web application pentesting skills significantly. I also want to start learning AWS/cloud pentesting, server/infrastructure pentesting, Active Directory, and eventually move into offensive security and red teaming. My long-term goal",
-      "published": "2026-09-16T07:18:02+00:00"
     },
     {
       "source": "OSINT",
@@ -286,32 +363,11 @@
       "published": "2026-09-16T05:11:51+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What to Study under Cybersecurity Subjects?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whn30z/what_to_study_under_cybersecurity_subjects/",
-      "summary": "After reading multiple roadmaps, I noticed some of the topics for persistent like networking ,operating systems,Linux - these very broad topics, and the requirement is different for different job roles I want to know where to study, what is the level of knowledge required for entry level cybersecurity job. Somewhere I read that Jeremy IT lab is more than sufficient for networking, so I’m keeping it as a resource to learn networking, but I would like to know more resources or sub-topics for other",
-      "published": "2026-09-16T04:32:55+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Ubuntu's 'Rust-ification' Hits New Milestone: Coreutils Migration is Complete",
       "url": "https://news.slashdot.org/story/26/09/15/2115242/ubuntus-rust-ification-hits-new-milestone-coreutils-migration-is-complete?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"Ubuntu has managed to do away with GNU Core Utilities in its default stack,\" reports the blog It's FOSS. The last three utilities — cp, mv and rm — have been moved to versions from the uutils project (which reimplements utilities in Rust). Everything else, from ls and cat to chmod and du, made that jump in earlier releases... Canonical started \"oxidizing\" Ubuntu last year, and Ubuntu 25.10 became the first release to ship [ the uutils project's] coreutils as the default. That release also made ",
       "published": "2026-09-16T04:04:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Breaking Down Appsec Part 4: Following the Trail (Taint analysis)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whkvk2/breaking_down_appsec_part_4_following_the_trail/",
-      "summary": "I started a blog series to provide free insights into appsec. It’s mainly to breakdown what application security is all about and it’s mainly targeted towards beginners and startups, so take it as you will. I want to teach every one interested in appsec my perspective on it from my experience in big tech. I talked about the semantic problem of authorization last time. In this post, I talk about how you can know what makes an application \"hackable\" through something called taint analysis with a c",
-      "published": "2026-09-16T02:44:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Apple Reference Image: A New Approach for Verified Photography",
-      "url": "https://security.apple.com/blog/apple-reference-image/",
-      "summary": "415 points · 266 comments",
-      "published": "2026-09-16T02:07:31+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -336,10 +392,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "summary": "1683 points · 459 comments",
-      "published": "2026-09-15T19:25:03+00:00"
+      "title": "The Siberian Ice Maiden and the Scythian World",
+      "url": "https://patrickwyman.substack.com/p/the-siberian-ice-maiden-and-the-scythian",
+      "summary": "22 points · 0 comments",
+      "published": "2026-09-15T19:09:09+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -356,20 +412,6 @@
       "published": "2026-09-15T18:54:14+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "An update on Wayback Machine access",
-      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": "643 points · 340 comments",
-      "published": "2026-09-15T17:52:18+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Revolut Hackers Used Infostealers for Elaborate Social Engineering",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wh72zu/revolut_hackers_used_infostealers_for_elaborate/",
-      "summary": "According to the information gathered, the attack was a sophisticated blend of technical compromise and social engineering: Initial Access via Infostealers: The hacker gained access to government employee accounts using an infostealer. After gaining entry to an employee’s email, they would log in, add a recovery email under their control, begin logging activities, and silently monitor communications. Images from the campaign clearly show correspondence with Revolut was conducted using ‘pec.inter",
-      "published": "2026-09-15T17:36:10+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
       "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
@@ -384,13 +426,6 @@
       "published": "2026-09-15T15:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-      "published": "2026-09-15T14:45:10+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Cops Searched Thousands of Flock Cameras for Reasons of 'LMAO,' 'IDK,' 'Hehe,' And 'Asdfg'",
       "url": "https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -398,39 +433,25 @@
       "published": "2026-09-15T14:34:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-      "url": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-      "summary": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting can help teams close exposure gaps before attackers arrive. [...]",
-      "published": "2026-09-15T13:45:54+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "How Big Are Factorials?",
+      "title": "How big are factorials?",
       "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
-      "summary": "27 points · 13 comments",
+      "summary": "61 points · 23 comments",
       "published": "2026-09-15T13:25:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "1858 points · 221 comments",
+      "summary": "1950 points · 230 comments",
       "published": "2026-09-15T12:31:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tell the speakers that you liked their talks",
       "url": "https://ohhelloana.blog/tell-the-speakers/",
-      "summary": "76 points · 18 comments",
+      "summary": "207 points · 54 comments",
       "published": "2026-09-15T11:28:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
-      "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
-      "summary": "7 points · 0 comments",
-      "published": "2026-09-15T10:14:29+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -468,25 +489,11 @@
       "published": "2026-09-14T16:04:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Union Contract with Microsoft Ratified by 1,900 Blizzard Developers and Workers",
-      "url": "https://games.slashdot.org/story/26/09/14/0153249/union-contract-with-microsoft-ratified-by-1900-blizzard-developers-and-workers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Nearly 1900 Blizzard Entertainment workers \"voted to ratify their first union contract with parent company Microsoft after over two years of bargaining,\" reports Kotaku, \"consolidating Blizzard's many smaller unions into three larger bargaining units.\" The workers now gain new protections \"on issues such as generative AI, crediting, remote work, and layoffs.\" [The contract] acknowledges that AI tools \"may be useful in the game development process to support human judgment and creativity and that",
-      "published": "2026-09-14T11:34:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wfnsgs/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-09-14T00:00:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Douglas Adams and the exterminated Doctor Who adventure",
-      "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-      "summary": "61 points · 39 comments",
-      "published": "2026-09-13T21:49:19+00:00"
     },
     {
       "source": "OSINT",
@@ -550,13 +557,6 @@
       "url": "https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/",
       "summary": "Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its record-smashing Patch Tuesday release last month. Microsoft attributed the burgeoning patch counts to vulnerability discoveries aided by artificial intelligence.",
       "published": "2026-07-14T19:22:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
-      "url": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
-      "published": "2026-07-13T15:03:28+00:00"
     }
   ]
 }
