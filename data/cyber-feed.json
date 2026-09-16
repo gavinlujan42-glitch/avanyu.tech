@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T11:58:35.855804+00:00",
+  "updated": "2026-09-16T16:38:31.709230+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,165 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "BragJack - $20K in bounty rewards from Anthropic, Perplexity, Google, Microsoft and Opera",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi1z3o/bragjack_20k_in_bounty_rewards_from_anthropic/",
+      "summary": "Hi folks, my name is Gal Weizman, I do browser security research. Excited to finally share my recent work, where I managed to hack Chrome, Comet, Edge, Opera and Claude in Chrome using one single browser extension 2 CVEs & $20,000 in bounties 🙂 Hope you like it! https://forever.security/blog/bragjack-attack-hijacks-every-browser-agent submitted by /u/Content-Winter5328 [link] [comments]",
+      "published": "2026-09-16T16:23:18+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "The Google Play app review process now regularly takes longer than a week",
-      "url": "https://gultsch.social/@daniel/117280438824908947",
-      "summary": "21 points · 6 comments",
-      "published": "2026-09-16T11:19:11+00:00"
+      "title": "Code Is Crap",
+      "url": "https://testing.googleblog.com/2011/02/this-code-is-crap.html",
+      "summary": "23 points · 11 comments",
+      "published": "2026-09-16T16:13:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Small Programming Tricks",
+      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+      "summary": "44 points · 14 comments",
+      "published": "2026-09-16T15:56:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+      "summary": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation. The vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: 9.3), which can allow an unauthenticated remote attacker to execute arbitrary operating system (OS) commands by taking advantage of a hard-coded",
+      "published": "2026-09-16T15:50:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Can we stop with the uptime percentages?",
+      "url": "https://blog.jim-nielsen.com/2026/stop-with-the-uptime-percentage/",
+      "summary": "46 points · 35 comments",
+      "published": "2026-09-16T15:40:04+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+      "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+      "summary": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky. The cybersecurity vendor said it has identified attacks mounted by NightEagle (aka APT-Q-95), a threat actor known to be active since at least 2023, that involve new techniques for persistence and lateral movement.",
+      "published": "2026-09-16T15:27:49+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "6 months of experience — assigned to develop PoCs for new Chrome RCEs and Android CVEs. Is this too difficult?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1whztxm/6_months_of_experience_assigned_to_develop_pocs/",
+      "summary": "Hello everyone, I recently joined a company and have around 6 months of experience in cybersecurity. My senior assigned me a task to collect and maintain public PoCs for Android and browser RCE CVEs, and also develop PoCs for vulnerabilities that don't have a public PoC available. I'm not really sure how difficult this type of work is or whether it's reasonable for someone with less than a year of experience. I've never done this kind of vulnerability research/exploit development professionally ",
+      "published": "2026-09-16T15:05:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Security+ SY0-701",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1whzh83/security_sy0701/",
+      "summary": "Hello all, I am getting ready to start the study of Security +, and hopefully pass the exam in 4 weeks time. Does anyone have a pointers, study references, materials, or just helpful tips to help me along the way? It would be very much appreciated. I did use professor messer so far. As well as some other reference sheets I found online. Thank you in advance! submitted by /u/Sanch_Is_King26 [link] [comments]",
+      "published": "2026-09-16T14:53:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+      "url": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+      "summary": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claude in Chrome extension. Once the extension was installed, it could access each product's built-in AI with a single click. On Comet, Edge,",
+      "published": "2026-09-16T14:36:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The true cost of a ransomware attack, with and without BCDR",
+      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+      "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
+      "published": "2026-09-16T14:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "url": "https://arxiv.org/abs/2609.14858",
+      "summary": "89 points · 23 comments",
+      "published": "2026-09-16T13:44:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the",
+      "published": "2026-09-16T13:37:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hackers Got Inside a Flock Camera. Its Data Shows How the System Works",
+      "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+      "summary": "237 points · 107 comments",
+      "published": "2026-09-16T13:18:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install. Yuval Moravchick, who leads",
+      "published": "2026-09-16T13:14:05+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
+      "url": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Firefox 156 is the second release since Mozilla moved to a twice-monthly release schedule, and the blog OMG Ubuntu notes it has faster start-up times for its built-in PDF viewer and also lower CPU usage when viewing large JPEG images: In Firefox 156, the browser now uses libjpeg-turbo's IDCT scaling to reduce images during decoding, rather than loading a full-size image into memory and then shrinking it. Benchmarks from the bug report show up to 20Ã-- less memory used during very large image loa",
+      "published": "2026-09-16T13:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Scaling Golang CI by Replacing actions/setup-go",
+      "url": "https://www.cloudx.ai/posts/setup-go",
+      "summary": "42 points · 5 comments",
+      "published": "2026-09-16T13:02:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What are some essential tools for Cybersecurity stack?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1whwf30/what_are_some_essential_tools_for_cybersecurity/",
+      "summary": "Hey everyone, I recently got appointed as the IT guy “in charge of cyber” for an org of approx 600 users and endpoints. I’ve been told we have drastically underspent on our Cyber budget for several years and am basically being told we need to spend it. The problem is while I’ve done some work in this field before my background is more sys admin. What are some tools you think are really important if you were building out a competent cyber function? If you can give examples of names that would als",
+      "published": "2026-09-16T12:54:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+      "published": "2026-09-16T12:16:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+      "published": "2026-09-16T12:11:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Kyber (YC W23) Is Hiring a Forward Deployed Engineer",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/eturrAR-forward-deployed-engineer",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-16T12:01:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do URL shorteners prevent their domain from getting blacklisted?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1whv73t/how_do_url_shorteners_prevent_their_domain_from/",
+      "summary": "I run a URL-shortening service, and we’re constantly dealing with malicious users creating phishing/spam links, which eventually gets our domain blacklisted by security providers. We already block abusive users, maintain our own blacklist, scan URLs, and use an interstitial warning page for free users. But we still can’t catch everything, and forcing the warning page everywhere hurts UX. For those running URL shorteners: what’s the most effective solution you’ve implemented to prevent domain-lev",
+      "published": "2026-09-16T12:00:08+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud",
+      "published": "2026-09-16T11:58:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Original Sony PlayStation 2 security chip 'broken wide open' after 26 years",
+      "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+      "summary": "166 points · 44 comments",
+      "published": "2026-09-16T11:49:40+00:00"
     },
     {
       "source": "OSINT",
@@ -65,29 +219,8 @@
       "source": "HACKER NEWS",
       "title": "Salesforce Global Outage",
       "url": "https://status.salesforce.com/products/all",
-      "summary": "56 points · 34 comments",
+      "summary": "215 points · 122 comments",
       "published": "2026-09-16T10:37:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "EU chief opens door for Canada to become 'associate member'",
-      "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-      "summary": "256 points · 232 comments",
-      "published": "2026-09-16T09:54:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "help with gpu",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whsc63/help_with_gpu/",
-      "summary": "iam getting a laptop for cybersecurity and hacking, i know that cpu and ram are the most important but the gpu people say just important and other says just get a vps,so now i have option 1:dropping the gpu,dave money,carry a ite machine for collage(i will also use it for collage) or option 2:getting a gpu,spend more money,more weight carried around the worst part that my budget is limited and the prices are high and iam in a \"developing \" country so i need all kinds of help submitted by /u/Omar",
-      "published": "2026-09-16T09:28:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Learning Programming in an Age of LLMs",
-      "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
-      "summary": "80 points · 50 comments",
-      "published": "2026-09-16T09:12:34+00:00"
     },
     {
       "source": "OSINT",
@@ -111,17 +244,10 @@
       "published": "2026-09-16T08:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Gave Hotspot whole travelling in train",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whr4vz/gave_hotspot_whole_travelling_in_train/",
-      "summary": "If he used my hotspot for any illegal stuff will I be in trouble and wht all factors would prove my innocence submitted by /u/Muted-Bedroom5975 [link] [comments]",
-      "published": "2026-09-16T08:17:11+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "summary": "110 points · 32 comments",
+      "summary": "349 points · 114 comments",
       "published": "2026-09-16T08:08:57+00:00"
     },
     {
@@ -144,13 +270,6 @@
       "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
       "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said. The WordPress security company said it has blocked over",
       "published": "2026-09-16T05:48:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A software thing I built: GPS on a 25MHz 486-SX",
-      "url": "https://forum.vcfed.org/index.php?threads/a-software-thing-i-built-gps-on-a-25mhz-486-sx.1258966/",
-      "summary": "36 points · 12 comments",
-      "published": "2026-09-16T05:43:44+00:00"
     },
     {
       "source": "OSINT",
@@ -181,13 +300,6 @@
       "published": "2026-09-16T04:04:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
-      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
-      "summary": "91 points · 23 comments",
-      "published": "2026-09-16T02:46:06+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Breaking Down Appsec Part 4: Following the Trail (Taint analysis)",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1whkvk2/breaking_down_appsec_part_4_following_the_trail/",
@@ -198,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Apple Reference Image: A New Approach for Verified Photography",
       "url": "https://security.apple.com/blog/apple-reference-image/",
-      "summary": "302 points · 214 comments",
+      "summary": "415 points · 266 comments",
       "published": "2026-09-16T02:07:31+00:00"
     },
     {
@@ -209,25 +321,11 @@
       "published": "2026-09-15T23:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
-      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "summary": "139 points · 41 comments",
-      "published": "2026-09-15T22:50:55+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
       "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
       "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
       "published": "2026-09-15T21:37:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
-      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "summary": "236 points · 83 comments",
-      "published": "2026-09-15T21:07:47+00:00"
     },
     {
       "source": "OSINT",
@@ -237,24 +335,10 @@
       "published": "2026-09-15T20:34:15+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Is your team preparing or ignoring the NIST-mandated PQC migration policies?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whb896/is_your_team_preparing_or_ignoring_the/",
-      "summary": "Hi! I'm a high school student, interested in understanding the practical implementation steps necessary for Post-Quantum Cryptography migration standards across enterprise applications. I've been reading that many developers are unaware about these quantum-resistant encryption policies and want to know the ground-reality. Are developers asked to audit software dependencies from legacy architecture or create a CBOM? Do network and system admins test how large PQC keys affect enterprise firewalls ",
-      "published": "2026-09-15T20:03:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-      "url": "https://codyho.dev/blog/gpu-driver/",
-      "summary": "356 points · 208 comments",
-      "published": "2026-09-15T19:30:03+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "summary": "1486 points · 424 comments",
+      "summary": "1683 points · 459 comments",
       "published": "2026-09-15T19:25:03+00:00"
     },
     {
@@ -275,15 +359,8 @@
       "source": "HACKER NEWS",
       "title": "An update on Wayback Machine access",
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": "566 points · 306 comments",
+      "summary": "643 points · 340 comments",
       "published": "2026-09-15T17:52:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "summary": "431 points · 286 comments",
-      "published": "2026-09-15T17:38:18+00:00"
     },
     {
       "source": "REDDIT",
@@ -298,20 +375,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
       "summary": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
       "published": "2026-09-15T16:40:14+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-      "url": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-      "summary": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record",
-      "published": "2026-09-15T16:29:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-      "url": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-      "summary": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems. The emerging malware family, codenamed BambooToken, is assessed to be active since at least February 2023 and put to use in attacks targeting organizations across Asia and South America.",
-      "published": "2026-09-15T15:23:19+00:00"
     },
     {
       "source": "OSINT",
@@ -343,45 +406,31 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "How Big Are Factorials?",
+      "url": "https://eli.thegreenplace.net/2026/how-big-are-factorials/",
+      "summary": "27 points · 13 comments",
+      "published": "2026-09-15T13:25:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "1712 points · 211 comments",
+      "summary": "1858 points · 221 comments",
       "published": "2026-09-15T12:31:10+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
-      "published": "2026-09-15T12:16:32+00:00"
+      "source": "HACKER NEWS",
+      "title": "Tell the speakers that you liked their talks",
+      "url": "https://ohhelloana.blog/tell-the-speakers/",
+      "summary": "76 points · 18 comments",
+      "published": "2026-09-15T11:28:19+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgybus/root_rce_zeroday_in_cisco_secure_email_gateway/",
-      "summary": "submitted by /u/sunychoudhary [link] [comments]",
-      "published": "2026-09-15T11:57:59+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-      "url": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-      "summary": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gaining initial access. In one instance highlighted by the cloud security company, the threat actor pivoted from a vulnerable Marimo notebook to an SSH",
-      "published": "2026-09-15T11:52:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-      "url": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-      "summary": "Introduction Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more mature organizations, this testing happens continuously rather than as a one-off exercise. But no matter how much you validate against these",
-      "published": "2026-09-15T11:26:36+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-      "url": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-      "summary": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud credentials, configurations from Amazon Web Services (AWS) and Microsoft Azure instances, and infrastructure state files, per F5 Labs. The",
-      "published": "2026-09-15T11:12:32+00:00"
+      "source": "HACKER NEWS",
+      "title": "Measuring Gauss-Seidel loop-carried dependency and fixing it via loop unrolling",
+      "url": "https://loiseaujc.github.io/posts/blog-title/make_gauss_seidel_great_again.html",
+      "summary": "7 points · 0 comments",
+      "published": "2026-09-15T10:14:29+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -389,27 +438,6 @@
       "url": "https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The New York Post wrote that OpenAI \"stunned the mathematics world\" last week when it announced its AI model \"cracked a legendary math problem left unsolved for nearly a century in just 88 hours.\" But a New York University professor \"has come forward alleging OpenAI may have copied his work after asking him to collaborate — with one of the company's scientists allegedly warning he might 'ruin his career' if he refused.\" [P]rofessor Tristan Buckmaster, a British-Australian researcher who trained ",
       "published": "2026-09-15T10:04:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-      "url": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-      "summary": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
-      "published": "2026-09-15T09:50:25+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "summary": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-      "published": "2026-09-15T08:40:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-      "url": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-      "summary": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14. On such servers, many customers' sites run on a single machine, and an attacker with one of those hosting accounts could exploit the flaw to access or alter other sites and the server itself,",
-      "published": "2026-09-15T06:52:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -424,20 +452,6 @@
       "url": "https://games.slashdot.org/story/26/09/14/2019212/reservations-go-live-for-valves-steam-frame-vr-headset-an-experiment-in-progress?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Reservations are now live for Valve's \"Steam Frame\" VR headset (with its Linux-based SteamOS and an ARM CPU). \"It starts at $1,059 for 256GB or $1,299 for 1TB,\" reports CNET, \"and every purchase includes a copy of Half-Life: Alyx if you don't already own it.\" Reservations are open through Sept. 17 at 10 a.m. PT, \"with customers randomly assigned a place in line after the reservation window closes.\" CNET's editor at large even argues that the Steam Frame \"isn't necessarily the future of XR, as mu",
       "published": "2026-09-15T01:04:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Steam vulnerability on Windows lets any normal user silently escalate to SYSTEM",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgld39/steam_vulnerability_on_windows_lets_any_normal/",
-      "summary": "A newly disclosed local privilege escalation (LPE) in the Steam Client Service affects Windows 10 and 11. Any standard, unprivileged user can get a SYSTEM-level shell — no admin rights, no UAC prompt, no game launch required. The root cause is a signature coverage gap in Steam's installation verification. The exploit passes a caller-controlled path that Valve's signed VDF never actually covers, letting you run code as SYSTEM without touching or forging the signature at all. Tested on Steam versi",
-      "published": "2026-09-15T00:42:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Doing Everyone Else's Job",
-      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
-      "summary": "99 points · 48 comments",
-      "published": "2026-09-15T00:01:31+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -461,20 +475,6 @@
       "published": "2026-09-14T11:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I made a flight simulator, except you're just a passenger",
-      "url": "https://inflightsimulator.com",
-      "summary": "233 points · 127 comments",
-      "published": "2026-09-14T09:08:56+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Should US Open-Weight AI Labs 'Distill' Frontier Models Too?",
-      "url": "https://news.slashdot.org/story/26/09/13/2334206/should-us-open-weight-ai-labs-distill-frontier-models-too?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Silicon Valley giants and national security experts \"are calling for action against Chinese companies engaged in model distillation,\" reports CNBC. But \"I would do nothing,\" says Y Combinator CEO Garry Tan. \"We could argue that there should be an American distillation regime.\" Distillation is the process of using the outputs of a more capable AI model to train a smaller or less capable one, sometimes illicitly... Anthropic has accused Chinese companies such as Moonshot AI, DeepSeek, and MiniMax ",
-      "published": "2026-09-14T07:04:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wfnsgs/mentorship_monday_post_all_career_education_and/",
@@ -485,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Douglas Adams and the exterminated Doctor Who adventure",
       "url": "https://www.bbc.co.uk/news/articles/c8jdp38z4jgo",
-      "summary": "11 points · 3 comments",
+      "summary": "61 points · 39 comments",
       "published": "2026-09-13T21:49:19+00:00"
     },
     {
