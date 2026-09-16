@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T01:15:08.216633+00:00",
+  "updated": "2026-09-16T06:35:09.560662+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,76 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said. The WordPress security company said it has blocked over",
+      "published": "2026-09-16T05:48:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw. \"JWT authentication",
+      "published": "2026-09-16T05:18:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Best Textbooks for Cybersecurity?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1whntef/best_textbooks_for_cybersecurity/",
+      "summary": "What are some of the best textbooks (physical or digital) to help learn about cybersecurity. submitted by /u/Training_Top1463 [link] [comments]",
+      "published": "2026-09-16T05:11:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Datamimic – don't let your coding agent invent its own test world",
+      "url": "https://github.com/rapiddweller/datamimic",
+      "summary": "17 points · 2 comments",
+      "published": "2026-09-16T04:58:36+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What to Study under Cybersecurity Subjects?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1whn30z/what_to_study_under_cybersecurity_subjects/",
+      "summary": "After reading multiple roadmaps, I noticed some of the topics for persistent like networking ,operating systems,Linux - these very broad topics, and the requirement is different for different job roles I want to know where to study, what is the level of knowledge required for entry level cybersecurity job. Somewhere I read that Jeremy IT lab is more than sufficient for networking, so I’m keeping it as a resource to learn networking, but I would like to know more resources or sub-topics for other",
+      "published": "2026-09-16T04:32:55+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Ubuntu's 'Rust-ification' Hits New Milestone: Coreutils Migration is Complete",
+      "url": "https://news.slashdot.org/story/26/09/15/2115242/ubuntus-rust-ification-hits-new-milestone-coreutils-migration-is-complete?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Ubuntu has managed to do away with GNU Core Utilities in its default stack,\" reports the blog It's FOSS. The last three utilities — cp, mv and rm — have been moved to versions from the uutils project (which reimplements utilities in Rust). Everything else, from ls and cat to chmod and du, made that jump in earlier releases... Canonical started \"oxidizing\" Ubuntu last year, and Ubuntu 25.10 became the first release to ship [ the uutils project's] coreutils as the default. That release also made ",
+      "published": "2026-09-16T04:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Negativland, Culture Jamming, and the Art of Making Something New",
+      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "summary": "66 points · 17 comments",
+      "published": "2026-09-16T02:46:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Breaking Down Appsec Part 4: Following the Trail (Taint analysis)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1whkvk2/breaking_down_appsec_part_4_following_the_trail/",
+      "summary": "I started a blog series to provide free insights into appsec. It’s mainly to breakdown what application security is all about and it’s mainly targeted towards beginners and startups, so take it as you will. I want to teach every one interested in appsec my perspective on it from my experience in big tech. I talked about the semantic problem of authorization last time. In this post, I talk about how you can know what makes an application \"hackable\" through something called taint analysis with a c",
+      "published": "2026-09-16T02:44:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "summary": "51 points · 32 comments",
+      "published": "2026-09-16T02:25:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple Reference Image: A New Approach for Verified Photography",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "summary": "156 points · 91 comments",
+      "published": "2026-09-16T02:07:31+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "While Hollywood Fears an AI Future, China's Film Industry is Embracing It",
       "url": "https://entertainment.slashdot.org/story/26/09/14/0115231/while-hollywood-fears-an-ai-future-chinas-film-industry-is-embracing-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -37,14 +107,14 @@
       "source": "HACKER NEWS",
       "title": "Saving Jet Fuel",
       "url": "https://tech.marksblogg.com/scikit-decide-openap-optimal-flight-planning.html",
-      "summary": "22 points · 13 comments",
+      "summary": "78 points · 33 comments",
       "published": "2026-09-15T23:17:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
       "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
-      "summary": "14 points · 1 comments",
+      "summary": "98 points · 21 comments",
       "published": "2026-09-15T22:50:55+00:00"
     },
     {
@@ -58,14 +128,14 @@
       "source": "HACKER NEWS",
       "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
       "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
-      "summary": "125 points · 39 comments",
+      "summary": "183 points · 61 comments",
       "published": "2026-09-15T21:07:47+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Jean-Pierre Serre is 100 years old today",
+      "title": "Jean-Pierre Serre turns 100",
       "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Serre/",
-      "summary": "85 points · 13 comments",
+      "summary": "128 points · 21 comments",
       "published": "2026-09-15T20:57:18+00:00"
     },
     {
@@ -86,28 +156,21 @@
       "source": "HACKER NEWS",
       "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
       "url": "https://codyho.dev/blog/gpu-driver/",
-      "summary": "149 points · 89 comments",
+      "summary": "247 points · 152 comments",
       "published": "2026-09-15T19:30:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WangNet – 1.8 MB, zero-dependency Numberwang adjudication in 11 languages",
-      "url": "https://github.com/GraafHenk/numberwang",
-      "summary": "102 points · 42 comments",
-      "published": "2026-09-15T19:27:35+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Introducing System One Models and Jev",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "summary": "729 points · 246 comments",
+      "summary": "1140 points · 336 comments",
       "published": "2026-09-15T19:25:03+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Learning to solve hard problems in RL for LLMs by never giving up",
       "url": "https://mnoukhov.github.io/posts/ngu/",
-      "summary": "33 points · 0 comments",
+      "summary": "79 points · 0 comments",
       "published": "2026-09-15T19:07:38+00:00"
     },
     {
@@ -126,38 +189,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Chopping up books when they're physically too big",
-      "url": "https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html",
-      "summary": "115 points · 114 comments",
-      "published": "2026-09-15T18:45:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "title": "We got admin access to Baseten's production GitHub",
       "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-      "summary": "209 points · 111 comments",
+      "summary": "264 points · 142 comments",
       "published": "2026-09-15T18:11:24+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "An Update on Wayback Machine Access",
+      "title": "An update on Wayback Machine access",
       "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-      "summary": "372 points · 209 comments",
+      "summary": "489 points · 251 comments",
       "published": "2026-09-15T17:52:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "summary": "290 points · 187 comments",
+      "summary": "375 points · 243 comments",
       "published": "2026-09-15T17:38:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "summary": "134 points · 98 comments",
-      "published": "2026-09-15T17:37:12+00:00"
     },
     {
       "source": "REDDIT",
@@ -216,13 +265,6 @@
       "published": "2026-09-15T13:45:54+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-      "url": "https://withcapsule.app/",
-      "summary": "279 points · 118 comments",
-      "published": "2026-09-15T13:31:40+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "AI RMF and NIST CSF aren't merged, Is org. maturity scores based on CSF alone are still meaningful?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wgzm6n/ai_rmf_and_nist_csf_arent_merged_is_org_maturity/",
@@ -233,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "1287 points · 179 comments",
+      "summary": "1510 points · 193 comments",
       "published": "2026-09-15T12:31:10+00:00"
     },
     {
@@ -242,13 +284,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
       "published": "2026-09-15T12:16:32+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "A problem with a shared hosting account",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wgynip/a_problem_with_a_shared_hosting_account/",
-      "summary": "Hi there! Has anyone encountered a web-hosting compromise where the attacker gained access months before the main malicious activity became visible? I'm investigating a compromised shared-hosting/cPanel account and trying to understand the timeline. The pattern I'm seeing is roughly this: possible initial compromise in January relatively little visible activity for several months increasing signs of compromise later in the year much more aggressive activity in September some activity appears to ",
-      "published": "2026-09-15T12:12:17+00:00"
     },
     {
       "source": "REDDIT",
@@ -284,13 +319,6 @@
       "url": "https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The New York Post wrote that OpenAI \"stunned the mathematics world\" last week when it announced its AI model \"cracked a legendary math problem left unsolved for nearly a century in just 88 hours.\" But a New York University professor \"has come forward alleging OpenAI may have copied his work after asking him to collaborate — with one of the company's scientists allegedly warning he might 'ruin his career' if he refused.\" [P]rofessor Tristan Buckmaster, a British-Australian researcher who trained ",
       "published": "2026-09-15T10:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "summary": "302 points · 311 comments",
-      "published": "2026-09-15T10:00:16+00:00"
     },
     {
       "source": "OSINT",
@@ -356,18 +384,18 @@
       "published": "2026-09-15T00:42:18+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Doing Everyone Else's Job",
+      "url": "https://yosefk.com/blog/doing-everyone-elses-job.html",
+      "summary": "22 points · 15 comments",
+      "published": "2026-09-15T00:01:31+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wgj77z/hackers_target_exposed_vite_dev_servers_to_steal/",
       "summary": "submitted by /u/AsterPrivacy [link] [comments]",
       "published": "2026-09-14T23:07:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "wtf did I get into...standing up shadow AI detection from nothing...anyone else doing this?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wghgug/wtf_did_i_get_intostanding_up_shadow_ai_detection/",
-      "summary": "Four weeks into a new role and I'd rather be honest about where I'm at than pretend, I've got it figured out. Three years as a consultant in the Microsoft security space before this but mostly with Microsoft Purview and Entra ID/Active Directory. Never done shadow IT, never done AI security/shadow AI. Now I'm on a brand new 2–3-person team and I own shadow AI detection on the M365/Azure side. The actual job: get real access into our SIEM and our data-security platform, build relationships with t",
-      "published": "2026-09-14T21:57:12+00:00"
     },
     {
       "source": "OSINT",
@@ -405,32 +433,11 @@
       "published": "2026-09-14T18:02:13+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-      "url": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-      "summary": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the intrusion by examining a server the attacker had left open on the internet, which held the attacker's own tools and a list of",
-      "published": "2026-09-14T18:01:49+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-      "url": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-      "summary": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran only when someone opened the export file in a web browser. It could then copy every message in that file to",
-      "published": "2026-09-14T17:58:16+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "No Rolling Power Outages for California Since 2020 - Thanks to 17,000 MW of New Battery Storage",
       "url": "https://yro.slashdot.org/story/26/09/14/0446243/no-rolling-power-outages-for-california-since-2020---thanks-to-17000-mw-of-new-battery-storage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"Californians just made it through the hottest August on record without having to endure any rolling power outages,\" reports the Los Angeles Times. In fact, the state hasn't implemented rotating power outages since 2020. Because \"Over the last few years, California has quietly but dramatically increased the resiliency of its electrical grid through a significant expansion in battery energy storage.\" These batteries hold onto solar energy captured during the day, so it can be sent to the grid as ",
       "published": "2026-09-14T16:04:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "HBO Max ads on a compromised Reddit account exposed a massive PasteSwitch ClickFix operation",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wg5s0u/hbo_max_ads_on_a_compromised_reddit_account/",
-      "summary": "In September 2026, the cybersecurity community uncovered a massive, highly coordinated malvertising campaign leveraging the official, verified HBO Max Reddit account ( u/hbomax ). Over a frantic 48-hour period, the compromised account pushed 108 distinct “ClickFix” advertisements to users across the platform. submitted by /u/Malwarebeasts [link] [comments]",
-      "published": "2026-09-14T14:58:49+00:00"
     },
     {
       "source": "REDDIT",
@@ -447,18 +454,18 @@
       "published": "2026-09-14T11:34:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Show HN: I made a flight simulator, except you're just a passenger",
+      "url": "https://inflightsimulator.com",
+      "summary": "106 points · 51 comments",
+      "published": "2026-09-14T09:08:56+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Should US Open-Weight AI Labs 'Distill' Frontier Models Too?",
       "url": "https://news.slashdot.org/story/26/09/13/2334206/should-us-open-weight-ai-labs-distill-frontier-models-too?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Silicon Valley giants and national security experts \"are calling for action against Chinese companies engaged in model distillation,\" reports CNBC. But \"I would do nothing,\" says Y Combinator CEO Garry Tan. \"We could argue that there should be an American distillation regime.\" Distillation is the process of using the outputs of a more capable AI model to train a smaller or less capable one, sometimes illicitly... Anthropic has accused Chinese companies such as Moonshot AI, DeepSeek, and MiniMax ",
       "published": "2026-09-14T07:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Beauty of Roundabouts",
-      "url": "https://gruhn.me/blog/2026-09-14/",
-      "summary": "5 points · 4 comments",
-      "published": "2026-09-14T05:53:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -475,18 +482,11 @@
       "published": "2026-09-14T00:00:13+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "NASA and IBM Open Source Lunar Mapping Tools",
-      "url": "https://science.slashdot.org/story/26/09/12/182253/nasa-and-ibm-open-source-lunar-mapping-tools?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "NASA and IBM have released an open-source AI model trained on a large collection of lunar observations to help scientists analyze the Moon at scale. \"The NASA-IBM Lunar Foundation Model gives scientists a foundation to explore the Moon at scale, connecting observations across instruments, revealing patterns that are difficult to see in isolation, and providing an open platform the global research community can build on,\" said IBM director of research for Europe, Juan Bernabe-Moreno. The Register",
-      "published": "2026-09-13T22:04:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Sierra digital cameras on the Apple II",
-      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
-      "summary": "17 points · 0 comments",
-      "published": "2026-09-13T07:11:20+00:00"
+      "title": "An interactive world map of the stories cultures have told",
+      "url": "https://originmap.sunnyguha.com/",
+      "summary": "30 points · 0 comments",
+      "published": "2026-09-13T14:09:57+00:00"
     },
     {
       "source": "OSINT",
