@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T11:59:51.575343+00:00",
+  "updated": "2026-09-17T16:45:14.387153+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,18 +27,151 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "hister",
+      "url": "https://github.com/asciimoo/hister",
+      "summary": "9 points · 0 comments",
+      "published": "2026-09-17T16:25:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Die With Me – Claude and Codex rate limits as AIM away messages",
+      "url": "https://diewithme.co/join",
+      "summary": "4 points · 2 comments",
+      "published": "2026-09-17T16:25:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
+      "url": "https://skillsync.com",
+      "summary": "4 points · 0 comments",
+      "published": "2026-09-17T16:22:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Google Certificates Canada",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiy9xk/google_certificates_canada/",
+      "summary": "I’m 27, currently working in the railway industry in British Columbia, Canada. I am looking to transition into cybersecurity. I don’t have a degree and would prefer not to spend years getting one. Will the google certificate land me a job? If not what’s the most realistic path without a degree? Are there any diplomas/certifications you’d recommend ? Is starting in help desk/IT/networking basically necessary? I am also willing to relocate anywhere in Canada, to land a job. Thanks submitted by /u/",
+      "published": "2026-09-17T16:09:42+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Hackers Stole Flock's Camera Software, Revealing How the Company Tracks Cars and People",
+      "url": "https://yro.slashdot.org/story/26/09/17/0517235/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Hackers ripped down a Flock camera above a roadway, made a near-complete copy of the data stored inside it, and shared the files with 404 Media and WIRED,\" according to an article published on both sites. Though Flock has described its system as protected by on-device encryption, \"The hackers were able to copy the camera's storage and recover an encryption key stored on the device, which unlocked videos of thousands of vehicle detections.\" The hackers shared the material with 404 Media and the ",
+      "published": "2026-09-17T16:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Whoisinspace.com/",
+      "url": "https://whoisinspace.com",
+      "summary": "26 points · 6 comments",
+      "published": "2026-09-17T15:59:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Vinix – A modern operating system written in V",
+      "url": "https://vinix-os.org/",
+      "summary": "16 points · 7 comments",
+      "published": "2026-09-17T15:40:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "LLM Classification Is Feature Engineering",
+      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
+      "summary": "30 points · 8 comments",
+      "published": "2026-09-17T15:40:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "CrowdSec Source Code Leak",
+      "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
+      "summary": "23 points · 2 comments",
+      "published": "2026-09-17T15:34:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Rate limits on GitLab.com are changing",
+      "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
+      "summary": "51 points · 37 comments",
+      "published": "2026-09-17T15:33:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "summary": "40 points · 23 comments",
+      "published": "2026-09-17T15:13:30+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+      "url": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+      "summary": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device requesting access can be trusted. [...]",
+      "published": "2026-09-17T14:01:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiu5rg/hackers_hijack_hbo_maxs_reddit_account_to_spread/",
+      "summary": "submitted by /u/beingmodest [link] [comments]",
+      "published": "2026-09-17T13:34:07+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The 3 key enterprise security controls organisations are adopting for MCP",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiu316/the_3_key_enterprise_security_controls/",
+      "summary": "I've worked with about 10 firms over the last year - a mix of financial services + consultancies - and MCP implementation is starting to get out of control. Everyone wants to implement it on their project, but there is not yet sufficient governance in place to manage the risk. Most organisations I've seen manage this right now by exception - they triage AI projects, approve the lowest-risk use cases, and delay the higher risk ones. The obvious design pattern for MCP is to deploy a middleware gat",
+      "published": "2026-09-17T13:30:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiu0hl/dutch_ncsc_critical_check_point_vpn_flaws/",
+      "summary": "submitted by /u/DistinctSpeaker7252 [link] [comments]",
+      "published": "2026-09-17T13:28:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+      "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+      "published": "2026-09-17T13:09:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "summary": "60 points · 30 comments",
+      "published": "2026-09-17T13:01:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
+      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
+      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with",
+      "published": "2026-09-17T12:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "OT Security Consulting Questions",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wis6xi/ot_security_consulting_questions/",
+      "summary": "Hello All, I have been in OT my whole career. I started at the paper mill at 19 as an IT/OT intern then got brought on full time to be an IT/OT technician once I got my associates degree. After a year of that I got promoted to OT network engineer, then my company created an OT security program and then I eventually became Lead OT Security Engineer. Have been a lead OT security engineer for the last 4 years. I am thinking of starting my own independent OT Sec/Net consulting company. I am curious ",
+      "published": "2026-09-17T12:08:36+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
+      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
+      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
+      "published": "2026-09-17T11:50:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wirrcp/active_exploitation_triggers_emergency_patch_for/",
       "summary": "submitted by /u/sunychoudhary [link] [comments]",
       "published": "2026-09-17T11:48:15+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "A fund for student and research projects",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wirhhz/a_fund_for_student_and_research_projects/",
-      "summary": "Hi r/cybersecurity ! We’ve seen a lot of great discussions here, and we wanted to share a program we have that might be useful for some of you. We’ve officially opened submissions for our Cybersecurity Advocacy Fund . It’s a program designed to provide resources and support for students, professors, and university groups working on security awareness projects. Whether you are working on a research paper, a creative awareness campaign, or an early-stage tech concept, we’d like to see if we can he",
-      "published": "2026-09-17T11:34:36+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -55,25 +188,11 @@
       "published": "2026-09-17T11:33:35+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
-      "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
-      "summary": "42 points · 2 comments",
-      "published": "2026-09-17T11:00:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-      "url": "https://news.ycombinator.com/item?id=49738879",
-      "summary": "87 points · 21 comments",
-      "published": "2026-09-17T10:44:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "url": "https://manticoresearch.com/blog/auto-chunking/",
-      "summary": "17 points · 0 comments",
-      "published": "2026-09-17T10:30:52+00:00"
+      "source": "OSINT",
+      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
+      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
+      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one at production. TL;DR Exploitation is now the front door. It starts 31% of breaches (Verizon DBIR",
+      "published": "2026-09-17T10:50:53+00:00"
     },
     {
       "source": "REDDIT",
@@ -81,6 +200,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wipz4y/how_are_regulated_organizations_securely_using/",
       "summary": "The other threads are filled with bots or AI generated reply/ contents, so I'm kicking this off again. Genuinely interested on how (for the sake of this argument) Claude can be run in organizations with sensitive data. We are a Microsoft heavy stack, thus we naturally rolled out Copilot Premium and we are considering Claude Team/Enterprise for the developers. A few issues I keep running into is connectors, which is the advantage of Copilot. It searches through your Outlook, Sharepoint, Onedrive,",
       "published": "2026-09-17T10:14:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
+      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
+      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky is a modular, C++ backdoor,\" ESET security researchers Alexandre Côté Cyr and Romain Dumont said in a technical report shared with The Hacker News",
+      "published": "2026-09-17T10:05:45+00:00"
     },
     {
       "source": "REDDIT",
@@ -91,17 +217,17 @@
     },
     {
       "source": "OSINT",
+      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
+      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
+      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid to improve transparency. \"As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the",
+      "published": "2026-09-17T09:53:38+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
       "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
       "published": "2026-09-17T09:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "summary": "109 points · 76 comments",
-      "published": "2026-09-17T08:27:09+00:00"
     },
     {
       "source": "OSINT",
@@ -114,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "One Year of Sponsored Servo Development",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "137 points · 55 comments",
+      "summary": "280 points · 123 comments",
       "published": "2026-09-17T08:13:54+00:00"
     },
     {
@@ -125,18 +251,25 @@
       "published": "2026-09-17T08:13:31+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Pen Test Partners (PTP) UK, any insights?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1winm5r/pen_test_partners_ptp_uk_any_insights/",
-      "summary": "Recently applied for a job there, I’ve seen some horror stories on Glassdoor and wondered whether it’s true about the company? Within the Infosec field they seem to have a good reputation. Thanks for any insights in advance? submitted by /u/Not-A-B0T_ [link] [comments]",
-      "published": "2026-09-17T07:56:37+00:00"
+      "source": "HACKER NEWS",
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "summary": "216 points · 64 comments",
+      "published": "2026-09-17T08:03:54+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "OpenAI Model Misalignment Report",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework/",
-      "summary": "72 points · 44 comments",
-      "published": "2026-09-17T07:21:19+00:00"
+      "source": "OSINT",
+      "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+      "url": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+      "summary": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (DoH). A sender with no credentials can crash the server process, named, with a single request that carries an invalid SIG",
+      "published": "2026-09-17T08:00:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+      "url": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+      "summary": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly for images from January 2019 or earlier, including the IDs that make up Gyazo image links. Helpfeel said",
+      "published": "2026-09-17T07:30:01+00:00"
     },
     {
       "source": "OSINT",
@@ -153,6 +286,20 @@
       "published": "2026-09-17T07:04:00+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+      "summary": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation. The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote attacker to bypass authentication. \"This vulnerability is due to insufficient authentication control on an API endpoint,\" Cisco said. \"An attacker",
+      "published": "2026-09-17T06:39:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks",
+      "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the site are now greeted by a seizure banner that states - \"This domain has been seized by the",
+      "published": "2026-09-17T05:13:46+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Scripts that help your work or proud of?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wijeqo/scripts_that_help_your_work_or_proud_of/",
@@ -163,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
       "url": "https://ryan.science/blog/keys-not-included",
-      "summary": "198 points · 72 comments",
+      "summary": "252 points · 125 comments",
       "published": "2026-09-17T03:03:23+00:00"
     },
     {
@@ -181,13 +328,6 @@
       "published": "2026-09-17T00:35:48+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Cyber Burnout",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wibjgf/cyber_burnout/",
-      "summary": "Cybersecurity can sometimes be one of the more unpopular functions within an organization. When your role is to identify risk, challenge assumptions, and occasionally slow things down, you’re naturally going to create some friction. I’ve always preferred a “yes, but…” approach over simply saying “no.” If a business team has a legitimate objective, my goal is to understand what they’re trying to accomplish and help them find a way to get there. Constantly being the person raising concerns, explai",
-      "published": "2026-09-16T22:12:10+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "As Part of California's Coast Begins to Crumble, Is the Clock Ticking on Moving Radioactive Waste?",
       "url": "https://hardware.slashdot.org/story/26/09/14/0536219/as-part-of-californias-coast-begins-to-crumble-is-the-clock-ticking-on-moving-radioactive-waste?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -202,13 +342,6 @@
       "published": "2026-09-16T20:39:29+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Backups Aren't Simple",
-      "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "summary": "262 points · 161 comments",
-      "published": "2026-09-16T20:27:16+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
       "url": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
@@ -216,32 +349,11 @@
       "published": "2026-09-16T20:24:55+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "summary": "459 points · 122 comments",
-      "published": "2026-09-16T20:09:18+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Security concerns with new Siri AI?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi6gt7/security_concerns_with_new_siri_ai/",
-      "summary": "Wondering if there’s any security consideration for having Siri AI where the AI has deep access to iOS and your data. Both in a personal and corp environment. Can this AI basically monitor all actions on your devices and capture all that data constantly? submitted by /u/PHL534_2 [link] [comments]",
-      "published": "2026-09-16T19:02:34+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
       "url": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
       "summary": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
       "published": "2026-09-16T18:50:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "summary": "575 points · 121 comments",
-      "published": "2026-09-16T18:50:00+00:00"
     },
     {
       "source": "OSINT",
@@ -272,13 +384,6 @@
       "published": "2026-09-16T17:26:41+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Small programming tricks",
-      "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "summary": "547 points · 244 comments",
-      "published": "2026-09-16T15:56:47+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
@@ -307,20 +412,6 @@
       "published": "2026-09-16T14:00:10+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-      "url": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-      "summary": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories. Before the repository spread, the assistant recommended software that the attacker had poisoned, and the recommendation was accepted. The worm stole repository secrets and source code for the",
-      "published": "2026-09-16T13:37:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-      "url": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-      "summary": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week. The attack needs code already running on the machine as a normal user, so it does not work over the network. JFrog says the fix is in Parallels Desktop 27, a version that Intel Macs cannot install. Yuval Moravchick, who leads",
-      "published": "2026-09-16T13:14:05+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
       "url": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -328,60 +419,11 @@
       "published": "2026-09-16T13:04:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What are some essential tools for Cybersecurity stack?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1whwf30/what_are_some_essential_tools_for_cybersecurity/",
-      "summary": "Hey everyone, I recently got appointed as the IT guy “in charge of cyber” for an org of approx 600 users and endpoints. I’ve been told we have drastically underspent on our Cyber budget for several years and am basically being told we need to spend it. The problem is while I’ve done some work in this field before my background is more sys admin. What are some tools you think are really important if you were building out a competent cyber function? If you can give examples of names that would als",
-      "published": "2026-09-16T12:54:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft says Copilot buttons still missing in classic Outlook",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
-      "summary": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
-      "published": "2026-09-16T12:16:32+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-      "summary": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
-      "published": "2026-09-16T12:11:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-      "url": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-      "summary": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on obvious malware activity. From there, a single compromised identity can open the door to sensitive data, business systems, and additional cloud",
-      "published": "2026-09-16T11:58:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "url": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "summary": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error in the code,\" according to a description of the bug in the NIST National Vulnerability Database",
-      "published": "2026-09-16T11:15:58+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Nvidia announces native GPU programming in Rust",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "summary": "745 points · 305 comments",
+      "summary": "883 points · 352 comments",
       "published": "2026-09-16T11:15:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "url": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "summary": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react.",
-      "published": "2026-09-16T11:15:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "summary": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions - Acronis Backup plugin for cPanel & WHM (Linux",
-      "published": "2026-09-16T11:08:54+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -389,20 +431,6 @@
       "url": "https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"The crypto industry's top legislative priority failed on Tuesday in spectacular fashion,\" reports Barron's. A procedural motion to advance the bill failed by a vote of 49 to 50, with a handful of Republicans joining all Democrats to shoot it down. The motion needed 60 yes votes to pass, and with the midterm elections looming, the Senate isn't expected to pick the bill back up this year. Among other provisions, the bill would have taken most crypto trading out of the purview of securities regula",
       "published": "2026-09-16T08:34:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "summary": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said. The WordPress security company said it has blocked over",
-      "published": "2026-09-16T05:48:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
-      "url": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
-      "summary": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr. The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptographic signature that could result in account takeover. Hacktron Team has been credited with discovering and reporting the flaw. \"JWT authentication",
-      "published": "2026-09-16T05:18:06+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -420,16 +448,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Lucasart's Afterlife",
-      "url": "https://togameforlife.wordpress.com/2023/12/09/on-lucasarts-afterlife/",
-      "summary": "38 points · 18 comments",
-      "published": "2026-09-15T22:30:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
       "url": "https://jakeasmith.com/blog/http-build-url/",
-      "summary": "155 points · 37 comments",
+      "summary": "270 points · 70 comments",
       "published": "2026-09-15T20:53:36+00:00"
     },
     {
@@ -440,25 +461,18 @@
       "published": "2026-09-15T19:04:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
-      "url": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
-      "summary": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN. Elastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 2025, the threat actor has used lures that impersonate a dozen Brazilian banks and install a malicious browser extension on Google Chrome and",
-      "published": "2026-09-15T18:54:14+00:00"
+      "source": "HACKER NEWS",
+      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "summary": "276 points · 107 comments",
+      "published": "2026-09-15T17:28:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Comparison of Malloc() Algorithms",
-      "url": "https://egbert.net/blog/articles/comparison-of-arena-architecture-in-malloc.html",
-      "summary": "82 points · 18 comments",
-      "published": "2026-09-15T16:52:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Online Z3 Guide",
-      "url": "https://microsoft.github.io/z3guide/",
-      "summary": "17 points · 6 comments",
-      "published": "2026-09-15T14:45:08+00:00"
+      "title": "Grand MS-DOS Gaming General MIDI Showdown",
+      "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
+      "summary": "5 points · 0 comments",
+      "published": "2026-09-15T15:37:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -466,20 +480,6 @@
       "url": "https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "404 Media reports: Last summer, a cop with the Lake County, Indiana Sheriff's Department used Flock's surveillance search engine to look for a license plate across more than 19,000 cameras in 1,558 cities and towns. The cop's stated reason for the search, according to a record of Flock's system, was \"LMAO.\" The cop is one of dozens who put gibberish, jokes, or other nonsense into Flock's \"reason\" box, highlighting the casualness and lack of care some cops have when searching an incredibly powerf",
       "published": "2026-09-15T14:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Math Professor Accuses OpenAI of Copying His Work, Says AI Compute Power Makes Racing to Publish 'Pointless'",
-      "url": "https://science.slashdot.org/story/26/09/14/2246218/math-professor-accuses-openai-of-copying-his-work-says-ai-compute-power-makes-racing-to-publish-pointless?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The New York Post wrote that OpenAI \"stunned the mathematics world\" last week when it announced its AI model \"cracked a legendary math problem left unsolved for nearly a century in just 88 hours.\" But a New York University professor \"has come forward alleging OpenAI may have copied his work after asking him to collaborate — with one of the company's scientists allegedly warning he might 'ruin his career' if he refused.\" [P]rofessor Tristan Buckmaster, a British-Australian researcher who trained ",
-      "published": "2026-09-15T10:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Developing provably correct Rust code with Verus",
-      "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
-      "summary": "123 points · 22 comments",
-      "published": "2026-09-14T16:57:50+00:00"
     },
     {
       "source": "REDDIT",
@@ -490,9 +490,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac",
+      "title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
       "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-      "summary": "73 points · 24 comments",
+      "summary": "132 points · 36 comments",
       "published": "2026-09-13T16:38:22+00:00"
     },
     {
