@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T16:45:14.387153+00:00",
+  "updated": "2026-09-17T20:08:29.969459+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,24 +27,73 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "How AI Can Be Used for Cognitive Warfare",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wj44ph/how_ai_can_be_used_for_cognitive_warfare/",
+      "summary": "submitted by /u/ximsss [link] [comments]",
+      "published": "2026-09-17T19:43:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The AI hacking apocalypse is not inevitable",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wj3r5p/the_ai_hacking_apocalypse_is_not_inevitable/",
+      "summary": "There is a growing chorus of cybersecurity professionals who say that while AI systems pose real, unique threats to our systems, the apocalypse is far from inevitable. Most of the public concerns around the incidents, let alone worries about killer AIs attacking critical infrastructure, assuming control of the internet and wiping out humanity, are either technically impossible or can largely be controlled through established cybersecurity principles. submitted by /u/drewchainzz [link] [comments]",
+      "published": "2026-09-17T19:29:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+      "url": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+      "summary": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+      "published": "2026-09-17T18:55:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Agrus Scanner 1.0 - open-source Windows network scanner that finds every AI service (and MCP server) on your network. Recently updated: detection signatures now update themselves",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wj0732/agrus_scanner_10_opensource_windows_network/",
+      "summary": "submitted by /u/Astaldo318 [link] [comments]",
+      "published": "2026-09-17T17:19:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+      "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+      "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+      "published": "2026-09-17T17:11:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How should I prepare for a SOC/Detection role in a cyber crisis simulation?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiztgh/how_should_i_prepare_for_a_socdetection_role_in_a/",
+      "summary": "Hi everyone, I'm a cybersecurity student preparing for a 3-day cyber crisis simulation/bootcamp. I will be part of the SOC / Detection team. Our responsibilities will include: Alert triage Event qualification Monitoring and analyzing security events Building an incident timeline Communicating findings to the investigation and coordination teams I want to prepare specifically for this role and focus on hands-on practice rather than only theory. The main topics I plan to work on are: Windows/Linux",
+      "published": "2026-09-17T17:05:34+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "hister",
+      "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
+      "url": "https://zscc.ai/careers?job_id=109821",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-17T17:00:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "summary": "48 points · 12 comments",
+      "published": "2026-09-17T16:55:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
       "url": "https://github.com/asciimoo/hister",
-      "summary": "9 points · 0 comments",
+      "summary": "255 points · 84 comments",
       "published": "2026-09-17T16:25:37+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Die With Me – Claude and Codex rate limits as AIM away messages",
-      "url": "https://diewithme.co/join",
-      "summary": "4 points · 2 comments",
-      "published": "2026-09-17T16:25:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Launch HN: Skillsync (YC W26) – AI chat sessions made portable across agents",
-      "url": "https://skillsync.com",
-      "summary": "4 points · 0 comments",
+      "url": "https://news.ycombinator.com/item?id=49743049",
+      "summary": "26 points · 27 comments",
       "published": "2026-09-17T16:22:15+00:00"
     },
     {
@@ -63,45 +112,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Whoisinspace.com/",
-      "url": "https://whoisinspace.com",
-      "summary": "26 points · 6 comments",
-      "published": "2026-09-17T15:59:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Vinix – A modern operating system written in V",
-      "url": "https://vinix-os.org/",
-      "summary": "16 points · 7 comments",
-      "published": "2026-09-17T15:40:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "LLM Classification Is Feature Engineering",
-      "url": "https://minimallysufficient.com/posts/llm-classification-is-feature-extraction/",
-      "summary": "30 points · 8 comments",
-      "published": "2026-09-17T15:40:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "CrowdSec Source Code Leak",
       "url": "https://www.crowdsec.net/blog/crowdsec-statement-source-code-exposure",
-      "summary": "23 points · 2 comments",
+      "summary": "88 points · 29 comments",
       "published": "2026-09-17T15:34:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rate limits on GitLab.com are changing",
       "url": "https://about.gitlab.com/blog/rate-limit-change-2026/",
-      "summary": "51 points · 37 comments",
+      "summary": "117 points · 94 comments",
       "published": "2026-09-17T15:33:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Artificial intelligence now beats some of the best human forecasters",
-      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
-      "summary": "40 points · 23 comments",
-      "published": "2026-09-17T15:13:30+00:00"
     },
     {
       "source": "OSINT",
@@ -132,6 +153,13 @@
       "published": "2026-09-17T13:28:10+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "The American Religion of Self-Storage Facilities",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "summary": "122 points · 203 comments",
+      "published": "2026-09-17T13:12:28+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Windows 11 24H2 Home and Pro reach end of support in October",
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
@@ -142,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Share your AI Setup, Learn from others",
       "url": "https://mysetup.ai/",
-      "summary": "60 points · 30 comments",
+      "summary": "129 points · 73 comments",
       "published": "2026-09-17T13:01:44+00:00"
     },
     {
@@ -209,13 +237,6 @@
       "published": "2026-09-17T10:05:45+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Which NIS2 country specific requirements concern you most?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiprt9/which_nis2_country_specific_requirements_concern/",
-      "summary": "There have been several posts on NIS2 legislation, but they don't usually discuss the country specifics. NIS2 isn't a single legislation. It's 27 different interpretations of countries implementing a cybersecurity law. What I haven't seen here is a comprehensive list of the most interesting and unique country changes. For example: Italy: Only country with a minimum fine amount Hungary: All IT systems in scope, not only critical systems (Italy does as well, but other countries don't) Belgium: Ext",
-      "published": "2026-09-17T10:02:55+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
       "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
@@ -230,6 +251,20 @@
       "published": "2026-09-17T09:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Why I didn’t sign the Fields medallists’ letter",
+      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
+      "summary": "151 points · 200 comments",
+      "published": "2026-09-17T08:51:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How GLM built its own inference infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "summary": "316 points · 234 comments",
+      "published": "2026-09-17T08:27:09+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft shares workaround for Windows domain login issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
@@ -238,23 +273,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "One Year of Sponsored Servo Development",
+      "title": "One year of sponsored Servo development",
       "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "summary": "280 points · 123 comments",
+      "summary": "324 points · 132 comments",
       "published": "2026-09-17T08:13:54+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Preparing CompTIA Security+ the right way",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1winwey/preparing_comptia_security_the_right_way/",
-      "summary": "Hi Everyone! I am sure this question has been asked before but i could not find the right threat. At the moment, i am eager to change my career and I am doung the coursera google certificate since it gives me a good and easy first leaning into IT and Cyber Security at all. Since I work a full time job and try to intensively study while i go through it as well, it just taking quiet long and I want to be soon finishing it. My next step is then to take the CompTIA Security+ Exam and according to my",
-      "published": "2026-09-17T08:13:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "CCC invites all model citizens to 40C3",
       "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "summary": "216 points · 64 comments",
+      "summary": "282 points · 143 comments",
       "published": "2026-09-17T08:03:54+00:00"
     },
     {
@@ -298,20 +326,6 @@
       "url": "https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html",
       "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser. The domains in question are: nightmare-stresser[.]com and nightmarestresser[.]org. Visitors to the site are now greeted by a seizure banner that states - \"This domain has been seized by the",
       "published": "2026-09-17T05:13:46+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Scripts that help your work or proud of?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wijeqo/scripts_that_help_your_work_or_proud_of/",
-      "summary": "Curious what kind of scripting that you have built that you are proud of or has helped your work load either by yourself or with the assistance of AI. Did some work building out a powershell script to help with enumeration and wanted to see if anyone wanted to brag about their own or even share. submitted by /u/AngryTownspeople [link] [comments]",
-      "published": "2026-09-17T04:05:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "url": "https://ryan.science/blog/keys-not-included",
-      "summary": "252 points · 125 comments",
-      "published": "2026-09-17T03:03:23+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -370,20 +384,6 @@
       "published": "2026-09-16T17:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "CISA is Sunsetting the Weekly Vulnerability Bulletin",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi3s2h/cisa_is_sunsetting_the_weekly_vulnerability/",
-      "summary": "\"CISA will discontinue the weekly Vulnerability Bulletin at the end of FY26 (September 28, 2026) as part of a broader shift from severity‑based vulnerability management to risk‑based vulnerability prioritization. Newly recorded vulnerabilities remain available on CVE.org , and users should rely on the Known Exploited Vulnerability (KEV) Catalog, CISA Cybersecurity Alerts and Advisories, and vendor security alerts for actionable, risk‑based updates.\" I can't help but feel that we're at the end of",
-      "published": "2026-09-16T17:27:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Spain's data agency gets first report of AI-powered data breach",
-      "url": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-      "summary": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-      "published": "2026-09-16T17:26:41+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
       "url": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
@@ -405,13 +405,6 @@
       "published": "2026-09-16T14:36:44+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "The true cost of a ransomware attack, with and without BCDR",
-      "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-      "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
-      "published": "2026-09-16T14:00:10+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
       "url": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -420,10 +413,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Nvidia announces native GPU programming in Rust",
-      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "summary": "883 points · 352 comments",
-      "published": "2026-09-16T11:15:53+00:00"
+      "title": "Wax motor",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "summary": "45 points · 6 comments",
+      "published": "2026-09-16T12:35:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -447,13 +440,6 @@
       "published": "2026-09-15T23:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
-      "url": "https://jakeasmith.com/blog/http-build-url/",
-      "summary": "270 points · 70 comments",
-      "published": "2026-09-15T20:53:36+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Scientists Discover Mysterious New X-Ray Objects 'Unlike Any They Have Seen Before'",
       "url": "https://science.slashdot.org/story/26/09/12/189245/scientists-discover-mysterious-new-x-ray-objects-unlike-any-they-have-seen-before?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -464,15 +450,22 @@
       "source": "HACKER NEWS",
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
       "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "summary": "276 points · 107 comments",
+      "summary": "427 points · 156 comments",
       "published": "2026-09-15T17:28:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Grand MS-DOS Gaming General MIDI Showdown",
       "url": "https://blog.johnnovak.net/2023/03/05/grand-ms-dos-gaming-general-midi-showdown/",
-      "summary": "5 points · 0 comments",
+      "summary": "62 points · 7 comments",
       "published": "2026-09-15T15:37:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "TSMC revealing details about next gen A14 node",
+      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "summary": "44 points · 10 comments",
+      "published": "2026-09-15T15:31:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -480,6 +473,13 @@
       "url": "https://yro.slashdot.org/story/26/09/15/0032227/cops-searched-thousands-of-flock-cameras-for-reasons-of-lmao-idk-hehe-and-asdfg?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "404 Media reports: Last summer, a cop with the Lake County, Indiana Sheriff's Department used Flock's surveillance search engine to look for a license plate across more than 19,000 cameras in 1,558 cities and towns. The cop's stated reason for the search, according to a record of Flock's system, was \"LMAO.\" The cop is one of dozens who put gibberish, jokes, or other nonsense into Flock's \"reason\" box, highlighting the casualness and lack of care some cops have when searching an incredibly powerf",
       "published": "2026-09-15T14:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Running Ubuntu on the Lenovo IdeaPad Duet",
+      "url": "https://vhaudiquet.fr/blog/duet-ubuntu/",
+      "summary": "37 points · 3 comments",
+      "published": "2026-09-14T21:40:54+00:00"
     },
     {
       "source": "REDDIT",
@@ -490,10 +490,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Relation Between Mathematics and Physics by Paul Dirac (1939)",
-      "url": "https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html",
-      "summary": "132 points · 36 comments",
-      "published": "2026-09-13T16:38:22+00:00"
+      "title": "André Weil and the Hodge Conjecture",
+      "url": "https://jiahao116.github.io/Articles/",
+      "summary": "5 points · 1 comments",
+      "published": "2026-09-12T11:13:14+00:00"
     },
     {
       "source": "OSINT",
