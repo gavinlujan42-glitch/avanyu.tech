@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T22:49:12.250364+00:00",
+  "updated": "2026-09-17T01:15:05.799398+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,10 +28,52 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Taking the single point of authority out of an application: threshold keys and quorum-approved roles alongside your existing IAM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wifp1k/taking_the_single_point_of_authority_out_of_an/",
+      "summary": "The post is about a pattern we keep coming back to: in most apps, one layer ends up able to read everything. The app server holds or can fetch the decryption key, and the database holds the role assignments that decide who sees what. KMS, PAM, access reviews and logging all help and should stay, but they rely on whoever holds that access using it as intended. The post walks through moving those decisions out of the application. The key only exists as shares across independent nodes (14 of 20 hav",
+      "published": "2026-09-17T01:10:58+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic wants Claude to analyze your bank account and financial data",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+      "published": "2026-09-17T00:35:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Dificuldade de arrumar um serviço pós faculdade",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiehp3/dificuldade_de_arrumar_um_serviço_pós_faculdade/",
+      "summary": "Uma das coisas mais difíceis depois da faculdade é conseguir a primeira oportunidade. Eu estudo cyber segurança e vejo isso na prática. Existem muitas vagas na área, mas grande parte pede experiência, mesmo para posições de entrada. E fica aquela dúvida: como eu vou ter experiência se ninguém quer dar a primeira oportunidade? Todo mundo quer um profissional preparado, mas poucos estão dispostos a ensinar quem está começando. A gente não espera saber tudo. Só quer uma chance de aprender, colocar ",
+      "published": "2026-09-17T00:17:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenSpec – A lightweight and configurable AI spec framework",
+      "url": "https://openspec.dev/",
+      "summary": "56 points · 15 comments",
+      "published": "2026-09-16T23:06:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Australia says it could follow Canada in forging deeper ties with EU",
+      "url": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
+      "summary": "112 points · 64 comments",
+      "published": "2026-09-16T22:56:48+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Cyber Burnout",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wibjgf/cyber_burnout/",
       "summary": "Cybersecurity can sometimes be one of the more unpopular functions within an organization. When your role is to identify risk, challenge assumptions, and occasionally slow things down, you’re naturally going to create some friction. I’ve always preferred a “yes, but…” approach over simply saying “no.” If a business team has a legitimate objective, my goal is to understand what they’re trying to accomplish and help them find a way to get there. Constantly being the person raising concerns, explai",
       "published": "2026-09-16T22:12:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "url": "https://harnesstax.github.io/",
+      "summary": "25 points · 3 comments",
+      "published": "2026-09-16T22:10:13+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -44,15 +86,8 @@
       "source": "HACKER NEWS",
       "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
       "url": "https://arxiv.org/abs/2609.16338",
-      "summary": "79 points · 5 comments",
+      "summary": "136 points · 15 comments",
       "published": "2026-09-16T20:59:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cybersecurity statistics of the week (September 7th - September 13th)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi9isb/cybersecurity_statistics_of_the_week_september/",
-      "summary": "Hi guys, I send out a weekly newsletter with the latest cybersecurity vendor reports and research, and thought you might find it useful, so sharing it here. All the reports and research below were published between September 7th - September 13th. You can get the below into your inbox every week if you want: https://www.cybersecstats.com/cybersecstatsnewsletter/ Identity Security Managing Agentic AI Through the Identity Control Plane (GuidePoint Security) AI agents add yet more identities for sec",
-      "published": "2026-09-16T20:53:49+00:00"
     },
     {
       "source": "OSINT",
@@ -65,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "Backups Aren't Simple",
       "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-      "summary": "7 points · 0 comments",
+      "summary": "71 points · 26 comments",
       "published": "2026-09-16T20:27:16+00:00"
     },
     {
@@ -79,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi Mimo 2.6 live post-training dashboard",
       "url": "https://mimo.xiaomi.com/rl/",
-      "summary": "162 points · 44 comments",
+      "summary": "242 points · 60 comments",
       "published": "2026-09-16T20:09:18+00:00"
     },
     {
@@ -93,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "How good are frontier models at physics?",
       "url": "https://arxiv.org/abs/2609.13009",
-      "summary": "51 points · 18 comments",
+      "summary": "79 points · 36 comments",
       "published": "2026-09-16T19:19:08+00:00"
     },
     {
@@ -102,13 +137,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wi6gt7/security_concerns_with_new_siri_ai/",
       "summary": "Wondering if there’s any security consideration for having Siri AI where the AI has deep access to iOS and your data. Both in a personal and corp environment. Can this AI basically monitor all actions on your devices and capture all that data constantly? submitted by /u/PHL534_2 [link] [comments]",
       "published": "2026-09-16T19:02:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Accurate Models of AMD Matrix Cores",
-      "url": "https://arxiv.org/abs/2609.14845",
-      "summary": "47 points · 5 comments",
-      "published": "2026-09-16T18:56:05+00:00"
     },
     {
       "source": "OSINT",
@@ -121,15 +149,15 @@
       "source": "HACKER NEWS",
       "title": "Training a 4B model to produce 81% faster query plans than Postgres",
       "url": "https://rohanbansal.com/qorl",
-      "summary": "298 points · 55 comments",
+      "summary": "386 points · 81 comments",
       "published": "2026-09-16T18:50:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What type of Snyk implementation has been most effective in helping your organization identify and remediate vulnerabilities early, while ensuring SLAs are met?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wi57y6/what_type_of_snyk_implementation_has_been_most/",
-      "summary": "Just trying to gauge some idea of how snyk has been implemented across different applications, CI/CD pipelines and have some questions Do your teams follow a particular policy that has been implemented across the org like say pipeline gets blocked on discovery of Critical/high findings, so you provide deviations for some duration so that their release doesn't get affected? Different branching strategies have different snyk configurations? What about different environments(staying, dev, other low",
-      "published": "2026-09-16T18:18:35+00:00"
+      "source": "HACKER NEWS",
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "summary": "72 points · 9 comments",
+      "published": "2026-09-16T18:49:57+00:00"
     },
     {
       "source": "OSINT",
@@ -184,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Small programming tricks",
       "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-      "summary": "331 points · 166 comments",
+      "summary": "389 points · 181 comments",
       "published": "2026-09-16T15:56:47+00:00"
     },
     {
@@ -209,25 +237,11 @@
       "published": "2026-09-16T14:36:44+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Anatomy of a Texture",
-      "url": "https://agentlien.github.io/texture/",
-      "summary": "63 points · 10 comments",
-      "published": "2026-09-16T14:28:28+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "The true cost of a ransomware attack, with and without BCDR",
       "url": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
       "summary": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a faster, more predictable path to recovery. [...]",
       "published": "2026-09-16T14:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "url": "https://arxiv.org/abs/2609.14858",
-      "summary": "171 points · 49 comments",
-      "published": "2026-09-16T13:44:40+00:00"
     },
     {
       "source": "OSINT",
@@ -296,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Nvidia announces native GPU programming in Rust",
       "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-      "summary": "47 points · 7 comments",
+      "summary": "232 points · 82 comments",
       "published": "2026-09-16T11:15:53+00:00"
     },
     {
@@ -338,7 +352,7 @@
       "source": "HACKER NEWS",
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
       "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "summary": "507 points · 182 comments",
+      "summary": "535 points · 186 comments",
       "published": "2026-09-16T08:08:57+00:00"
     },
     {
@@ -380,14 +394,14 @@
       "source": "HACKER NEWS",
       "title": "The engineering behind the US Strategic Petroleum Reserve",
       "url": "https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve",
-      "summary": "7 points · 0 comments",
+      "summary": "88 points · 27 comments",
       "published": "2026-09-15T22:15:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
       "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
-      "summary": "139 points · 101 comments",
+      "summary": "223 points · 190 comments",
       "published": "2026-09-15T21:41:42+00:00"
     },
     {
@@ -396,13 +410,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
       "summary": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
       "published": "2026-09-15T21:37:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-      "summary": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
-      "published": "2026-09-15T20:34:15+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -429,14 +436,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
       "url": "https://github.com/arnegiacomo/fugleramme",
-      "summary": "2036 points · 236 comments",
+      "summary": "2075 points · 238 comments",
       "published": "2026-09-15T12:31:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Performance Improvements in .NET 11",
       "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-11/",
-      "summary": "103 points · 8 comments",
+      "summary": "154 points · 31 comments",
       "published": "2026-09-15T12:18:16+00:00"
     },
     {
@@ -478,22 +485,15 @@
       "source": "HACKER NEWS",
       "title": "Japan's book scene is moving from bookstores to libraries",
       "url": "https://untranslatedjp.substack.com/p/japans-book-scene-is-quietly-moving",
-      "summary": "62 points · 16 comments",
+      "summary": "102 points · 39 comments",
       "published": "2026-09-12T22:35:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Reversing Factorio's RNG",
       "url": "https://gegell.github.io/posts/factorio-rng/",
-      "summary": "87 points · 10 comments",
+      "summary": "141 points · 16 comments",
       "published": "2026-09-12T17:02:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WalShadow: Sub-second Postgres replication to ClickHouse from physical WAL",
-      "url": "https://clickhouse.com/blog/introducing-walshadow",
-      "summary": "30 points · 5 comments",
-      "published": "2026-09-11T16:09:09+00:00"
     },
     {
       "source": "OSINT",
