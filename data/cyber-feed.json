@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T16:14:20.751240+00:00",
+  "updated": "2026-09-18T19:07:36.537056+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,18 +27,74 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Will California Gut Its Net Neutrality Law to Comply with Trump Admin Demands?",
+      "url": "https://yro.slashdot.org/story/26/09/18/0023251/will-california-gut-its-net-neutrality-law-to-comply-with-trump-admin-demands?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "In 2021, America approved $65 billion to fund broadband internet services as part of President Biden's Bipartisan Infrastructure Law. But Trump's administration announced they'd withhold funds from states with net neutrality protections... States could object and sue the government, Ars Technica reported last October, \"but even a successful lawsuit could take years and leave unserved homes without broadband for the foreseeable future.\" So where does that leave California's net neutrality laws? A",
+      "published": "2026-09-18T19:04:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Absorptive Capacity Among Small-Business Information Security Professionals Facing AI-Driven Threats: A Quantitative Study",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjy4jj/absorptive_capacity_among_smallbusiness/",
+      "summary": "Hello, my name is Frederick (Erick) McCollum, and I am a doctoral student at the University of the Cumberlands. I am conducting a research study entitled Absorptive Capacity Among Small-Business Information Security Professionals Facing AI-Driven Threats: A Quantitative Study. The purpose of this study is to study is to assess if knowledge acquisition, assimilation, and transformation are correlated with the exploitation of knowledge among small business information security professionals in the",
+      "published": "2026-09-18T18:23:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
+      "summary": "29 points · 12 comments",
+      "published": "2026-09-18T18:08:32+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Microsoft Teams Help Desk Impersonation: When IT Support Messages You First",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjx7xd/microsoft_teams_help_desk_impersonation_when_it/",
+      "summary": "Attackers are opening Microsoft Teams chats from tenants they control, using a display name like IT Service Desk , and talking people into either installing a file or handing over a remote session. Teams allows chat from any external domain by default, and the attacker only needs the target to say yes once. In the case Expel documented, the yes was an MSI hosted on a Microsoft Azure storage endpoint; the payoff was a fake Windows lock screen that captured the user’s password in the clear. Two se",
+      "published": "2026-09-18T17:50:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "summary": "143 points · 68 comments",
+      "published": "2026-09-18T17:28:01+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AI features showing up inside apps we already approved, which shadow ai detection tools caught that for you",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjw9mk/ai_features_showing_up_inside_apps_we_already/",
+      "summary": "Security team of five at a 900 person company and we started a shadow AI review expecting to find people pasting into ChatGPT. That part was easy to see in the proxy logs. The harder part is AI features switched on inside SaaS apps we already approved and a couple of internal scripts calling model APIs with personal keys. We are looking at CASB and browser extension controls and a few AI specific platforms. I want an inventory that stays current more than another alert feed. What gave you the mo",
+      "published": "2026-09-18T17:15:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "url": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "summary": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security firm pwn.ai, whose researchers reported the flaw, calls the attack chain Click2Shell. On its own the flaw only",
+      "published": "2026-09-18T16:56:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "summary": "75 points · 21 comments",
+      "published": "2026-09-18T16:54:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Systemd is a suite of basic building blocks",
+      "url": "https://brand.systemd.io/",
+      "summary": "18 points · 17 comments",
+      "published": "2026-09-18T16:31:43+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
       "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
       "published": "2026-09-18T16:00:38+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Where would you want to integrate an automated vulnerability scanner?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjtxy4/where_would_you_want_to_integrate_an_automated/",
-      "summary": "I want some additional insights about where developers would want to integrate an LLVM tool that helps identify, triage, and remediate vulnerabilities in C/C++ projects. This is purely for research purposes, and I'm not trying to sell anything. I'm specifically interested in the following: - Where in your workflow would you want to integrate such a tool? Would you want it in your CI/CD pipeline? as an IDE plugin? - What are some security concerns you have about such a tool? Would you be most con",
-      "published": "2026-09-18T15:50:50+00:00"
     },
     {
       "source": "OSINT",
@@ -55,20 +111,6 @@
       "published": "2026-09-18T15:19:06+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
-      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
-      "summary": "8 points · 0 comments",
-      "published": "2026-09-18T15:04:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Build Faster Feedback Loops Using Qualitative User Research",
-      "url": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
-      "summary": "9 points · 0 comments",
-      "published": "2026-09-18T14:58:09+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Log collection tool",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wjshk1/log_collection_tool/",
@@ -77,24 +119,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Rickub – The Smartest Git in the Universe",
-      "url": "https://rickub.com/",
-      "summary": "16 points · 4 comments",
-      "published": "2026-09-18T14:56:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "North Korean nuclear test sets off years of earthquakes",
       "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-      "summary": "45 points · 33 comments",
+      "summary": "131 points · 101 comments",
       "published": "2026-09-18T14:45:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mathematicians Build Long-Awaited Graph Sandwich",
       "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-      "summary": "14 points · 0 comments",
+      "summary": "42 points · 10 comments",
       "published": "2026-09-18T14:41:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I vibed a proof of Conway's conjecture",
+      "url": "https://overreacted.io/how-i-vibed-a-proof-of-conways-conjecture/",
+      "summary": "137 points · 132 comments",
+      "published": "2026-09-18T14:36:10+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -114,8 +156,15 @@
       "source": "HACKER NEWS",
       "title": "Cloudflare Quick Tunnels",
       "url": "https://try.cloudflare.com/",
-      "summary": "96 points · 55 comments",
+      "summary": "344 points · 166 comments",
       "published": "2026-09-18T14:18:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Saw a lady near me paste a bunch of docs into GPT(personal acct) and asked to remove all PII lol, had to report. I feel bad but what would you have done? It's my job",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjr7xn/saw_a_lady_near_me_paste_a_bunch_of_docs_into/",
+      "summary": "Noticed a cal entry get added for later today by her boss. submitted by /u/FAX_ME_YOUR_BOTTOM [link] [comments]",
+      "published": "2026-09-18T14:07:35+00:00"
     },
     {
       "source": "OSINT",
@@ -142,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "NATS publishes preliminary report on technical incident of 8 September",
       "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
-      "summary": "23 points · 14 comments",
+      "summary": "41 points · 24 comments",
       "published": "2026-09-18T13:24:35+00:00"
     },
     {
@@ -158,13 +207,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
       "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where lean security teams should focus their resources. [...]",
       "published": "2026-09-18T13:10:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "url": "https://arxiv.org/abs/2609.20804",
-      "summary": "137 points · 27 comments",
-      "published": "2026-09-18T13:06:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -191,15 +233,8 @@
       "source": "HACKER NEWS",
       "title": "I don't like passkeys",
       "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
-      "summary": "441 points · 409 comments",
+      "summary": "616 points · 603 comments",
       "published": "2026-09-18T12:06:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bend 2 and the Vibe-Coding Trap",
-      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-      "summary": "275 points · 200 comments",
-      "published": "2026-09-18T12:03:55+00:00"
     },
     {
       "source": "HACKER NEWS",
@@ -214,13 +249,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wjn8c9/to_cisos_heads_of_sec_and_directors/",
       "summary": "Hey everyone, I’m looking to get a realistic perspective on what actually drives the transition into senior leadership (CISO, Head/Director/VP of Security). For those who’ve made the leap: What was the #1 factor that helped you land your first executive/lead role? Certs? Internal promotion? Aggressive networking? Job-hopping? If you could advise your mid-level self, what would you focus on? Appreciate any insights! submitted by /u/Mobile_Discussion285 [link] [comments]",
       "published": "2026-09-18T11:08:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-      "summary": "197 points · 129 comments",
-      "published": "2026-09-18T11:01:44+00:00"
     },
     {
       "source": "OSINT",
@@ -244,13 +272,6 @@
       "published": "2026-09-18T10:40:06+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "summary": "240 points · 53 comments",
-      "published": "2026-09-18T10:35:28+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Journalist Calls Out 'Collective Amnesia' of Schools' Romance With Big Tech Over AI",
       "url": "https://news.slashdot.org/story/26/09/15/0346259/journalist-calls-out-collective-amnesia-of-schools-romance-with-big-tech-over-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -261,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "OpenJev",
       "url": "https://openjev.com/",
-      "summary": "341 points · 193 comments",
+      "summary": "444 points · 225 comments",
       "published": "2026-09-18T09:42:22+00:00"
     },
     {
@@ -270,13 +291,6 @@
       "url": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
       "summary": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment made with high confidence based on verbose comments, placeholder code, and statistical token-analysis patterns,\"",
       "published": "2026-09-18T09:18:03+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cisco Identity Services Engine Remote Code Execution Vulnerabilities",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjko21/cisco_identity_services_engine_remote_code/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-09-18T08:42:56+00:00"
     },
     {
       "source": "OSINT",
@@ -303,15 +317,22 @@
       "source": "HACKER NEWS",
       "title": "Jemalloc 5.4.0",
       "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "271 points · 67 comments",
+      "summary": "305 points · 77 comments",
       "published": "2026-09-18T04:20:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The scourge of x86 emulation",
       "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "232 points · 63 comments",
+      "summary": "255 points · 71 comments",
       "published": "2026-09-18T04:09:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+      "url": "https://www.hacktron.ai/blog/hacking-openai",
+      "summary": "440 points · 189 comments",
+      "published": "2026-09-18T02:47:24+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -319,6 +340,13 @@
       "url": "https://slashdot.org/story/26/09/16/2151240/ex-google-deepmind-researcher-also-warns-ai-could-kill-all-humans-but-metas-zuckerberg-believes-safety-is-up-to-each-ai-company?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Reuters reports that a former Google DeepMind employee \"became the latest AI researcher to warn that the technology could 'kill all humans', saying time could be running out to avoid the outcome: Public alarm about the potential danger posed by AI is growing, after Anthropic researcher Jacob Coxon said last week he had resigned, in part because the \"people building AI earnestly believe that it could kill us all by the end of the decade.\" Anthropic scientist Evan Hubinger then responded to Coxon'",
       "published": "2026-09-18T01:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "summary": "87 points · 39 comments",
+      "published": "2026-09-18T00:11:44+00:00"
     },
     {
       "source": "REDDIT",
@@ -336,10 +364,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "527 points · 172 comments",
-      "published": "2026-09-17T21:13:31+00:00"
+      "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+      "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+      "summary": "92 points · 128 comments",
+      "published": "2026-09-17T20:52:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -347,13 +375,6 @@
       "url": "https://slashdot.org/story/26/09/17/0619253/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Ars Technica reports: Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates. Amazon Web Services was \"unable to restore access to the resources and data\" hosted in some of the war-damaged data centers, according to an AWS dashboard update posted on September 15. The development was first reported by Reuters and suggests that the Iranian",
       "published": "2026-09-17T20:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The AI hacking apocalypse is not inevitable",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wj3r5p/the_ai_hacking_apocalypse_is_not_inevitable/",
-      "summary": "There is a growing chorus of cybersecurity professionals who say that while AI systems pose real, unique threats to our systems, the apocalypse is far from inevitable. Most of the public concerns around the incidents, let alone worries about killer AIs attacking critical infrastructure, assuming control of the internet and wiping out humanity, are either technically impossible or can largely be controlled through established cybersecurity principles. submitted by /u/drewchainzz [link] [comments]",
-      "published": "2026-09-17T19:29:10+00:00"
     },
     {
       "source": "OSINT",
@@ -368,6 +389,13 @@
       "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
       "summary": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator access. Check Point has released a fix through its LivePatch update channel and says it has no indication that the flaw",
       "published": "2026-09-17T18:08:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Ax-check.com – Can agents use your product?",
+      "url": "https://www.ax-check.com/",
+      "summary": "12 points · 11 comments",
+      "published": "2026-09-17T18:08:02+00:00"
     },
     {
       "source": "OSINT",
@@ -412,20 +440,6 @@
       "published": "2026-09-17T14:01:11+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-      "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-      "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with",
-      "published": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wirrcp/active_exploitation_triggers_emergency_patch_for/",
-      "summary": "submitted by /u/sunychoudhary [link] [comments]",
-      "published": "2026-09-17T11:48:15+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "'Zuckoff' App Detects Meta Smartglasses, as Meta Plans Camera-Free Version, Loses Money, and Offers Social Media Subscriptions",
       "url": "https://tech.slashdot.org/story/26/09/17/045246/zuckoff-app-detects-meta-smartglasses-as-meta-plans-camera-free-version-loses-money-and-offers-social-media-subscriptions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -466,20 +480,6 @@
       "url": "https://slashdot.org/story/26/09/16/0619212/anthropic-commits-to-independent-ai-evaluators-wants-slower-development-nvidias-ceo-wants-it-as-fast-as-you-can?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"Anthropic's CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development,\" reports the Guardian, \" while Nvidia's CEO argued against slowing its development. \"Run as fast as you can.\" Amodei is calling for three courses of action: embedding third-party evaluators inside AI companies; coordinating safety standards among Democratic countries; and, eventually, larger global coordination. At Dreamforce, Amodei said Anthropic has committed to ",
       "published": "2026-09-16T17:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
-      "url": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Firefox 156 is the second release since Mozilla moved to a twice-monthly release schedule, and the blog OMG Ubuntu notes it has faster start-up times for its built-in PDF viewer and also lower CPU usage when viewing large JPEG images: In Firefox 156, the browser now uses libjpeg-turbo's IDCT scaling to reduce images during decoding, rather than loading a full-size image into memory and then shrinking it. Benchmarks from the bug report show up to 20x less memory used during very large image loadi",
-      "published": "2026-09-16T13:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Shadows Lurking in the Equations – Underwater Islands",
-      "url": "https://gods.art/articles/equation_shadows",
-      "summary": "40 points · 8 comments",
-      "published": "2026-09-16T02:37:22+00:00"
     },
     {
       "source": "REDDIT",
