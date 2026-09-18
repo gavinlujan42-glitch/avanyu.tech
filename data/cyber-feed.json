@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T11:40:56.728232+00:00",
+  "updated": "2026-09-18T16:14:20.751240+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,188 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Gyazo server flaw exploited to steal 23.6 million user records",
+      "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
+      "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
+      "published": "2026-09-18T16:00:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Where would you want to integrate an automated vulnerability scanner?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjtxy4/where_would_you_want_to_integrate_an_automated/",
+      "summary": "I want some additional insights about where developers would want to integrate an LLVM tool that helps identify, triage, and remediate vulnerabilities in C/C++ projects. This is purely for research purposes, and I'm not trying to sell anything. I'm specifically interested in the following: - Where in your workflow would you want to integrate such a tool? Would you want it in your CI/CD pipeline? as an IDE plugin? - What are some security concerns you have about such a tool? Would you be most con",
+      "published": "2026-09-18T15:50:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
+      "published": "2026-09-18T15:24:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+      "published": "2026-09-18T15:19:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "url": "https://www.miro.vision/index.php/2026/09/17/grasslobbster/",
+      "summary": "8 points · 0 comments",
+      "published": "2026-09-18T15:04:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Build Faster Feedback Loops Using Qualitative User Research",
+      "url": "https://blog.nseldeib.com/p/build-faster-feedback-loops-using",
+      "summary": "9 points · 0 comments",
+      "published": "2026-09-18T14:58:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Log collection tool",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjshk1/log_collection_tool/",
+      "summary": "Hello, I was wondering if anyone worked with some tool that lists the security logs to collect from each tool? Like something where you’d enter: windows machine, windows server, ansible, Defender for cloud, Palo alto firewalls ….. And it will give you the list of logs to collect inside the SIEM ? I’ve been looking for one for quite sometime and don’t seem to find anything that corresponds to exactly what I am looking for. submitted by /u/Cultural_Buy_4594 [link] [comments]",
+      "published": "2026-09-18T14:57:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Rickub – The Smartest Git in the Universe",
+      "url": "https://rickub.com/",
+      "summary": "16 points · 4 comments",
+      "published": "2026-09-18T14:56:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "url": "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+      "summary": "45 points · 33 comments",
+      "published": "2026-09-18T14:45:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "summary": "14 points · 0 comments",
+      "published": "2026-09-18T14:41:02+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Rust is Now a 'Tier One' Language at Microsoft",
+      "url": "https://developers.slashdot.org/story/26/09/13/2144215/rust-is-now-a-tier-one-language-at-microsoft?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Register reports: When Microsoft's developers and engineers sit down to code, they can now choose to work in Rust, which Redmond has added to its list of canonical languages. \"Rust now is a Tier One language at Microsoft, and that just means that it sits among C++, C# and TypeScript as the best supported languages for internal development in the company,\" explained Victor Ciura, Microsoft principal engineer for the Rust tooling team, during a keynote talk today at this year's annual RustConf",
+      "published": "2026-09-18T14:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How to improve OpSec for RedTeaming :(",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjrrw5/how_to_improve_opsec_for_redteaming/",
+      "summary": "So I've done both CRTP, and CRTO, now they did taught a bit of OpSec like dont kerberoast blindly, be careful of how you're behaving on what account, dont touch LSASS, dont rush to get on DC, etc, etc (most of it was from CRTP, i feel like CRTO was mosty C2 Ops course i didnt find there much about Opsec, but in it's exam i failed because of malwares (idk why i did everything as per course), malicious pipe names (I should have changed this in malleable C2, so i still wanna learn more about this t",
+      "published": "2026-09-18T14:29:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "summary": "96 points · 55 comments",
+      "published": "2026-09-18T14:18:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "summary": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and owner-driven reviews can help identify and remove unnecessary access. [...]",
+      "published": "2026-09-18T14:00:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
+      "published": "2026-09-18T13:58:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do we prevent breaches to our security when our clients are the ones being compromised",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjqk3d/how_do_we_prevent_breaches_to_our_security_when/",
+      "summary": "Hello! We are having issues, not with our security, but with other companies being breached and then trying to get information out of us. I am an IT administrator, and we have had a few incidents where our users don't catch it because it is coming from a trusted email or contact that has been compromised. Just looking for some advice on how to best handle situations like this. submitted by /u/Present_Emotion8142 [link] [comments]",
+      "published": "2026-09-18T13:41:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NATS publishes preliminary report on technical incident of 8 September",
+      "url": "https://www.nats.aero/news/nats-publishes-preliminary-report-on-technical-incident-of-8-september/",
+      "summary": "23 points · 14 comments",
+      "published": "2026-09-18T13:24:35+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjpy75/new_check_point_flaw_lets_hackers_execute_code/",
+      "summary": "submitted by /u/DistinctSpeaker7252 [link] [comments]",
+      "published": "2026-09-18T13:16:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where lean security teams should focus their resources. [...]",
+      "published": "2026-09-18T13:10:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "url": "https://arxiv.org/abs/2609.20804",
+      "summary": "137 points · 27 comments",
+      "published": "2026-09-18T13:06:30+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Brevo supply-chain attack affected 100,000+ websites through compromised Cloudflare API key",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjpj09/brevo_supplychain_attack_affected_100000_websites/",
+      "summary": "Brevo has disclosed a supply-chain attack where attackers used a compromised Cloudflare API key to inject malicious scripts into websites using Brevo services. The interesting part is that the initial compromise was not just a direct customer breach, it became a downstream risk through trusted infrastructure and embedded scripts. This is another reminder that API keys, third-party integrations, and SaaS dependencies are becoming a major security boundary. A lot of organizations focus heavily on ",
+      "published": "2026-09-18T12:59:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "summary": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
+      "published": "2026-09-18T12:47:04+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+      "published": "2026-09-18T12:16:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I don't like passkeys",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "summary": "441 points · 409 comments",
+      "published": "2026-09-18T12:06:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "summary": "275 points · 200 comments",
+      "published": "2026-09-18T12:03:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Cekura (YC F24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/cekura-ai/jobs/AiWwUxI-forward-deployed-engineer-us",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-18T12:00:10+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "To CISOs, Heads of Sec, and Directors",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wjn8c9/to_cisos_heads_of_sec_and_directors/",
@@ -34,11 +216,25 @@
       "published": "2026-09-18T11:08:47+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "[Career Advice] 4 YOE Network Engineer + AWS Architect cert looking to pivot to Security. Market check & entry path?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjmu91/career_advice_4_yoe_network_engineer_aws/",
-      "summary": "Hey everyone, I'm a 4-year Network Engineer trying to pivot into security and looking for a reality check on the current market. My Background: Hands-on with firewalls, switches, routers, and load balancers. AWS Certified Solutions Architect. Deep understanding of packet capture, traffic analysis, and routing protocols. Strong expertise in firewall management, perimeter security, and access control. What I want to know: The Market: How hard is it right now for a network engineer to transition in",
-      "published": "2026-09-18T10:48:05+00:00"
+      "source": "HACKER NEWS",
+      "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+      "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+      "summary": "197 points · 129 comments",
+      "published": "2026-09-18T11:01:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "url": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "summary": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry hard-coded references to hostnames beneath it. The new owner holds",
+      "published": "2026-09-18T11:01:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "url": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "summary": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
+      "published": "2026-09-18T11:01:01+00:00"
     },
     {
       "source": "OSINT",
@@ -51,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "ZCode, the GLM coding agent, silently uploads your Git history",
       "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
-      "summary": "40 points · 4 comments",
+      "summary": "240 points · 53 comments",
       "published": "2026-09-18T10:35:28+00:00"
     },
     {
@@ -63,24 +259,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "summary": "184 points · 120 comments",
-      "published": "2026-09-18T09:45:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "OpenJev",
       "url": "https://openjev.com/",
-      "summary": "144 points · 76 comments",
+      "summary": "341 points · 193 comments",
       "published": "2026-09-18T09:42:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Check Point flaw lets hackers execute code with root privileges",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
-      "summary": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]",
-      "published": "2026-09-18T09:34:33+00:00"
     },
     {
       "source": "OSINT",
@@ -104,13 +286,6 @@
       "published": "2026-09-18T07:35:31+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Next.js on Windows is facing an immediate RCE threat.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjiq0d/nextjs_on_windows_is_facing_an_immediate_rce/",
-      "summary": "Public exploit code for CVE-2026-75604 appeared shortly after disclosure, putting Windows-hosted Next.js applications that process untrusted input at serious risk. Framework-level RCEs are rapidly automated—patch immediately. submitted by /u/thechougala [link] [comments]",
-      "published": "2026-09-18T06:46:53+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
       "url": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
@@ -128,29 +303,15 @@
       "source": "HACKER NEWS",
       "title": "Jemalloc 5.4.0",
       "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-      "summary": "181 points · 51 comments",
+      "summary": "271 points · 67 comments",
       "published": "2026-09-18T04:20:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The scourge of x86 emulation",
       "url": "https://fex-emu.com/Scourge-of-emulation/",
-      "summary": "171 points · 34 comments",
+      "summary": "232 points · 63 comments",
       "published": "2026-09-18T04:09:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pre-Greek: The lost language hidden within Ancient Greek",
-      "url": "https://linguisticdiscovery.com/posts/pre-greek/",
-      "summary": "92 points · 42 comments",
-      "published": "2026-09-18T03:04:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-      "url": "https://www.hacktron.ai/blog/hacking-openai",
-      "summary": "369 points · 159 comments",
-      "published": "2026-09-18T02:47:24+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -161,31 +322,10 @@
     },
     {
       "source": "REDDIT",
-      "title": "Apple adds a dormant Endpoint Security stack to the iOS 27.2 beta",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjb8yt/apple_adds_a_dormant_endpoint_security_stack_to/",
-      "summary": "submitted by /u/New-Ranger-8960 [link] [comments]",
-      "published": "2026-09-18T00:31:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Qwen 3.8 Omni Flash",
-      "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-      "summary": "247 points · 84 comments",
-      "published": "2026-09-17T23:05:48+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wj8ilb/cisco_warns_of_max_severity_ise_zeroday_exploited/",
       "summary": "submitted by /u/AsterPrivacy [link] [comments]",
       "published": "2026-09-17T22:32:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "PhantomFix: a fake bug report to Sentry Seer can get a coding agent to run attacker code (CVE-2026-90999)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wj86fr/phantomfix_a_fake_bug_report_to_sentry_seer_can/",
-      "summary": "submitted by /u/Ok-Pepper-2354 [link] [comments]",
-      "published": "2026-09-17T22:18:43+00:00"
     },
     {
       "source": "OSINT",
@@ -196,24 +336,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "How to Write with an LLM",
-      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-      "summary": "191 points · 120 comments",
-      "published": "2026-09-17T21:48:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "url": "https://prismml.com/news/bonsai-2-27b",
-      "summary": "471 points · 139 comments",
+      "summary": "527 points · 172 comments",
       "published": "2026-09-17T21:13:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "summary": "497 points · 236 comments",
-      "published": "2026-09-17T20:36:13+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -221,13 +347,6 @@
       "url": "https://slashdot.org/story/26/09/17/0619253/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Ars Technica reports: Half a year after Iranian drone strikes knocked out multiple Amazon data centers, the US tech company has acknowledged the permanent loss of some customer data that was hosted in Bahrain and the United Arab Emirates. Amazon Web Services was \"unable to restore access to the resources and data\" hosted in some of the war-damaged data centers, according to an AWS dashboard update posted on September 15. The development was first reported by Reuters and suggests that the Iranian",
       "published": "2026-09-17T20:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Astra for Law",
-      "url": "https://openai.com/index/astra-for-law/",
-      "summary": "509 points · 595 comments",
-      "published": "2026-09-17T20:17:48+00:00"
     },
     {
       "source": "REDDIT",
@@ -258,25 +377,11 @@
       "published": "2026-09-17T17:32:22+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Agrus Scanner 1.0 - open-source Windows network scanner that finds every AI service (and MCP server) on your network. Recently updated: detection signatures now update themselves",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wj0732/agrus_scanner_10_opensource_windows_network/",
-      "summary": "submitted by /u/Astaldo318 [link] [comments]",
-      "published": "2026-09-17T17:19:06+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
       "url": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
       "summary": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
       "published": "2026-09-17T17:11:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "url": "https://github.com/asciimoo/hister",
-      "summary": "636 points · 170 comments",
-      "published": "2026-09-17T16:25:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -307,32 +412,11 @@
       "published": "2026-09-17T14:01:11+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Hackers Hijack HBO Max’s Reddit Account to Spread Crypto-Stealing Malware",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wiu5rg/hackers_hijack_hbo_maxs_reddit_account_to_spread/",
-      "summary": "submitted by /u/beingmodest [link] [comments]",
-      "published": "2026-09-17T13:34:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in October",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
-      "summary": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
-      "published": "2026-09-17T13:09:09+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "url": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
       "summary": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code execution. Unbound 1.26.1, released the same day, fixes the bug, tracked as CVE-2026-81642, along with",
       "published": "2026-09-17T12:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
-      "published": "2026-09-17T11:50:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -349,48 +433,6 @@
       "published": "2026-09-17T11:34:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "US takes down NightmareStresser DDoS-for-hire platform",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
-      "published": "2026-09-17T11:33:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "url": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "summary": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand before pointing one at production. TL;DR Exploitation is now the front door. It starts 31% of breaches (Verizon DBIR",
-      "published": "2026-09-17T10:50:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "url": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "summary": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky is a modular, C++ backdoor,\" ESET security researchers Alexandre Côté Cyr and Romain Dumont said in a technical report shared with The Hacker News",
-      "published": "2026-09-17T10:05:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-      "url": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-      "summary": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid to improve transparency. \"As AI systems grow more advanced and more widely deployed, we need to build a broader and better-informed consensus on the",
-      "published": "2026-09-17T09:53:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "summary": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
-      "published": "2026-09-17T09:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "summary": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
-      "published": "2026-09-17T08:24:48+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "OpenAI Admits Six More Instances of AI Models Acting Deceptively",
       "url": "https://slashdot.org/story/26/09/17/0641223/openai-admits-six-more-instances-of-ai-models-acting-deceptively?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -403,13 +445,6 @@
       "url": "https://news.slashdot.org/story/26/09/15/0149250/adafruits-new-circuitpython-turbo-brings-native-code-to-tiny-boards?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Targeting students and beginners, Adafruit released \"CircuitPython\" in 2017 (as a derivative of the MicroPython microcontroller-optimized programming language). Now Adafruit managing director Phillip Torrone (also long-time Slashdot reader ptorrone) brings this update: Adafruit has published CircuitPython Turbo, a workflow that compiles selected Python functions into native machine code on a computer, then loads them onto compatible microcontroller boards. It builds on MicroPython's Native and V",
       "published": "2026-09-17T02:34:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "summary": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-      "published": "2026-09-17T00:35:48+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -433,20 +468,6 @@
       "published": "2026-09-16T17:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Replacing Pull Requests with Delta",
-      "url": "https://zed.dev/blog/delta-public-beta",
-      "summary": "44 points · 11 comments",
-      "published": "2026-09-16T14:05:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "When the fractional part of a float fixes your shader",
-      "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
-      "summary": "47 points · 5 comments",
-      "published": "2026-09-16T13:20:15+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Firefox Touts Lower CPU Use for Large JPEGs, Faster PDF Viewer Startup (and AI Controls)",
       "url": "https://news.slashdot.org/story/26/09/16/0352217/firefox-touts-lower-cpu-use-for-large-jpegs-faster-pdf-viewer-startup-and-ai-controls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -455,31 +476,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Wax motor",
-      "url": "https://en.wikipedia.org/wiki/Wax_motor",
-      "summary": "434 points · 73 comments",
-      "published": "2026-09-16T12:35:14+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "America's Cryptocurrency 'Clarity Act' Fails Spectacularly, Despite Hundreds of Millions in Industry Lobbying",
-      "url": "https://news.slashdot.org/story/26/09/16/0454223/americas-cryptocurrency-clarity-act-fails-spectacularly-despite-hundreds-of-millions-in-industry-lobbying?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"The crypto industry's top legislative priority failed on Tuesday in spectacular fashion,\" reports Barron's. A procedural motion to advance the bill failed by a vote of 49 to 50, with a handful of Republicans joining all Democrats to shoot it down. The motion needed 60 yes votes to pass, and with the midterm elections looming, the Senate isn't expected to pick the bill back up this year. Among other provisions, the bill would have taken most crypto trading out of the purview of securities regula",
-      "published": "2026-09-16T08:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
-      "summary": "607 points · 234 comments",
-      "published": "2026-09-15T17:28:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Dr Julius Neubronner's Miniature Pigeon Camera",
-      "url": "https://publicdomainreview.org/collection/dr-julius-neubronner-s-miniature-pigeon-camera/",
-      "summary": "13 points · 0 comments",
-      "published": "2026-09-15T14:27:54+00:00"
+      "title": "The Shadows Lurking in the Equations – Underwater Islands",
+      "url": "https://gods.art/articles/equation_shadows",
+      "summary": "40 points · 8 comments",
+      "published": "2026-09-16T02:37:22+00:00"
     },
     {
       "source": "REDDIT",
