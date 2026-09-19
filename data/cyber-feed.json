@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T21:22:57.145293+00:00",
+  "updated": "2026-09-19T23:25:40.378913+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,53 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Is the Ec-Council CPENT v2 AI Web Range impossible?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wkzj9d/is_the_eccouncil_cpent_v2_ai_web_range_impossible/",
+      "summary": "Yes, this is yet another post trying to find people who have taken the C|PENT v2 and managed to crack the mystery of the highest-value web challenge—the SyncvibeXR one; it’s essentially the deciding factor for whether or not you’ll earn the LPT. The thing is, I dedicated a full 12-hour session exclusively to the Web Range. I had already completed all the others. I spent those 12 hours trying absolutely everything, everything I knew and everything I didn't on these final challenges. There are 400",
+      "published": "2026-09-19T22:26:48+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
+      "url": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"In April this year, we saw Andy Nguyen turning the PS5 into a Linux-powered gaming PC,\" writes the blog It's FOSS. It ran Steam games and emulators using the PS5's on-board hardware. But this week Andy announced he's \"stopping all my work on PS5 Linux\" and \"stepping away from the PS5 scene.\" stopping work on porting the project to the PS5 Pro, which would've shipped sometime in 2027. Andy Nguyen: After pouring my heart and months of my life into it, including plans to finish PS5 Pro support and",
+      "published": "2026-09-19T22:05:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Google Gemini accidentally breached real systems during a security test",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wkymom/google_gemini_accidentally_breached_real_systems/",
+      "summary": "During a cybersecurity test, Gemini reportedly accessed real company systems by guessing a password and finding exposed credentials. Once it realized the targets were real, it stopped. Google says its safety controls worked. submitted by /u/thechougala [link] [comments]",
+      "published": "2026-09-19T21:48:12+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "I captured 72 hours of idle Android packets behind pfSense",
-      "url": "https://www.praveentechworld.com/research/degoogle-telemetry-2026",
-      "summary": "11 points · 2 comments",
-      "published": "2026-09-19T20:03:35+00:00"
+      "title": "Mayday Mysteries",
+      "url": "http://www.maydaymystery.org/mayday/",
+      "summary": "16 points · 3 comments",
+      "published": "2026-09-19T21:43:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "summary": "56 points · 26 comments",
+      "published": "2026-09-19T21:30:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "summary": "16 points · 7 comments",
+      "published": "2026-09-19T21:25:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "93 points · 95 comments",
+      "published": "2026-09-19T20:41:26+00:00"
     },
     {
       "source": "REDDIT",
@@ -44,14 +86,14 @@
       "source": "HACKER NEWS",
       "title": "Measure internet censorship. Contribute to the largest open dataset",
       "url": "https://ooni.org/install",
-      "summary": "24 points · 12 comments",
+      "summary": "64 points · 38 comments",
       "published": "2026-09-19T20:00:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
       "url": "https://eprint.iacr.org/2026/2039",
-      "summary": "28 points · 3 comments",
+      "summary": "44 points · 6 comments",
       "published": "2026-09-19T19:23:23+00:00"
     },
     {
@@ -91,16 +133,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
-      "url": "https://supabase.link/orioledbjob",
-      "summary": "1 points · 0 comments",
-      "published": "2026-09-19T17:01:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
       "url": "https://github.com/trycua/cua",
-      "summary": "32 points · 3 comments",
+      "summary": "51 points · 7 comments",
       "published": "2026-09-19T15:52:51+00:00"
     },
     {
@@ -114,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Brood War Bench",
       "url": "https://bw.swerdlow.dev/report",
-      "summary": "62 points · 33 comments",
+      "summary": "107 points · 62 comments",
       "published": "2026-09-19T14:44:02+00:00"
     },
     {
@@ -135,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Tin: full-text search for Postgres",
       "url": "https://planetscale.com/blog/introducing-tin",
-      "summary": "156 points · 65 comments",
+      "summary": "176 points · 70 comments",
       "published": "2026-09-19T13:52:06+00:00"
     },
     {
@@ -184,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "I built non-autoregressive decision models with RL a year ago",
       "url": "https://laya.convaiinnovations.com/",
-      "summary": "935 points · 226 comments",
+      "summary": "1036 points · 240 comments",
       "published": "2026-09-19T10:46:58+00:00"
     },
     {
@@ -205,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "AI-generated posters don’t have to be horrible",
       "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-      "summary": "1174 points · 651 comments",
+      "summary": "1304 points · 716 comments",
       "published": "2026-09-19T09:20:58+00:00"
     },
     {
@@ -230,20 +265,6 @@
       "published": "2026-09-19T07:14:54+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
-      "summary": "331 points · 155 comments",
-      "published": "2026-09-19T06:41:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CVE-2026-77179: Docker's hypervisor for Mac compromised (Docker Desktop, Docker Sandboxes)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wkei8h/cve202677179_dockers_hypervisor_for_mac/",
-      "summary": "submitted by /u/natcoba [link] [comments]",
-      "published": "2026-09-19T06:27:22+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
       "url": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
@@ -254,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
       "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-      "summary": "586 points · 225 comments",
+      "summary": "601 points · 230 comments",
       "published": "2026-09-19T05:48:50+00:00"
     },
     {
@@ -296,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
       "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-      "summary": "1080 points · 632 comments",
+      "summary": "1106 points · 645 comments",
       "published": "2026-09-18T19:03:09+00:00"
     },
     {
@@ -321,13 +342,6 @@
       "published": "2026-09-18T16:00:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Black Holes or Black Hole Stars? Astronomers Spar over 'Little Red Dots'",
-      "url": "https://www.quantamagazine.org/black-holes-or-black-hole-stars-astronomers-spar-over-webb-telescopes-little-red-dots-20260914/",
-      "summary": "81 points · 39 comments",
-      "published": "2026-09-18T15:47:14+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
       "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
@@ -349,13 +363,6 @@
       "published": "2026-09-18T14:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Saw a lady near me paste a bunch of docs into GPT(personal acct) and asked to remove all PII lol, had to report. I feel bad but what would you have done? It's my job",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wjr7xn/saw_a_lady_near_me_paste_a_bunch_of_docs_into/",
-      "summary": "Noticed a cal entry get added for later today by her boss. submitted by /u/FAX_ME_YOUR_BOTTOM [link] [comments]",
-      "published": "2026-09-18T14:07:35+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Secure enterprise sharing with access reviews for Microsoft 365",
       "url": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
@@ -373,7 +380,7 @@
       "source": "HACKER NEWS",
       "title": "UFO Series Home Page: \"UFO\" TV Series from 1970",
       "url": "https://ufoseries.com/",
-      "summary": "24 points · 10 comments",
+      "summary": "43 points · 25 comments",
       "published": "2026-09-18T13:35:05+00:00"
     },
     {
@@ -440,31 +447,24 @@
       "published": "2026-09-17T20:34:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Hackers Stole Flock's Camera Software, Revealing How the Company Tracks Cars and People",
-      "url": "https://yro.slashdot.org/story/26/09/17/0517235/hackers-stole-flocks-camera-software-revealing-how-the-company-tracks-cars-and-people?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Hackers ripped down a Flock camera above a roadway, made a near-complete copy of the data stored inside it, and shared the files with 404 Media and WIRED,\" according to an article published on both sites. Though Flock has described its system as protected by on-device encryption, \"The hackers were able to copy the camera's storage and recover an encryption key stored on the device, which unlocked videos of thousands of vehicle detections.\" The hackers shared the material with 404 Media and the ",
-      "published": "2026-09-17T16:04:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "New evidence for hidden chambers beyond Tutankhamun's tomb",
-      "url": "https://www.nature.com/articles/d41586-026-02621-2",
-      "summary": "77 points · 28 comments",
-      "published": "2026-09-17T15:58:31+00:00"
+      "title": "Compiler-style optimization for drawing via Skia",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "summary": "39 points · 10 comments",
+      "published": "2026-09-17T17:30:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Suzanne Ciani's Buchla Cookbook",
       "url": "https://echo.orpheusinstituut.be/article/suzannes-buchla-cookbook",
-      "summary": "35 points · 11 comments",
+      "summary": "52 points · 20 comments",
       "published": "2026-09-17T00:39:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Deodands put a price on objects that caused death",
       "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
-      "summary": "12 points · 5 comments",
+      "summary": "30 points · 11 comments",
       "published": "2026-09-16T19:51:23+00:00"
     },
     {
@@ -478,7 +478,7 @@
       "source": "HACKER NEWS",
       "title": "The Secret Life of Circuits",
       "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-      "summary": "260 points · 67 comments",
+      "summary": "276 points · 71 comments",
       "published": "2026-09-15T23:15:05+00:00"
     },
     {
