@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T01:32:35.553986+00:00",
+  "updated": "2026-09-22T06:43:26.898153+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,10 +27,73 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+      "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+      "summary": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta. The flaw is in",
+      "published": "2026-09-22T06:33:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+      "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+      "published": "2026-09-22T06:03:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hatchet OAuth state CSRF — CVE-2026-61687",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn16el/hatchet_oauth_state_csrf_cve202661687/",
+      "summary": "A flaw in ValidateOAuthState can allow unauthenticated OAuth state CSRF/login-CSRF due to an empty-state collision. submitted by /u/thechougala [link] [comments]",
+      "published": "2026-09-22T05:59:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Firmware Freedom",
+      "url": "https://playtaurus.com/blog/firmware-freedom",
+      "summary": "9 points · 3 comments",
+      "published": "2026-09-22T05:49:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple Music to open concert venue in Battersea Power Station",
+      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
+      "summary": "32 points · 18 comments",
+      "published": "2026-09-22T05:32:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+      "url": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-7273 (CVSS score: 8.8), is a stack-based buffer overflow vulnerability that could result in arbitrary operating",
+      "published": "2026-09-22T05:31:59+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "For those of you using WEF or Sysmon on workstations with EDR. Where did it help and what were your experiences?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmz5b8/for_those_of_you_using_wef_or_sysmon_on/",
+      "summary": "Did it meaningfully increase telemetry, investigations, and detections? submitted by /u/IamOnlyLookingThanks [link] [comments]",
+      "published": "2026-09-22T04:08:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Meta's New 'Personal AI Agent' Muse Beats ChatGPT in Downloads - and Get Blocked by Amazon",
+      "url": "https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Meta's AI \"personal agent\" Muse overtook ChatGPT as the #1 iOS free app in the U.S. on Friday, reports CNBC — and it's still showing more downloads as of Monday night. Muse now has over 2.5 million downloads since its debut less than two weeks ago, according to analytics firm Sensor Tower... [Muse] is currently ahead of popular services like OpenAI's ChatGPT, Polymarket and Kashi... It's also ahead of rival AI apps like Anthropic's Claude and SpaceXAI's Grok AI, in addition to the Facebook-paren",
+      "published": "2026-09-22T04:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
+      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
+      "summary": "13 points · 3 comments",
+      "published": "2026-09-22T04:02:09+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Claude Status – Elevated errors for multiple models",
       "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "summary": "31 points · 14 comments",
+      "summary": "92 points · 70 comments",
       "published": "2026-09-22T01:05:19+00:00"
     },
     {
@@ -39,6 +102,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmuagd/muse_metas_extraordinarily_privileged_ai/",
       "summary": "submitted by /u/favorscore [link] [comments]",
       "published": "2026-09-22T00:21:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Socrates vs. the Written Word (2011)",
+      "url": "https://wondermark.com/socrates-vs-writing/",
+      "summary": "35 points · 10 comments",
+      "published": "2026-09-22T00:06:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -55,24 +125,17 @@
       "published": "2026-09-21T23:18:08+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Turns out 40% of MCP servers have zero authentication, and even the ones that do are broken",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmss0m/turns_out_40_of_mcp_servers_have_zero/",
-      "summary": "A recent measurement study looked at almost 8,000 live remote MCP servers and found 40.55% expose their tools with no auth at all, and among the ones that did use OAuth, every single one had at least one security flaw. Over 300 CVEs have already been filed against MCP infrastructure. The core issue is that every MCP server is quietly acting as an identity issuer now, deciding what an agent can access, and most of them were never built to do that job safely. Anyone running MCP servers in producti",
-      "published": "2026-09-21T23:18:02+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Looking forward to Git 2.56 – and 3.0",
       "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "summary": "26 points · 6 comments",
+      "summary": "94 points · 35 comments",
       "published": "2026-09-21T23:16:51+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Spymarks, Not Watermarks",
       "url": "https://brand.io/article/spymarks/",
-      "summary": "100 points · 23 comments",
+      "summary": "315 points · 75 comments",
       "published": "2026-09-21T23:03:49+00:00"
     },
     {
@@ -86,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "I don't want to read what you didn't write",
       "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "223 points · 88 comments",
+      "summary": "548 points · 190 comments",
       "published": "2026-09-21T22:30:41+00:00"
     },
     {
@@ -105,9 +168,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Xiaomi MiMo v2.6",
+      "title": "MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "523 points · 269 comments",
+      "summary": "771 points · 351 comments",
       "published": "2026-09-21T20:12:12+00:00"
     },
     {
@@ -121,28 +184,28 @@
       "source": "HACKER NEWS",
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "196 points · 35 comments",
+      "summary": "331 points · 50 comments",
       "published": "2026-09-21T19:43:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "137 points · 137 comments",
+      "summary": "206 points · 210 comments",
       "published": "2026-09-21T19:23:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "summary": "84 points · 38 comments",
+      "summary": "119 points · 57 comments",
       "published": "2026-09-21T19:17:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "NASA’s Mars Sample Return mission is dead",
       "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "305 points · 235 comments",
+      "summary": "366 points · 301 comments",
       "published": "2026-09-21T19:14:12+00:00"
     },
     {
@@ -153,25 +216,11 @@
       "published": "2026-09-21T19:04:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "summary": "110 points · 28 comments",
-      "published": "2026-09-21T18:33:44+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
       "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
       "summary": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
       "published": "2026-09-21T18:23:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Apple Copland D11E4 Booting in the Browser",
-      "url": "https://www.pagetable.com/300",
-      "summary": "100 points · 28 comments",
-      "published": "2026-09-21T18:15:32+00:00"
     },
     {
       "source": "OSINT",
@@ -209,25 +258,11 @@
       "published": "2026-09-21T16:55:52+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The agents, they just want to talk",
-      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
-      "summary": "11 points · 1 comments",
-      "published": "2026-09-21T16:22:26+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "4 CVEs in ZTE SmartHome: Password-Reset Flaw Led to Account Takeover. 100K+ Android Downloads",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmhe8z/4_cves_in_zte_smarthome_passwordreset_flaw_led_to/",
       "summary": "I published the full write-up for four vulnerabilities I reported in the ZTE SmartLife ecosystem. The most serious one was a password reset flaw rated CVSS 8.8 High. The SmartLife backend accepted an account ID and a new password without requiring the reset code. The account verification flow could also disclose whether an email was registered and return its backend account ID. Put together, I could take one of my test accounts from an email address to a changed password and a valid authenticate",
       "published": "2026-09-21T16:17:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How do traffic signals work? (2019)",
-      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
-      "summary": "60 points · 46 comments",
-      "published": "2026-09-21T16:06:44+00:00"
     },
     {
       "source": "REDDIT",
@@ -261,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "572 points · 170 comments",
+      "summary": "714 points · 211 comments",
       "published": "2026-09-21T14:26:56+00:00"
     },
     {
@@ -282,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "What Sun got wrong",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "494 points · 283 comments",
+      "summary": "558 points · 322 comments",
       "published": "2026-09-21T14:03:18+00:00"
     },
     {
@@ -312,20 +347,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
       "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
       "published": "2026-09-21T11:45:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "First Shader from Zero in Godot 4",
-      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
-      "summary": "30 points · 2 comments",
-      "published": "2026-09-21T10:57:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "For people who handle offboarding: how much does killing the email account actually clean up on its own?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wm9gbg/for_people_who_handle_offboarding_how_much_does/",
-      "summary": "I've been trying to understand how offboarding really works in practice, and one thing keeps coming up that I'd love a reality check on from people who actually do it. When someone leaves, how much does disabling their email/SSO account take care of by itself? I heard from one place that it cascades to 90%+ of their apps and subscriptions and only a small tail is left to chase by hand. Is that your experience, or is the leftover tail bigger and messier than that? A few things I'm curious about: ",
-      "published": "2026-09-21T10:54:00+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -412,11 +433,25 @@
       "published": "2026-09-20T11:34:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
+      "url": "https://gwern.net/blog/2022/pdf-forgery",
+      "summary": "25 points · 21 comments",
+      "published": "2026-09-20T09:57:35+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Tech Industry Scratches Its Head Over Trump's 'AI Force' Proposal",
       "url": "https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Saturday morning President Trump announced he's creating an AI task force and appointing an AI czar, reports Politico. \"I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS,\" Trump wrote Saturday in what Politico earlier described as \"a lengthy Truth Social post on Saturday morning.\" TRUMP: Over the years, there have been many Hoaxes, all generated by the Radical Left Dumocrats, for purposes of destroying our Country. RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAIN",
       "published": "2026-09-20T07:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "World Wide Words",
+      "url": "https://www.worldwidewords.org/genindex.html",
+      "summary": "3 points · 0 comments",
+      "published": "2026-09-20T03:21:12+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -427,23 +462,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "More Floating Point Alternatives",
-      "url": "https://wizardzines.com/comics/floating-point-alternatives/",
-      "summary": "6 points · 3 comments",
-      "published": "2026-09-20T00:55:27+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
-      "url": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"In April this year, we saw Andy Nguyen turning the PS5 into a Linux-powered gaming PC,\" writes the blog It's FOSS. It ran Steam games and emulators using the PS5's on-board hardware. But this week Andy announced he's \"stopping all my work on PS5 Linux\" and \"stepping away from the PS5 scene.\" stopping work on porting the project to the PS5 Pro, which would've shipped sometime in 2027. Andy Nguyen: After pouring my heart and months of my life into it, including plans to finish PS5 Pro support and",
-      "published": "2026-09-19T22:05:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Divide by depth for instant 3D",
       "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "summary": "81 points · 8 comments",
+      "summary": "125 points · 22 comments",
       "published": "2026-09-19T19:43:13+00:00"
     },
     {
@@ -466,27 +487,6 @@
       "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
       "published": "2026-09-19T13:28:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-      "url": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-      "summary": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Report. This article explains what identity visibility means in IAM, why cloud and multicloud environments complicate it, which capabilities matter in",
-      "published": "2026-09-19T13:28:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-      "url": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-      "summary": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability. The vulnerability, tracked as CVE-2026-28326, is rated 8.8 out of 10.0 on the CVSS scoring system. The issue affects all versions of Access Rights Manager 2026.2 and prior. \"SolarWinds",
-      "published": "2026-09-19T09:31:17+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-      "url": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-      "summary": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet. The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated remote code execution. \"Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote",
-      "published": "2026-09-19T08:18:54+00:00"
     },
     {
       "source": "OSINT",
