@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T12:30:52.928302+00:00",
-  "item_count": 76,
+  "updated": "2026-09-22T17:11:48.568845+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,18 +27,179 @@
   ],
   "items": [
     {
-      "source": "HACKER NEWS",
-      "title": "AI Has No Wisdom and Neither Will You",
-      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-      "summary": "9 points · 1 comments",
-      "published": "2026-09-22T12:11:09+00:00"
+      "source": "REDDIT",
+      "title": "the never ending learning hole of cybersec",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnfdpi/the_never_ending_learning_hole_of_cybersec/",
+      "summary": "hey guys i have fallen into this rabbit hole of never ending learning. whenever i try to complete a ctf challenge or similar, i find that i dont know much of what the challenge is . i only get the goal. if i see a challenge which was written in python using flask , i dont just focus on how to get the flag. i find myself learning python then html,css then js with some burp then flask **omg weeks have passed** then i go back to challenge then realise theres still more. i dont always get the full p",
+      "published": "2026-09-22T17:08:14+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Will Open Source Survive the Agents That Replaced It?",
-      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
-      "summary": "7 points · 2 comments",
-      "published": "2026-09-22T12:05:17+00:00"
+      "title": "Aging may be a program, not a breakdown",
+      "url": "https://www.quantamagazine.org/why-aging-may-be-a-program-not-a-breakdown-20260814/",
+      "summary": "19 points · 7 comments",
+      "published": "2026-09-22T16:48:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "WordPress: Unauthenticated path traversal in page-template resolution",
+      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+      "summary": "19 points · 3 comments",
+      "published": "2026-09-22T16:33:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Check Point warns of Management Server zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+      "published": "2026-09-22T16:32:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "summary": "145 points · 236 comments",
+      "published": "2026-09-22T16:29:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why",
+      "url": "https://ai-rete-rag.com/",
+      "summary": "7 points · 0 comments",
+      "published": "2026-09-22T16:15:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "16-bit Intel 8088 chip",
+      "url": "https://allpoetry.com/16-bit-Intel-8088-chip",
+      "summary": "38 points · 3 comments",
+      "published": "2026-09-22T16:11:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Xbox continues its “reset” with dramatic restructuring",
+      "url": "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+      "summary": "28 points · 15 comments",
+      "published": "2026-09-22T16:10:58+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Leaked GitHub App private keys let researchers impersonate 440 apps including CDC and BuildBuddy",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wncxlb/leaked_github_app_private_keys_let_researchers/",
+      "summary": "A large-scale scan for leaked GitHub App private keys turned up some nice numbers, summarized below. Out of 5,000 leaked private keys tied to GitHub App environments, 474 were still valid at time of analysis. Those keys could impersonate 440 different GitHub Apps, some with high-level permissions (repo access, org-level admin, etc.). A subset reportedly could have allowed takeover of private repositories or entire GitHub organizations. Affected entities included the US CDC and BuildBuddy , plus ",
+      "published": "2026-09-22T15:39:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Writing Rust code that's fast by asking agents to make the code faster",
+      "url": "https://minimaxir.com/2026/09/agentic-iteration/",
+      "summary": "35 points · 15 comments",
+      "published": "2026-09-22T15:38:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wncmqg/eviltokens_phaas_disrupted_after_compromising/",
+      "summary": "submitted by /u/Doug24 [link] [comments]",
+      "published": "2026-09-22T15:28:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+      "url": "https://mouse.dev/blog/muse-runtime-export/",
+      "summary": "178 points · 90 comments",
+      "published": "2026-09-22T15:25:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: InstinctFlash – Run 5B world-action models in real time on Jetson Thor",
+      "url": "https://github.com/General-Instinct/InstinctFlash",
+      "summary": "6 points · 0 comments",
+      "published": "2026-09-22T15:20:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "summary": "133 points · 101 comments",
+      "published": "2026-09-22T14:42:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Meta’s Muse has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "summary": "75 points · 29 comments",
+      "published": "2026-09-22T14:35:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+      "summary": "331 points · 246 comments",
+      "published": "2026-09-22T14:30:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How would a ‘cultural fit’ interview be for a SOC L1 analyst role",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnaj5l/how_would_a_cultural_fit_interview_be_for_a_soc/",
+      "summary": "Hello guys, so basically I’m on the hunt for a SOC L1 job as a cybersecurity graduate with multiple certifications and projects in my portfolio. So I applied for this job on LinkedIn, got the first screening call, passed that. Then got a technical interview that was 45 minutes asking me about cybersecurity fundamentals, passed that as well. Now that I’m into the final stage interview which is called “cultural fit”, I want to know what should I expect in it and how would it go? If someone has sim",
+      "published": "2026-09-22T14:08:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+      "url": "https://droprun.sh/",
+      "summary": "96 points · 29 comments",
+      "published": "2026-09-22T13:52:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "summary": "322 points · 272 comments",
+      "published": "2026-09-22T13:52:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "We analyzed 338 million attack simulations in production. Perimeter defense blocks 69% of attacks, but post-compromise blocking drops to 37%. AMA.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn9jc3/we_analyzed_338_million_attack_simulations_in/",
+      "summary": "Hi r/cybersecurity ! We're the Picus Labs Research Team , and we're here for an AMA. For the Blue Report 2026 , we analyzed more than 338 million attack simulations run in production environments between January and June 2026, mapped to the MITRE ATT&CK® framework. The headline finding for 2026: prevention recovered to 69% at the perimeter , its 2024 peak. But for the first time, we measured what happens after an attacker gains authenticated access, and only 37% of their actions get blocked . Ke",
+      "published": "2026-09-22T13:28:46+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
+      "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Two U.S. missiles hit an elementary school in Iran, killing over 150 people including 123 children on the first day of the Iran War. But Gizmodo notes that a new Bloomberg investigation cites U.S. officials involved in an unreleased internal Pentagon review who blame \"a cascade of preventable failures that included an overreliance on an AI tool built by Palantir.\" According to the officials who spoke to Bloomberg, some personnel inside U.S. Central Command leaned too hard on the AI inside the Ma",
+      "published": "2026-09-22T13:04:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+      "url": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+      "summary": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions can make the greatest difference. [...]",
+      "published": "2026-09-22T12:57:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+      "summary": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+      "published": "2026-09-22T12:48:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+      "url": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+      "summary": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has? A person may try several ways to complete a task. A deterministic application follows the flow its developer wrote. But an AI agent is relentless in its pursuit of done. In May",
+      "published": "2026-09-22T12:30:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+      "url": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+      "summary": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22. The flaw, tracked as CVE-2026-93952, may allow a remote attacker with no login access to privilege internal functions and affect the VCO host. Only orchestrators set up to authenticate their Edges with certificates are",
+      "published": "2026-09-22T12:29:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -62,32 +223,11 @@
       "published": "2026-09-22T11:38:40+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Type Punning in C and C++",
-      "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
-      "summary": "20 points · 5 comments",
-      "published": "2026-09-22T11:29:47+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
       "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
       "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
       "published": "2026-09-22T11:17:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "JetBrains Air: A System of Products for Agentic Software Development",
-      "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
-      "summary": "46 points · 38 comments",
-      "published": "2026-09-22T11:00:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
-      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
-      "summary": "93 points · 114 comments",
-      "published": "2026-09-22T10:36:44+00:00"
     },
     {
       "source": "REDDIT",
@@ -111,27 +251,6 @@
       "published": "2026-09-22T09:38:18+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Verda (Finland) raises $189M in Series B",
-      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
-      "summary": "42 points · 13 comments",
-      "published": "2026-09-22T09:36:31+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "AI Governance Engineer: an open body of knowledge mapping EU AI Act, ISO 42001 and NIST AI RMF to the artefacts that satisfy each obligation",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn4o2o/ai_governance_engineer_an_open_body_of_knowledge/",
-      "summary": "What it is: a free, open, versioned body of knowledge on AI governance engineering: eleven chapters, a five-level maturity model, seventeen reusable patterns, and a crosswalk that maps each obligation to the concrete artefact that satisfies or supports it. CC BY 4.0, source on GitHub, versioned releases with a changelog and a DOI so it can be cited. Nothing to sign up for and nothing behind a paywall. Why I wrote it: frameworks tell you what must be true, and very little tells you what has to ex",
-      "published": "2026-09-22T09:27:40+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Legit Security ASPM",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn47gx/legit_security_aspm/",
-      "summary": "anyone has any experience with their product, especially the AI driven features? submitted by /u/Motor_Interest9817 [link] [comments]",
-      "published": "2026-09-22T09:00:27+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
@@ -139,25 +258,11 @@
       "published": "2026-09-22T08:53:09+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "AMD's random number generator can't generate a 0?",
-      "url": "https://board.flatassembler.net/topic.php?t=24261",
-      "summary": "121 points · 64 comments",
-      "published": "2026-09-22T08:39:43+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops",
       "url": "https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Monday Google opened preorders for its \"Googlebook\" laptops, pricing them at $899. A Google's blog post added that \"At launch, you can choose between Intel Core Ultra Series 3 and Snapdragon X Elite processors\" (paired with NPUs to power AI features). \"Devices will hit shelves on October 4 in the U.S. and on October 5 in Canada, the U.K., Ireland, France, Germany, and Australia,\" TechCrunch points out. But \"the real pull for the new devices is that they'll prominently feature Gemini's latest cap",
       "published": "2026-09-22T08:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I said no and Apple said yes",
-      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-      "summary": "327 points · 237 comments",
-      "published": "2026-09-22T08:04:55+00:00"
     },
     {
       "source": "OSINT",
@@ -177,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Can gzip be a language model?",
       "url": "https://nathan.rs/posts/gzip-lm/",
-      "summary": "206 points · 79 comments",
+      "summary": "322 points · 121 comments",
       "published": "2026-09-22T06:08:39+00:00"
     },
     {
@@ -202,25 +307,11 @@
       "published": "2026-09-22T05:31:59+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "For those of you using WEF or Sysmon on workstations with EDR. Where did it help and what were your experiences?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmz5b8/for_those_of_you_using_wef_or_sysmon_on/",
-      "summary": "Did it meaningfully increase telemetry, investigations, and detections? submitted by /u/IamOnlyLookingThanks [link] [comments]",
-      "published": "2026-09-22T04:08:59+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Meta's New 'Personal AI Agent' Muse Beats ChatGPT in Downloads - and Get Blocked by Amazon",
       "url": "https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Meta's AI \"personal agent\" Muse overtook ChatGPT as the #1 iOS free app in the U.S. on Friday, reports CNBC — and it's still showing more downloads as of Monday night. Muse now has over 2.5 million downloads since its debut less than two weeks ago, according to analytics firm Sensor Tower... [Muse] is currently ahead of popular services like OpenAI's ChatGPT, Polymarket and Kashi... It's also ahead of rival AI apps like Anthropic's Claude and SpaceXAI's Grok AI, in addition to the Facebook-paren",
       "published": "2026-09-22T04:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
-      "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "summary": "100 points · 33 comments",
-      "published": "2026-09-22T04:02:09+00:00"
     },
     {
       "source": "REDDIT",
@@ -237,25 +328,18 @@
       "published": "2026-09-21T23:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Updates and User Notifications",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmss4q/updates_and_user_notifications/",
-      "summary": "At my org, there is this long-standing drama about updates disrupting work flows. We push out updates at strategically chosen times throughout the month and the user experience we keep getting back is, \"My updates forced me to restart at an inconvenient time.\" For example, one user had to drop out of a meeting, restart, finalize updates, and get back in. She said the whole process was embarrassing. However, when asked, she said she saw the notification at the beginning of the day and kept puttin",
-      "published": "2026-09-21T23:18:08+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Spymarks, Not Watermarks",
+      "title": "Spymarks, not Watermarks",
       "url": "https://brand.io/article/spymarks/",
-      "summary": "498 points · 123 comments",
+      "summary": "614 points · 154 comments",
       "published": "2026-09-21T23:03:49+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "I don't want to read what you didn't write",
-      "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "772 points · 312 comments",
-      "published": "2026-09-21T22:30:41+00:00"
+      "title": "Solitaire Alone Together",
+      "url": "https://solitairealonetogether.com/",
+      "summary": "57 points · 12 comments",
+      "published": "2026-09-21T22:16:34+00:00"
     },
     {
       "source": "OSINT",
@@ -275,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "949 points · 427 comments",
+      "summary": "1039 points · 461 comments",
       "published": "2026-09-21T20:12:12+00:00"
     },
     {
@@ -284,13 +368,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmnxqa/owasp_compromised/",
       "summary": "Looks like the API security page may be compromised? https://api-security.owasp.org/ Edit: looks like the original site is back up https://owasp.org/API-Security/ submitted by /u/tpasmall [link] [comments]",
       "published": "2026-09-21T20:10:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "463 points · 72 comments",
-      "published": "2026-09-21T19:43:49+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -329,20 +406,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-      "url": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-      "summary": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020. Ireland's Data Protection Commission (DPC), Google's lead regulator in the EU, also ordered the company to make its processing comply with the law within 6 months. The DPC has not said publicly which",
-      "published": "2026-09-21T16:57:31+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Microsoft retires SMS sign-in in February 2027",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmgmss/microsoft_retires_sms_signin_in_february_2027/",
-      "summary": "I wonder how you dealing with this? How would that impact your organization where you have user who resist to use the Authenticator App. submitted by /u/Putrid_Improvement46 [link] [comments]",
-      "published": "2026-09-21T15:50:59+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Google fined €403 million over location data privacy violations",
       "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
       "summary": "Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]",
@@ -363,53 +426,11 @@
       "published": "2026-09-21T14:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Attention is all you have",
-      "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "871 points · 262 comments",
-      "published": "2026-09-21T14:26:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-      "url": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-      "summary": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week. The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak checks, fake fixes, and attack paths that look almost too easy. Even the research side is getting messy, with more findings, more automation, and not",
-      "published": "2026-09-21T14:24:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What Sun got wrong",
-      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "608 points · 352 comments",
-      "published": "2026-09-21T14:03:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
-      "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
-      "summary": "The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how agencies can address password, MFA, and identity requirements as they prepare for upcoming audits. [...]",
-      "published": "2026-09-21T14:02:12+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Ukrainian Hackers Raid Russia’s Naval Files, Walk Away With Secrets From 70 Projects",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmcw1j/ukrainian_hackers_raid_russias_naval_files_walk/",
       "summary": "submitted by /u/DerBootsMann [link] [comments]",
       "published": "2026-09-21T13:31:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
-      "summary": "Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]",
-      "published": "2026-09-21T13:16:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft: September updates break File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "summary": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
-      "published": "2026-09-21T11:45:54+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -454,39 +475,11 @@
       "published": "2026-09-20T16:04:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "summary": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
-      "published": "2026-09-20T14:11:21+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "To Enforce Its Proposed Social Media Ban for 450 Million Pre-Teens, EU Builds an Open Source App",
       "url": "https://yro.slashdot.org/story/26/09/20/0712211/to-enforce-its-proposed-social-media-ban-for-450-million-pre-teens-eu-builds-an-open-source-app?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The European Commission \"proposed on Thursday banning children under 13 from social media, with parent-supervised accounts until 15,\" reports Reuters. \"Enforcement would rely on a tool Brussels built itself\" — a free, open-source age verification smartphone app \"that tells a platform whether a user meets an age threshold without revealing their identity...\" If passed, the proposed Kids Act would create the world's largest social media access restriction, covering 450 million people across 27 cou",
       "published": "2026-09-20T11:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A font that reads what you wrote",
-      "url": "https://rohanadwankar.github.io/posts/semfont.html",
-      "summary": "34 points · 17 comments",
-      "published": "2026-09-20T09:38:16+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Tech Industry Scratches Its Head Over Trump's 'AI Force' Proposal",
-      "url": "https://politics.slashdot.org/story/26/09/19/2250231/tech-industry-scratches-its-head-over-trumps-ai-force-proposal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Saturday morning President Trump announced he's creating an AI task force and appointing an AI czar, reports Politico. \"I am forming the AI Force, much like I did Space Force, which has been a tremendous SUCCESS,\" Trump wrote Saturday in what Politico earlier described as \"a lengthy Truth Social post on Saturday morning.\" TRUMP: Over the years, there have been many Hoaxes, all generated by the Radical Left Dumocrats, for purposes of destroying our Country. RUSSIA, RUSSIA, RUSSIA, UKRAINE, UKRAIN",
-      "published": "2026-09-20T07:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "JavaFX 27 Native Image on a Raspberry Pi 5",
-      "url": "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html",
-      "summary": "32 points · 4 comments",
-      "published": "2026-09-19T14:51:09+00:00"
     },
     {
       "source": "OSINT",
