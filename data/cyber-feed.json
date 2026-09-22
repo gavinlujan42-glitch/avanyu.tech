@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T06:43:26.898153+00:00",
+  "updated": "2026-09-22T12:30:52.928302+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,146 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "AI Has No Wisdom and Neither Will You",
+      "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+      "summary": "9 points · 1 comments",
+      "published": "2026-09-22T12:11:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Will Open Source Survive the Agents That Replaced It?",
+      "url": "https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/",
+      "summary": "7 points · 2 comments",
+      "published": "2026-09-22T12:05:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Updated hardware-compliance-handbook - open-source, fact-checked EU CRA/RED/NIS2/CSA reference. Added a dedicated /sbom/ folder (CycloneDX + SPDX examples, VEX). Also doubles as a Claude Skill.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn7dbt/updated_hardwarecompliancehandbook_opensource/",
+      "summary": "submitted by /u/Pitiful_Signature264 [link] [comments]",
+      "published": "2026-09-22T11:53:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "url": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "summary": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident escalation workflows. Now in its second year, the harder part of DORA is",
+      "published": "2026-09-22T11:45:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "url": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "summary": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.",
+      "published": "2026-09-22T11:38:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Type Punning in C and C++",
+      "url": "https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html",
+      "summary": "20 points · 5 comments",
+      "published": "2026-09-22T11:29:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
+      "published": "2026-09-22T11:17:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "JetBrains Air: A System of Products for Agentic Software Development",
+      "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
+      "summary": "46 points · 38 comments",
+      "published": "2026-09-22T11:00:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "9 Ads per Minute: FIFA Cup 26 – \"the price of the beautiful game\"",
+      "url": "https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html",
+      "summary": "93 points · 114 comments",
+      "published": "2026-09-22T10:36:44+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Why does food/beverage get so little attention as critical infrastructure?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn57cn/why_does_foodbeverage_get_so_little_attention_as/",
+      "summary": "Something I keep thinking about. Food production is basically critical infrastructure now, it all runs on OT (PLCs, SCADA, monitoring), and a ransomware hit can stop a plant cold without ever touching the product. But it gets way less attention than energy, finance, or healthcare when people talk about critical infrastructure security. Why do you think that is? Is it just less visible, or is the sector genuinely behind on OT security compared to others? Curious what people here think. submitted ",
+      "published": "2026-09-22T09:59:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "published": "2026-09-22T09:55:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit sorted-btree package, an ordinary B-tree/indexing utility,\" Checkmarx said. \"",
+      "published": "2026-09-22T09:38:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Verda (Finland) raises $189M in Series B",
+      "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
+      "summary": "42 points · 13 comments",
+      "published": "2026-09-22T09:36:31+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AI Governance Engineer: an open body of knowledge mapping EU AI Act, ISO 42001 and NIST AI RMF to the artefacts that satisfy each obligation",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn4o2o/ai_governance_engineer_an_open_body_of_knowledge/",
+      "summary": "What it is: a free, open, versioned body of knowledge on AI governance engineering: eleven chapters, a five-level maturity model, seventeen reusable patterns, and a crosswalk that maps each obligation to the concrete artefact that satisfies or supports it. CC BY 4.0, source on GitHub, versioned releases with a changelog and a DOI so it can be cited. Nothing to sign up for and nothing behind a paywall. Why I wrote it: frameworks tell you what must be true, and very little tells you what has to ex",
+      "published": "2026-09-22T09:27:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Legit Security ASPM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn47gx/legit_security_aspm/",
+      "summary": "anyone has any experience with their product, especially the AI driven features? submitted by /u/Motor_Interest9817 [link] [comments]",
+      "published": "2026-09-22T09:00:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "2026-09-22T08:53:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AMD's random number generator can't generate a 0?",
+      "url": "https://board.flatassembler.net/topic.php?t=24261",
+      "summary": "121 points · 64 comments",
+      "published": "2026-09-22T08:39:43+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops",
+      "url": "https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Monday Google opened preorders for its \"Googlebook\" laptops, pricing them at $899. A Google's blog post added that \"At launch, you can choose between Intel Core Ultra Series 3 and Snapdragon X Elite processors\" (paired with NPUs to power AI features). \"Devices will hit shelves on October 4 in the U.S. and on October 5 in Canada, the U.K., Ireland, France, Germany, and Australia,\" TechCrunch points out. But \"the real pull for the new devices is that they'll prominently feature Gemini's latest cap",
+      "published": "2026-09-22T08:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I said no and Apple said yes",
+      "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+      "summary": "327 points · 237 comments",
+      "published": "2026-09-22T08:04:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "url": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "summary": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute malicious scripts and circumvent standard security protocols,\" Trellix researchers",
+      "published": "2026-09-22T07:52:03+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
       "url": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
@@ -34,10 +174,17 @@
       "published": "2026-09-22T06:33:57+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Can gzip be a language model?",
+      "url": "https://nathan.rs/posts/gzip-lm/",
+      "summary": "206 points · 79 comments",
+      "published": "2026-09-22T06:08:39+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
       "url": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+      "summary": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
       "published": "2026-09-22T06:03:14+00:00"
     },
     {
@@ -46,20 +193,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wn16el/hatchet_oauth_state_csrf_cve202661687/",
       "summary": "A flaw in ValidateOAuthState can allow unauthenticated OAuth state CSRF/login-CSRF due to an empty-state collision. submitted by /u/thechougala [link] [comments]",
       "published": "2026-09-22T05:59:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Firmware Freedom",
-      "url": "https://playtaurus.com/blog/firmware-freedom",
-      "summary": "9 points · 3 comments",
-      "published": "2026-09-22T05:49:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Apple Music to open concert venue in Battersea Power Station",
-      "url": "https://www.bbc.com/news/articles/c607l2j2rj8ro",
-      "summary": "32 points · 18 comments",
-      "published": "2026-09-22T05:32:55+00:00"
     },
     {
       "source": "OSINT",
@@ -86,15 +219,8 @@
       "source": "HACKER NEWS",
       "title": "MiMo-v2.6-Pro: Intelligence, Performance and Price Analysis",
       "url": "https://artificialanalysis.ai/models/mimo-v2-6-pro",
-      "summary": "13 points · 3 comments",
+      "summary": "100 points · 33 comments",
       "published": "2026-09-22T04:02:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Claude Status – Elevated errors for multiple models",
-      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
-      "summary": "92 points · 70 comments",
-      "published": "2026-09-22T01:05:19+00:00"
     },
     {
       "source": "REDDIT",
@@ -102,13 +228,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmuagd/muse_metas_extraordinarily_privileged_ai/",
       "summary": "submitted by /u/favorscore [link] [comments]",
       "published": "2026-09-22T00:21:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Socrates vs. the Written Word (2011)",
-      "url": "https://wondermark.com/socrates-vs-writing/",
-      "summary": "35 points · 10 comments",
-      "published": "2026-09-22T00:06:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -126,30 +245,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Looking forward to Git 2.56 – and 3.0",
-      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
-      "summary": "94 points · 35 comments",
-      "published": "2026-09-21T23:16:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Spymarks, Not Watermarks",
       "url": "https://brand.io/article/spymarks/",
-      "summary": "315 points · 75 comments",
+      "summary": "498 points · 123 comments",
       "published": "2026-09-21T23:03:49+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Vulnerability Summary for the Week of September 14, 2026",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmse3y/vulnerability_summary_for_the_week_of_september/",
-      "summary": "submitted by /u/antdude [link] [comments]",
-      "published": "2026-09-21T23:01:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I don't want to read what you didn't write",
       "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "548 points · 190 comments",
+      "summary": "772 points · 312 comments",
       "published": "2026-09-21T22:30:41+00:00"
     },
     {
@@ -170,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "771 points · 351 comments",
+      "summary": "949 points · 427 comments",
       "published": "2026-09-21T20:12:12+00:00"
     },
     {
@@ -184,29 +289,8 @@
       "source": "HACKER NEWS",
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "331 points · 50 comments",
+      "summary": "463 points · 72 comments",
       "published": "2026-09-21T19:43:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "206 points · 210 comments",
-      "published": "2026-09-21T19:23:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "summary": "119 points · 57 comments",
-      "published": "2026-09-21T19:17:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "NASA’s Mars Sample Return mission is dead",
-      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "366 points · 301 comments",
-      "published": "2026-09-21T19:14:12+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -252,20 +336,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "ShinyHunters hacks and defaces Cl0p - Will this shift the ransomware environment?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmigch/shinyhunters_hacks_and_defaces_cl0p_will_this/",
-      "summary": "On Sept 19th the ransomware group ShinyHunters managed to hack into and deface the TOR leak site of Cl0p ransomware. After the initial defacement ShinyHunters has posted a number of messages for Cl0p to negotiate and pay them a sum of 8 figures. In the articles I have read it is said that this was happening due to a feud due to threats made by Cl0p against Shiny Hunters. It has been interesting watching this all develop. In March of 2025 I also watched as the news that Dragonforce defaced the le",
-      "published": "2026-09-21T16:55:52+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "4 CVEs in ZTE SmartHome: Password-Reset Flaw Led to Account Takeover. 100K+ Android Downloads",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmhe8z/4_cves_in_zte_smarthome_passwordreset_flaw_led_to/",
-      "summary": "I published the full write-up for four vulnerabilities I reported in the ZTE SmartLife ecosystem. The most serious one was a password reset flaw rated CVSS 8.8 High. The SmartLife backend accepted an account ID and a new password without requiring the reset code. The account verification flow could also disclose whether an email was registered and return its backend account ID. Put together, I could take one of my test accounts from an email address to a changed password and a valid authenticate",
-      "published": "2026-09-21T16:17:42+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Microsoft retires SMS sign-in in February 2027",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmgmss/microsoft_retires_sms_signin_in_february_2027/",
       "summary": "I wonder how you dealing with this? How would that impact your organization where you have user who resist to use the Authenticator App. submitted by /u/Putrid_Improvement46 [link] [comments]",
@@ -296,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "714 points · 211 comments",
+      "summary": "871 points · 262 comments",
       "published": "2026-09-21T14:26:56+00:00"
     },
     {
@@ -307,17 +377,10 @@
       "published": "2026-09-21T14:24:13+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-      "url": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts. The backdoor \"automatically harvests and exfiltrates business documents, watches the filesystem for new files in real time, steals Wi-Fi passwords and clipboard contents, takes screenshots, and accepts arbitrary",
-      "published": "2026-09-21T14:15:40+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "What Sun got wrong",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "558 points · 322 comments",
+      "summary": "608 points · 352 comments",
       "published": "2026-09-21T14:03:18+00:00"
     },
     {
@@ -356,32 +419,11 @@
       "published": "2026-09-21T10:04:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
-      "url": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
-      "summary": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript. \"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and OrchidViolet66, while presenting itself as Spotify, Zoom Workplace, and Microsoft Teams software,\" Blackpoint Adversary Pursuit Group (APG)",
-      "published": "2026-09-21T08:39:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
-      "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
-      "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
-      "published": "2026-09-21T06:06:44+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide",
       "url": "https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"I would like to verify your technical abilities, so please download the specified file and complete the assigned task...\" Fake job listings aimed at software developers and IT professionals led to 30,000 infected devices in over 100 countries — and 7,000 compromised cryptocurrency wallets, leading to over $10 million (USD) transferred to North Korea. Inc. reports: The hacks occurred from December 2025 through July 2026, according to a joint cybersecurity advisory issued Friday by Japanese, Aust",
       "published": "2026-09-21T05:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CIRT/Incident Response people, how do you handle it?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wm1afy/cirtincident_response_people_how_do_you_handle_it/",
-      "summary": "I have been on an ongoing P0 breach incident bridge call for the past few days, and I have been working practically 15 hour shifts due to the scope of the investigation, with no containment in sight yet. The IOCs keeps expanding, the scope of investigation keeps multiplying, and the amount of logs being thrown at us is unbelievable. The executives keeps asking how the breach originated and honestly the team has no concrete ideas except educated guesses. I'm at my wit's end here. How do you handl",
-      "published": "2026-09-21T03:18:25+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -419,13 +461,6 @@
       "published": "2026-09-20T14:11:21+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-      "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-      "summary": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-      "published": "2026-09-20T12:00:00+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "To Enforce Its Proposed Social Media Ban for 450 Million Pre-Teens, EU Builds an Open Source App",
       "url": "https://yro.slashdot.org/story/26/09/20/0712211/to-enforce-its-proposed-social-media-ban-for-450-million-pre-teens-eu-builds-an-open-source-app?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -434,10 +469,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "PDF Forgeries Are Surprisingly Rare (2022)",
-      "url": "https://gwern.net/blog/2022/pdf-forgery",
-      "summary": "25 points · 21 comments",
-      "published": "2026-09-20T09:57:35+00:00"
+      "title": "A font that reads what you wrote",
+      "url": "https://rohanadwankar.github.io/posts/semfont.html",
+      "summary": "34 points · 17 comments",
+      "published": "2026-09-20T09:38:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -448,45 +483,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "World Wide Words",
-      "url": "https://www.worldwidewords.org/genindex.html",
-      "summary": "3 points · 0 comments",
-      "published": "2026-09-20T03:21:12+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Customer-Losing Flock Now Offers Buyouts to Avoid Laying Off Employees",
-      "url": "https://yro.slashdot.org/story/26/09/19/2349229/customer-losing-flock-now-offers-buyouts-to-avoid-laying-off-employees?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Mashable writes: Flock Safety offered employees voluntary buyouts on Friday, WIRED reported... Without the buyouts, those familiar with the situation suspect the company would have to lay off some of its 1,500 employees. WIRED writes that people familiar with the program \"say they believe that a significant number of the startup's roughly 1,500 employees may try to depart.\" Flock is making the severance offers as it continues to lose customers... The company has had many of its contracts either ",
-      "published": "2026-09-20T02:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Divide by depth for instant 3D",
-      "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "summary": "125 points · 22 comments",
-      "published": "2026-09-19T19:43:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
-      "published": "2026-09-19T18:36:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-      "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
-      "published": "2026-09-19T14:56:31+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "url": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "summary": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
-      "published": "2026-09-19T13:28:48+00:00"
+      "title": "JavaFX 27 Native Image on a Raspberry Pi 5",
+      "url": "https://ennerf.github.io/2026/09/18/JavaFX-27-Native-Image-on-a-Raspberry-Pi-5.html",
+      "summary": "32 points · 4 comments",
+      "published": "2026-09-19T14:51:09+00:00"
     },
     {
       "source": "OSINT",
