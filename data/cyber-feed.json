@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T22:46:33.115760+00:00",
+  "updated": "2026-09-22T01:32:35.553986+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,16 +28,65 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "Data Protection Commission fines Google €403M over processing of location data",
-      "url": "https://www.dataprotection.ie/en/news-media/latest-news/data-protection-commission-fines-google-eu403-million-following-inquiry-googles-processing-location",
-      "summary": "9 points · 1 comments",
-      "published": "2026-09-21T22:33:45+00:00"
+      "title": "Claude Status – Elevated errors for multiple models",
+      "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+      "summary": "31 points · 14 comments",
+      "published": "2026-09-22T01:05:19+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Muse, Meta’s extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmuagd/muse_metas_extraordinarily_privileged_ai/",
+      "summary": "submitted by /u/favorscore [link] [comments]",
+      "published": "2026-09-22T00:21:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Paramount Skydance 'Emerges Victorious', Finally Wins Settlement for Warner Bros Takeover",
+      "url": "https://entertainment.slashdot.org/story/26/09/21/226252/paramount-skydance-emerges-victorious-finally-wins-settlement-for-warner-bros-takeover?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Paramount Skydance just \"emerged victorious\" reports Reuters, \"from a legal battle over its $110 billion acquisition of Warner Bros Discovery\" that will \"dramatically concentrate power across Hollywood's film, TV, streaming and news businesses.\" The victory comes \"after settling with a California-led group of US states and a Hollywood writers union, paving the way for one of the largest media mergers in history.\" Paramount agreed to abide by temporary film quotas and a news oversight committee, ",
+      "published": "2026-09-21T23:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Updates and User Notifications",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmss4q/updates_and_user_notifications/",
+      "summary": "At my org, there is this long-standing drama about updates disrupting work flows. We push out updates at strategically chosen times throughout the month and the user experience we keep getting back is, \"My updates forced me to restart at an inconvenient time.\" For example, one user had to drop out of a meeting, restart, finalize updates, and get back in. She said the whole process was embarrassing. However, when asked, she said she saw the notification at the beginning of the day and kept puttin",
+      "published": "2026-09-21T23:18:08+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Turns out 40% of MCP servers have zero authentication, and even the ones that do are broken",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmss0m/turns_out_40_of_mcp_servers_have_zero/",
+      "summary": "A recent measurement study looked at almost 8,000 live remote MCP servers and found 40.55% expose their tools with no auth at all, and among the ones that did use OAuth, every single one had at least one security flaw. Over 300 CVEs have already been filed against MCP infrastructure. The core issue is that every MCP server is quietly acting as an identity issuer now, deciding what an agent can access, and most of them were never built to do that job safely. Anyone running MCP servers in producti",
+      "published": "2026-09-21T23:18:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Looking forward to Git 2.56 – and 3.0",
+      "url": "https://lwn.net/SubscriberLink/1094575/2385e98583715c2b/",
+      "summary": "26 points · 6 comments",
+      "published": "2026-09-21T23:16:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Spymarks, Not Watermarks",
+      "url": "https://brand.io/article/spymarks/",
+      "summary": "100 points · 23 comments",
+      "published": "2026-09-21T23:03:49+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Vulnerability Summary for the Week of September 14, 2026",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmse3y/vulnerability_summary_for_the_week_of_september/",
+      "summary": "submitted by /u/antdude [link] [comments]",
+      "published": "2026-09-21T23:01:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I don't want to read what you didn't write",
       "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-      "summary": "21 points · 0 comments",
+      "summary": "223 points · 88 comments",
       "published": "2026-09-21T22:30:41+00:00"
     },
     {
@@ -58,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Xiaomi MiMo v2.6",
       "url": "https://mimo.xiaomi.com/mimo-v2-6",
-      "summary": "352 points · 156 comments",
+      "summary": "523 points · 269 comments",
       "published": "2026-09-21T20:12:12+00:00"
     },
     {
@@ -72,36 +121,29 @@
       "source": "HACKER NEWS",
       "title": "Transformers Explained Visually",
       "url": "https://poloclub.github.io/transformer-explainer/",
-      "summary": "117 points · 17 comments",
+      "summary": "196 points · 35 comments",
       "published": "2026-09-21T19:43:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
       "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "summary": "92 points · 83 comments",
+      "summary": "137 points · 137 comments",
       "published": "2026-09-21T19:23:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Advisory Group on Mathematics and Artificial Intelligence",
       "url": "https://terrytao.wordpress.com/2026/09/21/advisory-group-on-mathematics-and-artificial-intelligence/",
-      "summary": "59 points · 30 comments",
+      "summary": "84 points · 38 comments",
       "published": "2026-09-21T19:17:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "NASA’s Mars Sample Return mission is dead",
       "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-      "summary": "228 points · 171 comments",
+      "summary": "305 points · 235 comments",
       "published": "2026-09-21T19:14:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "In Search of a Compositional Theory of Self-Stabilization",
-      "url": "http://muratbuffalo.blogspot.com/2026/09/in-search-of-compositional-theory-of.html",
-      "summary": "38 points · 3 comments",
-      "published": "2026-09-21T19:04:36+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -112,38 +154,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Roboharm: Do frontier robot policies refuse unsafe instructions?",
-      "url": "https://robocurve.org/roboharm/",
-      "summary": "23 points · 11 comments",
-      "published": "2026-09-21T18:58:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "summary": "63 points · 32 comments",
-      "published": "2026-09-21T18:53:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "summary": "164 points · 98 comments",
-      "published": "2026-09-21T18:41:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Why does mathmain need an encrypted loader?",
       "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "summary": "90 points · 26 comments",
+      "summary": "110 points · 28 comments",
       "published": "2026-09-21T18:33:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Wiz Cloud Security Cost Optimization",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wml3mg/wiz_cloud_security_cost_optimization/",
-      "summary": "How are you all optimizing Wiz licensing costs? What sanity checks or usage reviews do you regularly perform to make sure you're not over-consuming licenses? A couple of practices I’ve found helpful are: Reviewing and adjusting DSPM scan frequency Reviewing ASM scan frequency based on actual risk and business needs Would be interested to hear what other cost-optimization practices, checks, or tuning approaches you’ve found effective in Wiz. submitted by /u/dkas6259 [link] [comments]",
-      "published": "2026-09-21T18:29:27+00:00"
     },
     {
       "source": "OSINT",
@@ -156,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Apple Copland D11E4 Booting in the Browser",
       "url": "https://www.pagetable.com/300",
-      "summary": "65 points · 19 comments",
+      "summary": "100 points · 28 comments",
       "published": "2026-09-21T18:15:32+00:00"
     },
     {
@@ -167,25 +181,11 @@
       "published": "2026-09-21T17:54:49+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "‘We Have Enough AI’: Realism in a Time of Relentless Hype",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmjvzt/we_have_enough_ai_realism_in_a_time_of_relentless/",
-      "summary": "submitted by /u/YogiBerra88888 [link] [comments]",
-      "published": "2026-09-21T17:45:54+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
       "url": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
       "summary": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers",
       "published": "2026-09-21T17:31:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-      "summary": "208 points · 133 comments",
-      "published": "2026-09-21T17:30:21+00:00"
     },
     {
       "source": "OSINT",
@@ -209,6 +209,13 @@
       "published": "2026-09-21T16:55:52+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "The agents, they just want to talk",
+      "url": "https://snats.xyz/pages/articles/political_ecology/the_agents_they_just_want_to_talk.html",
+      "summary": "11 points · 1 comments",
+      "published": "2026-09-21T16:22:26+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "4 CVEs in ZTE SmartHome: Password-Reset Flaw Led to Account Takeover. 100K+ Android Downloads",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmhe8z/4_cves_in_zte_smarthome_passwordreset_flaw_led_to/",
@@ -216,18 +223,18 @@
       "published": "2026-09-21T16:17:42+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "How do traffic signals work? (2019)",
+      "url": "https://practical.engineering/blog/2019/5/11/how-do-traffic-signals-work",
+      "summary": "60 points · 46 comments",
+      "published": "2026-09-21T16:06:44+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Microsoft retires SMS sign-in in February 2027",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wmgmss/microsoft_retires_sms_signin_in_february_2027/",
       "summary": "I wonder how you dealing with this? How would that impact your organization where you have user who resist to use the Authenticator App. submitted by /u/Putrid_Improvement46 [link] [comments]",
       "published": "2026-09-21T15:50:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Grok 4.7",
-      "url": "https://x.ai/news/grok-4-7",
-      "summary": "451 points · 368 comments",
-      "published": "2026-09-21T15:50:15+00:00"
     },
     {
       "source": "OSINT",
@@ -251,17 +258,10 @@
       "published": "2026-09-21T14:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Web Serial API? How did I not know this?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmecyx/web_serial_api_how_did_i_not_know_this/",
-      "summary": "Somehow I only just discovered the Web Serial API that lets you access serial ports and USB from the browser. It wasn't until I started playing with an ESP32 and Bruce and loading the firmware using the browser. I figured there was a framework layer it used - Electron for instance. But no, I discovered there's an existing Web API providing this. Some thoughts that went through my head: ESP32 User: Well this is certainly a convenient way to load firmware on this device hanging off the USB cord. S",
-      "published": "2026-09-21T14:27:49+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Attention is all you have",
       "url": "https://alicegg.tech/2026/09/21/attention",
-      "summary": "513 points · 151 comments",
+      "summary": "572 points · 170 comments",
       "published": "2026-09-21T14:26:56+00:00"
     },
     {
@@ -282,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "What Sun got wrong",
       "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-      "summary": "461 points · 256 comments",
+      "summary": "494 points · 283 comments",
       "published": "2026-09-21T14:03:18+00:00"
     },
     {
@@ -314,6 +314,13 @@
       "published": "2026-09-21T11:45:54+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "First Shader from Zero in Godot 4",
+      "url": "https://www.gdquest.com/library/first_shader_godot4_portal/",
+      "summary": "30 points · 2 comments",
+      "published": "2026-09-21T10:57:44+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "For people who handle offboarding: how much does killing the email account actually clean up on its own?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wm9gbg/for_people_who_handle_offboarding_how_much_does/",
@@ -340,13 +347,6 @@
       "url": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
       "summary": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target developers to breach target networks. Cybersecurity company SentinelOne, which disclosed details of the activity, said it involved the use of Apple",
       "published": "2026-09-21T06:06:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Soc guy trying to shift domain",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wm4gee/soc_guy_trying_to_shift_domain/",
-      "summary": "soc guy at an mnc(big4) . but i want to get into a better role, what are the roles i can choose and what are the skills i need for that . cloud sec or security engineering or detection , which one recently started my career . do you think this cybersec career is good ? 7 months of experience submitted by /u/No_Television_7186 [link] [comments]",
-      "published": "2026-09-21T06:05:12+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -426,6 +426,13 @@
       "published": "2026-09-20T02:34:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "More Floating Point Alternatives",
+      "url": "https://wizardzines.com/comics/floating-point-alternatives/",
+      "summary": "6 points · 3 comments",
+      "published": "2026-09-20T00:55:27+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Developer Abandons 'PS5 Linux' Project After Sony Patches AI-Discovered Exploit",
       "url": "https://games.slashdot.org/story/26/09/19/222229/developer-abandons-ps5-linux-project-after-sony-patches-ai-discovered-exploit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -436,7 +443,7 @@
       "source": "HACKER NEWS",
       "title": "Divide by depth for instant 3D",
       "url": "https://gabrieloc.com/2026/09/15/perspective.html",
-      "summary": "46 points · 5 comments",
+      "summary": "81 points · 8 comments",
       "published": "2026-09-19T19:43:13+00:00"
     },
     {
@@ -445,13 +452,6 @@
       "url": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
       "summary": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
       "published": "2026-09-19T18:36:53+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Fake AI Intelligence Almost Made the US Military Start a War With China",
-      "url": "https://news.slashdot.org/story/26/09/19/062210/fake-ai-intelligence-almost-made-the-us-military-start-a-war-with-china?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "U.S. military intelligence received an inaccurate report this spring that a Chinese ship in the Middle East was transporting components of a nuclear weapons program, reports CNN. \"The US military swung into action with plans to intercept the vessel, according to four sources familiar with the episode.\" Armed members of the US military were preparing to board the ship [according to two of the sources]. Military planes were in the air, one of those sources and another source familiar with the inci",
-      "published": "2026-09-19T17:34:00+00:00"
     },
     {
       "source": "OSINT",
