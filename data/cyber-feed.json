@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T13:32:37.086748+00:00",
+  "updated": "2026-09-23T17:55:52.810355+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,45 +28,136 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "The GitHub wiki is an anti-pattern",
-      "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-      "summary": "5 points · 2 comments",
-      "published": "2026-09-23T13:05:49+00:00"
+      "title": "Italian parliament votes for return to nuclear energy",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "summary": "39 points · 4 comments",
+      "published": "2026-09-23T17:06:16+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "I Don't Want the Details",
+      "title": "28% of job postings on company career sites have been open over 90 days",
+      "url": "https://unlisted.careers/ghost-jobs/report/2026-09",
+      "summary": "74 points · 85 comments",
+      "published": "2026-09-23T16:35:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you detect malicious packages after your scanner clears them?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1woaw3u/how_do_you_detect_malicious_packages_after_your/",
+      "summary": "I was reading about the supply chain attacks in March where packages like Axios were hijacked. What is making me concerned is that dependency scanners and code signing fire before a tool runs. By the time a compromised package executes inside a pipeline, every standard security check has already cleared it. Once the malicious code runs during an install, it acts like a normal process and goes through local files for credentials. Because it looks legitimate, signature-based detection misses it. I",
+      "published": "2026-09-23T16:31:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+      "published": "2026-09-23T16:20:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection bug in the RouterOS login process (CVE-2026-86060). Attack logs date to at",
+      "published": "2026-09-23T16:06:41+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Andreessen Horowitz Launches AI/Company-Building School As a College Alternative",
+      "url": "https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "TechCrunch quipped it was like if startup school Y Combinator and Peter Thiel's build-a-company-instead of-college Fellowship Program had a baby. Silicon Valley venture capital firm Andreessen Horowitz is investing $35 million to launch a private school in San Francisco \"aimed at turning high school graduates into founders,\" writes the SF Standard. Or, as CBS News describes it, \"One blue-chip Silicon Valley investor has a proposal for young people who are questioning whether to attend college — ",
+      "published": "2026-09-23T16:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "summary": "114 points · 63 comments",
+      "published": "2026-09-23T15:29:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol",
+      "summary": "53 points · 17 comments",
+      "published": "2026-09-23T15:23:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fixing the Portobello Police Station Clock",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "summary": "194 points · 48 comments",
+      "published": "2026-09-23T15:18:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Strands Harness",
+      "url": "https://strandsagents.com/blog/introducing-strands-harness/",
+      "summary": "94 points · 59 comments",
+      "published": "2026-09-23T15:05:46+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wo8h33/nightmareeclipses_latest_zeroday_leaves_microsoft/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-09-23T15:03:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "InfraTrust report warns network management systems under attack",
+      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
+      "published": "2026-09-23T14:35:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.",
+      "published": "2026-09-23T14:17:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
+      "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+      "summary": "105 points · 60 comments",
+      "published": "2026-09-23T14:04:34+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "url": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "summary": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into a path to organization-wide privilege escalation. [...]",
+      "published": "2026-09-23T14:01:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below - @memtensor/memos-cloud-openclaw-plugin versions",
+      "published": "2026-09-23T13:52:46+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Got asked this in an interview",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wo6am6/got_asked_this_in_an_interview/",
+      "summary": "In an interview for a new grad devops role got asked this. “Who typically owns access to corporate applications: IAM engineers, IT staff, application administrators, or Platform/DevOps engineers?” How would yall answer submitted by /u/Obvious-Difficulty32 [link] [comments]",
+      "published": "2026-09-23T13:39:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "summary": "122 points · 72 comments",
+      "published": "2026-09-23T13:38:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I don't want the details",
       "url": "https://michaelheap.com/i-dont-want-the-details/",
-      "summary": "10 points · 1 comments",
+      "summary": "223 points · 133 comments",
       "published": "2026-09-23T13:04:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Samsung accidentally freezes its smart fridges with a software update",
-      "url": "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
-      "summary": "28 points · 13 comments",
-      "published": "2026-09-23T12:57:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What AI-Native Looks Like",
-      "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
-      "summary": "13 points · 5 comments",
-      "published": "2026-09-23T12:54:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Ive Sent It – online courier for files, with signed proof of delivery",
-      "url": "https://ivesentit.com",
-      "summary": "9 points · 5 comments",
-      "published": "2026-09-23T12:36:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-      "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
-      "summary": "52 points · 23 comments",
-      "published": "2026-09-23T12:32:00+00:00"
     },
     {
       "source": "OSINT",
@@ -74,13 +165,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
       "summary": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
       "published": "2026-09-23T12:29:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-      "url": "https://filmstudio.rxlab.app",
-      "summary": "12 points · 5 comments",
-      "published": "2026-09-23T12:28:40+00:00"
     },
     {
       "source": "OSINT",
@@ -91,9 +175,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
       "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-      "summary": "144 points · 56 comments",
+      "summary": "374 points · 209 comments",
       "published": "2026-09-23T12:15:33+00:00"
     },
     {
@@ -132,13 +216,6 @@
       "published": "2026-09-23T11:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Two Git ignore files nobody told me about",
-      "url": "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
-      "summary": "9 points · 3 comments",
-      "published": "2026-09-23T11:28:47+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft: September Windows updates break Always On VPN connections",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
@@ -153,17 +230,10 @@
       "published": "2026-09-23T11:12:18+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "MemTensor npm and PyPI packages were backdoored today through their own CI pipeline",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wo2w0o/memtensor_npm_and_pypi_packages_were_backdoored/",
-      "summary": "The attacker didn't push code directly. They got into MemTensor's GitHub Actions release workflow, intercepted the publish tokens before the real job ran, then used those tokens to ship the malicious packages themselves. submitted by /u/BattleRemote3157 [link] [comments]",
-      "published": "2026-09-23T11:05:09+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Z80 REPL",
+      "title": "Z80 REPL (2018)",
       "url": "https://abagames.github.io/z80-repl/index.html",
-      "summary": "58 points · 6 comments",
+      "summary": "114 points · 14 comments",
       "published": "2026-09-23T11:04:52+00:00"
     },
     {
@@ -184,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Tokens Too Cheap to Meter",
       "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-      "summary": "19 points · 11 comments",
+      "summary": "137 points · 114 comments",
       "published": "2026-09-23T09:21:17+00:00"
     },
     {
@@ -209,17 +279,10 @@
       "published": "2026-09-23T08:20:05+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Ransomware threat clean up help",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnz9te/ransomware_threat_clean_up_help/",
-      "summary": "I work for a small family company (5 people in total) we use NAS for document storage. Last week there were 2 notifications about someone logging into the nas under admin2, i naively threw it off as just a consequence of setting up and rclone connecting the NAS to Dolphin file manager for one of our arch linux pc. Rclone also required the creation of .Credentials file where the passwords were stored. This morning all of our NAS files got encrypted, thankfully we backed them all up as a precautio",
-      "published": "2026-09-23T07:34:30+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Jev in 25 Lines of Python",
       "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-      "summary": "350 points · 118 comments",
+      "summary": "513 points · 155 comments",
       "published": "2026-09-23T07:26:23+00:00"
     },
     {
@@ -258,18 +321,18 @@
       "published": "2026-09-23T05:30:09+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Transit rewards",
-      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
-      "summary": "187 points · 231 comments",
-      "published": "2026-09-23T02:52:29+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents",
       "url": "https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "U.S. President Trump addressed the United Nations on Tuesday. And a half hour in, after decrying immigration, Trump pivoted to add that \"The United States also totally rejects any attempt to construct a globalist scheme to control for the artificial intelligence being spoken of so much now.\" But then he added \"hereinafter officially called super intelligence, changing the name, in that the use of the word artificial makes intelligence fake. It makes it sound fake, and it is not fake. It's actual",
       "published": "2026-09-23T02:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Web-based IBM 1620 emulator and IPL-V from 1963",
+      "url": "https://github.com/pkimpel/retro-1620",
+      "summary": "20 points · 5 comments",
+      "published": "2026-09-23T00:06:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -307,25 +370,11 @@
       "published": "2026-09-22T21:40:37+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
-      "summary": "388 points · 211 comments",
-      "published": "2026-09-22T21:00:30+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
       "summary": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
       "published": "2026-09-22T20:35:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "North Korea infects thousands of devices worldwide through fake job offers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnkou4/north_korea_infects_thousands_of_devices/",
-      "summary": "submitted by /u/theindependentonline [link] [comments]",
-      "published": "2026-09-22T20:17:05+00:00"
     },
     {
       "source": "OSINT",
@@ -349,25 +398,11 @@
       "published": "2026-09-22T18:04:39+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "url": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "summary": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in WordPress 7.1.2, with fixes for every branch the project still supports, back to 4.7, and WordPress is telling site owners",
-      "published": "2026-09-22T18:03:10+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "summary": "1627 points · 780 comments",
+      "summary": "1683 points · 807 comments",
       "published": "2026-09-22T18:00:34+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was first uploaded to the npm registry in mid-August 2026 by an npm account named \"twdepprobe7731.\"",
-      "published": "2026-09-22T17:58:15+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -377,45 +412,17 @@
       "published": "2026-09-22T17:34:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Reducing shadow IT visibility gaps with Wazuh",
-      "url": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-      "summary": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce these visibility gaps. [...]",
-      "published": "2026-09-22T17:17:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "url": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "summary": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of Virginia, involved the efforts of Health-ISAC, alongside Cloudflare, Coinbase, OpenAI, Railway, SpyCloud, The Shadowserver",
-      "published": "2026-09-22T17:03:31+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "summary": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-      "published": "2026-09-22T16:32:47+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "summary": "1636 points · 1000 comments",
+      "summary": "1716 points · 1045 comments",
       "published": "2026-09-22T16:29:05+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "summary": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-      "published": "2026-09-22T15:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "summary": "692 points · 408 comments",
+      "summary": "712 points · 428 comments",
       "published": "2026-09-22T13:52:15+00:00"
     },
     {
@@ -466,13 +473,6 @@
       "url": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "There's at least 15 author-driven lawsuits underway against AI companies, while publishers have filed roughly 10 more coordinated suits of their own, notes Publisher's Weekly. Yet \"While the lawsuits play out, some publishers are building bridges.\" Google recently announced a partnership with Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan, O'Reilly Media, and Penguin Random House to enhance e-books from its Google Play store with AI, allowing readers to interact with the",
       "published": "2026-09-21T14:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection",
-      "url": "https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Australia is considering barring the use of camera-equipped smart glasses in government workplaces...\" reports Reuters, \"in what it said could be the first ban of its kind.\" But meanwhile \"more than 70 people who bought, used or were recorded with Meta's smart glasses have sued the social media giant,\" reports the Los Angeles Times, \"claiming their intimate and sensitive images were exposed to workers abroad who are paid to review and label photos and videos.\" The contractors in Kenya work for ",
-      "published": "2026-09-21T10:04:00+00:00"
     },
     {
       "source": "REDDIT",
