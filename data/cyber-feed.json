@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22T23:12:20.580746+00:00",
-  "item_count": 62,
+  "updated": "2026-09-23T01:42:33.701807+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,6 +27,20 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "The new CC, an AI agent built for families",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
+      "summary": "28 points · 31 comments",
+      "published": "2026-09-22T23:46:07+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "I failed a technical interview and I’m so disappointed…",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnoe4i/i_failed_a_technical_interview_and_im_so/",
+      "summary": "I failed a technical interview and I’m so disappointed… Although it was just an internship role and they shouldn’t expect a lot from us, sadly it was still a very hard process. I passed the technical challenge and the first interview, but then it came to the technical interview. He was giving me very hard scenarios and questions, and I believe I answered them fairly well. But then suddenly, days later, I received an email saying that I wasn’t selected… Why is it even this hard for an internship ",
+      "published": "2026-09-22T22:40:44+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Best LLM for security professionals",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wnns32/best_llm_for_security_professionals/",
@@ -39,10 +48,17 @@
       "published": "2026-09-22T22:15:28+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?",
+      "url": "https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "On academic mentoring platform Nova Learning, Computer Science and AI, \"once the dominant choice among students... is losing ground fast, while Engineering has nearly doubled its share.\" It's a small survey, but \"The steepest proportional decline is in Software & Data Science, the most traditional 'learn to code' pathway, which lost 44% of its 2025 share. AI saw the largest absolute drop of any single subject in the survey, down 6.2 points. \"The category did not decline uniformly. Students moved",
+      "published": "2026-09-22T22:04:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "The current balance of power in open models",
       "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "summary": "7 points · 2 comments",
+      "summary": "34 points · 10 comments",
       "published": "2026-09-22T22:03:46+00:00"
     },
     {
@@ -63,7 +79,7 @@
       "source": "HACKER NEWS",
       "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "url": "https://foxscript.org/",
-      "summary": "113 points · 82 comments",
+      "summary": "176 points · 125 comments",
       "published": "2026-09-22T21:00:30+00:00"
     },
     {
@@ -88,13 +104,6 @@
       "published": "2026-09-22T20:17:05+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Native apps written in TypeScript and CSS",
-      "url": "https://github.com/geastack/examples",
-      "summary": "61 points · 17 comments",
-      "published": "2026-09-22T19:42:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
@@ -103,9 +112,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "summary": "411 points · 214 comments",
+      "published": "2026-09-22T19:03:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "SAML: A fractal of bad design",
       "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "summary": "119 points · 62 comments",
+      "summary": "157 points · 89 comments",
       "published": "2026-09-22T18:57:17+00:00"
     },
     {
@@ -126,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "summary": "101 points · 61 comments",
+      "summary": "132 points · 79 comments",
       "published": "2026-09-22T18:15:53+00:00"
     },
     {
@@ -147,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "summary": "1017 points · 546 comments",
+      "summary": "1176 points · 602 comments",
       "published": "2026-09-22T18:00:34+00:00"
     },
     {
@@ -156,6 +172,13 @@
       "url": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
       "summary": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named \"tw-pkgprobe-7731,\" was first uploaded to the npm registry in mid-August 2026 by an npm account named \"twdepprobe7731.\"",
       "published": "2026-09-22T17:58:15+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'Coyote vs. Acme' Outgrosses All But 3 WB Movies This Year, Heads To Profit",
+      "url": "https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The movie Coyote vs. Acme earned more than Warner Bros.' $30 million tax write-off in just two weeks. And last week the movie officially earned more than its production budget of $70 million. But today the movie passed the $100 million mark. \"You asked for it, we delivered, and you showed up!\" distributor Ketchup Entertainment posted on social media (adding \"Thank you to the fans for making this a massive hit!\") With a break-even number of $120 million, the movie \"will probably make up any theat",
+      "published": "2026-09-22T17:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -182,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
       "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "summary": "209 points · 60 comments",
+      "summary": "233 points · 70 comments",
       "published": "2026-09-22T16:51:31+00:00"
     },
     {
@@ -196,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
       "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "summary": "142 points · 73 comments",
+      "summary": "152 points · 82 comments",
       "published": "2026-09-22T16:33:45+00:00"
     },
     {
@@ -210,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "summary": "1057 points · 754 comments",
+      "summary": "1199 points · 809 comments",
       "published": "2026-09-22T16:29:05+00:00"
     },
     {
@@ -238,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI is well positioned to fast-follow Jev",
       "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "summary": "244 points · 180 comments",
+      "summary": "260 points · 193 comments",
       "published": "2026-09-22T14:42:59+00:00"
     },
     {
@@ -252,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "summary": "523 points · 351 comments",
+      "summary": "557 points · 360 comments",
       "published": "2026-09-22T13:52:15+00:00"
     },
     {
@@ -263,11 +286,11 @@
       "published": "2026-09-22T13:28:46+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-      "url": "https://benchmarkheaven.com/jev-models",
-      "summary": "47 points · 7 comments",
-      "published": "2026-09-22T13:01:03+00:00"
+      "source": "SLASHDOT",
+      "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
+      "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Two U.S. missiles hit an elementary school in Iran, killing over 150 people including 123 children on the first day of the Iran War. But Gizmodo notes that a new Bloomberg investigation cites U.S. officials involved in an unreleased internal Pentagon review who blame \"a cascade of preventable failures that included an overreliance on an AI tool built by Palantir.\" According to the officials who spoke to Bloomberg, some personnel inside U.S. Central Command leaned too hard on the AI inside the Ma",
+      "published": "2026-09-22T13:04:00+00:00"
     },
     {
       "source": "OSINT",
@@ -340,25 +363,53 @@
       "published": "2026-09-22T08:53:09+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-      "summary": "84 points · 37 comments",
-      "published": "2026-09-22T00:24:00+00:00"
+      "source": "SLASHDOT",
+      "title": "Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops",
+      "url": "https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Monday Google opened preorders for its \"Googlebook\" laptops, pricing them at $899. A Google's blog post added that \"At launch, you can choose between Intel Core Ultra Series 3 and Snapdragon X Elite processors\" (paired with NPUs to power AI features). \"Devices will hit shelves on October 4 in the U.S. and on October 5 in Canada, the U.K., Ireland, France, Germany, and Australia,\" TechCrunch points out. But \"the real pull for the new devices is that they'll prominently feature Gemini's latest cap",
+      "published": "2026-09-22T08:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Muse, Meta’s extraordinarily privileged AI assistant, has a serious 0-day",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmuagd/muse_metas_extraordinarily_privileged_ai/",
-      "summary": "submitted by /u/favorscore [link] [comments]",
-      "published": "2026-09-22T00:21:45+00:00"
+      "source": "SLASHDOT",
+      "title": "Meta's New 'Personal AI Agent' Muse Beats ChatGPT in Downloads - and Get Blocked by Amazon",
+      "url": "https://tech.slashdot.org/story/26/09/22/0116233/metas-new-personal-ai-agent-muse-beats-chatgpt-in-downloads---and-get-blocked-by-amazon?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Meta's AI \"personal agent\" Muse overtook ChatGPT as the #1 iOS free app in the U.S. on Friday, reports CNBC — and it's still showing more downloads as of Monday night. Muse now has over 2.5 million downloads since its debut less than two weeks ago, according to analytics firm Sensor Tower... [Muse] is currently ahead of popular services like OpenAI's ChatGPT, Polymarket and Kashi... It's also ahead of rival AI apps like Anthropic's Claude and SpaceXAI's Grok AI, in addition to the Facebook-paren",
+      "published": "2026-09-22T04:04:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Markdown in /src",
-      "url": "https://htmx.org/essays/markdown-in-src/",
-      "summary": "70 points · 34 comments",
-      "published": "2026-09-21T22:47:54+00:00"
+      "title": "What California is learning from solar panels built over irrigation canals",
+      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+      "summary": "112 points · 146 comments",
+      "published": "2026-09-22T03:10:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Side-stepping the Secretary Problem, unwittingly",
+      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+      "summary": "49 points · 5 comments",
+      "published": "2026-09-22T02:47:52+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Paramount Skydance 'Emerges Victorious', Finally Wins Settlement for Warner Bros Takeover",
+      "url": "https://entertainment.slashdot.org/story/26/09/21/226252/paramount-skydance-emerges-victorious-finally-wins-settlement-for-warner-bros-takeover?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Paramount Skydance just \"emerged victorious\" reports Reuters, \"from a legal battle over its $110 billion acquisition of Warner Bros Discovery\" that will \"dramatically concentrate power across Hollywood's film, TV, streaming and news businesses.\" The victory comes \"after settling with a California-led group of US states and a Hollywood writers union, paving the way for one of the largest media mergers in history.\" Paramount agreed to abide by temporary film quotas and a news oversight committee, ",
+      "published": "2026-09-21T23:34:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "As KDE Turns 30, Contributors and Commits are Going Strong",
+      "url": "https://tech.slashdot.org/story/26/09/21/0647232/as-kde-turns-30-contributors-and-commits-are-going-strong?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"In a few weeks, KDE will turn 30 years old,\" writes core contributor Kevin Ottens, celebrating with some special KDE community data analytics (including a 30-year graph of the number of contributors): It peaks around 180 on average (and sometimes reaches towards around 200 people) then shrinks again hitting bottom around 110 persons on average in 2017... Since then, we had two major events happening. First, 2018 is the year where we had the first set of KDE Goals being picked by the community, ",
+      "published": "2026-09-21T19:04:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Are Book Publishers Warming Up to the AI Industry?",
+      "url": "https://news.slashdot.org/story/26/09/21/0551218/are-book-publishers-warming-up-to-the-ai-industry?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "There's at least 15 author-driven lawsuits underway against AI companies, while publishers have filed roughly 10 more coordinated suits of their own, notes Publisher's Weekly. Yet \"While the lawsuits play out, some publishers are building bridges.\" Google recently announced a partnership with Bloomsbury, De Gruyter Brill, Johns Hopkins University Press, Macmillan, O'Reilly Media, and Penguin Random House to enhance e-books from its Google Play store with AI, allowing readers to interact with the",
+      "published": "2026-09-21T14:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -368,11 +419,32 @@
       "published": "2026-09-21T13:31:15+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection",
+      "url": "https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Australia is considering barring the use of camera-equipped smart glasses in government workplaces...\" reports Reuters, \"in what it said could be the first ban of its kind.\" But meanwhile \"more than 70 people who bought, used or were recorded with Meta's smart glasses have sued the social media giant,\" reports the Los Angeles Times, \"claiming their intimate and sensitive images were exposed to workers abroad who are paid to review and label photos and videos.\" The contractors in Kenya work for ",
+      "published": "2026-09-21T10:04:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "North Korean Hackers Posed as Recruiters. They Infected 30,000 Devices Worldwide",
+      "url": "https://yro.slashdot.org/story/26/09/20/2349221/north-korean-hackers-posed-as-recruiters-they-infected-30000-devices-worldwide?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"I would like to verify your technical abilities, so please download the specified file and complete the assigned task...\" Fake job listings aimed at software developers and IT professionals led to 30,000 infected devices in over 100 countries — and 7,000 compromised cryptocurrency wallets, leading to over $10 million (USD) transferred to North Korea. Inc. reports: The hacks occurred from December 2025 through July 2026, according to a joint cybersecurity advisory issued Friday by Japanese, Aust",
+      "published": "2026-09-21T05:34:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
       "url": "https://github.com/xCuri0/ReBarUEFI",
-      "summary": "23 points · 3 comments",
+      "summary": "73 points · 21 comments",
       "published": "2026-09-21T01:07:46+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Lawsuit Says Anthropic, OpenAI, SpaceXAI And Google Made Illegal Agreement On AI Slowdown",
+      "url": "https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Tom's Hardware reports: Four plaintiffs subscribed to ChatGPT, Claude, Grok, or Gemini filed a proposed class-action lawsuit alleging that the developers of these AI models violated antitrust laws when they agreed to slow AI development. According to the Associated Press, the lawsuit argues that this agreement would \"reduce the value consumers get for paid AI subscriptions\" and that this coordination started in July 2026 after the leading AI labs signed a statement admitting there is \"intense co",
+      "published": "2026-09-21T01:04:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -385,14 +457,21 @@
       "source": "HACKER NEWS",
       "title": "MUNI Heritage Weekend in San Francisco",
       "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-      "summary": "145 points · 36 comments",
+      "summary": "162 points · 40 comments",
       "published": "2026-09-20T22:13:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Democracy vs Digital Infrastructure: Pulitzer-Winning Journalist Charts 'The Rise and Fall of the Artificial State'",
+      "url": "https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Rise and Fall of the Artificial State ultimately asks the question, \"How did we cede control of our democracy to the machines, and can we get it back?\" according to the Harvard's Arts and Sciences site, FAS Current: The new title finds Lepore, who used to teach a course at the College titled \"The Rise and Fall of the Machine,\" charting the ascent of what she calls the artificial state: the digital communication infrastructure by which governments and private corporations automate and ultimat",
+      "published": "2026-09-20T20:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How did AMD Ryzen get 50% faster in two years?",
       "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "summary": "172 points · 51 comments",
+      "summary": "210 points · 79 comments",
       "published": "2026-09-18T19:01:03+00:00"
     },
     {
