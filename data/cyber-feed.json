@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T01:42:33.701807+00:00",
+  "updated": "2026-09-23T07:38:08.248223+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,11 +27,74 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Ransomware threat clean up help",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnz9te/ransomware_threat_clean_up_help/",
+      "summary": "I work for a small family company (5 people in total) we use NAS for document storage. Last week there were 2 notifications about someone logging into the nas under admin2, i naively threw it off as just a consequence of setting up and rclone connecting the NAS to Dolphin file manager for one of our arch linux pc. Rclone also required the creation of .Credentials file where the passwords were stored. This morning all of our NAS files got encrypted, thankfully we backed them all up as a precautio",
+      "published": "2026-09-23T07:34:30+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "summary": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "published": "2026-09-23T07:17:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "url": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "summary": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the request URL, into the image. Vercel, which develops Next.js, fixed the flaw on September 22 in version",
+      "published": "2026-09-23T07:04:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform",
+      "url": "https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft's security blog describes the fight against a new \"AI-powered cybercrime platform\" offering phishing-as-a-service, with AI-tailored lures and analyses of compromised inboxes (to identify high-value targets). The site compromised more than 12,000 inboxes in over 10,000 organizations around the world, compromising business accounts \"at scale\" with automated attacks and prebuilt phishing templates. AI tools could even sift through a victim's mailbox to help engineer better phishing messag",
+      "published": "2026-09-23T07:04:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "[Tool] fad-checker – Air-gapped, multi-ecosystem dependency auditor made for real code audits (NO Maven required)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnyj9w/tool_fadchecker_airgapped_multiecosystem/",
+      "summary": "Hi ! After years of doing code audits, existing SCA tools were just frying my brain with their need for a full build environment, their struggles with big multi-module Maven projects, and those messy, monstrous polyglot monorepos. So I wrote fad-checker a dependency auditor designed specifically for real-world professional code audits : • One-shot scan of multiples Maven / Gradle / npm / PHP / PyPI / NuGet / Go / Ruby projects • + vendored JS, committed binaries, certificates & private keys • No",
+      "published": "2026-09-23T06:50:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "url": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "summary": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
+      "published": "2026-09-23T05:30:09+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "The new CC, an AI agent built for families",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/",
-      "summary": "28 points · 31 comments",
-      "published": "2026-09-22T23:46:07+00:00"
+      "title": "Data-only attacks are easier than you think (2024)",
+      "url": "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+      "summary": "39 points · 14 comments",
+      "published": "2026-09-23T03:49:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Transit rewards",
+      "url": "https://waymo.com/blog/2026/09/transit-rewards/",
+      "summary": "112 points · 101 comments",
+      "published": "2026-09-23T02:52:29+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents",
+      "url": "https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "U.S. President Trump addressed the United Nations on Tuesday. And a half hour in, after decrying immigration, Trump pivoted to add that \"The United States also totally rejects any attempt to construct a globalist scheme to control for the artificial intelligence being spoken of so much now.\" But then he added \"hereinafter officially called super intelligence, changing the name, in that the use of the word artificial makes intelligence fake. It makes it sound fake, and it is not fake. It's actual",
+      "published": "2026-09-23T02:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CISA just added CVE-2026-7273 affecting Zyxel GS1900 switches to its KEV catalog.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wntbnz/cisa_just_added_cve20267273_affecting_zyxel/",
+      "summary": "The flaw is a stack-based CGI overflow that could allow unauthenticated OS command execution from the LAN. Federal agencies have until Sept. 24 to address it. Another reminder that edge switches can quickly become high-value targets once active exploitation starts. submitted by /u/thechougala [link] [comments]",
+      "published": "2026-09-23T02:18:22+00:00"
     },
     {
       "source": "REDDIT",
@@ -55,13 +118,6 @@
       "published": "2026-09-22T22:04:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The current balance of power in open models",
-      "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-      "summary": "34 points · 10 comments",
-      "published": "2026-09-22T22:03:46+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Rogue external MFA providers can steal passwords during logins",
       "url": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
@@ -79,15 +135,8 @@
       "source": "HACKER NEWS",
       "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
       "url": "https://foxscript.org/",
-      "summary": "176 points · 125 comments",
+      "summary": "291 points · 172 comments",
       "published": "2026-09-22T21:00:30+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Claude skills library - has anyone used it?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnl8cn/claude_skills_library_has_anyone_used_it/",
-      "summary": "This seems super interesting to play around with but I’m afraid to load something like this onto my machine without some vetting first. Has anybody done a review of it or used it themselves that might be able to provide information? https://github.com/mukul975/Anthropic-Cybersecurity-Skills submitted by /u/CyberSecPlatypus [link] [comments]",
-      "published": "2026-09-22T20:36:56+00:00"
     },
     {
       "source": "OSINT",
@@ -114,14 +163,14 @@
       "source": "HACKER NEWS",
       "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
       "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "summary": "411 points · 214 comments",
+      "summary": "601 points · 298 comments",
       "published": "2026-09-22T19:03:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "SAML: A fractal of bad design",
       "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "summary": "157 points · 89 comments",
+      "summary": "222 points · 130 comments",
       "published": "2026-09-22T18:57:17+00:00"
     },
     {
@@ -142,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Unreal Agent",
       "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "summary": "132 points · 79 comments",
+      "summary": "171 points · 99 comments",
       "published": "2026-09-22T18:15:53+00:00"
     },
     {
@@ -163,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "GPT-6 Sol and Luna",
       "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "summary": "1176 points · 602 comments",
+      "summary": "1458 points · 698 comments",
       "published": "2026-09-22T18:00:34+00:00"
     },
     {
@@ -205,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
       "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "summary": "233 points · 70 comments",
+      "summary": "276 points · 84 comments",
       "published": "2026-09-22T16:51:31+00:00"
     },
     {
@@ -219,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
       "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "summary": "152 points · 82 comments",
+      "summary": "184 points · 94 comments",
       "published": "2026-09-22T16:33:45+00:00"
     },
     {
@@ -233,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Claude Opus 5.5",
       "url": "https://www.anthropic.com/claude-opus-5-5",
-      "summary": "1199 points · 809 comments",
+      "summary": "1468 points · 916 comments",
       "published": "2026-09-22T16:29:05+00:00"
     },
     {
@@ -259,23 +308,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "summary": "260 points · 193 comments",
-      "published": "2026-09-22T14:42:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How would a ‘cultural fit’ interview be for a SOC L1 analyst role",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wnaj5l/how_would_a_cultural_fit_interview_be_for_a_soc/",
-      "summary": "Hello guys, so basically I’m on the hunt for a SOC L1 job as a cybersecurity graduate with multiple certifications and projects in my portfolio. So I applied for this job on LinkedIn, got the first screening call, passed that. Then got a technical interview that was 45 minutes asking me about cybersecurity fundamentals, passed that as well. Now that I’m into the final stage interview which is called “cultural fit”, I want to know what should I expect in it and how would it go? If someone has sim",
-      "published": "2026-09-22T14:08:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
       "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "summary": "557 points · 360 comments",
+      "summary": "643 points · 383 comments",
       "published": "2026-09-22T13:52:15+00:00"
     },
     {
@@ -291,6 +326,13 @@
       "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Two U.S. missiles hit an elementary school in Iran, killing over 150 people including 123 children on the first day of the Iran War. But Gizmodo notes that a new Bloomberg investigation cites U.S. officials involved in an unreleased internal Pentagon review who blame \"a cascade of preventable failures that included an overreliance on an AI tool built by Palantir.\" According to the officials who spoke to Bloomberg, some personnel inside U.S. Central Command leaned too hard on the AI inside the Ma",
       "published": "2026-09-22T13:04:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Npunlock – Run custom C kernels for Intel NPUs",
+      "url": "https://github.com/hsfzxjy/npunlock",
+      "summary": "8 points · 2 comments",
+      "published": "2026-09-22T12:58:02+00:00"
     },
     {
       "source": "OSINT",
@@ -336,31 +378,10 @@
     },
     {
       "source": "OSINT",
-      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
-      "url": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
-      "summary": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
-      "published": "2026-09-22T11:17:41+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
       "url": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
       "summary": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
       "published": "2026-09-22T09:55:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-      "url": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-      "summary": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit sorted-btree package, an ordinary B-tree/indexing utility,\" Checkmarx said. \"",
-      "published": "2026-09-22T09:38:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-      "summary": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-      "published": "2026-09-22T08:53:09+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -380,15 +401,22 @@
       "source": "HACKER NEWS",
       "title": "What California is learning from solar panels built over irrigation canals",
       "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "summary": "112 points · 146 comments",
+      "summary": "195 points · 321 comments",
       "published": "2026-09-22T03:10:05+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Side-stepping the Secretary Problem, unwittingly",
-      "url": "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
-      "summary": "49 points · 5 comments",
-      "published": "2026-09-22T02:47:52+00:00"
+      "title": "No Easy Fix for Bogus Respondents in Online Opt-In Polls",
+      "url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+      "summary": "19 points · 5 comments",
+      "published": "2026-09-22T00:32:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The softness of metal",
+      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+      "summary": "27 points · 5 comments",
+      "published": "2026-09-21T23:59:10+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -412,13 +440,6 @@
       "published": "2026-09-21T14:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Ukrainian Hackers Raid Russia’s Naval Files, Walk Away With Secrets From 70 Projects",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wmcw1j/ukrainian_hackers_raid_russias_naval_files_walk/",
-      "summary": "submitted by /u/DerBootsMann [link] [comments]",
-      "published": "2026-09-21T13:31:15+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Australia Considers Smart Glasses Ban in Government Workplaces, While 70 People Sue Meta Over Unknowing Data Collection",
       "url": "https://yro.slashdot.org/story/26/09/21/0243250/australia-considers-smart-glasses-ban-in-government-workplaces-while-70-people-sue-meta-over-unknowing-data-collection?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -436,15 +457,8 @@
       "source": "HACKER NEWS",
       "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
       "url": "https://github.com/xCuri0/ReBarUEFI",
-      "summary": "73 points · 21 comments",
+      "summary": "131 points · 42 comments",
       "published": "2026-09-21T01:07:46+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Lawsuit Says Anthropic, OpenAI, SpaceXAI And Google Made Illegal Agreement On AI Slowdown",
-      "url": "https://yro.slashdot.org/story/26/09/20/2152215/lawsuit-says-anthropic-openai-spacexai-and-google-made-illegal-agreement-on-ai-slowdown?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Tom's Hardware reports: Four plaintiffs subscribed to ChatGPT, Claude, Grok, or Gemini filed a proposed class-action lawsuit alleging that the developers of these AI models violated antitrust laws when they agreed to slow AI development. According to the Associated Press, the lawsuit argues that this agreement would \"reduce the value consumers get for paid AI subscriptions\" and that this coordination started in July 2026 after the leading AI labs signed a statement admitting there is \"intense co",
-      "published": "2026-09-21T01:04:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -455,23 +469,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "MUNI Heritage Weekend in San Francisco",
-      "url": "https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/",
-      "summary": "162 points · 40 comments",
-      "published": "2026-09-20T22:13:07+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Democracy vs Digital Infrastructure: Pulitzer-Winning Journalist Charts 'The Rise and Fall of the Artificial State'",
-      "url": "https://news.slashdot.org/story/26/09/20/2023252/democracy-vs-digital-infrastructure-pulitzer-winning-journalist-charts-the-rise-and-fall-of-the-artificial-state?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Rise and Fall of the Artificial State ultimately asks the question, \"How did we cede control of our democracy to the machines, and can we get it back?\" according to the Harvard's Arts and Sciences site, FAS Current: The new title finds Lepore, who used to teach a course at the College titled \"The Rise and Fall of the Machine,\" charting the ascent of what she calls the artificial state: the digital communication infrastructure by which governments and private corporations automate and ultimat",
-      "published": "2026-09-20T20:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "How did AMD Ryzen get 50% faster in two years?",
       "url": "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
-      "summary": "210 points · 79 comments",
+      "summary": "303 points · 116 comments",
       "published": "2026-09-18T19:01:03+00:00"
     },
     {
