@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T14:21:13.991897+00:00",
-  "item_count": 75,
+  "updated": "2026-09-24T18:36:52.783163+00:00",
+  "item_count": 63,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -26,6 +31,90 @@
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "Cisco ISE scores a perfect CVSS 10.0 — unauthenticated API bypass to root (CVE-2026-76460)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wp9l25/cisco_ise_scores_a_perfect_cvss_100/",
+      "summary": "This one is as bad as it sounds. CVE-2026-76460 is an authentication bypass in Cisco ISE's admin API that gives unauthenticated attackers root-level command execution. No creds, no user interaction, no complexity. Every supported ISE version (3.1 through 3.51) is affected. The kicker: Cisco explicitly says there are NO workarounds. You patch or you accept the risk. No ACL, no WAF rule, nothing. It was found from a support ticket (someone noticed weird API behavior during troubleshooting) and was",
+      "published": "2026-09-24T18:29:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Stable (YC W20) Is Hiring Product Engineers",
+      "url": "https://www.usestable.com/careers/product-engineer",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-24T18:29:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Creatine uptake enhances antitumor immunity",
+      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
+      "summary": "11 points · 0 comments",
+      "published": "2026-09-24T18:24:52+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "url": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "summary": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "published": "2026-09-24T17:47:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "summary": "69 points · 13 comments",
+      "published": "2026-09-24T17:21:36+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "FBI investigating claim hackers have stolen details of all its agents",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wp77qb/fbi_investigating_claim_hackers_have_stolen/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-09-24T17:01:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why is the liver so weirdly regenerative?",
+      "url": "https://dynomight.substack.com/p/liver",
+      "summary": "22 points · 20 comments",
+      "published": "2026-09-24T16:23:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GitHub has not removed malicious imitation software after 3 weeks",
+      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
+      "summary": "169 points · 71 comments",
+      "published": "2026-09-24T15:50:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "url": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "summary": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,\" Manifold Security's Head of Research, Ax Sharma, said. \"Unlike 'example[.]com,' third-party[.]com",
+      "published": "2026-09-24T15:27:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "F-Droid 2.0",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "summary": "456 points · 135 comments",
+      "published": "2026-09-24T15:26:12+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "url": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "summary": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic. \"When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instructs the visitor to paste it into the",
+      "published": "2026-09-24T14:29:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
+      "url": "https://eprint.iacr.org/2026/2131.pdf",
+      "summary": "12 points · 0 comments",
+      "published": "2026-09-24T14:26:32+00:00"
+    },
     {
       "source": "OSINT",
       "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
@@ -39,13 +128,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
       "summary": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
       "published": "2026-09-24T13:27:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-      "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-      "summary": "97 points · 80 comments",
-      "published": "2026-09-24T12:58:08+00:00"
     },
     {
       "source": "REDDIT",
@@ -69,25 +151,11 @@
       "published": "2026-09-24T12:05:27+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-      "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-      "summary": "51 points · 16 comments",
-      "published": "2026-09-24T11:54:38+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1woyw5u/attackers_exploit_wordpress_cve202687902_within/",
       "summary": "submitted by /u/Vast_Hope_7185 [link] [comments]",
       "published": "2026-09-24T11:17:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The newest ESP32 can run Linux and it's getting close to a Raspberry Pi",
-      "url": "https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/",
-      "summary": "95 points · 33 comments",
-      "published": "2026-09-24T11:08:39+00:00"
     },
     {
       "source": "OSINT",
@@ -105,23 +173,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection",
+      "title": "Two-tier encryption in the UK",
       "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "summary": "143 points · 62 comments",
+      "summary": "296 points · 288 comments",
       "published": "2026-09-24T10:39:19+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Qualcomm Announces Snapdragon X2 Series Processors Will Support Linux",
-      "url": "https://linux.slashdot.org/story/26/09/24/0155213/qualcomm-announces-snapdragon-x2-series-processors-will-support-linux?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Snapdragon X2 Series processors feature a neural processing unit (NPU) delivering 80 trillion operations per second and allowing advanced AI features to run locally. And Snapdragon X2 Series \"is expanding to Linux,\" Qualcomm announced today, calling it one of their most-requested capabilities: Qualcomm Technologies is a top contributor to Linux development at a kernel level, and now we're embracing support for Snapdragon X2 Series as a platform directly. We're upstreaming core drivers for Snapdr",
-      "published": "2026-09-24T10:04:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nokia Design Archive (2025)",
-      "url": "https://nokiadesignarchive.aalto.fi/index.html",
-      "summary": "140 points · 72 comments",
+      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
+      "summary": "183 points · 97 comments",
       "published": "2026-09-24T09:49:33+00:00"
     },
     {
@@ -146,18 +207,18 @@
       "published": "2026-09-24T08:33:27+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-      "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-      "summary": "424 points · 242 comments",
-      "published": "2026-09-24T08:23:03+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft fixes bug that broke Windows File History backup feature",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
       "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
       "published": "2026-09-24T08:14:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+      "url": "https://cms-sfx-demo.apeleg.com/",
+      "summary": "8 points · 6 comments",
+      "published": "2026-09-24T07:22:17+00:00"
     },
     {
       "source": "OSINT",
@@ -181,46 +242,11 @@
       "published": "2026-09-24T06:04:19+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Rogue OpenAI Agent Tried to Breach Government Site in May When Prompted for Simple Data-Retrieving Tasks",
-      "url": "https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenAI's artificial intelligence \"went rogue this year in at least four additional incidents,\" the New York Times reported Wednesday, \"hacking and trying to break into government and university websites without being instructed to do so, according to researchers and government officials.\" The attacks took place in May and June, before OpenAI's technology breached the A.I. start-up Hugging Face in July and set off a global debate about A.I. safety. Unlike the Hugging Face attack and other inciden",
-      "published": "2026-09-24T05:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "url": "https://transluce.org/agent-activity",
-      "summary": "184 points · 161 comments",
-      "published": "2026-09-24T05:21:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Contrastive Language Models",
-      "url": "https://contrastive-lm.notion.site/",
-      "summary": "115 points · 29 comments",
-      "published": "2026-09-24T04:20:59+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Landed my first CVE !! (in a plugin with 600k+ installs) after months of mostly dead ends. Sharing the actual process, not just the win.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1worpli/landed_my_first_cve_in_a_plugin_with_600k/",
       "summary": "CVE-2026-84741, in The Events Calendar (WordPress, 600,000+ active installs). Wanted to share this here because most CVE hunting content online skips the part that actually matters !!!, the failures... The bug, in plain terms: A broken access control issue where non-public venue and organizer data was exposed through the REST API to unauthenticated users CWE-200, CVSS 5.3. Not glamorous !!. Real, and confirmed independently by the vendor, but not an RCE or a headline bug. What actually got me he",
       "published": "2026-09-24T04:13:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ideas on modernizing the open-source desktop",
-      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
-      "summary": "252 points · 294 comments",
-      "published": "2026-09-24T02:52:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI agent hacked Australian government website, PM says",
-      "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-      "summary": "178 points · 114 comments",
-      "published": "2026-09-24T02:44:48+00:00"
     },
     {
       "source": "REDDIT",
@@ -230,18 +256,18 @@
       "published": "2026-09-24T01:39:28+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Cities Across US Oppose Trump FCC Plan to Preempt Local Broadband Rules",
-      "url": "https://news.slashdot.org/story/26/09/23/0144238/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ars Technica reports: Cities and counties around the U.S. are angry at the Trump administration over a proposal to override local rules that govern the deployment of wired broadband networks... The Federal Communications Commission [FCC] argues that too many local governments \"excessively delay approvals and seek to extract exorbitant sums from providers, resulting in costs that render some deployments infeasible.\" The FCC plan is supported by broadband providers, but local governments told the ",
-      "published": "2026-09-24T01:04:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wolkt2/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/",
       "summary": "submitted by /u/dx7r__ [link] [comments]",
       "published": "2026-09-23T23:23:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "url": "https://bastardica.mitpit.com",
+      "summary": "29 points · 6 comments",
+      "published": "2026-09-23T22:53:28+00:00"
     },
     {
       "source": "OSINT",
@@ -251,39 +277,11 @@
       "published": "2026-09-23T22:46:01+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "url": "https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/",
-      "summary": "242 points · 30 comments",
-      "published": "2026-09-23T22:45:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Linux support is coming to Snapdragon X2 Series",
-      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-      "summary": "523 points · 212 comments",
-      "published": "2026-09-23T22:38:16+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
       "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
       "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
       "published": "2026-09-23T21:25:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "url": "https://fly.io/blog/vscode-ssh-wtf/",
-      "summary": "270 points · 166 comments",
-      "published": "2026-09-23T21:01:48+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Whatever Happened to the 150,000 Tons of Radioactive Waste Stored Under the Atlantic Ocean?",
-      "url": "https://hardware.slashdot.org/story/26/09/22/2032255/whatever-happened-to-the-150000-tons-of-radioactive-waste-stored-under-the-atlantic-ocean?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "More than 200,000 barrels of low-level radioactive waste were stored on the floor of the Atlantic Ocean between 1949 and 1982, reports ScienceAlert. Whatever happened to those barrels? Scientists have descended to the wreckage in a crewed submersible to investigate — and found many of the barrels corroded and degraded, their contents spilling across the seafloor. Surprisingly, this isn't necessarily a subversion of the original plan... The International Atomic Energy Agency recommends that low-l",
-      "published": "2026-09-23T20:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -305,20 +303,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
       "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
       "published": "2026-09-23T18:31:22+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1woe2wv/new_windows_defender_zeroday_blocks_microsoft/",
-      "summary": "submitted by /u/homothebrave [link] [comments]",
-      "published": "2026-09-23T18:29:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "summary": "715 points · 725 comments",
-      "published": "2026-09-23T18:06:47+00:00"
     },
     {
       "source": "OSINT",
@@ -349,25 +333,11 @@
       "published": "2026-09-23T16:06:41+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Andreessen Horowitz Launches AI/Company-Building School As a College Alternative",
-      "url": "https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "TechCrunch quipped it was like if startup school Y Combinator and Peter Thiel's build-a-company-instead of-college Fellowship Program had a baby. Silicon Valley venture capital firm Andreessen Horowitz is investing $35 million to launch a private school in San Francisco \"aimed at turning high school graduates into founders,\" writes the SF Standard. Or, as CBS News describes it, \"One blue-chip Silicon Valley investor has a proposal for young people who are questioning whether to attend college — ",
-      "published": "2026-09-23T16:04:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wo8h33/nightmareeclipses_latest_zeroday_leaves_microsoft/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-09-23T15:03:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "InfraTrust report warns network management systems under attack",
-      "url": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-      "summary": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
-      "published": "2026-09-23T14:35:26+00:00"
+      "source": "HACKER NEWS",
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "summary": "62 points · 27 comments",
+      "published": "2026-09-23T15:33:33+00:00"
     },
     {
       "source": "OSINT",
@@ -377,67 +347,11 @@
       "published": "2026-09-23T14:17:58+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-      "url": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-      "summary": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido, SafeDep, Socket, and StepSecurity, the libraries in question below - @memtensor/memos-cloud-openclaw-plugin versions",
-      "published": "2026-09-23T13:52:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-      "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-      "summary": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account holder to change databases that belong to other accounts. cPanel has released fixed versions for both,",
-      "published": "2026-09-23T12:16:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Bitcoin Surges to $86,455, an 8-Month High, After America's SEC Announces Tokenized Stock Experiment",
-      "url": "https://slashdot.org/story/26/09/23/0744202/bitcoin-surges-to-86455-an-8-month-high-after-americas-sec-announces-tokenized-stock-experiment?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "August 15: $62,991 September 23: $86,456 Bitcoin shot up 37% over the last 39 days, reaching an eight-month high on Monday. \"Bitcoin is back,\" declares Yahoo Finance: The token held near $86,000 on Tuesday after a stunning multisession rally... [Fundstrat head of digital assets Sean Farrell told Yahoo Finance on Monday] \"I think the crypto winter is over, although that does not necessarily mean the path higher will be linear.\" For now, momentum is on crypto's side, with bitcoin jumping more than",
-      "published": "2026-09-23T11:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform",
-      "url": "https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft's security blog describes the fight against a new \"AI-powered cybercrime platform\" offering phishing-as-a-service, with AI-tailored lures and analyses of compromised inboxes (to identify high-value targets). The site compromised more than 12,000 inboxes in over 10,000 organizations around the world, compromising business accounts \"at scale\" with automated attacks and prebuilt phishing templates. AI tools could even sift through a victim's mailbox to help engineer better phishing messag",
-      "published": "2026-09-23T07:04:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents",
-      "url": "https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "U.S. President Trump addressed the United Nations on Tuesday. And a half hour in, after decrying immigration, Trump pivoted to add that \"The United States also totally rejects any attempt to construct a globalist scheme to control for the artificial intelligence being spoken of so much now.\" But then he added \"hereinafter officially called super intelligence, changing the name, in that the use of the word artificial makes intelligence fake. It makes it sound fake, and it is not fake. It's actual",
-      "published": "2026-09-23T02:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?",
-      "url": "https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "On academic mentoring platform Nova Learning, Computer Science and AI, \"once the dominant choice among students... is losing ground fast, while Engineering has nearly doubled its share.\" It's a small survey, but \"The steepest proportional decline is in Software & Data Science, the most traditional 'learn to code' pathway, which lost 44% of its 2025 share. AI saw the largest absolute drop of any single subject in the survey, down 6.2 points. \"The category did not decline uniformly. Students moved",
-      "published": "2026-09-22T22:04:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Enjoy Every Sandwich",
-      "url": "https://bradmontague.substack.com/p/enjoy-every-sandwich",
-      "summary": "16 points · 2 comments",
-      "published": "2026-09-22T18:19:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "'Coyote vs. Acme' Outgrosses All But 3 WB Movies This Year, Heads To Profit",
-      "url": "https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The movie Coyote vs. Acme earned more than Warner Bros.' $30 million tax write-off in just two weeks. And last week the movie officially earned more than its production budget of $70 million. But today the movie passed the $100 million mark. \"You asked for it, we delivered, and you showed up!\" distributor Ketchup Entertainment posted on social media (adding \"Thank you to the fans for making this a massive hit!\") With a break-even number of $120 million, the movie \"will probably make up any theat",
-      "published": "2026-09-22T17:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "RAM: the forgotten history (2024)",
-      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
-      "summary": "65 points · 2 comments",
-      "published": "2026-09-22T15:12:17+00:00"
+      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
+      "url": "https://github.com/christianrowlands/wavedigger",
+      "summary": "47 points · 6 comments",
+      "published": "2026-09-23T12:57:07+00:00"
     },
     {
       "source": "REDDIT",
@@ -447,32 +361,39 @@
       "published": "2026-09-22T13:28:46+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Pentagon Investigators Say Overreliance on Palantir AI Contributed to US Strike That Killed 123 Iranian Children",
-      "url": "https://news.slashdot.org/story/26/09/22/0614238/pentagon-investigators-say-overreliance-on-palantir-ai-contributed-to-us-strike-that-killed-123-iranian-children?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Two U.S. missiles hit an elementary school in Iran, killing over 150 people including 123 children on the first day of the Iran War. But Gizmodo notes that a new Bloomberg investigation cites U.S. officials involved in an unreleased internal Pentagon review who blame \"a cascade of preventable failures that included an overreliance on an AI tool built by Palantir.\" According to the officials who spoke to Bloomberg, some personnel inside U.S. Central Command leaned too hard on the AI inside the Ma",
-      "published": "2026-09-22T13:04:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Fearless SIMD v1.0",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "summary": "36 points · 6 comments",
+      "published": "2026-09-22T12:23:37+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "When the Debugger Lies",
-      "url": "https://danielmangum.com/posts/when-the-debugger-lies/",
-      "summary": "27 points · 10 comments",
-      "published": "2026-09-22T11:02:43+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Opens Preorders for Its $899 Gemini-Enhanced 'Googlebook' Laptops",
-      "url": "https://tech.slashdot.org/story/26/09/22/031256/google-opens-preorders-for-its-899-gemini-enhanced-googlebook-laptops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Monday Google opened preorders for its \"Googlebook\" laptops, pricing them at $899. A Google's blog post added that \"At launch, you can choose between Intel Core Ultra Series 3 and Snapdragon X Elite processors\" (paired with NPUs to power AI features). \"Devices will hit shelves on October 4 in the U.S. and on October 5 in Canada, the U.K., Ireland, France, Germany, and Australia,\" TechCrunch points out. But \"the real pull for the new devices is that they'll prominently feature Gemini's latest cap",
-      "published": "2026-09-22T08:34:00+00:00"
+      "title": "Motor Characterization for Small Running Robots (2016)",
+      "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
+      "summary": "13 points · 0 comments",
+      "published": "2026-09-21T23:27:31+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The \"Windows XP Box\" (2003)",
-      "url": "https://www.mini-itx.com/projects/windowsxpbox/",
-      "summary": "189 points · 37 comments",
-      "published": "2026-09-22T03:09:04+00:00"
+      "title": "Security auditing in the age of (good enough) AI",
+      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+      "summary": "12 points · 1 comments",
+      "published": "2026-09-21T21:53:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The forgotten battle of East Lansing",
+      "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
+      "summary": "15 points · 0 comments",
+      "published": "2026-09-21T20:07:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
+      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+      "summary": "16 points · 0 comments",
+      "published": "2026-09-21T14:30:00+00:00"
     },
     {
       "source": "REDDIT",
