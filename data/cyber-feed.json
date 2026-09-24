@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T18:36:52.783163+00:00",
-  "item_count": 63,
+  "updated": "2026-09-24T21:44:56.810855+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -31,6 +26,83 @@
     }
   ],
   "items": [
+    {
+      "source": "HACKER NEWS",
+      "title": "The Board Game of the Alpha Nerds (2014)",
+      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
+      "summary": "14 points · 10 comments",
+      "published": "2026-09-24T20:53:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+      "published": "2026-09-24T20:53:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Security headers on 4,688 small-business websites: 49.7% met none of 7 criteria",
+      "url": "https://rackcrunch.com/security-headers-2026",
+      "summary": "11 points · 4 comments",
+      "published": "2026-09-24T20:42:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Opus 5.5 is good at explainer videos",
+      "url": "https://launchvideo.io",
+      "summary": "39 points · 31 comments",
+      "published": "2026-09-24T20:28:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "summary": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+      "published": "2026-09-24T20:10:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Critical Cross-user and Cross-tenant compromise in Atlassian Rovo",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpc02r/critical_crossuser_and_crosstenant_compromise_in/",
+      "summary": "An isolation failure in an LLM-orchestrated environment due to simple isolation misconfigurations led to Rovo sessions belonging to other users and tenants being discovered, reached, and ultimately used to execute code within their contexts. The finding was rated Critical and is pretty bad. At this point, I feel like AI security is regressing back to simple misconfigurations, except now we're giving users direct access to systems built on top of them. What do you guys think? Write-up: https://mo",
+      "published": "2026-09-24T20:01:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
+      "url": "https://blog.arusekk.pl/posts/srht-account-takeover/",
+      "summary": "36 points · 3 comments",
+      "published": "2026-09-24T19:54:21+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
+      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
+      "summary": "38 points · 7 comments",
+      "published": "2026-09-24T19:14:27+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hackers Used AI to Pick Victims From Stolen Emails: Microsoft Takes Down 200+ Sites and Domains",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpaorq/hackers_used_ai_to_pick_victims_from_stolen/",
+      "summary": "submitted by /u/beingmodest [link] [comments]",
+      "published": "2026-09-24T19:11:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Five Police Officers Criminally Charged for Misusing Flock Cameras in Indianapolis",
+      "url": "https://yro.slashdot.org/story/26/09/24/0433242/five-police-officers-criminally-charged-for-misusing-flock-cameras-in-indianapolis?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Nationwide, at least 100 police department employees have been charged with or accused of misusing license-plate readers for unauthorized purposes,\" reports the Washington Post. They cite their past investigations \"based on thousands of pages of police and court records,\" which found that \"In many of these cases, officers used Flock's roadside cameras to track the location of romantic partners and exes.\" In fact, five Indianapolis police officers were just criminally charged Wednesday with frau",
+      "published": "2026-09-24T19:04:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpah82/decadesold_file_security_flaws_found_in_android/",
+      "summary": "submitted by /u/homothebrave [link] [comments]",
+      "published": "2026-09-24T19:02:57+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "Cisco ISE scores a perfect CVSS 10.0 — unauthenticated API bypass to root (CVE-2026-76460)",
@@ -46,11 +118,18 @@
       "published": "2026-09-24T18:29:18+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Creatine uptake enhances antitumor immunity",
-      "url": "https://www.cell.com/iscience/fulltext/S2589-0042(26)00811-4",
-      "summary": "11 points · 0 comments",
-      "published": "2026-09-24T18:24:52+00:00"
+      "source": "OSINT",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "url": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "summary": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android phone. OnePlus told him the same flaws affect many more of its own devices and those of OPPO, though it has not",
+      "published": "2026-09-24T18:10:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "url": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "summary": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI tools leak more than expected. Fake prompts look real enough. And some attacks barely need an exploit at all — just",
+      "published": "2026-09-24T17:52:43+00:00"
     },
     {
       "source": "OSINT",
@@ -63,7 +142,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "summary": "69 points · 13 comments",
+      "summary": "146 points · 61 comments",
       "published": "2026-09-24T17:21:36+00:00"
     },
     {
@@ -77,15 +156,8 @@
       "source": "HACKER NEWS",
       "title": "Why is the liver so weirdly regenerative?",
       "url": "https://dynomight.substack.com/p/liver",
-      "summary": "22 points · 20 comments",
+      "summary": "146 points · 107 comments",
       "published": "2026-09-24T16:23:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GitHub has not removed malicious imitation software after 3 weeks",
-      "url": "https://successfulsoftware.net/2026/09/24/github-has-not-removed-malicious-imitation-software-after-3-weeks/",
-      "summary": "169 points · 71 comments",
-      "published": "2026-09-24T15:50:26+00:00"
     },
     {
       "source": "OSINT",
@@ -98,8 +170,15 @@
       "source": "HACKER NEWS",
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "456 points · 135 comments",
+      "summary": "757 points · 212 comments",
       "published": "2026-09-24T15:26:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI, Anthropic CEOs Urge UN Countries to Cooperate on AI Safety Standards",
+      "url": "https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"The heads of major AI firms pleaded with the United Nations on Wednesday to save the world or at least its people — by somehow regulating the fast-expanding technology that they have been designing,\" writes the Associated Press. \"If managed poorly, I even believe AI could be a risk to humanity as a whole,\" said Dario Amodei, chief executive officer of Anthropic. And from his competitor Sam Altman, CEO of OpenAI, came this assessment: \"We could lose control of the future to AI.\" Yoshua Bengio, w",
+      "published": "2026-09-24T14:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -109,18 +188,18 @@
       "published": "2026-09-24T14:29:06+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "url": "https://eprint.iacr.org/2026/2131.pdf",
-      "summary": "12 points · 0 comments",
-      "published": "2026-09-24T14:26:32+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
       "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
       "published": "2026-09-24T14:02:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+      "summary": "70 points · 120 comments",
+      "published": "2026-09-24T13:53:29+00:00"
     },
     {
       "source": "OSINT",
@@ -172,18 +251,11 @@
       "published": "2026-09-24T10:42:37+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Two-tier encryption in the UK",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "summary": "296 points · 288 comments",
-      "published": "2026-09-24T10:39:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nokia Design Archive (2025)",
-      "url": "https://repo.aalto.fi/index.php?name=SO_b66a9391-dcf8-4399-8e87-611f84c3fc4c",
-      "summary": "183 points · 97 comments",
-      "published": "2026-09-24T09:49:33+00:00"
+      "source": "SLASHDOT",
+      "title": "Qualcomm Announces Snapdragon X2 Series Processors Will Support Linux",
+      "url": "https://linux.slashdot.org/story/26/09/24/0155213/qualcomm-announces-snapdragon-x2-series-processors-will-support-linux?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Snapdragon X2 Series processors feature a neural processing unit (NPU) delivering 80 trillion operations per second and allowing advanced AI features to run locally. And Snapdragon X2 Series \"is expanding to Linux,\" Qualcomm announced today, calling it one of their most-requested capabilities: Qualcomm Technologies is a top contributor to Linux development at a kernel level, and now we're embracing support for Snapdragon X2 Series as a platform directly. We're upstreaming core drivers for Snapdr",
+      "published": "2026-09-24T10:04:00+00:00"
     },
     {
       "source": "OSINT",
@@ -214,13 +286,6 @@
       "published": "2026-09-24T08:14:47+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "url": "https://cms-sfx-demo.apeleg.com/",
-      "summary": "8 points · 6 comments",
-      "published": "2026-09-24T07:22:17+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
       "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
@@ -242,31 +307,24 @@
       "published": "2026-09-24T06:04:19+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Landed my first CVE !! (in a plugin with 600k+ installs) after months of mostly dead ends. Sharing the actual process, not just the win.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1worpli/landed_my_first_cve_in_a_plugin_with_600k/",
-      "summary": "CVE-2026-84741, in The Events Calendar (WordPress, 600,000+ active installs). Wanted to share this here because most CVE hunting content online skips the part that actually matters !!!, the failures... The bug, in plain terms: A broken access control issue where non-public venue and organizer data was exposed through the REST API to unauthenticated users CWE-200, CVSS 5.3. Not glamorous !!. Real, and confirmed independently by the vendor, but not an RCE or a headline bug. What actually got me he",
-      "published": "2026-09-24T04:13:01+00:00"
+      "source": "SLASHDOT",
+      "title": "Rogue OpenAI Agent Tried to Breach Government Site in May When Prompted for Simple Data-Retrieving Tasks",
+      "url": "https://slashdot.org/story/26/09/24/0528251/rogue-openai-agent-tried-to-breach-government-site-in-may-when-prompted-for-simple-data-retrieving-tasks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "OpenAI's artificial intelligence \"went rogue this year in at least four additional incidents,\" the New York Times reported Wednesday, \"hacking and trying to break into government and university websites without being instructed to do so, according to researchers and government officials.\" The attacks took place in May and June, before OpenAI's technology breached the A.I. start-up Hugging Face in July and set off a global debate about A.I. safety. Unlike the Hugging Face attack and other inciden",
+      "published": "2026-09-24T05:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "A New Tool Found Malware That’s Guided by an AI Hive Mind—No Humans in Sight",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wookmq/a_new_tool_found_malware_thats_guided_by_an_ai/",
-      "summary": "submitted by /u/SystematicApproach [link] [comments]",
-      "published": "2026-09-24T01:39:28+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Is This A Joke? In The Auth Header? (F5 BIG-IP UnAuth Heap-Overflow to RCE CVE-2026-94127) - watchTowr Labs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wolkt2/is_this_a_joke_in_the_auth_header_f5_bigip_unauth/",
-      "summary": "submitted by /u/dx7r__ [link] [comments]",
-      "published": "2026-09-23T23:23:57+00:00"
+      "source": "SLASHDOT",
+      "title": "Cities Across US Oppose Trump FCC Plan to Preempt Local Broadband Rules",
+      "url": "https://news.slashdot.org/story/26/09/23/0144238/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Ars Technica reports: Cities and counties around the U.S. are angry at the Trump administration over a proposal to override local rules that govern the deployment of wired broadband networks... The Federal Communications Commission [FCC] argues that too many local governments \"excessively delay approvals and seek to extract exorbitant sums from providers, resulting in costs that render some deployments infeasible.\" The FCC plan is supported by broadband providers, but local governments told the ",
+      "published": "2026-09-24T01:04:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
-      "summary": "29 points · 6 comments",
+      "summary": "297 points · 44 comments",
       "published": "2026-09-23T22:53:28+00:00"
     },
     {
@@ -277,11 +335,25 @@
       "published": "2026-09-23T22:46:01+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Toyota is taking the Corolla electric",
+      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+      "summary": "130 points · 178 comments",
+      "published": "2026-09-23T22:37:28+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "New RemControl Android banking malware targets users in Europe and Canada",
       "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
       "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
       "published": "2026-09-23T21:25:13+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Whatever Happened to the 150,000 Tons of Radioactive Waste Stored Under the Atlantic Ocean?",
+      "url": "https://hardware.slashdot.org/story/26/09/22/2032255/whatever-happened-to-the-150000-tons-of-radioactive-waste-stored-under-the-atlantic-ocean?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "More than 200,000 barrels of low-level radioactive waste were stored on the floor of the Atlantic Ocean between 1949 and 1982, reports ScienceAlert. Whatever happened to those barrels? Scientists have descended to the wreckage in a crewed submersible to investigate — and found many of the barrels corroded and degraded, their contents spilling across the seafloor. Surprisingly, this isn't necessarily a subversion of the original plan... The International Atomic Energy Agency recommends that low-l",
+      "published": "2026-09-23T20:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -299,13 +371,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Hackers start exploiting critical WordPress flaw for code execution",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-      "summary": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-      "published": "2026-09-23T18:31:22+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
       "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
       "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
@@ -319,39 +384,67 @@
       "published": "2026-09-23T16:53:10+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-      "summary": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-      "published": "2026-09-23T16:20:54+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-      "url": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-      "summary": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw (CVE-2026-67279) with an argument-injection bug in the RouterOS login process (CVE-2026-86060). Attack logs date to at",
-      "published": "2026-09-23T16:06:41+00:00"
+      "source": "SLASHDOT",
+      "title": "Andreessen Horowitz Launches AI/Company-Building School As a College Alternative",
+      "url": "https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "TechCrunch quipped it was like if startup school Y Combinator and Peter Thiel's build-a-company-instead of-college Fellowship Program had a baby. Silicon Valley venture capital firm Andreessen Horowitz is investing $35 million to launch a private school in San Francisco \"aimed at turning high school graduates into founders,\" writes the SF Standard. Or, as CBS News describes it, \"One blue-chip Silicon Valley investor has a proposal for young people who are questioning whether to attend college — ",
+      "published": "2026-09-23T16:04:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rails World 2026 Opening Keynote [video]",
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "summary": "62 points · 27 comments",
+      "summary": "170 points · 176 comments",
       "published": "2026-09-23T15:33:33+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-      "url": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-      "summary": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not seen this setup work from start to finish, and the public version of the malware does not work as it is.",
-      "published": "2026-09-23T14:17:58+00:00"
+      "source": "SLASHDOT",
+      "title": "Bitcoin Surges to $86,455, an 8-Month High, After America's SEC Announces Tokenized Stock Experiment",
+      "url": "https://slashdot.org/story/26/09/23/0744202/bitcoin-surges-to-86455-an-8-month-high-after-americas-sec-announces-tokenized-stock-experiment?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "August 15: $62,991 September 23: $86,456 Bitcoin shot up 37% over the last 39 days, reaching an eight-month high on Monday. \"Bitcoin is back,\" declares Yahoo Finance: The token held near $86,000 on Tuesday after a stunning multisession rally... [Fundstrat head of digital assets Sean Farrell told Yahoo Finance on Monday] \"I think the crypto winter is over, although that does not necessarily mean the path higher will be linear.\" For now, momentum is on crypto's side, with bitcoin jumping more than",
+      "published": "2026-09-23T11:34:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform",
+      "url": "https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft's security blog describes the fight against a new \"AI-powered cybercrime platform\" offering phishing-as-a-service, with AI-tailored lures and analyses of compromised inboxes (to identify high-value targets). The site compromised more than 12,000 inboxes in over 10,000 organizations around the world, compromising business accounts \"at scale\" with automated attacks and prebuilt phishing templates. AI tools could even sift through a victim's mailbox to help engineer better phishing messag",
+      "published": "2026-09-23T07:04:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents",
+      "url": "https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "U.S. President Trump addressed the United Nations on Tuesday. And a half hour in, after decrying immigration, Trump pivoted to add that \"The United States also totally rejects any attempt to construct a globalist scheme to control for the artificial intelligence being spoken of so much now.\" But then he added \"hereinafter officially called super intelligence, changing the name, in that the use of the word artificial makes intelligence fake. It makes it sound fake, and it is not fake. It's actual",
+      "published": "2026-09-23T02:34:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Are Students Suddenly Losing Interest in Computer Science as AI Coding Takes Off?",
+      "url": "https://news.slashdot.org/story/26/09/22/0010234/are-students-suddenly-losing-interest-in-computer-science-as-ai-coding-takes-off?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "On academic mentoring platform Nova Learning, Computer Science and AI, \"once the dominant choice among students... is losing ground fast, while Engineering has nearly doubled its share.\" It's a small survey, but \"The steepest proportional decline is in Software & Data Science, the most traditional 'learn to code' pathway, which lost 44% of its 2025 share. AI saw the largest absolute drop of any single subject in the survey, down 6.2 points. \"The category did not decline uniformly. Students moved",
+      "published": "2026-09-22T22:04:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "WaveDigger: Dig into wireless signals to discover their physical locations",
-      "url": "https://github.com/christianrowlands/wavedigger",
-      "summary": "47 points · 6 comments",
-      "published": "2026-09-23T12:57:07+00:00"
+      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
+      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
+      "summary": "147 points · 64 comments",
+      "published": "2026-09-22T17:49:46+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'Coyote vs. Acme' Outgrosses All But 3 WB Movies This Year, Heads To Profit",
+      "url": "https://entertainment.slashdot.org/story/26/09/22/0529223/coyote-vs-acme-outgrosses-all-but-3-wb-movies-this-year-heads-to-profit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The movie Coyote vs. Acme earned more than Warner Bros.' $30 million tax write-off in just two weeks. And last week the movie officially earned more than its production budget of $70 million. But today the movie passed the $100 million mark. \"You asked for it, we delivered, and you showed up!\" distributor Ketchup Entertainment posted on social media (adding \"Thank you to the fans for making this a massive hit!\") With a break-even number of $120 million, the movie \"will probably make up any theat",
+      "published": "2026-09-22T17:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "2DWillNeverDie",
+      "url": "https://2dwillneverdie.com/",
+      "summary": "20 points · 1 comments",
+      "published": "2026-09-22T14:00:08+00:00"
     },
     {
       "source": "REDDIT",
@@ -364,35 +457,21 @@
       "source": "HACKER NEWS",
       "title": "Fearless SIMD v1.0",
       "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "summary": "36 points · 6 comments",
+      "summary": "123 points · 19 comments",
       "published": "2026-09-22T12:23:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Motor Characterization for Small Running Robots (2016)",
-      "url": "https://robot-daycare.com/posts/2016-01-06-motor-characterization-for-small-running-robots/",
-      "summary": "13 points · 0 comments",
-      "published": "2026-09-21T23:27:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Security auditing in the age of (good enough) AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "summary": "12 points · 1 comments",
-      "published": "2026-09-21T21:53:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The forgotten battle of East Lansing",
       "url": "https://eastlansinginfo.news/the-forgotten-battle-of-east-lansing/",
-      "summary": "15 points · 0 comments",
+      "summary": "69 points · 10 comments",
       "published": "2026-09-21T20:07:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
       "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "summary": "16 points · 0 comments",
+      "summary": "66 points · 17 comments",
       "published": "2026-09-21T14:30:00+00:00"
     },
     {
