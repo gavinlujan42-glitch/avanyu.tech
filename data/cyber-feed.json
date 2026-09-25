@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T10:27:58.537044+00:00",
+  "updated": "2026-09-25T15:27:55.998609+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,6 +28,125 @@
   "items": [
     {
       "source": "OSINT",
+      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
+      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
+      "published": "2026-09-25T14:54:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
+      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
+      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
+      "published": "2026-09-25T14:51:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cyberbro v0.15.2 released - MS tenant check, ScanMalware",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpy6f3/cyberbro_v0152_released_ms_tenant_check/",
+      "summary": "Hello everyone, Some updates about my OSINT / IoC analysis open source tool Cyberbro. Since v0.15 you can use (directly on the demo website): - the new ScanMalware engine - the updated DFIR-IRIS engine to search for IoCs in notes - the new Microsoft tenant check to verify if a domain is linked to a Microsoft tenant + region I hope you find these features interesting! Thanks to the community for keeping Cyberbro alive, I am always pleased to get quality Pull Requests. Feel free to check the repo ",
+      "published": "2026-09-25T14:43:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Allow Carriers on Planes",
+      "url": "https://www.jefftk.com/p/allow-carriers-on-planes",
+      "summary": "86 points · 68 comments",
+      "published": "2026-09-25T14:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "First Principles Thinking",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "summary": "28 points · 0 comments",
+      "published": "2026-09-25T13:55:37+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "For Those With a CISSP, Did It Increase Your Remote Job Opportunities?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpwlya/for_those_with_a_cissp_did_it_increase_your/",
+      "summary": "I’ve been working remotely since 2021, and I’d really like to continue working fully remote going forward. I’m currently studying for the CISSP and was wondering—for those of you who have earned it, did you notice that it opened up more remote cybersecurity opportunities? Did you start getting more interviews or recruiter interest for remote positions after adding the CISSP to your resume? submitted by /u/Single_Extreme_3574 [link] [comments]",
+      "published": "2026-09-25T13:38:52+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Raspberry Pi Stock Jumps 30% as Demand Surges. (And Boards Now Locked to Their Original RAM Size)",
+      "url": "https://hardware.slashdot.org/story/26/09/25/0554208/raspberry-pi-stock-jumps-30-as-demand-surges-and-boards-now-locked-to-their-original-ram-size?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Raspberry Pi's stock shot up over 30% in the last week. Why are investors so excited? For the six months ending June 30, revenue for Raspberry Pi Holdings \"jumped 90% to $256.9 million,\" reports Investing.com, \"while adjusted EBITDA more than doubled to $40.3 million, and profit before tax leapt 216% to $19.6 million.\" Underpinning the strong numbers was an acceleration in OEM adoption: direct unit shipments rose 26% to 3.4 million, total unit shipments climbed 17% to 4.2 million, and the custom",
+      "published": "2026-09-25T13:04:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft plans to deprecate Windows Deployment Services",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
+      "summary": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
+      "published": "2026-09-25T12:40:59+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Is single vendor SASE worth it in the long run?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpv24g/is_single_vendor_sase_worth_it_in_the_long_run/",
+      "summary": "Our leadership is pushing to put our whole network and security stack on one SASE vendor though am having some doubts. The pull is obvious for one console, one contract, one number to call. But the lock-in kinda sticks with me, we hand the entire edge to one provider and a bad renewal, an outage, a roadmap call I disagree with all land on me at once. Then I look at what we run today and it isn't that much of freedom either. An SSE on one side, SD-WAN on the other, glue in the middle that one eng",
+      "published": "2026-09-25T12:29:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Test",
+      "url": "https://tante.cc/2026/09/24/the-test/",
+      "summary": "68 points · 17 comments",
+      "published": "2026-09-25T12:14:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Platform-Independent SIMD in Go",
+      "url": "https://go.dev/blog/simd-experiment",
+      "summary": "124 points · 32 comments",
+      "published": "2026-09-25T11:47:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Solo admin here, so this landed entirely on me. Auditor asked for twelve months of firewall logs. How long would that take you?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpu34o/solo_admin_here_so_this_landed_entirely_on_me/",
+      "summary": "submitted by /u/the_runbook_habit [link] [comments]",
+      "published": "2026-09-25T11:41:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+      "url": "https://github.com/git-bug/git-bug",
+      "summary": "125 points · 30 comments",
+      "published": "2026-09-25T11:38:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
+      "summary": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
+      "published": "2026-09-25T11:35:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The SOC Doesn't Need to Start Over with Every Alert",
+      "url": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
+      "summary": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry. The routine version looks like this. An attacker lands on a low-privilege cloud account, and the first try at privilege escalation goes nowhere. That dead end used to cost hours of documentation reading,",
+      "published": "2026-09-25T11:30:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
+      "url": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "summary": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
+      "published": "2026-09-25T10:35:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
+      "summary": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
+      "published": "2026-09-25T10:30:38+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
       "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
       "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1. The issue stems from a preg_replace() backslash",
@@ -35,17 +154,24 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Topcoat is pushing the boundary of server applications with Rust",
+      "url": "https://tokio.rs/blog/2026-09-24-topcoat-server-applications",
+      "summary": "86 points · 63 comments",
+      "published": "2026-09-25T09:59:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Ink and Switch Interactive Homepage",
       "url": "https://www.inkandswitch.com/",
-      "summary": "11 points · 1 comments",
+      "summary": "115 points · 17 comments",
       "published": "2026-09-25T09:50:25+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Tech Needs Humanists More",
-      "url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
-      "summary": "41 points · 20 comments",
-      "published": "2026-09-25T09:31:34+00:00"
+      "title": "Boards of Casio",
+      "url": "https://www.ambionix.com/blog/boards-of-casio/",
+      "summary": "49 points · 14 comments",
+      "published": "2026-09-25T09:26:01+00:00"
     },
     {
       "source": "REDDIT",
@@ -58,15 +184,8 @@
       "source": "HACKER NEWS",
       "title": "Special Projects (2016)",
       "url": "https://openai.com/index/special-projects/",
-      "summary": "18 points · 4 comments",
+      "summary": "55 points · 29 comments",
       "published": "2026-09-25T08:55:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
-      "url": "https://typetab.app/blog/local-llms-on-your-mac",
-      "summary": "4 points · 0 comments",
-      "published": "2026-09-25T08:53:59+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -86,28 +205,28 @@
       "source": "HACKER NEWS",
       "title": "Dutch governments builds alternative for Microsoft based on NixOS",
       "url": "https://www.dawo.community/en/",
-      "summary": "178 points · 77 comments",
+      "summary": "728 points · 406 comments",
       "published": "2026-09-25T08:06:49+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "ubuntils v2.0.0 – forensic triage for Ubuntu: collect artifacts, correlate a timeline, and detect 15 persistence/tampering techniques (fully offline)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpq4kh/ubuntils_v200_forensic_triage_for_ubuntu_collect/",
-      "summary": "Hey all, I've been building ubuntils , a Python CLI/TUI for forensic triage on Ubuntu — the idea is to replace the \"run the same 10 manual commands and hope you didn't miss one\" first-30-minutes ritual of incident response with a single tool that does collection, detection, and timeline correlation automatically. How it works (4 stages, ~3s total on a live host): Collect — 11 collectors gather artifacts concurrently (processes, network, cron, systemd, SSH, sudoers, users, packages, PAM, kernel m",
-      "published": "2026-09-25T07:39:20+00:00"
+      "source": "HACKER NEWS",
+      "title": "Amiga Screens: A Primer",
+      "url": "https://www.datagubbe.se/amscr/",
+      "summary": "63 points · 10 comments",
+      "published": "2026-09-25T07:31:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
       "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
-      "summary": "65 points · 22 comments",
+      "summary": "165 points · 72 comments",
       "published": "2026-09-25T07:27:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
       "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
-      "summary": "50 points · 12 comments",
+      "summary": "85 points · 22 comments",
       "published": "2026-09-25T07:03:46+00:00"
     },
     {
@@ -137,20 +256,6 @@
       "url": "https://tech.slashdot.org/story/26/09/25/0035208/how-believable-is-googles-new-live-avatar-capability?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Google has synthesized \"expressive face-to-face experiences\" for its speech agent Gemini 3.8 Live. They're now offering a Live Avatar \"with precise lip-syncing, natural expressions, and fluid turn-taking\" for Google Enterprise accounts wanting \"engaging customer service\" or for offering interactive walkthroughs. (Check out the not-creepy-at-all video in Google's announcement.) \"Though Google will offer a library of preset avatars for customers to choose from, it will also allow organizations to ",
       "published": "2026-09-25T04:04:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Wanting to move over to the engineering side of cyber, should I go for an ISSO role first and go for engineering after?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wplf6a/wanting_to_move_over_to_the_engineering_side_of/",
-      "summary": "I’m a SOC analyst with 5 years of experience with 3 years in Helpdesk and 2 years at present going on to 3 as cybersecurity analyst working at a SOC, im also Sec+ and CySA+ certified. I’m looking for a career growth and wanting to get in to the engineer side of cyber, but I believe that may be a long shot? Should I go for an ISSO role next and take what I learn from there, and try to get into engineer side after? Or I can go to engineering job now? submitted by /u/WraxJax [link] [comments]",
-      "published": "2026-09-25T03:08:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What About Rails?",
-      "url": "https://jardo.dev/what-about-rails",
-      "summary": "60 points · 23 comments",
-      "published": "2026-09-25T02:50:16+00:00"
     },
     {
       "source": "REDDIT",
@@ -188,32 +293,11 @@
       "published": "2026-09-24T20:10:48+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "summary": "136 points · 28 comments",
-      "published": "2026-09-24T19:14:27+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hackers Used AI to Pick Victims From Stolen Emails: Microsoft Takes Down 200+ Sites and Domains",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpaorq/hackers_used_ai_to_pick_victims_from_stolen/",
-      "summary": "submitted by /u/beingmodest [link] [comments]",
-      "published": "2026-09-24T19:11:06+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Five Police Officers Criminally Charged for Misusing Flock Cameras in Indianapolis",
       "url": "https://yro.slashdot.org/story/26/09/24/0433242/five-police-officers-criminally-charged-for-misusing-flock-cameras-in-indianapolis?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"Nationwide, at least 100 police department employees have been charged with or accused of misusing license-plate readers for unauthorized purposes,\" reports the Washington Post. They cite their past investigations \"based on thousands of pages of police and court records,\" which found that \"In many of these cases, officers used Flock's roadside cameras to track the location of romantic partners and exes.\" In fact, five Indianapolis police officers were just criminally charged Wednesday with frau",
       "published": "2026-09-24T19:04:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Decades-old file security flaws found in Android, Linux, macOS, and Windows",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpah82/decadesold_file_security_flaws_found_in_android/",
-      "summary": "submitted by /u/homothebrave [link] [comments]",
-      "published": "2026-09-24T19:02:57+00:00"
     },
     {
       "source": "OSINT",
@@ -240,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "summary": "315 points · 117 comments",
+      "summary": "358 points · 126 comments",
       "published": "2026-09-24T17:21:36+00:00"
     },
     {
@@ -254,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "Why is the liver so weirdly regenerative?",
       "url": "https://dynomight.substack.com/p/liver",
-      "summary": "415 points · 210 comments",
+      "summary": "487 points · 249 comments",
       "published": "2026-09-24T16:23:00+00:00"
     },
     {
@@ -268,7 +352,7 @@
       "source": "HACKER NEWS",
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "1258 points · 362 comments",
+      "summary": "1353 points · 390 comments",
       "published": "2026-09-24T15:26:12+00:00"
     },
     {
@@ -321,25 +405,11 @@
       "published": "2026-09-24T11:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "CISA: Ransomware gangs now exploiting critical TeamCity flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/",
-      "summary": "​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]",
-      "published": "2026-09-24T10:42:37+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Qualcomm Announces Snapdragon X2 Series Processors Will Support Linux",
       "url": "https://linux.slashdot.org/story/26/09/24/0155213/qualcomm-announces-snapdragon-x2-series-processors-will-support-linux?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Snapdragon X2 Series processors feature a neural processing unit (NPU) delivering 80 trillion operations per second and allowing advanced AI features to run locally. And Snapdragon X2 Series \"is expanding to Linux,\" Qualcomm announced today, calling it one of their most-requested capabilities: Qualcomm Technologies is a top contributor to Linux development at a kernel level, and now we're embracing support for Snapdragon X2 Series as a platform directly. We're upstreaming core drivers for Snapdr",
       "published": "2026-09-24T10:04:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
-      "url": "https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/",
-      "summary": "OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as part of a research project. [...]",
-      "published": "2026-09-24T09:38:53+00:00"
     },
     {
       "source": "OSINT",
@@ -354,27 +424,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wow630/fbi_rushes_to_investigate_if_shinyhunters_hack_of/",
       "summary": "submitted by /u/NISMO1968 [link] [comments]",
       "published": "2026-09-24T08:33:27+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "summary": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]",
-      "published": "2026-09-24T08:14:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-      "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-      "summary": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle Medicare claims and personal records. The agent reached files on it that were not public, but no personal",
-      "published": "2026-09-24T07:07:25+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses. \"The campaign compromised 7 accounts –",
-      "published": "2026-09-24T06:32:03+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -394,29 +443,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
-      "summary": "706 points · 94 comments",
+      "summary": "794 points · 105 comments",
       "published": "2026-09-23T22:53:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "summary": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
-      "published": "2026-09-23T22:46:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "summary": "330 points · 603 comments",
-      "published": "2026-09-23T22:37:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "url": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "summary": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
-      "published": "2026-09-23T21:25:13+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -433,13 +461,6 @@
       "published": "2026-09-23T16:04:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "summary": "339 points · 372 comments",
-      "published": "2026-09-23T15:33:33+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Bitcoin Surges to $86,455, an 8-Month High, After America's SEC Announces Tokenized Stock Experiment",
       "url": "https://slashdot.org/story/26/09/23/0744202/bitcoin-surges-to-86455-an-8-month-high-after-americas-sec-announces-tokenized-stock-experiment?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -447,24 +468,10 @@
       "published": "2026-09-23T11:34:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Microsoft Helps Take Down Massive Automated, AI-Powered Phishing-as-a-Service Platform",
-      "url": "https://yro.slashdot.org/story/26/09/23/0621252/microsoft-helps-take-down-massive-automated-ai-powered-phishing-as-a-service-platform?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft's security blog describes the fight against a new \"AI-powered cybercrime platform\" offering phishing-as-a-service, with AI-tailored lures and analyses of compromised inboxes (to identify high-value targets). The site compromised more than 12,000 inboxes in over 10,000 organizations around the world, compromising business accounts \"at scale\" with automated attacks and prebuilt phishing templates. AI tools could even sift through a victim's mailbox to help engineer better phishing messag",
-      "published": "2026-09-23T07:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "summary": "339 points · 154 comments",
-      "published": "2026-09-22T17:49:46+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "2DWillNeverDie",
       "url": "https://2dwillneverdie.com/",
-      "summary": "244 points · 53 comments",
+      "summary": "288 points · 72 comments",
       "published": "2026-09-22T14:00:08+00:00"
     },
     {
@@ -473,13 +480,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wn9jc3/we_analyzed_338_million_attack_simulations_in/",
       "summary": "Hi r/cybersecurity ! We're the Picus Labs Research Team , and we're here for an AMA. For the Blue Report 2026 , we analyzed more than 338 million attack simulations run in production environments between January and June 2026, mapped to the MITRE ATT&CK® framework. The headline finding for 2026: prevention recovered to 69% at the perimeter , its 2024 peak. But for the first time, we measured what happens after an attacker gains authenticated access, and only 37% of their actions get blocked . Ke",
       "published": "2026-09-22T13:28:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "summary": "263 points · 36 comments",
-      "published": "2026-09-22T12:23:37+00:00"
     },
     {
       "source": "REDDIT",
