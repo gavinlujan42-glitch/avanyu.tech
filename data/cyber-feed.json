@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T05:15:41.064756+00:00",
+  "updated": "2026-09-25T10:27:58.537044+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,109 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+      "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
+      "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1. The issue stems from a preg_replace() backslash",
+      "published": "2026-09-25T10:14:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ink and Switch Interactive Homepage",
+      "url": "https://www.inkandswitch.com/",
+      "summary": "11 points · 1 comments",
+      "published": "2026-09-25T09:50:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tech Needs Humanists More",
+      "url": "https://passo.uno/tech-needs-humanists-more-than-ever/",
+      "summary": "41 points · 20 comments",
+      "published": "2026-09-25T09:31:34+00:00"
+    },
+    {
       "source": "REDDIT",
-      "title": "Security rules",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpmrb9/security_rules/",
-      "summary": "submitted by /u/Massive-Psychology74 [link] [comments]",
-      "published": "2026-09-25T04:18:15+00:00"
+      "title": "There's a new way to break RSA that's faster than anything we've seen before",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wprl4c/theres_a_new_way_to_break_rsa_thats_faster_than/",
+      "summary": "submitted by /u/return2ozma [link] [comments]",
+      "published": "2026-09-25T09:16:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Special Projects (2016)",
+      "url": "https://openai.com/index/special-projects/",
+      "summary": "18 points · 4 comments",
+      "published": "2026-09-25T08:55:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Running local LLMs on your Mac: what fits, what's free, and what's overkill",
+      "url": "https://typetab.app/blog/local-llms-on-your-mac",
+      "summary": "4 points · 0 comments",
+      "published": "2026-09-25T08:53:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "F-Droid 2.0: FOSS Android Appstore Continues Updating Despite Google's Pending 'Developer Verification' Plan",
+      "url": "https://news.slashdot.org/story/26/09/25/0344225/f-droid-20-foss-android-appstore-continues-updating-despite-googles-pending-developer-verification-plan?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"F-Droid, a third-party app repository that only distributes free and open-source software packages for Google's Android mobile platform, on Thursday announced version 2.0 of its Android app,\" reports The Register. Though they also note \"a big banner across the top of the F-Droid site\" pointing to a site describing pending changes from Google that threaten the future of F-Droid... [D]evelopers who want their apps broadly distributed outside the official Google Play Store will need to register wi",
+      "published": "2026-09-25T08:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers steal $351.6 million in Bitget crypto exchange hack",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/",
+      "summary": "​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]",
+      "published": "2026-09-25T08:33:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+      "url": "https://www.dawo.community/en/",
+      "summary": "178 points · 77 comments",
+      "published": "2026-09-25T08:06:49+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "ubuntils v2.0.0 – forensic triage for Ubuntu: collect artifacts, correlate a timeline, and detect 15 persistence/tampering techniques (fully offline)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpq4kh/ubuntils_v200_forensic_triage_for_ubuntu_collect/",
+      "summary": "Hey all, I've been building ubuntils , a Python CLI/TUI for forensic triage on Ubuntu — the idea is to replace the \"run the same 10 manual commands and hope you didn't miss one\" first-30-minutes ritual of incident response with a single tool that does collection, detection, and timeline correlation automatically. How it works (4 stages, ~3s total on a live host): Collect — 11 collectors gather artifacts concurrently (processes, network, cron, systemd, SSH, sudoers, users, packages, PAM, kernel m",
+      "published": "2026-09-25T07:39:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "summary": "65 points · 22 comments",
+      "published": "2026-09-25T07:27:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "url": "https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2",
+      "summary": "50 points · 12 comments",
+      "published": "2026-09-25T07:03:46+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "‘Extreme concern’ over first known AI hack of a government system",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpoa08/extreme_concern_over_first_known_ai_hack_of_a/",
+      "summary": "submitted by /u/DerBootsMann [link] [comments]",
+      "published": "2026-09-25T05:45:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
+      "url": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
+      "summary": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not from any live workload, and an attacker could not choose whose data they got, according to Cloudflare. The company",
+      "published": "2026-09-25T04:49:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+      "url": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-5430 (CVS score: 9.8) - A path traversal vulnerability in WSO2 API Control Plane,",
+      "published": "2026-09-25T04:46:34+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -46,6 +144,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wplf6a/wanting_to_move_over_to_the_engineering_side_of/",
       "summary": "I’m a SOC analyst with 5 years of experience with 3 years in Helpdesk and 2 years at present going on to 3 as cybersecurity analyst working at a SOC, im also Sec+ and CySA+ certified. I’m looking for a career growth and wanting to get in to the engineer side of cyber, but I believe that may be a long shot? Should I go for an ISSO role next and take what I learn from there, and try to get into engineer side after? Or I can go to engineering job now? submitted by /u/WraxJax [link] [comments]",
       "published": "2026-09-25T03:08:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What About Rails?",
+      "url": "https://jardo.dev/what-about-rails",
+      "summary": "60 points · 23 comments",
+      "published": "2026-09-25T02:50:16+00:00"
     },
     {
       "source": "REDDIT",
@@ -69,25 +174,11 @@
       "published": "2026-09-24T23:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "url": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "summary": "70 points · 26 comments",
-      "published": "2026-09-24T20:53:39+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
       "url": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
       "summary": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
       "published": "2026-09-24T20:53:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "California is chasing wealth that has feet",
-      "url": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "summary": "195 points · 549 comments",
-      "published": "2026-09-24T20:34:32+00:00"
     },
     {
       "source": "OSINT",
@@ -97,17 +188,10 @@
       "published": "2026-09-24T20:10:48+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Critical Cross-user and Cross-tenant compromise in Atlassian Rovo",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wpc02r/critical_crossuser_and_crosstenant_compromise_in/",
-      "summary": "An isolation failure in an LLM-orchestrated environment due to simple isolation misconfigurations led to Rovo sessions belonging to other users and tenants being discovered, reached, and ultimately used to execute code within their contexts. The finding was rated Critical and is pretty bad. At this point, I feel like AI security is regressing back to simple misconfigurations, except now we're giving users direct access to systems built on top of them. What do you guys think? Write-up: https://mo",
-      "published": "2026-09-24T20:01:40+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
       "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "summary": "102 points · 16 comments",
+      "summary": "136 points · 28 comments",
       "published": "2026-09-24T19:14:27+00:00"
     },
     {
@@ -156,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
       "url": "https://github.com/devdotfast/whiteboard",
-      "summary": "244 points · 94 comments",
+      "summary": "315 points · 117 comments",
       "published": "2026-09-24T17:21:36+00:00"
     },
     {
@@ -170,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Why is the liver so weirdly regenerative?",
       "url": "https://dynomight.substack.com/p/liver",
-      "summary": "330 points · 175 comments",
+      "summary": "415 points · 210 comments",
       "published": "2026-09-24T16:23:00+00:00"
     },
     {
@@ -184,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "F-Droid 2.0",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "1069 points · 283 comments",
+      "summary": "1258 points · 362 comments",
       "published": "2026-09-24T15:26:12+00:00"
     },
     {
@@ -207,13 +291,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
       "summary": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a broader shift toward continuous, automated compliance validation. [...]",
       "published": "2026-09-24T14:02:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "summary": "148 points · 275 comments",
-      "published": "2026-09-24T13:53:29+00:00"
     },
     {
       "source": "OSINT",
@@ -251,13 +328,6 @@
       "published": "2026-09-24T10:42:37+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Two-tier encryption in the UK",
-      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "summary": "401 points · 384 comments",
-      "published": "2026-09-24T10:39:19+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Qualcomm Announces Snapdragon X2 Series Processors Will Support Linux",
       "url": "https://linux.slashdot.org/story/26/09/24/0155213/qualcomm-announces-snapdragon-x2-series-processors-will-support-linux?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -293,13 +363,6 @@
       "published": "2026-09-24T08:14:47+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "url": "https://cms-sfx-demo.apeleg.com/",
-      "summary": "53 points · 16 comments",
-      "published": "2026-09-24T07:22:17+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
       "url": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
@@ -312,13 +375,6 @@
       "url": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
       "summary": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial institutions. It originated from 1,487 unique AWS EC2 source IP addresses. \"The campaign compromised 7 accounts –",
       "published": "2026-09-24T06:32:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "summary": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
-      "published": "2026-09-24T05:36:18+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -338,7 +394,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Make cursed fonts like Times New Bastard",
       "url": "https://bastardica.mitpit.com",
-      "summary": "555 points · 79 comments",
+      "summary": "706 points · 94 comments",
       "published": "2026-09-23T22:53:28+00:00"
     },
     {
@@ -352,7 +408,7 @@
       "source": "HACKER NEWS",
       "title": "Toyota is taking the Corolla electric",
       "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "summary": "275 points · 453 comments",
+      "summary": "330 points · 603 comments",
       "published": "2026-09-23T22:37:28+00:00"
     },
     {
@@ -370,34 +426,6 @@
       "published": "2026-09-23T20:34:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
-      "summary": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-      "published": "2026-09-23T19:53:54+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Some interviewers are just straight up assholes",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wog914/some_interviewers_are_just_straight_up_assholes/",
-      "summary": "I'm just gonna say it. I'm a interviewer at FAANG company, and some interviewers I work with are definitely assholes. So if you get an asshole interviewer, just think about how hard it is to work with them instead of blaming yourself if you failed. Not saying everyone who failed didn't deserve to, but some people are just a holes and will be like that in an interview submitted by /u/Exact-Advantage-3190 [link] [comments]",
-      "published": "2026-09-23T19:49:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "url": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "summary": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
-      "published": "2026-09-23T18:06:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-      "url": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-      "summary": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button labeled \"Email work item to this project.\" Mail sent to it opens an issue in that project, authored",
-      "published": "2026-09-23T16:53:10+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Andreessen Horowitz Launches AI/Company-Building School As a College Alternative",
       "url": "https://news.slashdot.org/story/26/09/23/0625203/andreessen-horowitz-launches-aicompany-building-school-as-a-college-alternative?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -408,7 +436,7 @@
       "source": "HACKER NEWS",
       "title": "Rails World 2026 Opening Keynote [video]",
       "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "summary": "292 points · 307 comments",
+      "summary": "339 points · 372 comments",
       "published": "2026-09-23T15:33:33+00:00"
     },
     {
@@ -426,31 +454,17 @@
       "published": "2026-09-23T07:04:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Trump Denounces Attempts to Control AI, Wants It Renamed 'Super Intelligence' in US Documents",
-      "url": "https://politics.slashdot.org/story/26/09/22/2258253/trump-denounces-attempts-to-control-ai-wants-it-renamed-super-intelligence-in-us-documents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "U.S. President Trump addressed the United Nations on Tuesday. And a half hour in, after decrying immigration, Trump pivoted to add that \"The United States also totally rejects any attempt to construct a globalist scheme to control for the artificial intelligence being spoken of so much now.\" But then he added \"hereinafter officially called super intelligence, changing the name, in that the use of the word artificial makes intelligence fake. It makes it sound fake, and it is not fake. It's actual",
-      "published": "2026-09-23T02:34:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
       "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "summary": "268 points · 112 comments",
+      "summary": "339 points · 154 comments",
       "published": "2026-09-22T17:49:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Writing Parquet files using Haskell",
-      "url": "https://www.datahaskell.org/blog/2026/09/18/writing-parquet-files-using-haskell.html",
-      "summary": "39 points · 3 comments",
-      "published": "2026-09-22T15:02:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "2DWillNeverDie",
       "url": "https://2dwillneverdie.com/",
-      "summary": "169 points · 23 comments",
+      "summary": "244 points · 53 comments",
       "published": "2026-09-22T14:00:08+00:00"
     },
     {
@@ -464,22 +478,8 @@
       "source": "HACKER NEWS",
       "title": "Fearless SIMD v1.0",
       "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "summary": "219 points · 34 comments",
+      "summary": "263 points · 36 comments",
       "published": "2026-09-22T12:23:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Security auditing in the age of (good enough) AI",
-      "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-      "summary": "81 points · 9 comments",
-      "published": "2026-09-21T21:53:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Book review: Is parallel programming hard, and, if so, what can you do about it?",
-      "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
-      "summary": "109 points · 32 comments",
-      "published": "2026-09-21T14:30:00+00:00"
     },
     {
       "source": "REDDIT",
