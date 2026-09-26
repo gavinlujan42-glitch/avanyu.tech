@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:19:18.174323+00:00",
+  "updated": "2026-09-26T22:08:25.170266+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,41 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Looking for an independent security firm to review a small SaaS security product before wider launch. Recommendations?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr2mrk/looking_for_an_independent_security_firm_to/",
+      "summary": "Small business, about 20 corporate users currently in a private pilot, live billing not yet enabled. There's no revenue yet to pay one of those big firms thousands of dollars to rubberstamp it, but we have used multiple AI security evaluation tools like Akido in the free tier to cross our t's and dot our i's. The SaaS in question is a security-focused platform designed to monitor the lifecycle of credentials, secrets, and other sensitive access information. It helps organizations identify aging,",
+      "published": "2026-09-26T21:49:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Webgoat (A-8): insecure deserialization",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr1uxv/webgoat_a8_insecure_deserialization/",
+      "summary": "Does anyone have a good step by step walkthrough on this lab? I’ve tried YouTube tutorials and everything I can find seems to skip important details, or it’s tough to tell what the person doing the walkthrough is doing… This is the only lab that I can’t figure out so far. Everything else lets me use web inspection, burp or zap, but I haven’t found anything saying those are tools I can use for this one. FYI - I’m running a Kali Linux VM for all WebGoat labs. submitted by /u/Electrical-Name-6017 [",
+      "published": "2026-09-26T21:15:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "I’ve been building my own Red Team tooling here’s what I’ve learned so far",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr10sp/ive_been_building_my_own_red_team_tooling_heres/",
+      "summary": "I’ve been spending a lot of time building security tooling for my own research and authorized testing rather than relying entirely on existing frameworks. A few of the problems I kept running into were surprisingly simple: Recon gets repetitive. You end up running the same discovery, probing, fingerprinting and enumeration workflows over and over. Tooling becomes fragmented. One tool handles recon, another handles scanning, another handles proxies, another handles reporting, and keeping everythi",
+      "published": "2026-09-26T20:40:27+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "After 40 Years, Microsoft Excel Will Add Single-Cell Lists and Arrays",
+      "url": "https://slashdot.org/story/26/09/26/0227226/after-40-years-microsoft-excel-will-add-single-cell-lists-and-arrays?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft's senior product manager for Excel acknowledges that \"Throughout Excel's 40-year history, you've only been able to put one value per cell.\" But that's now changing with arrays in cells (as well as nested arrays) and lists. \"You can create a list by selecting Insert > List or pressing Ctrl+J, then typing or pasting items separated by commas or semicolons, depending on your regional settings. Selecting the icon in the cell shows the individual values...\" \"With lists, you can filter by on",
+      "published": "2026-09-26T20:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "summary": "18 points · 3 comments",
+      "published": "2026-09-26T20:08:50+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
@@ -41,11 +76,25 @@
       "published": "2026-09-26T18:22:52+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "summary": "69 points · 15 comments",
+      "published": "2026-09-26T18:22:41+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "CTO at NCSC Summary: week ending September 27th",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wqx2kj/cto_at_ncsc_summary_week_ending_september_27th/",
       "summary": "submitted by /u/digicat [link] [comments]",
       "published": "2026-09-26T17:59:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Japan moves to tighten rules for foreigners",
+      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
+      "summary": "51 points · 100 comments",
+      "published": "2026-09-26T17:43:11+00:00"
     },
     {
       "source": "REDDIT",
@@ -58,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
-      "summary": "12 points · 0 comments",
+      "summary": "109 points · 31 comments",
       "published": "2026-09-26T17:10:40+00:00"
     },
     {
@@ -86,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "summary": "41 points · 17 comments",
+      "summary": "85 points · 29 comments",
       "published": "2026-09-26T15:56:34+00:00"
     },
     {
@@ -95,27 +144,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
       "summary": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
       "published": "2026-09-26T15:50:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Banks and Credit Unions to Team Up Against Apple Pay Fees",
-      "url": "https://www.macrumors.com/2026/09/25/apple-pay-antitrust-lawsuit-advances/",
-      "summary": "70 points · 30 comments",
-      "published": "2026-09-26T15:48:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: A Claude Code skill to analyze your chess games",
-      "url": "https://github.com/brumar/chess-postmortem-skills",
-      "summary": "59 points · 40 comments",
-      "published": "2026-09-26T15:34:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Plunging test scores are a slow-moving catastrophe",
-      "url": "https://www.economist.com/leaders/2026/09/10/plunging-test-scores-are-a-slow-moving-catastrophe",
-      "summary": "111 points · 180 comments",
-      "published": "2026-09-26T15:24:08+00:00"
     },
     {
       "source": "OSINT",
@@ -160,20 +188,6 @@
       "published": "2026-09-26T11:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "EX-ARRR: Sailing the Apple 0-click Seas",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wqo1ly/exarrr_sailing_the_apple_0click_seas/",
-      "summary": "submitted by /u/nindustries [link] [comments]",
-      "published": "2026-09-26T11:20:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-      "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-      "summary": "559 points · 218 comments",
-      "published": "2026-09-26T10:55:56+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
       "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
@@ -188,13 +202,6 @@
       "published": "2026-09-26T09:55:22+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "summary": "83 points · 136 comments",
-      "published": "2026-09-26T09:41:58+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "LocalStranger is a PoC for vulnerable “Microsoft Windows Hardware Compatibility Publisher” signed driver, demonstrated through a basic unsigned driver mapper and NT AUTHORITY escalation.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wqm4ig/localstranger_is_a_poc_for_vulnerable_microsoft/",
@@ -205,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "summary": "275 points · 54 comments",
+      "summary": "317 points · 73 comments",
       "published": "2026-09-26T09:13:41+00:00"
     },
     {
@@ -233,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "We're gonna need a lot more mathematicians",
       "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-      "summary": "301 points · 400 comments",
+      "summary": "346 points · 454 comments",
       "published": "2026-09-26T02:46:54+00:00"
     },
     {
@@ -273,9 +280,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "summary": "20 points · 5 comments",
+      "published": "2026-09-25T21:09:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
       "url": "https://swarmtraces.org/",
-      "summary": "650 points · 413 comments",
+      "summary": "695 points · 439 comments",
       "published": "2026-09-25T21:09:27+00:00"
     },
     {
@@ -289,15 +303,8 @@
       "source": "HACKER NEWS",
       "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
       "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "summary": "33 points · 24 comments",
+      "summary": "48 points · 32 comments",
       "published": "2026-09-25T20:53:54+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What value is there in firewall logs?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wq4veg/what_value_is_there_in_firewall_logs/",
-      "summary": "There was a question before about retaining 12 months of firewall logs, but I want to ask what value this has these days? For me I’m only ever looking at WAF logs or actual endpoint logs because all the firewall tells me is that port 443 was accepted. WAF and web server logs tell me so much more. The valuable stuff is in the application logs after the firewall. Yes I might see port scanning but that’s background noise at this point. submitted by /u/heinternets [link] [comments]",
-      "published": "2026-09-25T19:04:09+00:00"
     },
     {
       "source": "OSINT",
@@ -319,13 +326,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
       "published": "2026-09-25T17:24:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wq2b94/salesbleed_exploits_salesforce_agents_to_enable/",
-      "summary": "I'm a Salesforce admin, not a cybersecurity expert, so please talk to me like I'm dumb. Salesforce had a similar exploit that was \"patched\" last year. My question is, is there anything that prevents exfiltration via calling 3rd party URLs in other AI clients, like Claude? In Agentforce, after the first web-to-lead vulnerability was discovered last year, you have to allowlist URLs for your users to access. You don't have to do that in Claude. Is this a vulnerability anywhere you can do that? subm",
-      "published": "2026-09-25T17:23:41+00:00"
     },
     {
       "source": "OSINT",
@@ -356,6 +356,13 @@
       "published": "2026-09-25T14:44:41+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "summary": "92 points · 313 comments",
+      "published": "2026-09-25T13:49:06+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
       "url": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
@@ -380,7 +387,7 @@
       "source": "HACKER NEWS",
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "summary": "174 points · 85 comments",
+      "summary": "267 points · 142 comments",
       "published": "2026-09-25T10:55:40+00:00"
     },
     {
@@ -422,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "Plan mode is dead",
       "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-      "summary": "501 points · 441 comments",
+      "summary": "538 points · 469 comments",
       "published": "2026-09-25T03:59:11+00:00"
     },
     {
@@ -433,13 +440,6 @@
       "published": "2026-09-24T23:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Murky History of Soviet-Born Tetris",
-      "url": "https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris/",
-      "summary": "90 points · 20 comments",
-      "published": "2026-09-24T23:11:45+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Five Police Officers Criminally Charged for Misusing Flock Cameras in Indianapolis",
       "url": "https://yro.slashdot.org/story/26/09/24/0433242/five-police-officers-criminally-charged-for-misusing-flock-cameras-in-indianapolis?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -448,38 +448,38 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "summary": "21 points · 9 comments",
-      "published": "2026-09-24T16:11:42+00:00"
+      "title": "The Rise of Audio AR",
+      "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+      "summary": "23 points · 5 comments",
+      "published": "2026-09-24T17:31:28+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "OpenAI, Anthropic CEOs Urge UN Countries to Cooperate on AI Safety Standards",
-      "url": "https://slashdot.org/story/26/09/24/0338213/openai-anthropic-ceos-urge-un-countries-to-cooperate-on-ai-safety-standards?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"The heads of major AI firms pleaded with the United Nations on Wednesday to save the world or at least its people — by somehow regulating the fast-expanding technology that they have been designing,\" writes the Associated Press. \"If managed poorly, I even believe AI could be a risk to humanity as a whole,\" said Dario Amodei, chief executive officer of Anthropic. And from his competitor Sam Altman, CEO of OpenAI, came this assessment: \"We could lose control of the future to AI.\" Yoshua Bengio, w",
-      "published": "2026-09-24T14:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+      "summary": "31 points · 14 comments",
+      "published": "2026-09-24T16:52:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "summary": "75 points · 17 comments",
+      "published": "2026-09-24T16:11:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Modern Object Pascal Introduction for Programmers",
       "url": "https://castle-engine.io/modern_pascal",
-      "summary": "93 points · 33 comments",
+      "summary": "131 points · 46 comments",
       "published": "2026-09-24T11:33:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Lost Atomic Update on Loongson CPU",
       "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-      "summary": "60 points · 4 comments",
+      "summary": "93 points · 5 comments",
       "published": "2026-09-24T08:36:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Reflections on 1,000 Days of Math",
-      "url": "https://gmays.com/reflections-on-1000-days-of-math/",
-      "summary": "55 points · 24 comments",
-      "published": "2026-09-23T14:40:34+00:00"
     },
     {
       "source": "REDDIT",
