@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T00:48:30.974095+00:00",
-  "item_count": 76,
+  "updated": "2026-09-27T06:28:02.513607+00:00",
+  "item_count": 88,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -16,16 +16,74 @@
     },
     {
       "source": "REDDIT",
-      "url": "https://www.reddit.com/r/netsec/.rss",
-      "error": "HTTPError"
-    },
-    {
-      "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "SLASHDOT",
+      "title": "China and the US Say They've Agreed to Start Talks About AI",
+      "url": "https://news.slashdot.org/story/26/09/27/0153248/china-and-the-us-say-theyve-agreed-to-start-talks-about-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The United States and China have agreed to \"launch a dialogue\" on AI, reports Reuters. On artificial intelligence, the two sides agreed to hold a dialogue on the technology's risks and benefits, with the next round of discussions set for November, and to set up a communication channel for AI-related incidents, the Chinese Foreign Ministry and the White House said. The White House said that the leaders had agreed to use the term \"super intelligence\" in place of \"artificial intelligence.\" In a sep",
+      "published": "2026-09-27T05:36:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Issabel PBX Hard-Coded JWT Key Could Allow Admin Access",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wra6co/issabel_pbx_hardcoded_jwt_key_could_allow_admin/",
+      "summary": "Issabel PBX had a hard-coded JWT key that could let attackers forge admin tokens and gain access to PBX functions. Tracked as CVE-2026-89026, the issue has now been patched by moving the key into the system configuration submitted by /u/thechougala [link] [comments]",
+      "published": "2026-09-27T03:59:30+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "EDR Evasion: Process Injection Without WriteProcessMemory",
+      "url": "https://www.reddit.com/r/netsec/comments/1wr9sr7/edr_evasion_process_injection_without/",
+      "summary": "Unlike traditional approaches, console named-pipe injection does not use VirtualAllocEx and WriteProcessMemory . Instead, it takes advantage of read and write operations through a named pipe, along with the way console programs store interactive commands in memory. submitted by /u/Cold-Dinosaur [link] [comments]",
+      "published": "2026-09-27T03:39:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "If we do not stop to help each other, what do we become?",
+      "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+      "summary": "155 points · 58 comments",
+      "published": "2026-09-27T03:20:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What is the size of Yemen? (2024)",
+      "url": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+      "summary": "96 points · 16 comments",
+      "published": "2026-09-27T02:40:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Going to my first conference…",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr8i5i/going_to_my_first_conference/",
+      "summary": "I am going to my first conference in this next few weeks, completely alone, and I AM INCREDIBLY NERVOUS. I am in my early career, but have been put into a position that I am the lead of a software rollout, and as such have been invited to the vendors large annual security conference. Most of the conference seems to be talks specific to the vendor/vendor offerings, but there seems to be a good amount of general talks or networking. Any tips? Things people wish they knew before their first one? su",
+      "published": "2026-09-27T02:31:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AI on Kubernetes: Default Helm Chart Security Configurations and Lateral Movement Risks",
+      "url": "https://www.reddit.com/r/netsec/comments/1wr6wxx/ai_on_kubernetes_default_helm_chart_security/",
+      "summary": "A technical audit evaluating the security defaults of 15 official Helm charts used for AI serving, vector databases, and Model Context Protocol (MCP) agents (including KubeRay, vLLM, LiteLLM, Qdrant, Weaviate, and Flux159 MCP). Key findings from static manifest analysis and live single-pod lateral movement probes on a test cluster: Plaintext Secret Handling: LiteLLM database migration Job embeds raw database passwords in container environment variables (F-13). Unauthenticated Remote Code Executi",
+      "published": "2026-09-27T01:11:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "summary": "64 points · 50 comments",
+      "published": "2026-09-27T01:08:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "KDE and GNOME Developers Ponder How to Handle AI-Generated Contributions",
+      "url": "https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Last weekend KDE's annual Akademy conference included a presentation proposing an AI-native KDE,\" writes The Register. This led KDE developer Nate Graham to open a discussion about proposed restrictions on LLM-assisted contributions which \"rapidly became heated. Moderators issued warnings, restricted further comments, and eventually removed the thread.\" But as Graham writes on his blog, \"A bunch of people mostly outside of KDE who disapprove of LLM usage derailed KDE's attempt to add restriction",
+      "published": "2026-09-27T01:04:00+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "Your LG ‘Smart TV’ is Spying on You - Here’s How to Stop It Permanently",
@@ -56,17 +114,17 @@
     },
     {
       "source": "REDDIT",
+      "title": "A header-level look at 4,688 small-business websites: 0.17% passed a header-only script-CSP rule [methods, parser rules, data]",
+      "url": "https://www.reddit.com/r/netsec/comments/1wr23li/a_headerlevel_look_at_4688_smallbusiness_websites/",
+      "summary": "We scanned 7,040 randomly sampled U.S. local-business directory listings and graded the response headers against a published rubric. Of the 4,688 live sites, 49.7% met none of seven header criteria, and 8 sites (0.17%) passed a strict header-only script-CSP rule. Rubric, parser rules, code and de-identified data are all on the page. submitted by /u/Plastic-Falcon9147 [link] [comments]",
+      "published": "2026-09-26T21:26:16+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Webgoat (A-8): insecure deserialization",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wr1uxv/webgoat_a8_insecure_deserialization/",
       "summary": "Does anyone have a good step by step walkthrough on this lab? I’ve tried YouTube tutorials and everything I can find seems to skip important details, or it’s tough to tell what the person doing the walkthrough is doing… This is the only lab that I can’t figure out so far. Everything else lets me use web inspection, burp or zap, but I haven’t found anything saying those are tools I can use for this one. FYI - I’m running a Kali Linux VM for all WebGoat labs. submitted by /u/Electrical-Name-6017 [",
       "published": "2026-09-26T21:15:56+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "I’ve been building my own Red Team tooling here’s what I’ve learned so far",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr10sp/ive_been_building_my_own_red_team_tooling_heres/",
-      "summary": "I’ve been spending a lot of time building security tooling for my own research and authorized testing rather than relying entirely on existing frameworks. A few of the problems I kept running into were surprisingly simple: Recon gets repetitive. You end up running the same discovery, probing, fingerprinting and enumeration workflows over and over. Tooling becomes fragmented. One tool handles recon, another handles scanning, another handles proxies, another handles reporting, and keeping everythi",
-      "published": "2026-09-26T20:40:27+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -76,25 +134,11 @@
       "published": "2026-09-26T20:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
-      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
-      "summary": "41 points · 7 comments",
-      "published": "2026-09-26T20:08:50+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
       "summary": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable servers. [...]",
       "published": "2026-09-26T19:03:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-      "url": "https://tml.stanford.edu/homebody/",
-      "summary": "11 points · 2 comments",
-      "published": "2026-09-26T18:42:10+00:00"
     },
     {
       "source": "OSINT",
@@ -107,7 +151,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek Elastic Compute (DSec)",
       "url": "https://arxiv.org/abs/2609.22978",
-      "summary": "143 points · 40 comments",
+      "summary": "221 points · 69 comments",
       "published": "2026-09-26T18:22:41+00:00"
     },
     {
@@ -121,14 +165,14 @@
       "source": "HACKER NEWS",
       "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
       "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
-      "summary": "18 points · 3 comments",
+      "summary": "66 points · 8 comments",
       "published": "2026-09-26T17:26:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
       "url": "https://github.com/reladraw/reladraw",
-      "summary": "168 points · 47 comments",
+      "summary": "258 points · 74 comments",
       "published": "2026-09-26T17:10:40+00:00"
     },
     {
@@ -149,7 +193,7 @@
       "source": "HACKER NEWS",
       "title": "Drawgent: Coding agent on a live Excalidraw canvas",
       "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "summary": "103 points · 32 comments",
+      "summary": "139 points · 37 comments",
       "published": "2026-09-26T15:56:34+00:00"
     },
     {
@@ -163,7 +207,7 @@
       "source": "HACKER NEWS",
       "title": "Go Concurrency Distilled",
       "url": "https://antonz.org/go-concurrency-distilled/",
-      "summary": "16 points · 2 comments",
+      "summary": "153 points · 44 comments",
       "published": "2026-09-26T14:34:49+00:00"
     },
     {
@@ -181,18 +225,18 @@
       "published": "2026-09-26T14:08:32+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Improving site performance by shipping more CSS",
+      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "summary": "12 points · 1 comments",
+      "published": "2026-09-26T13:10:05+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
       "summary": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
       "published": "2026-09-26T12:28:41+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "DF & eDiscovery field straight out of uni",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wqowhb/df_ediscovery_field_straight_out_of_uni/",
-      "summary": "Hii guys, first time into this sub. Basically i just graduated last month from Comp Sci and Im fortunately enough to get into the big4 (green one) forensics and financial crime BU, specifically DF & Ediscovery team. Our team is relatively small, ~10 peeps including boss. What are the things i need to learn / carry the most weight, both soft and hard skills. Cause I am kinda worry not up to expectation of my boss and I do not have much security course experience besides those IT fundamental. Do i",
-      "published": "2026-09-26T12:07:32+00:00"
     },
     {
       "source": "OSINT",
@@ -223,10 +267,17 @@
       "published": "2026-09-26T09:55:22+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "EX-ARRR: Sailing the Apple 0-click Seas",
+      "url": "https://www.reddit.com/r/netsec/comments/1wqmb3o/exarrr_sailing_the_apple_0click_seas/",
+      "summary": "submitted by /u/nindustries [link] [comments]",
+      "published": "2026-09-26T09:35:39+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Fifteen years later, the Apple Cards origin story",
       "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-      "summary": "337 points · 86 comments",
+      "summary": "382 points · 95 comments",
       "published": "2026-09-26T09:13:41+00:00"
     },
     {
@@ -235,6 +286,13 @@
       "url": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are as follows - CVE-2026-65660 (CVSS score: 8.8) - A code injection vulnerability in Microsoft Office SharePoint",
       "published": "2026-09-26T08:49:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Flip Fluid on Flip Dots",
+      "url": "https://mitxela.com/projects/flipflip",
+      "summary": "7 points · 0 comments",
+      "published": "2026-09-26T07:50:24+00:00"
     },
     {
       "source": "OSINT",
@@ -254,7 +312,7 @@
       "source": "HACKER NEWS",
       "title": "An agent used DNS to reach an external chatbot",
       "url": "https://alignment.openai.com/misalignment-reports/an-agent-used-dns-to-reach-an-external-chatbot/",
-      "summary": "35 points · 21 comments",
+      "summary": "65 points · 71 comments",
       "published": "2026-09-26T04:14:11+00:00"
     },
     {
@@ -270,13 +328,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wqehee/how_i_couldve_accessed_17_trillion_microsoft/",
       "summary": "submitted by /u/DerBootsMann [link] [comments]",
       "published": "2026-09-26T02:06:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How one Twitch chat message became code execution on a streamer’s PC",
-      "url": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
-      "summary": "22 points · 4 comments",
-      "published": "2026-09-26T01:13:38+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -328,6 +379,13 @@
       "published": "2026-09-25T17:24:20+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "url": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "summary": "40 points · 10 comments",
+      "published": "2026-09-25T17:12:04+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
@@ -340,6 +398,13 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
       "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
       "published": "2026-09-25T14:54:33+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2",
+      "url": "https://www.reddit.com/r/netsec/comments/1wpyg75/cve202513032_entering_and_breaking_the_avast/",
+      "summary": "submitted by /u/si9int [link] [comments]",
+      "published": "2026-09-25T14:54:02+00:00"
     },
     {
       "source": "OSINT",
@@ -359,14 +424,14 @@
       "source": "HACKER NEWS",
       "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
       "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "summary": "137 points · 370 comments",
+      "summary": "224 points · 546 comments",
       "published": "2026-09-25T13:49:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Does Georgism work? Five years later",
       "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "summary": "62 points · 33 comments",
+      "summary": "240 points · 157 comments",
       "published": "2026-09-25T13:48:38+00:00"
     },
     {
@@ -394,7 +459,7 @@
       "source": "HACKER NEWS",
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "summary": "311 points · 164 comments",
+      "summary": "377 points · 203 comments",
       "published": "2026-09-25T10:55:40+00:00"
     },
     {
@@ -436,50 +501,50 @@
       "source": "HACKER NEWS",
       "title": "Evolving programming languages in the AI era",
       "url": "https://dashbit.co/blog/evolving-ai-era",
-      "summary": "18 points · 9 comments",
+      "summary": "79 points · 47 comments",
       "published": "2026-09-25T02:34:39+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "People Training OpenAI's AI Fired For Using AI To Train the AI",
-      "url": "https://slashdot.org/story/26/09/24/0618245/people-training-openais-ai-fired-for-using-ai-to-train-the-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "404 Media reports \"multiple contractors hired to improve OpenAI's models have been fired for using AI to train the AI: That's not great for the models themselves, but there is also obviously a great irony in AI training companies working for OpenAI firing people for using AI when OpenAI's whole thing is to make people use AI at work... OpenAI declined to comment on its contractors being fired for using AI. Their article cites internal documents and three contractors working on OpenAI-related pro",
-      "published": "2026-09-24T23:34:00+00:00"
+      "source": "REDDIT",
+      "title": "Argus Monitor Local Denial-of-Service Vulnerability (CVE-2026-79417)",
+      "url": "https://www.reddit.com/r/netsec/comments/1wpkc7q/argus_monitor_local_denialofservice_vulnerability/",
+      "summary": "(1) An exposed IOCTL lets unprivileged users disable the x86 MONITOR & MWAIT instructions used by Hyper-V and other kernel components--triggering a HYPERVISOR_ERROR bugcheck. (2) Reaching the IOCTL requires exploiting a TOCTOU bug arguably caused by poor documentation of the SeLocateProcessImageName function. (3) Reimplementation of the driver's security through obscurity IOCTL encryption scheme: SHA-256 KDF-derived XOR keystream & CRC16 Checksum. See full write-up , and Github for PoC. submitte",
+      "published": "2026-09-25T02:13:27+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Five Police Officers Criminally Charged for Misusing Flock Cameras in Indianapolis",
-      "url": "https://yro.slashdot.org/story/26/09/24/0433242/five-police-officers-criminally-charged-for-misusing-flock-cameras-in-indianapolis?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Nationwide, at least 100 police department employees have been charged with or accused of misusing license-plate readers for unauthorized purposes,\" reports the Washington Post. They cite their past investigations \"based on thousands of pages of police and court records,\" which found that \"In many of these cases, officers used Flock's roadside cameras to track the location of romantic partners and exes.\" In fact, five Indianapolis police officers were just criminally charged Wednesday with frau",
-      "published": "2026-09-24T19:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "LA Metro has some of the slowest escalators on Earth",
-      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
-      "summary": "73 points · 50 comments",
-      "published": "2026-09-24T16:52:24+00:00"
+      "source": "REDDIT",
+      "title": "CVE-2026-91766: PHP had the redirect credential leak curl fixed in 2018",
+      "url": "https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/",
+      "summary": "submitted by /u/AlexandreDaubois [link] [comments]",
+      "published": "2026-09-24T20:19:24+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
       "url": "https://www.movingimagearchive.com/",
-      "summary": "102 points · 23 comments",
+      "summary": "149 points · 26 comments",
       "published": "2026-09-24T16:11:42+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Modern Object Pascal Introduction for Programmers",
-      "url": "https://castle-engine.io/modern_pascal",
-      "summary": "143 points · 57 comments",
-      "published": "2026-09-24T11:33:56+00:00"
+      "source": "REDDIT",
+      "title": "How Cloudflare addressed a cross-tenant data exposure vulnerability in Containers",
+      "url": "https://www.reddit.com/r/netsec/comments/1wp466a/how_cloudflare_addressed_a_crosstenant_data/",
+      "summary": "submitted by /u/natcoba [link] [comments]",
+      "published": "2026-09-24T15:07:04+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Lost Atomic Update on Loongson CPU",
-      "url": "https://jia.je/hardware/2026/09/24/loongson-cpu-erratum-en/",
-      "summary": "109 points · 6 comments",
-      "published": "2026-09-24T08:36:40+00:00"
+      "source": "REDDIT",
+      "title": "Getting root on OnePlus 15 from an untrusted app, via an audio debug service and a vendor HAL",
+      "url": "https://www.reddit.com/r/netsec/comments/1woylqf/getting_root_on_oneplus_15_from_an_untrusted_app/",
+      "summary": "submitted by /u/nns_ee [link] [comments]",
+      "published": "2026-09-24T11:02:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Uncensored Qwen 3.8 27b helped write a LSASS Dumper which bypassed EDR while I made myself coffee",
+      "url": "https://www.reddit.com/r/netsec/comments/1wotpuj/uncensored_qwen_38_27b_helped_write_a_lsass/",
+      "summary": "submitted by /u/ezzzzz [link] [comments]",
+      "published": "2026-09-24T06:04:24+00:00"
     },
     {
       "source": "REDDIT",
@@ -515,48 +580,6 @@
       "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
       "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
       "published": "2026-09-01T22:40:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
-      "published": "2026-08-27T11:04:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
-      "published": "2026-08-14T11:24:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
-      "published": "2026-08-11T21:28:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
-      "published": "2026-08-06T17:00:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "published": "2026-07-30T16:49:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LG to Ban Residential Proxies from Smart TV Apps",
-      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
-      "summary": "The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after researchers found that more than 42 percent of games and other apps available for download on LG's webOS store allow unknown third-parties to route their Internet traffic through a user's TV.",
-      "published": "2026-07-22T01:10:38+00:00"
     }
   ]
 }
