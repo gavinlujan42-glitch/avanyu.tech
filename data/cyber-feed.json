@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T12:21:40.792018+00:00",
+  "updated": "2026-09-27T17:12:19.805339+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,10 +28,136 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "building general-purpose AI guardrails",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrhowt/building_generalpurpose_ai_guardrails/",
-      "summary": "I’m currently working on an AI security platform and I’m trying to design the guardrail layer for AI applications . One thing I’m struggling with is that guardrails seem highly dependent on the purpose of the application. A coding assistant, customer-support chatbot, RAG system, autonomous agent, and an internal enterprise assistant obviously need different security policies. So I’m wondering how people would approach building a general-purpose guardrail framework that can be adapted to differen",
-      "published": "2026-09-27T11:19:35+00:00"
+      "title": "Researchers Warn of Citrix NetScaler Zero Day Exploitation",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrp9it/researchers_warn_of_citrix_netscaler_zero_day/",
+      "summary": "submitted by /u/YogiBerra88888 [link] [comments]",
+      "published": "2026-09-27T16:54:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "url": "https://www.theguardian.com/technology/2026/sep/27/openai-halts-training-of-latest-models-as-reports-mount-of-ai-agents-going-rogue",
+      "summary": "17 points · 7 comments",
+      "published": "2026-09-27T16:29:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "There are no \"rogue\" AI agents",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "summary": "34 points · 15 comments",
+      "published": "2026-09-27T16:19:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Citrix admins warned to shut down NetScalers over 2 exploited zero-days",
+      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "summary": "Two unpatched Citrix NetScaler zero-day vulnerabilities are reportedly being exploited in attacks, with cybersecurity agencies, security researchers, and IT providers privately warning organizations about the flaws ahead of patches expected next week. [...]",
+      "published": "2026-09-27T16:02:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
+      "summary": "23 points · 14 comments",
+      "published": "2026-09-27T15:51:28+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How to challenge/dispute a CVE",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrnf1f/how_to_challengedispute_a_cve/",
+      "summary": "I recently stumbled over a CVE for a 3rd party repository, because the maintainer deprecated a function in his API and replaced it with a worse one. After looking at it, it turns out that the PoC for the CVE just shows a contract violation/misuse of the API and deprecating the function was in my opinion completely unnecessary. Especially, because the replacement API lacks similar problems, when the contract is broken. I tried to open a dispute at MISRA, but they immediately revoked my CNA-# when",
+      "published": "2026-09-27T15:42:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "postmarketOS Rebrand: Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
+      "summary": "63 points · 4 comments",
+      "published": "2026-09-27T15:31:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "summary": "93 points · 19 comments",
+      "published": "2026-09-27T15:26:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "I’m a CISO who’s built many security teams. I want to help you level up your career. Ask me anything.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrn0sn/im_a_ciso_whos_built_many_security_teams_i_want/",
+      "summary": "The editors at CISO Series present this AMA. This has been a long-term partnership between r/cybersecurity and the CISO Series. This month, CISO Series has assembled a panel of accomplished security leaders who have built and led many security teams over their careers. They are here to help you level up your own career and to answer your questions about growing in your current role, moving into leadership, hiring and managing teams, and everything in between. This week's participants are: Mathew",
+      "published": "2026-09-27T15:26:16+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Leaked Accounts to RCE: Writeup",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrmg7m/leaked_accounts_to_rce_writeup/",
+      "summary": "A web vulnerability chain that started with leaked account credentials and ended in RCE. Full writeup: https://moonlightlabs.online/blog/leaked-account-lead-to-rce submitted by /u/Ready_Confection_928 [link] [comments]",
+      "published": "2026-09-27T15:02:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Installing NeoVim caused original Vim undo files to be deleted",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+      "summary": "263 points · 215 comments",
+      "published": "2026-09-27T14:45:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "After Dozens of Incidents at OpenAI and Anthropic, OpenAI Pauses Model Training to Build More Safeguards",
+      "url": "https://slashdot.org/story/26/09/27/078251/after-dozens-of-incidents-at-openai-and-anthropic-openai-pauses-model-training-to-build-more-safeguards?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"OpenAI said it has paused training of its latest AI models,\" reports the Associated Press, \"as reports of AI agents going rogue mount.\" The decision to halt development came just hours after the company disclosed Friday that it was reviewing several incidents from the summer in which OpenAI agents searching federal government websites acted in unexpected ways beyond what was asked of them while gathering and distributing information... OpenAI said in a statement that it will resume training \"on",
+      "published": "2026-09-27T14:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "summary": "78 points · 28 comments",
+      "published": "2026-09-27T14:30:55+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Burnout after 2 years in pentesting",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrlfrl/burnout_after_2_years_in_pentesting/",
+      "summary": "I've been working as a pentester for about two years (initially part-time, then switched to full-time), and lately I've started feeling burned out and losing interest in studying because of how intense everything is. It all started when I was trying to choose which area to learn next after getting experience with web and mobile pentesting. I was considering Infra, AI, or Cloud. Just making this decision was a distraction because I was constantly hopping from one area to another. Eventually, I se",
+      "published": "2026-09-27T14:20:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "published": "2026-09-27T14:13:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "summary": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+      "published": "2026-09-27T13:38:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Canary tokens but for pictures?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrkdb4/canary_tokens_but_for_pictures/",
+      "summary": "I was wondering if there is a version of canary tokens, but for pictures Basically, you want to know who redistributed a picture A simple scenario is when you send a picture to exactly one person. You can add a small watermark to the picture (maybe have one random patch of pixels be red or something), then if you see that image anywhere else, you can suspect that this person redistributed it Now what if you post a picture where a bunch of people can see it Is there any way to know who screenshot",
+      "published": "2026-09-27T13:33:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ten Lines of Code That Changed My World",
+      "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
+      "summary": "46 points · 10 comments",
+      "published": "2026-09-27T13:33:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "summary": "69 points · 32 comments",
+      "published": "2026-09-27T13:30:11+00:00"
     },
     {
       "source": "REDDIT",
@@ -41,32 +167,11 @@
       "published": "2026-09-27T10:57:12+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "url": "https://arxiv.org/abs/2609.25021",
-      "summary": "46 points · 35 comments",
-      "published": "2026-09-27T10:26:25+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "New Tin-based Solar Cells Trap Heat 1,000 Times Longer, Could Beat 33% Limit",
       "url": "https://hardware.slashdot.org/story/26/09/26/0716210/new-tin-based-solar-cells-trap-heat-1000-times-longer-could-beat-33-limit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Could this push solar cell efficiency beyond the theoretical 33% limit? Interesting Engineering reports: Researchers at the University of Groningen in the Netherlands found that tin-based perovskite solar cells can slow heat loss from high-energy \"hot electrons...\" When sunlight strikes a panel, photons jump-start electrons into action. The most energetic photons create super-charged hot electrons... [but] in fractions of a trillionth of a second, these high-energy particles rapidly cool, dumpin",
       "published": "2026-09-27T10:04:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: LightCloud – A cloud console organised like file system",
-      "url": "https://www.light-cloud.com/",
-      "summary": "5 points · 2 comments",
-      "published": "2026-09-27T09:45:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
-      "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
-      "summary": "234 points · 154 comments",
-      "published": "2026-09-27T08:44:04+00:00"
     },
     {
       "source": "REDDIT",
@@ -79,15 +184,8 @@
       "source": "OSINT",
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "summary": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available. NetScaler ADC and",
+      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration. The bulletin came a day after security firm watchTowr",
       "published": "2026-09-27T07:47:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
-      "summary": "305 points · 256 comments",
-      "published": "2026-09-27T06:19:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -95,20 +193,6 @@
       "url": "https://news.slashdot.org/story/26/09/27/0153248/china-and-the-us-say-theyve-agreed-to-start-talks-about-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The United States and China have agreed to \"launch a dialogue\" on AI, reports Reuters. On artificial intelligence, the two sides agreed to hold a dialogue on the technology's risks and benefits, with the next round of discussions set for November, and to set up a communication channel for AI-related incidents, the Chinese Foreign Ministry and the White House said. The White House said that the leaders had agreed to use the term \"super intelligence\" in place of \"artificial intelligence.\" In a sep",
       "published": "2026-09-27T05:36:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The internet discovers TLA+. Now what?",
-      "url": "https://reasonable.io/blog/tla-tutorial/",
-      "summary": "29 points · 16 comments",
-      "published": "2026-09-27T05:26:15+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Issabel PBX Hard-Coded JWT Key Could Allow Admin Access",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wra6co/issabel_pbx_hardcoded_jwt_key_could_allow_admin/",
-      "summary": "Issabel PBX had a hard-coded JWT key that could let attackers forge admin tokens and gain access to PBX functions. Tracked as CVE-2026-89026, the issue has now been patched by moving the key into the system configuration submitted by /u/thechougala [link] [comments]",
-      "published": "2026-09-27T03:59:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -133,24 +217,10 @@
     },
     {
       "source": "REDDIT",
-      "title": "Going from system admin to security engineer",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr3jye/going_from_system_admin_to_security_engineer/",
-      "summary": "Hello, I just have a quick question, In a bad job market like the one we’re in right now, hypothetically, if somebody had two years of system administration experience and one year of security engineering experience, what would be their chances be for being able to successfully land a security engineering position if most of the security engineering jobs are asking for 3 to 5 years of security engineering experience and they’re going up against people that may have 3 to 5 years of security engin",
-      "published": "2026-09-26T22:30:54+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Posting Pictures of Your Palm Will Get Your Biometric Data Leaked",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wr38yt/posting_pictures_of_your_palm_will_get_your/",
       "summary": "submitted by /u/hatimmoxs [link] [comments]",
       "published": "2026-09-26T22:17:03+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Webgoat (A-8): insecure deserialization",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr1uxv/webgoat_a8_insecure_deserialization/",
-      "summary": "Does anyone have a good step by step walkthrough on this lab? I’ve tried YouTube tutorials and everything I can find seems to skip important details, or it’s tough to tell what the person doing the walkthrough is doing… This is the only lab that I can’t figure out so far. Everything else lets me use web inspection, burp or zap, but I haven’t found anything saying those are tools I can use for this one. FYI - I’m running a Kali Linux VM for all WebGoat labs. submitted by /u/Electrical-Name-6017 [",
-      "published": "2026-09-26T21:15:56+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -172,20 +242,6 @@
       "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
       "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users. \"The attack chain begins with a fake CAPTCHA page and",
       "published": "2026-09-26T18:22:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "summary": "264 points · 88 comments",
-      "published": "2026-09-26T18:22:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
-      "url": "https://github.com/reladraw/reladraw",
-      "summary": "327 points · 89 comments",
-      "published": "2026-09-26T17:10:40+00:00"
     },
     {
       "source": "OSINT",
@@ -212,8 +268,15 @@
       "source": "HACKER NEWS",
       "title": "Go Concurrency Distilled",
       "url": "https://antonz.org/go-concurrency-distilled/",
-      "summary": "250 points · 97 comments",
+      "summary": "325 points · 134 comments",
       "published": "2026-09-26T14:34:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "url": "https://fakecloud.dev/",
+      "summary": "50 points · 30 comments",
+      "published": "2026-09-26T14:25:16+00:00"
     },
     {
       "source": "OSINT",
@@ -221,13 +284,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
       "summary": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
       "published": "2026-09-26T14:19:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Improving site performance by shipping more CSS",
-      "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "summary": "53 points · 32 comments",
-      "published": "2026-09-26T13:10:05+00:00"
     },
     {
       "source": "OSINT",
@@ -275,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Flip Fluid on Flip Dots",
       "url": "https://mitxela.com/projects/flipflip",
-      "summary": "135 points · 12 comments",
+      "summary": "282 points · 19 comments",
       "published": "2026-09-26T07:50:24+00:00"
     },
     {
@@ -293,18 +349,18 @@
       "published": "2026-09-26T07:04:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Walgit: A Git server that is one binary in front of an object store",
+      "url": "https://github.com/rgodha24/walgithub",
+      "summary": "10 points · 3 comments",
+      "published": "2026-09-26T03:09:50+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Meta Made 43M Misleading Statements, New Mexico Jury Finds, Including on Its Cambridge Analytica Response",
       "url": "https://tech.slashdot.org/story/26/09/26/0042239/meta-made-43m-misleading-statements-new-mexico-jury-finds-including-on-its-cambridge-analytica-response?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A New Mexico jury on Friday \"found Facebook liable for deceiving users\" about its privacy protections, reports the Associated Press. A New Mexico newspaper calls it \"another massive legal victory\" against Facebook, reporting that the jury found Facebook \"had committed tens of millions of violations of the state's Unfair Practices Act in connection with its lies to consumers about how their personal information was handled by the company and third-party users.\" The state has asked the company be ",
       "published": "2026-09-26T02:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How I Could’ve Accessed 17 Trillion Microsoft Records",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wqehee/how_i_couldve_accessed_17_trillion_microsoft/",
-      "summary": "submitted by /u/DerBootsMann [link] [comments]",
-      "published": "2026-09-26T02:06:10+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -328,13 +384,6 @@
       "published": "2026-09-25T21:41:07+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Teaching a World Model to Play Pokemon",
-      "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-      "summary": "13 points · 18 comments",
-      "published": "2026-09-25T21:02:48+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
@@ -345,8 +394,15 @@
       "source": "HACKER NEWS",
       "title": "Finally, A True Blue Rose Exists",
       "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
-      "summary": "26 points · 6 comments",
+      "summary": "73 points · 28 comments",
       "published": "2026-09-25T20:44:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Writing Efficient C++ Code",
+      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
+      "summary": "60 points · 15 comments",
+      "published": "2026-09-25T20:20:27+00:00"
     },
     {
       "source": "OSINT",
@@ -371,27 +427,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "summary": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
-      "published": "2026-09-25T16:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "summary": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-      "published": "2026-09-25T14:54:33+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "url": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "summary": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
-      "published": "2026-09-25T14:51:10+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
       "url": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
       "summary": "Two actions-cool GitHub Actions have been disabled for a second time after the repositories became accessible last week, months after they were compromised during the May 2026 Mini Shai-Hulud campaign. The affected GitHub Actions are listed below - actions-cool/issues-helper actions-cool/maintain-one-comment Visiting either of the repositories now shows the message: \"Access to this",
@@ -399,16 +434,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "summary": "308 points · 690 comments",
-      "published": "2026-09-25T13:49:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Does Georgism work? Five years later",
       "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
-      "summary": "380 points · 273 comments",
+      "summary": "465 points · 381 comments",
       "published": "2026-09-25T13:48:38+00:00"
     },
     {
@@ -436,7 +464,7 @@
       "source": "HACKER NEWS",
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "summary": "437 points · 237 comments",
+      "summary": "470 points · 253 comments",
       "published": "2026-09-25T10:55:40+00:00"
     },
     {
@@ -454,39 +482,11 @@
       "published": "2026-09-25T10:14:02+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "F-Droid 2.0: FOSS Android Appstore Continues Updating Despite Google's Pending 'Developer Verification' Plan",
-      "url": "https://news.slashdot.org/story/26/09/25/0344225/f-droid-20-foss-android-appstore-continues-updating-despite-googles-pending-developer-verification-plan?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"F-Droid, a third-party app repository that only distributes free and open-source software packages for Google's Android mobile platform, on Thursday announced version 2.0 of its Android app,\" reports The Register. Though they also note \"a big banner across the top of the F-Droid site\" pointing to a site describing pending changes from Google that threaten the future of F-Droid... [D]evelopers who want their apps broadly distributed outside the official Google Play Store will need to register wi",
-      "published": "2026-09-25T08:34:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Evolving programming languages in the AI era",
-      "url": "https://dashbit.co/blog/evolving-ai-era",
-      "summary": "108 points · 67 comments",
-      "published": "2026-09-25T02:34:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Biology might not be quantum, but its math is quantumlike",
-      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
-      "summary": "81 points · 26 comments",
-      "published": "2026-09-25T02:11:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "summary": "182 points · 26 comments",
-      "published": "2026-09-24T16:11:42+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "We analyzed 338 million attack simulations in production. Perimeter defense blocks 69% of attacks, but post-compromise blocking drops to 37%. AMA.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wn9jc3/we_analyzed_338_million_attack_simulations_in/",
-      "summary": "Hi r/cybersecurity ! We're the Picus Labs Research Team , and we're here for an AMA. For the Blue Report 2026 , we analyzed more than 338 million attack simulations run in production environments between January and June 2026, mapped to the MITRE ATT&CK® framework. The headline finding for 2026: prevention recovered to 69% at the perimeter , its 2024 peak. But for the first time, we measured what happens after an attacker gains authenticated access, and only 37% of their actions get blocked . Ke",
-      "published": "2026-09-22T13:28:46+00:00"
+      "title": "Show HN: A CC0 museum of retro 3D tricks you can paste into a page",
+      "url": "https://3d-retro.com/",
+      "summary": "43 points · 10 comments",
+      "published": "2026-09-23T23:33:39+00:00"
     },
     {
       "source": "REDDIT",
