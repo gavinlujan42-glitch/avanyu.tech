@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27T23:19:43.776626+00:00",
-  "item_count": 76,
+  "updated": "2026-09-28T01:55:44.747638+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,39 +27,60 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "We found that only 8 of 4,688 small business sites we scanned pass a real script-CSP check",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrygur/we_found_that_only_8_of_4688_small_business_sites/",
-      "summary": "I'm part of the Rackcrunch team. We ran a header-only scan of 4,688 US small business websites, sampled from a public business directory. We only read HTTPS response headers. No page content, no probing, nothing invasive. Short version: 49.7% met none of the seven basic header criteria we checked. 21.2% send an enforced Content-Security-Policy, but most of those are framing or upgrade rules only. Only 8 out of 4,688 (0.17%) passed our check for a CSP that actually restricts scripts. None of this",
-      "published": "2026-09-27T23:06:18+00:00"
+      "source": "HACKER NEWS",
+      "title": "Self-parking car using genetic algorithm (2021)",
+      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
+      "summary": "13 points · 2 comments",
+      "published": "2026-09-28T01:21:32+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "( noobie questions ) I'm trying to type a command in Kali Linux, but nothing appears on the screen, as if the keyboard were locked and a second problem.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wryceg/noobie_questions_im_trying_to_type_a_command_in/",
-      "summary": "Hello, I’m just starting out in IT (specifically cybersecurity) and would like to change career paths and take a training course (well, if I can manage it). I’ve installed Kali Linux and started following YouTube tutorials, but I’m running into difficulties: I keep encountering errors, or things just don’t go as expected. In the attached photo, I type `sudo su` and press Enter, but I can’t seem to enter the password, even though I’m definitely pressing the keys on my keyboard... , photo : https:",
-      "published": "2026-09-27T23:00:43+00:00"
+      "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wrzmo6/mentorship_monday_post_all_career_education_and/",
+      "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
+      "published": "2026-09-28T00:00:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+      "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+      "published": "2026-09-27T23:40:39+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Just How Big is the AI Buildout - and How Risky?",
+      "url": "https://slashdot.org/story/26/09/25/230252/just-how-big-is-the-ai-buildout---and-how-risky?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A new Brookings Institution study notes the \"strikingly physical\" economic footprint of AI's buildout, from specialized chips and electricity to purpose-built data centers. (Two-thirds of a data center's costs are IT equipment, with one-third going to real estate and its associated power infrastructure.) \"At an average of 3.63 percent of GDP per year, the projected buildout would be larger relative to the economy than the major U.S. canal, railroad, electrification, highway, and telecommunicatio",
+      "published": "2026-09-27T23:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Lunar Terminator Paradox",
       "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "summary": "29 points · 17 comments",
+      "summary": "43 points · 28 comments",
       "published": "2026-09-27T21:06:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "My Recent Woodworking Projects",
-      "url": "https://notoriousbfg.com/recent-woodworking-projects/",
-      "summary": "9 points · 2 comments",
-      "published": "2026-09-27T20:33:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "When did Google get so weird?",
       "url": "https://sancho.bearblog.dev/google-weird/",
-      "summary": "528 points · 279 comments",
+      "summary": "786 points · 420 comments",
       "published": "2026-09-27T20:12:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Have an LLC",
+      "url": "https://zachholman.com/posts/you-should-have-an-llc",
+      "summary": "31 points · 20 comments",
+      "published": "2026-09-27T20:04:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Self-Hosting on the Dark Web",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "summary": "58 points · 22 comments",
+      "published": "2026-09-27T20:03:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -72,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
       "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "summary": "56 points · 19 comments",
+      "summary": "72 points · 28 comments",
       "published": "2026-09-27T19:37:05+00:00"
     },
     {
@@ -86,14 +107,14 @@
       "source": "HACKER NEWS",
       "title": "Imp is a full port of DSPy to the BEAM",
       "url": "https://github.com/deepfates/imp",
-      "summary": "36 points · 5 comments",
+      "summary": "49 points · 5 comments",
       "published": "2026-09-27T19:28:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "What I did at Recurse Center",
       "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
-      "summary": "43 points · 14 comments",
+      "summary": "71 points · 18 comments",
       "published": "2026-09-27T19:04:19+00:00"
     },
     {
@@ -114,21 +135,21 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
       "url": "https://loficities.com/",
-      "summary": "125 points · 59 comments",
+      "summary": "171 points · 77 comments",
       "published": "2026-09-27T18:44:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
       "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
-      "summary": "37 points · 6 comments",
+      "summary": "51 points · 10 comments",
       "published": "2026-09-27T18:02:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ember-1",
       "url": "https://fireworks.ai/blog/ember-1",
-      "summary": "292 points · 160 comments",
+      "summary": "357 points · 182 comments",
       "published": "2026-09-27T17:31:53+00:00"
     },
     {
@@ -149,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Don't couple your Go code to GitHub",
       "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-      "summary": "107 points · 51 comments",
+      "summary": "147 points · 77 comments",
       "published": "2026-09-27T16:50:58+00:00"
     },
     {
@@ -184,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "In an $80 motel room, a discovery to shed light on the origins of life",
       "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
-      "summary": "189 points · 78 comments",
+      "summary": "210 points · 81 comments",
       "published": "2026-09-27T14:30:55+00:00"
     },
     {
@@ -212,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "Replacing the old battery on rechargeable bike lights",
       "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-      "summary": "128 points · 67 comments",
+      "summary": "138 points · 73 comments",
       "published": "2026-09-27T13:30:11+00:00"
     },
     {
@@ -249,6 +270,13 @@
       "url": "https://tech.slashdot.org/story/26/09/24/1928229/kde-and-gnome-developers-ponder-how-to-handle-ai-generated-contributions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Last weekend KDE's annual Akademy conference included a presentation proposing an AI-native KDE,\" writes The Register. This led KDE developer Nate Graham to open a discussion about proposed restrictions on LLM-assisted contributions which \"rapidly became heated. Moderators issued warnings, restricted further comments, and eventually removed the thread.\" But as Graham writes on his blog, \"A bunch of people mostly outside of KDE who disapprove of LLM usage derailed KDE's attempt to add restriction",
       "published": "2026-09-27T01:04:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Favourite cyber security conference",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wr4opv/favourite_cyber_security_conference/",
+      "summary": "What’s everyone’s favourite Cyber conference to attend in the US? I was at CybrSecCon in Houston the other week and I’ve been to RSA. I’ve also attended smaller localised ones like CyberriskAlliance and futurecons. Curious as to what everyone likes in terms of talks, speakers, vendors, swag, happy hours? Essentially what event(s) do you find the most value in. submitted by /u/Illustrious_Toe_2274 [link] [comments]",
+      "published": "2026-09-26T23:23:44+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -296,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "There is more to code review than (automatable) detection",
       "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "summary": "36 points · 14 comments",
+      "summary": "66 points · 28 comments",
       "published": "2026-09-26T15:06:28+00:00"
     },
     {
@@ -371,10 +399,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "S3 Is the Future, S3 Is the Past",
-      "url": "https://btrblocks.com/blog/s3_is_the_future_and_the_past/",
-      "summary": "27 points · 13 comments",
-      "published": "2026-09-25T23:58:17+00:00"
+      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
+      "url": "https://github.com/dashersw/coyopedal",
+      "summary": "9 points · 0 comments",
+      "published": "2026-09-26T02:24:50+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -405,32 +433,11 @@
       "published": "2026-09-25T20:57:55+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Writing Efficient C++ Code (2013)",
-      "url": "https://asawicki.info/articles/writing_efficient_cpp_code.php",
-      "summary": "129 points · 77 comments",
-      "published": "2026-09-25T20:20:27+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Elementor WordPress flaw lets attackers create admin accounts",
       "url": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
       "summary": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
       "published": "2026-09-25T18:13:33+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Asteroids Named After Tom Lehrer and 'Weird Al' Yankovic",
-      "url": "https://science.slashdot.org/story/26/09/24/009238/asteroids-named-after-tom-lehrer-and-weird-al-yankovic?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Weird Al\" Yankovic's name has just been approved for a new asteroid — (14331) Alyankovic = 1981 EC26 — by the International Astronomical Union, reports Space.com. Yankovic's asteroid was championed by planetary scientist Allison McGraw joined by \"several heavy hitters in the planetary science field, according to the Tucson Star. (Astrophysicist Steve Desch from the School of Earth and Space Exploration at Arizona State University; Tim McCoy, one of the main curators of meteorites at the Smithso",
-      "published": "2026-09-25T17:34:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
-      "published": "2026-09-25T17:24:20+00:00"
     },
     {
       "source": "OSINT",
@@ -443,22 +450,15 @@
       "source": "HACKER NEWS",
       "title": "Previously unheard recordings of John Coltrane, captured by Frank Tiberi",
       "url": "https://www.jazzwise.com/content/news/john-coltrane-centenary-celebrations-see-impulse-records-release-the-legendary-tiberi-tapes",
-      "summary": "45 points · 15 comments",
+      "summary": "62 points · 19 comments",
       "published": "2026-09-25T14:38:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The state of SIMD in Rust in 2026",
       "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "summary": "73 points · 19 comments",
+      "summary": "95 points · 19 comments",
       "published": "2026-09-25T13:46:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A New Experiment Meta-Strategy",
-      "url": "https://chillphysicsenjoyer.substack.com/p/a-new-experiment-meta-strategy",
-      "summary": "3 points · 0 comments",
-      "published": "2026-09-25T13:20:04+00:00"
     },
     {
       "source": "OSINT",
@@ -487,13 +487,6 @@
       "url": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
       "summary": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of Roundcube Webmail versions 1.6.x before 1.6.16 and 1.7.x before 1.7.1. The issue stems from a preg_replace() backslash",
       "published": "2026-09-25T10:14:02+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wlx1w1/mentorship_monday_post_all_career_education_and/",
-      "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
-      "published": "2026-09-21T00:00:27+00:00"
     },
     {
       "source": "OSINT",
