@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T08:57:02.932904+00:00",
-  "item_count": 88,
+  "updated": "2026-09-29T15:37:29.314892+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -18,29 +18,209 @@
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
+    },
+    {
+      "source": "REDDIT",
+      "url": "https://www.reddit.com/r/technology/.rss",
+      "error": "HTTPError"
     }
   ],
   "items": [
     {
       "source": "REDDIT",
-      "title": "Harnessing Multi-Agent Problem",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wt501d/harnessing_multiagent_problem/",
-      "summary": "Everyone is rushing to build AI agent swarms right now. LangGraph, CrewAI, AutoGen—developers are spinning up autonomous LLM teams that write code, query databases, and talk to each other asynchronously. It feels like magic. It is also a massive security catastrophe waiting to happen.We are deploying multi-agent systems into production without realizing a terrifying truth: The glue holding these swarms together the multi-agent harnessis fundamentally broken. If you thought a standard prompt inje",
-      "published": "2026-09-29T08:54:42+00:00"
+      "title": "How do you choose between black-box, gray-box, and white-box testing in real web security work?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtd53s/how_do_you_choose_between_blackbox_graybox_and/",
+      "summary": "Hey guys, I know the basic definitions, but I’m trying to understand how these approaches are actually chosen and combined in real web security work. My current understanding is: Black-box: little or no internal knowledge. It makes fewer assumptions about the target, but coverage can be limited. White-box: access to source code gives much better visibility, but code-level reachability does not always mean attacker reachability. I’ve seen source analysis report things like “if the attacker has ro",
+      "published": "2026-09-29T15:26:57+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Florida Invokes Extinction Fears In Legal Bid To Halt OpenAI Development",
+      "url": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: The state of Florida is seeking a temporary injunction to stop OpenAI from continuing to develop what it calls a \"reckless, unacceptably risky product\" without the deployment of \"third-party approved safety guardrails.\" The new legal motion (PDF), filed Monday morning, is part of a civil lawsuit the state of Florida originally filed in June, arguing that ChatGPT represented \"a threat to the public safety of Floridians,\" specifically by preyi",
+      "published": "2026-09-29T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+      "summary": "131 points · 72 comments",
+      "published": "2026-09-29T14:32:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude partial outage",
+      "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+      "summary": "132 points · 97 comments",
+      "published": "2026-09-29T14:25:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
+      "url": "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads",
+      "summary": "9 points · 7 comments",
+      "published": "2026-09-29T14:23:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+      "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+      "summary": "97 points · 16 comments",
+      "published": "2026-09-29T14:15:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
+      "published": "2026-09-29T14:13:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google ending ChromeOS support two years early",
+      "url": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+      "summary": "42 points · 18 comments",
+      "published": "2026-09-29T14:12:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "America.gov – Whatever you need from government, start here",
+      "url": "https://america.gov/",
+      "summary": "40 points · 11 comments",
+      "published": "2026-09-29T14:04:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
+      "published": "2026-09-29T14:01:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Here We Go Again (Citrix NetScaler DTLS Preauth Memory Overflow CVE-2026-88772) - watchTowr Labs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtau4b/here_we_go_again_citrix_netscaler_dtls_preauth/",
+      "summary": "submitted by /u/dx7r__ [link] [comments]",
+      "published": "2026-09-29T13:57:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical",
+      "published": "2026-09-29T13:45:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What makes software development engineering",
+      "url": "https://parksb.github.io/en/article/44.html",
+      "summary": "27 points · 27 comments",
+      "published": "2026-09-29T13:31:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "summary": "209 points · 127 comments",
+      "published": "2026-09-29T12:43:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Without the Hot Air",
+      "url": "https://www.withouthotair.com/",
+      "summary": "69 points · 35 comments",
+      "published": "2026-09-29T12:38:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
+      "url": "https://www.cbc.ca/lite/story/9.7361622",
+      "summary": "72 points · 47 comments",
+      "published": "2026-09-29T12:33:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+      "url": "https://jevstiller.pages.dev/posts/the-guarantee/",
+      "summary": "16 points · 3 comments",
+      "published": "2026-09-29T12:05:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+      "published": "2026-09-29T11:41:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+      "summary": "293 points · 199 comments",
+      "published": "2026-09-29T11:35:18+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Looking for advice/ideas for Hard Misc and a Docker-based Medium Misc challenge",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wt7ka2/looking_for_adviceideas_for_hard_misc_and_a/",
+      "summary": "Hey! I'm currently helping make a CTF and I'm looking for some ideas/advice for a Hard Misc challenge. I also have an idea for a Medium Misc challenge involving Docker image layers. The general idea is that a secret existed in an older image layer, was deleted later, and the player needs to realize that Docker layers can still contain the deleted data. One thing I'm struggling with is making the intended path discoverable without basically telling the player: COPY secret.txt /... RUN rm /... I'd",
+      "published": "2026-09-29T11:27:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "You Are No Longer Invited to Dinner",
+      "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+      "summary": "435 points · 378 comments",
+      "published": "2026-09-29T11:14:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "url": "https://github.com/PostHog/jeeves",
+      "summary": "146 points · 64 comments",
+      "published": "2026-09-29T11:13:54+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "El Nino Bursts Through Temperature Record Months Before Peak",
+      "url": "https://news.slashdot.org/story/26/09/29/054253/el-nino-bursts-through-temperature-record-months-before-peak?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The current El Nino has already surpassed the highest Pacific temperature anomaly recorded in the modern era, reaching 3.05C above the 1991-2020 average months before its expected peak. The commonly used ONI measure is also on the verge of breaking the 2015 record. Forecasts cited by The Guardian suggest the event could reach about 4.0C later this year. From the report: The latest data shows the temperature rise at the heart of El Nino in the Pacific Ocean has now reached 3.05C. That is higher t",
+      "published": "2026-09-29T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "We tested NVIDIA's new AI agent sandbox (OpenShell). The defaults held. Four settings let data out.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wt5mnc/we_tested_nvidias_new_ai_agent_sandbox_openshell/",
+      "summary": "OpenShell is NVIDIA's open-source sandbox for AI agents: it blocks network, file and process access unless a policy allows it. We ran 123 trials on v0.1.2. The good: every documented control held, and a malicious script run by an agent leaked a secret 0/10 times under the default policy (10/10 without OpenShell). The four settings to check before you trust it: Read-write rules let data out. GET-only rules still carry data in query strings and headers. Rules in audit mode log but do not block. Au",
+      "published": "2026-09-29T09:34:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+      "published": "2026-09-29T09:04:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI companies leak data to advertisers [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "summary": "327 points · 105 comments",
+      "published": "2026-09-29T09:03:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Using any C++ library in Godot",
       "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-      "summary": "10 points · 1 comments",
+      "summary": "119 points · 31 comments",
       "published": "2026-09-29T08:40:37+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
-      "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
-      "summary": "19 points · 3 comments",
-      "published": "2026-09-29T08:26:28+00:00"
+      "source": "OSINT",
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individual is expected to appear before the",
+      "published": "2026-09-29T08:35:10+00:00"
     },
     {
       "source": "OSINT",
@@ -55,13 +235,6 @@
       "url": "https://science.slashdot.org/story/26/09/28/2140251/microbes-could-survive-on-saturns-moon-enceladus?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "New research suggests Enceladus may be an especially promising place to search for extraterrestrial life: microbes similar to those found near Earth's hydrothermal vents survived in lab conditions designed to mimic the Saturnian moon's subsurface ocean. A separate study also found that material blasted from Enceladus' plumes may naturally separate and concentrate salts, organics and potential biosignatures into individual ice grains, potentially making them easier for future spacecraft to detect",
       "published": "2026-09-29T07:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Uncensored and Offensive Security AI Models Benchmark",
-      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-      "summary": "11 points · 0 comments",
-      "published": "2026-09-29T06:16:04+00:00"
     },
     {
       "source": "OSINT",
@@ -99,60 +272,11 @@
       "published": "2026-09-29T03:06:13+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Invictus or Blu Raven",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsyyoi/invictus_or_blu_raven/",
-      "summary": "I’m looking for anyone who’s ethier taken the courses from ethier of these companies specifically around Microsoft cloud and I wanna know your thoughts and where they worth it for the price? submitted by /u/Frequent_Classroom88 [link] [comments]",
-      "published": "2026-09-29T03:04:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "U.S President cuts fuel economy standards back to 2014 levels | In 2020, U.S President cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
-      "url": "https://www.reddit.com/r/technology/comments/1wsxr5u/us_president_cuts_fuel_economy_standards_back_to/",
-      "summary": "submitted by /u/ControlCAD [link] [comments]",
-      "published": "2026-09-29T02:06:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tank Body Problem",
-      "url": "http://www.jimsitu.com",
-      "summary": "101 points · 22 comments",
-      "published": "2026-09-29T00:41:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "'Gaming pays me double what I earned as a teacher'",
-      "url": "https://www.reddit.com/r/technology/comments/1wsuwhj/gaming_pays_me_double_what_i_earned_as_a_teacher/",
-      "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
-      "published": "2026-09-28T23:53:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
-      "url": "https://www.reddit.com/r/technology/comments/1wsu3uu/kalshi_loses_again_as_judges_rule_prediction/",
-      "summary": "submitted by /u/spherocytes [link] [comments]",
-      "published": "2026-09-28T23:17:27+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "China Broadens Travel Curbs To Encompass Family of Top AI Talent",
       "url": "https://slashdot.org/story/26/09/28/2052208/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot reader schwit1 shares a report from Business Standard: China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent the outflow of critical know-how and information to the US. Government agencies have recently begun to share the wider restrictions with affected people, which include prominent startup founders as well as the heads of strategically important comp",
       "published": "2026-09-28T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-      "url": "https://jonclegg.github.io/pacman-bakeoff/",
-      "summary": "52 points · 37 comments",
-      "published": "2026-09-28T22:43:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "A YouTuber says Meta's Muse gave his address to a Facebook Marketplace buyer: 'A guy just showed up at my door'",
-      "url": "https://www.reddit.com/r/technology/comments/1wst3gu/a_youtuber_says_metas_muse_gave_his_address_to_a/",
-      "summary": "submitted by /u/thejoshwhite [link] [comments]",
-      "published": "2026-09-28T22:33:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -167,27 +291,6 @@
       "url": "https://slashdot.org/story/26/09/28/2042235/amd-acquires-fei-fei-lis-world-labs-for-82-billion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "AMD has agreed to acquire Fei-Fei Li's World Labs for about $8.2 billion in stock, making it the chipmaker's second-largest acquisition and giving it a major foothold in \"world models\" that simulate 3D environments for robotics and other physically grounded AI. CNBC reports: AI researchers expect world models will be able to help develop robots and other physically-grounded artificial intelligence applications. AMD plans to keep World Labs separate from its chipmaking business until the transact",
       "published": "2026-09-28T22:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "95 points · 18 comments",
-      "published": "2026-09-28T21:26:41+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "America's Clean Car Retreat Is Complete. The World Will Move On Without Us",
-      "url": "https://www.reddit.com/r/technology/comments/1wsrgl3/americas_clean_car_retreat_is_complete_the_world/",
-      "summary": "submitted by /u/TripleShotPls [link] [comments]",
-      "published": "2026-09-28T21:26:11+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Walmart promises to never use AI to secretly charge shoppers higher prices",
-      "url": "https://www.reddit.com/r/technology/comments/1wsr3py/walmart_promises_to_never_use_ai_to_secretly/",
-      "summary": "submitted by /u/tylerthe-theatre [link] [comments]",
-      "published": "2026-09-28T21:12:35+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -211,32 +314,11 @@
       "published": "2026-09-28T20:31:16+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "summary": "491 points · 184 comments",
-      "published": "2026-09-28T20:23:36+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "NIST Finalizes Guidelines on Protecting Online Identity and Access Tokens From Misuse",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wspraf/nist_finalizes_guidelines_on_protecting_online/",
       "summary": "submitted by /u/israelavila [link] [comments]",
       "published": "2026-09-28T20:22:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "California farmers are struggling to sell grapes as demand for wine drops",
-      "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "summary": "204 points · 450 comments",
-      "published": "2026-09-28T20:00:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Scientists solve 1840s space weather mystery",
-      "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-      "summary": "106 points · 46 comments",
-      "published": "2026-09-28T20:00:03+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -267,25 +349,11 @@
       "published": "2026-09-28T19:12:01+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "A developer offered every household in a Pennsylvania town $10,000 for a data center, and many still said no",
-      "url": "https://www.reddit.com/r/technology/comments/1wsnhkg/a_developer_offered_every_household_in_a/",
-      "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
-      "published": "2026-09-28T19:00:21+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push",
       "url": "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Meta has hired MongoDB CEO Chirantan \"CJ\" Desai to lead a new enterprise AI business aimed at turning Meta's models, agents and tools into products companies can deploy themselves. Reuters reports: Desai, a veteran technology executive, took over the role from Dev Ittycheria. MongoDB has appointed Ittycheria as interim CEO as it searches for a permanent replacement. \"While the departure is disappointing, we believe MongoDB remains well-positioned strategically and view the share-price reaction a",
       "published": "2026-09-28T19:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "summary": "233 points · 82 comments",
-      "published": "2026-09-28T18:58:53+00:00"
     },
     {
       "source": "OSINT",
@@ -323,13 +391,6 @@
       "published": "2026-09-28T18:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Sonnet 5.5",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "summary": "772 points · 516 comments",
-      "published": "2026-09-28T17:58:11+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
       "url": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
@@ -351,17 +412,10 @@
       "published": "2026-09-28T17:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Mark Zuckerberg Loses Another $11 Billion Monday as Meta Shares Slide",
-      "url": "https://www.reddit.com/r/technology/comments/1wsjsx0/mark_zuckerberg_loses_another_11_billion_monday/",
-      "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
-      "published": "2026-09-28T16:45:58+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Phyllotaxis: An audio-reactive LED display",
       "url": "https://jagi.studio/posts/phyllotaxis/",
-      "summary": "134 points · 14 comments",
+      "summary": "203 points · 30 comments",
       "published": "2026-09-28T16:18:57+00:00"
     },
     {
@@ -370,13 +424,6 @@
       "url": "https://slashdot.org/story/26/09/28/0615249/bill-gates-says-an-ai-kill-switch-isnt-enough?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Bill Gates said an AI \"kill switch\" alone would be insufficient to address the technology's risks. \"The kill switch is, that's kind of a weird thing. It's not enough to have a kill switch,\" the Microsoft co-founder said in an interview that aired Sunday on NBC's \"Meet the Press.\" He said the more immediate concern is people using AI for cyberattacks or bioterrorism rather than systems acting autonomously. \"We're not yet at the point where they autonomously grab computers and, you know, can't be ",
       "published": "2026-09-28T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pirating the Pirates",
-      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "summary": "568 points · 276 comments",
-      "published": "2026-09-28T15:54:15+00:00"
     },
     {
       "source": "OSINT",
@@ -393,46 +440,11 @@
       "published": "2026-09-28T15:45:42+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Hijacking the PS5's RTMP stream",
-      "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "summary": "253 points · 80 comments",
-      "published": "2026-09-28T15:35:23+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "SpaceX Launches Starship Into Orbit",
-      "url": "https://science.slashdot.org/story/26/09/28/1513251/spacex-launches-starship-into-orbit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "SpaceX's Starship reached orbit for the first time, successfully deploying 26 operational Starlink V3 satellites after overcoming an early Raptor 3 engine shutdown during ascent. \"SpaceX plans to eventually deploy 100,000 upgraded Starlink V3s to expand the company's wireless satellite internet services,\" notes Space.com. Here's the latest update from the report: SpaceX has decided to return Starship from orbit earlier than expected. After valuating the upper stage Ship's status during its first",
-      "published": "2026-09-28T15:20:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Discord’s Second Attempt To Roll Out Age Verification Is Going Badly",
-      "url": "https://www.reddit.com/r/technology/comments/1wsh7h0/discords_second_attempt_to_roll_out_age/",
-      "summary": "submitted by /u/Turbostrider27 [link] [comments]",
-      "published": "2026-09-28T15:10:18+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
       "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
       "published": "2026-09-28T15:08:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Walmart Says It's Not Using Personal Info To Set Prices As It Expands Digital Shelf Labels",
-      "url": "https://news.slashdot.org/story/26/09/28/060245/walmart-says-its-not-using-personal-info-to-set-prices-as-it-expands-digital-shelf-labels?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from the Associated Press: Walmart is aiming to assuage customers' fears about its new pricing technology as it rolls out digital price labels at its stores. In a statement posted on the company's website, Walmart's CEO John Furner vowed that the Bentonville, Arkansas-based retailer isn't using personal information like income, shopping history or a customer's willingness to pay to set prices, and it won't be doing so in the future either. \"We don't set differ",
-      "published": "2026-09-28T15:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Worth While AI Security Certification",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsguxz/worth_while_ai_security_certification/",
-      "summary": "Hi all I’m looking to get an AI certification along with practical experience in doing so. Does anyone have any recommendations around current / up-to-date certifications & material? I have found a below course from TCM. Looks decent, however any feedback or alternatives from the community very much welcome!! https://certifications.tcm-sec.com/papa/ submitted by /u/superd06 [link] [comments]",
-      "published": "2026-09-28T14:57:05+00:00"
     },
     {
       "source": "OSINT",
@@ -449,60 +461,11 @@
       "published": "2026-09-28T14:00:10+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "The Internet Marked Flock Safety CEO’s Home As A Public Toilet Online",
-      "url": "https://www.reddit.com/r/technology/comments/1wscs15/the_internet_marked_flock_safety_ceos_home_as_a/",
-      "summary": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
-      "published": "2026-09-28T12:05:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved - locals push back over noise and 'bribe' concerns",
-      "url": "https://www.reddit.com/r/technology/comments/1wscnqy/data_center_developer_offers_10000_checks_to_4500/",
-      "summary": "submitted by /u/ArgentineBeauty [link] [comments]",
-      "published": "2026-09-28T12:00:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
-      "url": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
-      "summary": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users. According to Okta’s Global CISO Insights 2026 report, only 47% of CISOs are confident they can identify every AI agent in their environment. Even among those who feel",
-      "published": "2026-09-28T11:58:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-      "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. \"The implant installs the framework unchanged, then overwrites its SOUL.md persona file,\" ThreatDown said. \"The 39-line prompt directs it to execute tasks received through",
-      "published": "2026-09-28T11:46:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Oh Look, The Foot Gun Went Off Again (Citrix NetScaler PreAuth Command Injection CVE-2026-88771) - watchTowr Labs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsbhxv/oh_look_the_foot_gun_went_off_again_citrix/",
-      "summary": "submitted by /u/dx7r__ [link] [comments]",
-      "published": "2026-09-28T10:59:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The systems that no one will test",
-      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
-      "summary": "43 points · 16 comments",
-      "published": "2026-09-28T10:51:46+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
       "url": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
       "summary": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
       "published": "2026-09-28T09:25:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "url": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "summary": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat actor's tradecraft. The attack took place in early June 2026 over a period of about 18 hours. \"The destructive operations",
-      "published": "2026-09-28T09:08:21+00:00"
     },
     {
       "source": "OSINT",
@@ -512,13 +475,6 @@
       "published": "2026-09-28T07:30:15+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
-      "published": "2026-09-28T06:24:19+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wrzmo6/mentorship_monday_post_all_career_education_and/",
@@ -526,25 +482,11 @@
       "published": "2026-09-28T00:00:11+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "summary": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-      "published": "2026-09-27T23:40:39+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
-      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
-      "summary": "29 points · 7 comments",
-      "published": "2026-09-27T20:13:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "summary": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
-      "published": "2026-09-27T16:02:37+00:00"
+      "title": "Digital Audio on the ZX Spectrum's 1-Bit Beeper",
+      "url": "https://bumbershootsoft.wordpress.com/2026/09/26/digital-audio-on-the-zx-spectrums-1-bit-beeper/",
+      "summary": "25 points · 6 comments",
+      "published": "2026-09-27T18:30:29+00:00"
     },
     {
       "source": "REDDIT",
@@ -552,20 +494,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wrn0sn/im_a_ciso_whos_built_many_security_teams_i_want/",
       "summary": "The editors at CISO Series present this AMA. This has been a long-term partnership between r/cybersecurity and the CISO Series. This month, CISO Series has assembled a panel of accomplished security leaders who have built and led many security teams over their careers. They are here to help you level up your own career and to answer your questions about growing in your current role, moving into leadership, hiring and managing teams, and everything in between. This week's participants are: Mathew",
       "published": "2026-09-27T15:26:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Software occlusion culling in Block Game",
-      "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
-      "summary": "5 points · 0 comments",
-      "published": "2026-09-27T14:07:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "summary": "130 points · 30 comments",
-      "published": "2026-09-26T10:16:26+00:00"
     },
     {
       "source": "OSINT",
@@ -580,6 +508,55 @@
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
       "published": "2026-09-16T18:14:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
+      "published": "2026-09-08T21:44:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
+      "published": "2026-09-01T22:40:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
+      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
+      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
+      "published": "2026-08-27T11:04:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
+      "published": "2026-08-14T11:24:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
+      "published": "2026-08-11T21:28:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
+      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
+      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
+      "published": "2026-08-06T17:00:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "2026-07-30T16:49:00+00:00"
     }
   ]
 }
