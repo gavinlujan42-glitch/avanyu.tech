@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-29T02:13:22.097222+00:00",
-  "item_count": 76,
+  "updated": "2026-09-29T08:57:02.932904+00:00",
+  "item_count": 88,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -18,20 +18,120 @@
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
-    },
-    {
-      "source": "REDDIT",
-      "url": "https://www.reddit.com/r/technology/.rss",
-      "error": "HTTPError"
     }
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Harnessing Multi-Agent Problem",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wt501d/harnessing_multiagent_problem/",
+      "summary": "Everyone is rushing to build AI agent swarms right now. LangGraph, CrewAI, AutoGen—developers are spinning up autonomous LLM teams that write code, query databases, and talk to each other asynchronously. It feels like magic. It is also a massive security catastrophe waiting to happen.We are deploying multi-agent systems into production without realizing a terrifying truth: The glue holding these swarms together the multi-agent harnessis fundamentally broken. If you thought a standard prompt inje",
+      "published": "2026-09-29T08:54:42+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-      "url": "https://lolchat.rip/",
-      "summary": "19 points · 12 comments",
-      "published": "2026-09-29T00:06:48+00:00"
+      "title": "Using any C++ library in Godot",
+      "url": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+      "summary": "10 points · 1 comments",
+      "published": "2026-09-29T08:40:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+      "url": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+      "summary": "19 points · 3 comments",
+      "published": "2026-09-29T08:26:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+      "summary": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+      "published": "2026-09-29T07:33:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microbes Could Survive On Saturn's Moon Enceladus",
+      "url": "https://science.slashdot.org/story/26/09/28/2140251/microbes-could-survive-on-saturns-moon-enceladus?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "New research suggests Enceladus may be an especially promising place to search for extraterrestrial life: microbes similar to those found near Earth's hydrothermal vents survived in lab conditions designed to mimic the Saturnian moon's subsurface ocean. A separate study also found that material blasted from Enceladus' plumes may naturally separate and concentrate salts, organics and potential biosignatures into individual ice grains, potentially making them easier for future spacecraft to detect",
+      "published": "2026-09-29T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Uncensored and Offensive Security AI Models Benchmark",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "summary": "11 points · 0 comments",
+      "published": "2026-09-29T06:16:04+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
+      "published": "2026-09-29T06:08:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
+      "published": "2026-09-29T05:12:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
+      "published": "2026-09-29T04:45:20+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
+      "url": "https://science.slashdot.org/story/26/09/28/210256/bananas-that-dont-go-brown-to-hit-supermarkets-thanks-to-dna-editing?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The Guardian: It is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled color now one step closer to reaching British shoppers. According to Tropic, the Norwich-based agricultural-biotechnology company that developed the fruit, the bananas have the same taste and texture but stay \"fresh, yellow and appetizing l",
+      "published": "2026-09-29T03:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Best Job Board for Cyber Security?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsz093/best_job_board_for_cyber_security/",
+      "summary": "So recently I got let go from my job as a SOC Manager due to downsizing. I'm on Linkedin and Dice, but so far it's like I am spitting in the wind for all I can tell if anyone is even looking at my applications. What are some other job boards that people have had success with? submitted by /u/FakeRedditName2 [link] [comments]",
+      "published": "2026-09-29T03:06:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Invictus or Blu Raven",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsyyoi/invictus_or_blu_raven/",
+      "summary": "I’m looking for anyone who’s ethier taken the courses from ethier of these companies specifically around Microsoft cloud and I wanna know your thoughts and where they worth it for the price? submitted by /u/Frequent_Classroom88 [link] [comments]",
+      "published": "2026-09-29T03:04:05+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "U.S President cuts fuel economy standards back to 2014 levels | In 2020, U.S President cut CAFE to 40 mpg. Now he’s cut it again to just 35 mpg.",
+      "url": "https://www.reddit.com/r/technology/comments/1wsxr5u/us_president_cuts_fuel_economy_standards_back_to/",
+      "summary": "submitted by /u/ControlCAD [link] [comments]",
+      "published": "2026-09-29T02:06:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tank Body Problem",
+      "url": "http://www.jimsitu.com",
+      "summary": "101 points · 22 comments",
+      "published": "2026-09-29T00:41:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "'Gaming pays me double what I earned as a teacher'",
+      "url": "https://www.reddit.com/r/technology/comments/1wsuwhj/gaming_pays_me_double_what_i_earned_as_a_teacher/",
+      "summary": "submitted by /u/SnoozeDoggyDog [link] [comments]",
+      "published": "2026-09-28T23:53:07+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Kalshi loses again as judges rule prediction markets must obey gambling laws",
+      "url": "https://www.reddit.com/r/technology/comments/1wsu3uu/kalshi_loses_again_as_judges_rule_prediction/",
+      "summary": "submitted by /u/spherocytes [link] [comments]",
+      "published": "2026-09-28T23:17:27+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -39,6 +139,20 @@
       "url": "https://slashdot.org/story/26/09/28/2052208/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Longtime Slashdot reader schwit1 shares a report from Business Standard: China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent the outflow of critical know-how and information to the US. Government agencies have recently begun to share the wider restrictions with affected people, which include prominent startup founders as well as the heads of strategically important comp",
       "published": "2026-09-28T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "summary": "52 points · 37 comments",
+      "published": "2026-09-28T22:43:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "A YouTuber says Meta's Muse gave his address to a Facebook Marketplace buyer: 'A guy just showed up at my door'",
+      "url": "https://www.reddit.com/r/technology/comments/1wst3gu/a_youtuber_says_metas_muse_gave_his_address_to_a/",
+      "summary": "submitted by /u/thejoshwhite [link] [comments]",
+      "published": "2026-09-28T22:33:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -58,8 +172,22 @@
       "source": "HACKER NEWS",
       "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
       "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
-      "summary": "30 points · 2 comments",
+      "summary": "95 points · 18 comments",
       "published": "2026-09-28T21:26:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "America's Clean Car Retreat Is Complete. The World Will Move On Without Us",
+      "url": "https://www.reddit.com/r/technology/comments/1wsrgl3/americas_clean_car_retreat_is_complete_the_world/",
+      "summary": "submitted by /u/TripleShotPls [link] [comments]",
+      "published": "2026-09-28T21:26:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Walmart promises to never use AI to secretly charge shoppers higher prices",
+      "url": "https://www.reddit.com/r/technology/comments/1wsr3py/walmart_promises_to_never_use_ai_to_secretly/",
+      "summary": "submitted by /u/tylerthe-theatre [link] [comments]",
+      "published": "2026-09-28T21:12:35+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -86,7 +214,7 @@
       "source": "HACKER NEWS",
       "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
       "url": "https://github.com/firelex/jeff",
-      "summary": "287 points · 117 comments",
+      "summary": "491 points · 184 comments",
       "published": "2026-09-28T20:23:36+00:00"
     },
     {
@@ -98,23 +226,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "World Labs Is Joining AMD",
-      "url": "https://www.worldlabs.ai/blog/amd-announcement",
-      "summary": "191 points · 75 comments",
-      "published": "2026-09-28T20:18:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "California farmers are struggling to sell grapes as demand for wine drops",
       "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-      "summary": "55 points · 132 comments",
+      "summary": "204 points · 450 comments",
       "published": "2026-09-28T20:00:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Scientists solve 1840s space weather mystery",
       "url": "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
-      "summary": "62 points · 37 comments",
+      "summary": "106 points · 46 comments",
       "published": "2026-09-28T20:00:03+00:00"
     },
     {
@@ -123,13 +244,6 @@
       "url": "https://news.slashdot.org/story/26/09/28/180249/data-center-developer-offers-10000-checks-to-nearby-households?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Tom's Hardware: NorthPoint Development wants to build a data center on 1,300 acres in the Pocono foothills, near Hazle Township, Pennsylvania. As well as seeking to charm the local government with various funding packages, it has proposed paying checks of $10,000 per household. Despite the Pennsylvania town's median income of $60,000, the offer isn't being warmly welcomed by locals, reports the Wall Street Journal. Those interviewed were widely against th",
       "published": "2026-09-28T20:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "summary": "306 points · 109 comments",
-      "published": "2026-09-28T19:53:35+00:00"
     },
     {
       "source": "OSINT",
@@ -153,6 +267,13 @@
       "published": "2026-09-28T19:12:01+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "A developer offered every household in a Pennsylvania town $10,000 for a data center, and many still said no",
+      "url": "https://www.reddit.com/r/technology/comments/1wsnhkg/a_developer_offered_every_household_in_a/",
+      "summary": "submitted by /u/AdSpecialist6598 [link] [comments]",
+      "published": "2026-09-28T19:00:21+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Meta Taps MongoDB CEO Desai to Drive Enterprise AI Push",
       "url": "https://developers.slashdot.org/story/26/09/28/1743253/meta-taps-mongodb-ceo-desai-to-drive-enterprise-ai-push?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -163,7 +284,7 @@
       "source": "HACKER NEWS",
       "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
       "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "summary": "134 points · 64 comments",
+      "summary": "233 points · 82 comments",
       "published": "2026-09-28T18:58:53+00:00"
     },
     {
@@ -172,13 +293,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
       "summary": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]",
       "published": "2026-09-28T18:50:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "BTL1 vs CCDL1 for an entry level SOC/Blue Team career?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsmtmj/btl1_vs_ccdl1_for_an_entry_level_socblue_team/",
-      "summary": "Hey everyone, I'm currently a student studying IT/Cybersecurity and recently completed CompTIA Network+ and Security+. I'm deciding between BTL1 and CCDL1 as my next certification, and I also plan to pair whichever one I choose with CySA+ before/afterward. For anyone who has taken either certification, I'd appreciate some insight on: Course & labs: How does the actual course content, hands on labs, and exam experience compare between BTL1 and CCDL1? Recognition & hiring: How does the employer re",
-      "published": "2026-09-28T18:36:00+00:00"
     },
     {
       "source": "OSINT",
@@ -212,7 +326,7 @@
       "source": "HACKER NEWS",
       "title": "Sonnet 5.5",
       "url": "https://www.anthropic.com/claude-sonnet-5-5",
-      "summary": "591 points · 409 comments",
+      "summary": "772 points · 516 comments",
       "published": "2026-09-28T17:58:11+00:00"
     },
     {
@@ -238,10 +352,17 @@
     },
     {
       "source": "REDDIT",
-      "title": "Sender spoofing in Proton Mail via display-name homograph",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsiyd8/sender_spoofing_in_proton_mail_via_displayname/",
-      "summary": "Proton Mail confirmed and paid for an email-spoofing bug, then left it unfixed for 16 months: https://alonsovidales.github.io/protonmail-sender-spoofing/ submitted by /u/__ThePasanger__ [link] [comments]",
-      "published": "2026-09-28T16:14:39+00:00"
+      "title": "Mark Zuckerberg Loses Another $11 Billion Monday as Meta Shares Slide",
+      "url": "https://www.reddit.com/r/technology/comments/1wsjsx0/mark_zuckerberg_loses_another_11_billion_monday/",
+      "summary": "submitted by /u/MarvelsGrantMan136 [link] [comments]",
+      "published": "2026-09-28T16:45:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "summary": "134 points · 14 comments",
+      "published": "2026-09-28T16:18:57+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -254,7 +375,7 @@
       "source": "HACKER NEWS",
       "title": "Pirating the Pirates",
       "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-      "summary": "418 points · 224 comments",
+      "summary": "568 points · 276 comments",
       "published": "2026-09-28T15:54:15+00:00"
     },
     {
@@ -275,22 +396,8 @@
       "source": "HACKER NEWS",
       "title": "Hijacking the PS5's RTMP stream",
       "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-      "summary": "197 points · 66 comments",
+      "summary": "253 points · 80 comments",
       "published": "2026-09-28T15:35:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-      "url": "https://www.thisamericanlife.org/897/transcript",
-      "summary": "293 points · 181 comments",
-      "published": "2026-09-28T15:35:09+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cloud, AI or App Sec?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wsht31/cloud_ai_or_app_sec/",
-      "summary": "Looking for advice on what to focus on next for my career. I have worked as a SOC analyst for 1 year, I have schooling in Cybersecurity as well as the SC-900, Security+, SecAI+, and am wondering what career path is best in 2026? AI Sec, App Sec or Cloud? Thanks submitted by /u/insilus [link] [comments]",
-      "published": "2026-09-28T15:33:03+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -298,6 +405,13 @@
       "url": "https://science.slashdot.org/story/26/09/28/1513251/spacex-launches-starship-into-orbit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "SpaceX's Starship reached orbit for the first time, successfully deploying 26 operational Starlink V3 satellites after overcoming an early Raptor 3 engine shutdown during ascent. \"SpaceX plans to eventually deploy 100,000 upgraded Starlink V3s to expand the company's wireless satellite internet services,\" notes Space.com. Here's the latest update from the report: SpaceX has decided to return Starship from orbit earlier than expected. After valuating the upper stage Ship's status during its first",
       "published": "2026-09-28T15:20:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Discord’s Second Attempt To Roll Out Age Verification Is Going Badly",
+      "url": "https://www.reddit.com/r/technology/comments/1wsh7h0/discords_second_attempt_to_roll_out_age/",
+      "summary": "submitted by /u/Turbostrider27 [link] [comments]",
+      "published": "2026-09-28T15:10:18+00:00"
     },
     {
       "source": "OSINT",
@@ -335,11 +449,18 @@
       "published": "2026-09-28T14:00:10+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Does Reddit have an astroturfing problem? What the data suggests",
-      "url": "https://www.petervijeh.com/projects/reddit-astroturf",
-      "summary": "120 points · 143 comments",
-      "published": "2026-09-28T13:30:54+00:00"
+      "source": "REDDIT",
+      "title": "The Internet Marked Flock Safety CEO’s Home As A Public Toilet Online",
+      "url": "https://www.reddit.com/r/technology/comments/1wscs15/the_internet_marked_flock_safety_ceos_home_as_a/",
+      "summary": "submitted by /u/Miserable_Phase_2519 [link] [comments]",
+      "published": "2026-09-28T12:05:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Data center developer offers $10,000 checks to 4,500 households if the 1,300-acre facility is approved - locals push back over noise and 'bribe' concerns",
+      "url": "https://www.reddit.com/r/technology/comments/1wscnqy/data_center_developer_offers_10000_checks_to_4500/",
+      "summary": "submitted by /u/ArgentineBeauty [link] [comments]",
+      "published": "2026-09-28T12:00:35+00:00"
     },
     {
       "source": "OSINT",
@@ -364,10 +485,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "url": "https://git.mills.io/prologic/parley",
-      "summary": "304 points · 168 comments",
-      "published": "2026-09-28T10:30:54+00:00"
+      "title": "The systems that no one will test",
+      "url": "https://blog.christianperone.com/2026/09/the-systems-that-no-one-will-test/",
+      "summary": "43 points · 16 comments",
+      "published": "2026-09-28T10:51:46+00:00"
     },
     {
       "source": "OSINT",
@@ -384,13 +505,6 @@
       "published": "2026-09-28T09:08:21+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Are AI Chatbots Spreading Misinformation to US Voters?",
-      "url": "https://politics.slashdot.org/story/26/09/26/2358224/are-ai-chatbots-spreading-misinformation-to-us-voters?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Are AI chatbots quietly shaping the perceptions of U.S. voters? Voters trying to educate themselves about candidates \"are unknowingly being served partisan talking points in the guise of neutral news summaries,\" write two news researchers in Politico magazine: Leading AI chatbots cite partisan websites masquerading as independent local news outlets nearly half of the time when people ask about candidates and issues that the partisan sites have covered in the midterm campaign, according to a new ",
-      "published": "2026-09-28T08:34:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
       "url": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
@@ -399,24 +513,10 @@
     },
     {
       "source": "OSINT",
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "url": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are listed below - CVE-2026-88771 (CVSS score: 9.5) - An improper input validation vulnerability that could allow an unauthenticated attacker to",
-      "published": "2026-09-28T07:21:49+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
       "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
       "published": "2026-09-28T06:24:19+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Apple Faces $5.7 Billion Patent Infringement Verdict Over iPhone And Apple Watch Haptics",
-      "url": "https://apple.slashdot.org/story/26/09/27/0751219/apple-faces-57-billion-patent-infringement-verdict-over-iphone-and-apple-watch-haptics?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"A federal jury in San Diego awarded Taction Technology more than $5.7 billion in damages Friday after finding that Apple infringed claims from two haptics patents,\" reports CNBC: Taction sued Apple in 2021 in the U.S. District Court for the Southern District of California. The company alleged that Apple was improperly \"capitalizing on Taction's innovation and success\" by selling devices that infringed on its vibration technology, according to the complaint. Apple initially won dismissal in 2023",
-      "published": "2026-09-28T04:04:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -433,6 +533,13 @@
       "published": "2026-09-27T23:40:39+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Booted up in 1993, this server still runs – but not for much longer (2017)",
+      "url": "https://www.computerworld.com/article/1673071/booted-up-in-1993-this-server-still-runs-but-not-for-much-longer-2.html",
+      "summary": "29 points · 7 comments",
+      "published": "2026-09-27T20:13:22+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
@@ -447,52 +554,17 @@
       "published": "2026-09-27T15:26:16+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "url": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "summary": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-      "published": "2026-09-27T14:13:31+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "url": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "summary": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration. The bulletin came a day after security firm watchTowr",
-      "published": "2026-09-27T07:47:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-      "url": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "summary": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a four-stage attack chain aimed at targeting Ukrainian-speaking users. \"The attack chain begins with a fake CAPTCHA page and",
-      "published": "2026-09-26T18:22:52+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "What is the best shape of a city? Modelling effect of urban form on distance",
-      "url": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
-      "summary": "15 points · 7 comments",
-      "published": "2026-09-26T17:23:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How to win a beer with high-dimensional statistics",
-      "url": "https://jamiesimon.io/blog/how-to-win-a-beer-with-high-dimensional-statistics/",
-      "summary": "15 points · 2 comments",
-      "published": "2026-09-26T16:40:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Art Forger Who Became a National Hero",
-      "url": "https://priceonomics.com/the-art-forger-who-became-a-national-hero/",
-      "summary": "7 points · 0 comments",
-      "published": "2026-09-26T15:00:27+00:00"
+      "title": "Software occlusion culling in Block Game",
+      "url": "https://enikofox.com/posts/software-rendered-occlusion-culling-in-block-game/",
+      "summary": "5 points · 0 comments",
+      "published": "2026-09-27T14:07:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
       "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "summary": "82 points · 22 comments",
+      "summary": "130 points · 30 comments",
       "published": "2026-09-26T10:16:26+00:00"
     },
     {
@@ -508,55 +580,6 @@
       "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
       "published": "2026-09-16T18:14:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
-      "published": "2026-09-08T21:44:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
-      "published": "2026-09-01T22:40:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
-      "published": "2026-08-27T11:04:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
-      "published": "2026-08-14T11:24:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
-      "published": "2026-08-11T21:28:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
-      "published": "2026-08-06T17:00:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "published": "2026-07-30T16:49:00+00:00"
     }
   ]
 }
