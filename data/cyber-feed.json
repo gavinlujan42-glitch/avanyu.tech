@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T05:52:08.996410+00:00",
+  "updated": "2026-09-30T12:20:52.071824+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,31 +28,129 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "How long between something happening and you having the log line in front of you?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wu351d/how_long_between_something_happening_and_you/",
+      "summary": "Not detection time, retrieval time. The alert fires or someone reports something and then how long until you're looking at the relevant lines? Ours is somewhere between twenty minutes and never, depending on which system and whether the person who knows where it lives is awake. Interested in what good looks like here, and whether anyone measures it deliberately rather than just knowing it's bad. submitted by /u/Critical_Purple_1988 [link] [comments]",
+      "published": "2026-09-30T12:05:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Current situation with capture the flag events",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wu2oto/current_situation_with_capture_the_flag_events/",
+      "summary": "Hello all, With the current status of AI models and agentic workflows im really curious how the current capture the flag events scene is. Last time I visited such an event was way before AI was commercialized. Out of curiosity I did a test which worked well, I saw if I can solve ctf challenges only using AI, and it worked. So my question is, is this allowed on such events? Are there specific guardrails? Do you still join teams and get to know new people? Is this a \"pay to win\" now for people wit",
+      "published": "2026-09-30T11:42:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+      "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+      "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released. In most cases, they sat under developers' personal accounts",
+      "published": "2026-09-30T11:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Russian APT Star Blizzard Uses 'RedFlick' Infection Chain in Recent Attacks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wu2cb9/russian_apt_star_blizzard_uses_redflick_infection/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-09-30T11:23:32+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What’s one cybersecurity lesson you learned the hard way?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wu273e/whats_one_cybersecurity_lesson_you_learned_the/",
+      "summary": "After years of working in cybersecurity, I’ve found that some of the most valuable lessons come from real-world incidents, not certifications or textbooks. What’s one cybersecurity lesson you learned through experience that you wish you had known earlier? submitted by /u/Hopeful-Rule-5977 [link] [comments]",
+      "published": "2026-09-30T11:15:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Bitget hacked via zero-day in third-party security products",
+      "url": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+      "summary": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+      "published": "2026-09-30T11:11:46+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Wearable Nanotech Could Combat Nerve Agents",
+      "url": "https://science.slashdot.org/story/26/09/30/0457204/wearable-nanotech-could-combat-nerve-agents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "alternative_right shares a report from Phys.org: Nanoparticles could someday provide a new way to help soldiers fight back against deadly nerve agents on the front lines. In a new study, Northwestern University scientists developed a nanoparticle-based compound that, when mixed into clothing dyes, could limit the impact of chemicals commonly found in pesticides, insecticides and nerve agents. Manufacturers could potentially add the nanoparticles to clothing used by those most at risk, such as fa",
+      "published": "2026-09-30T11:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
+      "summary": "35 points · 6 comments",
+      "published": "2026-09-30T10:49:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+      "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+      "summary": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365 session theft with remote-access tool deployment, CSuite can turn a phishing incident into broader account compromise, fraud",
+      "published": "2026-09-30T10:45:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pi.dev: You Said No MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "summary": "167 points · 72 comments",
+      "published": "2026-09-30T09:55:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+      "summary": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group (GTIG) in September 2026, has targeted government, financial services, technology, education, and legal and professional",
+      "published": "2026-09-30T08:24:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way",
+      "published": "2026-09-30T08:09:28+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "eLearnSecurity certification are worth?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtyrkr/elearnsecurity_certification_are_worth/",
+      "summary": "Hi, I looket at some thread and I saw that there are some people that like certification like eCDFP or eCTHP (altough the eCDFP material is a little bit outdated, the course is good for the foundamentals). I was thinking to take both (I don't have budget to take SANS certification and course). What do you think? If taken while using other resources like HTB Sherlock labs alongside it, could that be a good way to break into the world of DFIR? Thanks. submitted by /u/Warm_Persimmon_7928 [link] [co",
+      "published": "2026-09-30T07:40:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "September 2026: The world today, as seen by one Polish guy",
+      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+      "summary": "329 points · 191 comments",
+      "published": "2026-09-30T07:12:31+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "The Night Sky Is Getting 10% Brighter Every Year",
+      "url": "https://science.slashdot.org/story/26/09/30/0452204/the-night-sky-is-getting-10-brighter-every-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "fjo3 quotes a report from The Guardian, written by Tove Danovich: Every year, the night sky is becoming 10% brighter. Eighty percent of people live under light-polluted skies. And while the UN declared a healthy environment -- clean air, clean water -- to be a human right, I believe we also all have a right to darkness as well. This doesn't mean turning off every streetlamp. But do we really need bright white floodlights at the front of every garage? Replacing lights with ones that are bright en",
+      "published": "2026-09-30T07:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CVE-2026-94545 (CVSS 9.5) affects Next.js apps using next/og on the Node.js runtime with sharp.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtxh6x/cve202694545_cvss_95_affects_nextjs_apps_using/",
+      "summary": "A vulnerable OG image endpoint could potentially allow an unauthenticated attacker to achieve remote code execution. Affected: Next.js 16.2.0–16.3.5 Fixed: Next.js 16.3.6 / Satori 0.33.5 Edge runtime or setups without sharp are reportedly not affected. If you’re running an affected version, update now. submitted by /u/thechougala [link] [comments]",
+      "published": "2026-09-30T06:18:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler",
+      "published": "2026-09-30T05:30:30+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "IAM importance in Security",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wtw0pd/iam_importance_in_security/",
       "summary": "I am an IAM professional with over 20 years in the domain. I am always curious on how much if importance CISO associates with IAM.program. We all keep on hearing that Identity is the new perimeter (since the start of the cloud era) however I have not seen CISOs or Security orgs giving deep focus on the IAM especially the IGA which helps govern the access and is the starting point of the overall least privilege implementation. Share your observations and experiences around how you'll have focused",
       "published": "2026-09-30T04:51:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tesla takes on $30B in credit as it approaches unprofitability",
-      "url": "https://electrek.co/2026/09/29/tesla-takes-on-30-billion-in-credit-as-it-approaches-unprofitability/",
-      "summary": "43 points · 18 comments",
-      "published": "2026-09-30T04:37:37+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Amazon Security engineer role prep",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtv9kl/amazon_security_engineer_role_prep/",
-      "summary": "Hey I have a technical phone screen coming up for a AWS security role (cloud security) and hopefully if that goes well then maybe interview loop. I have a 3 yoe but I am still wondering what to expect for the phone screen and then interviews. My understanding is for phone screen I should expect LP questions, secure code review, and security fundamentals which is what it says here Interview Prep Do you know good sources where I can prep these from? What to expect and anything I should keep in min",
-      "published": "2026-09-30T04:09:01+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "AI and the future",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtuucn/ai_and_the_future/",
-      "summary": "My son's been a penetration tester for about 6 years now, and I'm a little worried about him because of artificial intelligence. Most of you guys are in the same boat as my son. How do you guys feel about it? submitted by /u/Future_Mirror7046 [link] [comments]",
-      "published": "2026-09-30T03:46:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -63,24 +161,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
-      "summary": "47 points · 12 comments",
-      "published": "2026-09-30T03:19:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "RSS Feeds for Last.fm",
       "url": "https://lfm.xiffy.nl/",
-      "summary": "16 points · 4 comments",
+      "summary": "93 points · 26 comments",
       "published": "2026-09-30T03:00:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Responsible Release of AI-Generated Mathematics",
-      "url": "https://agmai.org/general-sep29/",
-      "summary": "22 points · 15 comments",
-      "published": "2026-09-30T02:36:12+00:00"
     },
     {
       "source": "OSINT",
@@ -88,13 +172,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
       "summary": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
       "published": "2026-09-30T00:40:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Branch Target Reuse: Practical Spectre-v2 Attacks in JIT Engines via Stale Branch Prediction Entries",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtqrmy/branch_target_reuse_practical_spectrev2_attacks/",
-      "summary": "submitted by /u/anh0516 [link] [comments]",
-      "published": "2026-09-30T00:25:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -107,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "url": "https://github.com/ninjahawk/livenerf",
-      "summary": "427 points · 178 comments",
+      "summary": "693 points · 270 comments",
       "published": "2026-09-29T22:36:14+00:00"
     },
     {
@@ -170,21 +247,14 @@
       "source": "HACKER NEWS",
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "summary": "201 points · 119 comments",
+      "summary": "242 points · 140 comments",
       "published": "2026-09-29T19:30:17+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "ShinyHunters hackers expanded attacks on Oracle's PeopleSoft, Google says",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtj5ap/shinyhunters_hackers_expanded_attacks_on_oracles/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-09-29T19:10:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
       "url": "https://space.bl2.net/",
-      "summary": "178 points · 40 comments",
+      "summary": "277 points · 70 comments",
       "published": "2026-09-29T19:08:01+00:00"
     },
     {
@@ -205,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Vermont replacing power plants with home batteries",
       "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "summary": "141 points · 114 comments",
+      "summary": "240 points · 187 comments",
       "published": "2026-09-29T18:19:02+00:00"
     },
     {
@@ -240,7 +310,7 @@
       "source": "OSINT",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre-v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
+      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
       "published": "2026-09-29T17:20:17+00:00"
     },
     {
@@ -261,15 +331,8 @@
       "source": "HACKER NEWS",
       "title": "Dots: Always-on agents",
       "url": "https://openai.com/index/introducing-dots/",
-      "summary": "528 points · 397 comments",
+      "summary": "653 points · 516 comments",
       "published": "2026-09-29T17:07:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "865 points · 784 comments",
-      "published": "2026-09-29T17:06:45+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -279,32 +342,11 @@
       "published": "2026-09-29T17:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Needed 1+1, built a functional programming language",
-      "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
-      "summary": "66 points · 16 comments",
-      "published": "2026-09-29T16:18:26+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "California Is Banning Public Officials From Making Memecoins",
       "url": "https://slashdot.org/story/26/09/29/0527255/california-is-banning-public-officials-from-making-memecoins?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "California Gov. Gavin Newsom has signed AB 2409, barring California public officials from issuing memecoins and prohibiting companies from listing memecoins that use a public official's image or likeness. Engadget reports: The governor's office pointed to reports that about a million investors lost an alleged $3.8 billion on their purchases of the memecoin released by President Donald Trump in 2025 as a the motivation behind the new rule. \"No official should profit off their office -- and we're ",
       "published": "2026-09-29T16:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Best Tools or Way to get experience in CyberSec Risk/ GRC",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtdwmw/best_tools_or_way_to_get_experience_in_cybersec/",
-      "summary": "Hi everyone, I recently just passed my Sec+ exam and have about 5 years of experience working as a Senior Help Desk Tech. I want to move into Risk/ GRC primarily, but I think understanding vulnerability scanning amongst other aspects is important to be well rounded. I've been trying to engage with the CyberSecurity department at my job, but they don't have much for me to do, despite my best efforts I can't seem to get included in daily calls, or view access to scanning tools. I've had a few conv",
-      "published": "2026-09-29T15:56:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "PS5 Relapse Exploit",
-      "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "summary": "267 points · 152 comments",
-      "published": "2026-09-29T15:44:41+00:00"
     },
     {
       "source": "OSINT",
@@ -331,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "America.gov",
       "url": "https://america.gov/",
-      "summary": "485 points · 393 comments",
+      "summary": "610 points · 510 comments",
       "published": "2026-09-29T14:04:57+00:00"
     },
     {
@@ -357,16 +399,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Backblaze drive stats for Q2 2026",
-      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-      "summary": "142 points · 34 comments",
-      "published": "2026-09-29T13:34:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "485 points · 275 comments",
+      "summary": "537 points · 298 comments",
       "published": "2026-09-29T12:43:29+00:00"
     },
     {
@@ -378,31 +413,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "summary": "69 points · 2 comments",
-      "published": "2026-09-29T11:06:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "El Nino Bursts Through Temperature Record Months Before Peak",
-      "url": "https://news.slashdot.org/story/26/09/29/054253/el-nino-bursts-through-temperature-record-months-before-peak?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The current El Nino has already surpassed the highest Pacific temperature anomaly recorded in the modern era, reaching 3.05C above the 1991-2020 average months before its expected peak. The commonly used ONI measure is also on the verge of breaking the 2015 record. Forecasts cited by The Guardian suggest the event could reach about 4.0C later this year. From the report: The latest data shows the temperature rise at the heart of El Nino in the Pacific Ocean has now reached 3.05C. That is higher t",
-      "published": "2026-09-29T11:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "NASA asked several former SR-71A staffers to help secret restart",
       "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "summary": "110 points · 99 comments",
+      "summary": "207 points · 194 comments",
       "published": "2026-09-29T10:10:20+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Kiteworks patches critical flaw, brings customer systems online",
-      "url": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-      "summary": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-      "published": "2026-09-29T09:04:06+00:00"
+      "source": "HACKER NEWS",
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "summary": "28 points · 7 comments",
+      "published": "2026-09-29T10:05:56+00:00"
     },
     {
       "source": "OSINT",
@@ -412,11 +433,11 @@
       "published": "2026-09-29T08:35:10+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Microbes Could Survive On Saturn's Moon Enceladus",
-      "url": "https://science.slashdot.org/story/26/09/28/2140251/microbes-could-survive-on-saturns-moon-enceladus?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "New research suggests Enceladus may be an especially promising place to search for extraterrestrial life: microbes similar to those found near Earth's hydrothermal vents survived in lab conditions designed to mimic the Saturnian moon's subsurface ocean. A separate study also found that material blasted from Enceladus' plumes may naturally separate and concentrate salts, organics and potential biosignatures into individual ice grains, potentially making them easier for future spacecraft to detect",
-      "published": "2026-09-29T07:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Mathematical Origami",
+      "url": "https://mathigon.org/origami",
+      "summary": "7 points · 0 comments",
+      "published": "2026-09-29T06:45:46+00:00"
     },
     {
       "source": "OSINT",
@@ -426,53 +447,32 @@
       "published": "2026-09-29T06:08:25+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "summary": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move \"marks a rare case of a major AI developer ditching a new release because of safety concerns,\" the news publication said.",
-      "published": "2026-09-29T05:12:32+00:00"
+      "source": "HACKER NEWS",
+      "title": "Solving Factorio Quality",
+      "url": "https://exyr.org/2026/solving-factorio-quality/",
+      "summary": "123 points · 36 comments",
+      "published": "2026-09-29T02:27:54+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-      "url": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-      "summary": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a search-based training task queried a public chatbot service through a gap in our internet-access restrictions:",
-      "published": "2026-09-29T04:45:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Convicted Hacker Umbreon Arrested on Suspicion of Aiding ShinyHunters as Group Claims FBI Hack",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wssppr/convicted_hacker_umbreon_arrested_on_suspicion_of/",
-      "summary": "submitted by /u/Mean-Industry7032 [link] [comments]",
-      "published": "2026-09-28T22:17:20+00:00"
+      "source": "HACKER NEWS",
+      "title": "Built Dental Scope",
+      "url": "https://dental-scope.com/",
+      "summary": "50 points · 10 comments",
+      "published": "2026-09-29T00:47:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Testing WebGPU data layouts with Facet",
       "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-      "summary": "6 points · 0 comments",
+      "summary": "52 points · 3 comments",
       "published": "2026-09-28T20:28:08+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-      "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
-      "summary": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics component that could lead to arbitrary code execution when processing a maliciously crafted file. The iPhone maker said the",
-      "published": "2026-09-28T19:18:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
-      "url": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
-      "summary": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities, medical nonprofits, intergovernmental organizations, and government contractors. Its use goes back to at least",
-      "published": "2026-09-28T18:35:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "url": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "summary": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the components that matter, how to evaluate framework choices, and what runtime evidence proves an agent behaved as intended.",
-      "published": "2026-09-28T18:20:38+00:00"
+      "source": "HACKER NEWS",
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "url": "https://jagi.studio/posts/phyllotaxis/",
+      "summary": "308 points · 48 comments",
+      "published": "2026-09-28T16:18:57+00:00"
     },
     {
       "source": "OSINT",
