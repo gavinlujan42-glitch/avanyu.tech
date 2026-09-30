@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T20:38:09.070639+00:00",
+  "updated": "2026-09-30T00:16:19.563567+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,10 +28,66 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "DNS poisoning detection for Windows`",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtkysr/dns_poisoning_detection_for_windows/",
-      "summary": "https://github.com/microlaser/dns_watchdog_windows2 Sure it is vibe coded, but it is free and open source and has no dependencies. I have a version that runs on MacOS and Linux too. Uses pcaps to detect DNS poisoning. Everything is native, no Wireshark/tcpdump needed. submitted by /u/micro1aser [link] [comments]",
-      "published": "2026-09-29T20:19:50+00:00"
+      "title": "Rate my roadmap into security engineering",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtpo3t/rate_my_roadmap_into_security_engineering/",
+      "summary": "My company has a roadmap for getting into security engineering, but honestly it’s pretty generic and doesn’t really lead to much actual engineering work, so I’ve made my own. I’ve just passed SC-200 and this is what I’m planning to do next, roughly in this order: - Terraform (Associate) - Python, mainly for security automation, Azure SDK + Splunk APIs - Splunk Admin (I already know SPL, so I’ll go through the Power User stuff but only sit the Admin exam) - SC-300 - SC-500 Not really looking for ",
+      "published": "2026-09-29T23:35:38+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Firefox Redesign Brings Round Tabs, New Themes, and Compact Mode",
+      "url": "https://mobile.slashdot.org/story/26/09/29/194251/firefox-redesign-brings-round-tabs-new-themes-and-compact-mode?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Firefox 157 is rolling out a major redesign across desktop and mobile, bringing rounded \"bubble\" tabs, a curved address bar, refreshed icons and colors, and a more consistent visual language across devices. Mozilla is also adding more themes and wallpapers while bringing back Compact Mode, which the company says \"reduces the size of your tabs and toolbar to give more of your screen to the web, with an auto-compact option for smaller screens.\" The Verge reports: According to Mozilla, the design c",
+      "published": "2026-09-29T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "summary": "117 points · 64 comments",
+      "published": "2026-09-29T22:36:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "UnoDOS",
+      "url": "https://github.com/hmofet/unodos",
+      "summary": "12 points · 7 comments",
+      "published": "2026-09-29T22:10:23+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Makes Linux Containers Native On Windows 11",
+      "url": "https://linux.slashdot.org/story/26/09/29/1858218/microsoft-makes-linux-containers-native-on-windows-11?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BrianFagioli shares a report from NERDS.xyz: Microsoft has made WSL Containers generally available, giving Windows 11 developers a built-in way to build, run, and deploy Linux containers through Windows Subsystem for Linux. The release includes wslc.exe for managing containers, GPU support, networking improvements, health checks, storage mounts, and integration with Microsoft Defender for Endpoint and Intune. Microsoft also claims up to twice the performance when Linux environments access files ",
+      "published": "2026-09-29T22:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtn28x/attackers_exploited_citrix_netscaler_zeroday_for/",
+      "summary": "submitted by /u/drewchainzz [link] [comments]",
+      "published": "2026-09-29T21:42:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Signal adds encypted local backup support to iOS, desktop apps",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+      "summary": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+      "published": "2026-09-29T21:30:08+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Mistral CEO Says US AI Safety Debate Masks Competitors' 'Negligence'",
+      "url": "https://slashdot.org/story/26/09/29/1855248/mistral-ceo-says-us-ai-safety-debate-masks-competitors-negligence?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from CNBC: Mistral Chief Executive Arthur Mensch has accused leading global artificial intelligence companies of using the debate over the safety of the technology as a cover-up for their \"negligence.\" \"The debate that we've seen in the U.S. has been a cover for the negligence of some of our competitors,\" Mensch told CNBC's Annette Weisbach, adding that it was necessary to make systems that can contain the AI agents. [...] \"When you give them a lot of tools, t",
+      "published": "2026-09-29T21:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
+      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
+      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
+      "published": "2026-09-29T20:59:39+00:00"
     },
     {
       "source": "OSINT",
@@ -58,22 +114,8 @@
       "source": "HACKER NEWS",
       "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
       "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "summary": "29 points · 19 comments",
+      "summary": "154 points · 84 comments",
       "published": "2026-09-29T19:30:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI needs $6T in annual revenue to justify data centre boom",
-      "url": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-      "summary": "112 points · 76 comments",
-      "published": "2026-09-29T19:21:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-      "summary": "75 points · 47 comments",
-      "published": "2026-09-29T19:15:58+00:00"
     },
     {
       "source": "REDDIT",
@@ -81,6 +123,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wtj5ap/shinyhunters_hackers_expanded_attacks_on_oracles/",
       "summary": "submitted by /u/NISMO1968 [link] [comments]",
       "published": "2026-09-29T19:10:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+      "url": "https://space.bl2.net/",
+      "summary": "87 points · 23 comments",
+      "published": "2026-09-29T19:08:01+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -97,11 +146,18 @@
       "published": "2026-09-29T18:37:12+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What happens after the agent is contained?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wthy3u/what_happens_after_the_agent_is_contained/",
-      "summary": "How are people verifying that it hasn’t modified credentials, configuration, memory or persistence mechanisms before restoring the environment? submitted by /u/Pleasant-Bank-6937 [link] [comments]",
-      "published": "2026-09-29T18:25:28+00:00"
+      "source": "HACKER NEWS",
+      "title": "We’re forgetting what darkness feels like",
+      "url": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
+      "summary": "25 points · 13 comments",
+      "published": "2026-09-29T18:22:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Vermont replacing power plants with home batteries",
+      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+      "summary": "41 points · 24 comments",
+      "published": "2026-09-29T18:19:02+00:00"
     },
     {
       "source": "OSINT",
@@ -132,13 +188,6 @@
       "published": "2026-09-29T17:37:40+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "GLM-5.3 and the spread of advanced cyber capabilities",
-      "url": "https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities",
-      "summary": "73 points · 50 comments",
-      "published": "2026-09-29T17:31:26+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
@@ -154,10 +203,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Tcl/Tk 9.1 Released",
-      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-      "summary": "161 points · 46 comments",
-      "published": "2026-09-29T17:13:38+00:00"
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "summary": "20 points · 1 comments",
+      "published": "2026-09-29T17:15:56+00:00"
     },
     {
       "source": "OSINT",
@@ -168,16 +217,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "summary": "366 points · 277 comments",
-      "published": "2026-09-29T17:07:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "summary": "602 points · 521 comments",
+      "summary": "750 points · 689 comments",
       "published": "2026-09-29T17:06:45+00:00"
     },
     {
@@ -189,10 +231,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
-      "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-      "summary": "424 points · 289 comments",
-      "published": "2026-09-29T16:30:48+00:00"
+      "title": "Needed 1+1, built a functional programming language",
+      "url": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
+      "summary": "13 points · 0 comments",
+      "published": "2026-09-29T16:18:26+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -212,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "PS5 Relapse Exploit",
       "url": "https://github.com/ntfargo/Relapse-Exploit",
-      "summary": "148 points · 75 comments",
+      "summary": "223 points · 122 comments",
       "published": "2026-09-29T15:44:41+00:00"
     },
     {
@@ -244,6 +286,13 @@
       "published": "2026-09-29T14:13:20+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "America.gov",
+      "url": "https://america.gov/",
+      "summary": "304 points · 244 comments",
+      "published": "2026-09-29T14:04:57+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Catch threats before they escalate with real-time Identity Telemetry",
       "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
@@ -266,24 +315,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ask HN: What are you reading?",
-      "url": "https://news.ycombinator.com/item?id=49893157",
-      "summary": "32 points · 87 comments",
-      "published": "2026-09-29T13:44:43+00:00"
+      "title": "Backblaze drive stats for Q2 2026",
+      "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
+      "summary": "52 points · 4 comments",
+      "published": "2026-09-29T13:34:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Delhi cut electricity loss from 50 to 5 percent",
       "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "378 points · 210 comments",
+      "summary": "422 points · 248 comments",
       "published": "2026-09-29T12:43:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Without the Hot Air",
-      "url": "https://www.withouthotair.com/",
-      "summary": "116 points · 61 comments",
-      "published": "2026-09-29T12:38:18+00:00"
     },
     {
       "source": "OSINT",
@@ -294,10 +336,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves",
-      "summary": "207 points · 85 comments",
-      "published": "2026-09-29T11:13:54+00:00"
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "summary": "15 points · 0 comments",
+      "published": "2026-09-29T11:06:25+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -305,6 +347,13 @@
       "url": "https://news.slashdot.org/story/26/09/29/054253/el-nino-bursts-through-temperature-record-months-before-peak?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The current El Nino has already surpassed the highest Pacific temperature anomaly recorded in the modern era, reaching 3.05C above the 1991-2020 average months before its expected peak. The commonly used ONI measure is also on the verge of breaking the 2015 record. Forecasts cited by The Guardian suggest the event could reach about 4.0C later this year. From the report: The latest data shows the temperature rise at the heart of El Nino in the Pacific Ocean has now reached 3.05C. That is higher t",
       "published": "2026-09-29T11:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NASA asked several former SR-71A staffers to help secret restart",
+      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
+      "summary": "23 points · 8 comments",
+      "published": "2026-09-29T10:10:20+00:00"
     },
     {
       "source": "REDDIT",
@@ -324,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
       "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "summary": "392 points · 125 comments",
+      "summary": "406 points · 128 comments",
       "published": "2026-09-29T09:03:41+00:00"
     },
     {
@@ -370,6 +419,13 @@
       "published": "2026-09-29T04:45:20+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "When oil prices spike, where does the money go?",
+      "url": "https://theconversation.com/when-oil-prices-spike-where-does-the-money-go-280763",
+      "summary": "14 points · 4 comments",
+      "published": "2026-09-29T04:14:11+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Bananas That Don't Go Brown To Hit Supermarkets Thanks to DNA Editing",
       "url": "https://science.slashdot.org/story/26/09/28/210256/bananas-that-dont-go-brown-to-hit-supermarkets-thanks-to-dna-editing?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -384,53 +440,11 @@
       "published": "2026-09-29T03:06:13+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "China Broadens Travel Curbs To Encompass Family of Top AI Talent",
-      "url": "https://slashdot.org/story/26/09/28/2052208/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader schwit1 shares a report from Business Standard: China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent the outflow of critical know-how and information to the US. Government agencies have recently begun to share the wider restrictions with affected people, which include prominent startup founders as well as the heads of strategically important comp",
-      "published": "2026-09-28T23:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Convicted Hacker Umbreon Arrested on Suspicion of Aiding ShinyHunters as Group Claims FBI Hack",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wssppr/convicted_hacker_umbreon_arrested_on_suspicion_of/",
       "summary": "submitted by /u/Mean-Industry7032 [link] [comments]",
       "published": "2026-09-28T22:17:20+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "AMD Acquires Fei-Fei Li's World Labs For $8.2 Billion",
-      "url": "https://slashdot.org/story/26/09/28/2042235/amd-acquires-fei-fei-lis-world-labs-for-82-billion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "AMD has agreed to acquire Fei-Fei Li's World Labs for about $8.2 billion in stock, making it the chipmaker's second-largest acquisition and giving it a major foothold in \"world models\" that simulate 3D environments for robotics and other physically grounded AI. CNBC reports: AI researchers expect world models will be able to help develop robots and other physically-grounded artificial intelligence applications. AMD plans to keep World Labs separate from its chipmaking business until the transact",
-      "published": "2026-09-28T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "TikTok to Pay Alabama $100 Million, Limit Teen Use In First State Settlement",
-      "url": "https://tech.slashdot.org/story/26/09/28/184256/tiktok-to-pay-alabama-100-million-limit-teen-use-in-first-state-settlement?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "TikTok has agreed to pay Alabama at least $100 million and adopt new restrictions for teenage users, including a two-hour daily limit, overnight access restrictions, stronger age verification, a ban on beauty filters, and an option for a non-personalized feed. The settlement could grow to as much as $300 million if enough other state attorneys general join similar agreements. The Guardian reports: A trial had been set to begin on Monday in the southern US state over claims by Alabama that TikTok",
-      "published": "2026-09-28T21:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-      "summary": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]",
-      "published": "2026-09-28T20:56:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
-      "summary": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]",
-      "published": "2026-09-28T20:31:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Virus Stole a Human Gene and Won't Let Go of It",
-      "url": "https://www.nytimes.com/2026/09/28/science/virus-molluscum-human-gene.html",
-      "summary": "54 points · 12 comments",
-      "published": "2026-09-28T20:07:14+00:00"
     },
     {
       "source": "OSINT",
@@ -454,13 +468,6 @@
       "published": "2026-09-28T18:20:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "summary": "239 points · 41 comments",
-      "published": "2026-09-28T16:18:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
       "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
@@ -478,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "NAND-16: a computer built from 277,248 NAND gates",
       "url": "https://somethingbig.ai/computer",
-      "summary": "50 points · 29 comments",
+      "summary": "105 points · 55 comments",
       "published": "2026-09-27T21:26:06+00:00"
     },
     {
@@ -487,13 +494,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wrn0sn/im_a_ciso_whos_built_many_security_teams_i_want/",
       "summary": "The editors at CISO Series present this AMA. This has been a long-term partnership between r/cybersecurity and the CISO Series. This month, CISO Series has assembled a panel of accomplished security leaders who have built and led many security teams over their careers. They are here to help you level up your own career and to answer your questions about growing in your current role, moving into leadership, hiring and managing teams, and everything in between. This week's participants are: Mathew",
       "published": "2026-09-27T15:26:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Stuck in the Suez Canal – the short version (2021)",
-      "url": "https://cathsenker.co.uk/stuck-in-the-suez-canal-the-short-version/",
-      "summary": "9 points · 1 comments",
-      "published": "2026-09-27T12:17:39+00:00"
     },
     {
       "source": "OSINT",
