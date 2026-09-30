@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-30T12:20:52.071824+00:00",
-  "item_count": 76,
+  "updated": "2026-09-30T18:05:33.868223+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,11 +27,186 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Singapore Pilots a Government-Built Dating Service",
+      "url": "https://yro.slashdot.org/story/26/09/30/1620208/singapore-pilots-a-government-built-dating-service?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader AmiMoJo shares a report from Mashable: Singapore's government is trying its hand at matchmaking again. The country's Government Technology Agency (GovTech) has launched FirstDate, a pilot dating service for singles aged 21 to 35. For now, it's open only to public officers, according to the service's website. Applications close Oct. 5. FirstDate is designed as an alternative to endless swiping. Instead of browsing a stream of profiles, users fill out a questionnaire about",
+      "published": "2026-09-30T18:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "High-Severity Vulnerabilities Patched in OpenSSL, WolfSSL",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wube6b/highseverity_vulnerabilities_patched_in_openssl/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-09-30T17:38:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "summary": "26 points · 6 comments",
+      "published": "2026-09-30T17:37:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Commit Description as a Thinking Tool",
+      "url": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+      "summary": "25 points · 2 comments",
+      "published": "2026-09-30T17:18:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+      "summary": "1 points · 0 comments",
+      "published": "2026-09-30T17:00:20+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Trump Administration Launches New AI-Powered 'America.gov' Website",
+      "url": "https://tech.slashdot.org/story/26/09/30/1612221/trump-administration-launches-new-ai-powered-americagov-website?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "fahrbot-bot shares a report from CNN: President Donald Trump on Tuesday unveiled America.gov, a government website meant to serve as a one-stop shop for people trying to accomplish basic tasks like renewing a passport, enrolling in Medicare or applying for disaster relief. The site, which launched with some basic functions ahead of a full rollout next year, is designed to serve as an AI-powered guide through the thicket of government agencies that Trump officials pledged would ultimately save pe",
+      "published": "2026-09-30T17:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
+      "published": "2026-09-30T16:46:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+      "summary": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering content. \"Once executed, the legitimate MSP360 installer, distributed under a deceptive file name established remote management access on affected",
+      "published": "2026-09-30T16:32:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Trump Hosts AI CEOs to Discuss Safety Standards, Rebrands AI as 'Super Intelligence'",
+      "url": "https://politics.slashdot.org/story/26/09/30/0523201/trump-hosts-ai-ceos-to-discuss-safety-standards-rebrands-ai-as-super-intelligence?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "hcs_$reboot writes: Trump hosted executives from OpenAI, Anthropic, Meta, Google, Nvidia, and other tech companies at the White House. They agreed to voluntary AI-safety standards, including independent audits and safeguards aimed at preventing AI systems from accessing or hacking technical systems in unintended ways. Trump also strongly backed the continued rapid expansion of AI data centers, despite concerns over their electricity demand, utility costs, and other impacts on local communities. ",
+      "published": "2026-09-30T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+      "summary": "28 points · 21 comments",
+      "published": "2026-09-30T15:54:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+      "published": "2026-09-30T15:49:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+      "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+      "summary": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30. The flaw, CVE-2026-76504, could allow a remote attacker with no login access to use the Manager's API as the admin user. Fixed releases are available, and there is no workaround. It carries a",
+      "published": "2026-09-30T15:24:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+      "url": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+      "summary": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware. Huntress, which observed the activity in late September 2026, said it marks the abuse of yet another feature in trusted artificial intelligence (AI) platforms. Prior campaigns have weaponized shared",
+      "published": "2026-09-30T15:00:15+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Dutch Police Arrest 'Reformed' Hacker In Shiny Hunters Investigation",
+      "url": "https://yro.slashdot.org/story/26/09/30/055208/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from KrebsOnSecurity: Authorities in the Netherlands have arrested a 24-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p. According to three sources familiar with the ",
+      "published": "2026-09-30T15:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+      "summary": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+      "published": "2026-09-30T14:46:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "SDF Public Access Unix System ... est. 1987",
+      "url": "https://sdf.org/",
+      "summary": "34 points · 3 comments",
+      "published": "2026-09-30T14:36:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A brief history of the Bloomberg terminal",
+      "url": "https://spectrum.ieee.org/bloomberg-terminal",
+      "summary": "101 points · 34 comments",
+      "published": "2026-09-30T14:34:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+      "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+      "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
+      "published": "2026-09-30T14:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "summary": "36 points · 5 comments",
+      "published": "2026-09-30T13:57:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "url": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
+      "summary": "81 points · 35 comments",
+      "published": "2026-09-30T13:50:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft to block Entra ID script injection attacks starting October",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+      "summary": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+      "published": "2026-09-30T13:37:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Security Update for Multiple Vulnerabilities in TeamViewer Clients and Related Services",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wu4smc/security_update_for_multiple_vulnerabilities_in/",
+      "summary": "https://www.teamviewer.com/en/resources/trust-center/security-bulletins/tv-2026-1010/ submitted by /u/ColourfulSyntax [link] [comments]",
+      "published": "2026-09-30T13:20:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "summary": "57 points · 128 comments",
+      "published": "2026-09-30T13:06:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+      "url": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+      "summary": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
+      "published": "2026-09-30T12:25:10+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "How long between something happening and you having the log line in front of you?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wu351d/how_long_between_something_happening_and_you/",
       "summary": "Not detection time, retrieval time. The alert fires or someone reports something and then how long until you're looking at the relevant lines? Ours is somewhere between twenty minutes and never, depending on which system and whether the person who knows where it lives is awake. Interested in what good looks like here, and whether anyone measures it deliberately rather than just knowing it's bad. submitted by /u/Critical_Purple_1988 [link] [comments]",
       "published": "2026-09-30T12:05:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+      "url": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+      "summary": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to exfiltration playing out in the browser. Here are the six most dangerous techniques that should be on every security team's radar in 2026. 1.",
+      "published": "2026-09-30T11:58:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -76,13 +251,6 @@
       "published": "2026-09-30T11:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Most data centers refusing to say how much water, electricity they use",
-      "url": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-      "summary": "35 points · 6 comments",
-      "published": "2026-09-30T10:49:32+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
       "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
@@ -91,9 +259,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Pi.dev: You Said No MCP",
+      "title": "You Said No MCP",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "summary": "167 points · 72 comments",
+      "summary": "481 points · 276 comments",
       "published": "2026-09-30T09:55:23+00:00"
     },
     {
@@ -109,20 +277,6 @@
       "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
       "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way",
       "published": "2026-09-30T08:09:28+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "eLearnSecurity certification are worth?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtyrkr/elearnsecurity_certification_are_worth/",
-      "summary": "Hi, I looket at some thread and I saw that there are some people that like certification like eCDFP or eCTHP (altough the eCDFP material is a little bit outdated, the course is good for the foundamentals). I was thinking to take both (I don't have budget to take SANS certification and course). What do you think? If taken while using other resources like HTB Sherlock labs alongside it, could that be a good way to break into the world of DFIR? Thanks. submitted by /u/Warm_Persimmon_7928 [link] [co",
-      "published": "2026-09-30T07:40:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "September 2026: The world today, as seen by one Polish guy",
-      "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-      "summary": "329 points · 191 comments",
-      "published": "2026-09-30T07:12:31+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -153,18 +307,18 @@
       "published": "2026-09-30T04:51:04+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "LinkedIn Larpmaxxing",
+      "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
+      "summary": "59 points · 52 comments",
+      "published": "2026-09-30T04:19:57+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Tech Workers Made ChatGPT Drive a Toyota Corolla",
       "url": "https://tech.slashdot.org/story/26/09/29/1921233/tech-workers-made-chatgpt-drive-a-toyota-corolla?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from 404 Media: Some tech workers in San Francisco hooked up ChatGPT to a Toyota Corolla and got it to drive around a parking lot. This may not sound impressive in the age of the self-driving car until you realize that the LLM driving the car was a general purpose chatbot running on a laptop and not the purpose-built driving system based on millions of hours of training data used by Waymo or Tesla. The people behind the stunt call themselves DrivingBench and t",
       "published": "2026-09-30T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "RSS Feeds for Last.fm",
-      "url": "https://lfm.xiffy.nl/",
-      "summary": "93 points · 26 comments",
-      "published": "2026-09-30T03:00:05+00:00"
     },
     {
       "source": "OSINT",
@@ -184,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
       "url": "https://github.com/ninjahawk/livenerf",
-      "summary": "693 points · 270 comments",
+      "summary": "829 points · 346 comments",
       "published": "2026-09-29T22:36:14+00:00"
     },
     {
@@ -244,20 +398,6 @@
       "published": "2026-09-29T19:57:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-      "summary": "242 points · 140 comments",
-      "published": "2026-09-29T19:30:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-      "url": "https://space.bl2.net/",
-      "summary": "277 points · 70 comments",
-      "published": "2026-09-29T19:08:01+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "500K Facial Recognition Scans at UK Stations Yield Zero Arrests, One False Positive",
       "url": "https://news.slashdot.org/story/26/09/29/1736207/500k-facial-recognition-scans-at-uk-stations-yield-zero-arrests-one-false-positive?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -272,25 +412,11 @@
       "published": "2026-09-29T18:37:12+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Vermont replacing power plants with home batteries",
-      "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-      "summary": "240 points · 187 comments",
-      "published": "2026-09-29T18:19:02+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Former US Air Force members sent to prison over BEC attacks",
       "url": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
       "summary": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
       "published": "2026-09-29T18:09:39+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenAI Unveils Always-On AI Agent 'Dots'",
-      "url": "https://slashdot.org/story/26/09/29/1723239/openai-unveils-always-on-ai-agent-dots?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "In addition to the company's GPT-6.1 Astra announcement, OpenAI announced always-on AI agents called \"Dots\" that can proactively use a computer and connected apps to research, draft documents, write software and handle other tasks on a user's behalf. \"OpenAI said it would roll out Dots to paid users starting Tuesday,\" reports Bloomberg. \"Initially, OpenAI said, each user will have access to a single 'dot' that can act as an assistant. Over time, the company expects users to manage a slew of them",
-      "published": "2026-09-29T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -301,185 +427,52 @@
     },
     {
       "source": "OSINT",
-      "title": "Windows 11 2026 Update released, here's everything you need to know",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-      "summary": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
-      "published": "2026-09-29T17:37:40+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
       "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
       "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
       "published": "2026-09-29T17:20:17+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-      "url": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-      "summary": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft. The campaigns, aimed at people and organizations tied to Ukraine, have affected more than 100 organizations since January, mostly in the U.S. and U.K. At least one computer was infected, but the number of breached",
-      "published": "2026-09-29T17:20:08+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-      "url": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-      "summary": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-      "published": "2026-09-29T17:10:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "summary": "653 points · 516 comments",
-      "published": "2026-09-29T17:07:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Says Chromebook Updates End In 2034, 'Many' Models Move to Googlebook OS",
-      "url": "https://tech.slashdot.org/story/26/09/29/0538225/google-says-chromebook-updates-end-in-2034-many-models-move-to-googlebook-os?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google says ChromeOS will keep receiving regular updates and security patches through mid-2034, after which qualifying newer Chromebooks will be able to migrate to the new Googlebook OS. 9to5Google reports: Starting with Chromebook updates, Google says that \"Chromebooks you have today will continue to receive updates through their supported lifetime,\" with all Enterprise and Education management capabilities remaining in place as well: \"We will maintain support for current Chromebook devices run",
-      "published": "2026-09-29T17:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "California Is Banning Public Officials From Making Memecoins",
-      "url": "https://slashdot.org/story/26/09/29/0527255/california-is-banning-public-officials-from-making-memecoins?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "California Gov. Gavin Newsom has signed AB 2409, barring California public officials from issuing memecoins and prohibiting companies from listing memecoins that use a public official's image or likeness. Engadget reports: The governor's office pointed to reports that about a million investors lost an alleged $3.8 billion on their purchases of the memecoin released by President Donald Trump in 2025 as a the motivation behind the new rule. \"No official should profit off their office -- and we're ",
-      "published": "2026-09-29T16:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "url": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-      "published": "2026-09-29T15:39:19+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Florida Invokes Extinction Fears In Legal Bid To Halt OpenAI Development",
-      "url": "https://yro.slashdot.org/story/26/09/29/0514206/florida-invokes-extinction-fears-in-legal-bid-to-halt-openai-development?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: The state of Florida is seeking a temporary injunction to stop OpenAI from continuing to develop what it calls a \"reckless, unacceptably risky product\" without the deployment of \"third-party approved safety guardrails.\" The new legal motion (PDF), filed Monday morning, is part of a civil lawsuit the state of Florida originally filed in June, arguing that ChatGPT represented \"a threat to the public safety of Floridians,\" specifically by preyi",
-      "published": "2026-09-29T15:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-      "url": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-      "summary": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led to the discovery of a previously unknown critical vulnerability confined to a capability that is enabled for less than 1% of the customer base,\" the company",
-      "published": "2026-09-29T14:13:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "America.gov",
-      "url": "https://america.gov/",
-      "summary": "610 points · 510 comments",
-      "published": "2026-09-29T14:04:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Catch threats before they escalate with real-time Identity Telemetry",
-      "url": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-      "summary": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]",
-      "published": "2026-09-29T14:01:11+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Here We Go Again (Citrix NetScaler DTLS Preauth Memory Overflow CVE-2026-88772) - watchTowr Labs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtau4b/here_we_go_again_citrix_netscaler_dtls_preauth/",
-      "summary": "submitted by /u/dx7r__ [link] [comments]",
-      "published": "2026-09-29T13:57:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-      "url": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-      "summary": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without their consent,\" OX Security researchers Nir Zadok, Moshe Siman Tov Bustan, and Vitalii Chepurko said in a technical",
-      "published": "2026-09-29T13:45:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How Delhi cut electricity loss from 50 to 5 percent",
-      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-      "summary": "537 points · 298 comments",
-      "published": "2026-09-29T12:43:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-      "url": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-      "summary": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
-      "published": "2026-09-29T11:41:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "NASA asked several former SR-71A staffers to help secret restart",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-      "summary": "207 points · 194 comments",
-      "published": "2026-09-29T10:10:20+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
       "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-      "summary": "28 points · 7 comments",
+      "summary": "105 points · 23 comments",
       "published": "2026-09-29T10:05:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-      "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-      "summary": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie Landelijke Opsporing en Interventies said in an X post Monday. Police said the individual is expected to appear before the",
-      "published": "2026-09-29T08:35:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mathematical Origami",
       "url": "https://mathigon.org/origami",
-      "summary": "7 points · 0 comments",
+      "summary": "89 points · 21 comments",
       "published": "2026-09-29T06:45:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-      "url": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-      "summary": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization code, and the PKCE proof key to a token endpoint the attacker controlled. The fix is in versions 1.30.0 and",
-      "published": "2026-09-29T06:08:25+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Solving Factorio Quality",
       "url": "https://exyr.org/2026/solving-factorio-quality/",
-      "summary": "123 points · 36 comments",
+      "summary": "222 points · 82 comments",
       "published": "2026-09-29T02:27:54+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Built Dental Scope",
-      "url": "https://dental-scope.com/",
-      "summary": "50 points · 10 comments",
-      "published": "2026-09-29T00:47:19+00:00"
+      "title": "Reverse-engineering a $35 backup camera display (AMT630A)",
+      "url": "https://github.com/mogrinz/AMT630A",
+      "summary": "36 points · 10 comments",
+      "published": "2026-09-28T21:06:30+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Testing WebGPU data layouts with Facet",
-      "url": "https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/",
-      "summary": "52 points · 3 comments",
-      "published": "2026-09-28T20:28:08+00:00"
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "url": "https://blog.faav.net/how-i-couldve-accessed-17-trillion-microsoft-records",
+      "summary": "139 points · 65 comments",
+      "published": "2026-09-28T20:32:46+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "url": "https://jagi.studio/posts/phyllotaxis/",
-      "summary": "308 points · 48 comments",
-      "published": "2026-09-28T16:18:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
-      "published": "2026-09-28T15:08:57+00:00"
+      "title": "Burning Man Death Rates – A Short Lesson in Statistics",
+      "url": "https://ihavenapkinthoughts.substack.com/p/burning-man-death-rates-a-short-lesson",
+      "summary": "32 points · 16 comments",
+      "published": "2026-09-28T18:57:16+00:00"
     },
     {
       "source": "REDDIT",
