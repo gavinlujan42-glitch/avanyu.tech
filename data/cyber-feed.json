@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T01:26:53.320920+00:00",
+  "updated": "2026-10-01T07:39:33.463001+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,46 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "Learning Binary Exploitation (PWN)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wukf73/learning_binary_exploitation_pwn/",
-      "summary": "Hi everyone, i'm a 2nd year student in cybersecurity field and i decided to actually start learning binary exploitation (PWN), mostly for being able to solve CTFs,i need an actual and tested roadmap for mastering this type of CTFs, i looked all across youtube and found playlists like liveOverview and pwn.college , but i just feel like their explanation needs more explanation since i have no idea how to deal with assembly, gdb, and registers. My question is : should i just stick with one of these",
-      "published": "2026-09-30T23:43:18+00:00"
+      "source": "OSINT",
+      "title": "Metamask discloses security incident affecting its infrastructure",
+      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
+      "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
+      "published": "2026-10-01T07:33:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+      "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+      "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. The code causes a crash, not an execution error. Turning the memory corruption into a working",
+      "published": "2026-10-01T05:54:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. \"Their investigation identified malicious activity involving third-party security products, including a zero-day vulnerability, and recovered a customized tool used by the attacker",
+      "published": "2026-10-01T05:21:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+      "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+      "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet maker said. \"At this time, we have identified no immediate threat to MetaMask wallets.\" MetaMask",
+      "published": "2026-10-01T05:10:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
+      "published": "2026-10-01T04:35:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Is sandboxing sufficient to contain rogue agents?",
+      "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+      "summary": "20 points · 26 comments",
+      "published": "2026-10-01T03:27:41+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -58,14 +93,14 @@
       "source": "HACKER NEWS",
       "title": "56k.rip – the 1996 dial-up internet experience",
       "url": "https://56k.rip/",
-      "summary": "45 points · 21 comments",
+      "summary": "153 points · 75 comments",
       "published": "2026-09-30T22:08:50+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
       "url": "https://www.thespacereview.com/article/4951/1",
-      "summary": "120 points · 38 comments",
+      "summary": "203 points · 91 comments",
       "published": "2026-09-30T22:03:04+00:00"
     },
     {
@@ -83,6 +118,13 @@
       "published": "2026-09-30T21:00:00+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "Cytactic CEO on a hospital ransomware case where staff couldn't trust patient records, and why most CISOs never rehearse their worst day [Podcast, 33 min]",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wug9o0/cytactic_ceo_on_a_hospital_ransomware_case_where/",
+      "summary": "Disclosure: my studio produced this episode of Responsible Disclosure, Zafran's podcast. Sharing it because a lot of it is about incident response in practice, and I've summarized it below so you can skip to what's relevant. Nimrod Kozlovski has spent about twenty years across cyber law, VC, and crisis management, including running incidents at Fortune 500 companies. A few parts I think this sub would care about: At 03:12 he walks through three incidents: stolen source code at a homeland securit",
+      "published": "2026-09-30T20:43:34+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
@@ -93,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Gemini 4 Argon",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "summary": "961 points · 655 comments",
+      "summary": "1301 points · 835 comments",
       "published": "2026-09-30T20:04:37+00:00"
     },
     {
@@ -114,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Halfspace experimental IDE for solid modeling with distance fields",
       "url": "https://www.mattkeeter.com/projects/halfspace/",
-      "summary": "69 points · 7 comments",
+      "summary": "118 points · 9 comments",
       "published": "2026-09-30T19:44:37+00:00"
     },
     {
@@ -128,14 +170,14 @@
       "source": "HACKER NEWS",
       "title": "EDG C++ front-end goes public",
       "url": "https://edgcpp.org/#transition",
-      "summary": "147 points · 73 comments",
+      "summary": "206 points · 90 comments",
       "published": "2026-09-30T19:26:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Surprisingly complex waves reveal the brain's inner workings",
       "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "summary": "117 points · 40 comments",
+      "summary": "172 points · 56 comments",
       "published": "2026-09-30T19:04:50+00:00"
     },
     {
@@ -149,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Before pixels: Modular industrial dashboards",
       "url": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-      "summary": "48 points · 9 comments",
+      "summary": "109 points · 20 comments",
       "published": "2026-09-30T18:49:06+00:00"
     },
     {
@@ -170,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
       "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "summary": "116 points · 44 comments",
+      "summary": "160 points · 61 comments",
       "published": "2026-09-30T18:17:45+00:00"
     },
     {
@@ -191,7 +233,7 @@
       "source": "HACKER NEWS",
       "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
       "url": "https://www.chompiclub.com/opensource",
-      "summary": "40 points · 9 comments",
+      "summary": "73 points · 14 comments",
       "published": "2026-09-30T17:42:13+00:00"
     },
     {
@@ -205,15 +247,8 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
       "url": "https://github.com/magnitudedev/magnitude",
-      "summary": "124 points · 56 comments",
+      "summary": "153 points · 77 comments",
       "published": "2026-09-30T17:37:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "url": "https://www.software3d.com/MillersMonster.php",
-      "summary": "37 points · 3 comments",
-      "published": "2026-09-30T17:00:44+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -280,16 +315,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
-      "url": "https://lathoa.ai/en",
-      "summary": "26 points · 10 comments",
-      "published": "2026-09-30T14:38:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "A brief history of the Bloomberg terminal",
       "url": "https://spectrum.ieee.org/bloomberg-terminal",
-      "summary": "224 points · 89 comments",
+      "summary": "270 points · 115 comments",
       "published": "2026-09-30T14:34:07+00:00"
     },
     {
@@ -298,6 +326,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
       "summary": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, and lifecycle controls. [...]",
       "published": "2026-09-30T14:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What TLA+ can and can't check",
+      "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
+      "summary": "179 points · 41 comments",
+      "published": "2026-09-30T13:57:06+00:00"
     },
     {
       "source": "OSINT",
@@ -312,6 +347,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wu4smc/security_update_for_multiple_vulnerabilities_in/",
       "summary": "https://www.teamviewer.com/en/resources/trust-center/security-bulletins/tv-2026-1010/ submitted by /u/ColourfulSyntax [link] [comments]",
       "published": "2026-09-30T13:20:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The last time my family was replaced by technology",
+      "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+      "summary": "226 points · 474 comments",
+      "published": "2026-09-30T13:06:11+00:00"
     },
     {
       "source": "OSINT",
@@ -333,13 +375,6 @@
       "url": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
       "summary": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer billing records and screens of features not yet released. In most cases, they sat under developers' personal accounts",
       "published": "2026-09-30T11:30:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What’s one cybersecurity lesson you learned the hard way?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wu273e/whats_one_cybersecurity_lesson_you_learned_the/",
-      "summary": "After years of working in cybersecurity, I’ve found that some of the most valuable lessons come from real-world incidents, not certifications or textbooks. What’s one cybersecurity lesson you learned through experience that you wish you had known earlier? submitted by /u/Hopeful-Rule-5977 [link] [comments]",
-      "published": "2026-09-30T11:15:26+00:00"
     },
     {
       "source": "OSINT",
@@ -364,16 +399,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "You said no MCP",
-      "url": "https://earendil.com/posts/you-said-no-mcp/",
-      "summary": "615 points · 341 comments",
-      "published": "2026-09-30T09:55:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
       "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
-      "summary": "202 points · 130 comments",
+      "summary": "343 points · 295 comments",
       "published": "2026-09-30T09:27:04+00:00"
     },
     {
@@ -384,17 +412,10 @@
       "published": "2026-09-30T08:24:35+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-      "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-      "summary": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes. DTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arrives before the timer expires. The leak or crash can happen when such a resend starts while a larger handshake message is stuck part-way",
-      "published": "2026-09-30T08:09:28+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Doing a Machine Learning PhD While Working in Japan",
       "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-      "summary": "46 points · 14 comments",
+      "summary": "86 points · 32 comments",
       "published": "2026-09-30T07:33:45+00:00"
     },
     {
@@ -405,11 +426,11 @@
       "published": "2026-09-30T07:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-      "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-      "summary": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as a memory overflow bug in the Datagram Transport Layer Security (DTLS) protocol handling that's rooted in the NetScaler",
-      "published": "2026-09-30T05:30:30+00:00"
+      "source": "REDDIT",
+      "title": "IAM importance in Security",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wtw0pd/iam_importance_in_security/",
+      "summary": "I am an IAM professional with over 20 years in the domain. I am always curious on how much if importance CISO associates with IAM.program. We all keep on hearing that Identity is the new perimeter (since the start of the cloud era) however I have not seen CISOs or Security orgs giving deep focus on the IAM especially the IGA which helps govern the access and is the starting point of the overall least privilege implementation. Share your observations and experiences around how you'll have focused",
+      "published": "2026-09-30T04:51:04+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -426,6 +447,13 @@
       "published": "2026-09-30T00:40:57+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+      "url": "https://ledge.sh",
+      "summary": "113 points · 49 comments",
+      "published": "2026-09-29T23:41:34+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wtn28x/attackers_exploited_citrix_netscaler_zeroday_for/",
@@ -440,38 +468,10 @@
       "published": "2026-09-29T21:30:08+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-      "url": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-      "summary": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
-      "published": "2026-09-29T20:59:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases",
-      "url": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
-      "summary": "7 points · 4 comments",
-      "published": "2026-09-29T17:58:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-      "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-      "summary": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July. Neither the tax administration nor France's national cybersecurity agency saw the data leave. The attack was not sophisticated, the agency, ANSSI, says in a report (in French) published on Tuesday: it worked because of weak",
-      "published": "2026-09-29T17:47:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-      "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-      "summary": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, across multiple CPU vendors. The new Spectre v2 variant has been codenamed Branch Target Reuse (BTR). \"The key insight is that, while modern CPUs",
-      "published": "2026-09-29T17:20:17+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Why the Bronze Age Collapsed",
       "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
-      "summary": "76 points · 48 comments",
+      "summary": "188 points · 98 comments",
       "published": "2026-09-29T10:10:18+00:00"
     },
     {
