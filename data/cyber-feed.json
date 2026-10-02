@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T05:24:44.870446+00:00",
-  "item_count": 64,
+  "updated": "2026-10-02T11:16:24.560286+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,46 +27,130 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "20% of Swiss Glaciers Lost In Five Years",
+      "url": "https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Swiss glaciers lost 5.5% of their ice volume in the first eight months of 2026, bringing total losses since 2021 to 19.4%. Researchers say some glaciers are now collapsing from within as meltwater carves out large cavities. The Guardian reports: Matthias Huss, a glaciologist at ETH Zurich and lead author of the report, said many people do not realize how fast glaciers are retreating, or that just one generation ago some now-barren sites used to sit beneath hundreds of meters of ice. The scientis",
+      "published": "2026-10-02T11:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Meta's Muse is fantastic for web scraping",
-      "url": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
-      "summary": "7 points · 0 comments",
-      "published": "2026-10-02T04:56:02+00:00"
+      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+      "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+      "summary": "12 points · 8 comments",
+      "published": "2026-10-02T10:50:08+00:00"
     },
     {
       "source": "REDDIT",
-      "title": "Interview prep",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvk50h/interview_prep/",
-      "summary": "How do you guys typically prepare for technical interviews? I always like doing a hands on lab but most of the interviews lately have been Q&A or scenario based. How do you best brush up on technical concepts in preparation for your interviews? submitted by /u/Klau-s [link] [comments]",
-      "published": "2026-10-02T04:05:25+00:00"
+      "title": "Does anyone actually log what tools their AI agents call?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvqa2j/does_anyone_actually_log_what_tools_their_ai/",
+      "summary": "Claude code or Gemini cli or whatever, how are you guys logging them usually. Any particular software u guys use? Which command , which argument are being called. What if those ai agents delete something very very dear to you IDK something around that lane. I was kind of thinking about a small tool that sits between the agent and its tools, logs every call, and flags the risky ones like shell commands maybe even holds on like commands that I can set and I will approve on? So my questions are: Do",
+      "published": "2026-10-02T10:27:02+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Static scan and pwn vulnerabilty detection",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvpqxu/static_scan_and_pwn_vulnerabilty_detection/",
+      "summary": "Hello everyone. At the moment I'm a tutor in a little CTF course, so I wanted to build scanner tools to help the exploitation and use the tool creation as an excuse to learn more. I'm a pwner (I know just pretty basic stuff like BOF and ROP). My question is: where can I find resources to understand and leanr tecnicque of static analysis? And if you want to share any trick useful to find vulnerabilty to improve my techniques and teach better. Thank you! submitted by /u/Skollwarynz [link] [comment",
+      "published": "2026-10-02T09:55:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft’s X account hacked in crypto pump-and-dump scheme",
+      "url": "https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/",
+      "summary": "On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]",
+      "published": "2026-10-02T09:29:56+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "DeepSeek Harness",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "summary": "23 points · 6 comments",
+      "published": "2026-10-02T08:05:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools",
+      "url": "https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html",
+      "summary": "Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android applications abusing the API serving as the main conduit for malware and financial fraud, the tech giant said the move would block a major attack pathway. Advanced Protection is a",
+      "published": "2026-10-02T08:01:30+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Post-Quantum Cryptography Resource Hub",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvncyq/postquantum_cryptography_resource_hub/",
+      "summary": "submitted by /u/donutloop [link] [comments]",
+      "published": "2026-10-02T07:17:46+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity",
+      "url": "https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Reuters: OpenAI has informed more than 100 organizations about incidents involving unauthorized activity tied to its AI agents, according to a blog post by the ChatGPT maker, as AI labs face mounting scrutiny over rogue AI agent activity. Here are some other details: - The Sam Altman-led company has been conducting a broad review of the activities of its AI models after the accidental hacking of Hugging Face. - OpenAI is searching through roughly 50 petab",
+      "published": "2026-10-02T07:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Research idea for someone who is doing research for the first time.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvm7iv/research_idea_for_someone_who_is_doing_research/",
+      "summary": "Hi everyone, I am a cybersecurity graduate exploring a research project on Wazuh's detection stability across versions. I came across the Winkler & Sharma (2025) paper in Computers & Security that evaluates Wazuh's detection coverage and false-positive rate using a MITRE ATT&CK-aligned framework. It is excellent work, but it evaluates a single version. I am considering a longitudinal extension: running a fixed Atomic Red Team suite against six Wazuh versions (4.7.0 to 4.14.0) and measuring: Whic",
+      "published": "2026-10-02T06:05:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+      "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system. \"An improper",
+      "published": "2026-10-02T05:49:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Shimano Bicycle Museum Review",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "summary": "132 points · 21 comments",
+      "published": "2026-10-02T05:12:58+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "California Rushes To Prepare For Massive 'Kelvin' Wave, Predicted Sea Level Rise",
+      "url": "https://news.slashdot.org/story/26/10/01/2159252/california-rushes-to-prepare-for-massive-kelvin-wave-predicted-sea-level-rise?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "fjo3 shares a report from The Guardian: Communities across California are rushing to prepare for the imminent arrival of the so-called \"Kelvin wave,\" a massive underwater band of warm water threatening to inundate swaths of the vast North American shoreline. The wave is nearing southern California and expected to reach the San Francisco Bay Area by early October, as it crawls toward Alaska. Waters could rise by a foot along the California coast, according to scientists, who have warned that this",
+      "published": "2026-10-02T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek Harness Desktop for macOS and Windows",
       "url": "https://www.deepseek.com/en/harness/",
-      "summary": "62 points · 24 comments",
+      "summary": "254 points · 122 comments",
       "published": "2026-10-02T03:11:20+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Singapore's government-run dating service works",
       "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "summary": "56 points · 23 comments",
+      "summary": "184 points · 158 comments",
       "published": "2026-10-02T01:56:52+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Es obligatorio pasar por Blue Team antes de entrar a Red Team / Pentesting?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvei5k/es_obligatorio_pasar_por_blue_team_antes_de/",
-      "summary": "Que tal buenas tardes a todos!! Llevo 6 meses en mi primer empleo en TI como Ingeniero en Sistemas en el ISSSTE de México (haciendo soporte técnico, configuración de switches, firewalls y VLANs). la verdad es que estoy muy contento por haber dado el primer paso, sabiendo que en la maypría de las ocasiones conseguir la primera oportunidad es lo más difícil, pero mi meta a largo plazo siempre ha sido dedicarme al pentesting y al hacking ético. He investigado bastante por mi cuenta, pero sigo con l",
-      "published": "2026-10-01T23:26:22+00:00"
+      "source": "SLASHDOT",
+      "title": "Amazon's New Kindle Accessories Bring Back Physical Controls",
+      "url": "https://news.slashdot.org/story/26/10/01/2149250/amazons-new-kindle-accessories-bring-back-physical-controls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Alongside a refreshed Kindle lineup, Amazon today introduced two accessories that bring physical buttons back to its touchscreen e-readers. The $34.99 Kindle Click is a Bluetooth remote that lets readers turn pages and adjust brightness without touching the device, while a new $79.99 magnetic cover is available for select Paperwhite and Colorsoft models. GeekWire reports: Amazon says [the Kindle Click is] meant for reading under the covers, on a treadmill, or on an airplane tray table. It's avai",
+      "published": "2026-10-02T01:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Several vulnerabilities have been discovered in the Linux kernel",
       "url": "https://lwn.net/Articles/1097401/",
-      "summary": "204 points · 134 comments",
+      "summary": "337 points · 244 comments",
       "published": "2026-10-01T23:10:44+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Russian-Owned Snooping Software Used By US Secret Service",
+      "url": "https://yro.slashdot.org/story/26/10/01/2124230/russian-owned-snooping-software-used-by-us-secret-service?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Bruce66423 shares a report from The Telegraph: British police forces, including specialist units within the Metropolitan Police, have used Oxygen Forensics software to break into the phones of suspects during live investigations, public documents show. The Virginia-based company behind the software has been accused in the US of having hidden its Russian ownership to avoid sanctions, before it was awarded government contracts. Its American chief executive and a Russian national were arrested last",
+      "published": "2026-10-01T23:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -84,15 +163,22 @@
       "source": "HACKER NEWS",
       "title": "Frog and Toad and the Increasingly Capable Machines",
       "url": "https://www.frogandtoad.ai/",
-      "summary": "99 points · 16 comments",
+      "summary": "193 points · 43 comments",
       "published": "2026-10-01T22:23:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-      "url": "https://www.cssbed.com",
-      "summary": "85 points · 21 comments",
-      "published": "2026-10-01T21:21:32+00:00"
+      "source": "SLASHDOT",
+      "title": "Cloudflare Tries to Outplay Jev With Open-Weight Clef Models",
+      "url": "https://tech.slashdot.org/story/26/10/01/2110250/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Cloudflare has launched two open-weight decision models, Clef and Clef-flash, designed for structured yes/no, multiple-choice, and ranking tasks while also supporting images, video, and up to a 64K context window. Cloudflare says its models outperform TypeSafe's Jev on several benchmarks and can run locally from Hugging Face. The Register reports: For starters, Clef has an LLM backbone. According to Cloudflare, Clef uses specially post-trained, frozen versions of Qwen3.8-27B and Qwen3.5-9B for C",
+      "published": "2026-10-01T22:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Ryan Roslansky Is Leaving After Nearly 18 Years At LinkedIn and Microsoft",
+      "url": "https://slashdot.org/story/26/10/01/1832232/ryan-roslansky-is-leaving-after-nearly-18-years-at-linkedin-and-microsoft?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Ryan Roslansky is leaving Microsoft and LinkedIn after nearly 18 years, triggering another leadership shuffle across Office and Teams. \"Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microsoft Teams earlier this year,\" notes The Verge. From the report: \"Ryan leaves the organization in a strong position,\" says Microsoft CEO Satya Nadella in an internal memo. \"Over the past year, Ryan's team has done critical work bringi",
+      "published": "2026-10-01T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -105,28 +191,35 @@
       "source": "HACKER NEWS",
       "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
       "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "summary": "107 points · 22 comments",
+      "summary": "158 points · 43 comments",
       "published": "2026-10-01T20:48:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Automatic Transmission – a data-privacy study of connected vehicles",
       "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "summary": "160 points · 152 comments",
+      "summary": "196 points · 169 comments",
       "published": "2026-10-01T20:23:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "SvelteKit 3",
       "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "summary": "185 points · 63 comments",
+      "summary": "289 points · 113 comments",
       "published": "2026-10-01T20:14:23+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Micron Projects Tightening RAM Shortages Through 2028 As It Generates Record Profit",
+      "url": "https://hardware.slashdot.org/story/26/10/01/1822222/micron-projects-tightening-ram-shortages-through-2028-as-it-generates-record-profit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Micron says the global RAM and storage shortage will tighten further through 2027 and 2028, with CEO Sanjay Mehrotra saying the company has already sold most of next year's capacity. \"In calendar 2027 as well as 2028, we see demand exceeding supply. In fact, we see greater tightness in the industry in 2027 and in 2028 versus 2026. Overall, supply-demand environment is only getting tighter,\" Mehrotra said. \"We do not have line of sight to when supply and demand will return to balance.\" As a resul",
+      "published": "2026-10-01T20:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
-      "summary": "977 points · 316 comments",
+      "summary": "1345 points · 426 comments",
       "published": "2026-10-01T19:33:05+00:00"
     },
     {
@@ -140,22 +233,15 @@
       "source": "HACKER NEWS",
       "title": "Pi Durable",
       "url": "https://earendil.com/posts/pi-durable/",
-      "summary": "295 points · 36 comments",
+      "summary": "398 points · 51 comments",
       "published": "2026-10-01T19:24:08+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Polish dental software vendor FELG reports patient data breach and ransom demand",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wv8ie2/polish_dental_software_vendor_felg_reports/",
-      "summary": "FELG Software sp. z o.o., the Polish maker of the FELG Dent application for dental practices, told customers on October 1, 2026, that it had been attacked. In a statement on the company's status page, CEO Grzegorz Stawarz said an attacker claiming to belong to the \"Fingerprint\" group may have accessed patient data that dental practices had entrusted to FELG for processing. The attacker says he holds about 10% of the database and wants a ransom to keep it unpublished. FELG has notified the prosec",
-      "published": "2026-10-01T19:16:21+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Microsoft catches hackers exploiting Zimbra bug before disclosure",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wv7nom/microsoft_catches_hackers_exploiting_zimbra_bug/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-01T18:44:41+00:00"
+      "source": "SLASHDOT",
+      "title": "Cops Can Bypass iPhone's Automatic Reboot To Get Into Locked Phones",
+      "url": "https://yro.slashdot.org/story/26/10/01/1813207/cops-can-bypass-iphones-automatic-reboot-to-get-into-locked-phones?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from 404 Media: A company that makes phone hacking devices claims to have developed a solution that freezes iPhones in a state that lets cops more easily access sensitive data inside them, according to a video obtained by 404 Media. [...] The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that allows them to unlock and access data stored in iPhones an",
+      "published": "2026-10-01T19:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -172,10 +258,24 @@
       "published": "2026-10-01T18:32:10+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities",
+      "url": "https://news.slashdot.org/story/26/10/01/1728203/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader ThurstonMoore shares a report from Reuters: U.S. Defense Secretary Pete Hegseth on Wednesday announced the creation of a new military command that would be dedicated to building and providing autonomous and robotic capabilities across the U.S. military. The command, which Hegseth said would be called \"Autonomous Warfare Command,\" highlights the rapidly changing nature of warfare and the need to make progress on systems like drones and the use of artificial intelligence. ",
+      "published": "2026-10-01T18:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks",
+      "url": "https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Federal Trade Commission has opened an investigation into OpenAI, Anthropic and other AI companies over potential consumer and safety risks posed by their products, with the agency reportedly preparing requests for documents and executive testimony. CNBC reports: OpenAI stunned the industry in July when it disclosed that its agents broke out of a testing environment and hacked into open-source platform Hugging Face. [...] Earlier this month, Anthropic CEO Dario Amodei rocked the tech sector ",
+      "published": "2026-10-01T17:22:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
       "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "summary": "288 points · 282 comments",
+      "summary": "395 points · 370 comments",
       "published": "2026-10-01T16:57:03+00:00"
     },
     {
@@ -196,15 +296,22 @@
       "source": "HACKER NEWS",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "summary": "468 points · 170 comments",
+      "summary": "526 points · 182 comments",
       "published": "2026-10-01T16:18:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RIP, vector database",
       "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "summary": "298 points · 81 comments",
+      "summary": "339 points · 89 comments",
       "published": "2026-10-01T16:01:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "HP's Answer to the MacBook Neo Is Thinner, Lighter, and Comes With OLED",
+      "url": "https://hardware.slashdot.org/story/26/10/01/1514239/hps-answer-to-the-macbook-neo-is-thinner-lighter-and-comes-with-oled?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "HP is taking aim at Apple's MacBook Neo with the new OmniBook 5 14, a $699.99 Windows laptop that starts with an Intel Core 5 315 processor, 8GB of RAM and 256GB of storage but includes an OLED display even on the base model. It's also slightly thinner and lighter than the Neo. The Verge reports: The OmniBook 5 14 can be configured much higher, with up to a Core 7 350 chip, 16GB of RAM, and a 1TB SSD, but all models include a 1080p webcam, dual speakers, HDMI, 3.5mm audio jack, and just two 10Gb",
+      "published": "2026-10-01T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -224,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: Who is hiring? (October 2026)",
       "url": "https://news.ycombinator.com/item?id=49922569",
-      "summary": "170 points · 176 comments",
+      "summary": "211 points · 207 comments",
       "published": "2026-10-01T15:02:07+00:00"
     },
     {
@@ -252,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "Turbo Haskell",
       "url": "https://comonad.com/reader/2026/turbo-haskell/",
-      "summary": "37 points · 2 comments",
+      "summary": "108 points · 23 comments",
       "published": "2026-10-01T13:58:25+00:00"
     },
     {
@@ -294,7 +401,7 @@
       "source": "HACKER NEWS",
       "title": "StreetComplete on iOS is now in public beta",
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "summary": "543 points · 144 comments",
+      "summary": "568 points · 151 comments",
       "published": "2026-10-01T10:59:57+00:00"
     },
     {
@@ -310,13 +417,6 @@
       "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with",
       "published": "2026-10-01T10:33:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "To grieve, or not to grieve?",
-      "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
-      "summary": "29 points · 1 comments",
-      "published": "2026-10-01T09:47:46+00:00"
     },
     {
       "source": "OSINT",
@@ -362,13 +462,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-      "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-      "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
-      "published": "2026-10-01T04:35:34+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Russian state hackers use new RedFlick technique to push malware",
       "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
       "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
@@ -380,20 +473,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
       "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
       "published": "2026-09-30T19:49:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-      "url": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-      "summary": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-      "published": "2026-09-30T18:08:34+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-      "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-      "summary": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team. The attack exploits CVE-2026-73570 (CVSS score: 8.9), an unauthenticated operating system command injection flaw that can lead to remote code execution when Simple Network Management Protocol",
-      "published": "2026-09-30T16:46:29+00:00"
     },
     {
       "source": "OSINT",
