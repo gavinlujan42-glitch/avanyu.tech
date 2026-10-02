@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02T00:05:11.592384+00:00",
-  "item_count": 76,
+  "updated": "2026-10-02T05:24:44.870446+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,6 +13,11 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
+    },
+    {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -28,17 +33,45 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "Apple's smart home camera reportedly won't record video",
-      "url": "https://www.theapplepost.com/2026/10/01/72882/apples-smart-home-camera-reportedly-wont-record-video/",
-      "summary": "8 points · 1 comments",
-      "published": "2026-10-01T23:00:10+00:00"
+      "title": "Meta's Muse is fantastic for web scraping",
+      "url": "https://sigh.dev/posts/metas-muse-is-fantastic-for-web-scraping/",
+      "summary": "7 points · 0 comments",
+      "published": "2026-10-02T04:56:02+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Russian-Owned Snooping Software Used By US Secret Service",
-      "url": "https://yro.slashdot.org/story/26/10/01/2124230/russian-owned-snooping-software-used-by-us-secret-service?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Bruce66423 shares a report from The Telegraph: British police forces, including specialist units within the Metropolitan Police, have used Oxygen Forensics software to break into the phones of suspects during live investigations, public documents show. The Virginia-based company behind the software has been accused in the US of having hidden its Russian ownership to avoid sanctions, before it was awarded government contracts. Its American chief executive and a Russian national were arrested last",
-      "published": "2026-10-01T23:00:00+00:00"
+      "source": "REDDIT",
+      "title": "Interview prep",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvk50h/interview_prep/",
+      "summary": "How do you guys typically prepare for technical interviews? I always like doing a hands on lab but most of the interviews lately have been Q&A or scenario based. How do you best brush up on technical concepts in preparation for your interviews? submitted by /u/Klau-s [link] [comments]",
+      "published": "2026-10-02T04:05:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek Harness",
+      "url": "https://www.deepseek.com/en/harness/",
+      "summary": "62 points · 24 comments",
+      "published": "2026-10-02T03:11:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How Singapore's government-run dating service works",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "summary": "56 points · 23 comments",
+      "published": "2026-10-02T01:56:52+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Es obligatorio pasar por Blue Team antes de entrar a Red Team / Pentesting?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvei5k/es_obligatorio_pasar_por_blue_team_antes_de/",
+      "summary": "Que tal buenas tardes a todos!! Llevo 6 meses en mi primer empleo en TI como Ingeniero en Sistemas en el ISSSTE de México (haciendo soporte técnico, configuración de switches, firewalls y VLANs). la verdad es que estoy muy contento por haber dado el primer paso, sabiendo que en la maypría de las ocasiones conseguir la primera oportunidad es lo más difícil, pero mi meta a largo plazo siempre ha sido dedicarme al pentesting y al hacking ético. He investigado bastante por mi cuenta, pero sigo con l",
+      "published": "2026-10-01T23:26:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "url": "https://lwn.net/Articles/1097401/",
+      "summary": "204 points · 134 comments",
+      "published": "2026-10-01T23:10:44+00:00"
     },
     {
       "source": "OSINT",
@@ -49,31 +82,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Aweb – Communication for AI Agents",
-      "url": "https://aweb.ai",
-      "summary": "12 points · 5 comments",
-      "published": "2026-10-01T22:02:31+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Cloudflare Tries to Outplay Jev With Open-Weight Clef Models",
-      "url": "https://tech.slashdot.org/story/26/10/01/2110250/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Cloudflare has launched two open-weight decision models, Clef and Clef-flash, designed for structured yes/no, multiple-choice, and ranking tasks while also supporting images, video, and up to a 64K context window. Cloudflare says its models outperform TypeSafe's Jev on several benchmarks and can run locally from Hugging Face. The Register reports: For starters, Clef has an LLM backbone. According to Cloudflare, Clef uses specially post-trained, frozen versions of Qwen3.8-27B and Qwen3.5-9B for C",
-      "published": "2026-10-01T22:00:00+00:00"
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "url": "https://www.frogandtoad.ai/",
+      "summary": "99 points · 16 comments",
+      "published": "2026-10-01T22:23:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
       "url": "https://www.cssbed.com",
-      "summary": "39 points · 9 comments",
+      "summary": "85 points · 21 comments",
       "published": "2026-10-01T21:21:32+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Ryan Roslansky Is Leaving After Nearly 18 Years At LinkedIn and Microsoft",
-      "url": "https://slashdot.org/story/26/10/01/1832232/ryan-roslansky-is-leaving-after-nearly-18-years-at-linkedin-and-microsoft?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ryan Roslansky is leaving Microsoft and LinkedIn after nearly 18 years, triggering another leadership shuffle across Office and Teams. \"Roslansky, who until recently was the CEO of LinkedIn, was promoted to the head of Office last year and then took control of Microsoft Teams earlier this year,\" notes The Verge. From the report: \"Ryan leaves the organization in a strong position,\" says Microsoft CEO Satya Nadella in an internal memo. \"Over the past year, Ryan's team has done critical work bringi",
-      "published": "2026-10-01T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -86,49 +105,28 @@
       "source": "HACKER NEWS",
       "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
       "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "summary": "37 points · 2 comments",
+      "summary": "107 points · 22 comments",
       "published": "2026-10-01T20:48:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "url": "https://github.com/Vibra-Ingenn/Janus",
-      "summary": "44 points · 4 comments",
-      "published": "2026-10-01T20:36:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Automatic Transmission – a data-privacy study of connected vehicles",
       "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "summary": "132 points · 129 comments",
+      "summary": "160 points · 152 comments",
       "published": "2026-10-01T20:23:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "SvelteKit 3",
       "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "summary": "88 points · 24 comments",
+      "summary": "185 points · 63 comments",
       "published": "2026-10-01T20:14:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "ArXiv's Updated Rate Limit Policy",
-      "url": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
-      "summary": "60 points · 17 comments",
-      "published": "2026-10-01T20:12:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Micron Projects Tightening RAM Shortages Through 2028 As It Generates Record Profit",
-      "url": "https://hardware.slashdot.org/story/26/10/01/1822222/micron-projects-tightening-ram-shortages-through-2028-as-it-generates-record-profit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Micron says the global RAM and storage shortage will tighten further through 2027 and 2028, with CEO Sanjay Mehrotra saying the company has already sold most of next year's capacity. \"In calendar 2027 as well as 2028, we see demand exceeding supply. In fact, we see greater tightness in the industry in 2027 and in 2028 versus 2026. Overall, supply-demand environment is only getting tighter,\" Mehrotra said. \"We do not have line of sight to when supply and demand will return to balance.\" As a resul",
-      "published": "2026-10-01T20:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pi 1.0",
       "url": "https://earendil.com/posts/pi-1-0/",
-      "summary": "658 points · 217 comments",
+      "summary": "977 points · 316 comments",
       "published": "2026-10-01T19:33:05+00:00"
     },
     {
@@ -142,7 +140,7 @@
       "source": "HACKER NEWS",
       "title": "Pi Durable",
       "url": "https://earendil.com/posts/pi-durable/",
-      "summary": "189 points · 19 comments",
+      "summary": "295 points · 36 comments",
       "published": "2026-10-01T19:24:08+00:00"
     },
     {
@@ -151,20 +149,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wv8ie2/polish_dental_software_vendor_felg_reports/",
       "summary": "FELG Software sp. z o.o., the Polish maker of the FELG Dent application for dental practices, told customers on October 1, 2026, that it had been attacked. In a statement on the company's status page, CEO Grzegorz Stawarz said an attacker claiming to belong to the \"Fingerprint\" group may have accessed patient data that dental practices had entrusted to FELG for processing. The attacker says he holds about 10% of the database and wants a ransom to keep it unpublished. FELG has notified the prosec",
       "published": "2026-10-01T19:16:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-      "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-      "summary": "73 points · 3 comments",
-      "published": "2026-10-01T19:03:42+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Cops Can Bypass iPhone's Automatic Reboot To Get Into Locked Phones",
-      "url": "https://yro.slashdot.org/story/26/10/01/1813207/cops-can-bypass-iphones-automatic-reboot-to-get-into-locked-phones?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from 404 Media: A company that makes phone hacking devices claims to have developed a solution that freezes iPhones in a state that lets cops more easily access sensitive data inside them, according to a video obtained by 404 Media. [...] The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that allows them to unlock and access data stored in iPhones an",
-      "published": "2026-10-01T19:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -188,31 +172,10 @@
       "published": "2026-10-01T18:32:10+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Pentagon Creates 'Autowarcom' to Expand AI and Drone Capabilities",
-      "url": "https://news.slashdot.org/story/26/10/01/1728203/pentagon-creates-autowarcom-to-expand-ai-and-drone-capabilities?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader ThurstonMoore shares a report from Reuters: U.S. Defense Secretary Pete Hegseth on Wednesday announced the creation of a new military command that would be dedicated to building and providing autonomous and robotic capabilities across the U.S. military. The command, which Hegseth said would be called \"Autonomous Warfare Command,\" highlights the rapidly changing nature of warfare and the need to make progress on systems like drones and the use of artificial intelligence. ",
-      "published": "2026-10-01T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Vote on which of Hacker News' challenges for AI have been met",
-      "url": "https://stoppels.ch/goalposts/",
-      "summary": "72 points · 69 comments",
-      "published": "2026-10-01T17:32:43+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks",
-      "url": "https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Federal Trade Commission has opened an investigation into OpenAI, Anthropic and other AI companies over potential consumer and safety risks posed by their products, with the agency reportedly preparing requests for documents and executive testimony. CNBC reports: OpenAI stunned the industry in July when it disclosed that its agents broke out of a testing environment and hacked into open-source platform Hugging Face. [...] Earlier this month, Anthropic CEO Dario Amodei rocked the tech sector ",
-      "published": "2026-10-01T17:22:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
       "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "summary": "177 points · 204 comments",
+      "summary": "288 points · 282 comments",
       "published": "2026-10-01T16:57:03+00:00"
     },
     {
@@ -230,39 +193,18 @@
       "published": "2026-10-01T16:45:38+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "PSA: CRA Article 14 reporting has applied since 11 September. A few things that are easy to miss",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wv4a1x/psa_cra_article_14_reporting_has_applied_since_11/",
-      "summary": "If you work with connected products sold in the EU, the Cyber Resilience Act's reporting duty is already live, not in December 2027. A few details I see overlooked: - It covers your installed base. Article 69(3) applies Article 14 to in-scope products placed on the market before December 2027, modified or not. - The 24h clock runs from \"becoming aware\". The Commission's guidance (paras 213-214) says suspicious events should be assessed immediately; you can't delay awareness by delaying the asses",
-      "published": "2026-10-01T16:37:26+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "summary": "400 points · 155 comments",
+      "summary": "468 points · 170 comments",
       "published": "2026-10-01T16:18:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Server Mismatch: WordPress Plugin Vulnerabilities When Relying On .htaccess Files",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wv3roh/server_mismatch_wordpress_plugin_vulnerabilities/",
-      "summary": "submitted by /u/ultrastrik3 [link] [comments]",
-      "published": "2026-10-01T16:18:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RIP, vector database",
       "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "summary": "261 points · 75 comments",
+      "summary": "298 points · 81 comments",
       "published": "2026-10-01T16:01:56+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "HP's Answer to the MacBook Neo Is Thinner, Lighter, and Comes With OLED",
-      "url": "https://hardware.slashdot.org/story/26/10/01/1514239/hps-answer-to-the-macbook-neo-is-thinner-lighter-and-comes-with-oled?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "HP is taking aim at Apple's MacBook Neo with the new OmniBook 5 14, a $699.99 Windows laptop that starts with an Intel Core 5 315 processor, 8GB of RAM and 256GB of storage but includes an OLED display even on the base model. It's also slightly thinner and lighter than the Neo. The Verge reports: The OmniBook 5 14 can be configured much higher, with up to a Core 7 350 chip, 16GB of RAM, and a 1TB SSD, but all models include a 1080p webcam, dual speakers, HDMI, 3.5mm audio jack, and just two 10Gb",
-      "published": "2026-10-01T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -279,24 +221,10 @@
       "published": "2026-10-01T15:28:26+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "PS5 Emulation Is Suddenly Making Big Strides On PC",
-      "url": "https://games.slashdot.org/story/26/10/01/1510234/ps5-emulation-is-suddenly-making-big-strides-on-pc?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: For a long time, PC gamers could access many PlayStation 5 games only if the publisher invested in a bespoke port (something Sony has recently said it will be scaling back). Now, though, rapid advancements in PS5 emulators and other tools are making recent PlayStation titles increasingly playable on generic PCs. SharpEmu was the first of these emulators, advancing from a \"very early alpha stage\" in May to a current state that can \"load the e",
-      "published": "2026-10-01T15:15:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-      "url": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-      "summary": "152 points · 25 comments",
-      "published": "2026-10-01T15:07:42+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Ask HN: Who is hiring? (October 2026)",
       "url": "https://news.ycombinator.com/item?id=49922569",
-      "summary": "138 points · 143 comments",
+      "summary": "170 points · 176 comments",
       "published": "2026-10-01T15:02:07+00:00"
     },
     {
@@ -319,6 +247,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
       "published": "2026-10-01T14:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Turbo Haskell",
+      "url": "https://comonad.com/reader/2026/turbo-haskell/",
+      "summary": "37 points · 2 comments",
+      "published": "2026-10-01T13:58:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -359,7 +294,7 @@
       "source": "HACKER NEWS",
       "title": "StreetComplete on iOS is now in public beta",
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "summary": "507 points · 122 comments",
+      "summary": "543 points · 144 comments",
       "published": "2026-10-01T10:59:57+00:00"
     },
     {
@@ -375,6 +310,13 @@
       "url": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with",
       "published": "2026-10-01T10:33:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "To grieve, or not to grieve?",
+      "url": "https://xenaproject.wordpress.com/2026/10/01/to-grieve-or-not-to-grieve/",
+      "summary": "29 points · 1 comments",
+      "published": "2026-10-01T09:47:46+00:00"
     },
     {
       "source": "OSINT",
@@ -424,27 +366,6 @@
       "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
       "summary": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue's Threat Hunt Operations & Research (THOR) team, which analyzed the exploitation activity across multiple customer environments, said it identified malicious NetScaler",
       "published": "2026-10-01T04:35:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Unveils Gemini 4 Argon, Retaking Benchmark Lead Over OpenAI and Anthropic",
-      "url": "https://tech.slashdot.org/story/26/09/30/2244216/google-unveils-gemini-4-argon-retaking-benchmark-lead-over-openai-and-anthropic?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google has unveiled Gemini 4 Argon, a new frontier AI model that it says leads or ties rivals on 13 of 18 disclosed benchmarks. The model is initially being released only to trusted cyber defenders and select pre-release testers, with broader availability planned later. VentureBeat reports: Google is not claiming that Gemini 4 Argon wins every benchmark. But across the benchmark table disclosed in the company's embargoed materials, Argon posts the highest score, or ties for the highest score, in",
-      "published": "2026-09-30T23:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "'Xbox Is Not For Sale,' Says Microsoft's Gaming Chief",
-      "url": "https://games.slashdot.org/story/26/09/30/1954253/xbox-is-not-for-sale-says-microsofts-gaming-chief?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Xbox CEO Asha Sharma says Microsoft has no plans to sell the gaming business, telling The New York Times that \"Xbox is not for sale\" and that the company intends to take a long-term view. Windows Central reports: Microsoft's vast layoffs across the summer have hit Xbox in their thousands, with studios like Ninja Theory on the path to being closed, and others like Double Fine being divested completely. Microsoft has effectively shut down Halo Studios itself and handed off the franchise to Call of",
-      "published": "2026-09-30T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Hackers Stole Millions of US Military Personnel Records During Months-Long Data Breach",
-      "url": "https://yro.slashdot.org/story/26/09/30/1947216/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A months-long breach of the Defense Manpower Data Center exposed personal information belonging to roughly 2.8 million living current and former U.S. military personnel and staff, plus records for nearly 300,000 deceased people. Attackers reportedly exploited a file-sharing vulnerability between October 2025 and July 2026, accessing unencrypted records that included Social Security numbers, dates of birth, demographic information, and military service details. TechCrunch reports: The DMDC may no",
-      "published": "2026-09-30T21:00:00+00:00"
     },
     {
       "source": "OSINT",
