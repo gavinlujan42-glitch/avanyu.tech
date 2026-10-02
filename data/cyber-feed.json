@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T11:16:24.560286+00:00",
+  "updated": "2026-10-02T16:46:41.426629+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,25 +27,130 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
+      "summary": "GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]",
+      "published": "2026-10-02T16:20:05+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "8 out of 10 Banks HATE This One Weird 3SKey RCE",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvxo1b/8_out_of_10_banks_hate_this_one_weird_3skey_rce/",
+      "summary": "submitted by /u/acorn222 [link] [comments]",
+      "published": "2026-10-02T16:03:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Social Media Harms Democracy By Spreading Rumors, Survey Shows",
+      "url": "https://tech.slashdot.org/story/26/10/02/0632243/social-media-harms-democracy-by-spreading-rumors-survey-shows?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Reuters: A growing number of people think social media manipulates and divides people and harms democracy, Pew Research Center said on Thursday, echoing rising concern and tighter scrutiny across the world. Companies running popular social platforms, including Meta, Snap, and TikTok, have faced thousands of lawsuits and paid large sums to settle claims that they harmed users. Governments, meanwhile, have sought foolproof ways to protect their citizens' pr",
+      "published": "2026-10-02T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Supabase is acquiring Turso",
+      "url": "https://supabase.com/blog/supabase-is-acquiring-turso",
+      "summary": "72 points · 21 comments",
+      "published": "2026-10-02T15:43:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Tool Suggestions",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvx2p9/tool_suggestions/",
+      "summary": "Hey yall, I’m working on a curated tool list for both defensive and offensive cyber. I wanted to ask on here what open source tools yall use and find great use for as well as extra plugins yall might use with the tools. TYIA! submitted by /u/GVTZ59 [link] [comments]",
+      "published": "2026-10-02T15:40:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "HITRUST and Corporate SOPs",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvwpor/hitrust_and_corporate_sops/",
+      "summary": "I'm new to HITRUST so please bare with me. If my company has HITRUST R2 certification and we are going into an interim year, if we have updated a good number of our SOPs that could potentially be used as evidence to support one of the 19 chosen domains, is there anything that I need to do? For instance if an existing SOP said something like retire all removable media every 12 months and the updated SOP now changes that to 6 months, is that going to be a problem? Thanks for the help! submitted by",
+      "published": "2026-10-02T15:26:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "US sanctions Tren de Aragua gang members in ATM hacks crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/",
+      "summary": "The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]",
+      "published": "2026-10-02T15:20:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Four Horsemen of Agentic Coding",
+      "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
+      "summary": "39 points · 13 comments",
+      "published": "2026-10-02T15:19:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Error-Prone AI Nearly Sparked World War Three Last Month",
+      "url": "https://tech.slashdot.org/story/26/10/02/0211256/error-prone-ai-nearly-sparked-world-war-three-last-month?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "In an op-ed for The Guardian, authors Timnit Gebru and Emily M. Bender argue that policymakers are focusing too heavily on hypothetical \"superintelligence\" while overlooking the more immediate danger of deploying unreliable AI in high-stakes settings. They point to an as-yet independently unverified CNN report claiming U.S. officials nearly intercepted a Chinese vessel after an AI-assisted intelligence report incorrectly said it was carrying nuclear-weapons components. From the article: While so",
+      "published": "2026-10-02T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fixing GRPO's credit assignment problem without evaluating every step",
+      "url": "https://arxiv.org/abs/2609.36178",
+      "summary": "13 points · 0 comments",
+      "published": "2026-10-02T14:36:04+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The EDR blind spot: 3 ways browser attacks evade endpoint telemetry",
+      "url": "https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/",
+      "summary": "Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...]",
+      "published": "2026-10-02T14:00:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+      "url": "https://www.kapa.ai/blog/company-knowledge-bench",
+      "summary": "16 points · 0 comments",
+      "published": "2026-10-02T13:37:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
+      "url": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
+      "summary": "35 points · 20 comments",
+      "published": "2026-10-02T13:19:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Legend of von Neumann (1973) [pdf]",
+      "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+      "summary": "124 points · 68 comments",
+      "published": "2026-10-02T13:18:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Dell asks admins to patch max severity CSM flaws as soon as possible",
+      "url": "https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/",
+      "summary": "Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]",
+      "published": "2026-10-02T12:37:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+      "url": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+      "summary": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported. \"We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information,\" a spokesperson for the company was quoted as saying. \"Our investigation confirmed that these",
+      "published": "2026-10-02T12:23:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report",
+      "url": "https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html",
+      "summary": "The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a spreadsheet to reconcile them. Someone else is turning that spreadsheet into slides. Then a board member asks three questions: How secure is the organization, overall? What is",
+      "published": "2026-10-02T11:30:00+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "20% of Swiss Glaciers Lost In Five Years",
       "url": "https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Swiss glaciers lost 5.5% of their ice volume in the first eight months of 2026, bringing total losses since 2021 to 19.4%. Researchers say some glaciers are now collapsing from within as meltwater carves out large cavities. The Guardian reports: Matthias Huss, a glaciologist at ETH Zurich and lead author of the report, said many people do not realize how fast glaciers are retreating, or that just one generation ago some now-barren sites used to sit beneath hundreds of meters of ice. The scientis",
       "published": "2026-10-02T11:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
-      "url": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
-      "summary": "12 points · 8 comments",
-      "published": "2026-10-02T10:50:08+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Does anyone actually log what tools their AI agents call?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvqa2j/does_anyone_actually_log_what_tools_their_ai/",
-      "summary": "Claude code or Gemini cli or whatever, how are you guys logging them usually. Any particular software u guys use? Which command , which argument are being called. What if those ai agents delete something very very dear to you IDK something around that lane. I was kind of thinking about a small tool that sits between the agent and its tools, logs every call, and flags the risky ones like shell commands maybe even holds on like commands that I can set and I will approve on? So my questions are: Do",
-      "published": "2026-10-02T10:27:02+00:00"
     },
     {
       "source": "REDDIT",
@@ -65,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
       "url": "https://github.com/kvoltmer/Audionaut",
-      "summary": "23 points · 6 comments",
+      "summary": "104 points · 38 comments",
       "published": "2026-10-02T08:05:48+00:00"
     },
     {
@@ -90,13 +195,6 @@
       "published": "2026-10-02T07:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Research idea for someone who is doing research for the first time.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvm7iv/research_idea_for_someone_who_is_doing_research/",
-      "summary": "Hi everyone, I am a cybersecurity graduate exploring a research project on Wazuh's detection stability across versions. I came across the Winkler & Sharma (2025) paper in Computers & Security that evaluates Wazuh's detection coverage and false-positive rate using a MITRE ATT&CK-aligned framework. It is excellent work, but it evaluates a single version. I am considering a longitudinal extension: running a fixed Atomic Red Team suite against six Wazuh versions (4.7.0 to 4.14.0) and measuring: Whic",
-      "published": "2026-10-02T06:05:54+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
       "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
@@ -107,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Shimano Bicycle Museum Review",
       "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-      "summary": "132 points · 21 comments",
+      "summary": "255 points · 59 comments",
       "published": "2026-10-02T05:12:58+00:00"
     },
     {
@@ -119,17 +217,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "DeepSeek Harness Desktop for macOS and Windows",
-      "url": "https://www.deepseek.com/en/harness/",
-      "summary": "254 points · 122 comments",
-      "published": "2026-10-02T03:11:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How Singapore's government-run dating service works",
-      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-      "summary": "184 points · 158 comments",
-      "published": "2026-10-02T01:56:52+00:00"
+      "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",
+      "url": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
+      "summary": "21 points · 5 comments",
+      "published": "2026-10-02T01:29:09+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -140,9 +231,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "summary": "28 points · 9 comments",
+      "published": "2026-10-02T00:27:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Several vulnerabilities have been discovered in the Linux kernel",
       "url": "https://lwn.net/Articles/1097401/",
-      "summary": "337 points · 244 comments",
+      "summary": "494 points · 352 comments",
       "published": "2026-10-01T23:10:44+00:00"
     },
     {
@@ -163,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Frog and Toad and the Increasingly Capable Machines",
       "url": "https://www.frogandtoad.ai/",
-      "summary": "193 points · 43 comments",
+      "summary": "459 points · 104 comments",
       "published": "2026-10-01T22:23:38+00:00"
     },
     {
@@ -189,23 +287,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-      "url": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
-      "summary": "158 points · 43 comments",
-      "published": "2026-10-01T20:48:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
-      "summary": "196 points · 169 comments",
-      "published": "2026-10-01T20:23:27+00:00"
+      "title": "Now That's an Impurity Story",
+      "url": "https://www.science.org/content/blog-post/now-s-impurity-story",
+      "summary": "19 points · 1 comments",
+      "published": "2026-10-01T20:21:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "SvelteKit 3",
       "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-      "summary": "289 points · 113 comments",
+      "summary": "371 points · 159 comments",
       "published": "2026-10-01T20:14:23+00:00"
     },
     {
@@ -216,13 +307,6 @@
       "published": "2026-10-01T20:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Pi 1.0",
-      "url": "https://earendil.com/posts/pi-1-0/",
-      "summary": "1345 points · 426 comments",
-      "published": "2026-10-01T19:33:05+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft says threat actors are ahead in the early AI race",
       "url": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
@@ -231,10 +315,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Pi Durable",
-      "url": "https://earendil.com/posts/pi-durable/",
-      "summary": "398 points · 51 comments",
-      "published": "2026-10-01T19:24:08+00:00"
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "summary": "35 points · 2 comments",
+      "published": "2026-10-01T19:24:29+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -242,6 +326,13 @@
       "url": "https://yro.slashdot.org/story/26/10/01/1813207/cops-can-bypass-iphones-automatic-reboot-to-get-into-locked-phones?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from 404 Media: A company that makes phone hacking devices claims to have developed a solution that freezes iPhones in a state that lets cops more easily access sensitive data inside them, according to a video obtained by 404 Media. [...] The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that allows them to unlock and access data stored in iPhones an",
       "published": "2026-10-01T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Giving friends custom text buzzes based on Morse code",
+      "url": "https://liquidbrain.net/blog/giving-friends-custom-text-buzzes-based-on-morse-code/",
+      "summary": "27 points · 5 comments",
+      "published": "2026-10-01T18:56:52+00:00"
     },
     {
       "source": "REDDIT",
@@ -265,17 +356,10 @@
       "published": "2026-10-01T18:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "FTC Is Investigating OpenAI, Anthropic and Other AI Companies Over Product Risks",
-      "url": "https://yro.slashdot.org/story/26/10/01/1720206/ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Federal Trade Commission has opened an investigation into OpenAI, Anthropic and other AI companies over potential consumer and safety risks posed by their products, with the agency reportedly preparing requests for documents and executive testimony. CNBC reports: OpenAI stunned the industry in July when it disclosed that its agents broke out of a testing environment and hacked into open-source platform Hugging Face. [...] Earlier this month, Anthropic CEO Dario Amodei rocked the tech sector ",
-      "published": "2026-10-01T17:22:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
       "url": "https://blog.gitbutler.com/git-3-sha-256",
-      "summary": "395 points · 370 comments",
+      "summary": "514 points · 478 comments",
       "published": "2026-10-01T16:57:03+00:00"
     },
     {
@@ -296,22 +380,8 @@
       "source": "HACKER NEWS",
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
       "url": "https://blog.cloudflare.com/clef-decision-models/",
-      "summary": "526 points · 182 comments",
+      "summary": "591 points · 212 comments",
       "published": "2026-10-01T16:18:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "RIP, vector database",
-      "url": "https://turbopuffer.com/blog/rip-vector-database",
-      "summary": "339 points · 89 comments",
-      "published": "2026-10-01T16:01:56+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "HP's Answer to the MacBook Neo Is Thinner, Lighter, and Comes With OLED",
-      "url": "https://hardware.slashdot.org/story/26/10/01/1514239/hps-answer-to-the-macbook-neo-is-thinner-lighter-and-comes-with-oled?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "HP is taking aim at Apple's MacBook Neo with the new OmniBook 5 14, a $699.99 Windows laptop that starts with an Intel Core 5 315 processor, 8GB of RAM and 256GB of storage but includes an OLED display even on the base model. It's also slightly thinner and lighter than the Neo. The Verge reports: The OmniBook 5 14 can be configured much higher, with up to a Core 7 350 chip, 16GB of RAM, and a 1TB SSD, but all models include a 1080p webcam, dual speakers, HDMI, 3.5mm audio jack, and just two 10Gb",
-      "published": "2026-10-01T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -326,13 +396,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wv2gfp/2026_microsoft_digital_defense_report_credential/",
       "summary": "Disclosure - I’m a director for MSFT Threat Intelligence and worked on this report, I’m also your AMA janitor here. Our annual digital defense report is out, and it’s filled with insights we have seen primarily between June of 2025 and July of 2026. You can access the full report here (no form fill), but I’m calling out some stats and page numbers based on what most of us care about: Let me know if there are other areas you want to pull from (nation state activity, regional, etc.) + sorry for th",
       "published": "2026-10-01T15:28:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "url": "https://news.ycombinator.com/item?id=49922569",
-      "summary": "211 points · 207 comments",
-      "published": "2026-10-01T15:02:07+00:00"
     },
     {
       "source": "OSINT",
@@ -354,20 +417,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
       "summary": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA methods, and access are issued. [...]",
       "published": "2026-10-01T14:01:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Turbo Haskell",
-      "url": "https://comonad.com/reader/2026/turbo-haskell/",
-      "summary": "108 points · 23 comments",
-      "published": "2026-10-01T13:58:25+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cybersecurity Awareness Month",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wv00dt/cybersecurity_awareness_month/",
-      "summary": "How do you celebrate? Is that the appropriate word, maybe advocate? Either way, what are you top shares for the month. For quick fixes that should already be done, I am thinking the following: -MFA on all accounts -USB file share - role based access or off completely -Remove local admin rights What should I add or remove? submitted by /u/Amanda_PDQ [link] [comments]",
-      "published": "2026-10-01T13:52:19+00:00"
     },
     {
       "source": "OSINT",
@@ -398,13 +447,6 @@
       "published": "2026-10-01T11:14:28+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "StreetComplete on iOS is now in public beta",
-      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-      "summary": "568 points · 151 comments",
-      "published": "2026-10-01T10:59:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
       "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
@@ -420,13 +462,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Hackers stole Pentagon personnel records of over 3 million people",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
-      "summary": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
-      "published": "2026-10-01T09:44:28+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
       "url": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
       "summary": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
@@ -434,45 +469,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Metamask discloses security incident affecting its infrastructure",
-      "url": "https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/",
-      "summary": "On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]",
-      "published": "2026-10-01T07:33:57+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
       "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
       "summary": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals. The trigger is a malicious PDF with a crafted embedded font that crashes unpatched iPhones and Macs. The code causes a crash, not an execution error. Turning the memory corruption into a working",
       "published": "2026-10-01T05:54:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-      "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-      "summary": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. \"Their investigation identified malicious activity involving third-party security products, including a zero-day vulnerability, and recovered a customized tool used by the attacker",
-      "published": "2026-10-01T05:21:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-      "url": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-      "summary": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure. \"We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,\" the software cryptocurrency wallet maker said. \"At this time, we have identified no immediate threat to MetaMask wallets.\" MetaMask",
-      "published": "2026-10-01T05:10:09+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Russian state hackers use new RedFlick technique to push malware",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-      "summary": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-      "published": "2026-09-30T20:34:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-      "url": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-      "summary": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-      "published": "2026-09-30T19:49:15+00:00"
     },
     {
       "source": "OSINT",
