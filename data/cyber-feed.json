@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T06:17:45.521014+00:00",
-  "item_count": 76,
+  "updated": "2026-10-03T11:56:27.826948+00:00",
+  "item_count": 66,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -23,9 +23,98 @@
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/technology/.rss",
       "error": "HTTPError"
+    },
+    {
+      "source": "OSINT",
+      "url": "https://krebsonsecurity.com/feed/",
+      "error": "HTTPError"
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "What type of content people like in mobile app security testing? from different perspectives (CISOs, Devs, Appsec engineers). Im looking for advice about content that stands out from generic AI noise, and is genuinly useful to people and makes them want to share it with others.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwl9xn/what_type_of_content_people_like_in_mobile_app/",
+      "summary": "submitted by /u/Dangerous-Frame3527 [link] [comments]",
+      "published": "2026-10-03T11:47:54+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "NDR Evasion techniques",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwkjxw/ndr_evasion_techniques/",
+      "summary": "I have a question, I am trying to find out about How attacker evade NDR(Network Detection Response) although network never lies? submitted by /u/r_tkk [link] [comments]",
+      "published": "2026-10-03T11:06:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "DLP Architecture",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwkhht/dlp_architecture/",
+      "summary": "Looking for resources on designing and implementing a DLP Architecture in a large financial services org. Need to focus on the future roadmap. A little out of my depth. Any help on resources/materials or recommended approach greatly appreciated. submitted by /u/Paolo264 [link] [comments]",
+      "published": "2026-10-03T11:02:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "1 In 8 Cancer Cases Worldwide Are Due to Infections",
+      "url": "https://science.slashdot.org/story/26/10/03/0120218/1-in-8-cancer-cases-worldwide-are-due-to-infections?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An estimated 2.3 million cancer cases worldwide in 2024, about one in eight, were attributable to infections, according to a study published in The Lancet Oncology. \"This recent Lancet data is a profound reminder that a significant portion of our global cancer burden is fundamentally preventable,\" said David Greenberg, MD, of Hackensack Meridian Jersey Shore University Medical Center, in a news release. \"We have historically siloed infectious diseases and oncology, but they are deeply intertwine",
+      "published": "2026-10-03T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale. This report examines how core areas of",
+      "published": "2026-10-03T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Did I just make the first fully correct Ascon implementation?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwjzev/did_i_just_make_the_first_fully_correct_ascon/",
+      "summary": "Months ago I was reading about and learning ciphers for a notes app of mine launching whenever I get approved for Google Play, iOS app store, and F-Droid. I read about the various competitions and came across the latest winning NIST cipher: \"Lightweight Cryptography\" NIST Lightweight Cryptography . The winner was the Ascon cipher and the four agreed upon implementation ciphers, which you can read about here . I found their reference implementation called ascon-c on GitHub and made a couple CLI t",
+      "published": "2026-10-03T10:31:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GitHub's new dashboard experience now the default",
+      "url": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+      "summary": "27 points · 32 comments",
+      "published": "2026-10-03T09:59:01+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CTO at NCSC Summary: week ending October 4th",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwjftj/cto_at_ncsc_summary_week_ending_october_4th/",
+      "summary": "submitted by /u/digicat [link] [comments]",
+      "published": "2026-10-03T09:57:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What is the state of malware analysis and reverse engineering by AI agents?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwipgx/what_is_the_state_of_malware_analysis_and_reverse/",
+      "summary": "I’ve been doing reverse-engineering software as a hobby for a while now, and I’m intrigued by the two related paths that branch off from it: hardware reverse engineering and malware analysis. Up to this point, it’s just been a hobby (since my day job has nothing to do with IT) but I’m now considering turning it into a profession. I have the same question I imagine we all share: do you see a future in this, or do you think AI is going to swallow up this entire job market? I’d love to hear the opi",
+      "published": "2026-10-03T09:10:19+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What do you make of this article about the AI using DNS to escape it's \"Sealed Environment\"",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwilm8/what_do_you_make_of_this_article_about_the_ai/",
+      "summary": "I stumbled upon this article, and my conclusion sounds so stupid and irresponsible that I start to doubt myself and believe i misunderstood something If the IA can just access the internet once it has info from the DNS, that emplies the IA has been given \"Open-Bar\" access to the entire IP addresses of the world in the first place doesnt it? Did I miss something obvious or do these guys have the cybersecurity knowledge of an undergraduate? submitted by /u/Leogis [link] [comments]",
+      "published": "2026-10-03T09:03:38+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Tests AI Data Center In Space",
+      "url": "https://science.slashdot.org/story/26/10/03/0113206/google-tests-ai-data-center-in-space?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader Geoffrey.landis shares a report from NPR: Google just put a refrigerator-sized satellite into space, part of a research project the company hopes can pave the way for orbiting AI data centers powered by the sun. The prototype satellite has four specialty chips in it called Tensor Processing Units, or TPUs, that Google designed for machine learning and has already deployed in data centers on Earth. The chips will run a version of the company's Gemma AI model for 15 minute",
+      "published": "2026-10-03T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An Update on Orion for Linux and Windows",
+      "url": "https://blog.kagi.com/update-orion-linux-windows",
+      "summary": "72 points · 36 comments",
+      "published": "2026-10-03T04:53:57+00:00"
+    },
     {
       "source": "SLASHDOT",
       "title": "New Mexico Wants Meta To Pay $40 Billion In Penalties For Cambridge Analytica Scandal",
@@ -37,43 +126,22 @@
       "source": "HACKER NEWS",
       "title": "Extra Big Ass Intelligence",
       "url": "https://www.extrabigassintelligence.com/",
-      "summary": "89 points · 16 comments",
+      "summary": "318 points · 71 comments",
       "published": "2026-10-03T03:19:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cloudflare OHTTP gateway",
       "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-      "summary": "38 points · 9 comments",
+      "summary": "99 points · 25 comments",
       "published": "2026-10-03T03:15:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Need your opinion. Currently working at a small company (1.5k) employees. SIEM tool isn't that great, things are setup in a weird way. Should I look for another position.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wwcib7/need_your_opinion_currently_working_at_a_small/",
-      "summary": "submitted by /u/HearingLast1637 [link] [comments]",
-      "published": "2026-10-03T03:00:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Newgrounds.com – A community of games, music, and art",
       "url": "https://www.newgrounds.com/",
-      "summary": "143 points · 36 comments",
+      "summary": "261 points · 70 comments",
       "published": "2026-10-03T00:55:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Things that apparently cause cancer",
-      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-      "summary": "158 points · 61 comments",
-      "published": "2026-10-03T00:23:11+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Possible to take 2 college classes AND study for a GIAC exam AT THE SAME TIME?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1ww8r7f/possible_to_take_2_college_classes_and_study_for/",
-      "summary": "I have roughly 7 weeks left to study for the exam. I kinda procrastinated so I still have to build my index and do the labs. I am between jobs right now and was also considering taking 2 courses, 1 online, and one hybrid to collect housing money for my post 9/11 GI Bill. Good idea or could it be too much of a time crunch? submitted by /u/FlyOctane9 [link] [comments]",
-      "published": "2026-10-02T23:45:28+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -81,13 +149,6 @@
       "url": "https://games.slashdot.org/story/26/10/02/2129251/ai-has-finally-learned-to-play-stratego?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Researchers from Carnegie Mellon, MIT, NYU, and Stanford have built an AI called Ataraxos that finally cracked Stratego, beating four-time world champion Pim Niemeijer 15 games to one with four draws. Its key advantage was a second neural network that estimates the identities of hidden enemy pieces, letting the system search plausible game states rather than brute-force a massive hidden-information space. Ars Technica reports: Just like [DeepMind's DeepNash, introduced in 2022], Ataraxos learned",
       "published": "2026-10-02T23:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Al Malware That Controls Itself, Phish Slop, Pentagon Breach and More...",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1ww7mtm/al_malware_that_controls_itself_phish_slop/",
-      "summary": "submitted by /u/_clickfix_ [link] [comments]",
-      "published": "2026-10-02T22:52:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -104,6 +165,13 @@
       "published": "2026-10-02T21:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Barcodes are about to go extinct",
+      "url": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+      "summary": "61 points · 92 comments",
+      "published": "2026-10-02T20:37:07+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Paramount and Warner Bros. Discovery to Become Skydance",
       "url": "https://entertainment.slashdot.org/story/26/10/02/1836216/paramount-and-warner-bros-discovery-to-become-skydance?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -112,30 +180,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Updates to Full Disk Access in macOS",
-      "url": "https://developer.apple.com/news/?id=p6zjojqw",
-      "summary": "170 points · 110 comments",
-      "published": "2026-10-02T19:37:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Make Tmux the OS",
-      "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-      "summary": "7 points · 3 comments",
-      "published": "2026-10-02T19:29:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Muse Gadgets",
       "url": "https://gadgets.muse.ai",
-      "summary": "174 points · 78 comments",
+      "summary": "204 points · 91 comments",
       "published": "2026-10-02T19:26:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Apple Pass Designer",
       "url": "https://developer.apple.com/pass-designer/",
-      "summary": "383 points · 236 comments",
+      "summary": "450 points · 276 comments",
       "published": "2026-10-02T19:06:56+00:00"
     },
     {
@@ -151,13 +205,6 @@
       "url": "https://hardware.slashdot.org/story/26/10/02/1750242/used-processor-leads-to-game-ban?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "AmiMoJo shares a report from heise online: Anyone buying used hardware for a gaming PC needs to be careful: not just whether the components are still in order but also what the previous owner did with them. A case on Reddit shows this. Someone installed a used AMD processor, a Ryzen 7 5800X3D, in their PC. Because the previous owner was caught cheating, the new owner cannot start several online games. The problem was noticed in the first-person shooter \"Valorant\" from the development studio Riot",
       "published": "2026-10-02T19:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Nintendo 64 Partner-N64 Development Kit",
-      "url": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
-      "summary": "15 points · 1 comments",
-      "published": "2026-10-02T18:53:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -177,7 +224,7 @@
       "source": "HACKER NEWS",
       "title": "From the creator of Redis; run LLM locally with ds4",
       "url": "https://dwarfstar.sh/",
-      "summary": "204 points · 56 comments",
+      "summary": "266 points · 69 comments",
       "published": "2026-10-02T18:01:16+00:00"
     },
     {
@@ -193,13 +240,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1ww0hg8/malicious_content_from_microsoft_fqdn/",
       "summary": "Greetings, We have a situation with the MS owned microsoftusercontent.com , and unfortunately I keep getting AI summaries and not finding any security articles, but the summaries are claiming this domain, although official, can host malicious content since it acts like a CDN for 365 content from users, i.e. a compromised user/account/site might be able to deliver malicious content from this FQDN. So this gives me pause with whitelisting it for AV providers Appreciate any insights. submitted by /",
       "published": "2026-10-02T17:56:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "There's a new sea spider in town",
-      "url": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
-      "summary": "11 points · 1 comments",
-      "published": "2026-10-02T17:48:54+00:00"
     },
     {
       "source": "REDDIT",
@@ -237,13 +277,6 @@
       "published": "2026-10-02T17:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "AI Agent Traces - Tool calls and actions",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvythu/ai_agent_traces_tool_calls_and_actions/",
-      "summary": "want to get sense of what others are doing. is anyone sending coding agent, other agentic ai OTLP traces into SIEM/detection engine. Is it worth it to you. submitted by /u/Fast-Freedom-5407 [link] [comments]",
-      "published": "2026-10-02T16:50:33+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/",
@@ -275,14 +308,14 @@
       "source": "HACKER NEWS",
       "title": "The Forgetful CPU (Linux on M4)",
       "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-      "summary": "179 points · 94 comments",
+      "summary": "233 points · 153 comments",
       "published": "2026-10-02T14:22:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "With most information hidden, the game Stratego had stumped AI until now",
       "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "summary": "204 points · 97 comments",
+      "summary": "224 points · 111 comments",
       "published": "2026-10-02T14:11:24+00:00"
     },
     {
@@ -317,15 +350,8 @@
       "source": "HACKER NEWS",
       "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
       "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-      "summary": "242 points · 53 comments",
+      "summary": "304 points · 58 comments",
       "published": "2026-10-02T11:07:17+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "20% of Swiss Glaciers Lost In Five Years",
-      "url": "https://news.slashdot.org/story/26/10/02/0220226/20-of-swiss-glaciers-lost-in-five-years?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Swiss glaciers lost 5.5% of their ice volume in the first eight months of 2026, bringing total losses since 2021 to 19.4%. Researchers say some glaciers are now collapsing from within as meltwater carves out large cavities. The Guardian reports: Matthias Huss, a glaciologist at ETH Zurich and lead author of the report, said many people do not realize how fast glaciers are retreating, or that just one generation ago some now-barren sites used to sit beneath hundreds of meters of ice. The scientis",
-      "published": "2026-10-02T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -342,25 +368,18 @@
       "published": "2026-10-02T08:01:30+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Post-Quantum Cryptography Resource Hub",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wvncyq/postquantum_cryptography_resource_hub/",
-      "summary": "submitted by /u/donutloop [link] [comments]",
-      "published": "2026-10-02T07:17:46+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenAI Alerts More Than 100 Groups About Rogue AI Agent Activity",
-      "url": "https://it.slashdot.org/story/26/10/02/0226205/openai-alerts-more-than-100-groups-about-rogue-ai-agent-activity?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Reuters: OpenAI has informed more than 100 organizations about incidents involving unauthorized activity tied to its AI agents, according to a blog post by the ChatGPT maker, as AI labs face mounting scrutiny over rogue AI agent activity. Here are some other details: - The Sam Altman-led company has been conducting a broad review of the activities of its AI models after the accidental hacking of Hugging Face. - OpenAI is searching through roughly 50 petab",
-      "published": "2026-10-02T07:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
       "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as CVE-2026-104286 (CVSS score: 9.8), allows unauthenticated attackers to write arbitrary files on the underlying system. \"An improper",
       "published": "2026-10-02T05:49:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "summary": "252 points · 82 comments",
+      "published": "2026-10-02T02:51:27+00:00"
     },
     {
       "source": "OSINT",
@@ -373,7 +392,7 @@
       "source": "HACKER NEWS",
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
       "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-      "summary": "585 points · 256 comments",
+      "summary": "658 points · 315 comments",
       "published": "2026-10-01T22:23:07+00:00"
     },
     {
@@ -387,7 +406,7 @@
       "source": "HACKER NEWS",
       "title": "Loss of cell identity drives human aging: Two new papers",
       "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
-      "summary": "215 points · 61 comments",
+      "summary": "269 points · 87 comments",
       "published": "2026-10-01T20:02:57+00:00"
     },
     {
@@ -401,28 +420,14 @@
       "source": "HACKER NEWS",
       "title": "FLUX 3 Image",
       "url": "https://bfl.ai/models/flux-3-image",
-      "summary": "308 points · 65 comments",
+      "summary": "359 points · 77 comments",
       "published": "2026-10-01T19:24:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "U.S. CISA adds Cisco Catalyst SD-WAN Manager flaw to its Known Exploited Vulnerabilities catalog",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wv7n63/us_cisa_adds_cisco_catalyst_sdwan_manager_flaw_to/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-01T18:44:08+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What Advice Would You Give Your Younger Self in Cybersecurity",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wv7byg/what_advice_would_you_give_your_younger_self_in/",
-      "summary": "I am currently entering into my second year of my cybersecurity journey now I am currently doing cpts I wish to hear from the people who has more experience What advice, lessons, or mistakes you would share with your younger self you felt that would improve even more than you are at now submitted by /u/Low_Adhesiveness6838 [link] [comments]",
-      "published": "2026-10-01T18:32:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mike Tomlin spent 12 years building a Minecraft city",
       "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-      "summary": "398 points · 100 comments",
+      "summary": "497 points · 112 comments",
       "published": "2026-10-01T18:20:18+00:00"
     },
     {
@@ -468,18 +473,11 @@
       "published": "2026-10-01T11:45:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "url": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "summary": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in Beijing. It did not cite any",
-      "published": "2026-10-01T10:42:36+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
-      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
-      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
-      "published": "2026-09-28T15:08:57+00:00"
+      "source": "HACKER NEWS",
+      "title": "cp: -r or -R?",
+      "url": "https://movq.de/blog/postings/2026-09-30/0/POSTING-en.html",
+      "summary": "28 points · 12 comments",
+      "published": "2026-09-30T15:44:02+00:00"
     },
     {
       "source": "REDDIT",
@@ -494,69 +492,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wrn0sn/im_a_ciso_whos_built_many_security_teams_i_want/",
       "summary": "The editors at CISO Series present this AMA. This has been a long-term partnership between r/cybersecurity and the CISO Series. This month, CISO Series has assembled a panel of accomplished security leaders who have built and led many security teams over their careers. They are here to help you level up your own career and to answer your questions about growing in your current role, moving into leadership, hiring and managing teams, and everything in between. This week's participants are: Mathew",
       "published": "2026-09-27T15:26:16+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
-      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
-      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
-      "published": "2026-09-25T21:44:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
-      "published": "2026-09-16T18:14:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "summary": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security experts warn that many organizations already are struggling to prioritize the more human-intensive endeavor of testing and deploying so many fixes each month.",
-      "published": "2026-09-08T21:44:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
-      "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
-      "summary": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it appears to be siphoning images collected by a widely-used identity verification company based in Louisiana. KrebsOnSecurity also has learned that the New Orleans field office of the Federal Bureau of Investigation (FBI) today",
-      "published": "2026-09-01T22:40:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
-      "url": "https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/",
-      "summary": "Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement released today, the Australian Federal Police (AFP) said two unnamed suspects from Western Australia, aged 21 and 23, were arrested in connection with a \"sophisticated cybercrime syndicate that allegedly created malicious open-source software to rob thousands of glob",
-      "published": "2026-08-27T11:04:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Who’s Tracking You? Use This New Service to Find Out",
-      "url": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
-      "summary": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away in the hands of large advertising platforms. Not anymore: A powerful and free new service called DecryptAds scrapes and correlates this adtech data and makes it simple to quickly learn a great deal about the entities that",
-      "published": "2026-08-14T11:24:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "url": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "summary": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.",
-      "published": "2026-08-11T21:28:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Canadian Man Pleads Guilty in Snowflake Extortions",
-      "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-      "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
-      "published": "2026-08-06T17:00:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "published": "2026-07-30T16:49:00+00:00"
     }
   ]
 }
