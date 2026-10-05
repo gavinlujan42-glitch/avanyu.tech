@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-05T15:48:17.015560+00:00",
-  "item_count": 75,
+  "updated": "2026-10-05T22:28:07.504424+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,11 +27,165 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "summary": "24 points · 5 comments",
+      "published": "2026-10-05T21:40:50+00:00"
+    },
+    {
       "source": "REDDIT",
-      "title": "Looks like someone found a serious security vulnerability in KVM",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wybzqz/looks_like_someone_found_a_serious_security/",
-      "summary": "I haven't found a corresponding CVE but we are seeing some linux kernel commits to KVM etc. specifically in the last couple of days... Looks it really good be a big one... submitted by /u/Cycle_HeidarEldberg [link] [comments]",
-      "published": "2026-10-05T15:47:57+00:00"
+      "title": "Discovered Linux Backdoor Exploits STUN Protocol",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyklij/discovered_linux_backdoor_exploits_stun_protocol/",
+      "summary": "A recently discovered Linux backdoor turns infected systems into proxies that use the Session Traversal Utilities for NAT (STUN) protocol and contains exploits for self-propagation, FortiGuard Labs reports. Dubbed ClingSTUN and functioning as a back-connect proxy backdoor, the malware targets two dozen vulnerabilities for initial access and sets up persistence to ensure malware execution during the boot sequence. The malware’s operators were seen indiscriminately exploiting Avtech, EnGenius, D-L",
+      "published": "2026-10-05T21:17:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "summary": "41 points · 2 comments",
+      "published": "2026-10-05T21:15:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "summary": "120 points · 101 comments",
+      "published": "2026-10-05T21:00:21+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Wikipedia Operator Says OpenAI's 'Rogue' Bots May Be Linked to a May Outage",
+      "url": "https://news.slashdot.org/story/26/10/05/1932228/wikipedia-operator-says-openais-rogue-bots-may-be-linked-to-a-may-outage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Wikimedia Foundation says it found evidence that \"rogue\" OpenAI agents edited Wikimedia wikis without approval, unsuccessfully tried to exploit its Etherpad service, and generated millions of automated requests across Wikimedia projects. Here's a summary of what Wikimedia observed (via The Verge): Wiki editing: We've identified edits to Wikimedia wikis that we believe are from AI agents operated by OpenAI. These edits were not published to pages with visibility to general readers; almost all",
+      "published": "2026-10-05T21:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What your current vuln count and how do you plan to remediate?....this is anonymous, right?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyjdb5/what_your_current_vuln_count_and_how_do_you_plan/",
+      "summary": "submitted by /u/zperdy [link] [comments]",
+      "published": "2026-10-05T20:29:01+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
+      "published": "2026-10-05T20:20:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A third way of using Linux",
+      "url": "https://hisvirusness.com/third-is-the-way",
+      "summary": "12 points · 18 comments",
+      "published": "2026-10-05T20:17:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Incident with Actions",
+      "url": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+      "summary": "80 points · 53 comments",
+      "published": "2026-10-05T20:09:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cyber cards for studying?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyiqx7/cyber_cards_for_studying/",
+      "summary": "Hi all, I've been studying cybersecurity and wanted to make memorising some of the concepts a little more fun. So I started creating cards with fantasy/MTG-style illustrations etc and placed them on cybercards.site. I'd appreciate some feedback from fellow cybersecurity students and professionals. Particularly whether the cards are useful for studying. Cheers! submitted by /u/Eastern_Tart_4988 [link] [comments]",
+      "published": "2026-10-05T20:04:25+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Meta Rushed To Fix Muse 'VM Escape' Vulnerability Soon Before Launch",
+      "url": "https://yro.slashdot.org/story/26/10/05/1914252/meta-rushed-to-fix-muse-vm-escape-vulnerability-soon-before-launch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from 404 Media: In the immediate weeks before Muse's launch, Meta engineers found several security vulnerabilities in the company's viral AI agent product, at least one of which could have allowed malicious users to break outside of Muse's intended environment and access Meta's own sensitive databases and services, 404 Media has learned. The issues were so severe that they reached Mark Zuckerberg and staff worked overtime to fix them. These specific vulnerabil",
+      "published": "2026-10-05T20:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Setting up Jump Server",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyi5w2/setting_up_jump_server/",
+      "summary": "Not entirely sure if this is the best place to ask or if I’m using the exact right terminology, but here is my situation. I have a few Raspberry Pis on my home and want a reliable way to address and reach them consistently. My initial thought was to run an autossh service on each Pi to maintain a reverse SSH tunnel back to an old laptop acting as a central server, along with a complementary service on the laptop to keep those tunnels alive. However, using reverse SSH tunnels would start to get m",
+      "published": "2026-10-05T19:42:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Future of Mathematics",
+      "url": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
+      "summary": "62 points · 26 comments",
+      "published": "2026-10-05T19:22:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "summary": "216 points · 59 comments",
+      "published": "2026-10-05T19:16:35+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Norway Plans Temporary Ban on Smart Glasses",
+      "url": "https://yro.slashdot.org/story/26/10/05/1842201/norway-plans-temporary-ban-on-smart-glasses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Norway is preparing legislation that would temporarily ban camera-equipped smart glasses in a range of public places, including parks, beaches, museums, shopping centers, schools, daycare centers, healthcare facilities, gyms and public events. Private use would still be allowed. The Guardian reports: Torgeir Micaelsen, Norway's minister of digital affairs, said he was worried that new, powerful technology is being introduced where people risk being photographed, filmed or audio-recorded without ",
+      "published": "2026-10-05T19:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CISA recently discontinued its new weekly Vulnerability Bulletins...",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wygzdn/cisa_recently_discontinued_its_new_weekly/",
+      "summary": "It says \"... CISA will discontinue the weekly Vulnerability Bulletin at the end of FY26 (September 28, 2026) as part of a broader shift from severity‑based vulnerability management to risk‑based vulnerability prioritization. Newly recorded vulnerabilities remain available on CVE.org , and users should rely on the Known Exploited Vulnerability (KEV) Catalog, CISA Cybersecurity Alerts and Advisories, and vendor security alerts for actionable, risk‑based updates. Visit our Subscribe to Updates page",
+      "published": "2026-10-05T18:57:13+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Mac Users Reclaim 12GB+ of Storage With Apple Intelligence Removal Tool",
+      "url": "https://hardware.slashdot.org/story/26/10/05/1747205/mac-users-reclaim-12gb-of-storage-with-apple-intelligence-removal-tool?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A new open-source command-line tool called RemoveMacAI lets macOS 27 users disable Apple Intelligence and reclaim around 12GB or more of storage. MacRumors reports: In macOS 27, Apple removed the toggle to disable Apple Intelligence wholesale, and simply disabling individual features doesn't remove the models from your Mac's drive. As explained by the developer, RemoveMacAI gets around this by using a configuration profile to switch off Apple's own asset management service and remove the models.",
+      "published": "2026-10-05T18:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Reports Florida Woman's Claude 'Diary' Threat to Law Enforcement",
+      "url": "https://yro.slashdot.org/story/26/10/05/1733245/anthropic-reports-florida-womans-claude-diary-threat-to-law-enforcement?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A Florida woman was arrested on a felony charge after Anthropic's human review team flagged and reported a Claude conversation in which she allegedly threatened to \"shoot up\" the Lee County Sheriff's Office and later mentioned acquiring a new gun. Tom's Hardware reports: Anthropic monitors chats for key phrases and content that could be deemed threatening, the arrest report says, and depending on severity, they can be elevated for human review. In this case, the team decided to report its findin",
+      "published": "2026-10-05T17:35:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hi Reddit! We’re Jeff Crume and Guido Crucq from IBM Security. Every year, we analyze hundreds of real-world breaches for the Cost of a Data Breach Report. Ask us anything about data breaches and cybersecurity trends!",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyeo4u/hi_reddit_were_jeff_crume_and_guido_crucq_from/",
+      "summary": "Hi Reddit! 👋 I'm Jeff Crume , Distinguished Engineer and Master Inventor at IBM Security. For over 44 years, I've worked across cybersecurity, cryptography, software engineering, and emerging technologies. You may also know me from the IBM Technology YouTube channel , where I help break down complex security topics for a broad audience. I've spent much of my career helping organizations understand evolving cyber threats and how to better defend against them. In addition to this, I’m currently an",
+      "published": "2026-10-05T17:29:37+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+      "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
+      "published": "2026-10-05T17:19:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a",
+      "published": "2026-10-05T16:21:52+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+      "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "OpenAI CEO Sam Altman says society should accept some negative consequences from AI in exchange for the technology's broader benefits and widespread public access. \"I think there's a lot of daylight,\" Altman told Decoded co-author and Politico senior tech reporter Brendan Bordelon. Asked about where he differs between Anthropic and its CEO Dario Amodei, Altman said, \"we believe that the world should accept some bad things happening for the benefits of this technology and people having the agency",
+      "published": "2026-10-05T16:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Looks like someone found a serious vulnerability in KVM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyca1h/looks_like_someone_found_a_serious_vulnerability/",
+      "summary": "I haven't found a corresponding CVE but we are seeing some linux kernel commits to KVM etc. specifically in the last couple of days... Looks like this really could be a big one... submitted by /u/Cycle_HeidarEldberg [link] [comments]",
+      "published": "2026-10-05T15:58:55+00:00"
     },
     {
       "source": "OSINT",
@@ -56,16 +210,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "\"I'm Embarrassed on Behalf of the Tech Industry\"",
-      "url": "https://blog.jim-nielsen.com/2026/embarrassed-by-tech/",
-      "summary": "61 points · 35 comments",
-      "published": "2026-10-05T14:39:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Making a GTK application in Haskell, part 1",
       "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-      "summary": "10 points · 0 comments",
+      "summary": "118 points · 26 comments",
       "published": "2026-10-05T14:23:47+00:00"
     },
     {
@@ -81,6 +228,20 @@
       "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
       "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusion paths, smarter automation, and a long patch list waiting behind them. Some attacks are getting more capable. Others",
       "published": "2026-10-05T14:20:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The lamps in my house",
+      "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+      "summary": "90 points · 53 comments",
+      "published": "2026-10-05T14:12:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "summary": "82 points · 17 comments",
+      "published": "2026-10-05T14:09:15+00:00"
     },
     {
       "source": "REDDIT",
@@ -104,13 +265,6 @@
       "published": "2026-10-05T13:21:29+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-      "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-      "summary": "210 points · 115 comments",
-      "published": "2026-10-05T13:02:25+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
       "url": "https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/",
@@ -118,32 +272,11 @@
       "published": "2026-10-05T13:01:45+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Tell HN: Uceprotect is extorting website owners",
-      "url": "https://news.ycombinator.com/item?id=49964045",
-      "summary": "66 points · 26 comments",
-      "published": "2026-10-05T12:35:55+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "As hiring managers, do you care about a candidate’s response to your feedback?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wy78o6/as_hiring_managers_do_you_care_about_a_candidates/",
-      "summary": "for context, I did an interview and I got a rejection and feedback saying they enjoyed meeting me (it was not an automated response, so I’m believing it), then pointed the reason for the rejection, and then the “Hope our paths cross again”. for me, the rejection reason doesn’t really make sense, but a rejection is a rejection. my questions is: if I’m polite and voice my opinion (in a very nice way), can it reverse the rejection? I’ll never send an email less than nice, but should I even respond ",
-      "published": "2026-10-05T12:27:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
       "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
       "summary": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, and Prevent. The journey starts with detection, because organizations first need to understand what credentials exist, where they live, and what they",
       "published": "2026-10-05T11:55:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "GRC career question",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wy6jx2/grc_career_question/",
-      "summary": "I am currently working in GRC content. Basically we id requirements from a guideline/standard/law, then fit it in to a tool. I also do some regulation mapping, library maintenance, and script development for parsing. I know I am about to hit a wall of growth. For almost a decade I have been doing this. I know the next step is to do audit/assessment, talk to stakeholders, consulting, etc. I feel like in the middle of crossroads - too experienced yet too underexperienced - I know implementation/as",
-      "published": "2026-10-05T11:52:44+00:00"
     },
     {
       "source": "OSINT",
@@ -161,23 +294,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-      "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
-      "summary": "41 points · 13 comments",
-      "published": "2026-10-05T11:17:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-      "summary": "271 points · 234 comments",
-      "published": "2026-10-05T11:13:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Web Search API",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "summary": "193 points · 102 comments",
+      "summary": "452 points · 208 comments",
       "published": "2026-10-05T10:47:06+00:00"
     },
     {
@@ -186,13 +305,6 @@
       "url": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
       "summary": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents. \"Some developers are using Full Disk Access in ways that could put users at risk, exposing everything on their systems—including files, mail, messages, and even browsing history – without users' full knowledge",
       "published": "2026-10-05T10:38:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
-      "summary": "112 points · 25 comments",
-      "published": "2026-10-05T10:35:59+00:00"
     },
     {
       "source": "OSINT",
@@ -207,6 +319,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wy4s3i/cpr_data_breach_exposes_personal_details_of_88/",
       "summary": "submitted by /u/DerBootsMann [link] [comments]",
       "published": "2026-10-05T10:09:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple and a hacker's future",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "summary": "175 points · 171 comments",
+      "published": "2026-10-05T10:05:02+00:00"
     },
     {
       "source": "OSINT",
@@ -230,13 +349,6 @@
       "published": "2026-10-05T08:27:46+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-      "summary": "327 points · 248 comments",
-      "published": "2026-10-05T08:09:36+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
       "url": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
@@ -245,9 +357,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-      "summary": "117 points · 70 comments",
+      "title": "Qualcomm licenses patents on Huawei’s LogicFolding chip tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+      "summary": "166 points · 104 comments",
       "published": "2026-10-05T07:46:10+00:00"
     },
     {
@@ -261,22 +373,15 @@
       "source": "OSINT",
       "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
       "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
+      "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
       "published": "2026-10-05T06:40:19+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "AI-RTA by Cyberwarfare Lab",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wy1j9c/airta_by_cyberwarfare_lab/",
-      "summary": "Hi I've been doing AI-RTA from cyberwarfare lab & I've completed till flag 9 so if anyone has completed , it'll be helpful if u can provide flag 10 or even any hint on how to get it as m getting 2 diffrent flag neither is correct Thanks submitted by /u/vx18c [link] [comments]",
-      "published": "2026-10-05T06:35:58+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Looking for opinion on brute ratel",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wy1bfx/looking_for_opinion_on_brute_ratel/",
-      "summary": "I am just wondering if anyone has tried the red teaming tool brute ratel, and if it’s worth the money compared to some of its competitors like cobalt strike. I know silver is meant to be pretty good but being open source, I imagine it can’t be as good as closed source projects otherwise every apt under the sun would be using it. But feel free to drop an opinion on silver too, or any other open source frameworks! submitted by /u/Cautious_Hurry_6979 [link] [comments]",
-      "published": "2026-10-05T06:21:48+00:00"
+      "source": "HACKER NEWS",
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "summary": "422 points · 349 comments",
+      "published": "2026-10-05T05:37:40+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -314,69 +419,6 @@
       "published": "2026-10-04T21:58:01+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "How Python Will Test Adding Rust Into CPython",
-      "url": "https://developers.slashdot.org/story/26/10/04/2034229/how-python-will-test-adding-rust-into-cpython?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Python's security developer-in-residence Seth Larson reports from this year's official core developer Python Language Summit: \"No one said 'don't do this' last year\". After testing the waters at PyCon US 2025, [software engineer] David Hewitt returned to the Python Language Summit asking what Python core developers want from Rust, along with proposed timelines, phases, and success criteria for how the Rust for CPython project might proceed and become a permanent fixture within the CPython projec",
-      "published": "2026-10-04T21:37:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "summary": "197 points · 25 comments",
-      "published": "2026-10-04T21:01:28+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Radio Broadcasters Support America's 'AM Radio for Every Vehicle Act'",
-      "url": "https://tech.slashdot.org/story/26/10/04/208221/radio-broadcasters-support-americas-am-radio-for-every-vehicle-act?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Last month, the U.S. House passed the AM Radio for Every Vehicle Act, reports the Chicago Sun-Times. They call it \"a bipartisan effort to require AM radio in new vehicles,\" adding that the bill now \"awaits action in the Senate, where a companion measure has already garnered support, according to public records.\" Broadcasters said AM radio remains a critical source of information, offering news and weather alerts, particularly when cell networks and internet service are disrupted or unreliable...",
-      "published": "2026-10-04T20:37:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Disney/Marvel's 'Avengers: Endgame' Beats 'Avatar' as Top-Grossing Film, 'Coyote vs Acme' #1 on Apple TV",
-      "url": "https://entertainment.slashdot.org/story/26/10/04/1934230/disneymarvels-avengers-endgame-beats-avatar-as-top-grossing-film-coyote-vs-acme-1-on-apple-tv?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "James Cameron's Avatar is no longer the highest-grossing movie in box office history. That honor now goes to the Disney/Marvel Studios film Avengers: Endgame. Variety explains: \"Avatar\" spent a decade as the biggest release ever until \"Avengers: Endgame\" overtook the record in 2019 during its initial run on the big screen. \"Endgame\" dropped to No. 2 on all-time charts in 2021 when \"Avatar\" returned to theaters in advance of 2021's \"Avatar: The Way of Water.\" Five years later, and Earth's Mightie",
-      "published": "2026-10-04T19:37:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Particle Collider Experiment Recreates the Big Bang's Primordial Soup - and Finds Unexpected Pattern",
-      "url": "https://science.slashdot.org/story/26/10/04/1812250/particle-collider-experiment-recreates-the-big-bangs-primordial-soup---and-finds-unexpected-pattern?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Physicists smashed gold nuclei together at nearly the speed of light and found an unexpected pattern in the particles...\" writes Live Science. \"If confirmed, that pattern could help reveal how the hot soup of quarks and gluons that filled the universe in the first few microseconds after the Big Bang cooled and condensed into the protons and neutrons that make up ordinary matter today.\" In every collision, particles are flung out sideways; how hard they are flung, on average, varies slightly fro",
-      "published": "2026-10-04T18:15:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Mosquitoes Are a Choice",
-      "url": "https://worksinprogress.co/issue/mosquitoes-are-a-choice/",
-      "summary": "71 points · 62 comments",
-      "published": "2026-10-04T18:06:04+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "San Francisco's Car Crime Has Plunged. How Much Credit Does Flock Deserve?",
-      "url": "https://yro.slashdot.org/story/26/10/03/0553234/san-franciscos-car-crime-has-plunged-how-much-credit-does-flock-deserve?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Car thefts in San Francisco are down almost 59% for the first eight months of 2026 compared with the same months in 2022, according to analysis of police department statistics by NPR's Planet Money — and car break-ins are down more than 82%. \"San Francisco's law enforcement leaders tell us that greater use of surveillance technology — including a controversial, AI-powered license plate camera system made by Flock Safety — has been crucial to this drop in car crime.\" How much credit does Flock ac",
-      "published": "2026-10-04T16:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "FSF Sponsors 'GNU Boot', a Libre, Ethical Replacement for Nonfree BIOS Or UEFI",
-      "url": "https://news.slashdot.org/story/26/10/03/1713227/fsf-sponsors-gnu-boot-a-libre-ethical-replacement-for-nonfree-bios-or-uefi?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Free your BIOS today!\" urges the web page for GNU Boot, calling it \"a 100% free software project aimed at replacing the nonfree boot software (like BIOS or UEFI) of computers with free boot software. GNU Boot is only a distribution: it reuses existing software projects like Coreboot, GRUB, SeaBIOS, etc. So it's not very different from 100% free GNU/Linux distributions like Trisquel or Guix. Last month the Free Software Foundation announced they'd fiscally sponsor the project: \"The BIOS is a del",
-      "published": "2026-10-04T15:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "summary": "871 points · 390 comments",
-      "published": "2026-10-04T12:51:53+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Anthropic asks Claude users to share voice data for AI model training",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
@@ -384,11 +426,18 @@
       "published": "2026-10-04T10:53:21+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "U.S. CISA adds Fortinet FortiMail flaw to its Known Exploited Vulnerabilities catalog",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wxce8k/us_cisa_adds_fortinet_fortimail_flaw_to_its_known/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-04T10:26:52+00:00"
+      "source": "HACKER NEWS",
+      "title": "Show HN: Nightwatch – a Mac menu-bar app that tells you when tonight is clear",
+      "url": "https://github.com/rsutcliffe/nightwatch",
+      "summary": "63 points · 9 comments",
+      "published": "2026-10-04T09:31:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Using Blu-ray M-Disk as Backup of Last Resort",
+      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
+      "summary": "18 points · 13 comments",
+      "published": "2026-10-04T08:03:24+00:00"
     },
     {
       "source": "OSINT",
@@ -406,27 +455,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "summary": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
-      "published": "2026-10-03T23:12:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "We ported the original Doom to SQL",
-      "url": "https://cedardb.com/blog/sqldoom/",
-      "summary": "237 points · 38 comments",
-      "published": "2026-10-03T22:14:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "summary": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
-      "published": "2026-10-03T19:09:38+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
       "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
       "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
@@ -441,10 +469,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Type Safe Generic Data Structures in C",
-      "url": "https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/",
-      "summary": "82 points · 27 comments",
-      "published": "2026-10-03T11:57:20+00:00"
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "url": "https://cses.fi/book/book.pdf",
+      "summary": "73 points · 16 comments",
+      "published": "2026-10-03T13:24:01+00:00"
     },
     {
       "source": "OSINT",
@@ -454,32 +482,11 @@
       "published": "2026-10-03T11:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-      "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-      "summary": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory. The gateway is the service that connects a GitLab instance to AI models, and only organizations that host their own gateway need to act. The flaw is fixed in gateway versions 19.2.4, 19.3.2, and 19.4.1. The flaw",
-      "published": "2026-10-02T17:33:31+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Martian chaos terrain",
-      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-      "summary": "30 points · 5 comments",
-      "published": "2026-10-02T01:11:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Differences Between `Foldl` and `Foldr`",
-      "url": "https://blog.haskell.org/foldl-and-foldr/",
-      "summary": "69 points · 11 comments",
-      "published": "2026-10-01T04:58:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Beating the Compiler",
-      "url": "https://www.mattkeeter.com/blog/2024-07-12-interpreter/",
-      "summary": "5 points · 0 comments",
-      "published": "2026-10-01T04:36:10+00:00"
+      "title": "How to save a life without knowing CPR",
+      "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
+      "summary": "53 points · 37 comments",
+      "published": "2026-10-02T20:33:26+00:00"
     },
     {
       "source": "OSINT",
