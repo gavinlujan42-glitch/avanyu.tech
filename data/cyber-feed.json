@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T02:26:46.912795+00:00",
+  "updated": "2026-10-06T09:18:31.753055+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -28,31 +28,87 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Looks like ASOS in the UK just got breached again",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyxsx7/looks_like_asos_in_the_uk_just_got_breached_again/",
+      "summary": "My partner just got a push notification https://i.ibb.co/35Gt5zXQ/signal-2026-10-06-09-59-02-887.jpg Apparently their Snowflake instance is compromised and they have access to push notifications too submitted by /u/ansibleloop [link] [comments]",
+      "published": "2026-10-06T09:04:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "published": "2026-10-06T08:19:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Linux Backdoor Abuses STUN Protocol, Exploits Dozens of Flaws",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyvzd9/linux_backdoor_abuses_stun_protocol_exploits/",
+      "summary": "submitted by /u/Excellent-Bread4562 [link] [comments]",
+      "published": "2026-10-06T07:01:10+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Old Hearts Become Biologically Younger When Transplanted Into Younger People",
+      "url": "https://science.slashdot.org/story/26/10/06/0419213/old-hearts-become-biologically-younger-when-transplanted-into-younger-people?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "alternative_right shares a report from ScienceAlert: It might be reasonable to think that there's an indelible link between the heart and the body it resides in -- the processes that affect one inevitably affect the other. But a new preprint, uploaded to bioRxiv and yet to be peer-reviewed, suggests that this may only be true up to a point. Take the heart out of the body and put it in a new one, and something incredible happens. The transplanted heart begins to take on the biological age of its ",
+      "published": "2026-10-06T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian disclosed the flaw, CVE-2026-21589, on October 5, rated it 9.3 out of 10, and",
+      "published": "2026-10-06T06:58:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's according to a report from Reuters, citing two sources familiar with the matter. \"To date, our review has determined that the incident occurred as the result of a security failure ​",
+      "published": "2026-10-06T06:56:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5. They used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
+      "published": "2026-10-06T06:00:30+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
+      "published": "2026-10-06T05:22:55+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Texas City Demands $2 Million For Public Records On Flock Usage",
+      "url": "https://news.slashdot.org/story/26/10/06/0010236/texas-city-demands-2-million-for-public-records-on-flock-usage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: As bipartisan backlash against Flock grows, some cities are asking anti-surveillance advocates and media outlets to pay eye-popping fees -- including charging tens of thousands or even millions -- to get information about how police departments are using and potentially abusing AI-enabled camera systems that track every vehicle that passes them. On Monday, the Texas Tribune reported that city officials in a Fort Worth suburb, North Richland ",
+      "published": "2026-10-06T04:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Resurrecting iChat Audio and Video Conferencing",
+      "url": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+      "summary": "45 points · 12 comments",
+      "published": "2026-10-06T03:39:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why Common Lisp is now the best programming language",
+      "url": "https://www.vivienhenz.com/common-lisp",
+      "summary": "155 points · 213 comments",
+      "published": "2026-10-06T02:51:51+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "PSA: if you run mcp-remote 0.1.16–0.1.38, your dependency scanner probably won't tell you about its five CVEs",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wyqza6/psa_if_you_run_mcpremote_01160138_your_dependency/",
       "summary": "Disclosure : the records come from my own research. Five CVE records were published for mcp-remote on Sept 24. CISA has scored four, up to 9.8 . GitHub still lists them as unreviewed advisories with no package attached, and Dependabot doesn't alert on those. There is no fix statement from the maintainer. The check takes a minute: search your MCP client configs, package.json and lockfiles for mcp-remote pinned anywhere from 0.1.16 to 0.1.38. CVE-2026-51994, 51995, 51996, 51997, 52001. submitted b",
       "published": "2026-10-06T02:13:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-      "url": "https://edworkingpapers.com/ai26-1551",
-      "summary": "33 points · 22 comments",
-      "published": "2026-10-06T00:00:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Samon: Designing a Zen Garden Raking Puzzle",
-      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-      "summary": "20 points · 7 comments",
-      "published": "2026-10-05T23:35:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ephemeral Testing",
-      "url": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-      "summary": "35 points · 13 comments",
-      "published": "2026-10-05T23:06:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -70,23 +126,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Worth Building",
-      "url": "https://armstr.ng/writing/worth-building",
-      "summary": "39 points · 30 comments",
-      "published": "2026-10-05T22:59:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "title": "Example.com just launched the biggest redesign in decades",
       "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
-      "summary": "94 points · 58 comments",
+      "summary": "218 points · 138 comments",
       "published": "2026-10-05T22:55:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
       "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-      "summary": "279 points · 162 comments",
+      "summary": "427 points · 309 comments",
       "published": "2026-10-05T22:46:45+00:00"
     },
     {
@@ -98,9 +147,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Global Solar Atlas: summary of solar power potential globally",
+      "url": "https://globalsolaratlas.info/",
+      "summary": "52 points · 34 comments",
+      "published": "2026-10-05T22:37:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Friendship ended with Deno, now Node is my best friend",
       "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-      "summary": "70 points · 15 comments",
+      "summary": "163 points · 88 comments",
       "published": "2026-10-05T22:30:02+00:00"
     },
     {
@@ -114,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Find the flattest route between any two points in SF",
       "url": "https://flattensf.com/",
-      "summary": "115 points · 41 comments",
+      "summary": "196 points · 70 comments",
       "published": "2026-10-05T21:40:50+00:00"
     },
     {
@@ -128,14 +184,14 @@
       "source": "HACKER NEWS",
       "title": "Dust: Pretraining Transformers Without Backpropagation",
       "url": "https://qlabs.sh/research/dust",
-      "summary": "111 points · 19 comments",
+      "summary": "181 points · 43 comments",
       "published": "2026-10-05T21:15:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
       "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-      "summary": "222 points · 163 comments",
+      "summary": "347 points · 231 comments",
       "published": "2026-10-05T21:00:21+00:00"
     },
     {
@@ -160,13 +216,6 @@
       "published": "2026-10-05T20:20:05+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Cyber cards for studying?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyiqx7/cyber_cards_for_studying/",
-      "summary": "Hi all, I've been studying cybersecurity and wanted to make memorising some of the concepts a little more fun. So I started creating cards with fantasy/MTG-style illustrations etc and placed them on cybercards.site. I'd appreciate some feedback from fellow cybersecurity students and professionals. Particularly whether the cards are useful for studying. Cheers! submitted by /u/Eastern_Tart_4988 [link] [comments]",
-      "published": "2026-10-05T20:04:25+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Meta Rushed To Fix Muse 'VM Escape' Vulnerability Soon Before Launch",
       "url": "https://yro.slashdot.org/story/26/10/05/1914252/meta-rushed-to-fix-muse-vm-escape-vulnerability-soon-before-launch?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -177,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Beam: Reflection's 501B open-weight model",
       "url": "https://reflection.ai/blog/introducing-beam",
-      "summary": "321 points · 92 comments",
+      "summary": "444 points · 142 comments",
       "published": "2026-10-05T19:16:35+00:00"
     },
     {
@@ -324,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "Web Search API",
       "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-      "summary": "490 points · 223 comments",
+      "summary": "544 points · 248 comments",
       "published": "2026-10-05T10:47:06+00:00"
     },
     {
@@ -340,13 +389,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
       "summary": "OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]",
       "published": "2026-10-05T10:28:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CPR data breach exposes personal details of 8.8 million people in Denmark",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wy4s3i/cpr_data_breach_exposes_personal_details_of_88/",
-      "summary": "submitted by /u/DerBootsMann [link] [comments]",
-      "published": "2026-10-05T10:09:56+00:00"
     },
     {
       "source": "OSINT",
@@ -377,32 +419,11 @@
       "published": "2026-10-05T08:09:23+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "After Siemens Re-Licenses OpenRadioss, Rocky Linux Announces Open-Source Fork",
-      "url": "https://news.slashdot.org/story/26/10/05/0451252/after-siemens-re-licenses-openradioss-rocky-linux-announces-open-source-fork?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "- In 2022 Altair Engineering open sourced \"OpenRadioss\", an industry-leading finite element solver under the GNU AGPL License, reports Phoronix. - Siemens acquired Altair Engineering last year - Siemens closes access to OpenRadioss. \"Siemens didn't just end the project but they shutdown the GitHub repository that hosted the open-source code and removed other resources that had built around it,\" writes Phoronix, before announcing a new open-source community fork: Radioss has been an industry-lead",
-      "published": "2026-10-05T07:34:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
       "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
       "summary": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
       "published": "2026-10-05T06:40:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Anthropic reported diary entry to police, woman faces felony charge",
-      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-      "summary": "564 points · 475 comments",
-      "published": "2026-10-05T05:37:40+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "FBI Detains Teenager Linked to Group That Stole Data on 5,000 FBI Employees",
-      "url": "https://yro.slashdot.org/story/26/10/05/0355256/fbi-detains-teenager-linked-to-group-that-stole-data-on-5000-fbi-employees?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "PC Magazine reports: In September, the infamous ShinyHunters hacking group claimed it had infiltrated the FBI job recruitment portal, stealing confidential data belonging to 5,000 employees and even changing the FBI logo to its own. The group has been implicated in the hacking of numerous large and high-profile organizations over the years, from the European Commission to Grand Theft Auto-maker Rockstar Games and the software firm behind Canvas. Now, Reuters reports that a suspected leader of th",
-      "published": "2026-10-05T04:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -412,25 +433,11 @@
       "published": "2026-10-05T00:00:53+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-      "summary": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
-      "published": "2026-10-04T21:58:01+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "DEDA – Tracking Dots Extraction, Decoding and Anonymisation Toolkit",
-      "url": "https://github.com/dfd-tud/deda",
-      "summary": "32 points · 4 comments",
-      "published": "2026-10-04T12:09:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Using Blu-ray M-Disk as backup of last resort",
-      "url": "https://smyck.net/2026/10/03/holocron-the-backup-of-last-resort/",
-      "summary": "66 points · 62 comments",
-      "published": "2026-10-04T08:03:24+00:00"
+      "title": "The complement of true is true, except when it's false",
+      "url": "https://dryperspective.github.io/posts/complement-of-true/",
+      "summary": "10 points · 1 comments",
+      "published": "2026-10-04T12:28:55+00:00"
     },
     {
       "source": "OSINT",
@@ -440,53 +447,46 @@
       "published": "2026-10-04T07:22:05+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "url": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "summary": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated prominent economists and AI policymakers, as well as a prominent Anthropic employee, to single out an AI policy expert at a",
-      "published": "2026-10-04T07:20:32+00:00"
+      "source": "HACKER NEWS",
+      "title": "Accountability mechanisms can be joyful (2024)",
+      "url": "https://liquidbrain.net/blog/accountability-and-joy/",
+      "summary": "33 points · 6 comments",
+      "published": "2026-10-04T06:15:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Testing 12 different Zigbee temperature/humidity sensors",
       "url": "https://smarthomescene.com/reviews/best-selling-zigbee-temperature-sensors-tested/",
-      "summary": "38 points · 7 comments",
+      "summary": "110 points · 49 comments",
       "published": "2026-10-04T04:30:46+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "An Algorithmic Failure Beneath the Secret Ballot",
+      "title": "Protect Your Friends and Loved Ones",
+      "url": "https://ephemeral.cx/2026/07/protect-your-friends-and-loved-ones/",
+      "summary": "17 points · 4 comments",
+      "published": "2026-10-03T18:32:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An algorithmic failure beneath the secret ballot",
       "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-      "summary": "31 points · 9 comments",
+      "summary": "77 points · 45 comments",
       "published": "2026-10-03T16:23:07+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-      "url": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-      "summary": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
-      "published": "2026-10-03T14:38:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-      "url": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-      "summary": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and Carbon Black Threat Hunter Team, has hit critical infrastructure, government, and education organizations. \"In the",
-      "published": "2026-10-03T14:36:33+00:00"
+      "source": "HACKER NEWS",
+      "title": "Show HN: Photoc – Command-line tools for photographers",
+      "url": "https://github.com/ahmetomerv/photoc",
+      "summary": "33 points · 5 comments",
+      "published": "2026-10-03T13:42:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Competitive Programmer's Handbook (2018) [pdf]",
       "url": "https://cses.fi/book/book.pdf",
-      "summary": "128 points · 28 comments",
+      "summary": "197 points · 47 comments",
       "published": "2026-10-03T13:24:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
-      "url": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
-      "summary": "Featuring: Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, security is shifting toward continuous visibility, control, and the ability to respond to risk at scale. This report examines how core areas of",
-      "published": "2026-10-03T11:00:00+00:00"
     },
     {
       "source": "OSINT",
