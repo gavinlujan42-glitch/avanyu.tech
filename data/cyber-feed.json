@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T07:04:19.702105+00:00",
+  "updated": "2026-10-07T14:25:01.270556+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,188 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Infostealers are actively hunting AI Agents and developer keys - Warden Infostealer analysis",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzxpdp/infostealers_are_actively_hunting_ai_agents_and/",
+      "summary": "Log extractions (such as a compromised .claude.json file) show the stealer successfully exfiltrating raw primaryApiKey values and detailed OAuth account data tied to Anthropic/Claude accounts. By grabbing these CLI tokens, attackers are bypassing traditional web logins entirely, gaining direct, programmatic access to premium AI models, organizational workspaces, and potentially sensitive source code passing through these tools. submitted by /u/Malwarebeasts [link] [comments]",
+      "published": "2026-10-07T14:16:52+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Europol urges early action to protect cryptocurrencies and sensitive data from quantum threats",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzxlgr/europol_urges_early_action_to_protect/",
+      "summary": "submitted by /u/donutloop [link] [comments]",
+      "published": "2026-10-07T14:12:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Ransomware has a new target. Is your backup ready?",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+      "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
+      "published": "2026-10-07T14:01:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Capital Bank ne rouvrira pas ce mercredi, LockBit menace toujours",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzxaqx/capital_bank_ne_rouvrira_pas_ce_mercredi_lockbit/",
+      "summary": "submitted by /u/lequotidien509 [link] [comments]",
+      "published": "2026-10-07T14:00:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
+      "published": "2026-10-07T13:48:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Introducing Mistral Large 4",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzw6px/introducing_mistral_large_4/",
+      "summary": "> ML4 is one of the world's strongest AI models for cybersecurity. On the Artificial Analysis Cyber Index, an independent evaluation of how well AI models find and fix security flaws in real software, it ranks among the top five models globally and leads open-weight models developed outside China by a wide margin. Their blog talks a lot about the cyber capabilities of their new model. Its quite interesting. submitted by /u/kabakaba0 [link] [comments]",
+      "published": "2026-10-07T13:13:04+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AppSec hire with no mentor: is my external scanning workflow correct, and what should I add next?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzw1j3/appsec_hire_with_no_mentor_is_my_external/",
+      "summary": "I got this new job as an AppSec and I was thrown in the wild with no mentoring so I have to guide myself I guess. Manager gave me a list of IPs. a file that contains 200+ IPs related to company infrastructure along some 100+ URLs for companys apps. This is an automated scan so I'm skipping opening burp and going through each application. first thing I did is run masscan on the list of IPS \"masscan -p1-65535 --rate=1000 -iL ips_list.txt -oG masscan_results.scan\" I want to identify what was runnin",
+      "published": "2026-10-07T13:06:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "House with 15m underground tunnels for sale for 300k",
+      "url": "https://www.readingchronicle.co.uk/news/26612080.house-15m-underground-tunnels-sale-300k/",
+      "summary": "62 points · 73 comments",
+      "published": "2026-10-07T12:57:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+      "url": "https://artmuseum.artfrompixels.com/",
+      "summary": "19 points · 11 comments",
+      "published": "2026-10-07T12:51:08+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+      "summary": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+      "published": "2026-10-07T12:49:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "summary": "56 points · 39 comments",
+      "published": "2026-10-07T12:28:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "summary": "34 points · 26 comments",
+      "published": "2026-10-07T12:04:36+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+      "url": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+      "summary": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens. For years, the enterprise cybersecurity story has been told as a straight line of escalation: more attacks, more data loss, more pressure, and more urgency. That",
+      "published": "2026-10-07T11:57:05+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+      "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL) virtual private network (VPN) gateways. \"The campaign exploits reused or leaked credentials and legacy SHA-256 password storage, enabling threat",
+      "published": "2026-10-07T11:56:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+      "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+      "summary": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions. The arbitrary file access flaw, tracked as CVE-2026-21589 (CVSS score: 9.3) affects multiple products, including Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software",
+      "published": "2026-10-07T11:49:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+      "url": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+      "summary": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would. That promise is worth taking seriously. It’s also worth pressure testing, and three questions do the heavy lifting. What can the assessment actually",
+      "published": "2026-10-07T11:42:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+      "summary": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+      "published": "2026-10-07T11:37:07+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "I'm tired of contract roles.. how do I get out?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzu5py/im_tired_of_contract_roles_how_do_i_get_out/",
+      "summary": "I feel like every role I've gotten in cybersecurity has been a contract role, and I'm tired of being stuck in that cycle. Having worked as both an L1 and L2 SOC analyst, I'm thinking I should leave the SOC entirely. I want PTO, somewhat decent benefits, and good pay. What would you recommend I transition to after the SOC that can offer those qualities? Also, for those of you with experience: are there any industry sectors to avoid because of their high contracting rate?\" submitted by /u/Eduardos",
+      "published": "2026-10-07T11:34:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Shipping JPEG XL in Chrome",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "summary": "213 points · 114 comments",
+      "published": "2026-10-07T11:25:02+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Francis Halzen Wins Nobel Physics Prize For Antarctic 'Ghost Particle' Hunt",
+      "url": "https://slashdot.org/story/26/10/07/0336250/francis-halzen-wins-nobel-physics-prize-for-antarctic-ghost-particle-hunt?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "University of Wisconsin-Madison physicist Francis Halzen has been awarded the 2026 Nobel Prize in Physics for his contributions to understanding astrophysical neutrinos. Halzen led the development of the IceCube Neutrino Observatory beneath the Antarctic ice, which has helped trace high-energy neutrinos back to cosmic sources such as supermassive black holes and opened a new era of \"multi-messenger\" astronomy. Longtime Slashdot reader schwit1 shares a report from UW-Madison: Embedded in a cubic ",
+      "published": "2026-10-07T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+      "url": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+      "summary": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
+      "published": "2026-10-07T10:35:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Advantest confirms personal information stolen in ransomware attack",
+      "url": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+      "summary": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+      "published": "2026-10-07T10:27:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "summary": "148 points · 16 comments",
+      "published": "2026-10-07T09:51:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "summary": "210 points · 37 comments",
+      "published": "2026-10-07T09:17:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+      "url": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+      "summary": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing initiative uncovered at least 129,000 verified software vulnerabilities between April and July 2026. The company said it also found an additional",
+      "published": "2026-10-07T08:07:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Atlassian’s critical flaw turns eight enterprise products into one big security problem",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzqprw/atlassians_critical_flaw_turns_eight_enterprise/",
+      "summary": "submitted by /u/DerBootsMann [link] [comments]",
+      "published": "2026-10-07T07:57:23+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Google Enters Massive 3.6-GW Power Deal With Constellation Energy",
       "url": "https://hardware.slashdot.org/story/26/10/06/219233/google-enters-massive-36-gw-power-deal-with-constellation-energy?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -34,25 +216,18 @@
       "published": "2026-10-07T07:00:00+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+      "url": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer). The activity, which was observed by the agency in September 2026, has been attributed to a threat cluster dubbed UAC-0277. It did not disclose who the",
+      "published": "2026-10-07T06:57:54+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Shaders, WebGPU Components for React, Vue, Svelte, Solid, JavaScript and Framer",
       "url": "https://github.com/shader-effects-inc/shaders",
-      "summary": "11 points · 3 comments",
+      "summary": "51 points · 25 comments",
       "published": "2026-10-07T05:38:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Calling It Quits on ServerFault",
-      "url": "https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml",
-      "summary": "63 points · 28 comments",
-      "published": "2026-10-07T04:22:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The art of defusing a second world war bomb",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/06/it-could-knock-a-whole-street-down-the-art-of-defusing-a-second-world-war-bomb",
-      "summary": "22 points · 5 comments",
-      "published": "2026-10-07T03:43:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -63,52 +238,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
-      "summary": "38 points · 9 comments",
-      "published": "2026-10-07T03:16:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Small sites have no defence against misbehaving AI agents. Is a drop-in \"Agent Defence Kit\" useful, or does this already exist?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzkosl/small_sites_have_no_defence_against_misbehaving/",
-      "summary": "After the July incident where AI agents escaped a test sandbox and broke into Hugging Face, I keep thinking about the other side: the same kind of thing done by a single person's agent against a small business or personal site, where nobody has a security team and nobody would notice. The idea is a free, open-source, drop-in kit (WordPress plugin, framework middleware, Docker image) that is strictly passive: - unique bait files and fake credentials shaped like the \"shortcuts\" goal-driven agents ",
-      "published": "2026-10-07T02:02:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Strands Decider 2B: a small, open-source, decision model",
       "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "summary": "130 points · 25 comments",
+      "summary": "235 points · 67 comments",
       "published": "2026-10-07T02:02:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "ESP32-C3 Adblock",
       "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "summary": "61 points · 17 comments",
+      "summary": "149 points · 59 comments",
       "published": "2026-10-07T01:39:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "summary": "26 points · 6 comments",
-      "published": "2026-10-07T01:27:49+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cybersecurity and Third-Party Risk in Banking",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wzisio/cybersecurity_and_thirdparty_risk_in_banking/",
-      "summary": "I’m currently learning more about cybersecurity in the financial sector, especially how large banks manage third-party risks. With banks relying on outside vendors, cloud services, and contractors, it seems like one weak third party could potentially create a security risk for the entire organization. For those who work in cybersecurity, what do you think is the biggest challenge banks face when trying to monitor and secure third-party vendors? Are there certain security practices that you think",
-      "published": "2026-10-07T00:28:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-      "url": "https://github.com/boykopovar/AnyPS5",
-      "summary": "211 points · 167 comments",
-      "published": "2026-10-06T23:28:08+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -121,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "summary": "775 points · 707 comments",
+      "summary": "1068 points · 1105 comments",
       "published": "2026-10-06T22:17:21+00:00"
     },
     {
@@ -130,13 +270,6 @@
       "url": "https://slashdot.org/story/26/10/06/2055209/hubspot-cuts-660-jobs-in-ai-restructuring?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "HubSpot is cutting about 7% of its workforce, or roughly 660 employees, as it restructures into what CEO Yamini Rangan described as a \"flatter organization\" with fewer management layers. Rangan said the layoffs were \"not driven by AI-related efficiencies,\" though AI remains central to HubSpot's strategy as the company adjusts its organization around AI-driven customer outcomes. Fast Company reports: The layoffs come as investors have spent months questioning whether AI will reduce the need for b",
       "published": "2026-10-06T22:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "summary": "148 points · 79 comments",
-      "published": "2026-10-06T21:59:43+00:00"
     },
     {
       "source": "OSINT",
@@ -156,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Decisions API is in public beta",
       "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "summary": "244 points · 111 comments",
+      "summary": "361 points · 200 comments",
       "published": "2026-10-06T20:57:25+00:00"
     },
     {
@@ -209,13 +342,6 @@
       "published": "2026-10-06T18:09:40+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "summary": "173 points · 91 comments",
-      "published": "2026-10-06T18:00:34+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Licensing Costs Driving 90% of VMware Users To Explore Options, Survey Finds",
       "url": "https://slashdot.org/story/26/10/06/1649245/licensing-costs-driving-90-of-vmware-users-to-explore-options-survey-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -228,13 +354,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
       "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
       "published": "2026-10-06T17:34:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "You Won’t Hear About These, Even In Myths (Atlassian Jira, Confluence (and more) Pre-Auth Arbitrary File Read CVE-2026-21589) - watchTowr Labs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wz839l/you_wont_hear_about_these_even_in_myths_atlassian/",
-      "summary": "submitted by /u/dx7r__ [link] [comments]",
-      "published": "2026-10-06T17:07:11+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -252,23 +371,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Treg (OpenRouter for Tools)",
-      "url": "https://github.com/superdesigndev/treg",
-      "summary": "18 points · 3 comments",
-      "published": "2026-10-06T16:29:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "summary": "275 points · 331 comments",
-      "published": "2026-10-06T16:23:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "summary": "296 points · 31 comments",
+      "summary": "379 points · 38 comments",
       "published": "2026-10-06T16:03:49+00:00"
     },
     {
@@ -286,13 +391,6 @@
       "published": "2026-10-06T15:16:44+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wz5746/exploitation_of_citrix_netscaler_zeroday_hits/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-06T15:14:56+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Cable Lobby To Sue Trump FCC Over Repeal of National TV Ownership Cap",
       "url": "https://yro.slashdot.org/story/26/10/06/0452228/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -307,13 +405,6 @@
       "published": "2026-10-06T14:25:43+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Japan Hands Over 'Qilin' Ransomware Group Member to Germany",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wz3fxx/japan_hands_over_qilin_ransomware_group_member_to/",
-      "summary": "submitted by /u/Baller2908 [link] [comments]",
-      "published": "2026-10-06T14:03:39+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "How to secure RMM software: 8 controls MSPs should test",
       "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
@@ -322,16 +413,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "What Is Codemode",
-      "url": "https://lucumr.pocoo.org/2026/10/6/codemode/",
-      "summary": "58 points · 16 comments",
-      "published": "2026-10-06T13:41:03+00:00"
+      "title": "Southern Olive Oil",
+      "url": "https://ambrook.com/offrange/supply-chain/southern-olive-oil",
+      "summary": "4 points · 0 comments",
+      "published": "2026-10-06T13:40:03+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4/\\",
-      "summary": "1721 points · 1015 comments",
+      "summary": "1923 points · 1158 comments",
       "published": "2026-10-06T13:15:49+00:00"
     },
     {
@@ -363,27 +454,6 @@
       "published": "2026-10-06T11:02:30+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "OpenAI Is Adding Text Watermarking In ChatGPT and Codex",
-      "url": "https://slashdot.org/story/26/10/06/0443237/openai-is-adding-text-watermarking-in-chatgpt-and-codex?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenAI is rolling out an invisible, machine-readable text watermark called textGrain to ChatGPT and Codex, \"but only for users in the European Union at first,\" reports The Verge. From the report: OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU's AI Act; however, not everyone was h",
-      "published": "2026-10-06T11:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Asos data breached, hackers sent users threatening messages",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyz15m/asos_data_breached_hackers_sent_users_threatening/",
-      "summary": "submitted by /u/Cybernews_com [link] [comments]",
-      "published": "2026-10-06T10:23:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "summary": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-      "published": "2026-10-06T09:25:50+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
       "url": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
@@ -391,60 +461,11 @@
       "published": "2026-10-06T09:21:47+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Looks like ASOS in the UK just got breached again",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wyxsx7/looks_like_asos_in_the_uk_just_got_breached_again/",
-      "summary": "My partner just got a push notification https://i.ibb.co/35Gt5zXQ/signal-2026-10-06-09-59-02-887.jpg Apparently their Snowflake instance is compromised and they have access to push notifications too submitted by /u/ansibleloop [link] [comments]",
-      "published": "2026-10-06T09:04:49+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-      "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-      "summary": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
-      "published": "2026-10-06T08:19:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-      "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-      "summary": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian disclosed the flaw, CVE-2026-21589, on October 5, rated it 9.3 out of 10, and",
-      "published": "2026-10-06T06:58:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-      "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's according to a report from Reuters, citing two sources familiar with the matter. \"To date, our review has determined that the incident occurred as the result of a security failure ​",
-      "published": "2026-10-06T06:56:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-      "url": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-      "summary": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5. They used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
-      "published": "2026-10-06T06:00:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-      "url": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-      "summary": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
-      "published": "2026-10-06T05:22:55+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-      "summary": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
-      "published": "2026-10-05T22:46:33+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-      "summary": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-      "published": "2026-10-05T20:20:05+00:00"
+      "source": "HACKER NEWS",
+      "title": "Mallet Head Angle",
+      "url": "http://www.timberframe-tools.com/tools/mallet-head-angle/",
+      "summary": "10 points · 0 comments",
+      "published": "2026-10-06T03:29:20+00:00"
     },
     {
       "source": "REDDIT",
@@ -452,27 +473,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1wyeo4u/hi_reddit_were_jeff_crume_and_guido_crucq_from/",
       "summary": "Hi Reddit! 👋 I'm Jeff Crume , Distinguished Engineer and Master Inventor at IBM Security. For over 44 years, I've worked across cybersecurity, cryptography, software engineering, and emerging technologies. You may also know me from the IBM Technology YouTube channel , where I help break down complex security topics for a broad audience. I've spent much of my career helping organizations understand evolving cyber threats and how to better defend against them. In addition to this, I’m currently an",
       "published": "2026-10-05T17:29:37+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-      "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-      "summary": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
-      "published": "2026-10-05T17:19:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-      "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-      "summary": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a",
-      "published": "2026-10-05T16:21:52+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-      "summary": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook. There are actively exploited bugs in the mix, cleaner intrusion paths, smarter automation, and a long patch list waiting behind them. Some attacks are getting more capable. Others",
-      "published": "2026-10-05T14:20:43+00:00"
     },
     {
       "source": "REDDIT",
@@ -483,10 +483,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The cost of lies: A Mineserver story",
-      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
-      "summary": "77 points · 29 comments",
-      "published": "2026-10-04T05:17:12+00:00"
+      "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+      "url": "https://astrohelm.app/",
+      "summary": "50 points · 14 comments",
+      "published": "2026-10-04T14:01:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Rust's derive often implies inline",
+      "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
+      "summary": "59 points · 8 comments",
+      "published": "2026-10-04T01:27:02+00:00"
     },
     {
       "source": "OSINT",
@@ -550,13 +557,6 @@
       "url": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
       "summary": "A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake. Connor Riley Moucka, of Kitchener, Ontario, also admitted to stealing call and text history records of more than 100 million AT&T customers.",
       "published": "2026-08-06T17:00:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
-      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
-      "published": "2026-07-30T16:49:00+00:00"
     }
   ]
 }
