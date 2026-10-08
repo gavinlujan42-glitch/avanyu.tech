@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-07T20:05:56.590074+00:00",
-  "item_count": 75,
+  "updated": "2026-10-08T00:07:47.367400+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,18 +27,60 @@
   ],
   "items": [
     {
-      "source": "HACKER NEWS",
-      "title": "The Mathocalypse",
-      "url": "https://scottaaronson.blog/?p=10169",
-      "summary": "6 points · 0 comments",
-      "published": "2026-10-07T19:33:40+00:00"
+      "source": "OSINT",
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "summary": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "published": "2026-10-07T23:04:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google, Unity Launch Platform To Create Video Games From Prompts",
+      "url": "https://games.slashdot.org/story/26/10/07/1640219/google-unity-launch-platform-to-create-video-games-from-prompts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Bloomberg: Alphabet's Google and gaming tools developer Unity Software announced a new platform that will allow people to create video games from simple text prompts, marking the latest incursion of generative artificial intelligence into artistic and creative industries. The initiative, called Playground, will \"put game creation in the hands of millions of new creators, and bring new experiences to billions of players worldwide,\" the companies said in a ",
+      "published": "2026-10-07T23:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Working at Crowdstrike on Falcon Complete",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x09s5g/working_at_crowdstrike_on_falcon_complete/",
+      "summary": "Hey all, Im wondering if anyone has any insights about what its like working at crowdstrike, either in general or on falcon Complete. I'd be coming from a smaller cyber company where my title is considered more prestigious than a base falcon complete analyst, but id be getting a lot more opportunities to learn different things. How crazy is it working for FC? Are team members properly supported? People who work at CS, or used to, do you like it? has it been good for your career? tia submitted by",
+      "published": "2026-10-07T22:04:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "summary": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "published": "2026-10-07T21:28:54+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "ICANN Reveals 2026 Round Applications for New Generic Top-Level Domains",
-      "url": "https://www.icann.org/en/announcements/details/icann-reveals-2026-round-applications-for-new-generic-top-level-domains-07-10-2026-en",
-      "summary": "10 points · 11 comments",
-      "published": "2026-10-07T19:01:45+00:00"
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "summary": "433 points · 44 comments",
+      "published": "2026-10-07T21:16:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "summary": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+      "published": "2026-10-07T20:50:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "I made a Clock App in PowerShell because I'm tired of doing time zone math during an IR at night.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x07pru/i_made_a_clock_app_in_powershell_because_im_tired/",
+      "summary": "It's 11pm, you're parsing through mountains of logs. There's yet another tool someone remembered, and they have the logs exported. The time zone is in PT or ET, or something that isn't UTC. You are tired and questioning your life choices because this thing is not in UTC and now you need to convert the time zone in your head. I made a simple Clock app to make my life easier. I'm sharing it in the hopes it helps others. It uses no external dependancies. It uses no third-party libraries. It just us",
+      "published": "2026-10-07T20:42:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "summary": "18 points · 3 comments",
+      "published": "2026-10-07T20:01:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -49,9 +91,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Meta and Microsoft Limit Employee Use of Claude AI Tools",
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
       "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-      "summary": "74 points · 64 comments",
+      "summary": "252 points · 246 comments",
       "published": "2026-10-07T18:49:40+00:00"
     },
     {
@@ -63,30 +105,37 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Push Ifs Up and Fors Down: The Idiom, Its Algebra, and Its Limits",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
       "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
-      "summary": "25 points · 1 comments",
+      "summary": "92 points · 43 comments",
       "published": "2026-10-07T18:43:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Claude Haiku 5.5",
       "url": "https://www.anthropic.com/claude-haiku-5-5",
-      "summary": "364 points · 171 comments",
+      "summary": "634 points · 319 comments",
       "published": "2026-10-07T18:01:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GPT‑6 and Intelligent UI for everyone",
       "url": "https://openai.com/index/gpt-6-for-everyone/",
-      "summary": "259 points · 124 comments",
+      "summary": "467 points · 238 comments",
       "published": "2026-10-07T18:00:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "In Vienna and Beijing, the first (thorium) nuclear clocks begin to tick",
+      "url": "https://www.nytimes.com/2026/10/07/science/first-nuclear-clocks-thorium-229.html",
+      "summary": "8 points · 1 comments",
+      "published": "2026-10-07T17:59:34+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Docker Agent",
       "url": "https://github.com/docker/docker-agent",
-      "summary": "72 points · 27 comments",
+      "summary": "164 points · 77 comments",
       "published": "2026-10-07T17:48:38+00:00"
     },
     {
@@ -95,13 +144,6 @@
       "url": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
       "summary": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts. The campaign has been codenamed MALFEX by CloudSEK and Checkmarx. The activity is assessed to be the work of a lone threat actor who appears to have published 12 packages since August 2023, eight of which have",
       "published": "2026-10-07T17:43:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
-      "url": "https://agent.reviews/",
-      "summary": "15 points · 15 comments",
-      "published": "2026-10-07T16:59:11+00:00"
     },
     {
       "source": "REDDIT",
@@ -135,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
       "url": "https://bigwords.page/",
-      "summary": "187 points · 67 comments",
+      "summary": "323 points · 103 comments",
       "published": "2026-10-07T15:44:21+00:00"
     },
     {
@@ -161,23 +203,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "ShinyHunters Extorted Boeing Spin-Off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "summary": "51 points · 13 comments",
-      "published": "2026-10-07T15:15:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
-      "summary": "355 points · 211 comments",
-      "published": "2026-10-07T15:09:59+00:00"
+      "title": "Navier–Stokes Lost in Translation",
+      "url": "https://arxiv.org/abs/2610.08144",
+      "summary": "237 points · 150 comments",
+      "published": "2026-10-07T15:24:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Animated ASCII Art for Web Pages",
       "url": "https://ascii.rest/",
-      "summary": "195 points · 51 comments",
+      "summary": "274 points · 56 comments",
       "published": "2026-10-07T15:05:37+00:00"
     },
     {
@@ -209,18 +244,18 @@
       "published": "2026-10-07T14:12:21+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "AI-assisted proof of optimal packing for 11 squares",
-      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-      "summary": "88 points · 41 comments",
-      "published": "2026-10-07T14:10:55+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ransomware has a new target. Is your backup ready?",
       "url": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
       "summary": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot easily reach. [...]",
       "published": "2026-10-07T14:01:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
+      "published": "2026-10-07T13:48:45+00:00"
     },
     {
       "source": "REDDIT",
@@ -282,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Shipping JPEG XL in Chrome",
       "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
-      "summary": "406 points · 263 comments",
+      "summary": "472 points · 304 comments",
       "published": "2026-10-07T11:25:02+00:00"
     },
     {
@@ -308,16 +343,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-      "summary": "262 points · 47 comments",
-      "published": "2026-10-07T09:51:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "A font recreated from photographs of classic Commodore 64 keycaps",
       "url": "https://github.com/szabadkai/c64-keyboard-font/",
-      "summary": "349 points · 59 comments",
+      "summary": "374 points · 62 comments",
       "published": "2026-10-07T09:17:55+00:00"
     },
     {
@@ -419,13 +447,6 @@
       "published": "2026-10-06T18:38:55+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Accenture is not only still around... they screwed up the FBI's cybersecurity",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wz9pze/accenture_is_not_only_still_around_they_screwed/",
-      "summary": "Accenture was a name from the .dot com era. They had QUITE a reputation back then. it's amazing they were in charge of these levers... submitted by /u/WeekendAtMadoffs [link] [comments]",
-      "published": "2026-10-06T18:09:40+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Licensing Costs Driving 90% of VMware Users To Explore Options, Survey Finds",
       "url": "https://slashdot.org/story/26/10/06/1649245/licensing-costs-driving-90-of-vmware-users-to-explore-options-survey-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -433,53 +454,39 @@
       "published": "2026-10-06T18:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-      "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-      "summary": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
-      "published": "2026-10-06T17:34:59+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Mistral Unveils New 'Le Chonk' AI Model It Says Rivals Best Open Systems From China",
-      "url": "https://news.slashdot.org/story/26/10/06/1614205/mistral-unveils-new-le-chonk-ai-model-it-says-rivals-best-open-systems-from-china?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Mistral has unveiled Mistral Large 4, or \"le Chonk,\" a 1-trillion-parameter model that it says is the strongest open-weight AI model developed outside China by a wide margin. The model is entering preview for developers, cybersecurity teams and governments before a broader release later this month. CNBC reports: ML4 was trained on 4,000 Nvidia Grace Blackwell GPUs over two months that were deployed in Mistral's own data centers in Europe. When its core parameters are released, ML4 will rank amon",
-      "published": "2026-10-06T17:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-      "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-      "summary": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
-      "published": "2026-10-06T16:33:54+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "How machines learned precision",
       "url": "https://glinscott.github.io/how-machines-learned-precision/",
-      "summary": "24 points · 8 comments",
+      "summary": "94 points · 42 comments",
       "published": "2026-10-06T16:14:42+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-      "summary": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-      "published": "2026-10-06T15:16:44+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Google and McKinsey brought back mandatory in-person interviews because AI deepfake fraud got too hard to catch on video.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1wz3z0j/google_and_mckinsey_brought_back_mandatory/",
-      "summary": "Two of the most recognizable names in hiring quietly reversed their remote-first interview policies this year. Not because of productivity concerns or culture, but because deepfake candidates became too convincing to reliably detect over video. A CBS News study found that 50% of businesses have already encountered AI-driven deepfake fraud in some form. The tools to fake a face, alter a voice, and fabricate a work history are cheap, widely available, and improving fast. The companies with resourc",
-      "published": "2026-10-06T14:25:43+00:00"
+      "source": "HACKER NEWS",
+      "title": "If somebody tries to hot-patch an already-hot-patched function",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261005-00/?p=112755/",
+      "summary": "31 points · 7 comments",
+      "published": "2026-10-06T13:39:59+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Wood Tape (2004)",
-      "url": "http://gamesbyemail.com/WoodTape/Default.htm",
-      "summary": "108 points · 12 comments",
-      "published": "2026-10-06T04:25:41+00:00"
+      "title": "Brownian Motion",
+      "url": "https://gregorygundersen.com/blog/2026/04/22/brownian-motion/",
+      "summary": "23 points · 0 comments",
+      "published": "2026-10-06T11:11:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "summary": "35 points · 30 comments",
+      "published": "2026-10-05T19:07:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A new write and space optimized storage engine for MySQL is here",
+      "url": "https://tidesdb.com/articles/tidesdb-now-available-for-mysql/",
+      "summary": "14 points · 1 comments",
+      "published": "2026-10-05T11:40:15+00:00"
     },
     {
       "source": "REDDIT",
