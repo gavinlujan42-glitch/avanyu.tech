@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10T19:57:36.994303+00:00",
-  "item_count": 76,
+  "updated": "2026-10-10T23:23:11.630813+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,10 +27,66 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Nicolas Cage Didn't Sign Amazon's AI Waiver For 'Spider-Noir'. Series Cancelled.",
+      "url": "https://entertainment.slashdot.org/story/26/10/10/2221212/nicolas-cage-didnt-sign-amazons-ai-waiver-for-spider-noir-series-cancelled?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Nicolas Cage is speaking out against Amazon,\" reports Variety. Amazon developed the series Spider-Noir for Prime Video, but then allegedly asked Cage to sign an AI waiver: \"Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI,\" Cage said Saturday during a panel on the Empire Stage at New York Comic Con. \"I am not an AI-friendly actor, so it's like, connect those dots! I'm not a member of their club. I didn't sign the waiver to let him use AI on 'Spider-Noir.' I'm ",
+      "published": "2026-10-10T22:59:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "summary": "5 points · 0 comments",
+      "published": "2026-10-10T22:50:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "NIST RMF: Risk management or bureaucracy?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2s0kk/nist_rmf_risk_management_or_bureaucracy/",
+      "summary": "I'll be honest: the RMF (NIST SP 800-37) confuses me, and I'm starting to think it's a bureaucracy monster wearing a \"risk management\" costume. My org wants us to work risk-based and enable the business, not block it. At the same time, we're supposed to apply the RMF. But the RMF's whole point is formal authorization – an ATO. That's the opposite of enabling, that's gating. Context: our IT is immature and chaotic. Most software is purchased (COTS), implemented by external contractors, poorly pla",
+      "published": "2026-10-10T22:33:49+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Ubuntu 26.10 Will Offer a Rust-based GnuPG Replacement Option",
+      "url": "https://linux.slashdot.org/story/26/10/10/2155227/ubuntu-2610-will-offer-a-rust-based-gnupg-replacement-option?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The blog It's FOSS reports: You already know that Canonical has been selectively replacing Ubuntu's C-based system components with Rust-written equivalents that don't compromise in terms of functionality, most of the time. Now it looks like the distro's OpenPGP implementation is next, with Sequoia PGP coming preinstalled in Ubuntu 26.10. Canonical wants it to eventually replace GnuPG [the dominant Linux implementation of PGP, written in C] as the default toolchain, though that switch has not hap",
+      "published": "2026-10-10T21:59:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2qksq/cyber_exec_arrested_in_case_allegedly_tied_to/",
+      "summary": "submitted by /u/Dash-Courageous [link] [comments]",
+      "published": "2026-10-10T21:27:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2pyxq/fbi_arrests_executive_at_ransomware_negotiation/",
+      "summary": "The FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation. Edward Dubrovsky was arrested in the Philadelphia area in recent days and appeared in federal court there Thursday, where a magistrate judge appointed a federal public defender to represent him. Dubrovsky is facing charges related to extorti",
+      "published": "2026-10-10T21:00:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "summary": "92 points · 39 comments",
+      "published": "2026-10-10T20:31:50+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Claude Sent Police a Fake Murder Tip. White House Mandates AI Companies Report Security Incidents",
+      "url": "https://slashdot.org/story/26/10/10/1951219/claude-sent-police-a-fake-murder-tip-white-house-mandates-ai-companies-report-security-incidents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "AFP reports that an AI model from Anthropic \"submitted a fabricated tip about an unsolved homicide to Philadelphia police, authorities said Friday.\" Claude \"was instructed never to log in, create accounts, enter personal data, make purchases, or submit anything destructive, but the instructions did not rule out form submissions,\" Anthropic said Friday in a blog post. Authorities are now criticizing Anthropic \"for taking two months to report the incident.\" The Philadelphia Police Department said ",
+      "published": "2026-10-10T19:54:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "summary": "37 points · 18 comments",
+      "summary": "96 points · 63 comments",
       "published": "2026-10-10T18:48:35+00:00"
     },
     {
@@ -42,16 +98,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Vibe coded browser ports of Halo, The Simpsons: Hit And Run, GTA work well",
-      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-      "summary": "48 points · 31 comments",
-      "published": "2026-10-10T18:11:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Why DuckDB 2.0 is faster",
       "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "summary": "20 points · 2 comments",
+      "summary": "110 points · 34 comments",
       "published": "2026-10-10T18:08:49+00:00"
     },
     {
@@ -60,13 +109,6 @@
       "url": "https://yro.slashdot.org/story/26/10/09/2251259/another-woman-sues-flock-for-mistaken-crime-accusation-by-police---and-for-surveillance?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Last week a Florida woman sued Flock over its role in police officer accusing her of a crime she didn't commit But she's not the only one suing Flock over mistaken accusations, reports Gizmodo: . A Ring video of a Colorado woman being handed a criminal summons for a porch-package theft she did not commit recently went viral after the accusation rested on a Flock Safety automated license plate reader hit. Now, the woman involved in that case, Chrisanna Elser, is suing Flock Group, the towns of Co",
       "published": "2026-10-10T17:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "INTERVIEW Questions to expect for 4.5 YOE AWS Cloud Security Engineer in INDIA",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2jpsi/interview_questions_to_expect_for_45_yoe_aws/",
-      "summary": "submitted by /u/Full_Conflict_4080 [link] [comments]",
-      "published": "2026-10-10T16:37:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -79,29 +121,15 @@
       "source": "HACKER NEWS",
       "title": "Knuth reward check",
       "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "summary": "90 points · 34 comments",
+      "summary": "127 points · 47 comments",
       "published": "2026-10-10T15:47:01+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How safe is it to use vibe-coded open souce code? GetArtCraft?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2i6m5/how_safe_is_it_to_use_vibecoded_open_souce_code/",
-      "summary": "I saw a reel on Instagram talking about GetArtCraft open-source programs that mimic Adobe's products. I, somewhat ironically, raised the question of security and threats under the hood, but I got completely trashed in the comments because the mere doubt that these clones might contain some threat. I noticed that most kids associate open source with secure, merely because of peer review. Although I believe it's a strong point, one should not forget about that time when Linux almost got breached i",
-      "published": "2026-10-10T15:33:21+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
-      "published": "2026-10-10T15:07:54+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Bitwarden Dual License Model",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "summary": "277 points · 207 comments",
-      "published": "2026-10-10T14:32:50+00:00"
+      "title": "Unikernels were hard. key word: were",
+      "url": "https://ghuntley.com/unikernels/",
+      "summary": "69 points · 31 comments",
+      "published": "2026-10-10T14:27:09+00:00"
     },
     {
       "source": "OSINT",
@@ -149,14 +177,14 @@
       "source": "HACKER NEWS",
       "title": "Apple/macOS removed from official Unix registry",
       "url": "https://www.opengroup.org//openbrand/register/",
-      "summary": "186 points · 173 comments",
+      "summary": "232 points · 210 comments",
       "published": "2026-10-10T10:57:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
-      "summary": "199 points · 101 comments",
+      "summary": "228 points · 114 comments",
       "published": "2026-10-10T10:52:09+00:00"
     },
     {
@@ -191,15 +219,8 @@
       "source": "HACKER NEWS",
       "title": "The Lightbulb Computer",
       "url": "https://lightbulbcomputer.com/",
-      "summary": "30 points · 9 comments",
+      "summary": "156 points · 38 comments",
       "published": "2026-10-10T04:12:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-      "summary": "359 points · 197 comments",
-      "published": "2026-10-10T03:02:47+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -219,28 +240,21 @@
       "source": "HACKER NEWS",
       "title": "REA Reverse – Engineer Anything",
       "url": "https://rea.tools/",
-      "summary": "634 points · 272 comments",
+      "summary": "673 points · 295 comments",
       "published": "2026-10-10T00:37:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
-      "published": "2026-10-10T00:17:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How strong is the strong interaction?",
       "url": "https://cerncourier.com/how-strong-is-the-strong-interaction/",
-      "summary": "22 points · 1 comments",
+      "summary": "41 points · 11 comments",
       "published": "2026-10-10T00:13:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Recent AI models struggled to match a human algorithmic innovation",
       "url": "https://epoch.ai/publications/innovationeval",
-      "summary": "14 points · 15 comments",
+      "summary": "62 points · 51 comments",
       "published": "2026-10-09T22:14:40+00:00"
     },
     {
@@ -259,13 +273,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "Russian hackers publish stolen Shell, Philips data on dark web",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x1stmd/russian_hackers_publish_stolen_shell_philips_data/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-09T18:20:52+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "Four More States Accuse TP-Link of Concealing Ties to China",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x1sgst/four_more_states_accuse_tplink_of_concealing_ties/",
       "summary": "submitted by /u/NISMO1968 [link] [comments]",
@@ -275,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Rampart: Browser native on-device PII radaction",
       "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
-      "summary": "51 points · 19 comments",
+      "summary": "62 points · 28 comments",
       "published": "2026-10-09T17:52:07+00:00"
     },
     {
@@ -312,13 +319,6 @@
       "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
       "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
       "published": "2026-10-09T16:29:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "summary": "1303 points · 257 comments",
-      "published": "2026-10-09T15:51:05+00:00"
     },
     {
       "source": "OSINT",
@@ -429,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "Nix wrote half of my debugger",
       "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "summary": "6 points · 0 comments",
+      "summary": "93 points · 11 comments",
       "published": "2026-10-09T07:29:08+00:00"
     },
     {
@@ -443,7 +443,7 @@
       "source": "HACKER NEWS",
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "summary": "113 points · 22 comments",
+      "summary": "148 points · 32 comments",
       "published": "2026-10-09T06:52:49+00:00"
     },
     {
@@ -452,27 +452,6 @@
       "url": "https://yro.slashdot.org/story/26/10/08/194218/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: The Trump administration is suspending Microsoft, Adobe, and several other technology companies from a program that helps skilled foreign workers obtain permanent residency in the United States, accusing the companies of fraud. \"Our message to Microsoft is: You're a great American company, but you've got to hire great American workers,\" U.S. Vice President JD Vance said in a news conference on Thursday, Reuters reported. The other firms being ",
       "published": "2026-10-08T23:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Emmy Awards Leave Broadcast TV For Prime Video",
-      "url": "https://slashdot.org/story/26/10/07/043218/emmy-awards-leave-broadcast-tv-for-prime-video?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Amazon Prime Video will become the exclusive global home of the Emmy Awards under a six-year deal beginning in 2027, the Television Academy announced on Tuesday. The Emmys will stream live for free to viewers in more than 240 countries and territories without requiring a Prime subscription. From the report: In the release, Prime Video was named as the \"permanent home\" for the Emmys, in contrast to the rotating agreement in place years prior. The switch ends the traditional \"wheel-deal\" setup to ",
-      "published": "2026-10-08T19:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Female AI Agents 'Paid' Less Than Males, Study Finds",
-      "url": "https://science.slashdot.org/story/26/10/07/1618200/female-ai-agents-paid-less-than-males-study-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ancient Slashdot reader williamyf writes: If you thought the gender pay gap was not real, and that there were no biases in the workplace, think again: A recent study from the University of Limerick found that, in a VR office setting, AI agents -- not even humanoid robots -- that presented themselves as \"male\" were paid more per task and perceived as more \"human-like\" than their \"female\" counterparts, even though both were using the same underlying technology (LLM model, agent, guardrail, and har",
-      "published": "2026-10-08T15:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Chrome 155 Ships Decoding Support For JPEG XL",
-      "url": "https://slashdot.org/story/26/10/07/160253/chrome-155-ships-decoding-support-for-jpeg-xl?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google has released Chrome 155 with support for decoding JPEG XL images, a format that offers 30-50% better compression than JPEG along with lossless compression, JPEG transcoding, HDR, animation, and progressive decoding. From a blog post: We expect that JPEG XL is most helpful for high-fidelity or lossless compression, especially of photographic images or in cases in which fine-grained progressive decoding is preferred. In this post, we share why we brought JPEG XL to Chrome, how we used Rust ",
-      "published": "2026-10-08T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -485,14 +464,21 @@
       "source": "HACKER NEWS",
       "title": "2D Vehicles",
       "url": "https://patkerr.co.uk/2d-vehicles/",
-      "summary": "76 points · 20 comments",
+      "summary": "309 points · 72 comments",
       "published": "2026-10-07T12:30:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
+      "url": "https://openscad.org/",
+      "summary": "82 points · 75 comments",
+      "published": "2026-10-06T21:22:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Grieving the loss of details",
       "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "summary": "229 points · 165 comments",
+      "summary": "312 points · 249 comments",
       "published": "2026-10-06T16:37:21+00:00"
     },
     {
