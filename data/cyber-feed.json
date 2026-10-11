@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T02:06:06.911993+00:00",
+  "updated": "2026-10-11T08:41:50.876425+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,69 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Stealthwatch vagueness",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x33272/stealthwatch_vagueness/",
+      "summary": "I apologise, maybe someone experienced with platform can help clear things out for me. I am looking at stealthwatch as inherited, not tuned IDS and I fail to find clear definition even in their docs about distinction between Alerts and Alarms. While there are few Alerts for last month, and I am able to use time picker to summarize for last month, product don't offer same for Alarms, only last 7 days dashboard,, There are many alarms with obvious stink of false positives, but only way I found on ",
+      "published": "2026-10-11T08:40:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "3rd Yandex Cloud Data Center Was Hit",
+      "url": "https://status.yandex.cloud/en/incidents/2136",
+      "summary": "95 points · 103 comments",
+      "published": "2026-10-11T07:34:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
+      "url": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "CNN reports: The FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation. Edward Dubrovsky was arrested in the Philadelphia area in recent days... Dubrovsky is facing charges related to extortion and making threats. He has been transferred to Texas's Eastern District for a scheduled detention hearing,",
+      "published": "2026-10-11T07:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "LineageOS 24.0",
+      "url": "https://lineageos.org/Changelog-32/",
+      "summary": "8 points · 0 comments",
+      "published": "2026-10-11T06:18:59+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Is AI actually changing cyber risk, and how it's assessed and insured? Would love perspectives from security, risk, and insurance folks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2yznw/is_ai_actually_changing_cyber_risk_and_how_its/",
+      "summary": "Hi everyone, I am currently researching how AI is changing the world as we know it, and one area I was suggested to explore was how cyber risk gets assessed and insured. The idea was that traditional frameworks can't really be used anymore to evaluate the risk or work out its cost. (I'll admit my knowledge of the insurance side is pretty limited, so that's partly why I'm here.) But someone recently made a point that made me rethink this: even with AI, attackers are still exploiting the same weak",
+      "published": "2026-10-11T04:35:04+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
+      "published": "2026-10-11T04:24:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure",
+      "url": "https://news.slashdot.org/story/26/10/11/0142235/ubuntu-confirms-thursdays-distributed-denial-of-service-attack-against-its-web-infrastructure?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "On Thursday those trying to access the Ubuntu website, ISO downloads, and similar Ubuntu resources on Thursday found the site \"inoperable,\" reports Phoronix, with the disruption confirmed as a distributed denial of service attack. \"Our team is working diligently to resolve the incident,\" according to a Thursday post on Ubuntu Discourse — followed by a later announcement. \"At this time our team continues to work on restoring affected services, most of them are now available. We appreciate your pa",
+      "published": "2026-10-11T03:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Has Anyone interviewed for Obsidian Security?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2wm7n/has_anyone_interviewed_for_obsidian_security/",
+      "summary": "i have an interview coming up for Software Enginer- AI security Product team. Link- https://job-boards.greenhouse.io/obsidiansecurity/jobs/5290880008 Need advice on how to prep. I have a cybersecurity bg and experience in Appsec, blue teaming, pentest but never gave a system design interview. What do you guys think the interview would look like? submitted by /u/Longjumping-Way-2564 [link] [comments]",
+      "published": "2026-10-11T02:26:26+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Question for the Community",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2w9rs/question_for_the_community/",
+      "summary": "I dabble, so lets get that out there. I have an interest in Cybersecurity, but I am not in the industry professionally. Due to that, my knowledge in some areas is limited. However I feel like I have a solid idea which would help shift SSL/TLS certificates away from Certificate Authorities and more towards a Zero Trust Model. I understand there's Certificate Transparency and DNSSEC that helps mitigate some of the risk. I was listening to Darknet Diaries, and there was an episode about a CA that w",
+      "published": "2026-10-11T02:07:37+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "UK Vegetables 20-50% Less Nutritious Than In the 1960s",
       "url": "https://science.slashdot.org/story/26/10/11/0124231/uk-vegetables-20-50-less-nutritious-than-in-the-1960s?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -35,31 +98,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Generative AI scandal has come to one of Nikon's competitions",
-      "url": "https://www.dpreview.com/news/generative-ai-scandal-has-come-to-one-of-nikons-competitions/",
-      "summary": "13 points · 0 comments",
-      "published": "2026-10-11T00:47:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WallHop – 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "summary": "79 points · 45 comments",
-      "published": "2026-10-11T00:46:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "PSPi 6 – Raspberry Pi in a PSP",
       "url": "https://github.com/othermod/PSPi-Version-6",
-      "summary": "10 points · 1 comments",
+      "summary": "79 points · 7 comments",
       "published": "2026-10-11T00:45:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "url": "https://github.com/vahmoh25/Veda",
-      "summary": "13 points · 0 comments",
-      "published": "2026-10-11T00:22:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -79,7 +121,7 @@
       "source": "HACKER NEWS",
       "title": "Build your own decision model",
       "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "summary": "116 points · 26 comments",
+      "summary": "277 points · 64 comments",
       "published": "2026-10-10T22:50:10+00:00"
     },
     {
@@ -114,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "A city-building game in which the city would prefer you didn't",
       "url": "https://housing.over.pizza/",
-      "summary": "178 points · 68 comments",
+      "summary": "329 points · 102 comments",
       "published": "2026-10-10T20:31:50+00:00"
     },
     {
@@ -132,13 +174,6 @@
       "published": "2026-10-10T18:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Why DuckDB 2.0 is faster",
-      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-      "summary": "147 points · 50 comments",
-      "published": "2026-10-10T18:08:49+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Another Woman Sues Flock For Mistaken Crime Accusation By Police - and for Surveillance",
       "url": "https://yro.slashdot.org/story/26/10/09/2251259/another-woman-sues-flock-for-mistaken-crime-accusation-by-police---and-for-surveillance?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -146,25 +181,11 @@
       "published": "2026-10-10T17:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Requesting a uggestions for how to complete CPEs in the cleared gov space.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2ikwu/requesting_a_uggestions_for_how_to_complete_cpes/",
-      "summary": "Hi there! I’m a cleared contractor working in the US gov space as a cyber officer for over a decade now. However, I’m finding it more and more difficult to find opportunities to get CPEs, especially for my CISSP (so many damn CPEs…). With recent significant budget cuts, it’s much harder to get companies and customers to fund training and/or conference attendance (even just tickets/badge cost!). The other challenge, Monday-Friday, is the absence of connectivity to the internet (those in the indus",
-      "published": "2026-10-10T15:50:23+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Knuth reward check",
       "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "summary": "148 points · 54 comments",
+      "summary": "191 points · 69 comments",
       "published": "2026-10-10T15:47:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Unikernels were hard. key word: were",
-      "url": "https://ghuntley.com/unikernels/",
-      "summary": "100 points · 44 comments",
-      "published": "2026-10-10T14:27:09+00:00"
     },
     {
       "source": "OSINT",
@@ -195,13 +216,6 @@
       "published": "2026-10-10T12:04:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "CTO at NCSC Summary: week ending October 11th",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2d5x7/cto_at_ncsc_summary_week_ending_october_11th/",
-      "summary": "submitted by /u/digicat [link] [comments]",
-      "published": "2026-10-10T11:38:17+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
       "url": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
@@ -212,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
       "url": "https://github.com/rociiu/talorys",
-      "summary": "254 points · 123 comments",
+      "summary": "287 points · 133 comments",
       "published": "2026-10-10T10:52:09+00:00"
     },
     {
@@ -223,13 +237,6 @@
       "published": "2026-10-10T09:18:45+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "An investigation into alleged cyberattacks targeting Discord's powerscaling community — the Noblesse incident, retaliation, and security concern",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x29bdm/an_investigation_into_alleged_cyberattacks/",
-      "summary": "I've published an investigation into allegations involving two online aliases, \"marksolos985\" (also known as \"marksolos\" or \"mark\") and \"marz\" (also known as \"themarzer\"), and their alleged involvement in incidents targeting Discord communities within the powerscaling scene. Full article: [ https://medium.com/@michaeljonhson2/inside-an-alleged-campaign-of-cyberattacks-against-the-powerscaling-community-80ffc2560d74\\ ] Why I wrote this Discord powerscaling communities are primarily places where p",
-      "published": "2026-10-10T07:42:46+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "First Thorium Nuclear Clocks Begin to Tick",
       "url": "https://science.slashdot.org/story/26/10/08/1913209/first-thorium-nuclear-clocks-begin-to-tick?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -237,17 +244,10 @@
       "published": "2026-10-10T07:34:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Recent law-firm breaches: which defenses actually limit the damage from social engineering?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x27z4h/recent_lawfirm_breaches_which_defenses_actually/",
-      "summary": "Recent breach disclosures involving law firms are a reminder that even organizations handling highly sensitive information can be exposed through a single user's access. I'm curious about the defensive side of this. Beyond awareness training, which controls have made the biggest practical difference in reducing the impact of social engineering in your experience? For example, phishing-resistant MFA, least-privilege access, tighter remote-access controls, or better detection of unusual account ac",
-      "published": "2026-10-10T06:21:10+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "The Lightbulb Computer",
       "url": "https://lightbulbcomputer.com/",
-      "summary": "256 points · 43 comments",
+      "summary": "387 points · 62 comments",
       "published": "2026-10-10T04:12:26+00:00"
     },
     {
@@ -266,10 +266,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
-      "summary": "716 points · 308 comments",
-      "published": "2026-10-10T00:37:07+00:00"
+      "title": "Decade-old RAM is making a comeback",
+      "url": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+      "summary": "50 points · 36 comments",
+      "published": "2026-10-10T01:37:08+00:00"
     },
     {
       "source": "OSINT",
@@ -284,6 +284,13 @@
       "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
       "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
       "published": "2026-10-09T19:14:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Deterministic Simulation Testing in Celld",
+      "url": "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+      "summary": "19 points · 1 comments",
+      "published": "2026-10-09T18:31:50+00:00"
     },
     {
       "source": "REDDIT",
@@ -322,13 +329,6 @@
     },
     {
       "source": "OSINT",
-      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-      "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
-      "published": "2026-10-09T16:29:55+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Germany arrests alleged core Qilin ransomware member after extradition",
       "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
       "summary": "Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]",
@@ -338,15 +338,8 @@
       "source": "HACKER NEWS",
       "title": "Five months treating bugs like patients and coding agents like a medical team",
       "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-      "summary": "63 points · 27 comments",
+      "summary": "125 points · 52 comments",
       "published": "2026-10-09T15:26:33+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Cloudflare Keeps 1.1.1.1 Out of Piracy Blocking, Escapes Penalties In France",
-      "url": "https://yro.slashdot.org/story/26/10/08/1948246/cloudflare-keeps-1111-out-of-piracy-blocking-escapes-penalties-in-france?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TorrentFreak: Cloudflare doesn't block pirate sports streaming sites through its 1.1.1.1 DNS resolver in France, only through its CDN. The Paris Judicial Court has now accepted that stance, rejecting [French pay-TV provider] Canal+'s request for penalties of 50,000 euros per site, per day. Interestingly, the court's conclusion relies on statistics provided by Canal+ itself. [...] As a result, Cloudflare will not be penalized under these orders, even thoug",
-      "published": "2026-10-09T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -412,13 +405,6 @@
       "published": "2026-10-09T11:14:28+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "A 1960 Paper Published In Science Predicts World Will End Next Month",
-      "url": "https://science.slashdot.org/story/26/10/08/1937203/a-1960-paper-published-in-science-predicts-world-will-end-next-month?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "sciencehabit shares a report from Science Magazine: A physicist has put a definite date on Doomsday,\" The New York Times wrote on November 4, 1960. \"He calculates that it will come on Friday the Thirteenth in November, 2026 A. D. On that date, or thereabouts, the human population will have expanded so far as to approach infinity and thus will automatically annihilate itself.\" The newspaper was right -- but the prediction was wrong. That week, Austrian American physicist Heinz von Foerster and tw",
-      "published": "2026-10-09T11:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft: Outdated Windows devices will stop receiving security updates",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
@@ -441,23 +427,44 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "How big is a Git commit?",
+      "url": "https://ratfactor.com/cards/git-commit-size",
+      "summary": "29 points · 9 comments",
+      "published": "2026-10-09T08:13:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Nix wrote half of my debugger",
       "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "summary": "135 points · 23 comments",
+      "summary": "194 points · 43 comments",
       "published": "2026-10-09T07:29:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Mxc: Microsoft Execution Containers version 1.0.0",
       "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "summary": "161 points · 38 comments",
+      "summary": "186 points · 45 comments",
       "published": "2026-10-09T06:52:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Happy Hangul Day! An RNN for Generating Korean Handwriting Strokes",
+      "url": "https://hangul.ink/blog/hangul-day",
+      "summary": "43 points · 8 comments",
+      "published": "2026-10-09T03:58:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Diffle, a keyboard-centric diff viewer with LSP support",
+      "url": "https://github.com/moritzwilksch/diffle",
+      "summary": "42 points · 4 comments",
+      "published": "2026-10-08T15:23:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Retrofitting language models to operate over bytes",
       "url": "https://www.nature.com/articles/s41586-026-11111-4",
-      "summary": "5 points · 0 comments",
+      "summary": "53 points · 4 comments",
       "published": "2026-10-08T02:15:16+00:00"
     },
     {
@@ -471,15 +478,8 @@
       "source": "HACKER NEWS",
       "title": "2D Vehicles",
       "url": "https://patkerr.co.uk/2d-vehicles/",
-      "summary": "363 points · 83 comments",
+      "summary": "451 points · 99 comments",
       "published": "2026-10-07T12:30:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "url": "https://openscad.org/",
-      "summary": "107 points · 87 comments",
-      "published": "2026-10-06T21:22:44+00:00"
     },
     {
       "source": "REDDIT",
