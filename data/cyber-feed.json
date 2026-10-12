@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-12T02:36:34.075262+00:00",
-  "item_count": 74,
+  "updated": "2026-10-12T09:41:52.739264+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,118 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+      "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+      "summary": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack. The critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauthenticated attackers to upload and execute arbitrary PHP code on vulnerable WordPress websites, resulting in remote code execution (RCE). The",
+      "published": "2026-10-12T09:02:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Looking for a Cybersecurity Group to Join",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3wwsr/looking_for_a_cybersecurity_group_to_join/",
+      "summary": "Hey guys! I’m a cybersecurity undergrad looking for a ethical hackers group to join.Just wanna improve my skills, learn new things, and get some hands-on experience. If anyone knows any active groups or is part of one, feel free to DM me. I’d love to join and learn with you guys. Thanks 🙂 submitted by /u/3mres [link] [comments]",
+      "published": "2026-10-12T09:01:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "LG webOS sync-demo Preauth RCE",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3ww8u/lg_webos_syncdemo_preauth_rce/",
+      "summary": "An exploit chain was found in LG webOS, leading to root command execution. The chain starts with a client-key issuance bypass, progresses through service-level access, and ultimately leads to root command execution. submitted by /u/SSDisclosure [link] [comments]",
+      "published": "2026-10-12T09:00:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fable Took My Job",
+      "url": "https://cendyne.dev/posts/2026-10-11-fable-took-my-jorb.html",
+      "summary": "88 points · 32 comments",
+      "published": "2026-10-12T08:30:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Zod 4.6.6 compromised by malware?",
+      "url": "https://github.com/colinhacks/zod/commit/d821685ea6732436fcdf786a81d076958471e467",
+      "summary": "118 points · 31 comments",
+      "published": "2026-10-12T07:47:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+      "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity offensive tools like Cobalt Strike with an AI orchestration layer powered by Anthropic's Claude Code, has been attributed",
+      "published": "2026-10-12T07:26:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "How the US Nuclear Plant Fleet Is Leaning Into AI",
+      "url": "https://hardware.slashdot.org/story/26/10/12/0445233/how-the-us-nuclear-plant-fleet-is-leaning-into-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"This year, nearly the entire fleet of 94 U.S. nuclear reactors has been offered the chance to integrate AI into its operations, and most have taken it,\" reports IEEE Spectrum: In August, California-based Atomic Canyon launched NIVA, the Nuclear Industry Virtual Assistant, which was developed in cooperation with nuclear-industry groups. The assistant was pilot-tested in nuclear plants run by Constellation Energy and is now available to the United States' entire fleet of reactors.... Meanwhile, t",
+      "published": "2026-10-12T07:22:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "url": "https://github.com/snuri00/ps2-web-recomp",
+      "summary": "19 points · 1 comments",
+      "published": "2026-10-12T06:46:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Postgres isn't slow, your storage is",
+      "url": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+      "summary": "81 points · 44 comments",
+      "published": "2026-10-12T06:36:53+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How is the job market for appsec engineers?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3tlpk/how_is_the_job_market_for_appsec_engineers/",
+      "summary": "I have about 5 years of total experience now in appsec. All at Microsoft. Layoffs are dooming here so I'm wondering how is the job market out there for application security engineers? submitted by /u/Exact-Advantage-3190 [link] [comments]",
+      "published": "2026-10-12T05:33:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Research Firm Calls Anthropic's IPO 'Unprecedented Test of Investor Gullibity'",
+      "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+      "summary": "65 points · 21 comments",
+      "published": "2026-10-12T05:03:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "summary": "113 points · 51 comments",
+      "published": "2026-10-12T05:02:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Why are we just accepting what Anthropic is doing to cybersecurity?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3sy39/why_are_we_just_accepting_what_anthropic_is_doing/",
+      "summary": "What do you guys think about Anthropic’s Cyber Mission? They’re flooding our industry with “free” AI security tools. Sounds like the usual playbook: offer something for free, kill the competition, make everyone dependent on it, then raise prices. But seriously, why does our community keep accepting this shit? Why aren’t we pushing back? They’re invading our market, devaluing our skills, and potentially replacing us with models trained on the same knowledge and work our community spent decades bu",
+      "published": "2026-10-12T04:55:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Will Linux phones become a viable alternative to the Android/iOS duopoly?",
+      "url": "https://amosbbatto.wordpress.com/2026/10/05/linux-phones-alternative/",
+      "summary": "147 points · 154 comments",
+      "published": "2026-10-12T04:54:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Final year project idea analysis",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3rs4y/final_year_project_idea_analysis/",
+      "summary": "Thoughts on MITRE ATTACK human interaction techniques mapped into a gamified way to train banking/telecom sector employees. Did this project is worth it as an FYP? if yes should we focus on training technical staff or non technical staff because platforms like immersive labs focus on IT technical employees. submitted by /u/Informal-Froyo-9151 [link] [comments]",
+      "published": "2026-10-12T03:50:52+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
+      "url": "https://it.slashdot.org/story/26/10/12/0211238/lets-encrypt-to-cut-ssl-certificate-lifetimes-to-64-days-in-february-2027?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Let's Encrypt \"will shorten the default validity period of its TLS certificates from 90 days to 64 days, starting February 10, 2027,\" reports the blog Linuxiac: All certificates issued or renewed from that date will have a 64-day lifespan unless users explicitly select one of the shorter options already available: 45 or six days. Existing certificates will remain valid until their expiration dates. Let's Encrypt expects the final 90-day certificate to expire on May 11, 2027. The organization als",
+      "published": "2026-10-12T03:09:00+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Game Console Market Craters: Xbox and PS5 Sales Plummet Over 25%",
       "url": "https://hardware.slashdot.org/story/26/10/12/018224/game-console-market-craters-xbox-and-ps5-sales-plummet-over-25?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -37,15 +149,8 @@
       "source": "HACKER NEWS",
       "title": "Local Indexing to reduce tool calling and token usage",
       "url": "https://tedhaley.ca/pensieve/",
-      "summary": "28 points · 3 comments",
+      "summary": "78 points · 19 comments",
       "published": "2026-10-12T00:03:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "HashiCorp archives the Boundary open source repo",
-      "url": "https://github.com/hashicorp/boundary",
-      "summary": "44 points · 7 comments",
-      "published": "2026-10-12T00:02:45+00:00"
     },
     {
       "source": "REDDIT",
@@ -63,59 +168,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Qt An E2EE post-quantum messenger core in Rust (10k connections on 124MB RAM",
-      "url": "https://github.com/moral666/QT",
-      "summary": "11 points · 2 comments",
-      "published": "2026-10-11T23:52:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Whatever became of holography? (2011)",
       "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
-      "summary": "77 points · 28 comments",
+      "summary": "132 points · 63 comments",
       "published": "2026-10-11T23:50:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Illustration Beyond Proof",
-      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
-      "summary": "32 points · 0 comments",
-      "published": "2026-10-11T23:22:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Fingerprints are the new cookies",
       "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
-      "summary": "113 points · 43 comments",
+      "summary": "367 points · 173 comments",
       "published": "2026-10-11T22:33:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google is illegaly cutting forest to build data centers",
-      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-      "summary": "166 points · 29 comments",
-      "published": "2026-10-11T22:33:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Recursive self-improvement through collective intelligence",
-      "url": "https://pub.sakana.ai/mass/",
-      "summary": "70 points · 32 comments",
-      "published": "2026-10-11T22:22:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Passkeys are a trap",
-      "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-      "summary": "306 points · 173 comments",
-      "published": "2026-10-11T21:59:48+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What is best for a portfolio/getting hired?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3k9jx/what_is_best_for_a_portfoliogetting_hired/",
-      "summary": "With AI being so prominent in the coding space, is it useful to have custom tools written in c++ or rust or any other language on a cybersecurity portfolio? Im asking this because, for me, it feels useless to create custom tools since AI can do it faster than me, and therefore, I can't prove that AI didnt write it, which makes it hard to prove that I understand the concepts. For example, I am currently creating a network analyzer (network mapper and packet sniffer) tool in rust, but i feel so un",
-      "published": "2026-10-11T21:37:46+00:00"
     },
     {
       "source": "REDDIT",
@@ -140,16 +203,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Tattoos you can turn on and off",
-      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
-      "summary": "7 points · 2 comments",
-      "published": "2026-10-11T21:04:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The gap in shared understanding of LLM capability is widening",
       "url": "https://twitter.com/karpathy/status/2109361546505966046",
-      "summary": "270 points · 436 comments",
+      "summary": "458 points · 656 comments",
       "published": "2026-10-11T20:20:52+00:00"
     },
     {
@@ -163,15 +219,8 @@
       "source": "HACKER NEWS",
       "title": "Cartographers of North Korea (2019)",
       "url": "https://cartographers-nk.wonyoung.so/",
-      "summary": "195 points · 34 comments",
+      "summary": "262 points · 47 comments",
       "published": "2026-10-11T19:46:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "So, You’d Like To Sell Your Print Issues Of The Onion?",
-      "url": "https://theonion.com/archivehunt/",
-      "summary": "259 points · 35 comments",
-      "published": "2026-10-11T19:43:32+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -181,17 +230,17 @@
       "published": "2026-10-11T18:41:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Chapter 1 of \"Ways of Seeing\" by John Berger (1972)",
-      "url": "https://www.ways-of-seeing.com/ch1",
-      "summary": "80 points · 13 comments",
-      "published": "2026-10-11T18:26:24+00:00"
+      "source": "REDDIT",
+      "title": "Why does France seem to be experiencing so many cybersecurity incidents?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3frv6/why_does_france_seem_to_be_experiencing_so_many/",
+      "summary": "I've been following cybersecurity incidents across Europe, and France seems to appear particularly frequently in reports of data breaches, ransomware attacks and compromised public services. Recent cases involving public institutions, educational organizations and private companies raise an interesting question. Is France genuinely experiencing a higher rate of cyber incidents than comparable European countries, or are we simply seeing greater transparency, media coverage and reporting? Could le",
+      "published": "2026-10-11T18:35:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Total Annihilation, rebuilt for modern computers",
       "url": "https://nanolathe.gg",
-      "summary": "381 points · 163 comments",
+      "summary": "506 points · 201 comments",
       "published": "2026-10-11T18:04:47+00:00"
     },
     {
@@ -200,13 +249,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x3epkk/russias_yandex_bot_traffic_nearly_eliminated/",
       "summary": "submitted by /u/Lebarican22 [link] [comments]",
       "published": "2026-10-11T17:54:21+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "VigilOSS - Harness for large codebase code audits and web pentests",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3ea0p/vigiloss_harness_for_large_codebase_code_audits/",
-      "summary": "I am not selling anything here, simply looking for people to give this tool a try. I have found hundreds of bugs with it, and worked within very very large codebases all while trying to keep coverage and not missing bugs at the forefront of the tool. submitted by /u/VigilOSS [link] [comments]",
-      "published": "2026-10-11T17:37:05+00:00"
     },
     {
       "source": "REDDIT",
@@ -237,6 +279,13 @@
       "published": "2026-10-11T15:34:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Loop Engineering: Optimizing Code Generation and Verification",
+      "url": "https://bradleygibbs.dev/posts/loop-optimization/",
+      "summary": "11 points · 7 comments",
+      "published": "2026-10-11T15:01:17+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "US Agency To Rewrite Rules To Finally Address Vehicle Headlight Glare",
       "url": "https://news.slashdot.org/story/26/10/11/0014241/us-agency-to-rewrite-rules-to-finally-address-vehicle-headlight-glare?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -251,17 +300,10 @@
       "published": "2026-10-11T14:23:46+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "MSPEP v6 — Multi-Source Physical Entropy Pool Encryption (Defensive Publication)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x39em5/mspep_v6_multisource_physical_entropy_pool/",
-      "summary": "I conceived MSPEP — the Multi-Source Physical Entropy Pool Encryption System — in June 2026 and spent the last 3 months deciding whether to patent it or release it for free. Today it drops as a defensive publication, free to the world. MSPEP turns the sensors already on your device (magnetometer, thermistors, accelerometer, microphone, photodiode, RF front-end, power rail noise, NIC timing) into a continuous, hardware-rooted entropy pool. Key points: - Random subset selection (min 3 sensors) per",
-      "published": "2026-10-11T14:20:08+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Terence Tao: Math 2.0 [pdf]",
       "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-      "summary": "326 points · 380 comments",
+      "summary": "399 points · 423 comments",
       "published": "2026-10-11T13:16:45+00:00"
     },
     {
@@ -273,17 +315,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos",
-      "url": "https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5",
-      "summary": "23 points · 2 comments",
-      "published": "2026-10-11T09:19:46+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "SonicWall’s latest critical flaw indicates a security pattern, not another one-off bug",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x33c4d/sonicwalls_latest_critical_flaw_indicates_a/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-11T08:57:56+00:00"
+      "title": "Running the unmodified Linux amdgpu driver on an iPad",
+      "url": "https://github.com/Geramy/LemonSeed-Studio",
+      "summary": "19 points · 9 comments",
+      "published": "2026-10-11T10:18:18+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -301,38 +336,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Vectorized CLZ and CTZ",
-      "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
-      "summary": "11 points · 2 comments",
-      "published": "2026-10-11T03:36:42+00:00"
+      "title": "Calculus with Julia",
+      "url": "https://jverzani.github.io/CalculusWithJuliaNotes.jl/",
+      "summary": "127 points · 12 comments",
+      "published": "2026-10-10T15:59:52+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Ubuntu Confirms Thursday's Distributed Denial of Service Attack Against Its Web Infrastructure",
-      "url": "https://news.slashdot.org/story/26/10/11/0142235/ubuntu-confirms-thursdays-distributed-denial-of-service-attack-against-its-web-infrastructure?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "On Thursday those trying to access the Ubuntu website, ISO downloads, and similar Ubuntu resources on Thursday found the site \"inoperable,\" reports Phoronix, with the disruption confirmed as a distributed denial of service attack. \"Our team is working diligently to resolve the incident,\" according to a Thursday post on Ubuntu Discourse — followed by a later announcement. \"At this time our team continues to work on restoring affected services, most of them are now available. We appreciate your pa",
-      "published": "2026-10-11T03:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "summary": "49 points · 40 comments",
+      "published": "2026-10-10T15:39:30+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "UK Vegetables 20-50% Less Nutritious Than In the 1960s",
-      "url": "https://science.slashdot.org/story/26/10/11/0124231/uk-vegetables-20-50-less-nutritious-than-in-the-1960s?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Telegraph reports that the nutritional value of fruit and vegetables has fallen by up to 50% since the Sixties, according a new study from researchers at startup studio Deep Science Ventures. The study \"found that humans needed to consume twice the number of vegetables to get the same level of minerals such as potassium, magnesium or copper as would have been present in their food 60 years ago.\" The study found that many crops had lost 20% to 50% of several key nutrients... The decrease in n",
-      "published": "2026-10-11T01:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
+      "source": "OSINT",
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2qksq/cyber_exec_arrested_in_case_allegedly_tied_to/",
-      "summary": "submitted by /u/Dash-Courageous [link] [comments]",
-      "published": "2026-10-10T21:27:39+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x2pyxq/fbi_arrests_executive_at_ransomware_negotiation/",
-      "summary": "The FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation. Edward Dubrovsky was arrested in the Philadelphia area in recent days and appeared in federal court there Thursday, where a magistrate judge appointed a federal public defender to represent him. Dubrovsky is facing charges related to extorti",
-      "published": "2026-10-10T21:00:59+00:00"
+      "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
+      "summary": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
+      "published": "2026-10-10T15:07:54+00:00"
     },
     {
       "source": "OSINT",
@@ -359,8 +380,15 @@
       "source": "OSINT",
       "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
       "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude - Claude Mythos",
+      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude",
       "published": "2026-10-10T09:18:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+      "published": "2026-10-10T00:17:42+00:00"
     },
     {
       "source": "OSINT",
@@ -455,13 +483,6 @@
     },
     {
       "source": "OSINT",
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "summary": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which organizations invest in AI-speed business operations while continuing to rely on human-speed security controls, creating a",
-      "published": "2026-10-09T11:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Man admits to running network of 15,000 money mules for cybercriminals",
       "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
       "summary": "​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]",
@@ -473,13 +494,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/",
       "summary": "Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]",
       "published": "2026-10-09T10:12:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "summary": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which disclosed the flaw on October 8, says an attacker who recovers the key can redirect the site's visitors to a copy of the site they control.",
-      "published": "2026-10-09T09:03:24+00:00"
     },
     {
       "source": "OSINT",
