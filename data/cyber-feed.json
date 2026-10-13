@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T17:05:00.339040+00:00",
-  "item_count": 76,
+  "updated": "2026-10-13T21:47:27.043766+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,11 +27,151 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+      "published": "2026-10-13T21:33:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+      "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+      "summary": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
+      "published": "2026-10-13T21:16:34+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Coris (YC S22) Is Hiring Back End Engineer",
-      "url": "https://www.ycombinator.com/companies/coris/jobs/h0nDly8-backend-engineer-ai-native-risk-infrastructure-integrations",
+      "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
       "summary": "1 points · 0 comments",
-      "published": "2026-10-13T17:00:39+00:00"
+      "published": "2026-10-13T21:01:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Kroger to Lay Off 3,000 Corporate Employees In AI Restructuring",
+      "url": "https://slashdot.org/story/26/10/13/1945200/kroger-to-lay-off-3000-corporate-employees-in-ai-restructuring?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Kroger says it will cut 3,000 corporate jobs over the next three years as it expands its use of AI and other technology to streamline operations. \"Technology is reshaping what's possible,\" CEO Greg Foran wrote in a memo to employees on Monday. \"The way work gets done is changing across every industry; we must adapt and take advantage of technology. We need to adopt capabilities, reduce duplicative work and look closely at where work is best fit to be done.\" ABC News reports: Kroger last month ou",
+      "published": "2026-10-13T21:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "summary": "53 points · 85 comments",
+      "published": "2026-10-13T20:23:55+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "French supermarket fridges were pushed to 50°C overnight through Danfoss controllers that no longer get security updates",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x57oku/french_supermarket_fridges_were_pushed_to_50c/",
+      "summary": "On the night of October 11, someone got into the refrigeration controllers at French supermarkets and put them into forced defrost with the target set to 50°C. A store manager in Gradignan, quoted by [ITPro]( https://www.itpro.com/security/cyber-attacks/french-fridges-hacked-in-country-wide-supermarket-attack ), said it started around 11pm and staff found out at 4am, after the cold room hit 50°C and set off the sprinklers. The store counts don't match yet. [BleepingComputer]( https://www.bleepin",
+      "published": "2026-10-13T20:23:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Ledger Confirms Spy Chip Implant Behind Wallet Crypto Thefts",
+      "url": "https://yro.slashdot.org/story/26/10/13/192236/ledger-confirms-spy-chip-implant-behind-wallet-crypto-thefts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader AmiMoJo shares a report from BleepingComputer: Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. The company has been investigating reports of users losing funds from wallets purchased through CryptoBilis, a major Malaysia-based hardware wallet retailer operating across Southeast Asia. Some researchers have shown the implant in Ledger ",
+      "published": "2026-10-13T20:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "2026-10-13T19:56:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+      "url": "https://parsimony.lasu.dev/",
+      "summary": "14 points · 1 comments",
+      "published": "2026-10-13T19:50:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+      "summary": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+      "published": "2026-10-13T19:47:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "summary": "137 points · 43 comments",
+      "published": "2026-10-13T19:11:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
+      "summary": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
+      "published": "2026-10-13T19:04:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "No, Ukraine's strikes on Yandex data centers didn't cripple Russian influence ops",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x55lcv/no_ukraines_strikes_on_yandex_data_centers_didnt/",
+      "summary": "It seems the original story was propaganda itself. submitted by /u/ThisGonBHard [link] [comments]",
+      "published": "2026-10-13T19:04:30+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Bans Cruelty Toward Claude",
+      "url": "https://slashdot.org/story/26/10/13/1857238/anthropic-bans-cruelty-toward-claude?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "New submitter CubicleZombie writes: Anthropic has updated its Usage Policy to prohibit \"sustained and needless abusive or cruel behavior\" toward its Claude AI models. While ordinary frustration, criticism, and adversarial testing remain acceptable, repeated cruelty could result in account restrictions. Anthropic acknowledges there's no evidence Claude can suffer but argues that uncertainty about AI consciousness warrants precaution. Critics contend the policy anthropomorphizes software, encourag",
+      "published": "2026-10-13T19:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+      "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
+      "summary": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous, self-propagating worm botnets that are \"challenging to shut down,\" since \"there's no centralized point to shut off.\"",
+      "published": "2026-10-13T18:20:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "UK Housing Ombudsman Service investigates 'security incident'",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
+      "summary": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
+      "published": "2026-10-13T18:19:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
+      "url": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
+      "summary": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that converts a personal account into an organization, Docker said in a security advisory on October 12.",
+      "published": "2026-10-13T18:03:18+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Launches Flagship AI Model Gemini 4 Argon",
+      "url": "https://tech.slashdot.org/story/26/10/13/1643231/google-launches-flagship-ai-model-gemini-4-argon?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Reuters: Alphabet's Google on Wednesday released its flagship AI model Gemini 4 Argon to developers and businesses worldwide, seeking to regain ground against rivals OpenAI and Anthropic after months of delays and a leadership shakeup at its DeepMind lab. The model excels at \"deep work\" on complex, multi-step tasks in coding, finance, law, cybersecurity and science, Google said. API pricing at launch starts at $2 per million input tokens and $10 per milli",
+      "published": "2026-10-13T18:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
+      "summary": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+      "published": "2026-10-13T17:49:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
+      "url": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
+      "summary": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\" A fix for the third is still pending, according to Volexity. Volexity, which reported the flaws to Ivanti,",
+      "published": "2026-10-13T17:33:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
+      "url": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
+      "summary": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's official Python client for BTP services. An attacker must be able to control the tenant subdomain,",
+      "published": "2026-10-13T17:28:50+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -48,11 +188,11 @@
       "published": "2026-10-13T16:44:18+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-      "url": "https://ua.news/en/world/kiberataka-zupinila-budivnitstvo-tuneliu-mizh-daniieiu-ta-nimechchinoiu-rmf24",
-      "summary": "14 points · 4 comments",
-      "published": "2026-10-13T16:24:15+00:00"
+      "source": "REDDIT",
+      "title": "Is TryHackMe’s SOC Level 1 Worth Doing?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x51naz/is_tryhackmes_soc_level_1_worth_doing/",
+      "summary": "Is it worth doing the SOC Level 1 on TryHackMe? I’m not interested in the certificate itself, but more in the course. Obviously, a course alone won’t guarantee me a job, but I’m wondering whether it will teach me tools I can list on my CV and whether it actually translates into real SOC work. So far, I’m finishing Cyber Security 101 and I feel like I wasted my time and didn’t learn anything important. I wouldn’t want the same thing to happen with SOC Level 1. Also, do you think Cisco courses are",
+      "published": "2026-10-13T16:40:29+00:00"
     },
     {
       "source": "OSINT",
@@ -72,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "summary": "261 points · 224 comments",
+      "summary": "796 points · 641 comments",
       "published": "2026-10-13T16:03:16+00:00"
     },
     {
@@ -84,9 +224,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Redesigning Source Control at Anthropic",
+      "title": "Redesigning source control at Anthropic",
       "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "summary": "12 points · 0 comments",
+      "summary": "386 points · 388 comments",
       "published": "2026-10-13T15:49:56+00:00"
     },
     {
@@ -98,16 +238,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Launch HN: Consus (YC F24) – LLM gateway for companies handling sensitive data",
-      "url": "https://news.ycombinator.com/item?id=50073471",
-      "summary": "14 points · 5 comments",
-      "published": "2026-10-13T15:41:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "I posted to HN, and then my website was flooded with AI bot traffic",
       "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "summary": "71 points · 39 comments",
+      "summary": "203 points · 125 comments",
       "published": "2026-10-13T15:25:50+00:00"
     },
     {
@@ -126,17 +259,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "summary": "103 points · 31 comments",
-      "published": "2026-10-13T15:07:37+00:00"
+      "title": "The United Kingdom generates less electricity per person than in the 1970s",
+      "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+      "summary": "142 points · 196 comments",
+      "published": "2026-10-13T15:12:57+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Grocer cyber attacks this week?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4z2rf/grocer_cyber_attacks_this_week/",
-      "summary": "First the France refrigeration vendor… now Dutch retailer Ahold Delhaize (parent company to Stop&Shop and other grocery stores) has been hit with a cyber incident. Do we think these are linked in some way? Don’t see that any groups have come forward and claimed responsibility… just curious. submitted by /u/No-Spread-4322 [link] [comments]",
-      "published": "2026-10-13T15:04:39+00:00"
+      "source": "HACKER NEWS",
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "summary": "269 points · 107 comments",
+      "published": "2026-10-13T15:07:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -144,6 +277,13 @@
       "url": "https://hardware.slashdot.org/story/26/10/13/0443232/microsoft-reveals-maia-300-ai-chip-as-it-works-to-reduce-dependence-on-nvidia?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Yahoo Finance: Microsoft has debuted its latest AI chip, the Azure Maia 300, as it looks to reduce its reliance on third-party processors from the likes of Nvidia and AMD. Unveiled at the OCP Global Summit 2026 in San Jose on Monday, the Maia 300 will join Microsoft's Maia 200 and Maia 100 chips as part of what the company said will be multigigawatt deployments beginning next year. The Windows maker said that will make its Maia chips the \"primary AI infer",
       "published": "2026-10-13T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "summary": "134 points · 207 comments",
+      "published": "2026-10-13T14:26:08+00:00"
     },
     {
       "source": "REDDIT",
@@ -170,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "New Apple TV 4K",
       "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-      "summary": "133 points · 244 comments",
+      "summary": "249 points · 483 comments",
       "published": "2026-10-13T13:21:35+00:00"
     },
     {
@@ -191,29 +331,8 @@
       "source": "HACKER NEWS",
       "title": "Apple HomeView",
       "url": "https://www.apple.com/apple-homeview/",
-      "summary": "409 points · 521 comments",
+      "summary": "600 points · 736 comments",
       "published": "2026-10-13T13:02:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "BB(10) > Graham's Number",
-      "url": "https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md",
-      "summary": "53 points · 28 comments",
-      "published": "2026-10-13T12:40:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "url": "https://machinelearning.apple.com/research/distributed-gpu-cloud",
-      "summary": "166 points · 67 comments",
-      "published": "2026-10-13T12:26:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Worlds More Habitable Than Earth? They're Out There",
-      "url": "https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html",
-      "summary": "31 points · 38 comments",
-      "published": "2026-10-13T12:23:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -224,10 +343,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A Visual Intro to Complex Numbers",
-      "url": "https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers",
-      "summary": "78 points · 50 comments",
-      "published": "2026-10-13T12:00:04+00:00"
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "summary": "555 points · 226 comments",
+      "published": "2026-10-13T12:00:42+00:00"
     },
     {
       "source": "OSINT",
@@ -238,9 +357,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+      "url": "https://github.com/LargeModGames/spotatui",
+      "summary": "30 points · 2 comments",
+      "published": "2026-10-13T11:32:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
       "url": "https://eg2.haku.sh/",
-      "summary": "296 points · 69 comments",
+      "summary": "368 points · 82 comments",
       "published": "2026-10-13T11:27:14+00:00"
     },
     {
@@ -258,13 +384,6 @@
       "published": "2026-10-13T11:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Would an optional soundscape that changes with your security telemetry help you notice unusual activity without constantly watching dashboards? I’m a sound designer exploring this idea—would you find it useful, or just distracting?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4tc5o/would_an_optional_soundscape_that_changes_with/",
-      "summary": "submitted by /u/your_ghost_producer [link] [comments]",
-      "published": "2026-10-13T10:45:58+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
       "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
@@ -275,15 +394,8 @@
       "source": "HACKER NEWS",
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
       "url": "https://github.com/rust-lang/rust/issues/164250",
-      "summary": "513 points · 299 comments",
+      "summary": "625 points · 356 comments",
       "published": "2026-10-13T10:27:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "url": "https://pdftomp3.com/connect-ai/",
-      "summary": "130 points · 64 comments",
-      "published": "2026-10-13T10:08:34+00:00"
     },
     {
       "source": "REDDIT",
@@ -328,27 +440,6 @@
       "published": "2026-10-13T07:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Abu Dhabi is putting 50+ government entities under AI-agent security controls. Their main worry is agents being talked into \"authorised-looking\" actions.Interesting read from Khaleej Times (12 Oct)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4pckp/abu_dhabi_is_putting_50_government_entities_under/",
-      "summary": "Their main worry is agents being talked into \"authorized-looking\" actions. The framing that stood out: the main risk isn't the model making a mistake; it's an attacker instructing the agent to do something that looks authorized. Their approach is defense in depth: monitoring, auditing, guardrails, and a kill switch to shut down a misbehaving model. Also in the piece: TII's CEO says an agent you can't monitor in real time \"is malware that got access to your machine,\" and that non-human agents nee",
-      "published": "2026-10-13T06:30:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hittite royal archive found in Turkey",
-      "url": "https://www.thehistoryblog.com/archives/77107",
-      "summary": "271 points · 70 comments",
-      "published": "2026-10-13T06:02:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
-      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
-      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa. The preinstalled",
-      "published": "2026-10-13T06:00:11+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Linus Torvalds On Why AI Works For Him",
       "url": "https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -370,13 +461,6 @@
       "published": "2026-10-12T22:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Mark Zuckerberg Says Meta Has Reached AI 'Frontier', Rejects Calls For Slowdown",
-      "url": "https://meta.slashdot.org/story/26/10/12/1910233/mark-zuckerberg-says-meta-has-reached-ai-frontier-rejects-calls-for-slowdown?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Meta CEO Mark Zuckerberg says the company has reached the AI \"frontier\" with its new Muse Wonder model and will be offered as a closed, paid product for businesses. Zuckerberg also rejected calls for an industry-wide slowdown, arguing that AI can be managed with conventional guardrails as Meta continues spending heavily on models, infrastructure, and talent. The Financial Times reports: Speaking with the FT as Meta releases its Muse Wonder AI model on Monday, the billionaire chief executive clai",
-      "published": "2026-10-12T21:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Chinese Cars in Norway Stored Military Exercise Footage and Access Codes",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x4d9h8/chinese_cars_in_norway_stored_military_exercise/",
@@ -384,102 +468,11 @@
       "published": "2026-10-12T20:38:55+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-      "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-      "summary": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
-      "published": "2026-10-12T20:13:52+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google's Fitbit Edge Debuts a Replaceable Battery, Brings Back the Screen",
-      "url": "https://tech.slashdot.org/story/26/10/12/1841208/googles-fitbit-edge-debuts-a-replaceable-battery-brings-back-the-screen?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google has introduced the $179 Fitbit Edge, a new fitness tracker with a 1.34-inch OLED display, built-in GPS, ECG support, week-long battery life, and Fitbit's first user-replaceable battery. \"And unlike the Pixel Watch, it's compatible with Android and iPhones via the Google Health app,\" reports Wired. From the report: The Edge has a user-replaceable battery, a Fitbit first, aligning with Google's efforts to make its Pixel Watch more repairable. (Likely also due to new battery regulations set ",
-      "published": "2026-10-12T20:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "MIT class project turns into an FDA-cleared treatment for tremors",
       "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "summary": "16 points · 2 comments",
+      "summary": "105 points · 17 comments",
       "published": "2026-10-12T19:28:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Yandex confirms service outage as users lose access to cloud files",
-      "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-      "summary": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-      "published": "2026-10-12T19:23:01+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Russia Was Not Ready For the Data Center War It Started With Ukraine",
-      "url": "https://tech.slashdot.org/story/26/10/12/1832205/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation. Now Russia's digital services are facing widespread outages after Ukrainian drone strikes knocked out three of the largest data centers owned by Russian tech giant Yandex within several days. Pro-Kremlin bloggers are warning that Russia's centralized digital economy could collapse because the coun",
-      "published": "2026-10-12T19:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-      "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-      "summary": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-      "published": "2026-10-12T18:51:59+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food",
-      "url": "https://it.slashdot.org/story/26/10/12/1748203/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Hackers remotely manipulated connected refrigeration systems at hundreds of French supermarkets, reportedly pushing some fridges and freezers to 50C (122F), spoiling food and even sparking fires. According to Reuters, French Prime Minister Sebastien Lecornu ordered a cybersecurity investigation into the hacks, with similar incidents reported in Spain, Portugal, Poland, Germany, and Belgium. In France, Carrefour reported 80 affected stores, Monoprix said 5% of its locations were hit, and Les Mous",
-      "published": "2026-10-12T18:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "summary": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-      "published": "2026-10-12T16:27:23+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cyberattack shuts down refrigerators at French supermarkets",
-      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-      "summary": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-      "published": "2026-10-12T15:23:34+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
-      "summary": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it. But speed is only part of the problem. A secure connection didn't always mean a safe destination. People offering to fix a ransomware mess had questions to answer themselves.",
-      "published": "2026-10-12T15:16:26+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-      "summary": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, and remote command execution capabilities. [...]",
-      "published": "2026-10-12T14:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-      "summary": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
-      "published": "2026-10-12T13:51:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
-      "url": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
-      "summary": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every personal AI agent keep piling up. Regardless, the tech world is mesmerized by the capabilities and potential of these services. Less than a year",
-      "published": "2026-10-12T11:55:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
-      "url": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
-      "summary": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller. On Friday, the company said it was investigating reports of loss of funds from users in Southeast Asia who had purchased products from CryptoBilis. The incident is said to have resulted in losses totaling more than $86",
-      "published": "2026-10-12T11:21:48+00:00"
     },
     {
       "source": "REDDIT",
