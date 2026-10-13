@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T01:56:35.282732+00:00",
+  "updated": "2026-10-13T09:13:52.453215+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,18 +27,102 @@
   ],
   "items": [
     {
-      "source": "HACKER NEWS",
-      "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
-      "url": "https://doi.org/10.1111/acel.70751",
-      "summary": "94 points · 60 comments",
-      "published": "2026-10-12T23:34:22+00:00"
+      "source": "OSINT",
+      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires",
+      "published": "2026-10-13T08:48:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+      "url": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+      "summary": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says. Progress published all 31 on October 12 and scored five of them critical. Fixes have been available since September 10, in MarkLogic 11.3.7 and MarkLogic 12.1.0. Affected",
+      "published": "2026-10-13T08:44:01+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+      "url": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+      "summary": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution. \"GitLab has remediated an issue that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD",
+      "published": "2026-10-13T08:43:37+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
-      "summary": "107 points · 62 comments",
-      "published": "2026-10-12T23:07:25+00:00"
+      "title": "Document Review with Unsiloed and TypeSafe Jev",
+      "url": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+      "summary": "3 points · 0 comments",
+      "published": "2026-10-13T08:24:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DishwasherBench – Can Frontier Models Stack a Dishwasher?",
+      "url": "https://github.com/composo-ai/DishwasherBench",
+      "summary": "5 points · 2 comments",
+      "published": "2026-10-13T08:24:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you manage read-only accounts that have access to sensitive data?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4qrcp/how_do_you_manage_readonly_accounts_that_have/",
+      "summary": "I'm very new in the PAM space and have only 5 months of experience. Would love to hear some opinions or advices from you experts in this industry. How do you manage read-only accounts that have access to sensitive data such as PII or financial records? Do you onboard them to a PAM solution to manage and control? If so, how is it done for your organization? My colleague and I had a casual discussion and allow me to paraphrase what she said, \"It's a read-only account for a reason and therefore it ",
+      "published": "2026-10-13T08:01:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "A poisoned AI model can pass every unit test, security scan, and validation check. That's why standard AppSec misses data poisoning.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4q810/a_poisoned_ai_model_can_pass_every_unit_test/",
+      "summary": "The AI security threat engineering leaders aren’t talking about. submitted by /u/Suspicious_Orchid770 [link] [comments]",
+      "published": "2026-10-13T07:25:31+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete",
+      "url": "https://science.slashdot.org/story/26/10/13/0428248/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Researchers have created a strengthened \"BioPykrete\" by combining ice with cellulose nanocrystals and a custom protein that binds the plant-based crystals to the ice structure. In small-scale tests, the material was about 10 times stronger than regular ice and absorbed 70 times more energy before breaking. ScienceAlert reports: Instead of wood pulp's larger, disordered fibers, the researchers used cellulose nanocrystals here. Cellulose is the main structural material in plants, and in nanocrysta",
+      "published": "2026-10-13T07:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Abu Dhabi is putting 50+ government entities under AI-agent security controls. Their main worry is agents being talked into \"authorised-looking\" actions.Interesting read from Khaleej Times (12 Oct)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4pckp/abu_dhabi_is_putting_50_government_entities_under/",
+      "summary": "Their main worry is agents being talked into \"authorized-looking\" actions. The framing that stood out: the main risk isn't the model making a mistake; it's an attacker instructing the agent to do something that looks authorized. Their approach is defense in depth: monitoring, auditing, guardrails, and a kill switch to shut down a misbehaving model. Also in the piece: TII's CEO says an agent you can't monitor in real time \"is malware that got access to your machine,\" and that non-human agents nee",
+      "published": "2026-10-13T06:30:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "url": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "summary": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek platforms across several brands, is being tracked by Bitdefender under the moniker Midnight Mimosa. The preinstalled",
+      "published": "2026-10-13T06:00:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Local playground for Sysadmin and offsec practice",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4mtlx/local_playground_for_sysadmin_and_offsec_practice/",
+      "summary": "Hi mates! I’ve set up a homelab (enterprise network simulation) on my laptop (an OMEN 16, i7-14650HX, 32 GB RAM, RTX 4060 8 GB) for long-term IT practice and testing, focusing on networking, sysadmin, and pentesting. More details can be found in this GitHub repo: https://github.com/Ko0ler/HomeLab I'd greatly appreciate your feedback! submitted by /u/Mhd008 [link] [comments]",
+      "published": "2026-10-13T04:03:16+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Linus Torvalds On Why AI Works For Him",
+      "url": "https://linux.slashdot.org/story/26/10/13/034206/linus-torvalds-on-why-ai-works-for-him?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from ZDNet: Many open-source developers still dislike AI. The latest example is System76 banning AI-generated content from its COSMIC desktop. At Open Source Summit Europe, Linux creator Linus Torvalds offered a different take: \"I actually really like using AI,\" Torvald told Dirk Hohndel, his good friend and head of Ericsson Software Technology, in their latest discussion. [...] Torvalds said, \"I think that you need to be very careful using AI when you're doin",
+      "published": "2026-10-13T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "summary": "125 points · 92 comments",
+      "published": "2026-10-13T02:46:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI models can provably hide arbitrary capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "summary": "202 points · 104 comments",
+      "published": "2026-10-13T02:07:08+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -51,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
       "url": "https://github.com/prabanta-dev/janas",
-      "summary": "33 points · 14 comments",
+      "summary": "133 points · 42 comments",
       "published": "2026-10-12T22:05:43+00:00"
     },
     {
@@ -63,23 +147,23 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Phreak.ing – Internet Phone Switch",
-      "url": "https://phreak.ing/",
-      "summary": "72 points · 24 comments",
-      "published": "2026-10-12T21:39:32+00:00"
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "summary": "401 points · 321 comments",
+      "published": "2026-10-12T21:40:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
       "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "summary": "67 points · 23 comments",
+      "summary": "194 points · 101 comments",
       "published": "2026-10-12T21:35:35+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Who Is Vfmaddrnd231pd?",
+      "title": "Who is vfmaddrnd231pd?",
       "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "summary": "115 points · 10 comments",
+      "summary": "196 points · 20 comments",
       "published": "2026-10-12T21:12:43+00:00"
     },
     {
@@ -104,13 +188,6 @@
       "published": "2026-10-12T20:13:52+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "GitHub adds authenticated pusher identities and a committer-match rule",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4ceff/github_adds_authenticated_pusher_identities_and_a/",
-      "summary": "GitHub's October 12 Changelog release adds a durable, authenticated pusher identity to every commit, separate from the author and committer fields that the pushing client can supply. It also adds a new ruleset condition called \"Committer must match pusher\", which can block pushes when the committer metadata does not match a verified email address of the authenticated pusher. The practical value is better auditability for compromised accounts and suspicious pushes. GitHub says the preview is limi",
-      "published": "2026-10-12T20:05:23+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Google's Fitbit Edge Debuts a Replaceable Battery, Brings Back the Screen",
       "url": "https://tech.slashdot.org/story/26/10/12/1841208/googles-fitbit-edge-debuts-a-replaceable-battery-brings-back-the-screen?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -128,14 +205,14 @@
       "source": "HACKER NEWS",
       "title": "Writing a Demoscene Intro for the ZX Spectrum",
       "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
-      "summary": "78 points · 6 comments",
+      "summary": "123 points · 24 comments",
       "published": "2026-10-12T19:40:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Making big downloads resumable in Firefox",
       "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "summary": "90 points · 33 comments",
+      "summary": "197 points · 84 comments",
       "published": "2026-10-12T19:36:02+00:00"
     },
     {
@@ -167,13 +244,6 @@
       "published": "2026-10-12T18:51:59+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "url": "https://github.com/openai/codex/issues/48195",
-      "summary": "463 points · 239 comments",
-      "published": "2026-10-12T18:29:04+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Hackers Heat French Supermarket Fridges, Sparking Fires and Spoiling Food",
       "url": "https://it.slashdot.org/story/26/10/12/1748203/hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -191,15 +261,8 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
       "url": "https://news.ycombinator.com/item?id=50059096",
-      "summary": "102 points · 69 comments",
+      "summary": "132 points · 97 comments",
       "published": "2026-10-12T16:46:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Gift ideas",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x46mnb/gift_ideas/",
-      "summary": "Hello there, my significant other is into cybersecurity and is comp sci, however I know nothing about the realm but I want to get him something that he would be super excited about and meaningful in a way. I legit know nothing about any of this so I wouldn’t even know what I am getting. I was thinking the Flipper Zero but i was wondering if it’s mostly used in malicious ways, or can it just be used for fun, idk sorry if that’s a bad question. He won’t want it if it’s used for bad. I also saw the",
-      "published": "2026-10-12T16:33:02+00:00"
     },
     {
       "source": "OSINT",
@@ -212,14 +275,14 @@
       "source": "HACKER NEWS",
       "title": "A Modern Web App in C",
       "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "summary": "394 points · 161 comments",
+      "summary": "552 points · 234 comments",
       "published": "2026-10-12T16:13:10+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GLM-Legal",
       "url": "https://z.ai/blog/glm-legal",
-      "summary": "430 points · 247 comments",
+      "summary": "553 points · 313 comments",
       "published": "2026-10-12T16:11:45+00:00"
     },
     {
@@ -282,21 +345,21 @@
       "source": "HACKER NEWS",
       "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
       "url": "https://github.com/h0m3us3r/w1700k-sdr",
-      "summary": "262 points · 69 comments",
+      "summary": "343 points · 90 comments",
       "published": "2026-10-12T12:41:58+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
       "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "summary": "450 points · 657 comments",
+      "summary": "682 points · 807 comments",
       "published": "2026-10-12T12:16:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Citroen revives the 2CV for an electric age",
       "url": "https://www.bbc.com/news/articles/c620r33plgppo",
-      "summary": "267 points · 317 comments",
+      "summary": "335 points · 364 comments",
       "published": "2026-10-12T12:09:09+00:00"
     },
     {
@@ -342,13 +405,6 @@
       "published": "2026-10-12T10:36:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What's one security habit you picked up the hard way?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3xqy3/whats_one_security_habit_you_picked_up_the_hard/",
-      "summary": "Some security habits only make sense after you've seen what can go wrong. Maybe it's finally using a password manager, checking a link twice before clicking, or removing app permissions you gave away ages ago and forgot about. We're curious about the little things people do differently now because of something they experienced, saw happen to someone else, or learned at work. What's one cybersecurity habit you wish you'd started following sooner? submitted by /u/greatlearningglobal [link] [commen",
-      "published": "2026-10-12T09:53:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
       "url": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
@@ -363,25 +419,11 @@
       "published": "2026-10-12T07:26:12+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "How the US Nuclear Plant Fleet Is Leaning Into AI",
-      "url": "https://hardware.slashdot.org/story/26/10/12/0445233/how-the-us-nuclear-plant-fleet-is-leaning-into-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"This year, nearly the entire fleet of 94 U.S. nuclear reactors has been offered the chance to integrate AI into its operations, and most have taken it,\" reports IEEE Spectrum: In August, California-based Atomic Canyon launched NIVA, the Nuclear Industry Virtual Assistant, which was developed in cooperation with nuclear-industry groups. The assistant was pilot-tested in nuclear plants run by Constellation Energy and is now available to the United States' entire fleet of reactors.... Meanwhile, t",
-      "published": "2026-10-12T07:22:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Why are we just accepting what Anthropic is doing to cybersecurity?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x3sy39/why_are_we_just_accepting_what_anthropic_is_doing/",
       "summary": "What do you guys think about Anthropic’s Cyber Mission? They’re flooding our industry with “free” AI security tools. Sounds like the usual playbook: offer something for free, kill the competition, make everyone dependent on it, then raise prices. But seriously, why does our community keep accepting this shit? Why aren’t we pushing back? They’re invading our market, devaluing our skills, and potentially replacing us with models trained on the same knowledge and work our community spent decades bu",
       "published": "2026-10-12T04:55:36+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Let's Encrypt to Cut SSL Certificate Lifetimes to 64 Days in February 2027",
-      "url": "https://it.slashdot.org/story/26/10/12/0211238/lets-encrypt-to-cut-ssl-certificate-lifetimes-to-64-days-in-february-2027?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Let's Encrypt \"will shorten the default validity period of its TLS certificates from 90 days to 64 days, starting February 10, 2027,\" reports the blog Linuxiac: All certificates issued or renewed from that date will have a 64-day lifespan unless users explicitly select one of the shorter options already available: 45 or six days. Existing certificates will remain valid until their expiration dates. Let's Encrypt expects the final 90-day certificate to expire on May 11, 2027. The organization als",
-      "published": "2026-10-12T03:09:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -394,15 +436,8 @@
       "source": "HACKER NEWS",
       "title": "Auto Research: Integer multiplication below n log n",
       "url": "https://app.getsupers.com/auto-research",
-      "summary": "11 points · 2 comments",
+      "summary": "58 points · 25 comments",
       "published": "2026-10-11T20:48:30+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers — Ukraine intensifies bombing of Yandex data centers in response to Moscow’s strikes on Kyiv data centers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x3epkk/russias_yandex_bot_traffic_nearly_eliminated/",
-      "summary": "submitted by /u/Lebarican22 [link] [comments]",
-      "published": "2026-10-11T17:54:21+00:00"
     },
     {
       "source": "OSINT",
@@ -415,7 +450,7 @@
       "source": "HACKER NEWS",
       "title": "The baffling intelligence of a single cell (2024)",
       "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "summary": "40 points · 1 comments",
+      "summary": "268 points · 53 comments",
       "published": "2026-10-11T11:02:30+00:00"
     },
     {
@@ -424,13 +459,6 @@
       "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
       "summary": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two way C2 communication with the attacker's infrastructure,\" iVerify said in a new report published Thursday. The name",
       "published": "2026-10-11T04:24:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
-      "summary": "229 points · 173 comments",
-      "published": "2026-10-10T22:10:57+00:00"
     },
     {
       "source": "OSINT",
@@ -455,38 +483,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-      "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-      "summary": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified four broad categories of unintended model actions during evaluations and internal use of Claude",
-      "published": "2026-10-10T09:18:45+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
       "published": "2026-10-10T00:17:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-      "url": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-      "summary": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star game engine pyxel, the attacker pushed a malicious workflow to 27 repositories starting at 13:20 UTC,\" StepSecurity",
-      "published": "2026-10-09T19:14:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-      "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-      "summary": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents and job applicants. The FBI has not named the suspect, and no charges have been made public. The",
-      "published": "2026-10-09T17:45:26+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-      "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-      "summary": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are and how separate it is from China. TP-Link denies the claims and says it will fight them in court. TP-Link Systems is based in",
-      "published": "2026-10-09T13:22:53+00:00"
     },
     {
       "source": "OSINT",
