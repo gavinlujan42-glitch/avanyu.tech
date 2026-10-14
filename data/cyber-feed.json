@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14T05:59:59.968457+00:00",
-  "item_count": 74,
+  "updated": "2026-10-14T11:36:20.588073+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,10 +27,157 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
+      "published": "2026-10-14T11:19:02+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
+      "published": "2026-10-14T11:08:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Reinvents Source Control As Claude Floods the World With Code",
+      "url": "https://developers.slashdot.org/story/26/10/14/0244248/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Anthropic says Claude-generated code has scaled so quickly that its existing Git-based infrastructure could not keep up. In response, the company built a custom centralized source-control system called Scion, along with AI-assisted review and search tools. The Register reports: \"In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day,\" the biz said in a blog post on Tuesday. \"We don't expect this rate of growth to slow down anytime",
+      "published": "2026-10-14T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
+      "published": "2026-10-14T11:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The road we were told not to take",
+      "url": "https://www.aspendailynews.com/opinion/whiting-the-road-we-were-told-not-to-take-0b9fd0a3?taid=6acba476a2e9090001ef1611&utm_campaign=trueanthem&utm_medium=social&utm_source=twitter",
+      "summary": "9 points · 1 comments",
+      "published": "2026-10-14T10:50:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+      "published": "2026-10-14T10:48:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Building an LLM from Scratch in TypeScript",
+      "url": "https://book.humanexperiences.io/",
+      "summary": "22 points · 0 comments",
+      "published": "2026-10-14T10:29:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "summary": "12 points · 0 comments",
+      "published": "2026-10-14T10:26:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+      "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+      "summary": "9 points · 1 comments",
+      "published": "2026-10-14T10:26:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Head all over the place",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x5n3z7/head_all_over_the_place/",
+      "summary": "Okay, so about five months ago, I started my journey in IT. However, I started without a clear goal or a proper roadmap. I was just learning random things without any real direction, to be honest. So far, I’ve learned Python, SQL, and a little bit of C. Looking back, I realise that one of my biggest mistakes was not having a structured learning plan. Having a clear roadmap makes a huge difference. Recently, I’ve developed an interest in cybersecurity, and I’m willing to give it a serious try. Ho",
+      "published": "2026-10-14T09:52:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CCNA or PenTest?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x5mzbv/ccna_or_pentest/",
+      "summary": "Ideally my goal is to get both certifications. But what I am not sure on is which to go for first. Reading over the PenTest exam objectives and some other information it appears you need to have some networking and scripting knowledge in order to be prepared for it but other things I have seen it doesn’t appear that way. Should I go for CCNA before going for PenTest+ or does it not matter? submitted by /u/_ShadowXero [link] [comments]",
+      "published": "2026-10-14T09:44:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Who Is Planting Backdoors in Ledger Crypto Wallets?",
+      "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+      "summary": "15 points · 0 comments",
+      "published": "2026-10-14T09:37:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Amazon pushes up prices across the Internet",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "summary": "32 points · 19 comments",
+      "published": "2026-10-14T09:28:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What agents mean for Rust (and vice versa)",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "summary": "24 points · 19 comments",
+      "published": "2026-10-14T08:49:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
+      "url": "https://typeof.net/Iosevka/",
+      "summary": "179 points · 67 comments",
+      "published": "2026-10-14T08:27:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
+      "published": "2026-10-14T07:46:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "MDE for Linux silencer",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x5kmmh/mde_for_linux_silencer/",
+      "summary": "Been doing some research on MDE for Linux submitted by /u/Tall_Caterpillar_459 [link] [comments]",
+      "published": "2026-10-14T07:09:09+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Skydance's Discovery+ Prices Increase By Up to 20%",
+      "url": "https://news.slashdot.org/story/26/10/14/0315235/skydances-discovery-prices-increase-by-up-to-20?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Discovery+ has raised prices for new subscribers, increasing its ad-free plan from $10 to $12 per month and its ad-supported plan from $6 to $7. The hike comes shortly after Paramount Skydance acquired Warner Bros. Discovery. Ars Technica reports: The new prices take effect for new subscribers immediately. Current subscribers to the streaming service, which primarily features unscripted content, like reality shows and documentaries, will receive 30 days' notice before the new prices take effect,",
+      "published": "2026-10-14T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
+      "url": "https://github.com/android/ndk/issues/2260",
+      "summary": "299 points · 140 comments",
+      "published": "2026-10-14T06:18:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why is every rationalist blog post way too long?",
+      "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
+      "summary": "49 points · 35 comments",
+      "published": "2026-10-14T06:02:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature. The work was done in a lab as a proof of",
+      "published": "2026-10-14T05:52:28+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Felix Rieseberg Homepage",
       "url": "https://felixrieseberg.com/",
-      "summary": "60 points · 21 comments",
+      "summary": "202 points · 79 comments",
       "published": "2026-10-14T04:42:33+00:00"
     },
     {
@@ -48,32 +195,11 @@
       "published": "2026-10-14T03:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Is 'Attention' the Essence of Intelligence?",
-      "url": "https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/",
-      "summary": "45 points · 28 comments",
-      "published": "2026-10-14T03:10:25+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "[Encuesta] ¿Me ayudan con mi proyecto de Ingeniería en Informática? (5 minutos)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x5gj93/encuesta_me_ayudan_con_mi_proyecto_de_ingeniería/",
-      "summary": "¡Hola a todos!Estoy terminando Ingeniería en Informática y estoy desarrollando un proyecto académico llamado SecureCode.Es una herramienta que busca automatizar la evaluación de controles de seguridad en repositorios de GitHub, identificando cumplimientos e incumplimientos y generando evidencia para facilitar las revisiones.Para complementar el proyecto, necesito conocer la opinión de estudiantes, desarrolladores y profesionales del área TI sobre la utilidad de este tipo de soluciones.No necesit",
-      "published": "2026-10-14T03:08:26+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
       "url": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
-      "summary": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
+      "summary": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or endeavoring to use an electronic, mechanical, or other device to intercept oral communications. He was arrested by",
       "published": "2026-10-14T01:59:25+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I built a tool to track what AI leaders say and how their views change on video",
-      "url": "https://blumify.io/people",
-      "summary": "66 points · 45 comments",
-      "published": "2026-10-14T01:09:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -90,13 +216,6 @@
       "published": "2026-10-13T23:24:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "summary": "95 points · 49 comments",
-      "published": "2026-10-13T23:13:23+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "GTA 6 Is Reportedly Coming to PC In Early 2027",
       "url": "https://games.slashdot.org/story/26/10/13/204232/gta-6-is-reportedly-coming-to-pc-in-early-2027?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -105,16 +224,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Grace Hopper Celebration Cancelled",
-      "url": "https://anitab.org/press-release",
-      "summary": "94 points · 24 comments",
-      "published": "2026-10-13T22:46:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Recreational Programming",
       "url": "https://www.cphiri.dev/presentations/recreational-programming",
-      "summary": "123 points · 47 comments",
+      "summary": "209 points · 83 comments",
       "published": "2026-10-13T22:33:33+00:00"
     },
     {
@@ -198,7 +310,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
       "url": "https://guitoro.com/",
-      "summary": "372 points · 99 comments",
+      "summary": "459 points · 119 comments",
       "published": "2026-10-13T19:11:48+00:00"
     },
     {
@@ -265,13 +377,6 @@
       "published": "2026-10-13T17:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: How random are you?",
-      "url": "https://lab.specr.net/rigged-draw/",
-      "summary": "121 points · 64 comments",
-      "published": "2026-10-13T16:57:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
       "url": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
@@ -296,7 +401,7 @@
       "source": "HACKER NEWS",
       "title": "Gemini 4 Argon",
       "url": "https://deepmind.google/models/gemini/",
-      "summary": "1173 points · 836 comments",
+      "summary": "1335 points · 928 comments",
       "published": "2026-10-13T16:03:16+00:00"
     },
     {
@@ -307,25 +412,11 @@
       "published": "2026-10-13T16:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "summary": "668 points · 641 comments",
-      "published": "2026-10-13T15:49:56+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
       "summary": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
       "published": "2026-10-13T15:45:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "summary": "306 points · 164 comments",
-      "published": "2026-10-13T15:25:50+00:00"
     },
     {
       "source": "OSINT",
@@ -338,15 +429,8 @@
       "source": "HACKER NEWS",
       "title": "The United Kingdom generates less electricity per person than in the 1970s",
       "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-      "summary": "263 points · 361 comments",
+      "summary": "333 points · 542 comments",
       "published": "2026-10-13T15:12:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "summary": "398 points · 173 comments",
-      "published": "2026-10-13T15:07:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -356,13 +440,6 @@
       "published": "2026-10-13T15:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "summary": "242 points · 396 comments",
-      "published": "2026-10-13T14:26:08+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x4xy0a/cyber_exec_arrested_in_case_allegedly_tied_to/",
@@ -370,11 +447,11 @@
       "published": "2026-10-13T14:20:36+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "The MFA Gaps Attackers are Still Exploiting",
-      "url": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
-      "summary": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close these authentication gaps. [...]",
-      "published": "2026-10-13T14:01:11+00:00"
+      "source": "HACKER NEWS",
+      "title": "Same Job, Two Engines: InnoDB and Iceberg Internals",
+      "url": "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+      "summary": "21 points · 1 comments",
+      "published": "2026-10-13T13:31:43+00:00"
     },
     {
       "source": "REDDIT",
@@ -382,69 +459,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x4wfkk/hows_the_cybersecurity_market/",
       "summary": "I've been in cybersecurity for a while now, changed role from an analyst to CrowdStrike SME. But I've been at this company for 12 years and I want to try something new. Should I go back to being an Analyst? Cloud Engineering which I did for 2 years? Stay with CrowdStrike? submitted by /u/Crunux [link] [comments]",
       "published": "2026-10-13T13:19:32+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "url": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "summary": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative penalty is the largest issued by the data protection watchdog, arguing the case merited a high fine because of the \"very serious\" nature of the breach. The infringements",
-      "published": "2026-10-13T13:12:32+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Breaking out of Help Desk to “Entry-Level” Cyber Roles",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4uqge/breaking_out_of_help_desk_to_entrylevel_cyber/",
-      "summary": "I’m a recent grad working full-time in a Service Desk Support role earning $45k a year. Wanted to come on here and seek guidance and a realistic timeline on how long it’ll take me to break out of Helpdesk and start earning $75k - $95k in cyber. I started working helpdesk August so 2 months now going onto 3. I graduated May 2026, have a professional internship under my belt alongside an additional part-time job with CodePath as a TechFellow. I also just got my security+ last month. I had a recrui",
-      "published": "2026-10-13T12:00:52+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "url": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "summary": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security teams can investigate. A compromised account that looks legitimate at first could become the starting point for a much",
-      "published": "2026-10-13T11:57:06+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "url": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "summary": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12. The chain was tested on two TV models, the 32LQ636BPSA and the 27TQ600SW, running webOS 7.5.7-25 on firmware",
-      "published": "2026-10-13T11:09:10+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "After a 10-Year Redemption Arc, No Man's Sky Is Coming to the iPhone and iPad",
-      "url": "https://games.slashdot.org/story/26/10/13/0435236/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "No Man's Sky is coming to iPhone and iPad on October 28, more than a decade after its rocky launch and long-running redemption arc. The title will cost $19.99, but a free trial will let users try it out before purchasing. Ars Technica reports: It will run on devices as far back as the iPhone 11 and the third-generation iPad Air. No Man's Sky might not have the most cutting-edge AAA graphics (though they're still strong, and they've come a long way since launch via updates), but the game's uncomm",
-      "published": "2026-10-13T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-      "url": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-      "summary": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed. A developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list. Someone downloads a local model runtime, a program that runs models directly on the machine instead of sending data to an external service, because they were told not to send company data",
-      "published": "2026-10-13T10:30:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "4 years in cybersecurity and feeling lost on what to learn next",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x4rrny/4_years_in_cybersecurity_and_feeling_lost_on_what/",
-      "summary": "I've been in cybersecurity for around 4 years, currently working in an EDR company's IR team, mostly investigating Windows environments. Lately, I've been feeling a bit overwhelmed about what to learn next. On one hand, I feel like I should start learning cloud IR. On the other, I see companies offering IR, CTI, Threat Hunting, and other services, and I wonder how people actually gain experience in all these areas. I'm also interested in CTI and thought about starting to produce threat intellige",
-      "published": "2026-10-13T09:08:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-      "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-      "summary": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said. The attackers reached them through the controller that runs all of a store's fridges and freezers, a device made by Danish company Danfoss that maintenance firms can manage remotely. Les Mousquetaires",
-      "published": "2026-10-13T08:48:41+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "A New 'Super Ice' Is 10 Times Stronger, Bringing It Close to The Strength of Concrete",
-      "url": "https://science.slashdot.org/story/26/10/13/0428248/a-new-super-ice-is-10-times-stronger-bringing-it-close-to-the-strength-of-concrete?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Researchers have created a strengthened \"BioPykrete\" by combining ice with cellulose nanocrystals and a custom protein that binds the plant-based crystals to the ice structure. In small-scale tests, the material was about 10 times stronger than regular ice and absorbed 70 times more energy before breaking. ScienceAlert reports: Instead of wood pulp's larger, disordered fibers, the researchers used cellulose nanocrystals here. Cellulose is the main structural material in plants, and in nanocrysta",
-      "published": "2026-10-13T07:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -455,16 +469,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "MIT class project turns into an FDA-cleared treatment for tremors",
-      "url": "https://news.mit.edu/2026/mit-class-project-turns-into-fda-cleared-treatment-for-tremors-1002",
-      "summary": "192 points · 35 comments",
-      "published": "2026-10-12T19:28:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
       "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "summary": "114 points · 10 comments",
+      "summary": "179 points · 25 comments",
       "published": "2026-10-12T09:05:02+00:00"
     },
     {
@@ -478,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "Sound – Bartosz Ciechanowski (2022)",
       "url": "https://ciechanow.ski/sound/",
-      "summary": "54 points · 8 comments",
+      "summary": "138 points · 21 comments",
       "published": "2026-10-11T16:46:43+00:00"
     },
     {
