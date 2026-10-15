@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T01:43:20.883747+00:00",
+  "updated": "2026-10-15T07:15:20.684470+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,67 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Mini Organs Launching to Space For Study On Aging",
+      "url": "https://science.slashdot.org/story/26/10/14/2153247/mini-organs-launching-to-space-for-study-on-aging?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Researchers from Mount Sinai, NASA, and Space Tango have launched miniature human hearts and brains to the International Space Station to study how microgravity and radiation affect organs and potentially accelerate aging. \"If people are going to be living and working in space, then we need to understand what's going to happen to them,\" David Sachs, assistant professor of surgery at the Icahn School of Medicine at Mount Sinai, told ABC News. \"But also, because it's interesting as a model of acce",
+      "published": "2026-10-15T07:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
-      "title": "Looking for OFFSEC OSAI Tutoring",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x690fx/looking_for_offsec_osai_tutoring/",
-      "summary": "Hi, I'm taking the OffSec OSAI cert and I'm just way out of depth here in the course, looking for some 1 on 1 training if anyone can help me understand the material and create an AI Pen Testing harness to do some of the challenges. submitted by /u/Available-Coat-8870 [link] [comments]",
-      "published": "2026-10-15T01:35:42+00:00"
+      "title": "Burp Suite Web Academy (BSCP) - Paths vs Topics",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6eri9/burp_suite_web_academy_bscp_paths_vs_topics/",
+      "summary": "Hi, I've recently started learning about vulnerabilities through the Burp Suite Web Academy. I'm really confused about picking paths or topics as my roadmap. From what I've seen, paths contain the same content as topics, only that there's fewer of it but it's ordered in a more intuitive way. However, there is not a path for every topic. I've worked in SDE for 4 years and now trying to learn about vulnerabilities for a future AppSec role. I'm familiar with some of them. Should I choose paths or g",
+      "published": "2026-10-15T06:57:42+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "FYP Ideas for a Cybersecurity Final-Year Student (AI Is Mandatory)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6ef2y/fyp_ideas_for_a_cybersecurity_finalyear_student/",
+      "summary": "Hey everyone! I'm a final-year BS Cybersecurity student, and I'm currently looking for ideas for my Final Year Project (FYP). The main requirement is that AI must be a mandatory part of the project. I'm interested in SOC and Vapt but I'm struggling in coming up with any ideas. submitted by /u/NotNerdFR [link] [comments]",
+      "published": "2026-10-15T06:34:58+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
+      "published": "2026-10-15T06:17:58+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Real-time MFA-relay phishing kits keep showing up. What's actually working against them for you?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6cgib/realtime_mfarelay_phishing_kits_keep_showing_up/",
+      "summary": "A few reports recently describe the same pattern: the phishing page relays your credentials and OTP to the real site live, then keeps the session. Cisco Talos documented an AI-assisted Google kit that syncs auth state over WebSocket ( UAT-11985 ). Malwarebytes profiled BlueKit, a subscription kit that grabs session cookies and device fingerprints ( writeup ). CTM360's InsureTrap report covers a kit aimed at insurance portals that relays OTPs before they expire ( report ). Codes by SMS or authent",
+      "published": "2026-10-15T04:37:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
+      "url": "https://github.com/andunieee/flipflop",
+      "summary": "22 points · 7 comments",
+      "published": "2026-10-15T04:25:28+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Schools Across US Protest FCC Plan That Could Disconnect Kids From Internet",
+      "url": "https://news.slashdot.org/story/26/10/14/2136207/schools-across-us-protest-fcc-plan-that-could-disconnect-kids-from-internet?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: Schools and libraries from around the U.S. pleaded with the Federal Communications Commission to drop the idea of ending E-Rate, a $2 billion-a-year program that connects students and library visitors to the Internet. FCC Chairman Brendan Carr has criticized school districts for having \"experimented with a massive increase in screen time for students,\" and said E-Rate expanded too far beyond its original purpose of \"supporting basic Internet",
+      "published": "2026-10-15T03:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Wow. This is a dramatic development.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6ames/wow_this_is_a_dramatic_development/",
+      "summary": "Paywall removed. Developments in the Ed Dubrovsky case…. submitted by /u/GullibleWeb7966 [link] [comments]",
+      "published": "2026-10-15T02:57:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "summary": "53 points · 12 comments",
+      "published": "2026-10-15T02:06:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -44,7 +100,7 @@
       "source": "HACKER NEWS",
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "67 points · 18 comments",
+      "summary": "170 points · 39 comments",
       "published": "2026-10-14T23:59:37+00:00"
     },
     {
@@ -58,7 +114,7 @@
       "source": "HACKER NEWS",
       "title": "Tiny Little Office",
       "url": "https://tinylittleoffice.com/",
-      "summary": "138 points · 21 comments",
+      "summary": "336 points · 49 comments",
       "published": "2026-10-14T22:10:08+00:00"
     },
     {
@@ -72,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
       "url": "https://typesafe.ai/blog/jev-1-14",
-      "summary": "185 points · 60 comments",
+      "summary": "268 points · 85 comments",
       "published": "2026-10-14T21:11:03+00:00"
     },
     {
@@ -86,15 +142,8 @@
       "source": "HACKER NEWS",
       "title": "OpenCode 2.0",
       "url": "https://anoma.ly/notes/opencode-2-0/",
-      "summary": "300 points · 124 comments",
+      "summary": "530 points · 208 comments",
       "published": "2026-10-14T20:48:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "summary": "252 points · 111 comments",
-      "published": "2026-10-14T20:30:54+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -119,16 +168,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Fancy Curl Sites",
-      "url": "https://nytpu.com/gemlog/2026-03-18",
-      "summary": "84 points · 14 comments",
-      "published": "2026-10-14T19:29:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Things to know when you get cancer – 2026 Edition",
+      "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "785 points · 201 comments",
+      "summary": "1192 points · 299 comments",
       "published": "2026-10-14T19:26:30+00:00"
     },
     {
@@ -147,23 +189,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-      "summary": "285 points · 203 comments",
-      "published": "2026-10-14T18:37:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "summary": "282 points · 211 comments",
-      "published": "2026-10-14T18:32:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
       "url": "https://petal.live/",
-      "summary": "112 points · 30 comments",
+      "summary": "156 points · 38 comments",
       "published": "2026-10-14T18:23:14+00:00"
     },
     {
@@ -191,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
       "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "837 points · 444 comments",
+      "summary": "878 points · 514 comments",
       "published": "2026-10-14T17:45:23+00:00"
     },
     {
@@ -226,14 +254,14 @@
       "source": "OSINT",
       "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
       "url": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud conspiracy, money",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud",
       "published": "2026-10-14T16:34:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Better HTTP/1 connection reuse in Go 1.27",
       "url": "https://go.dev/blog/http-connection-reuse",
-      "summary": "198 points · 30 comments",
+      "summary": "237 points · 35 comments",
       "published": "2026-10-14T16:29:33+00:00"
     },
     {
@@ -247,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Americans' social activity has steeply declined in the past 30 years",
       "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "summary": "217 points · 260 comments",
+      "summary": "355 points · 338 comments",
       "published": "2026-10-14T16:09:00+00:00"
     },
     {
@@ -263,13 +291,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x5u2qc/the_nightmare_of_securing_rag_pipelines_in/",
       "summary": "Honestly it feels like every dev team is rushing to spin up internal LLMs and RAG pipelines, but the security side is just a complete wild west right now. Traditional WAFs and DLP solutions definetly aren't cutting it when it comes to prompt injection or potential data leaks thru vector DBs. How are you guys actually handling security for this? Relying on semantic firewalls, building custom middleware, or just locking down the context window and hoping for the best? Would love to hear what's rea",
       "published": "2026-10-14T15:21:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Passkeys are not a trap",
-      "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-      "summary": "485 points · 657 comments",
-      "published": "2026-10-14T15:15:45+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -398,27 +419,6 @@
       "published": "2026-10-14T07:46:57+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Skydance's Discovery+ Prices Increase By Up to 20%",
-      "url": "https://news.slashdot.org/story/26/10/14/0315235/skydances-discovery-prices-increase-by-up-to-20?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Discovery+ has raised prices for new subscribers, increasing its ad-free plan from $10 to $12 per month and its ad-supported plan from $6 to $7. The hike comes shortly after Paramount Skydance acquired Warner Bros. Discovery. Ars Technica reports: The new prices take effect for new subscribers immediately. Current subscribers to the streaming service, which primarily features unscripted content, like reality shows and documentaries, will receive 30 days' notice before the new prices take effect,",
-      "published": "2026-10-14T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-      "url": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-      "summary": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one they broke into handles passwords for a Windows anti-phishing feature. The work was done in a lab as a proof of",
-      "published": "2026-10-14T05:52:28+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "FBI Arrests Saudi OpenAI Employee For Planting Recording Device In Conference Room",
-      "url": "https://yro.slashdot.org/story/26/10/14/0231224/fbi-arrests-saudi-openai-employee-for-planting-recording-device-in-conference-room?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from CNBC: An OpenAI employee was arrested after a \"sophisticated recording device\" was found hidden inside the executive conference room. Abdulrahman Alfozan, 35, who is a national of the Kingdom of Saudi Arabia, was arrested in connection with the matter, the DOJ said. The company said an employee planted the device a few days before it was found, and the Federal Bureau of Investigation \"moved quickly to make an arrest,\" the post said. The employee was termi",
-      "published": "2026-10-14T03:30:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft Patches More Than 1,400 Security Flaws",
       "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
@@ -433,13 +433,6 @@
       "published": "2026-10-13T22:33:02+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x5acu1/ivanti_misses_opportunity_to_fix_vulnerability/",
-      "summary": "submitted by /u/drewchainzz [link] [comments]",
-      "published": "2026-10-13T22:12:30+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
       "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
@@ -447,45 +440,45 @@
       "published": "2026-10-13T21:33:26+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x58sqp/anthropic_warns_small_ai_models_could_soon_form/",
-      "summary": "submitted by /u/DeepCedarShadow [link] [comments]",
-      "published": "2026-10-13T21:07:35+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "French supermarket fridges were pushed to 50°C overnight through Danfoss controllers that no longer get security updates",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x57oku/french_supermarket_fridges_were_pushed_to_50c/",
-      "summary": "On the night of October 11, someone got into the refrigeration controllers at French supermarkets and put them into forced defrost with the target set to 50°C. A store manager in Gradignan, quoted by [ITPro]( https://www.itpro.com/security/cyber-attacks/french-fridges-hacked-in-country-wide-supermarket-attack ), said it started around 11pm and staff found out at 4am, after the cold room hit 50°C and set off the sprinklers. The store counts don't match yet. [BleepingComputer]( https://www.bleepin",
-      "published": "2026-10-13T20:23:06+00:00"
+      "source": "HACKER NEWS",
+      "title": "Donaldson Futuro House in Idyllwild, California, USA",
+      "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+      "summary": "38 points · 7 comments",
+      "published": "2026-10-13T19:55:41+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "your C is not standard C",
-      "url": "https://sebsite.pw/w/20261012-notstdc.html",
-      "summary": "19 points · 3 comments",
-      "published": "2026-10-13T13:36:21+00:00"
+      "title": "It took me nine years to hack my Xbox 360",
+      "url": "https://kennedn.com/blog/posts/glitching/",
+      "summary": "63 points · 8 comments",
+      "published": "2026-10-13T12:33:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ask HN: CAD for wood working with LLM support?",
       "url": "https://news.ycombinator.com/item?id=50067325",
-      "summary": "24 points · 19 comments",
+      "summary": "62 points · 53 comments",
       "published": "2026-10-13T05:54:01+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Phloem: Git history grown like a slime mold",
-      "url": "https://phloem.stemdeck.app/",
-      "summary": "81 points · 19 comments",
-      "published": "2026-10-12T10:52:25+00:00"
+      "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
+      "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+      "summary": "5 points · 0 comments",
+      "published": "2026-10-12T18:20:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Catch a Bird – I made it for my own sanity",
+      "url": "https://catchabird.com",
+      "summary": "112 points · 24 comments",
+      "published": "2026-10-12T08:51:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Do dentists know what they're doing?",
       "url": "https://mapwriting.substack.com/p/dentists",
-      "summary": "413 points · 320 comments",
+      "summary": "620 points · 434 comments",
       "published": "2026-10-12T02:21:54+00:00"
     },
     {
@@ -494,6 +487,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x3nb8j/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-10-12T00:00:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
+      "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+      "summary": "24 points · 1 comments",
+      "published": "2026-10-11T20:36:56+00:00"
     },
     {
       "source": "OSINT",
