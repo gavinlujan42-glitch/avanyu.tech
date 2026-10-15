@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T07:15:20.684470+00:00",
+  "updated": "2026-10-15T12:48:01.136482+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,111 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Scripted phishing attacks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6khlo/scripted_phishing_attacks/",
+      "summary": "Does anyone have a low- medium level overview of what a phished email account will do once compromised. We have seen a lot of google workspace accounts get compromised and then send out phishing links to somewhat random contacts. We are also seeing some settings being changed on the account. I was wondering if anyone has some examples of this attack flow, or even better the scripts being used( I'm assuming this is scripted) Thanks submitted by /u/Pristine-Desk-5002 [link] [comments]",
+      "published": "2026-10-15T12:37:01+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "[ Removed by Reddit ]",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6kaqe/removed_by_reddit/",
+      "summary": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/CCurity-io [link] [comments]",
+      "published": "2026-10-15T12:27:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+      "url": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+      "summary": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19. An attacker cannot reach the flaw through core alone, the Drupal Security Team said in its advisory. Several exploit paths exist through contributed modules, and at least one known path needs no login.",
+      "published": "2026-10-15T12:07:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Police arrests 95 suspects in international CSAM crackdown action",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+      "summary": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
+      "published": "2026-10-15T11:55:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+      "url": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+      "summary": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure on MSSPs serving US businesses, which accounted for 16% of country-attributed targets. Similar attacks",
+      "published": "2026-10-15T11:46:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
+      "published": "2026-10-15T11:46:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Unfenced – Land for sale that borders public land",
+      "url": "https://unfenced.land/",
+      "summary": "30 points · 8 comments",
+      "published": "2026-10-15T11:38:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Why AI Confidence Is Not Validation",
+      "url": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+      "summary": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an",
+      "published": "2026-10-15T11:04:35+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Bank of America Hired 1,000 Contractors to Patch Software Flaws Exposed By Anthropic's Mythos",
+      "url": "https://it.slashdot.org/story/26/10/14/2143253/bank-of-america-hired-1000-contractors-to-patch-software-flaws-exposed-by-anthropics-mythos?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Bank of America hired 1,000 outside contractors to help patch software vulnerabilities exposed by advanced AI models, including Anthropic's Mythos. The effort added hundreds of millions of dollars in third-quarter expenses. CNBC reports: In an interview after the bank's third-quarter earnings release, [CEO Brian Moynihan] said that earlier this year the company rushed to bolster a wide spectrum of its internal and vendor code using thousands of employees and outside personnel. \"That risk is real",
+      "published": "2026-10-15T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+      "url": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+      "summary": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from unknown numbers and tackle spam or fraudulent calls. To that end, the Department of Telecommunications has issued a circular urging service",
+      "published": "2026-10-15T10:42:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+      "summary": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+      "published": "2026-10-15T09:10:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
+      "url": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
+      "summary": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations. The spike, according to GitGuardian, was observed on October 8 and 9, 2026. \"This resulted from compromising the GitHub accounts of about 1,900 users. It attempted to extract 3,174 secrets from public repositories' CI,\" security researchers Gaetan",
+      "published": "2026-10-15T08:45:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+      "summary": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+      "published": "2026-10-15T08:06:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "wiz vs sweet security for ai agents, anyone running sweet?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6ftsi/wiz_vs_sweet_security_for_ai_agents_anyone/",
+      "summary": "security lead at a ~200 person SaaS, mostly AWS/EKS, team of 3. We've had wiz for about a year and honestly its been good for posture, no complaints there problem is ai agents. we had maybe 5 at the start of the year, now its 30+ and half of them nobody told us about like one was hitting our billing db last month with creds it inherited from an old integration. Wiz flagged the permission eventually but by then it had been doing it for weeks :// rep is pushing their AI security stuff but it still",
+      "published": "2026-10-15T08:06:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+      "url": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html",
+      "summary": "Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian. Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and agentic workflows. In February 2025, DataStax, the parent company of Langflow, was acquired by IBM. The vulnerability in question is CVE-2026-105740 (CVSS score: 9.9), a case of",
+      "published": "2026-10-15T07:07:05+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Mini Organs Launching to Space For Study On Aging",
       "url": "https://science.slashdot.org/story/26/10/14/2153247/mini-organs-launching-to-space-for-study-on-aging?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -41,18 +146,11 @@
       "published": "2026-10-15T06:57:42+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "FYP Ideas for a Cybersecurity Final-Year Student (AI Is Mandatory)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6ef2y/fyp_ideas_for_a_cybersecurity_finalyear_student/",
-      "summary": "Hey everyone! I'm a final-year BS Cybersecurity student, and I'm currently looking for ideas for my Final Year Project (FYP). The main requirement is that AI must be a mandatory part of the project. I'm interested in SOC and Vapt but I'm struggling in coming up with any ideas. submitted by /u/NotNerdFR [link] [comments]",
-      "published": "2026-10-15T06:34:58+00:00"
-    },
-    {
       "source": "OSINT",
-      "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-      "url": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-      "summary": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation. The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the management interface. \"A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS software enables an",
-      "published": "2026-10-15T06:17:58+00:00"
+      "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+      "url": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
+      "summary": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems. In a report published earlier",
+      "published": "2026-10-15T06:43:08+00:00"
     },
     {
       "source": "REDDIT",
@@ -60,13 +158,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x6cgib/realtime_mfarelay_phishing_kits_keep_showing_up/",
       "summary": "A few reports recently describe the same pattern: the phishing page relays your credentials and OTP to the real site live, then keeps the session. Cisco Talos documented an AI-assisted Google kit that syncs auth state over WebSocket ( UAT-11985 ). Malwarebytes profiled BlueKit, a subscription kit that grabs session cookies and device fingerprints ( writeup ). CTM360's InsureTrap report covers a kit aimed at insurance portals that relays OTPs before they expire ( report ). Codes by SMS or authent",
       "published": "2026-10-15T04:37:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Flipflop, iroh-powered persistent tunnels for filesharing",
-      "url": "https://github.com/andunieee/flipflop",
-      "summary": "22 points · 7 comments",
-      "published": "2026-10-15T04:25:28+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -83,13 +174,6 @@
       "published": "2026-10-15T02:57:54+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Double Headed Stack Allocator",
-      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "summary": "53 points · 12 comments",
-      "published": "2026-10-15T02:06:36+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x67do0/palo_alto_networks_warns_of_panos_rce_flaw/",
@@ -100,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
       "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "summary": "170 points · 39 comments",
+      "summary": "247 points · 58 comments",
       "published": "2026-10-14T23:59:37+00:00"
     },
     {
@@ -112,9 +196,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Show HN: Ito – Build Terminal UIs in Lua",
+      "url": "https://uji.sh/ito/",
+      "summary": "42 points · 9 comments",
+      "published": "2026-10-14T22:23:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Tiny Little Office",
       "url": "https://tinylittleoffice.com/",
-      "summary": "336 points · 49 comments",
+      "summary": "501 points · 102 comments",
       "published": "2026-10-14T22:10:08+00:00"
     },
     {
@@ -123,13 +214,6 @@
       "url": "https://linux.slashdot.org/story/26/10/14/2121212/microsoft-defender-now-supports-linux-desktops?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"Starting today, Linux desktops are now officially supported by Microsoft Defender,\" reports Neowin. A public preview of the threat detection app extends its enterprise security platform beyond servers to developer workstations running distributions such as Ubuntu, Debian, Fedora, and RHEL. The offering includes antivirus protection, endpoint detection and response, vulnerability management, threat hunting, and device isolation. From the report: Microsoft is also making it easier to onboard desk",
       "published": "2026-10-14T22:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "summary": "268 points · 85 comments",
-      "published": "2026-10-14T21:11:03+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -142,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "OpenCode 2.0",
       "url": "https://anoma.ly/notes/opencode-2-0/",
-      "summary": "530 points · 208 comments",
+      "summary": "698 points · 288 comments",
       "published": "2026-10-14T20:48:24+00:00"
     },
     {
@@ -151,13 +235,6 @@
       "url": "https://news.slashdot.org/story/26/10/14/1849228/us-tech-giants-warn-europe-that-data-sovereignty-requirements-could-cost-128-billion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A study commissioned by CCIA Europe, whose members include Amazon, Google, and Meta, estimates that the EU's proposed Cloud and AI Development Act could impose 115 billion euros ($128 billion) in costs over a decade as governments and companies migrate workloads and rewrite software. The figure is more than six times the European Commission's upper estimate. However, roughly 80 billion euros ($89 billion) of it comes from a modeled scenario assuming sovereignty rules are extended to 25% of cloud",
       "published": "2026-10-14T20:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Is deception technology actually useful for detecting attackers, or is it just another layer of alerts?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x61bx4/is_deception_technology_actually_useful_for/",
-      "summary": "We talk a lot about EDR, SIEM, firewalls, and threat intelligence, but I'm interested in where deception technology fits into a real security environment. Decoy servers, honeytokens, and fake credentials can generate high-confidence alerts when someone interacts with them. But detecting an interaction is only one part of the problem. What matters to me is what happens next: Can we collect enough telemetry to understand the attacker's behavior? Can deception help identify reconnaissance or latera",
-      "published": "2026-10-14T19:55:38+00:00"
     },
     {
       "source": "OSINT",
@@ -170,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Things to know when you get cancer",
       "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "summary": "1192 points · 299 comments",
+      "summary": "1568 points · 375 comments",
       "published": "2026-10-14T19:26:30+00:00"
     },
     {
@@ -186,13 +263,6 @@
       "url": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
       "summary": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,",
       "published": "2026-10-14T18:38:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-      "url": "https://petal.live/",
-      "summary": "156 points · 38 comments",
-      "published": "2026-10-14T18:23:14+00:00"
     },
     {
       "source": "REDDIT",
@@ -214,13 +284,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
       "summary": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
       "published": "2026-10-14T17:46:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "summary": "878 points · 514 comments",
-      "published": "2026-10-14T17:45:23+00:00"
     },
     {
       "source": "OSINT",
@@ -261,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Better HTTP/1 connection reuse in Go 1.27",
       "url": "https://go.dev/blog/http-connection-reuse",
-      "summary": "237 points · 35 comments",
+      "summary": "270 points · 45 comments",
       "published": "2026-10-14T16:29:33+00:00"
     },
     {
@@ -275,7 +338,7 @@
       "source": "HACKER NEWS",
       "title": "Americans' social activity has steeply declined in the past 30 years",
       "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "summary": "355 points · 338 comments",
+      "summary": "460 points · 414 comments",
       "published": "2026-10-14T16:09:00+00:00"
     },
     {
@@ -284,13 +347,6 @@
       "url": "https://slashdot.org/story/26/10/14/151250/netflix-cuts-about-6-of-jobs-in-biggest-layoffs-since-2022?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Netflix is laying off about 1,000 employees, or 6% of its workforce, in its largest round of cuts since 2022. The company says its business remains strong, but it is facing growing pressure from YouTube, TikTok, and other rivals. Reuters reports: The bulk of the job cuts would be in Netflix's product, tech, legal and human-resources teams, the email Co-CEOs Greg Peters and Ted Sarandos sent to employees on Wednesday showed. \"Our mission -- to entertain the world -- is ambitious, and delivering o",
       "published": "2026-10-14T16:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The nightmare of securing RAG pipelines in production... thoughts?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x5u2qc/the_nightmare_of_securing_rag_pipelines_in/",
-      "summary": "Honestly it feels like every dev team is rushing to spin up internal LLMs and RAG pipelines, but the security side is just a complete wild west right now. Traditional WAFs and DLP solutions definetly aren't cutting it when it comes to prompt injection or potential data leaks thru vector DBs. How are you guys actually handling security for this? Relying on semantic firewalls, building custom middleware, or just locking down the context window and hoping for the best? Would love to hear what's rea",
-      "published": "2026-10-14T15:21:48+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -350,73 +406,10 @@
     },
     {
       "source": "OSINT",
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "url": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
-      "published": "2026-10-14T12:30:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "url": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "summary": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
-      "published": "2026-10-14T12:13:36+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "url": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "summary": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes",
-      "published": "2026-10-14T11:50:00+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Hirudo Android malware replaces banking apps to evade security checks",
       "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
       "summary": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
       "published": "2026-10-14T11:41:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "url": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "summary": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
-      "published": "2026-10-14T11:19:02+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "url": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
-      "published": "2026-10-14T11:08:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Anthropic Reinvents Source Control As Claude Floods the World With Code",
-      "url": "https://developers.slashdot.org/story/26/10/14/0244248/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Anthropic says Claude-generated code has scaled so quickly that its existing Git-based infrastructure could not keep up. In response, the company built a custom centralized source-control system called Scion, along with AI-assisted review and search tools. The Register reports: \"In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day,\" the biz said in a blog post on Tuesday. \"We don't expect this rate of growth to slow down anytime",
-      "published": "2026-10-14T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "url": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "summary": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
-      "published": "2026-10-14T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-      "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-      "summary": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-      "published": "2026-10-14T10:48:09+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-      "url": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-      "summary": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the virtual machine. The bug is tracked as CVE-2026-74580 and named Vghost. Tencent Zhuque Lab, which found the",
-      "published": "2026-10-14T07:46:57+00:00"
     },
     {
       "source": "OSINT",
@@ -426,59 +419,73 @@
       "published": "2026-10-13T23:24:53+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-      "summary": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-      "published": "2026-10-13T22:33:02+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-      "summary": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-      "published": "2026-10-13T21:33:26+00:00"
+      "source": "HACKER NEWS",
+      "title": "The First Social Network: In rural Argentina residents send messages w AM radio",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/the-first-social-network",
+      "summary": "56 points · 21 comments",
+      "published": "2026-10-13T22:17:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Donaldson Futuro House in Idyllwild, California, USA",
       "url": "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
-      "summary": "38 points · 7 comments",
+      "summary": "56 points · 21 comments",
       "published": "2026-10-13T19:55:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tracing Mystery Network Traffic with eBPF Across HRT's Global Compute Cluster",
+      "url": "https://www.hudsonrivertrading.com/hrtbeat/long-on-research-short-on-bandwidth/",
+      "summary": "11 points · 0 comments",
+      "published": "2026-10-13T13:05:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "It took me nine years to hack my Xbox 360",
       "url": "https://kennedn.com/blog/posts/glitching/",
-      "summary": "63 points · 8 comments",
+      "summary": "111 points · 31 comments",
       "published": "2026-10-13T12:33:18+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ask HN: CAD for wood working with LLM support?",
-      "url": "https://news.ycombinator.com/item?id=50067325",
-      "summary": "62 points · 53 comments",
-      "published": "2026-10-13T05:54:01+00:00"
+      "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+      "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+      "summary": "186 points · 96 comments",
+      "published": "2026-10-13T12:30:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Indigene – Native plants for where you stand",
+      "url": "https://indigene.app/",
+      "summary": "53 points · 11 comments",
+      "published": "2026-10-12T23:25:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "David Rudnick on \"borderline impossible\" process of designing Arsenal typeface",
+      "url": "https://www.itsnicethat.com/features/david-rudnick-johnnie-campbell-arsenal-rocastle-typeface-graphic-design-spotlight-121026",
+      "summary": "40 points · 21 comments",
+      "published": "2026-10-12T18:44:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sticky alpine flower confirms Darwin's 150-year-old carnivorous plant prediction",
       "url": "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
-      "summary": "5 points · 0 comments",
+      "summary": "62 points · 21 comments",
       "published": "2026-10-12T18:20:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Catch a Bird – I made it for my own sanity",
       "url": "https://catchabird.com",
-      "summary": "112 points · 24 comments",
+      "summary": "246 points · 69 comments",
       "published": "2026-10-12T08:51:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Do dentists know what they're doing?",
       "url": "https://mapwriting.substack.com/p/dentists",
-      "summary": "620 points · 434 comments",
+      "summary": "786 points · 576 comments",
       "published": "2026-10-12T02:21:54+00:00"
     },
     {
@@ -487,13 +494,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x3nb8j/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-10-12T00:00:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Toftwood Male Voice Choir: A Mystery Pressed in Vinyl",
-      "url": "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
-      "summary": "24 points · 1 comments",
-      "published": "2026-10-11T20:36:56+00:00"
     },
     {
       "source": "OSINT",
