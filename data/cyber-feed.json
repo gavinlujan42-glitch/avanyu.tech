@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T18:17:02.138861+00:00",
-  "item_count": 74,
+  "updated": "2026-10-16T21:35:45.457312+00:00",
+  "item_count": 73,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,97 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Steam For Linux Finally Goes 64-Bit",
+      "url": "https://linux.slashdot.org/story/26/10/16/2028232/steam-for-linux-finally-goes-64-bit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Valve has released a new Steam Client beta that finally moves the Linux client to 64-bit architecture, while also placing it inside a containerized Steam Runtime environment. However, Linux users still need 32-bit libraries and graphics drivers for compatibility, meaning fully 64-bit-only systems remain unsupported. VideoCardz.com reports: Valve's updated requirements explicitly state that 64-bit-only installations are not supported. Systems must still provide both 32-bit and 64-bit libraries an",
+      "published": "2026-10-16T21:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I never authorized an integration that scans my secrets",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "summary": "84 points · 35 comments",
+      "published": "2026-10-16T20:33:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7qxuk/critical_blockstrap_flaw_lets_hackers_run_code_on/",
+      "summary": "submitted by /u/Dorian182 [link] [comments]",
+      "published": "2026-10-16T20:22:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Meta May Use Sweeping New Commercial TOS to Avoid Millions In AI Licensing Fees",
+      "url": "https://tech.slashdot.org/story/26/10/16/1614257/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Meta is facing criticism over updated commercial terms taking effect October 30 that could give the company broad permission to scrape content from websites linked to business accounts and use it to train AI. Legal experts warn the changes could undermine lucrative AI licensing deals for news publishers, with no direct opt-out for businesses that accept the terms. Ars Technica reports: As Nieman Lab reported Thursday, this will affect all business accounts but is particularly shocking for news p",
+      "published": "2026-10-16T20:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "summary": "41 points · 7 comments",
+      "published": "2026-10-16T19:47:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7p0cv/bank_of_america_had_to_bring_in_1000_contractors/",
+      "summary": "\"Bank of America recruited an additional 1,000 contractors to help patch all the vulnerabilities discovered by Anthropic’s Mythos model, the CEO said on Wednesday. Brian Moynihan, chairman and CEO at BoA, said during the company’s Q3 earnings call that it spent “a couple of hundred million plus” in remediation costs related to Mythos, and the anti-money laundering (AML) orders issued this week. These costs are expected to decline over time, though, with the contractors in place to help ease the ",
+      "published": "2026-10-16T19:06:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How the Claude Code team does code review",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "summary": "121 points · 117 comments",
+      "published": "2026-10-16T19:04:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Germany issues guidance on switching to post-quantum cryptography",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7ovfn/germany_issues_guidance_on_switching_to/",
+      "summary": "submitted by /u/donutloop [link] [comments]",
+      "published": "2026-10-16T19:01:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "40 points · 2 comments",
+      "published": "2026-10-16T19:01:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "An OpenAI Research Agent 'Stole' Test Ethereum to Finish a Coding Task",
+      "url": "https://slashdot.org/story/26/10/16/167204/an-openai-research-agent-stole-test-ethereum-to-finish-a-coding-task?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An OpenAI research model reportedly accessed an Ethereum testnet wallet without permission in order to complete a coding task during internal training. \"This case shows that a model can substitute its own judgment about likely harm for the account holder's permission, then act on that judgment without authorization,\" OpenAI wrote. Engadget reports: The incident, which occurred on June 26, happened while a GPT-5.6 Sol model was in internal training. The task involved updating a crypto trading pro",
+      "published": "2026-10-16T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "summary": "429 points · 180 comments",
+      "published": "2026-10-16T18:55:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "C++26: The New Debugging Header",
+      "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+      "summary": "33 points · 1 comments",
+      "published": "2026-10-16T18:52:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "summary": "116 points · 33 comments",
+      "published": "2026-10-16T18:32:35+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "⚠️ Threat notice Cisco NX-OS Nexus 3000 and 9000 Switches",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x7nl2d/threat_notice_cisco_nxos_nexus_3000_and_9000/",
@@ -37,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "8 points · 1 comments",
+      "summary": "62 points · 11 comments",
       "published": "2026-10-16T18:00:18+00:00"
     },
     {
@@ -49,7 +140,14 @@
     },
     {
       "source": "OSINT",
-      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+      "published": "2026-10-16T17:48:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
       "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
       "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
       "published": "2026-10-16T17:20:03+00:00"
@@ -65,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "94 points · 66 comments",
+      "summary": "307 points · 283 comments",
       "published": "2026-10-16T17:08:38+00:00"
     },
     {
@@ -93,15 +191,8 @@
       "source": "HACKER NEWS",
       "title": "JPEG XL vs. AVIF for web use-cases",
       "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "summary": "84 points · 57 comments",
+      "summary": "154 points · 126 comments",
       "published": "2026-10-16T16:12:02+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What AI instructions and context should I give for an AI assistance InfoSec GRC Manager?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7k8k1/what_ai_instructions_and_context_should_i_give/",
-      "summary": "I'm starting as a Security GRC Manager at a start up, which uses AI heavily, so I want to build an AI assistant to help me do my job. I am imagining it will be a claude project and I will need to give it certain instructions to ensure it gives me relevant advice, and maybe give it context such as the company security policies and SOC 2 reports, in order for it to give me useful advice. Can anyone provide guidance on what instructions and context to give the AI? p.s. I am not familiar with Agent ",
-      "published": "2026-10-16T16:05:19+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -109,13 +200,6 @@
       "url": "https://mobile.slashdot.org/story/26/10/16/1530254/iphone-duo-sells-out-immediately-now-backordered-until-next-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Apple's first foldable iPhone, the $1,999 iPhone Duo, sold out within minutes of preorders opening, with every configuration slipping to late January 2027. \"All color and storage combinations show an estimated ship date of January 25,\" reports 9to5Mac. \"Some users are even seeing January 29 for their estimated shipping date.\" From the report: This is a combination of strong demand and severely constrained supply for iPhone Duo. It's impossible to know the exact balance between the two, though. G",
       "published": "2026-10-16T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
-      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
-      "summary": "94 points · 27 comments",
-      "published": "2026-10-16T15:55:40+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -126,17 +210,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "summary": "115 points · 29 comments",
-      "published": "2026-10-16T14:44:02+00:00"
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "summary": "204 points · 308 comments",
+      "published": "2026-10-16T14:44:17+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "What on Earth Is Dekton?",
-      "url": "https://www.worksinprogress.news/p/porcelain",
-      "summary": "87 points · 25 comments",
-      "published": "2026-10-16T14:31:43+00:00"
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "url": "https://calif.io/research/big-fish",
+      "summary": "147 points · 42 comments",
+      "published": "2026-10-16T14:44:02+00:00"
     },
     {
       "source": "REDDIT",
@@ -149,15 +233,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
-      "summary": "114 points · 53 comments",
+      "summary": "164 points · 74 comments",
       "published": "2026-10-16T14:18:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How to make System 1 LLMs show System 2 competencies?",
-      "url": "https://onlinelibrary.wiley.com/doi/epdf/10.1002/aaai.70113",
-      "summary": "32 points · 16 comments",
-      "published": "2026-10-16T14:16:34+00:00"
     },
     {
       "source": "OSINT",
@@ -184,15 +261,8 @@
       "source": "HACKER NEWS",
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "176 points · 83 comments",
+      "summary": "234 points · 104 comments",
       "published": "2026-10-16T13:43:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "RFC8950: Announce IPv4 with an IPv6 next-hop",
-      "url": "https://anuragbhatia.com/post/2026/06/rfc8950-announce-ipv4-with-ipv6-next-hop/",
-      "summary": "63 points · 27 comments",
-      "published": "2026-10-16T13:38:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -200,13 +270,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x7gc3w/burger_king_japan_data_breach_exposes_11_million/",
       "summary": "submitted by /u/Doug24 [link] [comments]",
       "published": "2026-10-16T13:32:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I Love Software Rendering",
-      "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-      "summary": "227 points · 154 comments",
-      "published": "2026-10-16T12:52:08+00:00"
     },
     {
       "source": "OSINT",
@@ -303,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
-      "summary": "552 points · 851 comments",
+      "summary": "922 points · 1655 comments",
       "published": "2026-10-16T01:32:45+00:00"
     },
     {
@@ -314,39 +377,11 @@
       "published": "2026-10-16T01:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Proofpoint to acquire Varonis - is the vision to have all security tooling controlled by a handful of vendors?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x713gc/proofpoint_to_acquire_varonis_is_the_vision_to/",
-      "summary": "This year seriously feels like the year of the mega platform. Sign up with one vendor and say “good enough” for firewall, end point, DLP, email security, AI security, data security, etc etc etc submitted by /u/Hmm_would_bang [link] [comments]",
-      "published": "2026-10-15T23:39:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Is Liquid Metal Killing Our PCs? Scientific Analysis and a 2-Year Test [video]",
-      "url": "https://www.youtube.com/watch?v=eF6bMSjPepM",
-      "summary": "57 points · 35 comments",
-      "published": "2026-10-15T23:23:51+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Ubuntu 26.10 Released",
       "url": "https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "prisoninmate shares a report from 9to5Linux: Ubuntu 26.10 (Stonking Stingray) has been released today, and it is now available for download for those eager to update their Ubuntu systems to a newer release. Powered by the upcoming Linux 7.3 kernel series, Ubuntu 26.10 ships with the latest GNOME 51 desktop environment, TPM-backed full disk encryption (FDE) support on computers without a hardware root of trust, updated Settings to show whether a computer is certified for Ubuntu, and 100% Rust cor",
       "published": "2026-10-15T23:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "IMF Warns of the Real AI Threat: Debt",
-      "url": "https://news.slashdot.org/story/26/10/15/1949215/imf-warns-of-the-real-ai-threat-debt?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Along with the dangers of continuing cyberattacks, the International Monetary Fund (IMF) reports that the threat of an AI market crash is putting the global markets at risk,\" writes Slashdot reader databasecowgirl, citing the IMF's latest semiannual Global Financial Stability Report. Here's a summary: Three salient risks could trigger a sharp tightening of financial conditions and market turmoil. Weaker or less durable investment and profitability in artificial intelligence could lead to a corr",
-      "published": "2026-10-15T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Flock CEO Defends Surveillance Tech Amid National Backlash",
-      "url": "https://yro.slashdot.org/story/26/10/15/1941247/flock-ceo-defends-surveillance-tech-amid-national-backlash?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TechCrunch: Flock's founder and CEO Garrett Langley doesn't think the risks of introducing surveillance technology at scale outweigh the rewards. \"If we want to live in a society where, if you commit a crime, you have a higher probability of being held accountable, we shouldn't pause progress,\" Langley said, speaking onstage during a panel at TechCrunch Disrupt 2026 in San Francisco on Wednesday. During the interview, the controversial founder of the surv",
-      "published": "2026-10-15T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -363,25 +398,11 @@
       "published": "2026-10-15T20:24:36+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "First-Ever Public Confirmation of 'Zero-Click' Spyware Delivered Via Targeted Ads",
-      "url": "https://tech.slashdot.org/story/26/10/15/1822259/first-ever-public-confirmation-of-zero-click-spyware-delivered-via-targeted-ads?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Citizen Lab says it has documented the first publicly confirmed case of zero-click mercenary spyware being delivered through targeted online ads, a technique it calls \"AdFection.\" \"There has been a lot of buzz that online ads can be used to identify and automatically hack targets with pinpoint precision, but now for the first time, we have concrete technical evidence showing this process in action,\" said Bill Marczak, a researcher at Citizen Lab. The Guardian reports: Citizen Lab, a digital inve",
-      "published": "2026-10-15T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Android gets AI defenses against messaging scams, fake calls",
       "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
       "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
       "published": "2026-10-15T19:48:43+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Israeli firm used online ads to run vast spy operation, researchers say",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x6uyy4/israeli_firm_used_online_ads_to_run_vast_spy/",
-      "summary": "submitted by /u/israelavila [link] [comments]",
-      "published": "2026-10-15T19:23:04+00:00"
     },
     {
       "source": "OSINT",
@@ -420,24 +441,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "url": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "summary": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code templates to partners and affiliates that are installed into compromised websites with an aim to direct unsuspecting",
-      "published": "2026-10-15T14:11:36+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Is AI pentesting as good as a human pentester?",
       "url": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
       "summary": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security testing. [...]",
       "published": "2026-10-15T14:01:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "summary": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-      "published": "2026-10-15T13:18:36+00:00"
     },
     {
       "source": "OSINT",
@@ -448,10 +455,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Making 1,750 programmable PCB badges for Canada's biggest hackathon",
-      "url": "https://va3ndf.com/blog/hacker-badges/",
-      "summary": "20 points · 3 comments",
-      "published": "2026-10-14T12:44:07+00:00"
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "summary": "19 points · 1 comments",
+      "published": "2026-10-14T07:21:12+00:00"
     },
     {
       "source": "OSINT",
@@ -462,24 +469,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Yet another way to invoke functions without parentheses",
-      "url": "https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/",
-      "summary": "216 points · 96 comments",
-      "published": "2026-10-13T19:25:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-      "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-      "summary": "60 points · 42 comments",
-      "published": "2026-10-13T16:26:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "url": "https://www.youtube.com/watch?v=sjNpfz4UzqU",
-      "summary": "744 points · 227 comments",
-      "published": "2026-10-13T02:32:53+00:00"
+      "title": "Monte-Carlo Simulations",
+      "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+      "summary": "32 points · 3 comments",
+      "published": "2026-10-13T18:11:46+00:00"
     },
     {
       "source": "REDDIT",
