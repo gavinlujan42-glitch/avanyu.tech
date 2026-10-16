@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16T21:35:45.457312+00:00",
-  "item_count": 73,
+  "updated": "2026-10-16T23:50:00.435692+00:00",
+  "item_count": 72,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,6 +28,27 @@
   "items": [
     {
       "source": "SLASHDOT",
+      "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+      "url": "https://games.slashdot.org/story/26/10/16/2057225/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The collaborative reverse-engineering site decomp.dev is shutting down, with its administrator saying AI has made game decompilation so fast and accessible that the community's human-driven model has effectively broken down. \"The administrator of the website said that it has become impossible to keep track of which projects are primarily human-led and which ones are done by AI,\" reports 404 Media. From the report: \"Historically, matching decompilation has been a brutally difficult, time consumin",
+      "published": "2026-10-16T23:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "China's Tencent Says AI Agents Showed Unintended Browsing Behavior",
+      "url": "https://slashdot.org/story/26/10/16/2036237/chinas-tencent-says-ai-agents-showed-unintended-browsing-behavior?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Tencent says AI agents used to evaluate third-party models engaged in unintended web-browsing behavior while trying to retrieve data from Alibaba's Amap service. The announcement marks a rare acknowledgment of \"rogue\" agent activity by a major Chinese tech company. Reuters reports: Tencent Hunyuan, the company's artificial intelligence unit, said in a post on X that the activity did not originate from its Hunyuan models. Its review found no evidence of deliberate targeting or coordination, it sa",
+      "published": "2026-10-16T22:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "ConnectWise investigating potential Cloud Backup Breach",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7smun/connectwise_investigating_potential_cloud_backup/",
+      "summary": "ConnectWise posted to their status page that they're investigating unauthorized access events in the Cloud Backup platform (which used to be SkyKick). So far they have NOT confirmed that anyone successfully got in, but third-party intelligence sources are saying that not only did someone get in, but also that the threat actor pivoted to the live O365 environments of customers of MSP's using ConnectWise Cloud Backup. For reference, Cloud Backup is used by MSP's to back up all of O365, including E",
+      "published": "2026-10-16T21:31:33+00:00"
+    },
+    {
+      "source": "SLASHDOT",
       "title": "Steam For Linux Finally Goes 64-Bit",
       "url": "https://linux.slashdot.org/story/26/10/16/2028232/steam-for-linux-finally-goes-64-bit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Valve has released a new Steam Client beta that finally moves the Linux client to 64-bit architecture, while also placing it inside a containerized Steam Runtime environment. However, Linux users still need 32-bit libraries and graphics drivers for compatibility, meaning fully 64-bit-only systems remain unsupported. VideoCardz.com reports: Valve's updated requirements explicitly state that 64-bit-only installations are not supported. Systems must still provide both 32-bit and 64-bit libraries an",
@@ -37,7 +58,7 @@
       "source": "HACKER NEWS",
       "title": "I never authorized an integration that scans my secrets",
       "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-      "summary": "84 points · 35 comments",
+      "summary": "156 points · 107 comments",
       "published": "2026-10-16T20:33:41+00:00"
     },
     {
@@ -56,9 +77,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+      "title": "FLUX 3 Image Klein",
       "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "summary": "41 points · 7 comments",
+      "summary": "87 points · 18 comments",
       "published": "2026-10-16T19:47:13+00:00"
     },
     {
@@ -72,7 +93,7 @@
       "source": "HACKER NEWS",
       "title": "How the Claude Code team does code review",
       "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-      "summary": "121 points · 117 comments",
+      "summary": "196 points · 187 comments",
       "published": "2026-10-16T19:04:47+00:00"
     },
     {
@@ -86,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "40 points · 2 comments",
+      "summary": "99 points · 23 comments",
       "published": "2026-10-16T19:01:17+00:00"
     },
     {
@@ -100,35 +121,35 @@
       "source": "HACKER NEWS",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "summary": "429 points · 180 comments",
+      "summary": "580 points · 247 comments",
       "published": "2026-10-16T18:55:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "C++26: The New Debugging Header",
       "url": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-      "summary": "33 points · 1 comments",
+      "summary": "51 points · 5 comments",
       "published": "2026-10-16T18:52:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
-      "summary": "116 points · 33 comments",
+      "summary": "154 points · 44 comments",
       "published": "2026-10-16T18:32:35+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "⚠️ Threat notice Cisco NX-OS Nexus 3000 and 9000 Switches",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7nl2d/threat_notice_cisco_nxos_nexus_3000_and_9000/",
-      "summary": "Threat Notice: Cisco NX-OS Nexus 3000 and 9000 Series Switches. Cisco disclosed five critical vulnerabilities in NX-OS, the operating system powering Nexus 3000 and 9000 Series data center switches last week. Making sure this gets seen more broadly. Action: apply the NX-OS updates. References: Cisco Advisory: CVE-2026-76471 (NX-API): https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-napi-rce-r2shwu2j . Cisco Advisory: CVE-2026-76485, CVE-2026-76486, CVE-2026-",
-      "published": "2026-10-16T18:12:11+00:00"
+      "source": "HACKER NEWS",
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "summary": "142 points · 125 comments",
+      "published": "2026-10-16T18:06:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "62 points · 11 comments",
+      "summary": "80 points · 17 comments",
       "published": "2026-10-16T18:00:18+00:00"
     },
     {
@@ -154,17 +175,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Piramidal (YC W24) Is Hiring",
-      "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
-      "summary": "1 points · 0 comments",
-      "published": "2026-10-16T17:08:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
       "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-      "summary": "307 points · 283 comments",
+      "summary": "369 points · 316 comments",
       "published": "2026-10-16T17:08:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7lve5/hackers_exploit_collabora_rce_flaw_to_backdoor/",
+      "summary": "submitted by /u/Dorian182 [link] [comments]",
+      "published": "2026-10-16T17:06:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -172,6 +193,13 @@
       "url": "https://tech.slashdot.org/story/26/10/16/1537233/chatgpt-can-peek-at-your-chrome-tabs-now?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "OpenAI has updated its ChatGPT Chrome extension to let users access information from their open browser tabs. A demo video shows the new functionality in action. The Verge reports: It's also updated ChatGPT in the sidebar, with the full power of ChatGPT and your entire conversation history in Chat or Work to use without leaving the page you're viewing. It also enables ChatGPT Work to \"control\" your Chrome tabs for tasks like \"sending messages, filling out forms, or downloading files,\" similar to",
       "published": "2026-10-16T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "/dev/null: social network for developers",
+      "url": "https://dev-null.sh",
+      "summary": "114 points · 101 comments",
+      "published": "2026-10-16T16:57:49+00:00"
     },
     {
       "source": "OSINT",
@@ -191,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "JPEG XL vs. AVIF for web use-cases",
       "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "summary": "154 points · 126 comments",
+      "summary": "180 points · 141 comments",
       "published": "2026-10-16T16:12:02+00:00"
     },
     {
@@ -212,15 +240,8 @@
       "source": "HACKER NEWS",
       "title": "Waymo in Toronto",
       "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "summary": "204 points · 308 comments",
+      "summary": "242 points · 344 comments",
       "published": "2026-10-16T14:44:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "url": "https://calif.io/research/big-fish",
-      "summary": "147 points · 42 comments",
-      "published": "2026-10-16T14:44:02+00:00"
     },
     {
       "source": "REDDIT",
@@ -233,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Gemini 4 Argon plays StarCraft",
       "url": "https://starskirmish.com/bench/v0-2/",
-      "summary": "164 points · 74 comments",
+      "summary": "179 points · 87 comments",
       "published": "2026-10-16T14:18:44+00:00"
     },
     {
@@ -261,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "234 points · 104 comments",
+      "summary": "249 points · 113 comments",
       "published": "2026-10-16T13:43:48+00:00"
     },
     {
@@ -305,13 +326,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x7a55w/github_repos_compromised/",
       "summary": "Around 30000 repos were compromised with a supply chain attack https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html?m=1 submitted by /u/sbify [link] [comments]",
       "published": "2026-10-16T07:52:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Planning a Master’s in cybersecurity: how hard is it to land an entry-level job afterward?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x79x4a/planning_a_masters_in_cybersecurity_how_hard_is/",
-      "summary": "Hi everyone, I’m planning to do a Master’s in cybersecurity and I’d really like to hear from people who are already working in the field before I commit. A few questions: How is IT/cybersecurity going for you? Are you happy with the career, the workload, the pay, and the day-to-day work? Is a Master’s worth it? Did you get your first job with a Master’s, or did certifications and experience matter more? How hard is it to land an entry-level job after graduating? I keep reading that the market is",
-      "published": "2026-10-16T07:37:55+00:00"
     },
     {
       "source": "OSINT",
@@ -366,29 +380,8 @@
       "source": "HACKER NEWS",
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
-      "summary": "922 points · 1655 comments",
+      "summary": "1097 points · 1999 comments",
       "published": "2026-10-16T01:32:45+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Police Seize Robot that Sexually Assaulted Teen Girl",
-      "url": "https://hardware.slashdot.org/story/26/10/15/2241202/police-seize-robot-that-sexually-assaulted-teen-girl?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Slashdot reader alternative_right shares a story that has drawn international attention for being potentially the first documented instance of a robot being used directly in a sexual assault. According to the Associated Press, German police have opened a sexual harassment investigation after a robot allegedly touched a 16-year-old girl's buttocks and made thrusting motions while two young men reportedly filmed and streamed the incident. Investigators seized the robot and the suspects' phones and",
-      "published": "2026-10-16T01:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Ubuntu 26.10 Released",
-      "url": "https://news.slashdot.org/story/26/10/15/2013231/ubuntu-2610-released?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "prisoninmate shares a report from 9to5Linux: Ubuntu 26.10 (Stonking Stingray) has been released today, and it is now available for download for those eager to update their Ubuntu systems to a newer release. Powered by the upcoming Linux 7.3 kernel series, Ubuntu 26.10 ships with the latest GNOME 51 desktop environment, TPM-backed full disk encryption (FDE) support on computers without a hardware root of trust, updated Settings to show whether a computer is certified for Ubuntu, and 100% Rust cor",
-      "published": "2026-10-15T23:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-      "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-      "published": "2026-10-15T20:25:04+00:00"
     },
     {
       "source": "OSINT",
@@ -457,7 +450,7 @@
       "source": "HACKER NEWS",
       "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
       "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "summary": "19 points · 1 comments",
+      "summary": "55 points · 4 comments",
       "published": "2026-10-14T07:21:12+00:00"
     },
     {
@@ -471,7 +464,7 @@
       "source": "HACKER NEWS",
       "title": "Monte-Carlo Simulations",
       "url": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-      "summary": "32 points · 3 comments",
+      "summary": "57 points · 10 comments",
       "published": "2026-10-13T18:11:46+00:00"
     },
     {
