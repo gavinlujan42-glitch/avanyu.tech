@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T08:27:39.404862+00:00",
+  "updated": "2026-10-17T12:20:25.076028+00:00",
   "item_count": 73,
   "sources": [
     "CISA",
@@ -27,6 +27,55 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
+      "published": "2026-10-17T11:11:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Windows Defender now works in Linux, because why not",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x87lf2/windows_defender_now_works_in_linux_because_why/",
+      "summary": "submitted by /u/DeepCedarShadow [link] [comments]",
+      "published": "2026-10-17T11:09:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Updates Android Earthquake Alerts With 200+ Regions",
+      "url": "https://news.slashdot.org/story/26/10/17/0016213/google-updates-android-earthquake-alerts-with-200-regions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google is expanding its Android Earthquake Alerts System from 98 to more than 200 regions worldwide, using smartphone sensors to detect early earthquake activity and warn users before potentially dangerous shaking begins. The update also enhances the system's \"Be Ready\" alerts with estimated earthquake magnitudes, epicenter information, maps showing affected areas, and additional safety guidance. From a Google blog post: Be Aware: A straightforward alert for estimated light shaking, letting you ",
+      "published": "2026-10-17T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x875dx/targeted_ads_installed_candiru_spyware_in/",
+      "summary": "submitted by /u/Dorian182 [link] [comments]",
+      "published": "2026-10-17T10:42:49+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x86g8p/bae_systems_cyberattack_disrupts_us_federal_court/",
+      "summary": "submitted by /u/Dorian182 [link] [comments]",
+      "published": "2026-10-17T10:00:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "summary": "253 points · 90 comments",
+      "published": "2026-10-17T08:37:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "228 points · 90 comments",
+      "published": "2026-10-17T08:21:25+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Astronomers Discover the First Green Star",
       "url": "https://science.slashdot.org/story/26/10/17/0011226/astronomers-discover-the-first-green-star?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -39,13 +88,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x830lu/hack_exposes_data_on_millions_of_california/",
       "summary": "submitted by /u/return2ozma [link] [comments]",
       "published": "2026-10-17T06:26:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why Math Dumped OpenAI",
-      "url": "https://raymyers.org/post/math-dumped-openai/",
-      "summary": "11 points · 0 comments",
-      "published": "2026-10-17T06:19:44+00:00"
     },
     {
       "source": "OSINT",
@@ -65,7 +107,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
       "url": "https://llmspeed.dev/",
-      "summary": "50 points · 21 comments",
+      "summary": "110 points · 41 comments",
       "published": "2026-10-17T04:36:53+00:00"
     },
     {
@@ -83,13 +125,6 @@
       "published": "2026-10-17T03:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Butlerian Jihad",
-      "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-      "summary": "208 points · 112 comments",
-      "published": "2026-10-17T02:21:08+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
       "url": "https://games.slashdot.org/story/26/10/16/2057225/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -104,13 +139,6 @@
       "published": "2026-10-16T22:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "ConnectWise investigating potential Cloud Backup Breach",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7smun/connectwise_investigating_potential_cloud_backup/",
-      "summary": "ConnectWise posted to their status page that they're investigating unauthorized access events in the Cloud Backup platform (which used to be SkyKick). So far they have NOT confirmed that anyone successfully got in, but third-party intelligence sources are saying that not only did someone get in, but also that the threat actor pivoted to the live O365 environments of customers of MSP's using ConnectWise Cloud Backup. For reference, Cloud Backup is used by MSP's to back up all of O365, including E",
-      "published": "2026-10-16T21:31:33+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Steam For Linux Finally Goes 64-Bit",
       "url": "https://linux.slashdot.org/story/26/10/16/2028232/steam-for-linux-finally-goes-64-bit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -118,11 +146,11 @@
       "published": "2026-10-16T21:00:00+00:00"
     },
     {
-      "source": "REDDIT",
+      "source": "OSINT",
       "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7qxuk/critical_blockstrap_flaw_lets_hackers_run_code_on/",
-      "summary": "submitted by /u/Dorian182 [link] [comments]",
-      "published": "2026-10-16T20:22:12+00:00"
+      "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "published": "2026-10-16T20:00:59+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -135,7 +163,7 @@
       "source": "HACKER NEWS",
       "title": "FLUX 3 Image Klein",
       "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "summary": "163 points · 45 comments",
+      "summary": "176 points · 48 comments",
       "published": "2026-10-16T19:47:13+00:00"
     },
     {
@@ -156,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "You could have invented transformers from memory",
       "url": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "279 points · 67 comments",
+      "summary": "330 points · 77 comments",
       "published": "2026-10-16T19:01:17+00:00"
     },
     {
@@ -170,28 +198,28 @@
       "source": "HACKER NEWS",
       "title": "Claude reveals ECDSA curve origins",
       "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "summary": "852 points · 315 comments",
+      "summary": "903 points · 335 comments",
       "published": "2026-10-16T18:55:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
       "url": "https://github.com/cobanov/PS5LM",
-      "summary": "279 points · 68 comments",
+      "summary": "305 points · 75 comments",
       "published": "2026-10-16T18:32:35+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
       "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "summary": "216 points · 177 comments",
+      "summary": "233 points · 209 comments",
       "published": "2026-10-16T18:06:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Designing more efficient quantum circuits with Claude",
       "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "summary": "135 points · 32 comments",
+      "summary": "150 points · 32 comments",
       "published": "2026-10-16T18:00:18+00:00"
     },
     {
@@ -207,13 +235,6 @@
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
       "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
       "published": "2026-10-16T17:48:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
-      "published": "2026-10-16T17:20:03+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -240,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "JPEG XL vs. AVIF for web use-cases",
       "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-      "summary": "252 points · 175 comments",
+      "summary": "273 points · 187 comments",
       "published": "2026-10-16T16:12:02+00:00"
     },
     {
@@ -249,13 +270,6 @@
       "url": "https://mobile.slashdot.org/story/26/10/16/1530254/iphone-duo-sells-out-immediately-now-backordered-until-next-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Apple's first foldable iPhone, the $1,999 iPhone Duo, sold out within minutes of preorders opening, with every configuration slipping to late January 2027. \"All color and storage combinations show an estimated ship date of January 25,\" reports 9to5Mac. \"Some users are even seeing January 29 for their estimated shipping date.\" From the report: This is a combination of strong demand and severely constrained supply for iPhone Duo. It's impossible to know the exact balance between the two, though. G",
       "published": "2026-10-16T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A story of WiFi secrets, UART lockdowns and a damaged flash memory chip",
-      "url": "https://adepts.of0x.cc/eufy-homestation2-firmware/",
-      "summary": "43 points · 3 comments",
-      "published": "2026-10-16T15:38:28+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -286,17 +300,10 @@
       "published": "2026-10-16T13:50:59+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How are companies supposed to verify employees when the attacker already knows everything about them?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7gq5k/how_are_companies_supposed_to_verify_employees/",
-      "summary": "I’ve been thinking about this after reading more stories about attackers getting access through help desks rather than actually hacking anything. If someone already knows an employee’s full name, job title, manager, phone number, company email maybe even internal terminology from LinkedIn or leaked data, what is the help desk realistically supposed to ask that proves they’re actually talking to that employee? Security questions seem useless, SMS can be SIM swapped, caller ID can be spoofed and n",
-      "published": "2026-10-16T13:48:44+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
       "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-      "summary": "308 points · 158 comments",
+      "summary": "328 points · 164 comments",
       "published": "2026-10-16T13:43:48+00:00"
     },
     {
@@ -314,25 +321,11 @@
       "published": "2026-10-16T11:30:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Hackers Hijack D-Link, Ubiquiti Devices To Resell Your Stolen Bandwidth",
-      "url": "https://it.slashdot.org/story/26/10/15/2315217/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from BleepingComputer: A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. The operator installed Pawns.app, a legitimate bandwidth-sharing application that lets users earn money by sharing their internet connections, on devices without the owners' consent. Pawns.app account holders are rewarded for allowing traffic from other users to flow through their network,",
-      "published": "2026-10-16T11:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft: October Windows update may break Smart App Control",
       "url": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
       "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
       "published": "2026-10-16T08:44:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-      "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-      "published": "2026-10-16T07:37:35+00:00"
     },
     {
       "source": "OSINT",
@@ -366,15 +359,8 @@
       "source": "HACKER NEWS",
       "title": "Tesla Roadster",
       "url": "https://www.tesla.com/roadster",
-      "summary": "1402 points · 2451 comments",
+      "summary": "1472 points · 2617 comments",
       "published": "2026-10-16T01:32:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "$50k First Letters Prize Awarded for PHerc 343",
-      "url": "https://scrollprize.substack.com/p/50k-first-letters-prize-awarded-for",
-      "summary": "7 points · 0 comments",
-      "published": "2026-10-15T21:55:04+00:00"
     },
     {
       "source": "OSINT",
@@ -406,6 +392,13 @@
     },
     {
       "source": "OSINT",
+      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
+      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
+      "published": "2026-10-15T18:20:59+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "Fake Arch Linux packages push malware with root privileges",
       "url": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
       "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
@@ -415,15 +408,8 @@
       "source": "HACKER NEWS",
       "title": "Ultramarine 1 Flash",
       "url": "https://www.paperinstruments.com/ultramarine",
-      "summary": "219 points · 65 comments",
+      "summary": "273 points · 90 comments",
       "published": "2026-10-15T17:06:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-      "url": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-      "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday. The hidden attack code ran the moment an ad loaded on the screen, and in some cases the ad loaded out of sight, in the background. The Citizen",
-      "published": "2026-10-15T16:01:57+00:00"
     },
     {
       "source": "REDDIT",
@@ -431,6 +417,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x6ov2q/were_the_firefox_security_team_ask_us_anything/",
       "summary": "Hi r/cybersecurity . We’re the Firefox security team. Join us in 30 minutes for a live AMA: Tom: u/tomrittervg - Principal Security Engineer - 10 years at Mozilla Freddy: u/mozfreddyb - Engineering Manager, Firefox Application Security - 15 years at Mozilla Christian: u/mozdeco - Principal Software Engineer - 15+ years at Mozilla Daniel: u/dveditz - Senior Staff Security Engineer - 22 years at Mozilla (contributing since Netscape, ‘98) Proof Photos! We work on everything Firefox, encompassing: A",
       "published": "2026-10-15T15:33:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+      "url": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+      "summary": "17 points · 2 comments",
+      "published": "2026-10-15T15:06:52+00:00"
     },
     {
       "source": "OSINT",
@@ -443,21 +436,28 @@
       "source": "HACKER NEWS",
       "title": "Intuitive concurrent programming in any language",
       "url": "https://www.lf-lang.org/",
-      "summary": "25 points · 3 comments",
+      "summary": "58 points · 14 comments",
       "published": "2026-10-15T13:18:44+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "California is building a $400M shield for Yosemite's most dangerous highway",
-      "url": "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
-      "summary": "39 points · 38 comments",
-      "published": "2026-10-14T15:15:58+00:00"
+      "title": "We Still Use Paper",
+      "url": "https://humanpro.co/articles/we-still-use-paper/",
+      "summary": "30 points · 33 comments",
+      "published": "2026-10-15T07:27:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Orbital Angular Momentum of Light",
+      "url": "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
+      "summary": "5 points · 1 comments",
+      "published": "2026-10-14T21:39:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "0/1 Knapsack Problem in PyTorch",
       "url": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
-      "summary": "17 points · 1 comments",
+      "summary": "27 points · 2 comments",
       "published": "2026-10-14T15:04:33+00:00"
     },
     {
