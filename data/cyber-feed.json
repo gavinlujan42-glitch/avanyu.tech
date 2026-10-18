@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:47:56.326529+00:00",
+  "updated": "2026-10-18T05:39:39.555254+00:00",
   "item_count": 73,
   "sources": [
     "CISA",
@@ -26,6 +26,69 @@
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "Open-source CVE triage in one place: KEV, EPSS, NVD and OSV combined into a single risk score",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8v176/opensource_cve_triage_in_one_place_kev_epss_nvd/",
+      "summary": "A open-source tool called CVE Intel. In simple terms, it pulls a bunch of security information sources into one place, and it doubles as an MCP server, so you can plug it into any of your AI agents.It's MIT licensed and written in Rust. Paste in a CVE and it pulls from NVD, CISA KEV, EPSS, OSV, public exploit sources and others in parallel. You get a 0–100 risk score and a short \"act now or later\" answer, with the evidence listed so you can check it yourself. It also handles IPs, file hashes and",
+      "published": "2026-10-18T05:26:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Matthew Prince on why Cloudflare offers a free version and always will",
+      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+      "summary": "4 points · 1 comments",
+      "published": "2026-10-18T05:09:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Mole Infiltrated the Highest Ranks of American Militias",
+      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+      "summary": "22 points · 1 comments",
+      "published": "2026-10-18T04:59:24+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "url": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "That Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.\" But \"there are signs that the U.S. government is exploring the latter possibility,\" they add, citing comments from Chris McGuire, a member of the National Security Council during the Biden administration: The Department of Justice's press release about the",
+      "published": "2026-10-18T04:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "24 points · 6 comments",
+      "published": "2026-10-18T04:33:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
+      "url": "https://tkgally.github.io/500-clocks/",
+      "summary": "4 points · 2 comments",
+      "published": "2026-10-18T04:04:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "summary": "50 points · 28 comments",
+      "published": "2026-10-18T03:19:49+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Woman Arrested After Blocking Delivery Robot to Protest Job Displacements",
+      "url": "https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A Philadelphia newscast reports on a grey-haired lady who allegedly refused to move out of the path of a delivery robot as a form of protest because \"I know they're taking the jobs of human delivery workers.\" She was arrested, but says her actions were protected speech: According to police, Marvin repeatedly blocked the robot's path and ignored multiple commands from officers to move... Marvin said she was protesting the use of delivery robots because she believes they are replacing human worker",
+      "published": "2026-10-18T01:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "summary": "186 points · 54 comments",
+      "published": "2026-10-18T00:14:22+00:00"
+    },
     {
       "source": "SLASHDOT",
       "title": "Does a Universal Basic Income Bring Long-Term Changes?",
@@ -69,13 +132,6 @@
       "published": "2026-10-17T20:24:52+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
-      "summary": "78 points · 75 comments",
-      "published": "2026-10-17T20:07:33+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Blue Origin Announces $330M Upgrades to Rocket Facilities for 'Multiple Flights Per Week'",
       "url": "https://science.slashdot.org/story/26/10/17/0641232/blue-origin-announces-330m-upgrades-to-rocket-facilities-for-multiple-flights-per-week?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -88,13 +144,6 @@
       "url": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Linux maintainers \"have ruled that people no longer have to declare their LLM usage,\" reports XDA Developers, \"as Torvalds himself calls a ban on AI 'utterly stupid.'\" The first part of this story comes via a message sent to the Linux mailing list. It announces one of the major changes decided during the Maintainers Summit on October 8, 2026, in Prague, Czechia, where submissions to the kernel no longer need to use the \"Assisted-by\" tag... meaning that people can submit AI-generated code without",
       "published": "2026-10-17T19:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CTO at NCSC Summary: week ending October 18th",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8h7jn/cto_at_ncsc_summary_week_ending_october_18th/",
-      "summary": "submitted by /u/digicat [link] [comments]",
-      "published": "2026-10-17T18:17:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -114,15 +163,8 @@
       "source": "HACKER NEWS",
       "title": "Codex Desktop continuously generates Crashpad pending dumps",
       "url": "https://github.com/openai/codex/issues/25921",
-      "summary": "63 points · 25 comments",
+      "summary": "113 points · 41 comments",
       "published": "2026-10-17T17:45:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I Became a Citizen of Japan",
-      "url": "https://www.derekwessman.com/blog-1/natural",
-      "summary": "140 points · 56 comments",
-      "published": "2026-10-17T17:36:17+00:00"
     },
     {
       "source": "REDDIT",
@@ -135,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Gold is now the top U.S. export",
       "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "summary": "217 points · 113 comments",
+      "summary": "292 points · 150 comments",
       "published": "2026-10-17T17:06:07+00:00"
     },
     {
@@ -156,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
-      "summary": "217 points · 24 comments",
+      "summary": "344 points · 30 comments",
       "published": "2026-10-17T15:55:09+00:00"
     },
     {
@@ -175,31 +217,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Solar surpasses nuclear power globally for first time",
-      "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-      "summary": "465 points · 304 comments",
-      "published": "2026-10-17T14:01:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Making chicken transparent using Dorito dust",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "summary": "247 points · 65 comments",
+      "summary": "283 points · 73 comments",
       "published": "2026-10-17T13:55:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Esp32sim – Run ESP32 firmware in the browser",
-      "url": "https://github.com/mikroverk/esp32sim",
-      "summary": "120 points · 11 comments",
-      "published": "2026-10-17T13:51:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: High-quality duck audio synthesizer",
-      "url": "https://celphase.github.io/duck-pond/",
-      "summary": "78 points · 23 comments",
-      "published": "2026-10-17T13:28:46+00:00"
     },
     {
       "source": "OSINT",
@@ -240,15 +261,8 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "680 points · 577 comments",
+      "summary": "780 points · 621 comments",
       "published": "2026-10-17T08:21:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Astronomers Discover the First Green Star",
-      "url": "https://science.slashdot.org/story/26/10/17/0011226/astronomers-discover-the-first-green-star?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Astronomers have identified what may be the first genuinely green star, a white dwarf called WD J1330+6435 located about 326 light-years from Earth. Space.com reports: The researchers found that some dead star white dwarfs can go a little green around the gills after snacking on orbiting planets. An example of this is WD J1330+6435, a cool white dwarf located around 326 light-years away, which has been accreting rocky material from a planetary companion. This has enriched its atmosphere with cal",
-      "published": "2026-10-17T07:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -258,31 +272,17 @@
       "published": "2026-10-17T06:16:46+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Over $600 Million In Polymarket Election Trades Took Place After Races Ended",
-      "url": "https://news.slashdot.org/story/26/10/16/2051209/over-600-million-in-polymarket-election-trades-took-place-after-races-ended?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Wired: Prediction market boosters often tout the platforms as barometers of public opinion, or even \"truth machines\" offering a clearer picture of where things are headed than polling or other data. In 2024, for example, Kalshi beat many pollsters in forecasting the outcome of the US presidential race. But their trading activity can also tell more perplexing stories. Two global election markets on Polymarket's offshore platform, for instance, generated ov",
-      "published": "2026-10-17T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Source code of the Estonian online voting system",
-      "url": "https://github.com/valimised/ivxv",
-      "summary": "153 points · 133 comments",
-      "published": "2026-10-17T03:18:39+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "summary": "175 points · 49 comments",
+      "summary": "248 points · 60 comments",
       "published": "2026-10-16T23:47:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "summary": "296 points · 64 comments",
+      "summary": "396 points · 85 comments",
       "published": "2026-10-16T23:38:27+00:00"
     },
     {
@@ -298,13 +298,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x7p0cv/bank_of_america_had_to_bring_in_1000_contractors/",
       "summary": "\"Bank of America recruited an additional 1,000 contractors to help patch all the vulnerabilities discovered by Anthropic’s Mythos model, the CEO said on Wednesday. Brian Moynihan, chairman and CEO at BoA, said during the company’s Q3 earnings call that it spent “a couple of hundred million plus” in remediation costs related to Mythos, and the anti-money laundering (AML) orders issued this week. These costs are expected to decline over time, though, with the contractors in place to help ease the ",
       "published": "2026-10-16T19:06:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "496 points · 117 comments",
-      "published": "2026-10-16T19:01:17+00:00"
     },
     {
       "source": "OSINT",
@@ -384,11 +377,25 @@
       "published": "2026-10-16T06:18:08+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Lean now ships with verified kernels",
+      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+      "summary": "74 points · 23 comments",
+      "published": "2026-10-16T06:16:13+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
       "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
       "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
       "published": "2026-10-16T04:59:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
+      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+      "summary": "8 points · 0 comments",
+      "published": "2026-10-15T20:55:40+00:00"
     },
     {
       "source": "OSINT",
@@ -434,31 +441,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Laser Fault Injection on a Budget: RP2350 Edition",
-      "url": "https://courk.cc/rp2350-challenge-laser",
-      "summary": "40 points · 9 comments",
-      "published": "2026-10-15T10:24:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Furifont, a Japanese font that shows furigana",
       "url": "https://furifont.antfu.me/",
-      "summary": "245 points · 51 comments",
+      "summary": "315 points · 65 comments",
       "published": "2026-10-15T08:48:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
       "url": "https://github.com/antirez/c64-hw-simulator",
-      "summary": "137 points · 23 comments",
+      "summary": "169 points · 25 comments",
       "published": "2026-10-15T07:18:14+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Types of types: Haskell's Kind system",
-      "url": "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
-      "summary": "35 points · 23 comments",
-      "published": "2026-10-14T17:00:31+00:00"
+      "title": "Custom server to revive neato bots",
+      "url": "https://github.com/vacuula/vacuula",
+      "summary": "22 points · 1 comments",
+      "published": "2026-10-14T23:48:38+00:00"
     },
     {
       "source": "OSINT",
