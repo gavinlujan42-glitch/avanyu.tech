@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T14:26:23.477402+00:00",
+  "updated": "2026-10-18T17:29:25.796688+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,25 +27,102 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "LinkedIn Fights AI Slop, Now 40% of Its Long-Form Posts",
+      "url": "https://tech.slashdot.org/story/26/10/18/1553202/linkedin-fights-ai-slop-now-40-of-its-long-form-posts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Even LinkedIn is getting tired of your AI-written posts,\" writes CNN, reporting that the Microsoft-owned, job-oriented social media site \"is upping its fight against slop.\" A report published in July by Pangram, a research firm that tracks AI content online, found that more than 40% of long-form posts on the platform were AI-generated, compared to around 30% on X and Medium and a smaller percentage on Reddit and Substack.... LinkedIn previously offered AI tools to edit or rewrite posts, althoug",
+      "published": "2026-10-18T16:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Someone Behind the Software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "summary": "28 points · 6 comments",
+      "published": "2026-10-18T16:32:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "summary": "19 points · 3 comments",
+      "published": "2026-10-18T16:20:27+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Programming Language Popularity Increases for R, Julia, and Rust (but Not Go)",
+      "url": "https://developers.slashdot.org/story/26/10/18/0547202/programming-language-popularity-increases-for-r-julia-and-rust-but-not-go?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "TechRepublic reports: The TIOBE Index is a monthly indicator of programming-language popularity based on factors including skilled engineers, courses, and third-party vendors. The October 2026 rankings show a largely stable top 10, with R overtaking SQL and Julia returning to the top 20 for the first time in three years. [SQL has risen to #9 from #10 in October of 2025 — back when R ranked only #13.] Python remains No. 1, followed by C, C++, Java, C#, and JavaScript, while Rust holds its No. 10 ",
+      "published": "2026-10-18T15:34:00+00:00"
+    },
+    {
       "source": "REDDIT",
-      "title": "Investigating Ephemeral Supply Chain Tampering",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x94f4x/investigating_ephemeral_supply_chain_tampering/",
-      "summary": "Researchers from Google Threat Intelligence Group and Mandiant uncovered a sophisticated attack against software-update infrastructure belonging to AOMEI AOMEI develops Windows backup, disk-cloning, and remote-access software. Between April and July 2026, attackers repeatedly modified configuration files on the company's update servers. What makes this attack unusual is how briefly the malicious changes remained active. Some modifications lasted only five to ten minutes. During those windows, co",
-      "published": "2026-10-18T14:21:25+00:00"
+      "title": "Cyberark sentry PAM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x963xn/cyberark_sentry_pam/",
+      "summary": "Hi Everyone, I’m planning to take the CyberArk PAM Sentry certification exam at a test center and would appreciate your guidance. If anyone has recently taken this exam, could you please share your experience, preparation strategy, important topics, and any reliable practice questions or study resources? I would also appreciate guidance on the exam pattern, difficulty level, and the types of questions to expect. Any tips, sample questions, or legitimate practice dumps based on publicly available",
+      "published": "2026-10-18T15:33:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "url": "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+      "summary": "169 points · 127 comments",
+      "published": "2026-10-18T15:26:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "summary": "47 points · 14 comments",
+      "published": "2026-10-18T14:47:37+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What was the most useful certificate for your career?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x94za0/what_was_the_most_useful_certificate_for_your/",
+      "summary": "As mentioned in the title, I'm actually curious on what the most useful was in terms of: Learning new concepts and apply them to your job Advance in your career by opening more doors to better paying positions In the past 5 years, I've worked as a Software Engineer, SOC Analyst, Incident Responder and now as a Security Auditor. In total, I've only done the GCFA (GIAC Certified Forensic Analyst) certificate hoping to use all of the tools in my every day job but unfortunately that was not the case",
+      "published": "2026-10-18T14:46:04+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Releasing Palm OS Archive, Developer Rediscovers Working Virus After 25 Years",
+      "url": "https://mobile.slashdot.org/story/26/10/18/002223/releasing-palm-os-archive-developer-rediscovers-working-virus-after-25-years?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Long-time Slashdot reader ardiri remembers his days writing applications for the Palm OS. And he's now released approximately 1.5 GB of historical Palm OS development resources, \"accumulated during the early days of handheld computing and preserved on hard drive backups for more than 25 years... to preserve the tools and knowledge that helped define an important era of personal computing.\" The collection includes historical SDKs, developer conference presentations, technical documentation, progr",
+      "published": "2026-10-18T14:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "published": "2026-10-18T14:23:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "RepRapMicron",
       "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "summary": "28 points · 4 comments",
+      "summary": "194 points · 28 comments",
       "published": "2026-10-18T13:48:48+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Gen Z Is the First Generation Dumber Than Their Parents",
-      "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
-      "summary": "38 points · 32 comments",
-      "published": "2026-10-18T13:45:25+00:00"
+      "title": "The Electronic Disturbance Theater and Electronic Civil Disobedience (1998)",
+      "url": "https://www.thing.net/~rdom/ecd/EDTECD.html",
+      "summary": "23 points · 2 comments",
+      "published": "2026-10-18T13:41:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+      "url": "https://legendofhyrule.com/",
+      "summary": "86 points · 35 comments",
+      "published": "2026-10-18T13:06:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "summary": "53 points · 44 comments",
+      "published": "2026-10-18T12:22:58+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -58,7 +135,7 @@
       "source": "HACKER NEWS",
       "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
       "url": "https://github.com/0x23/MicroManipulatorStepper",
-      "summary": "56 points · 5 comments",
+      "summary": "121 points · 10 comments",
       "published": "2026-10-18T11:16:22+00:00"
     },
     {
@@ -72,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
       "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "summary": "81 points · 23 comments",
+      "summary": "168 points · 46 comments",
       "published": "2026-10-18T10:21:51+00:00"
     },
     {
@@ -93,7 +170,7 @@
       "source": "HACKER NEWS",
       "title": "Parser Combinators",
       "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "summary": "97 points · 47 comments",
+      "summary": "164 points · 62 comments",
       "published": "2026-10-18T08:19:53+00:00"
     },
     {
@@ -107,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "summary": "349 points · 172 comments",
+      "summary": "428 points · 208 comments",
       "published": "2026-10-18T06:50:36+00:00"
     },
     {
@@ -135,14 +212,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
-      "summary": "185 points · 58 comments",
+      "summary": "210 points · 72 comments",
       "published": "2026-10-18T04:33:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "summary": "224 points · 270 comments",
+      "summary": "271 points · 373 comments",
       "published": "2026-10-18T03:19:49+00:00"
     },
     {
@@ -165,13 +242,6 @@
       "url": "https://yro.slashdot.org/story/26/10/17/2153207/court-agrees-with-eff-utahs-vpn-law-demands-a-technical-impossibility?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"When state lawmakers attempt to rewrite how the internet works,\" argues an EFF blog post, \"users rely on courts to recognize that laws can't make technical impossibilities a reality.\" \"That's why we were happy to see that a court has blocked Utah's attempt to outlaw the privacy protections of Virtual Private Networks (VPNs).\" In a win for digital rights, a federal judge has issued a preliminary injunction blocking Utah's SB 73, the state's draconian anti-VPN age verification law... Signed into ",
       "published": "2026-10-17T22:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Career Transition: From Warehouse Work to the Blue Team.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8m32u/career_transition_from_warehouse_work_to_the_blue/",
-      "summary": "From Warehouse to Blue Team – My Journey Towards SOC L1 and Eventually DFIR Hey everyone! Back in 2010, I was doing some amateur web design, which I continued until around 2014. After that, my PC was pretty much just for gaming. I've always been a gamer, and I've always wanted a job that involved computers, but you know how life goes. I never had the experience, and probably not enough motivation to actually make it happen. But over the past year, something changed. My motivation has been strong",
-      "published": "2026-10-17T21:43:38+00:00"
     },
     {
       "source": "REDDIT",
@@ -202,13 +272,6 @@
       "published": "2026-10-17T19:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "url": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Cloudflare has acquired Deno, the company behind the [server-side] JavaScript and TypeScript runtime created by Ryan Dahl, the inventor of Node.js,\" Forbes reported last week. But Deno \"has no future at Cloudflare, which will maintain the runtime for another year before ending its development,\" writes The Register. \"That's OK with Dahl. 'I am now of the opinion that if you're choosing Node.js for building servers, you're doing it wrong,' Dahl told The Register.\" It all started with his team's w",
-      "published": "2026-10-17T18:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Giant Website and App Remain Offline After Parent Company’s Cybersecurity Incident",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x8ggcf/giant_website_and_app_remain_offline_after_parent/",
@@ -216,32 +279,11 @@
       "published": "2026-10-17T17:47:05+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Personal Data for Millions of California Students Stolen in Massive Breach",
-      "url": "https://news.slashdot.org/story/26/10/17/0618213/personal-data-for-millions-of-california-students-stolen-in-massive-breach?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Millions of current and former students at California's public school have had their data stolen — including names, date of birth, and addresses — stolen in a breach, reports the Los Angeles Times. The breach affects students \"who took the state's mandated standardized tests that annually assess their academic proficiency, education officials announced Friday.\" The compromised information affects many more than the state's current 5.7 million public-school students as the breach dates back to 20",
-      "published": "2026-10-17T17:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "My experience working with Mythos 5.1 on a new attack vector",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x8f595/my_experience_working_with_mythos_51_on_a_new/",
       "summary": "I've applied to Anthropic CVP and received access to Mythos 5.1, with reduced guardrails (defense access). We already know by now it is good at finding vulnerabilities, but I was really interested in seeing if it was any good at spotting completely new attack vectors as well. I've been sitting on an allocator vulnerability for a while and preparing it for publishing, from what I can tell one that existed all the way since 1987; and the mitigations around this attack vector were insufficient. I'm",
       "published": "2026-10-17T16:53:35+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Will New Documentary Make Theranos Founder Elizabeth Holmes More Sympathetic?",
-      "url": "https://yro.slashdot.org/story/26/10/17/034203/will-new-documentary-make-theranos-founder-elizabeth-holmes-more-sympathetic?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "TechCrunch writes: \"Isn't it weird that I, like, did a TV show about kind of a business scam, and you got in trouble for like ... a business scam?\" comedian and filmmaker Nathan Fielder gently asks Elizabeth Holmes. One month before the notorious Theranos CEO surrendered to begin her 11-year criminal fraud sentence in 2023, Holmes and her husband contacted A24 as a last-ditch effort to exonerate her in the public eye, suggesting they send a film crew to document her final days of freedom. Alongs",
-      "published": "2026-10-17T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "summary": "496 points · 46 comments",
-      "published": "2026-10-17T15:55:09+00:00"
     },
     {
       "source": "OSINT",
@@ -272,13 +314,6 @@
       "published": "2026-10-17T11:09:34+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "907 points · 679 comments",
-      "published": "2026-10-17T08:21:25+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
       "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
@@ -287,23 +322,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "summary": "312 points · 77 comments",
-      "published": "2026-10-16T23:47:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "summary": "500 points · 105 comments",
+      "summary": "527 points · 113 comments",
       "published": "2026-10-16T23:38:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Teal – A statically-typed dialect of Lua",
       "url": "https://teal-language.org/",
-      "summary": "79 points · 32 comments",
+      "summary": "122 points · 51 comments",
       "published": "2026-10-16T21:07:24+00:00"
     },
     {
@@ -312,13 +340,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
       "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
       "published": "2026-10-16T20:00:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Regex visualized as 3D marble run",
-      "url": "https://www.regexmarblerun.com/",
-      "summary": "40 points · 15 comments",
-      "published": "2026-10-16T18:48:48+00:00"
     },
     {
       "source": "OSINT",
@@ -412,25 +433,11 @@
       "published": "2026-10-16T06:18:08+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Lean now ships with verified kernels",
-      "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "summary": "171 points · 57 comments",
-      "published": "2026-10-16T06:16:13+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
       "url": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
       "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
       "published": "2026-10-16T04:59:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Chirp Pong – uses microphones and audio for networked game play",
-      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
-      "summary": "4 points · 1 comments",
-      "published": "2026-10-16T04:25:02+00:00"
     },
     {
       "source": "OSINT",
@@ -447,11 +454,11 @@
       "published": "2026-10-15T19:48:43+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-      "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
-      "published": "2026-10-15T18:20:59+00:00"
+      "source": "HACKER NEWS",
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "summary": "14 points · 2 comments",
+      "published": "2026-10-15T18:34:09+00:00"
     },
     {
       "source": "REDDIT",
@@ -462,17 +469,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
-      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
-      "summary": "11 points · 1 comments",
-      "published": "2026-10-15T12:06:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hatching (Heraldry)",
-      "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
-      "summary": "20 points · 1 comments",
-      "published": "2026-10-14T18:57:57+00:00"
+      "title": "Sigsaly: Churchill's top secret hotline to the President",
+      "url": "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+      "summary": "34 points · 1 comments",
+      "published": "2026-10-14T22:07:47+00:00"
     },
     {
       "source": "OSINT",
