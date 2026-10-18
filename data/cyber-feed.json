@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T05:39:39.555254+00:00",
-  "item_count": 73,
+  "updated": "2026-10-18T10:47:57.142142+00:00",
+  "item_count": 60,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -13,6 +13,11 @@
       "source": "CISA",
       "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
       "error": "HTTPError"
+    },
+    {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
     },
     {
       "source": "REDDIT",
@@ -28,6 +33,41 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Looking for Advice on Growing an Open-Source Cybersecurity Project",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8yv2d/looking_for_advice_on_growing_an_opensource/",
+      "summary": "Hey everyone, I've been working in cybersecurity for the last 5 years, and over the past year I've been building a project called Vader-Pro-VDR, an AI-assisted Vulnerability Detection & Remediation platform. So far, I've built: A Go-based endpoint agent that collects system and software inventory information. A backend API that receives and processes agent data. AWS-hosted infrastructure for communication between endpoints and the backend. A working proof of concept that can identify installed a",
+      "published": "2026-10-18T09:22:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae ConnectWise",
+      "published": "2026-10-18T08:23:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Parser Combinators",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "summary": "20 points · 3 comments",
+      "published": "2026-10-18T08:19:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "summary": "208 points · 99 comments",
+      "published": "2026-10-18T06:50:36+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8waxl/critical_pwnescape_linux_kernel_vulnerability/",
+      "summary": "submitted by /u/Dash-Courageous [link] [comments]",
+      "published": "2026-10-18T06:43:26+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Open-source CVE triage in one place: KEV, EPSS, NVD and OSV combined into a single risk score",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x8v176/opensource_cve_triage_in_one_place_kev_epss_nvd/",
       "summary": "A open-source tool called CVE Intel. In simple terms, it pulls a bunch of security information sources into one place, and it doubles as an MCP server, so you can plug it into any of your AI agents.It's MIT licensed and written in Rust. Paste in a CVE and it pulls from NVD, CISA KEV, EPSS, OSV, public exploit sources and others in parallel. You get a 0–100 risk score and a short \"act now or later\" answer, with the evidence listed so you can check it yourself. It also handles IPs, file hashes and",
@@ -35,73 +75,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Matthew Prince on why Cloudflare offers a free version and always will",
-      "url": "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
-      "summary": "4 points · 1 comments",
-      "published": "2026-10-18T05:09:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Mole Infiltrated the Highest Ranks of American Militias",
-      "url": "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
-      "summary": "22 points · 1 comments",
-      "published": "2026-10-18T04:59:24+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
-      "url": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "That Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.\" But \"there are signs that the U.S. government is exploring the latter possibility,\" they add, citing comments from Chris McGuire, a member of the National Security Council during the Biden administration: The Department of Justice's press release about the",
-      "published": "2026-10-18T04:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
-      "summary": "24 points · 6 comments",
+      "summary": "139 points · 41 comments",
       "published": "2026-10-18T04:33:49+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: 500 clocks in one 6.3 MB HTML file by Opus 5.5",
-      "url": "https://tkgally.github.io/500-clocks/",
-      "summary": "4 points · 2 comments",
-      "published": "2026-10-18T04:04:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "summary": "50 points · 28 comments",
+      "summary": "151 points · 162 comments",
       "published": "2026-10-18T03:19:49+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Woman Arrested After Blocking Delivery Robot to Protest Job Displacements",
-      "url": "https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A Philadelphia newscast reports on a grey-haired lady who allegedly refused to move out of the path of a delivery robot as a form of protest because \"I know they're taking the jobs of human delivery workers.\" She was arrested, but says her actions were protected speech: According to police, Marvin repeatedly blocked the robot's path and ignored multiple commands from officers to move... Marvin said she was protesting the use of delivery robots because she believes they are replacing human worker",
-      "published": "2026-10-18T01:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "NY announces game ownership bill requiring ownership rather than licensing",
       "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "summary": "186 points · 54 comments",
+      "summary": "306 points · 109 comments",
       "published": "2026-10-18T00:14:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Does a Universal Basic Income Bring Long-Term Changes?",
-      "url": "https://yro.slashdot.org/story/26/10/17/1915216/does-a-universal-basic-income-bring-long-term-changes?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "For more than a year, The New York Times followed recipients of a universal basic income program who received $1,330 a month for an entire year. There were benefits, but also the everyday challenges of being poor, and turning their life around \"did not turn out to be quite that simple.\" Across Silicon Valley, experimental guaranteed income programs have quietly taken off. Google began funding six different initiatives in 2022 as part of a $50 million donation to nonprofits in the San Francisco B",
-      "published": "2026-10-17T23:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility",
-      "url": "https://yro.slashdot.org/story/26/10/17/2153207/court-agrees-with-eff-utahs-vpn-law-demands-a-technical-impossibility?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"When state lawmakers attempt to rewrite how the internet works,\" argues an EFF blog post, \"users rely on courts to recognize that laws can't make technical impossibilities a reality.\" \"That's why we were happy to see that a court has blocked Utah's attempt to outlaw the privacy protections of Virtual Private Networks (VPNs).\" In a win for digital rights, a federal judge has issued a preliminary injunction blocking Utah's SB 73, the state's draconian anti-VPN age verification law... Signed into ",
-      "published": "2026-10-17T22:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -118,53 +109,11 @@
       "published": "2026-10-17T21:38:39+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "MapQuest Shows Location of Flock (and Other ALPR) Cameras",
-      "url": "https://yro.slashdot.org/story/26/10/17/0115242/mapquest-shows-location-of-flock-and-other-alpr-cameras?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "MapQuest creates a new layer (that can be toggled on and off), Gizmodo reports: After promising not to comply with the Trump administration's \"Lake America\" gimmick, the platform announced a new \"Surveillance Layer\" that displays the locations of automated license plate readers (ALPRs), including those from Flock Safety. Per MapQuest, its new tool will identify the locations of known outdoor surveillance cameras and plate readers from Motorola Solutions (Vigilant), Genetec, Axis Communications, ",
-      "published": "2026-10-17T21:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Web pentesting?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8ka0m/web_pentesting/",
-      "summary": "I work as an IT specialist at a company, but I can’t really say I do much in the way of IT—it’s mostly just simple troubleshooting... I have a good understanding of networks and Linux, and I want to steer my career toward web penetration testing because it seems enjoyable and fun to me... But I have some questions: Is there a risk that AI might take over roles like SOC Level 1 in this field, and is this a promising career choice, or will I end up regretting it? Could the experts shed some light ",
-      "published": "2026-10-17T20:24:52+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Blue Origin Announces $330M Upgrades to Rocket Facilities for 'Multiple Flights Per Week'",
-      "url": "https://science.slashdot.org/story/26/10/17/0641232/blue-origin-announces-330m-upgrades-to-rocket-facilities-for-multiple-flights-per-week?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Jeff Bezos' Blue Origin said Friday it plans to make extensive upgrades to its Florida launch facilities,\" reports CNBC, \"with the goal of supporting multiple flights per week by the end of the decade.\" \"The company will add two more launch and landing pads for New Glenn, its heavy-lift, partially reusable rocket.\" A $330 million expansion to its Rocket Park campus in Cape Canaveral, expected to be complete in the summer of 2027, will enable it to produce up to 150 upper stages of its New Glenn",
-      "published": "2026-10-17T20:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
-      "url": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Linux maintainers \"have ruled that people no longer have to declare their LLM usage,\" reports XDA Developers, \"as Torvalds himself calls a ban on AI 'utterly stupid.'\" The first part of this story comes via a message sent to the Linux mailing list. It announces one of the major changes decided during the Maintainers Summit on October 8, 2026, in Prague, Czechia, where submissions to the kernel no longer need to use the \"Assisted-by\" tag... meaning that people can submit AI-generated code without",
-      "published": "2026-10-17T19:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
-      "url": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Cloudflare has acquired Deno, the company behind the [server-side] JavaScript and TypeScript runtime created by Ryan Dahl, the inventor of Node.js,\" Forbes reported last week. But Deno \"has no future at Cloudflare, which will maintain the runtime for another year before ending its development,\" writes The Register. \"That's OK with Dahl. 'I am now of the opinion that if you're choosing Node.js for building servers, you're doing it wrong,' Dahl told The Register.\" It all started with his team's w",
-      "published": "2026-10-17T18:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Giant Website and App Remain Offline After Parent Company’s Cybersecurity Incident",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x8ggcf/giant_website_and_app_remain_offline_after_parent/",
       "summary": "submitted by /u/Much-Television-9449 [link] [comments]",
       "published": "2026-10-17T17:47:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "summary": "113 points · 41 comments",
-      "published": "2026-10-17T17:45:08+00:00"
     },
     {
       "source": "REDDIT",
@@ -175,30 +124,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "summary": "292 points · 150 comments",
-      "published": "2026-10-17T17:06:07+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Personal Data for Millions of California Students Stolen in Massive Breach",
-      "url": "https://news.slashdot.org/story/26/10/17/0618213/personal-data-for-millions-of-california-students-stolen-in-massive-breach?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Millions of current and former students at California's public school have had their data stolen — including names, date of birth, and addresses — stolen in a breach, reports the Los Angeles Times. The breach affects students \"who took the state's mandated standardized tests that annually assess their academic proficiency, education officials announced Friday.\" The compromised information affects many more than the state's current 5.7 million public-school students as the breach dates back to 20",
-      "published": "2026-10-17T17:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Will New Documentary Make Theranos Founder Elizabeth Holmes More Sympathetic?",
-      "url": "https://yro.slashdot.org/story/26/10/17/034203/will-new-documentary-make-theranos-founder-elizabeth-holmes-more-sympathetic?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "TechCrunch writes: \"Isn't it weird that I, like, did a TV show about kind of a business scam, and you got in trouble for like ... a business scam?\" comedian and filmmaker Nathan Fielder gently asks Elizabeth Holmes. One month before the notorious Theranos CEO surrendered to begin her 11-year criminal fraud sentence in 2023, Holmes and her husband contacted A24 as a last-ditch effort to exonerate her in the public eye, suggesting they send a film crew to document her final days of freedom. Alongs",
-      "published": "2026-10-17T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
-      "summary": "344 points · 30 comments",
+      "summary": "446 points · 39 comments",
       "published": "2026-10-17T15:55:09+00:00"
     },
     {
@@ -209,18 +137,18 @@
       "published": "2026-10-17T15:18:51+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Scientists Discover Why Microplastics Trigger Inflammation",
-      "url": "https://science.slashdot.org/story/26/10/17/0024214/scientists-discover-why-microplastics-trigger-inflammation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Scientific American: Microplastics are a source of extreme concern for health: the presence of these tiny pieces of plastic has been linked to heart attacks, stroke, dementia and brain tumors. But what drives these associations is unclear. Now a study published in Nature offers a tantalizing clue: microplastics interact with water, generating highly reactive molecules. When microplastics come into contact with water, the water near their surface can becom",
-      "published": "2026-10-17T15:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Making chicken transparent using Dorito dust",
       "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "summary": "283 points · 73 comments",
+      "summary": "307 points · 82 comments",
       "published": "2026-10-17T13:55:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Interactive Linear Programming in the Browser",
+      "url": "https://lpviz.net/",
+      "summary": "35 points · 0 comments",
+      "published": "2026-10-17T12:06:44+00:00"
     },
     {
       "source": "OSINT",
@@ -235,13 +163,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x87lf2/windows_defender_now_works_in_linux_because_why/",
       "summary": "submitted by /u/DeepCedarShadow [link] [comments]",
       "published": "2026-10-17T11:09:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Updates Android Earthquake Alerts With 200+ Regions",
-      "url": "https://news.slashdot.org/story/26/10/17/0016213/google-updates-android-earthquake-alerts-with-200-regions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google is expanding its Android Earthquake Alerts System from 98 to more than 200 regions worldwide, using smartphone sensors to detect early earthquake activity and warn users before potentially dangerous shaking begins. The update also enhances the system's \"Be Ready\" alerts with estimated earthquake magnitudes, epicenter information, maps showing affected areas, and additional safety guidance. From a Google blog post: Be Aware: A straightforward alert for estimated light shaking, letting you ",
-      "published": "2026-10-17T11:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -261,7 +182,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "780 points · 621 comments",
+      "summary": "866 points · 657 comments",
       "published": "2026-10-17T08:21:25+00:00"
     },
     {
@@ -275,15 +196,22 @@
       "source": "HACKER NEWS",
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "summary": "248 points · 60 comments",
+      "summary": "282 points · 66 comments",
       "published": "2026-10-16T23:47:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "summary": "396 points · 85 comments",
+      "summary": "466 points · 100 comments",
       "published": "2026-10-16T23:38:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Teal – A statically-typed dialect of Lua",
+      "url": "https://teal-language.org/",
+      "summary": "36 points · 9 comments",
+      "published": "2026-10-16T21:07:24+00:00"
     },
     {
       "source": "OSINT",
@@ -293,11 +221,11 @@
       "published": "2026-10-16T20:00:59+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x7p0cv/bank_of_america_had_to_bring_in_1000_contractors/",
-      "summary": "\"Bank of America recruited an additional 1,000 contractors to help patch all the vulnerabilities discovered by Anthropic’s Mythos model, the CEO said on Wednesday. Brian Moynihan, chairman and CEO at BoA, said during the company’s Q3 earnings call that it spent “a couple of hundred million plus” in remediation costs related to Mythos, and the anti-money laundering (AML) orders issued this week. These costs are expected to decline over time, though, with the contractors in place to help ease the ",
-      "published": "2026-10-16T19:06:46+00:00"
+      "source": "HACKER NEWS",
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "summary": "568 points · 127 comments",
+      "published": "2026-10-16T19:01:17+00:00"
     },
     {
       "source": "OSINT",
@@ -380,7 +308,7 @@
       "source": "HACKER NEWS",
       "title": "Lean now ships with verified kernels",
       "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "summary": "74 points · 23 comments",
+      "summary": "143 points · 48 comments",
       "published": "2026-10-16T06:16:13+00:00"
     },
     {
@@ -394,7 +322,7 @@
       "source": "HACKER NEWS",
       "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
       "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-      "summary": "8 points · 0 comments",
+      "summary": "35 points · 4 comments",
       "published": "2026-10-15T20:55:40+00:00"
     },
     {
@@ -406,13 +334,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "url": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and nicknamed PwnEscape, is in the Linux kernel's networking code, not in any one cloud's setup, so it reaches the shared",
-      "published": "2026-10-15T20:24:36+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Android gets AI defenses against messaging scams, fake calls",
       "url": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
       "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
@@ -420,17 +341,17 @@
     },
     {
       "source": "OSINT",
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "url": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted login can hide the wrong person. Old bugs are finding new victims, familiar tools are being put to strange uses, and",
-      "published": "2026-10-15T18:49:33+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
       "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
       "published": "2026-10-15T18:20:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fun Extending the C Preprocessor",
+      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+      "summary": "29 points · 7 comments",
+      "published": "2026-10-15T17:08:26+00:00"
     },
     {
       "source": "REDDIT",
@@ -443,22 +364,15 @@
       "source": "HACKER NEWS",
       "title": "Furifont, a Japanese font that shows furigana",
       "url": "https://furifont.antfu.me/",
-      "summary": "315 points · 65 comments",
+      "summary": "351 points · 71 comments",
       "published": "2026-10-15T08:48:30+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
       "url": "https://github.com/antirez/c64-hw-simulator",
-      "summary": "169 points · 25 comments",
+      "summary": "192 points · 29 comments",
       "published": "2026-10-15T07:18:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Custom server to revive neato bots",
-      "url": "https://github.com/vacuula/vacuula",
-      "summary": "22 points · 1 comments",
-      "published": "2026-10-14T23:48:38+00:00"
     },
     {
       "source": "OSINT",
