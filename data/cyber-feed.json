@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-18T10:47:57.142142+00:00",
-  "item_count": 60,
+  "updated": "2026-10-18T14:26:23.477402+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -31,6 +26,55 @@
     }
   ],
   "items": [
+    {
+      "source": "REDDIT",
+      "title": "Investigating Ephemeral Supply Chain Tampering",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x94f4x/investigating_ephemeral_supply_chain_tampering/",
+      "summary": "Researchers from Google Threat Intelligence Group and Mandiant uncovered a sophisticated attack against software-update infrastructure belonging to AOMEI AOMEI develops Windows backup, disk-cloning, and remote-access software. Between April and July 2026, attackers repeatedly modified configuration files on the company's update servers. What makes this attack unusual is how briefly the malicious changes remained active. Some modifications lasted only five to ten minutes. During those windows, co",
+      "published": "2026-10-18T14:21:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "summary": "28 points · 4 comments",
+      "published": "2026-10-18T13:48:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Gen Z Is the First Generation Dumber Than Their Parents",
+      "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
+      "summary": "38 points · 32 comments",
+      "published": "2026-10-18T13:45:25+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "FSF Criticizes Raspberry Pi DRM Blocking RAM Upgrades",
+      "url": "https://news.slashdot.org/story/26/10/18/0632229/fsf-criticizes-raspberry-pi-drm-blocking-ram-upgrades?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Free Software Foundation \"has never supported Raspberry Pi,\" writes their deputy directory Sean O'Brien, \"as it depends on nonfree software for the boot process, leaving an important part of the computer outside the user's control.\" But they're now decrying \"an even more intrusive restriction on user freedom\" — the binary-blob bootloader changes that limit your ability to upgrade RAM: The restriction is not new: the relevant checks were introduced in the device firmware around 2024. However,",
+      "published": "2026-10-18T11:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "summary": "56 points · 5 comments",
+      "published": "2026-10-18T11:16:22+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Routing Azure access through PAM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x900gg/routing_azure_access_through_pam/",
+      "summary": "Are any organisations routing their azure access through PAM ? We are in a process of getting a PAM solution and would like to now the thoughts. submitted by /u/shonik97 [link] [comments]",
+      "published": "2026-10-18T10:35:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "summary": "81 points · 23 comments",
+      "published": "2026-10-18T10:21:51+00:00"
+    },
     {
       "source": "REDDIT",
       "title": "Looking for Advice on Growing an Open-Source Cybersecurity Project",
@@ -49,14 +93,21 @@
       "source": "HACKER NEWS",
       "title": "Parser Combinators",
       "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
-      "summary": "20 points · 3 comments",
+      "summary": "97 points · 47 comments",
       "published": "2026-10-18T08:19:53+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Tech Journalist Robert X Cringely Has Died",
+      "url": "https://news.slashdot.org/story/26/10/18/050211/tech-journalist-robert-x-cringely-has-died?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BoingBoing reports: Mark Stephens, better known under the pen name Robert X. Cringely, died last week at 73. Stephens chronicled the tech industry of the late 1980s and early 1990s — the age of Bill Gates' rise, Steve Jobs' repose, the dawn of the world wide web — and produced the famed documetary Triumph of the Nerds, based on his own bestselling Accidental Empires: How the Boys of Silicon Valley Make Their Millions, Battle Foreign Competition, and Still Can't Get a Date. Though not the first I",
+      "published": "2026-10-18T07:34:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
       "url": "https://api-docs.deepseek.com/guides/search/",
-      "summary": "208 points · 99 comments",
+      "summary": "349 points · 172 comments",
       "published": "2026-10-18T06:50:36+00:00"
     },
     {
@@ -74,25 +125,46 @@
       "published": "2026-10-18T05:26:53+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Saudi OpenAI Employee's Arrest Revives Fears US Tech Companies Are Hiring Spies",
+      "url": "https://yro.slashdot.org/story/26/10/18/0323207/saudi-openai-employees-arrest-revives-fears-us-tech-companies-are-hiring-spies?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "That Saudi national working at OpenAI and arrested by the FBI \"has not been charged with foreign espionage,\" writes the Washington Post, \"and the U.S. government has not said whether he was acting alone or as an agent of a foreign government.\" But \"there are signs that the U.S. government is exploring the latter possibility,\" they add, citing comments from Chris McGuire, a member of the National Security Council during the Biden administration: The Department of Justice's press release about the",
+      "published": "2026-10-18T04:34:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
       "url": "https://sphinx-six-theta.vercel.app/",
-      "summary": "139 points · 41 comments",
+      "summary": "185 points · 58 comments",
       "published": "2026-10-18T04:33:49+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
       "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "summary": "151 points · 162 comments",
+      "summary": "224 points · 270 comments",
       "published": "2026-10-18T03:19:49+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "summary": "306 points · 109 comments",
-      "published": "2026-10-18T00:14:22+00:00"
+      "source": "SLASHDOT",
+      "title": "Woman Arrested After Blocking Delivery Robot to Protest Job Displacements",
+      "url": "https://hardware.slashdot.org/story/26/10/17/2247220/woman-arrested-after-blocking-delivery-robot-to-protest-job-displacements?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A Philadelphia newscast reports on a grey-haired lady who allegedly refused to move out of the path of a delivery robot as a form of protest because \"I know they're taking the jobs of human delivery workers.\" She was arrested, but says her actions were protected speech: According to police, Marvin repeatedly blocked the robot's path and ignored multiple commands from officers to move... Marvin said she was protesting the use of delivery robots because she believes they are replacing human worker",
+      "published": "2026-10-18T01:34:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Does a Universal Basic Income Bring Long-Term Changes?",
+      "url": "https://yro.slashdot.org/story/26/10/17/1915216/does-a-universal-basic-income-bring-long-term-changes?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "For more than a year, The New York Times followed recipients of a universal basic income program who received $1,330 a month for an entire year. There were benefits, but also the everyday challenges of being poor, and turning their life around \"did not turn out to be quite that simple.\" Across Silicon Valley, experimental guaranteed income programs have quietly taken off. Google began funding six different initiatives in 2022 as part of a $50 million donation to nonprofits in the San Francisco B",
+      "published": "2026-10-17T23:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Court Agrees with EFF: Utah's VPN Law Demands a Technical Impossibility",
+      "url": "https://yro.slashdot.org/story/26/10/17/2153207/court-agrees-with-eff-utahs-vpn-law-demands-a-technical-impossibility?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"When state lawmakers attempt to rewrite how the internet works,\" argues an EFF blog post, \"users rely on courts to recognize that laws can't make technical impossibilities a reality.\" \"That's why we were happy to see that a court has blocked Utah's attempt to outlaw the privacy protections of Virtual Private Networks (VPNs).\" In a win for digital rights, a federal judge has issued a preliminary injunction blocking Utah's SB 73, the state's draconian anti-VPN age verification law... Signed into ",
+      "published": "2026-10-17T22:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -109,6 +181,34 @@
       "published": "2026-10-17T21:38:39+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "MapQuest Shows Location of Flock (and Other ALPR) Cameras",
+      "url": "https://yro.slashdot.org/story/26/10/17/0115242/mapquest-shows-location-of-flock-and-other-alpr-cameras?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "MapQuest creates a new layer (that can be toggled on and off), Gizmodo reports: After promising not to comply with the Trump administration's \"Lake America\" gimmick, the platform announced a new \"Surveillance Layer\" that displays the locations of automated license plate readers (ALPRs), including those from Flock Safety. Per MapQuest, its new tool will identify the locations of known outdoor surveillance cameras and plate readers from Motorola Solutions (Vigilant), Genetec, Axis Communications, ",
+      "published": "2026-10-17T21:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Blue Origin Announces $330M Upgrades to Rocket Facilities for 'Multiple Flights Per Week'",
+      "url": "https://science.slashdot.org/story/26/10/17/0641232/blue-origin-announces-330m-upgrades-to-rocket-facilities-for-multiple-flights-per-week?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Jeff Bezos' Blue Origin said Friday it plans to make extensive upgrades to its Florida launch facilities,\" reports CNBC, \"with the goal of supporting multiple flights per week by the end of the decade.\" \"The company will add two more launch and landing pads for New Glenn, its heavy-lift, partially reusable rocket.\" A $330 million expansion to its Rocket Park campus in Cape Canaveral, expected to be complete in the summer of 2027, will enable it to produce up to 150 upper stages of its New Glenn",
+      "published": "2026-10-17T20:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Linux Maintainers Can Now Submit AI-Generated Code Without Declaring It",
+      "url": "https://linux.slashdot.org/story/26/10/17/0723207/linux-maintainers-can-now-submit-ai-generated-code-without-declaring-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Linux maintainers \"have ruled that people no longer have to declare their LLM usage,\" reports XDA Developers, \"as Torvalds himself calls a ban on AI 'utterly stupid.'\" The first part of this story comes via a message sent to the Linux mailing list. It announces one of the major changes decided during the Maintainers Summit on October 8, 2026, in Prague, Czechia, where submissions to the kernel no longer need to use the \"Assisted-by\" tag... meaning that people can submit AI-generated code without",
+      "published": "2026-10-17T19:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Deno Acquired by Cloudflare, Will Work on Open Source Self-Hosting Platform for Applications",
+      "url": "https://developers.slashdot.org/story/26/10/17/0549255/deno-acquired-by-cloudflare-will-work-on-open-source-self-hosting-platform-for-applications?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Cloudflare has acquired Deno, the company behind the [server-side] JavaScript and TypeScript runtime created by Ryan Dahl, the inventor of Node.js,\" Forbes reported last week. But Deno \"has no future at Cloudflare, which will maintain the runtime for another year before ending its development,\" writes The Register. \"That's OK with Dahl. 'I am now of the opinion that if you're choosing Node.js for building servers, you're doing it wrong,' Dahl told The Register.\" It all started with his team's w",
+      "published": "2026-10-17T18:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Giant Website and App Remain Offline After Parent Company’s Cybersecurity Incident",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x8ggcf/giant_website_and_app_remain_offline_after_parent/",
@@ -116,17 +216,31 @@
       "published": "2026-10-17T17:47:05+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Personal Data for Millions of California Students Stolen in Massive Breach",
+      "url": "https://news.slashdot.org/story/26/10/17/0618213/personal-data-for-millions-of-california-students-stolen-in-massive-breach?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Millions of current and former students at California's public school have had their data stolen — including names, date of birth, and addresses — stolen in a breach, reports the Los Angeles Times. The breach affects students \"who took the state's mandated standardized tests that annually assess their academic proficiency, education officials announced Friday.\" The compromised information affects many more than the state's current 5.7 million public-school students as the breach dates back to 20",
+      "published": "2026-10-17T17:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
-      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8g3ir/drupal_patches_critical_rce_flaws_warns_exploits/",
-      "summary": "submitted by /u/Dorian182 [link] [comments]",
-      "published": "2026-10-17T17:32:03+00:00"
+      "title": "My experience working with Mythos 5.1 on a new attack vector",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1x8f595/my_experience_working_with_mythos_51_on_a_new/",
+      "summary": "I've applied to Anthropic CVP and received access to Mythos 5.1, with reduced guardrails (defense access). We already know by now it is good at finding vulnerabilities, but I was really interested in seeing if it was any good at spotting completely new attack vectors as well. I've been sitting on an allocator vulnerability for a while and preparing it for publishing, from what I can tell one that existed all the way since 1987; and the mitigations around this attack vector were insufficient. I'm",
+      "published": "2026-10-17T16:53:35+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Will New Documentary Make Theranos Founder Elizabeth Holmes More Sympathetic?",
+      "url": "https://yro.slashdot.org/story/26/10/17/034203/will-new-documentary-make-theranos-founder-elizabeth-holmes-more-sympathetic?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "TechCrunch writes: \"Isn't it weird that I, like, did a TV show about kind of a business scam, and you got in trouble for like ... a business scam?\" comedian and filmmaker Nathan Fielder gently asks Elizabeth Holmes. One month before the notorious Theranos CEO surrendered to begin her 11-year criminal fraud sentence in 2023, Holmes and her husband contacted A24 as a last-ditch effort to exonerate her in the public eye, suggesting they send a film crew to document her final days of freedom. Alongs",
+      "published": "2026-10-17T16:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Pele – Mermaid diagrams as themeable SVG",
       "url": "https://pele.run/",
-      "summary": "446 points · 39 comments",
+      "summary": "496 points · 46 comments",
       "published": "2026-10-17T15:55:09+00:00"
     },
     {
@@ -137,18 +251,11 @@
       "published": "2026-10-17T15:18:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "summary": "307 points · 82 comments",
-      "published": "2026-10-17T13:55:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Interactive Linear Programming in the Browser",
-      "url": "https://lpviz.net/",
-      "summary": "35 points · 0 comments",
-      "published": "2026-10-17T12:06:44+00:00"
+      "source": "OSINT",
+      "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+      "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+      "published": "2026-10-17T14:32:48+00:00"
     },
     {
       "source": "OSINT",
@@ -165,24 +272,10 @@
       "published": "2026-10-17T11:09:34+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x875dx/targeted_ads_installed_candiru_spyware_in/",
-      "summary": "submitted by /u/Dorian182 [link] [comments]",
-      "published": "2026-10-17T10:42:49+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "BAE Systems cyberattack disrupts US federal court operations",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x86g8p/bae_systems_cyberattack_disrupts_us_federal_court/",
-      "summary": "submitted by /u/Dorian182 [link] [comments]",
-      "published": "2026-10-17T10:00:32+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "summary": "866 points · 657 comments",
+      "summary": "907 points · 679 comments",
       "published": "2026-10-17T08:21:25+00:00"
     },
     {
@@ -196,21 +289,21 @@
       "source": "HACKER NEWS",
       "title": "Dam removals are bringing fish back across the northeastern United States",
       "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "summary": "282 points · 66 comments",
+      "summary": "312 points · 77 comments",
       "published": "2026-10-16T23:47:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Bleached corals thrive within days when touching healthy neighbour",
       "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "summary": "466 points · 100 comments",
+      "summary": "500 points · 105 comments",
       "published": "2026-10-16T23:38:27+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Teal – A statically-typed dialect of Lua",
       "url": "https://teal-language.org/",
-      "summary": "36 points · 9 comments",
+      "summary": "79 points · 32 comments",
       "published": "2026-10-16T21:07:24+00:00"
     },
     {
@@ -222,10 +315,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "summary": "568 points · 127 comments",
-      "published": "2026-10-16T19:01:17+00:00"
+      "title": "Regex visualized as 3D marble run",
+      "url": "https://www.regexmarblerun.com/",
+      "summary": "40 points · 15 comments",
+      "published": "2026-10-16T18:48:48+00:00"
     },
     {
       "source": "OSINT",
@@ -233,6 +326,13 @@
       "url": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
       "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections.Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
       "published": "2026-10-16T17:48:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "published": "2026-10-16T17:20:03+00:00"
     },
     {
       "source": "OSINT",
@@ -285,6 +385,13 @@
     },
     {
       "source": "OSINT",
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "url": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
+      "published": "2026-10-16T07:37:35+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
       "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
       "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
@@ -308,7 +415,7 @@
       "source": "HACKER NEWS",
       "title": "Lean now ships with verified kernels",
       "url": "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
-      "summary": "143 points · 48 comments",
+      "summary": "171 points · 57 comments",
       "published": "2026-10-16T06:16:13+00:00"
     },
     {
@@ -320,10 +427,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Southern ground hornbill gets 3D printed beak prostheses at Artis Zoo",
-      "url": "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
-      "summary": "35 points · 4 comments",
-      "published": "2026-10-15T20:55:40+00:00"
+      "title": "Chirp Pong – uses microphones and audio for networked game play",
+      "url": "https://simonwillison.net/2026/Oct/15/chirp-pong/",
+      "summary": "4 points · 1 comments",
+      "published": "2026-10-16T04:25:02+00:00"
     },
     {
       "source": "OSINT",
@@ -347,13 +454,6 @@
       "published": "2026-10-15T18:20:59+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Fun Extending the C Preprocessor",
-      "url": "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
-      "summary": "29 points · 7 comments",
-      "published": "2026-10-15T17:08:26+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "We’re the Firefox security team. Ask us anything about securing an open-source browser! (AMA)",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x6ov2q/were_the_firefox_security_team_ask_us_anything/",
@@ -362,17 +462,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "summary": "351 points · 71 comments",
-      "published": "2026-10-15T08:48:30+00:00"
+      "title": "A History of Curves and Surfaces in Computer Aided Geometric Design [pdf]",
+      "url": "https://math.pku.edu.cn/teachers/jiangm/courses/CG/Lectures/spline-history.pdf",
+      "summary": "11 points · 1 comments",
+      "published": "2026-10-15T12:06:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "summary": "192 points · 29 comments",
-      "published": "2026-10-15T07:18:14+00:00"
+      "title": "Hatching (Heraldry)",
+      "url": "https://en.wikipedia.org/wiki/Hatching_(heraldry)",
+      "summary": "20 points · 1 comments",
+      "published": "2026-10-14T18:57:57+00:00"
     },
     {
       "source": "OSINT",
