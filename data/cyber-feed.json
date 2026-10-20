@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T05:49:36.176662+00:00",
-  "item_count": 64,
+  "updated": "2026-10-20T11:19:01.883141+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -32,11 +27,116 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+      "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+      "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+      "published": "2026-10-20T11:18:35+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Abandons UK AI Supercomputer As Grid Struggles to Keep Up",
+      "url": "https://hardware.slashdot.org/story/26/10/20/0529215/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft has reportedly abandoned plans to serve as the anchor customer for Britain's largest proposed AI supercomputer after learning that the project's Essex data center might not receive sufficient grid power until the early to mid-2030s. \"Its departure leaves Nscale without a publicly announced customer for the site, although the neocloud insists the project is still going ahead,\" reports The Register. From the report: When the deal was announced in September 2025, the plan was to pack 23,0",
+      "published": "2026-10-20T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Difficulty spotting cheaters during interviews & techniques to stop it",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xao2jm/difficulty_spotting_cheaters_during_interviews/",
+      "summary": "I’m in the process of interviewing candidates for a Jr. security analyst role and am running into the dilemma that I don’t trust all the candidates. I’m getting individuals with resumes with garbage formats but somewhat far fetched job histories (i.e someone who was a SOC analyst at a Fortune 500 computer company and a current analyst at a major financial firm, but trying for a Jr analyst role at a much smaller company). The job histories don’t line up with the role they are applying for. Then d",
+      "published": "2026-10-20T10:01:32+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-      "url": "https://deathplanswitch.com/",
-      "summary": "7 points · 3 comments",
-      "published": "2026-10-20T04:37:43+00:00"
+      "title": "Revolut down as users report app not working",
+      "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+      "summary": "47 points · 21 comments",
+      "published": "2026-10-20T09:54:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Revolut outage disrupts online banking operations worldwide",
+      "url": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+      "summary": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+      "published": "2026-10-20T09:46:44+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "US Army Cyber Command builds agentic AI to hack adversary networks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xanqiz/us_army_cyber_command_builds_agentic_ai_to_hack/",
+      "summary": "submitted by /u/VectorWireAI [link] [comments]",
+      "published": "2026-10-20T09:41:19+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "GRC - Latest technologies",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xanjcd/grc_latest_technologies/",
+      "summary": "People in GRC roles, how much effort do you put into keeping upto date with the latest technologies in your own time? I am a Senior GRC professional and I usually put in very little these days....(used to be all over it) which sometimes feels okay, but sometimes feels I'm making bad decisions. My motivation rises and drops. Side Note: IMO the statement of \"you dont need any technical knowledge to work in GRC\"... that's a lie. I guess technically you can.. but every GRC person I have worked with ",
+      "published": "2026-10-20T09:28:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DeepSeek just open-sourced its inference engine",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "summary": "399 points · 132 comments",
+      "published": "2026-10-20T09:08:54+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "A China-linked operator used AI agents to attack governments across Asia.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xan0mn/a_chinalinked_operator_used_ai_agents_to_attack/",
+      "summary": "During routine threat actor infrastructure hunting, I identified a suspicious APAC-hosted VPS running an autonomous AI intrusion platform with its entire working directory exposed to the open internet on port 9000. No authentication. 150+ live campaign files sitting there. I published my initial findings. Then vulnonhq took it further. Grateful to vulnonhq for the credit in their report and for doing the hard work of proper evidence collection and victim notification. This is what collaborative ",
+      "published": "2026-10-20T08:56:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "There is no official XScreenSaver GitHub repository",
+      "url": "https://github.com/xscreensaver-official/xscreensaver",
+      "summary": "32 points · 14 comments",
+      "published": "2026-10-20T08:51:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+      "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+      "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says. They were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
+      "published": "2026-10-20T08:21:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
+      "published": "2026-10-20T07:11:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Japan Launches Historic MMX Sample-Return Mission to Mars' Moon Phobos",
+      "url": "https://science.slashdot.org/story/26/10/20/0522251/japan-launches-historic-mmx-sample-return-mission-to-mars-moon-phobos?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Japan has successfully launched its Martian Moons eXploration (MMX) mission to study Mars' two moons, Phobos and Deimos. Scheduled to arrive in August 2027, \"MMX will become the first spacecraft to land on and return samples from Phobos for study back on Earth, which scientists think could shed light on a decades-old mystery about the moons' origins\" and resolve whether they were formed from a giant impact or were captured asteroids, reports Space.com. From the report: It was the 10th liftoff of",
+      "published": "2026-10-20T07:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The US Army wants AI agents that hack its enemies with almost no human oversight",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xal05n/the_us_army_wants_ai_agents_that_hack_its_enemies/",
+      "summary": "Public notice: https://sam.gov/opp/35684fa8865240b49a05e64af31237ea/view They want an advanced malware with AI… this won’t end well… submitted by /u/ross2000 [link] [comments]",
+      "published": "2026-10-20T06:46:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "summary": "80 points · 5 comments",
+      "published": "2026-10-20T06:37:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
+      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
+      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
+      "published": "2026-10-20T05:53:16+00:00"
     },
     {
       "source": "OSINT",
@@ -46,60 +146,46 @@
       "published": "2026-10-20T04:05:58+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
-      "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
-      "summary": "40 points · 38 comments",
-      "published": "2026-10-20T04:02:26+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "local LLM for cybersecurity/VAPT on 2× Tesla T4 GPUs (32GB VRAM total)?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xahqqx/local_llm_for_cybersecurityvapt_on_2_tesla_t4/",
-      "summary": "I’m using Ollama + OpenCode and want a model good at web app pentesting, JavaScript/API security audits, code review, and vulnerability analysis. Which model, quantization, and context length would you recommend for the best accuracy and speed? submitted by /u/Accomplished-Day8761 [link] [comments]",
-      "published": "2026-10-20T03:39:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-      "url": "https://github.com/golang/go/issues/82345",
-      "summary": "38 points · 17 comments",
-      "published": "2026-10-20T03:05:07+00:00"
+      "source": "SLASHDOT",
+      "title": "Amazon To Fund 12 Small Nuclear Reactors At Former Indiana Coal Plant",
+      "url": "https://hardware.slashdot.org/story/26/10/19/2133234/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TechCrunch: Amazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies announced Monday. Utility company American Electric Power (AEP) would operate the plant. X-energy, which designs small modular nuclear reactors and went public in April, would supply the reactors. The new power plant would consist of 12 Xe-100 small modular reactors and be located on the site of a de",
+      "published": "2026-10-20T03:30:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "OpenBSD 8.0",
       "url": "https://www.openbsd.org/80.html",
-      "summary": "138 points · 36 comments",
+      "summary": "323 points · 103 comments",
       "published": "2026-10-20T02:06:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "url": "https://ipinfo.io/blog/france-fridges-hack",
-      "summary": "93 points · 75 comments",
-      "published": "2026-10-20T00:00:49+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Incident Response Workflow Improvements",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xacmfy/incident_response_workflow_improvements/",
-      "summary": "Looking for suggestions on improving our incident response playbook, particularly when it comes to endpoint isolation and forensic preservation. We are a multinational SOC operating primarily in a remote capacity. Our current process is to immediately contain an infected asset by isolating it from the network to minimize the potential impact and prevent further spread. However, POC's often becomes frustrated because isolating their infected devices disrupts business operations. As a result, empl",
-      "published": "2026-10-19T23:33:35+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "summary": "214 points · 36 comments",
+      "summary": "476 points · 143 comments",
       "published": "2026-10-19T23:22:18+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Professor Calls To Abolish Business Schools For Failing Society",
+      "url": "https://news.slashdot.org/story/26/10/19/2126207/professor-calls-to-abolish-business-schools-for-failing-society?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "joshuark writes: Professor Christopher Marquis makes a provocative argument about business schools: \"We need to abolish them.\" A 20-year business educator at Harvard, Cornell and Cambridge, Marquis argues in The New York Times and on LinkedIn that MBA programs sanctify profit-driven dealmaking at the expense of public life. \"That's not the institution failing,\" he writes. \"Sadly, it's the institution working.\" \"Business school doesn't just hand out skills and a network,\" argues Marquis, \"it quie",
+      "published": "2026-10-19T23:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "An ad-free Android TV",
       "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "summary": "108 points · 34 comments",
+      "summary": "237 points · 82 comments",
       "published": "2026-10-19T22:32:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "TP-Link Moves to Assemble Routers In the US Following Import Ban",
+      "url": "https://mobile.slashdot.org/story/26/10/19/211219/tp-link-moves-to-assemble-routers-in-the-us-following-import-ban?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "TP-Link plans to begin assembling routers in Mississippi as early as 2027 after the FCC banned imports of new foreign-made consumer routers over security concerns. Engadget reports: The company has signed a letter of intent with manufacturer Key Tronic and, pending approval from regulators, TP-Link says stateside assembly of its routers could start at a Mississippi production line as soon as early 2027. Once things are up and running, Wi-Fi 8 routers are expected to be among the first TP-Link pr",
+      "published": "2026-10-19T22:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -123,11 +209,11 @@
       "published": "2026-10-19T21:24:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "summary": "133 points · 28 comments",
-      "published": "2026-10-19T21:11:45+00:00"
+      "source": "SLASHDOT",
+      "title": "Trump DHS Officials Asked CISA To Secretly Aquire and Hack a Voting Machine",
+      "url": "https://politics.slashdot.org/story/26/10/19/2055248/trump-dhs-officials-asked-cisa-to-secretly-aquire-and-hack-a-voting-machine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader fahrbot-bot shares a report from ProPublica: A few months into President Donald Trump's second term, political appointees at the Department of Homeland Security (DHS) wanted Cybersecurity and Infrastructure Security Agency (CISA) to secretly acquire a voting machine and hack it. The appointees wanted the Cybersecurity and Infrastructure Security Agency to procure the machine, examine it and report back the findings so they could be given to the White House, according to ",
+      "published": "2026-10-19T21:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -137,11 +223,32 @@
       "published": "2026-10-19T20:21:37+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
+      "url": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The Verge: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. [...] Researchers at Norforge uncovered the attacks through exposed work on Cairn, an open-source AI platform that describes itself as a \"general-pur",
+      "published": "2026-10-19T20:00:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Hackers hijack AOMEI update servers to secretly spread malware",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
       "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
       "published": "2026-10-19T19:40:58+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple Announces October 28 'Pro and Tell' Event",
+      "url": "https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Following its October 13 HomeView launch, Apple is gearing up for its second hardware event of the month. The event is scheduled for October 28 in Los Angeles and carries the tagline \"Pro and tell.\" 9to5Mac reports: Rumors say Apple has a slew of new products to announce at its next event, headlining by its first MacBook Pro with a touchscreen and OLED. According to Bloomberg's Mark Gurman, here's what's on the docket: - New 14-inch and 16-inch touchscreen MacBook Pro models with OLED displays. ",
+      "published": "2026-10-19T19:30:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Florida DMV Hacked After Police Dept Insecurely Stored Login Info",
+      "url": "https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Florida's DMV says a September 4 breach exposed driver's license and motor vehicle records after attackers obtained credentials that a local law-enforcement employee had \"improperly stored on an electronic device.\" The ShinyHunters group has been linked to the intrusion. Ars Technica reports: In a notice posted Friday, [Florida Department of Highway Safety and Motor Vehicles (FLHSMV)] confirmed that it took \"immediate steps\" after discovering that \"a malicious actor accessed certain department r",
+      "published": "2026-10-19T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -151,11 +258,11 @@
       "published": "2026-10-19T18:51:13+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What changes when you're dealing with vulnerabilities in irl environments?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xa55kc/what_changes_when_youre_dealing_with/",
-      "summary": "In labs you can test things until something breaks. In production you've got live systems, limited access and vulnerabilities that sometimes turn out to be false positives People doing this professionally, what was the biggest adjustment? And how much did CTFs or other hands on practice prepare you for it? submitted by /u/Slow-Ruin1845 [link] [comments]",
-      "published": "2026-10-19T18:40:02+00:00"
+      "source": "SLASHDOT",
+      "title": "Elon Musk Vows To Give a SpaceX Share To 'Every Kid In America'",
+      "url": "https://news.slashdot.org/story/26/10/19/1721258/elon-musk-vows-to-give-a-spacex-share-to-every-kid-in-america?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from CNN: Elon Musk has said he will give every child in America a stake in SpaceX, his $2 trillion aerospace and artificial intelligence company, as tech firms face intensifying scrutiny over their impact on society. \"Next year, I will give one of my SpaceX shares to every kid in America,\" he wrote on X on Monday. \"This will be the first of many.\" SpaceX only began trading publicly in June (and after the biggest initial public offering in history). The compan",
+      "published": "2026-10-19T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -172,6 +279,13 @@
       "published": "2026-10-19T17:27:15+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Wine Ported to OpenBSD",
+      "url": "https://tech.slashdot.org/story/26/10/19/176251/wine-ported-to-openbsd?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Wine has been successfully ported to OpenBSD, with developers reporting that dozens of 64-bit Windows applications now run on the operating system. \"Even the Remaster of The Witcher 3 which released just last month runs, and runs well,\" writes Thomas Frohwein, OpenBSD developer and ports maintainer. OSnews reports: The biggest limitation seems to be the lack of support for WoW64, so 32bit Windows software won't work. Still, this is a massive milestone for OpenBSD, and makes especially gaming a s",
+      "published": "2026-10-19T17:10:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "How a Massive Chinese Crime Ring Hacked Staples to Steal Millions",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xa2i9t/how_a_massive_chinese_crime_ring_hacked_staples/",
@@ -180,16 +294,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Android apps running native on macOS",
-      "url": "https://github.com/kksimp/Mac.apk",
-      "summary": "295 points · 159 comments",
-      "published": "2026-10-19T16:45:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "MiniMax M3.1 Flash",
       "url": "https://www.minimax.io/blog/minimax-m31f",
-      "summary": "427 points · 186 comments",
+      "summary": "478 points · 203 comments",
       "published": "2026-10-19T16:39:09+00:00"
     },
     {
@@ -210,22 +317,22 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
       "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "summary": "124 points · 112 comments",
+      "summary": "291 points · 249 comments",
       "published": "2026-10-19T16:16:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ukraine claims first drone evacuation of wounded soldier",
       "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "summary": "200 points · 146 comments",
+      "summary": "305 points · 236 comments",
       "published": "2026-10-19T15:31:34+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x9z4cf/linux_kvm_guesthost_escape_rated_critical_may/",
-      "summary": "submitted by /u/One_Paint8721 [link] [comments]",
-      "published": "2026-10-19T14:57:05+00:00"
+      "source": "SLASHDOT",
+      "title": "Elizabeth Holmes Doc 'You Can See Everything' Shocks With Massive Opening",
+      "url": "https://entertainment.slashdot.org/story/26/10/19/1451201/elizabeth-holmes-doc-you-can-see-everything-shocks-with-massive-opening?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary \"You Can See Everything\" earned more than $15 million in its limited opening weekend, making it one of the biggest documentary launches in decades and the strongest opening for a film on fewer than 1,000 screens since Borat in 2006. It was also \"the biggest non-music documentary since 'Fahrenheit 9/11' in 2004,\" adds CNN. From the report: Many weekend screenings in cities like New York and Los Angeles were sold out despite the thr",
+      "published": "2026-10-19T15:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -261,13 +368,6 @@
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
       "published": "2026-10-19T13:48:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "summary": "537 points · 178 comments",
-      "published": "2026-10-19T13:35:34+00:00"
     },
     {
       "source": "OSINT",
@@ -315,7 +415,7 @@
       "source": "HACKER NEWS",
       "title": "I built a drone with only one motor [video]",
       "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "summary": "478 points · 103 comments",
+      "summary": "561 points · 129 comments",
       "published": "2026-10-19T09:05:07+00:00"
     },
     {
@@ -340,11 +440,11 @@
       "published": "2026-10-19T06:07:08+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Hacker Claims Password '123456' Enabled Access to Denmark's National Registry, Affecting 8.8M People",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x9nwzw/hacker_claims_password_123456_enabled_access_to/",
-      "summary": "submitted by /u/Lonely_Astronaut_684 [link] [comments]",
-      "published": "2026-10-19T04:58:33+00:00"
+      "source": "HACKER NEWS",
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-10-19T00:43:01+00:00"
     },
     {
       "source": "REDDIT",
@@ -357,64 +457,36 @@
       "source": "HACKER NEWS",
       "title": "Nordwand Mono – A monospace font for coders and adventurers",
       "url": "https://github.com/tywr/Nordwand-Mono",
-      "summary": "5 points · 1 comments",
+      "summary": "300 points · 95 comments",
       "published": "2026-10-18T14:48:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "summary": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
-      "published": "2026-10-18T14:23:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Weball: Play Katamari on Websites",
       "url": "https://www.funwithcomputervision.com/weball/",
-      "summary": "143 points · 11 comments",
+      "summary": "225 points · 17 comments",
       "published": "2026-10-18T12:39:56+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled identities are listed below - ConnectWise Cloud Backup - 506e08f9-6e9a-4da4-942b-a099a03644ae ConnectWise",
-      "published": "2026-10-18T08:23:02+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "summary": "180 points · 67 comments",
-      "published": "2026-10-17T23:24:05+00:00"
+      "title": "Restoration of Retinal Regenerative Potential (2025)",
+      "url": "https://www.nature.com/articles/s41467-025-58290-8",
+      "summary": "64 points · 5 comments",
+      "published": "2026-10-18T11:32:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "It's still ok to enjoy programming",
       "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "summary": "521 points · 479 comments",
+      "summary": "617 points · 533 comments",
       "published": "2026-10-17T19:53:20+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-      "published": "2026-10-17T15:18:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
-      "url": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
-      "summary": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX. The package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by a user named \"malfexteste8.\" It has been downloaded 979 times as of writing and is still available on npm as of writing. The latest version of",
-      "published": "2026-10-17T11:11:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-      "url": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-      "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers' M365 environments. ConnectWise Cloud Backup is a cloud-based backup and recovery service built for managed service providers (MSPs",
-      "published": "2026-10-17T06:16:46+00:00"
+      "source": "HACKER NEWS",
+      "title": "Making a 88x31 button book using ImageMagick",
+      "url": "https://k.sosnierz.me/08-11-24/",
+      "summary": "39 points · 3 comments",
+      "published": "2026-10-17T15:55:43+00:00"
     },
     {
       "source": "OSINT",
