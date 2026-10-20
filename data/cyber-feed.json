@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T15:48:03.082291+00:00",
-  "item_count": 76,
+  "updated": "2026-10-20T19:56:56.861097+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,18 +27,144 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Zeabur shutting down after second security breach in two months",
+      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
+      "published": "2026-10-20T19:33:02+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone",
+      "url": "https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "New court records reportedly show that DHS targeted Stop Cop City activist Samuel Tunick at an Atlanta airport because he was under investigation for suspected \"terrorist activities.\" However, the CBP officers told him instead that they wanted to search his phone for child sexual abuse material (CSAM). Tunick, who is not accused of terrorism or any other crime beyond allegedly wiping his GrapheneOS phone during the encounter, faces up to five years in prison. 404 Media reports: Instead of saying",
+      "published": "2026-10-20T19:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "EMudhra Intermediate CA Compromise",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xb0onb/emudhra_intermediate_ca_compromise/",
+      "summary": "what do you mean the private key is 4. submitted by /u/nexnova06 [link] [comments]",
+      "published": "2026-10-20T18:51:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "summary": "144 points · 72 comments",
+      "published": "2026-10-20T18:29:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+      "published": "2026-10-20T18:11:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xazkke/palo_altos_firewall_os_has_been_under_attack_from/",
+      "summary": "submitted by /u/Much_Preparation_832 [link] [comments]",
+      "published": "2026-10-20T18:10:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenBSD 8.0 Released",
+      "url": "https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "OpenBSD 8.0 has been released with major virtualization and hardware upgrades, including support for up to 64 vCPUs per VM, Intel Arc graphics, ARM64 hibernation, and expanded RISC-V support. Linuxiac points out that it marks the \"61st release of the security-focused Unix-like operating system.\" From the report: Several fixes improve compatibility with 32-bit Linux guests, while changes to virtual machine ownership management and interrupt emulation make the virtualization infrastructure more ca",
+      "published": "2026-10-20T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "summary": "62 points · 77 comments",
+      "published": "2026-10-20T17:25:07+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Guidance for mobile application security testing",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xay1m4/guidance_for_mobile_application_security_testing/",
+      "summary": "I'm a fresher stuck without proper guidance. Few weeks ago, I got assigned with a task to pentest a mobile app, I don't know anything Abt it, the setup, the methodology, etc., I don't have any senior to seek help in my org. I spent weeks searching, watching YT tutorials. But I couldn't understand anything 😭. The setup itself is failing sometimes. Being an enthusiastic hands-on person and not understanding the way to pentest a mobile is a big nightmare. I require quality guidance. Pls help me out",
+      "published": "2026-10-20T17:14:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+      "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+      "summary": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20. An intermediate CA signs the certificates that websites present, so anyone holding one of these keys could issue a certificate for any website that a browser would accept. A researcher reported the",
+      "published": "2026-10-20T17:09:53+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations",
+      "url": "https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Security researchers say Meta's Muse AI assistant exposed thousands of users' shared conversations because conversation titles were placed in subdomains that could be discovered through public DNS records. Meta has since suspended the sharing feature while it considers making changes. Ars Technica reports: Like many online services, Muse has allowed users to share searches, conversations, images, and similar content with other people. Such share features usually involve clicking an option to cre",
+      "published": "2026-10-20T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "summary": "156 points · 43 comments",
+      "published": "2026-10-20T16:40:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xawj7m/meta_muse_exposes_users_personal_and_business/",
+      "summary": "submitted by /u/3pun0x [link] [comments]",
+      "published": "2026-10-20T16:18:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "summary": "360 points · 99 comments",
+      "published": "2026-10-20T16:02:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "US Bans DeepSeek From Government Use",
+      "url": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Trump administration has banned DeepSeek AI from most US civilian federal agencies, ordering the removal of the Chinese company's models and technology developed using them. The Department of Homeland Security did not specify the security threats behind the decision. The BBC reports: The order (PDF) is broad, as it requires agencies to ditch \"all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations.\" Complying will be tricky",
+      "published": "2026-10-20T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
+      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+      "summary": "56 points · 22 comments",
+      "published": "2026-10-20T15:59:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "IKEA – 3D Guide",
+      "url": "https://sael.net/flatpack/",
+      "summary": "85 points · 19 comments",
+      "published": "2026-10-20T15:42:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
+      "summary": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-106173 (CVSS score: 9.4), is a critical path traversal flaw that could allow an unauthenticated attacker to execute unauthorized code or commands via specially",
+      "published": "2026-10-20T15:38:52+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+      "url": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
+      "summary": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting PAN-OS and Prisma Access by ransomware actors. The activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw that could be exploited by bad actors to set up unauthorized VPN connections. It was patched by Palo Alto Networks in May 2026 and was",
+      "published": "2026-10-20T15:32:27+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Large Companies - What's your (Cyber) on-call Schedule Like?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xav151/large_companies_whats_your_cyber_oncall_schedule/",
       "summary": "Curious to what other large companies on-call schedule is like? For reference, my company is >15,000 employees. The (Internal) cyber team is ~20 people in 3 different regions of the world. We follow the 'follow the sun' model, where you have one person responsible for your timezone per region (during the week), then, the next shift takes over. On the weekend we have 1 person on call for both days, then 2 backups. It works for us since we're all 8 hours apart. What are your companies doing? Overa",
       "published": "2026-10-20T15:22:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why do we have so many meetings?",
-      "url": "https://www.nber.org/papers/w35706",
-      "summary": "17 points · 4 comments",
-      "published": "2026-10-20T15:19:19+00:00"
     },
     {
       "source": "REDDIT",
@@ -48,39 +174,18 @@
       "published": "2026-10-20T15:19:02+00:00"
     },
     {
+      "source": "REDDIT",
+      "title": "Ukraine's state data-exchange system targeted in a 5-month Log4Shell campaign, exposed by the attacker's own mistake",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xauvjc/ukraines_state_dataexchange_system_targeted_in_a/",
+      "summary": "A single Russian-speaking operator spent five months targeting Ukraine's state data-exchange system, and the entire campaign was reconstructed from a directory the operator left open to the internet for 17 hours. Access came from a reused public Log4Shell chain, not custom malware. The operation was exposed not by a defender but by the operator's own error, which runs through the whole piece. https://hunt.io/blog/ukraine-state-data-exchange-graylog-log4shell submitted by /u/Straight-Practice-99 ",
+      "published": "2026-10-20T15:16:55+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
       "url": "https://news.ycombinator.com/item?id=50167583",
-      "summary": "10 points · 0 comments",
+      "summary": "31 points · 14 comments",
       "published": "2026-10-20T15:09:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
-      "url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
-      "summary": "5 points · 1 comments",
-      "published": "2026-10-20T15:07:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Facebook now charging to post more than 2 links a month",
-      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-      "summary": "76 points · 30 comments",
-      "published": "2026-10-20T15:06:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Getting Banned from r/java",
-      "url": "https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/",
-      "summary": "9 points · 2 comments",
-      "published": "2026-10-20T15:05:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
-      "url": "https://github.com/metahumansworld/SIwithin",
-      "summary": "5 points · 1 comments",
-      "published": "2026-10-20T15:00:34+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -91,9 +196,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ofcom Concedes Defeat in the 4chan Case",
+      "title": "Ofcom concedes defeat in 4chan case",
       "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "summary": "64 points · 30 comments",
+      "summary": "219 points · 130 comments",
       "published": "2026-10-20T14:30:31+00:00"
     },
     {
@@ -104,32 +209,11 @@
       "published": "2026-10-20T14:19:05+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "My Friend Bob Cringely",
-      "url": "https://tyma.com/my-cringe-story/",
-      "summary": "55 points · 17 comments",
-      "published": "2026-10-20T14:13:49+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company",
       "published": "2026-10-20T14:07:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "EMudhra Intermediate CA Compromise",
-      "url": "https://emudhra.we-have-a-problem.com/",
-      "summary": "117 points · 32 comments",
-      "published": "2026-10-20T13:58:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "2026 is an exciting year for the Rust compiler (and me)",
-      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
-      "summary": "35 points · 5 comments",
-      "published": "2026-10-20T13:53:48+00:00"
     },
     {
       "source": "OSINT",
@@ -139,17 +223,10 @@
       "published": "2026-10-20T13:51:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Analysts: (4on4off) Nights>Days>Nights>Days - is there any other Analyst on this shift pattern? How is it?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xasokc/analysts_4on4off_nightsdaysnightsdays_is_there/",
-      "summary": "Recently going for a new Analyst role, and the shift patterns are 4on4off, which I'm completely fine with. But it's not just 1 night shift block a month it's 4Night>4Day>4Night>4Day. It would normally take me a week to recover from a night shift block in my last role where it was one night block a month. I really want this role, but I feel like my health is going to take a hit here as I naturally struggle with sleep. Is there anyone on this type of pattern that can give insight what it's like? T",
-      "published": "2026-10-20T13:50:12+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "How I got over 300 Tor exit nodes removed",
       "url": "https://kaba.cx/posts/20261020_Tor/",
-      "summary": "77 points · 23 comments",
+      "summary": "232 points · 58 comments",
       "published": "2026-10-20T13:39:24+00:00"
     },
     {
@@ -163,15 +240,15 @@
       "source": "HACKER NEWS",
       "title": "Tsrs: A Port of TypeScript to Rust",
       "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "summary": "99 points · 52 comments",
+      "summary": "246 points · 116 comments",
       "published": "2026-10-20T13:18:07+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Publish fake stats, get cited in LLMs",
-      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-      "summary": "134 points · 78 comments",
-      "published": "2026-10-20T13:06:22+00:00"
+      "title": "Jepsen: Orkes Conductor 5.3.2",
+      "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
+      "summary": "21 points · 0 comments",
+      "published": "2026-10-20T13:14:39+00:00"
     },
     {
       "source": "OSINT",
@@ -184,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Apple broke an essential presentation feature of iPads",
       "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "summary": "221 points · 114 comments",
+      "summary": "378 points · 221 comments",
       "published": "2026-10-20T12:17:28+00:00"
     },
     {
@@ -193,13 +270,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
       "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
       "published": "2026-10-20T12:16:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Hazel (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
-      "summary": "1 points · 0 comments",
-      "published": "2026-10-20T12:00:32+00:00"
     },
     {
       "source": "OSINT",
@@ -287,17 +357,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "DeepSeek just open-sourced its inference engine",
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "summary": "1532 points · 555 comments",
+      "summary": "1968 points · 764 comments",
       "published": "2026-10-20T09:08:54+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "A China-linked operator used AI agents to attack governments across Asia.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xan0mn/a_chinalinked_operator_used_ai_agents_to_attack/",
-      "summary": "During routine threat actor infrastructure hunting, I identified a suspicious APAC-hosted VPS running an autonomous AI intrusion platform with its entire working directory exposed to the open internet on port 9000. No authentication. 150+ live campaign files sitting there. I published my initial findings. Then vulnonhq took it further. Grateful to vulnonhq for the credit in their report and for doing the hard work of proper evidence collection and victim notification. This is what collaborative ",
-      "published": "2026-10-20T08:56:38+00:00"
     },
     {
       "source": "OSINT",
@@ -326,27 +389,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xal05n/the_us_army_wants_ai_agents_that_hack_its_enemies/",
       "summary": "Public notice: https://sam.gov/opp/35684fa8865240b49a05e64af31237ea/view They want an advanced malware with AI… this won’t end well… submitted by /u/ross2000 [link] [comments]",
       "published": "2026-10-20T06:46:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "url": "https://github.com/microg/GmsCore/wiki",
-      "summary": "260 points · 23 comments",
-      "published": "2026-10-20T06:37:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-      "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-      "summary": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets. In a new court filing Sunday, prosecutors revealed that Abdulrahman Alfozan, a 35-year-old Saudi national, was \"in frequent communications via WhatsApp",
-      "published": "2026-10-20T05:53:16+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-      "url": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-      "summary": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader. According to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery service that employs ClickFix-style lures on bogus landing pages to trick unsuspecting users into running malicious commands and infecting their own",
-      "published": "2026-10-20T04:05:58+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -391,13 +433,6 @@
       "published": "2026-10-19T21:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Anyone else feel like they’re just a glorified spreadsheet administrator at this point?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xa7x8b/anyone_else_feel_like_theyre_just_a_glorified/",
-      "summary": "I got into cybersecurity because I actually liked the technical side of things. Troubleshooting, figuring out how systems break, and stopping bad things from happening. Fast forward to today, & I swear 80% of my week is just chasing down department heads to fill out row 47 on some massive compliance spreadsheett so we can pass an audit. It's exhausting. I feel like my actual technical skills are just slowly decaying while I become a professional box-checker. submitted by /u/Top-Try419 [link] [co",
-      "published": "2026-10-19T20:21:37+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "A Hacker Broke Into John Deere, SharkNinja With an Army of AI Agents",
       "url": "https://it.slashdot.org/story/26/10/19/1746204/a-hacker-broke-into-john-deere-sharkninja-with-an-army-of-ai-agents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -412,53 +447,11 @@
       "published": "2026-10-19T19:40:58+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Apple Announces October 28 'Pro and Tell' Event",
-      "url": "https://hardware.slashdot.org/story/26/10/19/1737252/apple-announces-october-28-pro-and-tell-event?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Following its October 13 HomeView launch, Apple is gearing up for its second hardware event of the month. The event is scheduled for October 28 in Los Angeles and carries the tagline \"Pro and tell.\" 9to5Mac reports: Rumors say Apple has a slew of new products to announce at its next event, headlining by its first MacBook Pro with a touchscreen and OLED. According to Bloomberg's Mark Gurman, here's what's on the docket: - New 14-inch and 16-inch touchscreen MacBook Pro models with OLED displays. ",
-      "published": "2026-10-19T19:30:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Florida DMV Hacked After Police Dept Insecurely Stored Login Info",
-      "url": "https://yro.slashdot.org/story/26/10/19/1726218/florida-dmv-hacked-after-police-dept-insecurely-stored-login-info?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Florida's DMV says a September 4 breach exposed driver's license and motor vehicle records after attackers obtained credentials that a local law-enforcement employee had \"improperly stored on an electronic device.\" The ShinyHunters group has been linked to the intrusion. Ars Technica reports: In a notice posted Friday, [Florida Department of Highway Safety and Motor Vehicles (FLHSMV)] confirmed that it took \"immediate steps\" after discovering that \"a malicious actor accessed certain department r",
-      "published": "2026-10-19T19:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-      "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-      "published": "2026-10-19T18:51:13+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Elon Musk Vows To Give a SpaceX Share To 'Every Kid In America'",
-      "url": "https://news.slashdot.org/story/26/10/19/1721258/elon-musk-vows-to-give-a-spacex-share-to-every-kid-in-america?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from CNN: Elon Musk has said he will give every child in America a stake in SpaceX, his $2 trillion aerospace and artificial intelligence company, as tech firms face intensifying scrutiny over their impact on society. \"Next year, I will give one of my SpaceX shares to every kid in America,\" he wrote on X on Monday. \"This will be the first of many.\" SpaceX only began trading publicly in June (and after the biggest initial public offering in history). The compan",
-      "published": "2026-10-19T18:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
-      "url": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
-      "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the exploitation activity involves chaining four different vulnerabilities, collectively called Plex2Shell. The vulnerabilities",
-      "published": "2026-10-19T17:32:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-      "summary": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-      "published": "2026-10-19T17:27:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Wine Ported to OpenBSD",
-      "url": "https://tech.slashdot.org/story/26/10/19/176251/wine-ported-to-openbsd?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Wine has been successfully ported to OpenBSD, with developers reporting that dozens of 64-bit Windows applications now run on the operating system. \"Even the Remaster of The Witcher 3 which released just last month runs, and runs well,\" writes Thomas Frohwein, OpenBSD developer and ports maintainer. OSnews reports: The biggest limitation seems to be the lack of support for WoW64, so 32bit Windows software won't work. Still, this is a massive milestone for OpenBSD, and makes especially gaming a s",
-      "published": "2026-10-19T17:10:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Show HN: RawLink – Building a VPN protocol from scratch",
+      "url": "https://github.com/zolagonano/RawLink",
+      "summary": "8 points · 0 comments",
+      "published": "2026-10-19T18:59:50+00:00"
     },
     {
       "source": "OSINT",
@@ -468,18 +461,11 @@
       "published": "2026-10-19T13:48:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "DHS Officials Asked a Federal Cybersecurity Agency to Secretly Acquire a Voting Machine — and Hack It",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x9ulu4/dhs_officials_asked_a_federal_cybersecurity/",
-      "summary": "submitted by /u/propublica_ [link] [comments]",
-      "published": "2026-10-19T11:42:21+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Russians locked out of bank accounts and apartments as Ukraine hits data centers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1x9tp6l/russians_locked_out_of_bank_accounts_and/",
-      "summary": "submitted by /u/nbcnews [link] [comments]",
-      "published": "2026-10-19T10:54:37+00:00"
+      "source": "HACKER NEWS",
+      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
+      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
+      "summary": "68 points · 44 comments",
+      "published": "2026-10-19T00:43:01+00:00"
     },
     {
       "source": "REDDIT",
@@ -490,10 +476,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Nordwand Mono – A monospace font for coders and adventurers",
-      "url": "https://github.com/tywr/Nordwand-Mono",
-      "summary": "454 points · 127 comments",
-      "published": "2026-10-18T14:48:01+00:00"
+      "title": "JAXA is about to perform a Phobos sample return mission",
+      "url": "https://www.science.org/content/article/audacious-space-heist-japan-aims-bring-home-bits-martian-moon",
+      "summary": "56 points · 7 comments",
+      "published": "2026-10-18T06:40:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "summary": "53 points · 10 comments",
+      "published": "2026-10-15T19:09:34+00:00"
     },
     {
       "source": "OSINT",
