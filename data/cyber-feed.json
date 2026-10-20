@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-20T11:19:01.883141+00:00",
-  "item_count": 75,
+  "updated": "2026-10-20T15:48:03.082291+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,11 +27,221 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Large Companies - What's your (Cyber) on-call Schedule Like?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xav151/large_companies_whats_your_cyber_oncall_schedule/",
+      "summary": "Curious to what other large companies on-call schedule is like? For reference, my company is >15,000 employees. The (Internal) cyber team is ~20 people in 3 different regions of the world. We follow the 'follow the sun' model, where you have one person responsible for your timezone per region (during the week), then, the next shift takes over. On the weekend we have 1 person on call for both days, then 2 backups. It works for us since we're all 8 hours apart. What are your companies doing? Overa",
+      "published": "2026-10-20T15:22:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why do we have so many meetings?",
+      "url": "https://www.nber.org/papers/w35706",
+      "summary": "17 points · 4 comments",
+      "published": "2026-10-20T15:19:19+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Blocking the Entire Internet",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xauxhj/blocking_the_entire_internet/",
+      "summary": "Some members of my team are throwing around the idea of blocking the entire internet and whitelisting what we need. The idea kind of seems like a nightmare to me, having to allowlist potentially thousands of domains, APIs, CDNs, etc. I understand that this is a practice in heavy regulated environments, so I was wondering if anyone has any experience with it. Is it worth the work to go through with a complete block? If so, what strategies were used to accomplish this? submitted by /u/Sad_Dentist_",
+      "published": "2026-10-20T15:19:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "summary": "10 points · 0 comments",
+      "published": "2026-10-20T15:09:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How to Link Real-Time Live Streaming to Video-on-Demand",
+      "url": "https://www.red5.net/blog/how-to-link-real-time-live-streaming-to-video-on-demand/",
+      "summary": "5 points · 1 comments",
+      "published": "2026-10-20T15:07:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Facebook now charging to post more than 2 links a month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "summary": "76 points · 30 comments",
+      "published": "2026-10-20T15:06:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Getting Banned from r/java",
+      "url": "https://sjhannah.com/blog/2026/05/30/getting-banned-from-r-java/",
+      "summary": "9 points · 2 comments",
+      "published": "2026-10-20T15:05:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Run Claude Code unattended inside a fence, under a dollar budget",
+      "url": "https://github.com/metahumansworld/SIwithin",
+      "summary": "5 points · 1 comments",
+      "published": "2026-10-20T15:00:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal",
+      "url": "https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Reuters: Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. The data center developer is seeking another major deal with the AI lab for a second facility at its Monarch data center campus in West Virginia, the person said. In August, Anthropic struck a deal to spend $45 billion to rent AI cloud computing power from Nscale's W",
+      "published": "2026-10-20T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ofcom Concedes Defeat in the 4chan Case",
+      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+      "summary": "64 points · 30 comments",
+      "published": "2026-10-20T14:30:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "DHS bans DeepSeek products across US federal civilian agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+      "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
+      "published": "2026-10-20T14:19:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "My Friend Bob Cringely",
+      "url": "https://tyma.com/my-cringe-story/",
+      "summary": "55 points · 17 comments",
+      "published": "2026-10-20T14:13:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
+      "url": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
+      "summary": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and reached websites belonging to more than 100 companies, including farm-equipment maker Deere, appliance company",
+      "published": "2026-10-20T14:07:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "EMudhra Intermediate CA Compromise",
+      "url": "https://emudhra.we-have-a-problem.com/",
+      "summary": "117 points · 32 comments",
+      "published": "2026-10-20T13:58:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "2026 is an exciting year for the Rust compiler (and me)",
+      "url": "https://yoyo-code.com/2026-is-exciting-year-for-rust-compiler-and-me/",
+      "summary": "35 points · 5 comments",
+      "published": "2026-10-20T13:53:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
+      "url": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
+      "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit readiness. [...]",
+      "published": "2026-10-20T13:51:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Analysts: (4on4off) Nights>Days>Nights>Days - is there any other Analyst on this shift pattern? How is it?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xasokc/analysts_4on4off_nightsdaysnightsdays_is_there/",
+      "summary": "Recently going for a new Analyst role, and the shift patterns are 4on4off, which I'm completely fine with. But it's not just 1 night shift block a month it's 4Night>4Day>4Night>4Day. It would normally take me a week to recover from a night shift block in my last role where it was one night block a month. I really want this role, but I feel like my health is going to take a hit here as I naturally struggle with sleep. Is there anyone on this type of pattern that can give insight what it's like? T",
+      "published": "2026-10-20T13:50:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How I got over 300 Tor exit nodes removed",
+      "url": "https://kaba.cx/posts/20261020_Tor/",
+      "summary": "77 points · 23 comments",
+      "published": "2026-10-20T13:39:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
+      "url": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
+      "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
+      "published": "2026-10-20T13:18:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tsrs: A Port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "summary": "99 points · 52 comments",
+      "published": "2026-10-20T13:18:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Publish fake stats, get cited in LLMs",
+      "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
+      "summary": "134 points · 78 comments",
+      "published": "2026-10-20T13:06:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
+      "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
+      "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came six days before Serbia's October 25 snap parliamentary election. The infection used a zero-click exploit, meaning Đokić did not have to tap a link or",
+      "published": "2026-10-20T12:59:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple broke an essential presentation feature of iPads",
+      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+      "summary": "221 points · 114 comments",
+      "published": "2026-10-20T12:17:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Windows Server 2025 gets support for quick machine recovery",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
+      "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
+      "published": "2026-10-20T12:16:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hazel (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/hazel-2/jobs/PpNKYBS-full-stack-engineer-ts-sci",
+      "summary": "1 points · 0 comments",
+      "published": "2026-10-20T12:00:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+      "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+      "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe tells users they can complain to one. The text sat in the pages' code, never shown on screen, until it was removed by October 18. Whether the",
+      "published": "2026-10-20T11:41:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "What Security Teams Can Do To Tame Wild Code",
+      "url": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
+      "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s daily routine. Across the same organization, employees are building useful apps, agents, and automations faster than existing processes can support them",
+      "published": "2026-10-20T11:33:04+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
+      "url": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
+      "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose certificates were issued under those keys. The Go team says the keys belong to one certificate authority it has not",
+      "published": "2026-10-20T11:32:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+      "summary": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+      "published": "2026-10-20T11:31:22+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
       "url": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
       "summary": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
       "published": "2026-10-20T11:18:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
+      "url": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
+      "summary": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO). The Symantec Threat Hunter Team, which is tracking the activity cluster under the moniker Swallowtail, involved the use of a backdoor called HOOKEDGE and a previously",
+      "published": "2026-10-20T11:06:25+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -41,18 +251,18 @@
       "published": "2026-10-20T11:00:00+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
+      "url": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
+      "summary": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauthorized access to application identities associated with Cloud Backup. The company said it has completed the following actions since it began",
+      "published": "2026-10-20T10:56:08+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Difficulty spotting cheaters during interviews & techniques to stop it",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xao2jm/difficulty_spotting_cheaters_during_interviews/",
       "summary": "I’m in the process of interviewing candidates for a Jr. security analyst role and am running into the dilemma that I don’t trust all the candidates. I’m getting individuals with resumes with garbage formats but somewhat far fetched job histories (i.e someone who was a SOC analyst at a Fortune 500 computer company and a current analyst at a major financial firm, but trying for a Jr analyst role at a much smaller company). The job histories don’t line up with the role they are applying for. Then d",
       "published": "2026-10-20T10:01:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Revolut down as users report app not working",
-      "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
-      "summary": "47 points · 21 comments",
-      "published": "2026-10-20T09:54:48+00:00"
     },
     {
       "source": "OSINT",
@@ -79,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "DeepSeek just open-sourced its inference engine",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "summary": "399 points · 132 comments",
+      "summary": "1532 points · 555 comments",
       "published": "2026-10-20T09:08:54+00:00"
     },
     {
@@ -88,13 +298,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xan0mn/a_chinalinked_operator_used_ai_agents_to_attack/",
       "summary": "During routine threat actor infrastructure hunting, I identified a suspicious APAC-hosted VPS running an autonomous AI intrusion platform with its entire working directory exposed to the open internet on port 9000. No authentication. 150+ live campaign files sitting there. I published my initial findings. Then vulnonhq took it further. Grateful to vulnonhq for the credit in their report and for doing the hard work of proper evidence collection and victim notification. This is what collaborative ",
       "published": "2026-10-20T08:56:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "There is no official XScreenSaver GitHub repository",
-      "url": "https://github.com/xscreensaver-official/xscreensaver",
-      "summary": "32 points · 14 comments",
-      "published": "2026-10-20T08:51:31+00:00"
     },
     {
       "source": "OSINT",
@@ -128,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
       "url": "https://github.com/microg/GmsCore/wiki",
-      "summary": "80 points · 5 comments",
+      "summary": "260 points · 23 comments",
       "published": "2026-10-20T06:37:07+00:00"
     },
     {
@@ -153,32 +356,11 @@
       "published": "2026-10-20T03:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "OpenBSD 8.0",
-      "url": "https://www.openbsd.org/80.html",
-      "summary": "323 points · 103 comments",
-      "published": "2026-10-20T02:06:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "summary": "476 points · 143 comments",
-      "published": "2026-10-19T23:22:18+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Professor Calls To Abolish Business Schools For Failing Society",
       "url": "https://news.slashdot.org/story/26/10/19/2126207/professor-calls-to-abolish-business-schools-for-failing-society?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "joshuark writes: Professor Christopher Marquis makes a provocative argument about business schools: \"We need to abolish them.\" A 20-year business educator at Harvard, Cornell and Cambridge, Marquis argues in The New York Times and on LinkedIn that MBA programs sanctify profit-driven dealmaking at the expense of public life. \"That's not the institution failing,\" he writes. \"Sadly, it's the institution working.\" \"Business school doesn't just hand out skills and a network,\" argues Marquis, \"it quie",
       "published": "2026-10-19T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "An ad-free Android TV",
-      "url": "https://cretezy.com/2026/ad-free-android-tv",
-      "summary": "237 points · 82 comments",
-      "published": "2026-10-19T22:32:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -193,13 +375,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
       "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
       "published": "2026-10-19T21:49:48+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What sandbox do you guys use?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xaa4wb/what_sandbox_do_you_guys_use/",
-      "summary": "We've been using the free version of Any Run at work since we don't really have the budget for a paid sandbox. It works fine for most things, but the free version has its limitations, and there's always a concern about accidentally submitting something sensitive publicly... Recently, I've been thinking about setting up my own sandbox for the team, maybe on AWS/Azure or even hosting it locally. It's just an idea for now, haven't really looked into the technical side of it yet... It got me wonderi",
-      "published": "2026-10-19T21:47:03+00:00"
     },
     {
       "source": "OSINT",
@@ -286,109 +461,11 @@
       "published": "2026-10-19T17:10:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How a Massive Chinese Crime Ring Hacked Staples to Steal Millions",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xa2i9t/how_a_massive_chinese_crime_ring_hacked_staples/",
-      "summary": "submitted by /u/Fenomiminal [link] [comments]",
-      "published": "2026-10-19T17:03:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "summary": "478 points · 203 comments",
-      "published": "2026-10-19T16:39:09+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-      "url": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-      "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math said in a security notice published on October 16. Any site that installed and activated one of those copies should be treated as compromised, and the",
-      "published": "2026-10-19T16:28:47+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Update from Krebs: Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xa19ua/update_from_krebs_feds_suspect_ransom_negotiator/",
-      "summary": "I know someone last week or so said the FBI grab on this guy was basically like a SWAT. But Krebs doesn't seem to think so. \"On October 9, KrebsOnSecurity broke the news that the FBI arrested a 54-year-old Canadian cybersecurity executive named Edward Dubrovsky in connection with the ShinyHunters investigation.... A source close to the investigation told KrebsOnSecurity that Van der Stap’s Signal messages showed he had frequent conversations with Mr. Dubrovsky and with at least one executive at ",
-      "published": "2026-10-19T16:17:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-      "summary": "291 points · 249 comments",
-      "published": "2026-10-19T16:16:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "summary": "305 points · 236 comments",
-      "published": "2026-10-19T15:31:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Elizabeth Holmes Doc 'You Can See Everything' Shocks With Massive Opening",
-      "url": "https://entertainment.slashdot.org/story/26/10/19/1451201/elizabeth-holmes-doc-you-can-see-everything-shocks-with-massive-opening?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary \"You Can See Everything\" earned more than $15 million in its limited opening weekend, making it one of the biggest documentary launches in decades and the strongest opening for a film on fewer than 1,000 screens since Borat in 2006. It was also \"the biggest non-music documentary since 'Fahrenheit 9/11' in 2004,\" adds CNN. From the report: Many weekend screenings in cities like New York and Los Angeles were sold out despite the thr",
-      "published": "2026-10-19T15:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft fixes game, app crashes caused by recent Windows update",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/",
-      "summary": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
-      "published": "2026-10-19T14:55:23+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html",
-      "summary": "The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage may already be done. This week had plenty of that. Trusted connections became a problem. Hardware wasn't as safe as it looked. Old bugs found new victims, and some systems were",
-      "published": "2026-10-19T14:14:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Inside the Underground Market for Know Your Client Services",
-      "url": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-      "summary": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and maintain fraudulent verified accounts. [...]",
-      "published": "2026-10-19T14:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-      "url": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-      "summary": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-      "published": "2026-10-19T13:49:24+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
       "published": "2026-10-19T13:48:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories",
-      "url": "https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html",
-      "summary": "The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware disguised within a fake font file. The latest evolution, detailed by OpenSourceMalware, signals that the attackers are actively refining their modus operandi in response to steps",
-      "published": "2026-10-19T13:05:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-      "published": "2026-10-19T12:44:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-      "url": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-      "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it is how airlines and hotels run support intake. Both are standard, documented, as-designed features. Chained together,",
-      "published": "2026-10-19T11:50:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -405,48 +482,6 @@
       "published": "2026-10-19T10:54:37+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-      "url": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-      "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gemini, coding tools, and security audits. \"The tools delivered information-stealing malware and backdoors for macOS and Windows machines,\" Elastic",
-      "published": "2026-10-19T10:06:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "summary": "561 points · 129 comments",
-      "published": "2026-10-19T09:05:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-      "published": "2026-10-19T08:58:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-      "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-      "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He showed the attack working against home gateways supplied by three Belgian internet providers, in one case reading the Wi-Fi password off the device",
-      "published": "2026-10-19T06:29:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
-      "url": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
-      "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a workspace saves its own OpenAI, Anthropic, or Google key there, and Console uses that key to call the provider so team members can use the models without",
-      "published": "2026-10-19T06:07:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "'Der Viener Schlinger': The meat cannon that launched 20k hot dogs",
-      "url": "https://flatwaterfreepress.org/der-viener-schlinger-the-meat-cannon-that-launched-20000-hot-dogs/",
-      "summary": "6 points · 0 comments",
-      "published": "2026-10-19T00:43:01+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x9i7sx/mentorship_monday_post_all_career_education_and/",
@@ -457,36 +492,8 @@
       "source": "HACKER NEWS",
       "title": "Nordwand Mono – A monospace font for coders and adventurers",
       "url": "https://github.com/tywr/Nordwand-Mono",
-      "summary": "300 points · 95 comments",
+      "summary": "454 points · 127 comments",
       "published": "2026-10-18T14:48:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Weball: Play Katamari on Websites",
-      "url": "https://www.funwithcomputervision.com/weball/",
-      "summary": "225 points · 17 comments",
-      "published": "2026-10-18T12:39:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Restoration of Retinal Regenerative Potential (2025)",
-      "url": "https://www.nature.com/articles/s41467-025-58290-8",
-      "summary": "64 points · 5 comments",
-      "published": "2026-10-18T11:32:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "It's still ok to enjoy programming",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "summary": "617 points · 533 comments",
-      "published": "2026-10-17T19:53:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Making a 88x31 button book using ImageMagick",
-      "url": "https://k.sosnierz.me/08-11-24/",
-      "summary": "39 points · 3 comments",
-      "published": "2026-10-17T15:55:43+00:00"
     },
     {
       "source": "OSINT",
