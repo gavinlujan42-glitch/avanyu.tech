@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T01:28:04.231639+00:00",
+  "updated": "2026-10-21T06:27:57.296228+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,6 +27,90 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Alibaba hikes DeepSeek V4 Flash 0731 output prices by 230%",
+      "url": "https://www.stork.ai/newsletter/2026-10-20-alibaba-quietly-tripled-deepseek-prices#lead",
+      "summary": "17 points · 12 comments",
+      "published": "2026-10-21T05:17:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Pillowfort Is Closing",
+      "url": "https://www.pillowfort.social/posts/8413273",
+      "summary": "21 points · 8 comments",
+      "published": "2026-10-21T05:05:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Battlezone Online: BZFlag in the Browser",
+      "url": "https://github.com/timriker/bzo",
+      "summary": "17 points · 7 comments",
+      "published": "2026-10-21T05:05:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+      "summary": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. Security researchers at watchTowr say the two flaws allow remote code execution. Only the four supported PHP branches, 8.2 through 8.5, can receive the fix, and no exploitation has been reported so far.",
+      "published": "2026-10-21T04:57:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PHP session.upload_progress heap UAF (CVE-2026-109618 / -109619)",
+      "url": "https://jackalsyn.com/posts/php-up-2026.html",
+      "summary": "140 points · 40 comments",
+      "published": "2026-10-21T04:26:56+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen",
+      "url": "https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TorrentFreak: Last month, Magistrate Judge Thomas Hixson ordered Meta to hand over the command histories of the servers it used to torrent pirated books. These logs would presumably reveal how Meta's torrent clients were set up, including any changes to their upload settings. [...] The server logs could reveal what happened on Meta's machines. However, publisher Entrepreneur Media also wants to know who approved the torrenting activity. Entrepreneur Media",
+      "published": "2026-10-21T03:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Millions of routers can be hijacked over Wi-Fi thanks to a 16-year-old bug",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbc6pd/millions_of_routers_can_be_hijacked_over_wifi/",
+      "summary": "submitted by /u/Dash-Courageous [link] [comments]",
+      "published": "2026-10-21T03:13:08+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Claude Building A Mac’s Monitoring Temperature App For A Vibecoder Uncovered A Cryptominer Using All 12 CPU Cores And Hitting 112°C",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbbyaq/claude_building_a_macs_monitoring_temperature_app/",
+      "summary": "submitted by /u/Dash-Courageous [link] [comments]",
+      "published": "2026-10-21T03:01:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "In Hilbert space, all things are quantumly possible",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "summary": "61 points · 28 comments",
+      "published": "2026-10-21T02:04:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Future of CSS",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "summary": "193 points · 70 comments",
+      "published": "2026-10-21T01:47:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "summary": "78 points · 8 comments",
+      "published": "2026-10-21T01:45:07+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Auto tech startup claims it traced hack attempt back to Comma.ai's IP address",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xb9x8r/auto_tech_startup_claims_it_traced_hack_attempt/",
+      "summary": "submitted by /u/AndroidUser37 [link] [comments]",
+      "published": "2026-10-21T01:21:48+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
       "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
@@ -42,16 +126,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Microagi: Accelerating Embodied AGI",
-      "url": "https://www.microagi.ai/",
-      "summary": "7 points · 4 comments",
-      "published": "2026-10-21T00:11:30+00:00"
+      "title": "Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "summary": "73 points · 14 comments",
+      "published": "2026-10-21T00:45:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Other Epidemic: Trying to get off benzodiazepines",
       "url": "https://www.thebeliever.net/the-other-epidemic/",
-      "summary": "57 points · 34 comments",
+      "summary": "149 points · 102 comments",
       "published": "2026-10-20T23:04:09+00:00"
     },
     {
@@ -65,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "summary": "86 points · 25 comments",
+      "summary": "168 points · 68 comments",
       "published": "2026-10-20T22:21:05+00:00"
     },
     {
@@ -140,16 +224,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "summary": "122 points · 64 comments",
-      "published": "2026-10-20T18:51:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "SimCity, but with Permits",
+      "title": "Show HN: SimCity, but with Permits",
       "url": "https://permit.petercai.com/",
-      "summary": "544 points · 288 comments",
+      "summary": "698 points · 354 comments",
       "published": "2026-10-20T18:29:09+00:00"
     },
     {
@@ -174,20 +251,6 @@
       "published": "2026-10-20T18:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "What shall I teach my son?",
-      "url": "https://stevekrouse.com/ends",
-      "summary": "257 points · 322 comments",
-      "published": "2026-10-20T17:25:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026/",
-      "summary": "25 points · 0 comments",
-      "published": "2026-10-20T17:10:31+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
       "url": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
@@ -205,21 +268,14 @@
       "source": "HACKER NEWS",
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
       "url": "https://github.com/google-pytorch/torch_tpu",
-      "summary": "258 points · 63 comments",
+      "summary": "315 points · 69 comments",
       "published": "2026-10-20T16:40:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xawj7m/meta_muse_exposes_users_personal_and_business/",
-      "summary": "submitted by /u/3pun0x [link] [comments]",
-      "published": "2026-10-20T16:18:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Voxtral 3",
       "url": "https://mistral.ai/news/voxtral-3/",
-      "summary": "522 points · 140 comments",
+      "summary": "597 points · 152 comments",
       "published": "2026-10-20T16:02:07+00:00"
     },
     {
@@ -228,13 +284,6 @@
       "url": "https://yro.slashdot.org/story/26/10/20/0546213/us-bans-deepseek-from-government-use?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The Trump administration has banned DeepSeek AI from most US civilian federal agencies, ordering the removal of the Chinese company's models and technology developed using them. The Department of Homeland Security did not specify the security threats behind the decision. The BBC reports: The order (PDF) is broad, as it requires agencies to ditch \"all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations.\" Complying will be tricky",
       "published": "2026-10-20T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-      "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "summary": "190 points · 115 comments",
-      "published": "2026-10-20T15:59:06+00:00"
     },
     {
       "source": "OSINT",
@@ -258,25 +307,11 @@
       "published": "2026-10-20T15:19:02+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Ukraine's state data-exchange system targeted in a 5-month Log4Shell campaign, exposed by the attacker's own mistake",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xauvjc/ukraines_state_dataexchange_system_targeted_in_a/",
-      "summary": "A single Russian-speaking operator spent five months targeting Ukraine's state data-exchange system, and the entire campaign was reconstructed from a directory the operator left open to the internet for 17 hours. Access came from a reused public Log4Shell chain, not custom malware. The operation was exposed not by a defender but by the operator's own error, which runs through the whole piece. https://hunt.io/blog/ukraine-state-data-exchange-graylog-log4shell submitted by /u/Straight-Practice-99 ",
-      "published": "2026-10-20T15:16:55+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Nscale, Anthropic In Talks For New $45 Billion AI Cloud Deal",
       "url": "https://slashdot.org/story/26/10/20/0536218/nscale-anthropic-in-talks-for-new-45-billion-ai-cloud-deal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Reuters: Nscale is in talks to sell AI computing power to Claude maker Anthropic in a new deal that could be worth about $45 billion, a person familiar with the matter told Reuters on Monday. The data center developer is seeking another major deal with the AI lab for a second facility at its Monarch data center campus in West Virginia, the person said. In August, Anthropic struck a deal to spend $45 billion to rent AI cloud computing power from Nscale's W",
       "published": "2026-10-20T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ofcom concedes defeat in 4chan case",
-      "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "summary": "330 points · 250 comments",
-      "published": "2026-10-20T14:30:31+00:00"
     },
     {
       "source": "OSINT",
@@ -307,13 +342,6 @@
       "published": "2026-10-20T13:18:36+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Tsrs: A Port of TypeScript to Rust",
-      "url": "https://blog.cloudflare.com/typescript-rust-port/",
-      "summary": "344 points · 168 comments",
-      "published": "2026-10-20T13:18:07+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
       "url": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
@@ -322,10 +350,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Apple broke an essential presentation feature of iPads",
-      "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-      "summary": "491 points · 247 comments",
-      "published": "2026-10-20T12:17:28+00:00"
+      "title": "Four Years with Decker",
+      "url": "https://beyondloom.com/blog/fouryearsdecker.html",
+      "summary": "19 points · 1 comments",
+      "published": "2026-10-20T12:18:02+00:00"
     },
     {
       "source": "OSINT",
@@ -405,32 +433,11 @@
       "published": "2026-10-20T09:46:44+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "US Army Cyber Command builds agentic AI to hack adversary networks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xanqiz/us_army_cyber_command_builds_agentic_ai_to_hack/",
-      "summary": "submitted by /u/VectorWireAI [link] [comments]",
-      "published": "2026-10-20T09:41:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "summary": "2133 points · 831 comments",
-      "published": "2026-10-20T09:08:54+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
       "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
       "summary": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets stored on the disk of any machine that runs it, the cloud provider says. They were live on GitHub for up to 94 minutes, from 12:47 to 14:21 UTC,",
       "published": "2026-10-20T08:21:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-      "url": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-      "summary": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks. The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to place a specially-crafted DLL in a directory the application searches, resulting in execution of malicious code with the same privileges as the",
-      "published": "2026-10-20T07:11:45+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -447,18 +454,25 @@
       "published": "2026-10-20T06:46:58+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Amazon To Fund 12 Small Nuclear Reactors At Former Indiana Coal Plant",
-      "url": "https://hardware.slashdot.org/story/26/10/19/2133234/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TechCrunch: Amazon is funding development of a proposed 960-megawatt nuclear plant in Indiana and would be the first customer to buy its power, the companies announced Monday. Utility company American Electric Power (AEP) would operate the plant. X-energy, which designs small modular nuclear reactors and went public in April, would supply the reactors. The new power plant would consist of 12 Xe-100 small modular reactors and be located on the site of a de",
-      "published": "2026-10-20T03:30:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Ship Your Interpreter",
+      "url": "https://www.basis.ai/blog/ship-your-interpreters/",
+      "summary": "7 points · 1 comments",
+      "published": "2026-10-20T01:57:24+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Dovepass – can I legally fly a drone along this exact path in SF?",
-      "url": "https://dovepass.com",
-      "summary": "13 points · 2 comments",
-      "published": "2026-10-19T19:21:56+00:00"
+      "title": "Borrow Checking Zero-Cost Cyclic Mutability",
+      "url": "https://antelang.org/blog/safe_cyclic_mutability/",
+      "summary": "24 points · 2 comments",
+      "published": "2026-10-19T12:47:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ZX Spectrum Next Laptop",
+      "url": "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+      "summary": "38 points · 4 comments",
+      "published": "2026-10-19T02:48:11+00:00"
     },
     {
       "source": "REDDIT",
@@ -466,20 +480,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x9i7sx/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-10-19T00:00:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Making Solar Panels with a Microwave [video]",
-      "url": "https://www.youtube.com/watch?v=zcWkApGjyGM",
-      "summary": "37 points · 4 comments",
-      "published": "2026-10-18T10:25:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-      "summary": "162 points · 73 comments",
-      "published": "2026-10-15T19:09:34+00:00"
     },
     {
       "source": "OSINT",
