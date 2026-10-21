@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T20:51:12.435778+00:00",
-  "item_count": 64,
+  "updated": "2026-10-21T23:57:17.877021+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,11 +15,6 @@
       "error": "HTTPError"
     },
     {
-      "source": "SLASHDOT",
-      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
-      "error": "ParseError"
-    },
-    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -31,6 +26,62 @@
     }
   ],
   "items": [
+    {
+      "source": "SLASHDOT",
+      "title": "eBay to Cut 9% of Workforce",
+      "url": "https://slashdot.org/story/26/10/21/2040246/ebay-to-cut-9-of-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "eBay plans to cut about 1,000 jobs, or 9% of its workforce, as CEO Jamie Iannone moves to redirect resources toward the company's fastest-growing businesses. Reuters reports: The company had 12,300 employees at the end of last year. It also let go about 6% of its workforce, or 800 employees, in February as part of efforts to streamline operations. EBay has set itself apart from rivals by pushing into authenticated luxury goods, collectibles and refurbished products, which draw enthusiasts willin",
+      "published": "2026-10-21T23:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+      "published": "2026-10-21T22:16:26+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "AMD Brings Ryzen Overclocking Driver to Linux",
+      "url": "https://linux.slashdot.org/story/26/10/21/2030239/amd-brings-ryzen-overclocking-driver-to-linux?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "AMD has published Linux kernel patches for an official Ryzen overclocking driver that allows users to adjust CPU power and current limits through a firmware interface exposed via sysfs. Phoronix reports: AMD engineer Shyam Sundar S K posted the patches for the AMD Overclocking \"AOD\" WMI driver as an interface to the platform firmware for managing overclocking and power/current limits of modern Ryzen CPUs. The driver in its initial form allows setting via sysfs a number of CPU tunables including ",
+      "published": "2026-10-21T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Railway Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "summary": "229 points · 103 comments",
+      "published": "2026-10-21T21:58:03+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+      "published": "2026-10-21T21:43:27+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CVE-2026-110264 GitLab Unauthenticated RCE (CVSS 10)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbzne3/cve2026110264_gitlab_unauthenticated_rce_cvss_10/",
+      "summary": "submitted by /u/radcorp [link] [comments]",
+      "published": "2026-10-21T21:13:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+      "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+      "summary": "94 points · 22 comments",
+      "published": "2026-10-21T21:12:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "More Than 1.5 Million Canadian Crime Stoppers Tips Leaked",
+      "url": "https://yro.slashdot.org/story/26/10/21/1729218/more-than-15-million-canadian-crime-stoppers-tips-leaked?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A CBC investigation found that more than 1.5 million Canadian Crime Stoppers tips spanning 25 years were exposed in a breach of the P3 Global Intel tip-management platform. About 850,000 records contained personally identifiable information, including addresses, phone numbers, emails, license plates and some banking details. Longtime Slashdot reader doconnor shares the report: The data was stolen last March by hacktivist collective Internet Yiff Machine. In a manifesto, the group said it wanted ",
+      "published": "2026-10-21T21:00:00+00:00"
+    },
     {
       "source": "OSINT",
       "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
@@ -46,46 +97,39 @@
       "published": "2026-10-21T20:17:52+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "After automation: Solo founding will be the default",
-      "url": "https://every.to/thesis-statements/julian-weisser",
-      "summary": "22 points · 14 comments",
-      "published": "2026-10-21T19:44:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
-      "summary": "57 points · 6 comments",
-      "published": "2026-10-21T19:26:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Mistral Large 4",
-      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-      "summary": "235 points · 57 comments",
-      "published": "2026-10-21T19:20:55+00:00"
+      "source": "SLASHDOT",
+      "title": "Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox",
+      "url": "https://games.slashdot.org/story/26/10/21/180214/microsoft-reportedly-projects-1200-to-1800-price-for-next-gen-xbox?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: We haven't heard many details about Microsoft's upcoming \"Project Helix\" gaming hardware since the company announced it in March as a device that will \"play your Xbox and PC games.\" In a new wide-ranging profile of Xbox CEO Asha Sharma, though, Fortune alludes to a dual release strategy for upcoming Microsoft gaming hardware, with \"a next-generation handheld device\" planned by the end of next year and a 2028 holiday season console release th",
+      "published": "2026-10-21T20:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Claude Duet",
       "url": "https://claude.com/product/claude-duet",
-      "summary": "140 points · 131 comments",
+      "summary": "288 points · 242 comments",
       "published": "2026-10-21T19:14:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Google's Rust Style Guide",
       "url": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "75 points · 51 comments",
+      "summary": "161 points · 104 comments",
       "published": "2026-10-21T19:11:57+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "GitLab CVSS 10.0 Integer Overflow issue",
+      "title": "GitLab Critical Patch Release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "82 points · 16 comments",
+      "summary": "218 points · 51 comments",
       "published": "2026-10-21T19:01:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy On Facebook",
+      "url": "https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A New Mexico judge has ordered Meta to pay $25 billion after a jury found Facebook liable for deceiving users about privacy during the Cambridge Analytica scandal. State Attorney General Raul Torrez called it \"one of the largest, if not the single largest state verdict against a company in American history.\" While Meta plans to appeal the ruling, the funds that are to be collected will go toward state education spending. The Associated Press reports: Jurors in September found Meta liable for ove",
+      "published": "2026-10-21T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -102,6 +146,13 @@
       "published": "2026-10-21T18:34:42+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "EA Is Shutting Down BioWare",
+      "url": "https://games.slashdot.org/story/26/10/21/1738206/ea-is-shutting-down-bioware?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"According to a recent report by Bloomberg's Jason Schreier (paywalled), EA has reportedly decided to shut down BioWare,\" the studio behind the Dragon Age and Mass Effect games, writes longtime Slashdot reader atari_kid. Quartz reports: Chief Studios Officer Cam Weber and Chief Operating Officer David Tinson wrote that \"over the past several months, we've taken a hard look at our business.\" They said a small BioWare team had been doing early groundwork on a Mass Effect game, but EA chose to drop",
+      "published": "2026-10-21T18:30:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
       "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
@@ -109,11 +160,18 @@
       "published": "2026-10-21T18:01:57+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "OpenAI Models Are Now On All Three Major US Cloud Platforms",
+      "url": "https://tech.slashdot.org/story/26/10/21/1637221/openai-models-are-now-on-all-three-major-us-cloud-platforms?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "OpenAI is bringing its models to Google Cloud's model garden and Antigravity coding tool, putting its technology on all three major U.S. cloud platforms after Microsoft's exclusive license ended earlier this year. \"Google Cloud's longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them,\" OpenAI said in a blog post. It continues: [...] The integration will pair OpenAI's frontier models with Google Cloud's bu",
+      "published": "2026-10-21T18:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "EA is shutting down BioWare",
-      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-      "summary": "342 points · 216 comments",
-      "published": "2026-10-21T17:29:33+00:00"
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "summary": "313 points · 190 comments",
+      "published": "2026-10-21T17:45:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -121,6 +179,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbsyc2/todays_php_security_release_and_how_were/",
       "summary": "On October 21st at 07:41 UTC, more than six hours before the coordinated release, Chainguard unilaterally broke the embargo and published built images containing the fix. Like other distributors, Chainguard had received the patch in advance so its users could update the moment the vulnerabilities were disclosed. Any attacker could now study the fix in binary form while every other PHP user was still waiting for the release. This disregarded weeks of work by many parties toward a coordinated disc",
       "published": "2026-10-21T17:06:48+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Government Websites Go Dark After Severe PHP Vulnerabilities Disclosed",
+      "url": "https://developers.slashdot.org/story/26/10/21/1644235/government-websites-go-dark-after-severe-php-vulnerabilities-disclosed?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"PHP disclosed two critical vulnerabilities in their programming language and urged web site operators to immediately apply the fix,\" writes longtime Slashdot reader smooth wombat. \"As a result, government web sites in Europe and elsewhere temporarily went dark on Wednesday as operators worked to protect their systems.\" The Independent reports: Dane Knecht, the chief technology officer of Web and cloud security firm Cloudflare, said that attacks were emerging and Cloudflare was updating its fire",
+      "published": "2026-10-21T17:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -137,17 +202,17 @@
       "published": "2026-10-21T16:26:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
-      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
-      "summary": "66 points · 15 comments",
-      "published": "2026-10-21T16:20:37+00:00"
+      "source": "REDDIT",
+      "title": "AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbr6kd/aiassisted_php2shell_exploit_chain_hits_php/",
+      "summary": "submitted by /u/VectorWireAI [link] [comments]",
+      "published": "2026-10-21T16:02:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Today's PHP security release, and how we're strengthening security",
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "summary": "472 points · 219 comments",
+      "summary": "640 points · 317 comments",
       "published": "2026-10-21T15:48:56+00:00"
     },
     {
@@ -161,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
       "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "summary": "140 points · 77 comments",
+      "summary": "164 points · 79 comments",
       "published": "2026-10-21T15:20:04+00:00"
     },
     {
@@ -170,6 +235,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbq0ha/what_made_you_guys_like_or_even_love_cybersecurity/",
       "summary": "submitted by /u/WordTimely8559 [link] [comments]",
       "published": "2026-10-21T15:19:08+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "PHP Warns It Plans To Release 2 Emergency Patches Imminently",
+      "url": "https://tech.slashdot.org/story/26/10/21/054204/php-warns-it-plans-to-release-2-emergency-patches-imminently?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10. \"All PHP users are encouraged to prepare now so they can u",
+      "published": "2026-10-21T15:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -203,21 +275,21 @@
       "source": "HACKER NEWS",
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "summary": "192 points · 128 comments",
+      "summary": "224 points · 146 comments",
       "published": "2026-10-21T14:03:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "summary": "315 points · 36 comments",
+      "summary": "353 points · 43 comments",
       "published": "2026-10-21T14:01:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "331 points · 114 comments",
+      "summary": "413 points · 129 comments",
       "published": "2026-10-21T14:00:26+00:00"
     },
     {
@@ -242,13 +314,6 @@
       "published": "2026-10-21T13:55:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "summary": "904 points · 507 comments",
-      "published": "2026-10-21T13:45:33+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
       "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
@@ -266,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
-      "summary": "173 points · 70 comments",
+      "summary": "218 points · 94 comments",
       "published": "2026-10-21T12:53:11+00:00"
     },
     {
@@ -289,6 +354,13 @@
       "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
       "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
       "published": "2026-10-21T11:53:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Tesla-SpaceX Merger Being Considered",
+      "url": "https://tech.slashdot.org/story/26/10/21/0458211/tesla-spacex-merger-being-considered?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Elon Musk says a merger between Tesla and SpaceX is under active consideration, with special committees at both companies evaluating a deal that could combine businesses valued at roughly $3.5 trillion. \"Do I think it would be a good idea? Yes,\" Musk said during a call with financial analysts over the quarterly business results of SpaceX on Tuesday. The BBC reports: While Musk noted the certainty of such a merger should not be assumed, and it would need shareholders' support, he said special com",
+      "published": "2026-10-21T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -322,7 +394,7 @@
       "source": "HACKER NEWS",
       "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "summary": "751 points · 367 comments",
+      "summary": "821 points · 393 comments",
       "published": "2026-10-21T09:08:08+00:00"
     },
     {
@@ -347,18 +419,18 @@
       "published": "2026-10-21T08:36:24+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Two critical vulnerabilities in php (presumably since php 5) release today 14:00 UTC",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbfah6/two_critical_vulnerabilities_in_php_presumably/",
-      "summary": "The PHP security team is giving advance notice: Upcoming security release Wed, Oct 21st 2026, 14:00UTC, two critical vulnerabilities, both rated CVSSv4 9.2. PHP users are encouraged to prepare to update. Earlier release if details become public or active exploit evidence. https://x.com/thephpf/status/2112633155631108544?s=46&t=4wsX0gGbhwDPX0HdOz2f8Q submitted by /u/fixtwin [link] [comments]",
-      "published": "2026-10-21T06:06:46+00:00"
+      "source": "SLASHDOT",
+      "title": "Russian Satellite's Close Shadowing of Radar Imaging Satellite Is a Big Deal",
+      "url": "https://science.slashdot.org/story/26/10/21/0449230/russian-satellites-close-shadowing-of-radar-imaging-satellite-is-a-big-deal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader schwit1 shares a report from TWZ: A Russian satellite, Kosmos 2612, may have passed within approximately 85 feet (26 meters) of a U.S.-registered satellite belonging to commercial imagery provider ICEYE. This would be an extraordinarily close and potentially dangerous pass-by for two objects in space traveling at thousands of miles per hour. For weeks beforehand, ICEYE-X36, which would be of special interest to Russia, had already found itself in increasingly close orbit",
+      "published": "2026-10-21T07:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Millions of routers can be hijacked over Wi-Fi thanks to a 16-year-old bug",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbc6pd/millions_of_routers_can_be_hijacked_over_wifi/",
-      "summary": "submitted by /u/Dash-Courageous [link] [comments]",
-      "published": "2026-10-21T03:13:08+00:00"
+      "source": "SLASHDOT",
+      "title": "Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen",
+      "url": "https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TorrentFreak: Last month, Magistrate Judge Thomas Hixson ordered Meta to hand over the command histories of the servers it used to torrent pirated books. These logs would presumably reveal how Meta's torrent clients were set up, including any changes to their upload settings. [...] The server logs could reveal what happened on Meta's machines. However, publisher Entrepreneur Media also wants to know who approved the torrenting activity. Entrepreneur Media",
+      "published": "2026-10-21T03:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -382,32 +454,32 @@
       "published": "2026-10-20T22:03:58+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-      "url": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-      "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
-      "published": "2026-10-20T20:56:43+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Zeabur shutting down after second security breach in two months",
-      "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-      "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts. [...]",
-      "published": "2026-10-20T19:33:02+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "113 points · 18 comments",
+      "summary": "138 points · 25 comments",
       "published": "2026-10-20T06:20:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "No More Icons in Every Menu by Default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "summary": "122 points · 90 comments",
+      "published": "2026-10-20T04:27:08+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
       "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "summary": "64 points · 37 comments",
+      "summary": "117 points · 83 comments",
       "published": "2026-10-20T00:14:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Code is clay now",
+      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
+      "summary": "62 points · 30 comments",
+      "published": "2026-10-19T15:19:45+00:00"
     },
     {
       "source": "OSINT",
