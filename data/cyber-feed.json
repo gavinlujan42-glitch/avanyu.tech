@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T17:35:01.728267+00:00",
-  "item_count": 76,
+  "updated": "2026-10-21T20:51:12.435778+00:00",
+  "item_count": 64,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,11 +32,88 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+      "published": "2026-10-21T20:31:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Wiz got pre-auth RCE on WordPress, Drupal and Joomla through vulnerabilities in PHP itself",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xby6zj/wiz_got_preauth_rce_on_wordpress_drupal_and/",
+      "summary": "Getting pre-auth RCE working across WordPress, Drupal and Joomla through the PHP engine itself is some serious work from Wiz. A lot of companies have PHP buried in older containers and internal services without even knowing which version is running. Updating the CMS won't fix the underlying runtime. Rebuilding a base image won't help either if the old containers are still serving traffic. Good luck patching PHP deployments you don't even know exist. submitted by /u/Wild-Turn7693 [link] [comments",
+      "published": "2026-10-21T20:17:52+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Overview of the german afd email leak",
-      "url": "https://erik.gdn/docs/afd-emails/en/",
-      "summary": "11 points · 1 comments",
-      "published": "2026-10-21T17:07:25+00:00"
+      "title": "After automation: Solo founding will be the default",
+      "url": "https://every.to/thesis-statements/julian-weisser",
+      "summary": "22 points · 14 comments",
+      "published": "2026-10-21T19:44:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+      "summary": "57 points · 6 comments",
+      "published": "2026-10-21T19:26:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mistral Large 4",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "summary": "235 points · 57 comments",
+      "published": "2026-10-21T19:20:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "summary": "140 points · 131 comments",
+      "published": "2026-10-21T19:14:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google's Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "summary": "75 points · 51 comments",
+      "published": "2026-10-21T19:11:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GitLab CVSS 10.0 Integer Overflow issue",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "summary": "82 points · 16 comments",
+      "published": "2026-10-21T19:01:12+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an",
+      "published": "2026-10-21T18:57:34+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
+      "published": "2026-10-21T18:34:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the",
+      "published": "2026-10-21T18:01:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "summary": "342 points · 216 comments",
+      "published": "2026-10-21T17:29:33+00:00"
     },
     {
       "source": "REDDIT",
@@ -39,20 +121,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbsyc2/todays_php_security_release_and_how_were/",
       "summary": "On October 21st at 07:41 UTC, more than six hours before the coordinated release, Chainguard unilaterally broke the embargo and published built images containing the fix. Like other distributors, Chainguard had received the patch in advance so its users could update the moment the vulnerabilities were disclosed. Any attacker could now study the fix in binary form while every other PHP user was still waiting for the release. This disregarded weeks of work by many parties toward a coordinated disc",
       "published": "2026-10-21T17:06:48+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Government Websites Go Dark After Severe PHP Vulnerabilities Disclosed",
-      "url": "https://developers.slashdot.org/story/26/10/21/1644235/government-websites-go-dark-after-severe-php-vulnerabilities-disclosed?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"PHP disclosed two critical vulnerabilities in their programming language and urged web site operators to immediately apply the fix,\" writes longtime Slashdot reader smooth wombat. \"As a result, government web sites in Europe and elsewhere temporarily went dark on Wednesday as operators worked to protect their systems.\" The Independent reports: Dane Knecht, the chief technology officer of Web and cloud security firm Cloudflare, said that attacks were emerging and Cloudflare was updating its fire",
-      "published": "2026-10-21T17:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Rust off Rails: The opinionated web stack for the AI era",
-      "url": "https://rustoffrails.org/",
-      "summary": "26 points · 17 comments",
-      "published": "2026-10-21T16:34:16+00:00"
     },
     {
       "source": "OSINT",
@@ -70,30 +138,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "What I learned from six months of being stupid on purpose",
-      "url": "https://wvez.org/blog/learning-to-be-stupid/",
-      "summary": "39 points · 20 comments",
-      "published": "2026-10-21T16:06:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Your MCU Likely Escaped the eMudhra Intermediate CA Compromise",
-      "url": "https://danielmangum.com/posts/mcu-emudhra-intermediate-ca-compromise/",
-      "summary": "19 points · 6 comments",
-      "published": "2026-10-21T16:05:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbr6kd/aiassisted_php2shell_exploit_chain_hits_php/",
-      "summary": "submitted by /u/VectorWireAI [link] [comments]",
-      "published": "2026-10-21T16:02:38+00:00"
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "summary": "66 points · 15 comments",
+      "published": "2026-10-21T16:20:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Today's PHP security release, and how we're strengthening security",
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "summary": "194 points · 97 comments",
+      "summary": "472 points · 219 comments",
       "published": "2026-10-21T15:48:56+00:00"
     },
     {
@@ -107,7 +161,7 @@
       "source": "HACKER NEWS",
       "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
       "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "summary": "82 points · 48 comments",
+      "summary": "140 points · 77 comments",
       "published": "2026-10-21T15:20:04+00:00"
     },
     {
@@ -118,25 +172,11 @@
       "published": "2026-10-21T15:19:08+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "PHP Warns It Plans To Release 2 Emergency Patches Imminently",
-      "url": "https://tech.slashdot.org/story/26/10/21/054204/php-warns-it-plans-to-release-2-emergency-patches-imminently?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10. \"All PHP users are encouraged to prepare now so they can u",
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "PHP: Critical remote code execution vulnerabilities, update now",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbou5n/php_critical_remote_code_execution/",
       "summary": "submitted by /u/ni5arga [link] [comments]",
       "published": "2026-10-21T14:34:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Cloudflare deploys protections against php2shell vulnerability",
-      "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-      "summary": "83 points · 7 comments",
-      "published": "2026-10-21T14:11:14+00:00"
     },
     {
       "source": "REDDIT",
@@ -163,21 +203,21 @@
       "source": "HACKER NEWS",
       "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "summary": "152 points · 81 comments",
+      "summary": "192 points · 128 comments",
       "published": "2026-10-21T14:03:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
       "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "summary": "229 points · 26 comments",
+      "summary": "315 points · 36 comments",
       "published": "2026-10-21T14:01:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "166 points · 65 comments",
+      "summary": "331 points · 114 comments",
       "published": "2026-10-21T14:00:26+00:00"
     },
     {
@@ -205,22 +245,8 @@
       "source": "HACKER NEWS",
       "title": "PHP 8.2.35",
       "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "summary": "738 points · 302 comments",
+      "summary": "904 points · 507 comments",
       "published": "2026-10-21T13:45:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "summary": "384 points · 144 comments",
-      "published": "2026-10-21T13:43:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
-      "summary": "65 points · 22 comments",
-      "published": "2026-10-21T13:37:00+00:00"
     },
     {
       "source": "OSINT",
@@ -240,7 +266,7 @@
       "source": "HACKER NEWS",
       "title": "OpenAI models are coming to Google Cloud",
       "url": "https://openai.com/index/openai-models-google-cloud/",
-      "summary": "61 points · 6 comments",
+      "summary": "173 points · 70 comments",
       "published": "2026-10-21T12:53:11+00:00"
     },
     {
@@ -258,25 +284,11 @@
       "published": "2026-10-21T12:05:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
-      "url": "https://9mothers.com/careers",
-      "summary": "1 points · 0 comments",
-      "published": "2026-10-21T12:00:24+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
       "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
       "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
       "published": "2026-10-21T11:53:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Tesla-SpaceX Merger Being Considered",
-      "url": "https://tech.slashdot.org/story/26/10/21/0458211/tesla-spacex-merger-being-considered?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Elon Musk says a merger between Tesla and SpaceX is under active consideration, with special committees at both companies evaluating a deal that could combine businesses valued at roughly $3.5 trillion. \"Do I think it would be a good idea? Yes,\" Musk said during a call with financial analysts over the quarterly business results of SpaceX on Tuesday. The BBC reports: While Musk noted the certainty of such a merger should not be assumed, and it would need shareholders' support, he said special com",
-      "published": "2026-10-21T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -308,9 +320,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
       "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "summary": "641 points · 286 comments",
+      "summary": "751 points · 367 comments",
       "published": "2026-10-21T09:08:08+00:00"
     },
     {
@@ -335,39 +347,11 @@
       "published": "2026-10-21T08:36:24+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-      "url": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-      "summary": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security order. They may also no longer buy information technology products or services from the Chinese AI developer or its affiliates Homeland Security Secretary",
-      "published": "2026-10-21T08:04:17+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-      "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-      "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's largest, said in a stock-exchange filing dated October 21 that it \"has experienced an incident involving the loss of certain data.\" The count is",
-      "published": "2026-10-21T07:44:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Russian Satellite's Close Shadowing of Radar Imaging Satellite Is a Big Deal",
-      "url": "https://science.slashdot.org/story/26/10/21/0449230/russian-satellites-close-shadowing-of-radar-imaging-satellite-is-a-big-deal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader schwit1 shares a report from TWZ: A Russian satellite, Kosmos 2612, may have passed within approximately 85 feet (26 meters) of a U.S.-registered satellite belonging to commercial imagery provider ICEYE. This would be an extraordinarily close and potentially dangerous pass-by for two objects in space traveling at thousands of miles per hour. For weeks beforehand, ICEYE-X36, which would be of special interest to Russia, had already found itself in increasingly close orbit",
-      "published": "2026-10-21T07:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Two critical vulnerabilities in php (presumably since php 5) release today 14:00 UTC",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbfah6/two_critical_vulnerabilities_in_php_presumably/",
       "summary": "The PHP security team is giving advance notice: Upcoming security release Wed, Oct 21st 2026, 14:00UTC, two critical vulnerabilities, both rated CVSSv4 9.2. PHP users are encouraged to prepare to update. Earlier release if details become public or active exploit evidence. https://x.com/thephpf/status/2112633155631108544?s=46&t=4wsX0gGbhwDPX0HdOz2f8Q submitted by /u/fixtwin [link] [comments]",
       "published": "2026-10-21T06:06:46+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen",
-      "url": "https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TorrentFreak: Last month, Magistrate Judge Thomas Hixson ordered Meta to hand over the command histories of the servers it used to torrent pirated books. These logs would presumably reveal how Meta's torrent clients were set up, including any changes to their upload settings. [...] The server logs could reveal what happened on Meta's machines. However, publisher Entrepreneur Media also wants to know who approved the torrenting activity. Entrepreneur Media",
-      "published": "2026-10-21T03:30:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -391,32 +375,11 @@
       "published": "2026-10-21T00:46:42+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Ukraine Claims World's First Drone Evacuation of Wounded Soldier",
-      "url": "https://tech.slashdot.org/story/26/10/20/1929211/ukraine-claims-worlds-first-drone-evacuation-of-wounded-soldier?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ukraine says it carried out the world's first evacuation of a wounded soldier by aerial drone, using a heavy-lift hexacopter after enemy drones and landmines made conventional ground evacuation too dangerous. NBC News reports: Shared by the 92nd Separate Assault Brigade on Monday, the video shows the soldier strapping himself into a large drone and being flown at what appears to be relatively low altitude over blurred-out territory. The drone carefully lowers him, and the drone operator greets h",
-      "published": "2026-10-20T23:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xb5m8v/the_internet_goes_on_high_alert_after_discovery/",
       "summary": "submitted by /u/OkVast2122 [link] [comments]",
       "published": "2026-10-20T22:03:58+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Sony Updates the Walkman As a $5,900 Gold-Plated MP3 Player",
-      "url": "https://hardware.slashdot.org/story/26/10/20/1923237/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Sony has revived its Walkman lineup with three Android 16-powered high-end music players ranging from $1,900 to $5,900, topped by the gold-plated NW-WM1ZM3 with 256GB of storage. The Register reports: The Japanese giant named the new models the NW-WM1ZM3, NW-WM1AM3 and NW-ZX900. All can store and play many codecs, including MP3s, WMA, and FLAC files, plus others like Direct Stream Digital (DSD) and Apple Lossless, which use various tricks to avoid nasty artefacts accruing during the digitization",
-      "published": "2026-10-20T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "AMD Is Bringing FSR 4.1 to Xbox Consoles and Handhelds",
-      "url": "https://games.slashdot.org/story/26/10/20/1917248/amd-is-bringing-fsr-41-to-xbox-consoles-and-handhelds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "AMD is expanding its FSR 4.1 upscaling technology beyond Radeon RX 9000-series GPUs to Xbox Series X/S consoles, Xbox Ally handhelds, laptops, and Radeon RX 6000-series graphics cards. The Verge reports: AMD launched its FSR 4.1 update for Radeon RX 9000-series graphics cards in March, and promised to bring the technology to older GPUs and handhelds this year. FSR 4.1 can improve performance in more than 300 supported games, including Cyberpunk 2077, Battlefield 6, and Assassin's Creed Shadows. ",
-      "published": "2026-10-20T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -426,13 +389,6 @@
       "published": "2026-10-20T20:56:43+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Google Support Pages Start Defaulting to AI Chatbots",
-      "url": "https://tech.slashdot.org/story/26/10/20/199206/google-support-pages-start-defaulting-to-ai-chatbots?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google is beginning to replace traditional support articles with \"Ask Google Help,\" a Gemini-powered interface that summarizes documentation and lets users troubleshoot through a chatbot. 9to5Google reports: \"Ask Google Help\" will display a condensed version of the support article with direct troubleshooting steps, with the user then able to type in queries to have Gemini help figure out the next step forward. A \"View Sources\" button at the bottom of the AI response allows users to still access ",
-      "published": "2026-10-20T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Zeabur shutting down after second security breach in two months",
       "url": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
@@ -440,53 +396,18 @@
       "published": "2026-10-20T19:33:02+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "DHS Lied About Why It Wanted To Search Activist's GrapheneOS Phone",
-      "url": "https://yro.slashdot.org/story/26/10/20/1740207/dhs-lied-about-why-it-wanted-to-search-activists-grapheneos-phone?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "New court records reportedly show that DHS targeted Stop Cop City activist Samuel Tunick at an Atlanta airport because he was under investigation for suspected \"terrorist activities.\" However, the CBP officers told him instead that they wanted to search his phone for child sexual abuse material (CSAM). Tunick, who is not accused of terrorism or any other crime beyond allegedly wiping his GrapheneOS phone during the encounter, faces up to five years in prison. 404 Media reports: Instead of saying",
-      "published": "2026-10-20T19:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-      "summary": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
-      "published": "2026-10-20T18:11:03+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenBSD 8.0 Released",
-      "url": "https://tech.slashdot.org/story/26/10/20/171229/openbsd-80-released?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenBSD 8.0 has been released with major virtualization and hardware upgrades, including support for up to 64 vCPUs per VM, Intel Arc graphics, ARM64 hibernation, and expanded RISC-V support. Linuxiac points out that it marks the \"61st release of the security-focused Unix-like operating system.\" From the report: Several fixes improve compatibility with 32-bit Linux guests, while changes to virtual machine ownership management and interrupt emulation make the virtualization infrastructure more ca",
-      "published": "2026-10-20T18:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Meta Muse Exposes Users' Personal, Business Secrets When They Share Conversations",
-      "url": "https://yro.slashdot.org/story/26/10/20/1655247/meta-muse-exposes-users-personal-business-secrets-when-they-share-conversations?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Security researchers say Meta's Muse AI assistant exposed thousands of users' shared conversations because conversation titles were placed in subdomains that could be discovered through public DNS records. Meta has since suspended the sharing feature while it considers making changes. Ars Technica reports: Like many online services, Muse has allowed users to share searches, conversations, images, and similar content with other people. Such share features usually involve clicking an option to cre",
-      "published": "2026-10-20T17:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "DHS bans DeepSeek products across US federal civilian agencies",
-      "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-      "summary": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-      "published": "2026-10-20T14:19:05+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "46 points · 3 comments",
+      "summary": "113 points · 18 comments",
       "published": "2026-10-20T06:20:54+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Drupal is now light-years ahead of its reputation",
-      "url": "https://dri.es/state-of-drupal-presentation-september-2026",
-      "summary": "53 points · 81 comments",
-      "published": "2026-10-19T21:38:02+00:00"
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "summary": "64 points · 37 comments",
+      "published": "2026-10-20T00:14:03+00:00"
     },
     {
       "source": "OSINT",
