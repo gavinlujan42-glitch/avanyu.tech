@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T09:33:57.725867+00:00",
-  "item_count": 76,
+  "updated": "2026-10-22T14:37:08.020026+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,10 +28,164 @@
   "items": [
     {
       "source": "HACKER NEWS",
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-      "summary": "38 points · 10 comments",
-      "published": "2026-10-22T08:51:31+00:00"
+      "title": "What's Getting Pwned",
+      "url": "https://pwn.watch/",
+      "summary": "16 points · 3 comments",
+      "published": "2026-10-22T14:08:12+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Machine speed attacks require machine speed detection and response",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "summary": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]",
+      "published": "2026-10-22T14:02:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcj64c/interpol_arrests_1462_suspects_disrupts_10909/",
+      "summary": "submitted by /u/DeepCedarShadow [link] [comments]",
+      "published": "2026-10-22T13:51:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "summary": "139 points · 62 comments",
+      "published": "2026-10-22T13:33:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Crystal 1.22.0 Is Released",
+      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
+      "summary": "36 points · 10 comments",
+      "published": "2026-10-22T13:20:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "summary": "153 points · 115 comments",
+      "published": "2026-10-22T13:11:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "SBD: We Have a Filesystem at Home",
+      "url": "https://fly.io/blog/sprites-block-device/",
+      "summary": "5 points · 3 comments",
+      "published": "2026-10-22T13:09:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+      "published": "2026-10-22T13:09:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
+      "url": "https://lastmuseum.com/",
+      "summary": "12 points · 3 comments",
+      "published": "2026-10-22T12:40:04+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Several Critical Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcgxf7/several_critical_linux_kernel_vulnerabilities/",
+      "summary": "submitted by /u/Itz_Raj69_ [link] [comments]",
+      "published": "2026-10-22T12:14:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
+      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
+      "summary": "129 points · 24 comments",
+      "published": "2026-10-22T11:50:36+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
+      "published": "2026-10-22T11:45:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+      "published": "2026-10-22T11:41:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Oracle Java - CVE-2026-91403 - Score: 9.1",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcg7jv/oracle_java_cve202691403_score_91/",
+      "summary": "https://www.oracle.com/security-alerts/alert-cve-2026-91403.html submitted by /u/pigri [link] [comments]",
+      "published": "2026-10-22T11:40:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
+      "published": "2026-10-22T11:15:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+      "summary": "149 points · 31 comments",
+      "published": "2026-10-22T11:12:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Airbnb Bans Making Guests Do Dishes, Take Out the Trash",
+      "url": "https://slashdot.org/story/26/10/22/0026211/airbnb-bans-making-guests-do-dishes-take-out-the-trash?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Airbnb is banning hosts from requiring guests to perform time-consuming checkout chores, including washing dishes, stripping beds, doing laundry, and taking trash off-site. The updated policy applies to reservations booked on or after November 20. The Verge reports: Airbnb is displaying hosts' requests more prominently now in a new \"rules and requests\" section on listings. You might see an \"includes cleaning requests\" warning if a host leaves chore requests in their listing after the new policy ",
+      "published": "2026-10-22T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Post-quantum migration sounds simple until you have to find every place you're using RSA",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcfdnv/postquantum_migration_sounds_simple_until_you/",
+      "summary": "There's a lot of talk about when quantum computers will actually be able to break RSA. For companies running older financial systems, we're not sure that's even the first problem to solve. RSA and ECC can be buried in application code, HSMs, payment terminals, vendor software and integrations nobody's touched in years. And finding them is only half the problem. Some older protocols have fixed-size fields. Post-quantum signatures and keys can be considerably larger. Then there's the vendor whose ",
+      "published": "2026-10-22T10:56:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September",
+      "published": "2026-10-22T10:44:05+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Capcom confirms major data breach affecting more than 11.7 million Capcom ID accounts worldwide",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xceg4u/capcom_confirms_major_data_breach_affecting_more/",
+      "summary": "submitted by /u/Dapper_Order7182 [link] [comments]",
+      "published": "2026-10-22T10:03:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcedw4/critical_gitlab_flaw_cvss_100_could_allow/",
+      "summary": "I know everyone's preoccupied with the PHP CVEs, but this is also BIG NEWS submitted by /u/One_Paint8721 [link] [comments]",
+      "published": "2026-10-22T09:59:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Checking in",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xce8q0/checking_in/",
+      "summary": "The internet is a dumpster fire right now, how is everyone holding up? The past 48 hours have just been insane, getting hit with absolutely everything all at once. I work with vulns and all I can say is…yikes. Good luck these next few days/weeks, hang in there. Edit for clarification: I mean emotional/stress wise. submitted by /u/gone-phishing-AFK [link] [comments]",
+      "published": "2026-10-22T09:51:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "summary": "126 points · 21 comments",
+      "published": "2026-10-22T09:31:18+00:00"
     },
     {
       "source": "OSINT",
@@ -48,6 +202,13 @@
       "published": "2026-10-22T08:27:11+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Jailbreaking the Switch 2",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "summary": "341 points · 123 comments",
+      "published": "2026-10-22T08:01:52+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
       "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
@@ -62,13 +223,6 @@
       "published": "2026-10-22T07:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "PHP2Shell: you patched, but were you hit? A read-only triage script for your server 🚨",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcbgep/php2shell_you_patched_but_were_you_hit_a_readonly/",
-      "summary": "submitted by /u/Nodohx [link] [comments]",
-      "published": "2026-10-22T06:53:26+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
       "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
@@ -81,13 +235,6 @@
       "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
       "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit attempt originated from an IP address associated with a commercial anonymization network,\" CJ Moses,",
       "published": "2026-10-22T06:34:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI CLI",
-      "url": "https://github.com/openai/openai-cli",
-      "summary": "113 points · 67 comments",
-      "published": "2026-10-22T05:23:11+00:00"
     },
     {
       "source": "OSINT",
@@ -107,14 +254,14 @@
       "source": "HACKER NEWS",
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "200 points · 133 comments",
+      "summary": "259 points · 210 comments",
       "published": "2026-10-22T02:30:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
       "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "summary": "192 points · 59 comments",
+      "summary": "368 points · 115 comments",
       "published": "2026-10-22T02:18:41+00:00"
     },
     {
@@ -123,13 +270,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xc3zrl/use_the_new_php_rces_to_masspatch_vulnerable/",
       "summary": "My thoughts are with everyone dealing with the recent critical CVEs in PHP and Node.js. Heres a half-serious idea - What if the security community stood up something that scanned for vulnerable PHP servers and used the same remote code execution path (the php2shell style of exploits) to push patches instead of payloads? Attackers are almost certainly already using these bugs to grow botnets and crypto miners. In theory the same propagation method could be used to deliver fixes at scale. Responsi",
       "published": "2026-10-22T00:21:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "464 points · 114 comments",
-      "published": "2026-10-21T23:51:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -156,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Security Disclosure",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "458 points · 264 comments",
+      "summary": "534 points · 310 comments",
       "published": "2026-10-21T21:58:03+00:00"
     },
     {
@@ -188,13 +328,6 @@
       "published": "2026-10-21T20:31:48+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Wiz got pre-auth RCE on WordPress, Drupal and Joomla through vulnerabilities in PHP itself",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xby6zj/wiz_got_preauth_rce_on_wordpress_drupal_and/",
-      "summary": "Getting pre-auth RCE working across WordPress, Drupal and Joomla through the PHP engine itself is some serious work from Wiz. A lot of companies have PHP buried in older containers and internal services without even knowing which version is running. Updating the CMS won't fix the underlying runtime. Rebuilding a base image won't help either if the old containers are still serving traffic. Good luck patching PHP deployments you don't even know exist. submitted by /u/Wild-Turn7693 [link] [comments",
-      "published": "2026-10-21T20:17:52+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Microsoft Reportedly Projects $1,200 To $1,800 Price For Next-Gen Xbox",
       "url": "https://games.slashdot.org/story/26/10/21/180214/microsoft-reportedly-projects-1200-to-1800-price-for-next-gen-xbox?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -205,22 +338,8 @@
       "source": "HACKER NEWS",
       "title": "Claude Duet",
       "url": "https://claude.com/product/claude-duet",
-      "summary": "371 points · 339 comments",
+      "summary": "473 points · 439 comments",
       "published": "2026-10-21T19:14:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "299 points · 181 comments",
-      "published": "2026-10-21T19:11:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GitLab critical patch release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "345 points · 82 comments",
-      "published": "2026-10-21T19:01:12+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -228,13 +347,6 @@
       "url": "https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A New Mexico judge has ordered Meta to pay $25 billion after a jury found Facebook liable for deceiving users about privacy during the Cambridge Analytica scandal. State Attorney General Raul Torrez called it \"one of the largest, if not the single largest state verdict against a company in American history.\" While Meta plans to appeal the ruling, the funds that are to be collected will go toward state education spending. The Associated Press reports: Jurors in September found Meta liable for ove",
       "published": "2026-10-21T19:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "url": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-      "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the October 12 update covered only versions 19.2 and later, and the new fixed versions sit one patch above it, so an",
-      "published": "2026-10-21T18:57:34+00:00"
     },
     {
       "source": "OSINT",
@@ -263,13 +375,6 @@
       "url": "https://tech.slashdot.org/story/26/10/21/1637221/openai-models-are-now-on-all-three-major-us-cloud-platforms?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "OpenAI is bringing its models to Google Cloud's model garden and Antigravity coding tool, putting its technology on all three major U.S. cloud platforms after Microsoft's exclusive license ended earlier this year. \"Google Cloud's longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them,\" OpenAI said in a blog post. It continues: [...] The integration will pair OpenAI's frontier models with Google Cloud's bu",
       "published": "2026-10-21T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-      "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "548 points · 326 comments",
-      "published": "2026-10-21T17:45:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -315,20 +420,6 @@
     },
     {
       "source": "REDDIT",
-      "title": "PHP: Critical remote code execution vulnerabilities, update now",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbou5n/php_critical_remote_code_execution/",
-      "summary": "submitted by /u/ni5arga [link] [comments]",
-      "published": "2026-10-21T14:34:06+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "PHP - As an IT person, what should I be doing?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbo82g/php_as_an_it_person_what_should_i_be_doing/",
-      "summary": "Our sec guy is out and I'm dealing with this. What should I be doing? People are saying just patch your shit, but patch what exactly? Where is the impact likely to be strongest here? Am I throwing patch updates on OS's? Software? Literally everything? submitted by /u/SuperTurtle222 [link] [comments]",
-      "published": "2026-10-21T14:10:44+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "I built a full-chain Chrome exploit in 6 days using only gpt-5.6-sol…Ask Me Anything!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbo6o3/i_built_a_fullchain_chrome_exploit_in_6_days/",
       "summary": "Hi Reddit! I’m Brendan Dolan-Gavitt , XBOW’s native team lead. In August, I used gpt-5.6-sol to see if I could build a full-chain exploit against Google Chrome. Six days later, we had a working chain. The exploit chained three vulnerabilities to achieve remote code execution and escape the Chrome sandbox, ultimately earning a $250,000 reward from Google’s Chrome Vulnerability Reward Program (the first of 2026)! I’m here to answer questions about how we did it: where AI agents helped (and where t",
@@ -342,46 +433,11 @@
       "published": "2026-10-21T14:07:05+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "511 points · 169 comments",
-      "published": "2026-10-21T14:00:26+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
       "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
       "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
       "published": "2026-10-21T14:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-      "url": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-      "summary": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws, together called PHP2Shell, sit in the PHP runtime, not in any application, so a site is exposed even when its own",
-      "published": "2026-10-21T14:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "LiteLLM 1.107.0 compromised on PyPI and installs a credential stealer and backdoor",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbnui2/litellm_11070_compromised_on_pypi_and_installs_a/",
-      "summary": "the payloads run on every python start on the machine and not just when you import litellm. Your IDE, pip, CI jobs everything python on that host is affected. It steals ssh keys, aws credentials, browser passwords, shell history and AI coding tool configs. The backdoor runs as a daemon and executes whatever code the attacker’s server returns every hour. Pin to 1.106.2. submitted by /u/BattleRemote3157 [link] [comments]",
-      "published": "2026-10-21T13:55:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-      "url": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-      "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious code directly into their computer's operating system, thereby bypassing conventional security controls. As part of",
-      "published": "2026-10-21T13:15:09+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "PHP stuff — what's a regular guy to do?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbmrsn/php_stuff_whats_a_regular_guy_to_do/",
-      "summary": "Title says it all. I'm not a web developer, I've never coded anything in my life, yadda yadda. I use the internet for personal (including entertainment) and academic stuff. Aside from the obvious (not clicking on weird links and keeping stuff updated), is there anything I can do? Or rather, how does this all affect me, if at all? I'm seeing a lot of people panicking on social media saying we shouldn't use computers or even the internet altogether. That all sounds like fear-mongering to me, so I ",
-      "published": "2026-10-21T13:11:21+00:00"
     },
     {
       "source": "OSINT",
@@ -391,102 +447,18 @@
       "published": "2026-10-21T12:20:34+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-      "url": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-      "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive technical marker for Bronze Sandcastle is its consistent use of Sandboxie DLL sideloading,\" Sophos security researcher Gabor Szappanos said in a post published",
-      "published": "2026-10-21T12:05:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-      "url": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-      "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied on for years are fading as a result. Proofpoint shared several examples of the shift at its Protect 2026 conference.",
-      "published": "2026-10-21T11:53:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Tesla-SpaceX Merger Being Considered",
-      "url": "https://tech.slashdot.org/story/26/10/21/0458211/tesla-spacex-merger-being-considered?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Elon Musk says a merger between Tesla and SpaceX is under active consideration, with special committees at both companies evaluating a deal that could combine businesses valued at roughly $3.5 trillion. \"Do I think it would be a good idea? Yes,\" Musk said during a call with financial analysts over the quarterly business results of SpaceX on Tuesday. The BBC reports: While Musk noted the certainty of such a merger should not be assumed, and it would need shareholders' support, he said special com",
-      "published": "2026-10-21T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft says October updates didn’t actually fix VPN issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-      "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-      "published": "2026-10-21T10:14:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-      "published": "2026-10-21T08:36:24+00:00"
+      "source": "HACKER NEWS",
+      "title": "The painter behind Manhattan’s Gilded Age interiors",
+      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
+      "summary": "20 points · 0 comments",
+      "published": "2026-10-20T23:09:43+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Using LLM for confidence scoring is a bad idea",
-      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "summary": "86 points · 47 comments",
-      "published": "2026-10-21T04:27:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-      "url": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-      "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-      "published": "2026-10-21T01:01:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "PingCap TiDB Leaks",
-      "url": "https://fulcrumsec.vg/pingcap/",
-      "summary": "343 points · 52 comments",
-      "published": "2026-10-20T22:45:39+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xb5m8v/the_internet_goes_on_high_alert_after_discovery/",
-      "summary": "submitted by /u/OkVast2122 [link] [comments]",
-      "published": "2026-10-20T22:03:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Beyond the &",
-      "url": "https://lwn.net/Articles/1096028/",
-      "summary": "63 points · 3 comments",
-      "published": "2026-10-20T13:59:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
-      "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "213 points · 47 comments",
-      "published": "2026-10-20T06:20:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "No more icons in every menu by default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "summary": "308 points · 191 comments",
-      "published": "2026-10-20T04:27:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What Is the Karakoram Anomaly?",
-      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
-      "summary": "28 points · 7 comments",
-      "published": "2026-10-20T01:26:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Robot I Didn't Expect to Build",
-      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
-      "summary": "4 points · 0 comments",
-      "published": "2026-10-19T17:57:18+00:00"
+      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
+      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+      "summary": "60 points · 23 comments",
+      "published": "2026-10-19T20:12:49+00:00"
     },
     {
       "source": "OSINT",
@@ -496,11 +468,25 @@
       "published": "2026-10-19T13:48:56+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "What Is Gridifcation",
+      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
+      "summary": "144 points · 45 comments",
+      "published": "2026-10-19T09:13:12+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x9i7sx/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-10-19T00:00:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
+      "url": "https://github.com/rhargreaves/vmmouse-nt3",
+      "summary": "6 points · 0 comments",
+      "published": "2026-10-18T19:50:11+00:00"
     },
     {
       "source": "OSINT",
