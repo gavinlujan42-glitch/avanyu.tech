@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-21T23:57:17.877021+00:00",
-  "item_count": 75,
+  "updated": "2026-10-22T04:19:15.345470+00:00",
+  "item_count": 76,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,10 +28,66 @@
   "items": [
     {
       "source": "SLASHDOT",
+      "title": "Startup Claims To Use AI-Created Viruses To Treat a Patient",
+      "url": "https://science.slashdot.org/story/26/10/21/2054216/startup-claims-to-use-ai-created-viruses-to-treat-a-patient?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The New York Times: For the first time, scientists say they have used viruses designed by artificial intelligence to treat a human patient. Researchers announced on Tuesday that they had administered the virus, known as a phage, to a patient suffering from a deadly bacterial infection. Phages attack bacteria, and the hope is that this one will kill the microbes causing the infection. Radical Numerics, the start-up that created the viruses, posted a techni",
+      "published": "2026-10-22T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "summary": "48 points · 27 comments",
+      "published": "2026-10-22T02:30:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "summary": "17 points · 10 comments",
+      "published": "2026-10-22T02:13:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "summary": "104 points · 57 comments",
+      "published": "2026-10-22T01:52:03+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Use the new PHP RCEs to mass-patch vulnerable servers?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xc3zrl/use_the_new_php_rces_to_masspatch_vulnerable/",
+      "summary": "My thoughts are with everyone dealing with the recent critical CVEs in PHP and Node.js. Heres a half-serious idea - What if the security community stood up something that scanned for vulnerable PHP servers and used the same remote code execution path (the php2shell style of exploits) to push patches instead of payloads? Attackers are almost certainly already using these bugs to grow botnets and crypto miners. In theory the same propagation method could be used to deliver fixes at scale. Responsi",
+      "published": "2026-10-22T00:21:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "summary": "327 points · 86 comments",
+      "published": "2026-10-21T23:51:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "summary": "271 points · 134 comments",
+      "published": "2026-10-21T23:13:27+00:00"
+    },
+    {
+      "source": "SLASHDOT",
       "title": "eBay to Cut 9% of Workforce",
       "url": "https://slashdot.org/story/26/10/21/2040246/ebay-to-cut-9-of-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "eBay plans to cut about 1,000 jobs, or 9% of its workforce, as CEO Jamie Iannone moves to redirect resources toward the company's fastest-growing businesses. Reuters reports: The company had 12,300 employees at the end of last year. It also let go about 6% of its workforce, or 800 employees, in February as part of efforts to streamline operations. EBay has set itself apart from rivals by pushing into authenticated luxury goods, collectibles and refurbished products, which draw enthusiasts willin",
       "published": "2026-10-21T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Postgres recovery_prefetch can cause outages",
+      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+      "summary": "11 points · 0 comments",
+      "published": "2026-10-21T22:33:08+00:00"
     },
     {
       "source": "OSINT",
@@ -49,9 +105,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Railway Security Disclosure",
+      "title": "Security Disclosure",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "229 points · 103 comments",
+      "summary": "367 points · 211 comments",
       "published": "2026-10-21T21:58:03+00:00"
     },
     {
@@ -67,13 +123,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbzne3/cve2026110264_gitlab_unauthenticated_rce_cvss_10/",
       "summary": "submitted by /u/radcorp [link] [comments]",
       "published": "2026-10-21T21:13:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-      "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-      "summary": "94 points · 22 comments",
-      "published": "2026-10-21T21:12:59+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -105,23 +154,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "summary": "288 points · 242 comments",
-      "published": "2026-10-21T19:14:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google's Rust Style Guide",
+      "title": "Rust Style Guide",
       "url": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "161 points · 104 comments",
+      "summary": "244 points · 132 comments",
       "published": "2026-10-21T19:11:57+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "GitLab Critical Patch Release",
+      "title": "GitLab critical patch release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "218 points · 51 comments",
+      "summary": "274 points · 67 comments",
       "published": "2026-10-21T19:01:12+00:00"
     },
     {
@@ -170,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "313 points · 190 comments",
+      "summary": "436 points · 279 comments",
       "published": "2026-10-21T17:45:13+00:00"
     },
     {
@@ -188,6 +230,13 @@
       "published": "2026-10-21T17:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara",
+      "summary": "43 points · 12 comments",
+      "published": "2026-10-21T16:44:53+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
       "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
@@ -202,32 +251,11 @@
       "published": "2026-10-21T16:26:53+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "AI-assisted php2shell exploit chain hits PHP runtime, forces coordinated defense across 70% of web",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbr6kd/aiassisted_php2shell_exploit_chain_hits_php/",
-      "summary": "submitted by /u/VectorWireAI [link] [comments]",
-      "published": "2026-10-21T16:02:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-      "summary": "640 points · 317 comments",
-      "published": "2026-10-21T15:48:56+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
       "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
       "published": "2026-10-21T15:26:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
-      "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
-      "summary": "164 points · 79 comments",
-      "published": "2026-10-21T15:20:04+00:00"
     },
     {
       "source": "REDDIT",
@@ -273,23 +301,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
-      "summary": "224 points · 146 comments",
-      "published": "2026-10-21T14:03:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-      "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-      "summary": "353 points · 43 comments",
-      "published": "2026-10-21T14:01:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "413 points · 129 comments",
+      "summary": "460 points · 156 comments",
       "published": "2026-10-21T14:00:26+00:00"
     },
     {
@@ -326,13 +340,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbmrsn/php_stuff_whats_a_regular_guy_to_do/",
       "summary": "Title says it all. I'm not a web developer, I've never coded anything in my life, yadda yadda. I use the internet for personal (including entertainment) and academic stuff. Aside from the obvious (not clicking on weird links and keeping stuff updated), is there anything I can do? Or rather, how does this all affect me, if at all? I'm seeing a lot of people panicking on social media saying we shouldn't use computers or even the internet altogether. That all sounds like fear-mongering to me, so I ",
       "published": "2026-10-21T13:11:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud/",
-      "summary": "218 points · 94 comments",
-      "published": "2026-10-21T12:53:11+00:00"
     },
     {
       "source": "OSINT",
@@ -391,13 +398,6 @@
       "published": "2026-10-21T10:14:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-      "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
-      "summary": "821 points · 393 comments",
-      "published": "2026-10-21T09:08:08+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
       "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
@@ -426,11 +426,11 @@
       "published": "2026-10-21T07:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Judge Orders Meta To Name Employees Who Approved Torrenting Anna's Archive, Libgen",
-      "url": "https://yro.slashdot.org/story/26/10/20/2055251/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-libgen?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TorrentFreak: Last month, Magistrate Judge Thomas Hixson ordered Meta to hand over the command histories of the servers it used to torrent pirated books. These logs would presumably reveal how Meta's torrent clients were set up, including any changes to their upload settings. [...] The server logs could reveal what happened on Meta's machines. However, publisher Entrepreneur Media also wants to know who approved the torrenting activity. Entrepreneur Media",
-      "published": "2026-10-21T03:30:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Using LLM for confidence scoring is a bad idea",
+      "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
+      "summary": "28 points · 17 comments",
+      "published": "2026-10-21T04:27:51+00:00"
     },
     {
       "source": "OSINT",
@@ -447,6 +447,13 @@
       "published": "2026-10-21T00:46:42+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "PingCap TiDB Leaks",
+      "url": "https://fulcrumsec.vg/pingcap/",
+      "summary": "260 points · 36 comments",
+      "published": "2026-10-20T22:45:39+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xb5m8v/the_internet_goes_on_high_alert_after_discovery/",
@@ -455,30 +462,30 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Beyond the &",
+      "url": "https://lwn.net/Articles/1096028/",
+      "summary": "27 points · 0 comments",
+      "published": "2026-10-20T13:59:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "138 points · 25 comments",
+      "summary": "167 points · 30 comments",
       "published": "2026-10-20T06:20:54+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "No More Icons in Every Menu by Default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "summary": "122 points · 90 comments",
-      "published": "2026-10-20T04:27:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
-      "summary": "117 points · 83 comments",
-      "published": "2026-10-20T00:14:03+00:00"
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "summary": "52 points · 24 comments",
+      "published": "2026-10-19T16:06:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Code is clay now",
       "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "summary": "62 points · 30 comments",
+      "summary": "123 points · 61 comments",
       "published": "2026-10-19T15:19:45+00:00"
     },
     {
