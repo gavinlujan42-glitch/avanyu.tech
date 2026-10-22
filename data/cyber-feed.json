@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-22T14:37:08.020026+00:00",
-  "item_count": 74,
+  "updated": "2026-10-22T18:45:48.533930+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,9 +28,170 @@
   "items": [
     {
       "source": "HACKER NEWS",
+      "title": "Award-Winning AI Literature",
+      "url": "https://jamesyu.org/award-winning-ai-literature/",
+      "summary": "3 points · 0 comments",
+      "published": "2026-10-22T18:28:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+      "url": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+      "summary": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate CA certificates. eMudhra said it will replace affected customers' certificates with free ones from partners, though its",
+      "published": "2026-10-22T18:12:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
+      "summary": "12 points · 7 comments",
+      "published": "2026-10-22T18:02:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window",
+      "url": "https://github.com/rbartoli/agent-usage-guard",
+      "summary": "7 points · 5 comments",
+      "published": "2026-10-22T18:02:38+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Zoe Kleinman: PHP Is the Cyber Equivalent of an Unexploded Bomb",
+      "url": "https://tech.slashdot.org/story/26/10/22/1717246/zoe-kleinman-php-is-the-cyber-equivalent-of-an-unexploded-bomb?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BBC technology editor Zoe Kleinman likens the recently discovered PHP security vulnerabilities to an unexploded bomb, writing, \"The PHP story feels like the cyber equivalent of an unexploded bomb -- I have never seen such a dramatic, public and global response to a cyber event that hasn't happened yet.\" Although no successful attacks have been confirmed, the AI-assisted discovery of long-hidden flaws has triggered a worldwide security scramble, with websites taken offline as a precaution and adm",
+      "published": "2026-10-22T18:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+      "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+      "summary": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to deal with in just a few days. And the week isn't even over yet. But those big headlines are only half the story. Stolen passwords, exposed",
+      "published": "2026-10-22T17:45:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nvidia OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "51 points · 19 comments",
+      "published": "2026-10-22T17:44:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+      "published": "2026-10-22T17:18:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+      "url": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+      "summary": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel. One of them, ZDI-CAN-33774, can be triggered before any network authentication. The other, ZDI-CAN-33549, requires the SMB Direct transport and an RDMA-capable network",
+      "published": "2026-10-22T17:01:53+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Takes On Muse With Claude Duet",
+      "url": "https://slashdot.org/story/26/10/22/1629209/anthropic-takes-on-muse-with-claude-duet?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Anthropic has launched Claude Duet, an AI agent aimed at professionals and small businesses that competes with Meta's Muse and OpenAI's Dots. Here's Anthropic's description of what it can do: Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs your attention. You can also hand it tasks of all shapes -- from simple administrative tasks of scheduling meetings to m",
+      "published": "2026-10-22T17:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Markdown Is the New Executable: Attackers Are Dropping Agent Instructions Into Your Downloads Folder From the Web",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcndxy/markdown_is_the_new_executable_attackers_are/",
+      "summary": "submitted by /u/Content-Winter5328 [link] [comments]",
+      "published": "2026-10-22T16:30:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A farewell to Arc browser",
+      "url": "https://arc.net/",
+      "summary": "121 points · 89 comments",
+      "published": "2026-10-22T16:27:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+      "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
+      "summary": "8 points · 3 comments",
+      "published": "2026-10-22T16:16:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
+      "url": "https://it.slashdot.org/story/26/10/22/1612227/several-linux-kernel-vulnerabilities-accidentally-posted-to-public-kernel-mailing-list?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Trend Micro's Zero Day Initiative appears to have accidentally disclosed several unpatched Linux kernel vulnerabilities on the public LKML instead of the private security list, including two CVSS 9.0 flaws that could enable remote code execution through SMB Direct and KSMBD. \"This seemingly was a mistake with Linux's second-in-command Greg Kroah-Hartman responding to each report asking about their submission to the public mailing list,\" adds Phoronix. The newly-disclosed vulnerabilities include:",
+      "published": "2026-10-22T16:16:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "summary": "86 points · 29 comments",
+      "published": "2026-10-22T16:14:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
+      "published": "2026-10-22T16:12:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+      "published": "2026-10-22T15:49:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google cleared 300 hectares of Finnish forest",
+      "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
+      "summary": "222 points · 153 comments",
+      "published": "2026-10-22T15:32:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "summary": "150 points · 53 comments",
+      "published": "2026-10-22T15:26:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Staff Resign In Backlash Over Its AI Contracts With Military",
+      "url": "https://tech.slashdot.org/story/26/10/22/0043216/google-staff-resign-in-backlash-over-its-ai-contracts-with-military?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from the BBC: Google is facing a backlash from some staff members over the company's deployment of its AI technology for military use. The BBC has spoken to several tech workers who have either recently resigned from Google's AI company, Google DeepMind, or are in the process of leaving, over concerns with the tech firm's military contracts. Sofia Liguori, a London-based research engineer, is one of them. She resigned from Google DeepMind this week and spoke a",
+      "published": "2026-10-22T15:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Someone Knew About PHP's Critical Flaws Four Days Before the Public Did and Amazon Can't Explain How",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xckw05/someone_knew_about_phps_critical_flaws_four_days/",
+      "summary": "Who is this someone... and how the hell did they know lol submitted by /u/Popular_Dimension939 [link] [comments]",
+      "published": "2026-10-22T14:58:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "summary": "494 points · 172 comments",
+      "published": "2026-10-22T14:32:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "MPs moving to restrict gambling ads in Canada",
+      "url": "https://www.cbc.ca/news/investigates/gambling-ads-restrictions-canada-9.7388888",
+      "summary": "137 points · 59 comments",
+      "published": "2026-10-22T14:26:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "What's Getting Pwned",
       "url": "https://pwn.watch/",
-      "summary": "16 points · 3 comments",
+      "summary": "230 points · 120 comments",
       "published": "2026-10-22T14:08:12+00:00"
     },
     {
@@ -49,31 +210,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "title": "eMudhra to exit global SSL/TLS certificate business",
       "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-      "summary": "139 points · 62 comments",
+      "summary": "675 points · 487 comments",
       "published": "2026-10-22T13:33:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Crystal 1.22.0 Is Released",
-      "url": "https://crystal-lang.org/2026/10/12/1.22.0-released/",
-      "summary": "36 points · 10 comments",
-      "published": "2026-10-22T13:20:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-      "summary": "153 points · 115 comments",
-      "published": "2026-10-22T13:11:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "SBD: We Have a Filesystem at Home",
-      "url": "https://fly.io/blog/sprites-block-device/",
-      "summary": "5 points · 3 comments",
-      "published": "2026-10-22T13:09:33+00:00"
     },
     {
       "source": "OSINT",
@@ -86,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "The Last Museum: Semantic search across 5.8M artworks from major museums",
       "url": "https://lastmuseum.com/",
-      "summary": "12 points · 3 comments",
+      "summary": "68 points · 24 comments",
       "published": "2026-10-22T12:40:04+00:00"
     },
     {
@@ -95,13 +235,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xcgxf7/several_critical_linux_kernel_vulnerabilities/",
       "summary": "submitted by /u/Itz_Raj69_ [link] [comments]",
       "published": "2026-10-22T12:14:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Amazon identifies Oct 17 PHP2Shell exploitation prior to public disclosure",
-      "url": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/",
-      "summary": "129 points · 24 comments",
-      "published": "2026-10-22T11:50:36+00:00"
     },
     {
       "source": "OSINT",
@@ -132,25 +265,11 @@
       "published": "2026-10-22T11:15:42+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
-      "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-      "summary": "149 points · 31 comments",
-      "published": "2026-10-22T11:12:37+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Airbnb Bans Making Guests Do Dishes, Take Out the Trash",
       "url": "https://slashdot.org/story/26/10/22/0026211/airbnb-bans-making-guests-do-dishes-take-out-the-trash?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Airbnb is banning hosts from requiring guests to perform time-consuming checkout chores, including washing dishes, stripping beds, doing laundry, and taking trash off-site. The updated policy applies to reservations booked on or after November 20. The Verge reports: Airbnb is displaying hosts' requests more prominently now in a new \"rules and requests\" section on listings. You might see an \"includes cleaning requests\" warning if a host leaves chore requests in their listing after the new policy ",
       "published": "2026-10-22T11:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Post-quantum migration sounds simple until you have to find every place you're using RSA",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcfdnv/postquantum_migration_sounds_simple_until_you/",
-      "summary": "There's a lot of talk about when quantum computers will actually be able to break RSA. For companies running older financial systems, we're not sure that's even the first problem to solve. RSA and ECC can be buried in application code, HSMs, payment terminals, vendor software and integrations nobody's touched in years. And finding them is only half the problem. Some older protocols have fixed-size fields. Post-quantum signatures and keys can be considerably larger. Then there's the vendor whose ",
-      "published": "2026-10-22T10:56:29+00:00"
     },
     {
       "source": "OSINT",
@@ -184,7 +303,7 @@
       "source": "HACKER NEWS",
       "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
       "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
-      "summary": "126 points · 21 comments",
+      "summary": "170 points · 34 comments",
       "published": "2026-10-22T09:31:18+00:00"
     },
     {
@@ -205,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Jailbreaking the Switch 2",
       "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "summary": "341 points · 123 comments",
+      "summary": "560 points · 202 comments",
       "published": "2026-10-22T08:01:52+00:00"
     },
     {
@@ -233,15 +352,8 @@
       "source": "OSINT",
       "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
       "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit attempt originated from an IP address associated with a commercial anonymization network,\" CJ Moses,",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities dating back to October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit attempt originated from an IP address associated with a commercial anonymization network,",
       "published": "2026-10-22T06:34:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
-      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
-      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed",
-      "published": "2026-10-22T04:21:26+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -249,27 +361,6 @@
       "url": "https://science.slashdot.org/story/26/10/21/2054216/startup-claims-to-use-ai-created-viruses-to-treat-a-patient?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from The New York Times: For the first time, scientists say they have used viruses designed by artificial intelligence to treat a human patient. Researchers announced on Tuesday that they had administered the virus, known as a phage, to a patient suffering from a deadly bacterial infection. Phages attack bacteria, and the hope is that this one will kill the microbes causing the infection. Radical Numerics, the start-up that created the viruses, posted a techni",
       "published": "2026-10-22T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "259 points · 210 comments",
-      "published": "2026-10-22T02:30:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "summary": "368 points · 115 comments",
-      "published": "2026-10-22T02:18:41+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Use the new PHP RCEs to mass-patch vulnerable servers?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xc3zrl/use_the_new_php_rces_to_masspatch_vulnerable/",
-      "summary": "My thoughts are with everyone dealing with the recent critical CVEs in PHP and Node.js. Heres a half-serious idea - What if the security community stood up something that scanned for vulnerable PHP servers and used the same remote code execution path (the php2shell style of exploits) to push patches instead of payloads? Attackers are almost certainly already using these bugs to grow botnets and crypto miners. In theory the same propagation method could be used to deliver fixes at scale. Responsi",
-      "published": "2026-10-22T00:21:23+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -291,13 +382,6 @@
       "url": "https://linux.slashdot.org/story/26/10/21/2030239/amd-brings-ryzen-overclocking-driver-to-linux?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "AMD has published Linux kernel patches for an official Ryzen overclocking driver that allows users to adjust CPU power and current limits through a firmware interface exposed via sysfs. Phoronix reports: AMD engineer Shyam Sundar S K posted the patches for the AMD Overclocking \"AOD\" WMI driver as an interface to the platform firmware for managing overclocking and power/current limits of modern Ryzen CPUs. The driver in its initial form allows setting via sysfs a number of CPU tunables including ",
       "published": "2026-10-21T22:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "534 points · 310 comments",
-      "published": "2026-10-21T21:58:03+00:00"
     },
     {
       "source": "OSINT",
@@ -335,13 +419,6 @@
       "published": "2026-10-21T20:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Claude Duet",
-      "url": "https://claude.com/product/claude-duet",
-      "summary": "473 points · 439 comments",
-      "published": "2026-10-21T19:14:01+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy On Facebook",
       "url": "https://yro.slashdot.org/story/26/10/21/188251/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -356,46 +433,11 @@
       "published": "2026-10-21T18:34:42+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "EA Is Shutting Down BioWare",
-      "url": "https://games.slashdot.org/story/26/10/21/1738206/ea-is-shutting-down-bioware?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"According to a recent report by Bloomberg's Jason Schreier (paywalled), EA has reportedly decided to shut down BioWare,\" the studio behind the Dragon Age and Mass Effect games, writes longtime Slashdot reader atari_kid. Quartz reports: Chief Studios Officer Cam Weber and Chief Operating Officer David Tinson wrote that \"over the past several months, we've taken a hard look at our business.\" They said a small BioWare team had been doing early groundwork on a Mass Effect game, but EA chose to drop",
-      "published": "2026-10-21T18:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-      "url": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-      "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through PyPI wheels and Docker images. The Python package has since been quarantined on Python Package Index (PyPI), and the",
-      "published": "2026-10-21T18:01:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenAI Models Are Now On All Three Major US Cloud Platforms",
-      "url": "https://tech.slashdot.org/story/26/10/21/1637221/openai-models-are-now-on-all-three-major-us-cloud-platforms?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "OpenAI is bringing its models to Google Cloud's model garden and Antigravity coding tool, putting its technology on all three major U.S. cloud platforms after Microsoft's exclusive license ended earlier this year. \"Google Cloud's longstanding investment in machine learning and AI has made it a destination for AI workloads and the developers and data scientists building them,\" OpenAI said in a blog post. It continues: [...] The integration will pair OpenAI's frontier models with Google Cloud's bu",
-      "published": "2026-10-21T18:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Today's PHP Security Release, and How We're Strengthening PHP Security — The PHP Foundation",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbsyc2/todays_php_security_release_and_how_were/",
       "summary": "On October 21st at 07:41 UTC, more than six hours before the coordinated release, Chainguard unilaterally broke the embargo and published built images containing the fix. Like other distributors, Chainguard had received the patch in advance so its users could update the moment the vulnerabilities were disclosed. Any attacker could now study the fix in binary form while every other PHP user was still waiting for the release. This disregarded weeks of work by many parties toward a coordinated disc",
       "published": "2026-10-21T17:06:48+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Government Websites Go Dark After Severe PHP Vulnerabilities Disclosed",
-      "url": "https://developers.slashdot.org/story/26/10/21/1644235/government-websites-go-dark-after-severe-php-vulnerabilities-disclosed?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"PHP disclosed two critical vulnerabilities in their programming language and urged web site operators to immediately apply the fix,\" writes longtime Slashdot reader smooth wombat. \"As a result, government web sites in Europe and elsewhere temporarily went dark on Wednesday as operators worked to protect their systems.\" The Independent reports: Dane Knecht, the chief technology officer of Web and cloud security firm Cloudflare, said that attacks were emerging and Cloudflare was updating its fire",
-      "published": "2026-10-21T17:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-      "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an evaluation",
-      "published": "2026-10-21T16:33:47+00:00"
     },
     {
       "source": "OSINT",
@@ -412,13 +454,6 @@
       "published": "2026-10-21T15:26:07+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "PHP Warns It Plans To Release 2 Emergency Patches Imminently",
-      "url": "https://tech.slashdot.org/story/26/10/21/054204/php-warns-it-plans-to-release-2-emergency-patches-imminently?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10. \"All PHP users are encouraged to prepare now so they can u",
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "I built a full-chain Chrome exploit in 6 days using only gpt-5.6-sol…Ask Me Anything!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbo6o3/i_built_a_fullchain_chrome_exploit_in_6_days/",
@@ -433,32 +468,11 @@
       "published": "2026-10-21T14:07:05+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-      "url": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-      "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly effective lures. [...]",
-      "published": "2026-10-21T14:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-      "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-      "published": "2026-10-21T12:20:34+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "The painter behind Manhattan’s Gilded Age interiors",
-      "url": "https://engelsbergideas.com/notebook/the-unknown-painter-behind-manhattans-gilded-age-interiors/",
-      "summary": "20 points · 0 comments",
-      "published": "2026-10-20T23:09:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-      "url": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-      "summary": "60 points · 23 comments",
-      "published": "2026-10-19T20:12:49+00:00"
+      "title": "Dungeon Generation in the Gnomish Mines of NetHack",
+      "url": "https://www.boristhebrave.com/2026/10/18/dungeon-generation-in-the-gnomish-mines-of-nethack/",
+      "summary": "63 points · 9 comments",
+      "published": "2026-10-19T16:06:40+00:00"
     },
     {
       "source": "OSINT",
@@ -471,7 +485,7 @@
       "source": "HACKER NEWS",
       "title": "What Is Gridifcation",
       "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "summary": "144 points · 45 comments",
+      "summary": "290 points · 136 comments",
       "published": "2026-10-19T09:13:12+00:00"
     },
     {
@@ -480,13 +494,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1x9i7sx/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-10-19T00:00:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "VMMouse for NT 3.x: QEMU/VMware mouse integration driver",
-      "url": "https://github.com/rhargreaves/vmmouse-nt3",
-      "summary": "6 points · 0 comments",
-      "published": "2026-10-18T19:50:11+00:00"
     },
     {
       "source": "OSINT",
