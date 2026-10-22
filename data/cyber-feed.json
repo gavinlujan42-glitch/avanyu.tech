@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T04:19:15.345470+00:00",
+  "updated": "2026-10-22T09:33:57.725867+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,76 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "summary": "38 points · 10 comments",
+      "published": "2026-10-22T08:51:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
+      "published": "2026-10-22T08:28:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+      "published": "2026-10-22T08:27:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
+      "published": "2026-10-22T07:47:22+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "America's War Department Will Test Heat Ray Weapon For Potential Use",
+      "url": "https://tech.slashdot.org/story/26/10/22/0020206/americas-war-department-will-test-heat-ray-weapon-for-potential-use?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader destinyland shares a report from CNN: The Pentagon has given the Department of Homeland Security permission to test a military-grade heat ray and develop tactics to potentially use it in operations at the southern US border, according to a memo signed by Defense Secretary Pete Hegseth last month and obtained by CNN. The heat ray, officially known as the Active Denial System, is a nonlethal weapon that shoots an invisible beam of electromagnetic waves that can reach a lit",
+      "published": "2026-10-22T07:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "PHP2Shell: you patched, but were you hit? A read-only triage script for your server 🚨",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcbgep/php2shell_you_patched_but_were_you_hit_a_readonly/",
+      "summary": "submitted by /u/Nodohx [link] [comments]",
+      "published": "2026-10-22T06:53:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server",
+      "published": "2026-10-22T06:38:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+      "url": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+      "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the patches. \"The exploit attempt originated from an IP address associated with a commercial anonymization network,\" CJ Moses,",
+      "published": "2026-10-22T06:34:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI CLI",
+      "url": "https://github.com/openai/openai-cli",
+      "summary": "113 points · 67 comments",
+      "published": "2026-10-22T05:23:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+      "url": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+      "summary": "Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was made closed-source in the wake of its abuse in cyber attacks targeting South Korean financial institutions, to speed",
+      "published": "2026-10-22T04:21:26+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Startup Claims To Use AI-Created Viruses To Treat a Patient",
       "url": "https://science.slashdot.org/story/26/10/21/2054216/startup-claims-to-use-ai-created-viruses-to-treat-a-patient?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -37,22 +107,15 @@
       "source": "HACKER NEWS",
       "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
       "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-      "summary": "48 points · 27 comments",
+      "summary": "200 points · 133 comments",
       "published": "2026-10-22T02:30:52+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "LLM Agents Play Pokemon Showdown",
-      "url": "https://olivergrabner.com/research/pokemon/",
-      "summary": "17 points · 10 comments",
-      "published": "2026-10-22T02:13:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "summary": "104 points · 57 comments",
-      "published": "2026-10-22T01:52:03+00:00"
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "summary": "192 points · 59 comments",
+      "published": "2026-10-22T02:18:41+00:00"
     },
     {
       "source": "REDDIT",
@@ -65,15 +128,8 @@
       "source": "HACKER NEWS",
       "title": "mitmproxy adds --emudhra option",
       "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "summary": "327 points · 86 comments",
+      "summary": "464 points · 114 comments",
       "published": "2026-10-21T23:51:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "summary": "271 points · 134 comments",
-      "published": "2026-10-21T23:13:27+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -81,13 +137,6 @@
       "url": "https://slashdot.org/story/26/10/21/2040246/ebay-to-cut-9-of-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "eBay plans to cut about 1,000 jobs, or 9% of its workforce, as CEO Jamie Iannone moves to redirect resources toward the company's fastest-growing businesses. Reuters reports: The company had 12,300 employees at the end of last year. It also let go about 6% of its workforce, or 800 employees, in February as part of efforts to streamline operations. EBay has set itself apart from rivals by pushing into authenticated luxury goods, collectibles and refurbished products, which draw enthusiasts willin",
       "published": "2026-10-21T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Postgres recovery_prefetch can cause outages",
-      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-      "summary": "11 points · 0 comments",
-      "published": "2026-10-21T22:33:08+00:00"
     },
     {
       "source": "OSINT",
@@ -107,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Security Disclosure",
       "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "summary": "367 points · 211 comments",
+      "summary": "458 points · 264 comments",
       "published": "2026-10-21T21:58:03+00:00"
     },
     {
@@ -154,16 +203,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Claude Duet",
+      "url": "https://claude.com/product/claude-duet",
+      "summary": "371 points · 339 comments",
+      "published": "2026-10-21T19:14:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Rust Style Guide",
       "url": "https://google.github.io/styleguide/rustguide.html",
-      "summary": "244 points · 132 comments",
+      "summary": "299 points · 181 comments",
       "published": "2026-10-21T19:11:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "GitLab critical patch release",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "summary": "274 points · 67 comments",
+      "summary": "345 points · 82 comments",
       "published": "2026-10-21T19:01:12+00:00"
     },
     {
@@ -212,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
       "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-      "summary": "436 points · 279 comments",
+      "summary": "548 points · 326 comments",
       "published": "2026-10-21T17:45:13+00:00"
     },
     {
@@ -230,17 +286,10 @@
       "published": "2026-10-21T17:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-      "url": "https://github.com/omnara-ai/omnara",
-      "summary": "43 points · 12 comments",
-      "published": "2026-10-21T16:44:53+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
       "url": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an",
+      "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6, 2026, for Sol and Astra, respectively, as part of an internal deployment. \"A GPT-6.1 Sol agent repairing an evaluation",
       "published": "2026-10-21T16:33:47+00:00"
     },
     {
@@ -256,13 +305,6 @@
       "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
       "published": "2026-10-21T15:26:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What made you guys like or even love cybersecurity?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbq0ha/what_made_you_guys_like_or_even_love_cybersecurity/",
-      "summary": "submitted by /u/WordTimely8559 [link] [comments]",
-      "published": "2026-10-21T15:19:08+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -303,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
       "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "summary": "460 points · 156 comments",
+      "summary": "511 points · 169 comments",
       "published": "2026-10-21T14:00:26+00:00"
     },
     {
@@ -371,45 +413,10 @@
     },
     {
       "source": "OSINT",
-      "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-      "url": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-      "summary": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says. PHP will release the fix at 14:00 UTC on October 21 for two flaws it rates 9.2 out of 10, and has given no workaround of its own. Until you can install it, what lowers your",
-      "published": "2026-10-21T10:36:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "The Harness Is the Hard Part of Agentic Pentesting",
-      "url": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-      "summary": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward lives in the harness around the model. The harness is where the engineering in AI pentesting sits. The Hugging Face intrusion OpenAI disclosed in July",
-      "published": "2026-10-21T10:32:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-      "url": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-      "summary": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found. Exit relays are the last hop in a Tor circuit, where traffic leaves the network for its destination. Only a password login to an SSH server made through Tor between October 1 and 5, after accepting the interception",
-      "published": "2026-10-21T10:30:27+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Microsoft says October updates didn’t actually fix VPN issues",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
       "summary": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
       "published": "2026-10-21T10:14:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-      "url": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-      "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described. ⚡",
-      "published": "2026-10-21T09:05:17+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-      "url": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-      "summary": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites. TeamUpdraft is the developer behind UpdraftPlus, a popular WordPress backup plugin with over four million active installations. The vendor also offers UpdraftCentral, a remote",
-      "published": "2026-10-21T09:01:12+00:00"
     },
     {
       "source": "OSINT",
@@ -419,17 +426,10 @@
       "published": "2026-10-21T08:36:24+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Russian Satellite's Close Shadowing of Radar Imaging Satellite Is a Big Deal",
-      "url": "https://science.slashdot.org/story/26/10/21/0449230/russian-satellites-close-shadowing-of-radar-imaging-satellite-is-a-big-deal?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader schwit1 shares a report from TWZ: A Russian satellite, Kosmos 2612, may have passed within approximately 85 feet (26 meters) of a U.S.-registered satellite belonging to commercial imagery provider ICEYE. This would be an extraordinarily close and potentially dangerous pass-by for two objects in space traveling at thousands of miles per hour. For weeks beforehand, ICEYE-X36, which would be of special interest to Russia, had already found itself in increasingly close orbit",
-      "published": "2026-10-21T07:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Using LLM for confidence scoring is a bad idea",
       "url": "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
-      "summary": "28 points · 17 comments",
+      "summary": "86 points · 47 comments",
       "published": "2026-10-21T04:27:51+00:00"
     },
     {
@@ -440,17 +440,10 @@
       "published": "2026-10-21T01:01:50+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-      "url": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-      "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...]",
-      "published": "2026-10-21T00:46:42+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "PingCap TiDB Leaks",
       "url": "https://fulcrumsec.vg/pingcap/",
-      "summary": "260 points · 36 comments",
+      "summary": "343 points · 52 comments",
       "published": "2026-10-20T22:45:39+00:00"
     },
     {
@@ -464,29 +457,36 @@
       "source": "HACKER NEWS",
       "title": "Beyond the &",
       "url": "https://lwn.net/Articles/1096028/",
-      "summary": "27 points · 0 comments",
+      "summary": "63 points · 3 comments",
       "published": "2026-10-20T13:59:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
       "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
-      "summary": "167 points · 30 comments",
+      "summary": "213 points · 47 comments",
       "published": "2026-10-20T06:20:54+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "summary": "52 points · 24 comments",
-      "published": "2026-10-19T16:06:22+00:00"
+      "title": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "summary": "308 points · 191 comments",
+      "published": "2026-10-20T04:27:08+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Code is clay now",
-      "url": "https://www.albertodenia.com/writing/code-is-clay-now",
-      "summary": "123 points · 61 comments",
-      "published": "2026-10-19T15:19:45+00:00"
+      "title": "What Is the Karakoram Anomaly?",
+      "url": "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+      "summary": "28 points · 7 comments",
+      "published": "2026-10-20T01:26:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Robot I Didn't Expect to Build",
+      "url": "https://spectrum.ieee.org/agility-robotics-digit-5-redesign",
+      "summary": "4 points · 0 comments",
+      "published": "2026-10-19T17:57:18+00:00"
     },
     {
       "source": "OSINT",
