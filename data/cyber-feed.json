@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:24:02.236549+00:00",
+  "updated": "2026-10-23T15:50:44.949674+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,118 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
+      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
+      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
+      "published": "2026-10-23T15:38:05+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are 'Irrational'",
+      "url": "https://tech.slashdot.org/story/26/10/23/0143254/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: Comcast reportedly plans significant job cuts in its cable division as the firm continues to lose residential broadband and TV customers. Comcast lost 144,000 residential broadband customers in Q3 2026, up from a 91,000-customer loss in the same quarter a year ago, the company said in its earnings report today. Comcast historically capitalized on a lack of competition for high-speed wired broadband. But now it faces stronger competition from",
+      "published": "2026-10-23T15:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "eMudhra ignored Mozilla Root investigation deadline; blames social media",
+      "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=2083449",
+      "summary": "39 points · 6 comments",
+      "published": "2026-10-23T14:52:08+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Optics Problem",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdfj4d/optics_problem/",
+      "summary": "I'm the primary/only cybersecurity person at my org and despite my concerted efforts to be transparent about my work, educational about the field, and enthusiastic with my engagement, I still have an optics issue where if I pop by someone's desk, it means something bad has happened. It sucks to have the reputation of being the harbinger of bad news - I want people to have a positive view of my involvement. That said, I don't know how I can be anything else since the blue team's job is to keep ba",
+      "published": "2026-10-23T14:25:54+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you verify another company during an active security incident?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdfdq3/how_do_you_verify_another_company_during_an/",
+      "summary": "Something I don’t see discussed much is how organizations establish trust with each other after an incident has already started, imagine one of your critical vendors gets compromised. Someone claiming to be their security team contacts you and says credentials need to be rotated immediately, certain integrations should be disabled and all further communication needs to move to a new address because their normal email environment may be affected. Every one of those requests could be completely le",
+      "published": "2026-10-23T14:19:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
+      "published": "2026-10-23T14:00:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
+      "published": "2026-10-23T13:50:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+      "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+      "summary": "375 points · 273 comments",
+      "published": "2026-10-23T13:41:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
+      "published": "2026-10-23T12:48:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenSSL 4.1.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "summary": "130 points · 32 comments",
+      "published": "2026-10-23T12:42:44+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "eMudhra (a business run by 1 family), passed two audits by BDO after an integrity incident. Is the internet chain of trust broken?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdcl4v/emudhra_a_business_run_by_1_family_passed_two/",
+      "summary": "The more I look into the eMudhra incident, the more concerned I am about the auditors and the governance behind this company. We’ve spent plenty of time talking about the fact that one of their intermediate CA private keys was literally the number 4, which is fucking dumb. But I think there’s a much bigger issue here. How did this survive two independent WebTrust audit cycles, including one where the auditors were already aware of an incident involving the exact same intermediate CAs ? For anyon",
+      "published": "2026-10-23T12:25:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited",
+      "url": "https://www.thisandthat.chat/enron/",
+      "summary": "14 points · 5 comments",
+      "published": "2026-10-23T12:02:53+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What does AI mean for the future of CyberSecurity? (PHP vulnerability)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdbr0s/what_does_ai_mean_for_the_future_of_cybersecurity/",
+      "summary": "I was reading about the recent PHP vulnerability being exploited with AI, and it honestly got me thinking about where we’re heading.. If AI keeps advancing at this rate, will cybersecurity become automated by AI? - Both on the offensive and defensive sides. Its increased use of finding and exploiting vulnerabilities, as well as strengthening security makes me question the future of this industry. submitted by /u/normus10 [link] [comments]",
+      "published": "2026-10-23T11:45:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+      "summary": "291 points · 100 comments",
+      "published": "2026-10-23T11:39:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
+      "published": "2026-10-23T11:25:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
+      "published": "2026-10-23T11:11:23+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Physicists Trap a Single Antimatter Particle For a Month",
       "url": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -35,16 +147,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Dutch government had hacked into Jared Kushner's phone",
-      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
-      "summary": "24 points · 6 comments",
-      "published": "2026-10-23T10:41:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Job Loss and Cortisone Mania",
       "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
-      "summary": "4 points · 0 comments",
+      "summary": "82 points · 19 comments",
       "published": "2026-10-23T10:31:24+00:00"
     },
     {
@@ -53,13 +158,6 @@
       "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
       "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
       "published": "2026-10-23T09:36:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Rise and Fall of Jev",
-      "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
-      "summary": "31 points · 25 comments",
-      "published": "2026-10-23T09:21:00+00:00"
     },
     {
       "source": "OSINT",
@@ -74,6 +172,20 @@
       "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
       "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
       "published": "2026-10-23T08:35:45+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
+      "summary": "268 points · 247 comments",
+      "published": "2026-10-23T08:21:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Remove pgrust: the entry is cheating",
+      "url": "https://github.com/ClickHouse/ClickBench/pull/2165",
+      "summary": "143 points · 77 comments",
+      "published": "2026-10-23T08:05:33+00:00"
     },
     {
       "source": "OSINT",
@@ -105,37 +217,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "This I Believe (1952)",
-      "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-      "summary": "98 points · 36 comments",
-      "published": "2026-10-23T02:19:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The foolishness of \"natural language programming\" (1978)",
       "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "summary": "203 points · 116 comments",
+      "summary": "290 points · 194 comments",
       "published": "2026-10-23T00:52:01+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Is it necessary to start out in help desk before going into cybersecurity?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcz6xy/is_it_necessary_to_start_out_in_help_desk_before/",
-      "summary": "I am a 19 year old community college student majoring in computer science. I have already started the CompTIA trifecta certifications because I eventually want to go into AI security as an engineer or architect but I heard that before going into security you have to have experience in help desk for 3-5 years. How true is this? If I get an internship in a security role while still in school, then do I still need the help desk experience? Any advice is appreciated. submitted by /u/Visible_Audience",
-      "published": "2026-10-23T00:14:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Making a smart TV dumb and then smart",
-      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
-      "summary": "30 points · 4 comments",
-      "published": "2026-10-23T00:10:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Docker is weird",
       "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "540 points · 234 comments",
+      "summary": "702 points · 284 comments",
       "published": "2026-10-22T23:45:56+00:00"
     },
     {
@@ -163,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "summary": "490 points · 117 comments",
+      "summary": "842 points · 165 comments",
       "published": "2026-10-22T23:01:18+00:00"
     },
     {
@@ -184,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "How does Fable 5.1 hide messages in images?",
       "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
-      "summary": "107 points · 34 comments",
+      "summary": "168 points · 50 comments",
       "published": "2026-10-22T21:41:13+00:00"
     },
     {
@@ -193,6 +284,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
       "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
       "published": "2026-10-22T21:25:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
+      "url": "https://news.ycombinator.com/item?id=50200997",
+      "summary": "348 points · 379 comments",
+      "published": "2026-10-22T21:03:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -214,13 +312,6 @@
       "url": "https://slashdot.org/story/26/10/22/200209/moderna-shares-plunge-after-leak-of-cancer-vaccine-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Moderna shares plunged as much as 25% after partial clinical trial data leaked for its personalized cancer vaccine developed with Merck, despite the full results showing promising outcomes for melanoma patients. Analysts attribute the selloff largely to inflated investor expectations rather than disappointing clinical results. CNBC reports: The personalized vaccine, known as intismeran autogene, paired with Merck's immunotherapy Keytruda reduced the risk of recurrence or death in certain melanom",
       "published": "2026-10-22T20:01:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The HTML-in-Canvas API origin trial",
-      "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
-      "summary": "60 points · 29 comments",
-      "published": "2026-10-22T19:54:04+00:00"
     },
     {
       "source": "OSINT",
@@ -265,13 +356,6 @@
       "published": "2026-10-22T18:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "PHP2Shell: the leaked PHP RCE everyone is staging and no one has landed (yet)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcplcm/php2shell_the_leaked_php_rce_everyone_is_staging/",
-      "summary": "The php2shell leak (CVE-2026-109618 / 109619, CVSS 9.2) had everyone scrambling. We mapped the exposure (hundreds of thousands of PHP hosts, mostly on end-of-life versions) and went looking at what attackers are doing with it. Short version: lots of staging and scanning, no confirmed compromise anywhere, and no public exploit that actually works on modern systems yet. If you run PHP, patch to 8.5.12 / 8.4.27 / 8.3.36 / 8.2.35 and watch for the attempt signatures. The full writeup has the numbers",
-      "published": "2026-10-22T17:50:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
       "url": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
@@ -282,7 +366,7 @@
       "source": "HACKER NEWS",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "summary": "412 points · 195 comments",
+      "summary": "460 points · 205 comments",
       "published": "2026-10-22T17:44:06+00:00"
     },
     {
@@ -315,23 +399,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Getting ready to operate GNU Taler in Germany",
-      "url": "https://www.taler.net/en/news/2026-13.html",
-      "summary": "307 points · 134 comments",
-      "published": "2026-10-22T16:14:31+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
-      "url": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
-      "summary": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018. According to multiple reports from the Associated Press, the New York Times, Reuters, and the Wall Street Journal, state District Court Judge Francis J. Mathew called",
-      "published": "2026-10-22T16:12:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "summary": "453 points · 455 comments",
+      "summary": "558 points · 541 comments",
       "published": "2026-10-22T16:08:00+00:00"
     },
     {
@@ -345,15 +415,8 @@
       "source": "HACKER NEWS",
       "title": "Run full iOS 16.5 firmware on Android Devices",
       "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "summary": "450 points · 167 comments",
+      "summary": "489 points · 179 comments",
       "published": "2026-10-22T15:26:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Staff Resign In Backlash Over Its AI Contracts With Military",
-      "url": "https://tech.slashdot.org/story/26/10/22/0043216/google-staff-resign-in-backlash-over-its-ai-contracts-with-military?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from the BBC: Google is facing a backlash from some staff members over the company's deployment of its AI technology for military use. The BBC has spoken to several tech workers who have either recently resigned from Google's AI company, Google DeepMind, or are in the process of leaving, over concerns with the tech firm's military contracts. Sofia Liguori, a London-based research engineer, is one of them. She resigned from Google DeepMind this week and spoke a",
-      "published": "2026-10-22T15:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -366,7 +429,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
       "url": "https://github.com/dsmurrell/onkey",
-      "summary": "71 points · 38 comments",
+      "summary": "129 points · 58 comments",
       "published": "2026-10-22T14:04:44+00:00"
     },
     {
@@ -377,17 +440,10 @@
       "published": "2026-10-22T14:02:12+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-      "url": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-      "summary": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds. In tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462 suspects. Codenamed Operation Serengeti III, the cybercrime crackdown took place between June 29 and August 31, 2026. \"Authorities identified",
-      "published": "2026-10-22T13:38:22+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "The alien space of science: Coherent but cognitively unavailable directions",
       "url": "https://arxiv.org/abs/2603.01092",
-      "summary": "85 points · 20 comments",
+      "summary": "148 points · 54 comments",
       "published": "2026-10-22T13:25:01+00:00"
     },
     {
@@ -398,13 +454,6 @@
       "published": "2026-10-22T13:09:12+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Several Critical Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcgxf7/several_critical_linux_kernel_vulnerabilities/",
-      "summary": "submitted by /u/Itz_Raj69_ [link] [comments]",
-      "published": "2026-10-22T12:14:42+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "GitLab warns of new max severity code execution vulnerability",
       "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
@@ -413,52 +462,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-      "url": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-      "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment variables, and, in some cases, obtained the decrypted contents. The impact, it said, is limited to a \"subset of users,",
-      "published": "2026-10-22T11:15:42+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcedw4/critical_gitlab_flaw_cvss_100_could_allow/",
-      "summary": "I know everyone's preoccupied with the PHP CVEs, but this is also BIG NEWS submitted by /u/One_Paint8721 [link] [comments]",
-      "published": "2026-10-22T09:59:47+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
       "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
       "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
       "published": "2026-10-22T08:27:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-      "summary": "553 points · 171 comments",
-      "published": "2026-10-22T02:18:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
-      "published": "2026-10-21T22:16:26+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
-      "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
-      "published": "2026-10-21T21:43:27+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-      "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-      "published": "2026-10-21T20:31:48+00:00"
     },
     {
       "source": "OSINT",
@@ -473,13 +480,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xbo6o3/i_built_a_fullchain_chrome_exploit_in_6_days/",
       "summary": "Hi Reddit! I’m Brendan Dolan-Gavitt , XBOW’s native team lead. In August, I used gpt-5.6-sol to see if I could build a full-chain exploit against Google Chrome. Six days later, we had a working chain. The exploit chained three vulnerabilities to achieve remote code execution and escape the Chrome sandbox, ultimately earning a $250,000 reward from Google’s Chrome Vulnerability Reward Program (the first of 2026)! I’m here to answer questions about how we did it: where AI agents helped (and where t",
       "published": "2026-10-21T14:09:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I reverse engineered a board game",
-      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
-      "summary": "48 points · 17 comments",
-      "published": "2026-10-21T13:40:31+00:00"
     },
     {
       "source": "OSINT",
