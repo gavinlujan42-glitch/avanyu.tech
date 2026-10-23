@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T05:53:00.950263+00:00",
+  "updated": "2026-10-23T11:24:02.236549+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,67 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "Physicists Trap a Single Antimatter Particle For a Month",
+      "url": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Physicists at Northwestern University have successfully trapped a single positron for an entire month, allowing researchers to study its quantum properties with unprecedented precision. \"Further investigations using the trap might reveal the secret of why the world around us is made of matter and not antimatter, when things could have presumably gone either way,\" reports Scientific American. From the report: Every normal particle of matter has an antimatter counterpart with equal mass but opposi",
+      "published": "2026-10-23T11:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Move Slow and Fix Things",
-      "url": "https://endler.dev/2024/move-slow-and-fix-things/",
-      "summary": "82 points · 1 comments",
-      "published": "2026-10-23T05:12:39+00:00"
+      "title": "Dutch government had hacked into Jared Kushner's phone",
+      "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+      "summary": "24 points · 6 comments",
+      "published": "2026-10-23T10:41:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Job Loss and Cortisone Mania",
+      "url": "https://tilschuenemann.de/job-loss-cortisone-mania",
+      "summary": "4 points · 0 comments",
+      "published": "2026-10-23T10:31:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+      "url": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+      "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens by passing the file's name to Ghostscript, a separate program it runs to turn the image into pixels, without checking the name first.",
+      "published": "2026-10-23T09:36:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Rise and Fall of Jev",
+      "url": "https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm",
+      "summary": "31 points · 25 comments",
+      "published": "2026-10-23T09:21:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
+      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
+      "published": "2026-10-23T08:40:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
+      "published": "2026-10-23T08:35:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
+      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
+      "published": "2026-10-23T07:40:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'",
+      "url": "https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "For the first time, the UN has declared that exceeding the Paris Agreement's 1.5C warming limit is \"imminent and unavoidable.\" \"We are now saying this window has closed, but we can open it again by making the overshoot as brief as possible,\" UN Environment Program Executive Director Inger Andersen said on a call with reporters. \"This is about how to find a way back as shortly and as quickly as possible with as limited an overshoot as possible.\" CNN reports: Past reports have examined the distanc",
+      "published": "2026-10-23T07:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -49,23 +105,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
-      "url": "https://news.ycombinator.com/item?id=50204125",
-      "summary": "34 points · 10 comments",
-      "published": "2026-10-23T03:20:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "This I Believe (1952)",
       "url": "https://www.awakin.org/v2/read/view.php?tid=468",
-      "summary": "29 points · 4 comments",
+      "summary": "98 points · 36 comments",
       "published": "2026-10-23T02:19:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The foolishness of \"natural language programming\" (1978)",
       "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-      "summary": "91 points · 61 comments",
+      "summary": "203 points · 116 comments",
       "published": "2026-10-23T00:52:01+00:00"
     },
     {
@@ -77,16 +126,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Jank – The native Clojure dialect with seamless C++ interop",
-      "url": "https://jank-lang.org/",
-      "summary": "59 points · 2 comments",
-      "published": "2026-10-22T23:56:36+00:00"
+      "title": "Show HN: Making a smart TV dumb and then smart",
+      "url": "https://github.com/anubhavmalhotra/r2d2-tv",
+      "summary": "30 points · 4 comments",
+      "published": "2026-10-23T00:10:45+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Docker is weird",
       "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-      "summary": "297 points · 147 comments",
+      "summary": "540 points · 234 comments",
       "published": "2026-10-22T23:45:56+00:00"
     },
     {
@@ -111,6 +160,13 @@
       "published": "2026-10-22T23:05:46+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "summary": "490 points · 117 comments",
+      "published": "2026-10-22T23:01:18+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "To Make Way For Data Centers, Google Will Pay Others to Use Less Power",
       "url": "https://hardware.slashdot.org/story/26/10/22/180226/to-make-way-for-data-centers-google-will-pay-others-to-use-less-power?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -118,18 +174,18 @@
       "published": "2026-10-22T23:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "url": "https://www.anthropic.com/research/formal-verification",
-      "summary": "240 points · 131 comments",
-      "published": "2026-10-22T22:54:43+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Microsoft Says October Updates Didn't Actually Fix VPN Issues",
       "url": "https://it.slashdot.org/story/26/10/22/1950254/microsoft-says-october-updates-didnt-actually-fix-vpn-issues?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "joshuark shares a report from BleepingComputer: Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. Always On VPN replaced the legacy DirectAccess technology and supports domain-joined, non-domain-joined, and Microsoft Entra ID-joined devices running Windows 10, Windows 11, and Windows Server. It runs in the background and establishes secure tunnels back to the user's corporate network whenever their devic",
       "published": "2026-10-22T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How does Fable 5.1 hide messages in images?",
+      "url": "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+      "summary": "107 points · 34 comments",
+      "published": "2026-10-22T21:41:13+00:00"
     },
     {
       "source": "OSINT",
@@ -158,6 +214,13 @@
       "url": "https://slashdot.org/story/26/10/22/200209/moderna-shares-plunge-after-leak-of-cancer-vaccine-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Moderna shares plunged as much as 25% after partial clinical trial data leaked for its personalized cancer vaccine developed with Merck, despite the full results showing promising outcomes for melanoma patients. Analysts attribute the selloff largely to inflated investor expectations rather than disappointing clinical results. CNBC reports: The personalized vaccine, known as intismeran autogene, paired with Merck's immunotherapy Keytruda reduced the risk of recurrence or death in certain melanom",
       "published": "2026-10-22T20:01:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The HTML-in-Canvas API origin trial",
+      "url": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+      "summary": "60 points · 29 comments",
+      "published": "2026-10-22T19:54:04+00:00"
     },
     {
       "source": "OSINT",
@@ -219,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "summary": "350 points · 184 comments",
+      "summary": "412 points · 195 comments",
       "published": "2026-10-22T17:44:06+00:00"
     },
     {
@@ -254,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Getting ready to operate GNU Taler in Germany",
       "url": "https://www.taler.net/en/news/2026-13.html",
-      "summary": "248 points · 99 comments",
+      "summary": "307 points · 134 comments",
       "published": "2026-10-22T16:14:31+00:00"
     },
     {
@@ -268,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Every AI model has the same \"controversial\" take on humans",
       "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "summary": "319 points · 353 comments",
+      "summary": "453 points · 455 comments",
       "published": "2026-10-22T16:08:00+00:00"
     },
     {
@@ -282,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Run full iOS 16.5 firmware on Android Devices",
       "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "summary": "371 points · 137 comments",
+      "summary": "450 points · 167 comments",
       "published": "2026-10-22T15:26:22+00:00"
     },
     {
@@ -301,10 +364,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "url": "https://quad9.net/news/blog/au-revoir-france/",
-      "summary": "1099 points · 385 comments",
-      "published": "2026-10-22T14:32:38+00:00"
+      "title": "Show HN: OnKey – I'm a bad singer, so I built an app to show where I'm off-key",
+      "url": "https://github.com/dsmurrell/onkey",
+      "summary": "71 points · 38 comments",
+      "published": "2026-10-22T14:04:44+00:00"
     },
     {
       "source": "OSINT",
@@ -322,10 +385,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
-      "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
-      "summary": "614 points · 609 comments",
-      "published": "2026-10-22T13:11:00+00:00"
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "url": "https://arxiv.org/abs/2603.01092",
+      "summary": "85 points · 20 comments",
+      "published": "2026-10-22T13:25:01+00:00"
     },
     {
       "source": "OSINT",
@@ -356,32 +419,11 @@
       "published": "2026-10-22T11:15:42+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Airbnb Bans Making Guests Do Dishes, Take Out the Trash",
-      "url": "https://slashdot.org/story/26/10/22/0026211/airbnb-bans-making-guests-do-dishes-take-out-the-trash?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Airbnb is banning hosts from requiring guests to perform time-consuming checkout chores, including washing dishes, stripping beds, doing laundry, and taking trash off-site. The updated policy applies to reservations booked on or after November 20. The Verge reports: Airbnb is displaying hosts' requests more prominently now in a new \"rules and requests\" section on listings. You might see an \"includes cleaning requests\" warning if a host leaves chore requests in their listing after the new policy ",
-      "published": "2026-10-22T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-      "url": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-      "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the developer's own access. Anomaly, the company behind OpenCode, fixed the flaw in version 1.18.33 on September",
-      "published": "2026-10-22T10:44:05+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xcedw4/critical_gitlab_flaw_cvss_100_could_allow/",
       "summary": "I know everyone's preoccupied with the PHP CVEs, but this is also BIG NEWS submitted by /u/One_Paint8721 [link] [comments]",
       "published": "2026-10-22T09:59:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-      "url": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-      "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release pipeline was compromised to push 1.107.0 to the Docker Hub registry and the Python Package Index (PyPI) repository. The incident took place around 4:00 a.m.",
-      "published": "2026-10-22T08:28:48+00:00"
     },
     {
       "source": "OSINT",
@@ -391,32 +433,11 @@
       "published": "2026-10-22T08:27:11+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-      "url": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-      "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an attacker could run code of their choosing on the affected system. Each supported line has one fixed version:",
-      "published": "2026-10-22T07:47:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "America's War Department Will Test Heat Ray Weapon For Potential Use",
-      "url": "https://tech.slashdot.org/story/26/10/22/0020206/americas-war-department-will-test-heat-ray-weapon-for-potential-use?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader destinyland shares a report from CNN: The Pentagon has given the Department of Homeland Security permission to test a military-grade heat ray and develop tactics to potentially use it in operations at the southern US border, according to a memo signed by Defense Secretary Pete Hegseth last month and obtained by CNN. The heat ray, officially known as the Active Denial System, is a nonlethal weapon that shoots an invisible beam of electromagnetic waves that can reach a lit",
-      "published": "2026-10-22T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-      "url": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-      "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the attacker can force the server to use thousands of times more memory than it received, enough to run a default server",
-      "published": "2026-10-22T06:38:31+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Postgres recovery_prefetch can cause outages",
-      "url": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
-      "summary": "30 points · 0 comments",
-      "published": "2026-10-21T22:33:08+00:00"
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "summary": "553 points · 171 comments",
+      "published": "2026-10-22T02:18:41+00:00"
     },
     {
       "source": "OSINT",
@@ -455,24 +476,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Mortality Among People with Attention-Deficit/Hyperactivity Disorder",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
-      "summary": "77 points · 47 comments",
-      "published": "2026-10-20T22:24:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why My Asus Laptop Kept Rebooting After Sleep and How to Fix It",
-      "url": "https://idiallo.com/blog/asus-laptop-keeps-rebooting-after-sleep",
-      "summary": "28 points · 18 comments",
-      "published": "2026-10-20T13:40:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Secret Life of Circuits is now in stock everywhere",
-      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
-      "summary": "85 points · 17 comments",
-      "published": "2026-10-20T07:15:12+00:00"
+      "title": "I reverse engineered a board game",
+      "url": "https://wuemeli.com/blog/reversing-hitster-game/",
+      "summary": "48 points · 17 comments",
+      "published": "2026-10-21T13:40:31+00:00"
     },
     {
       "source": "OSINT",
@@ -480,13 +487,6 @@
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
       "published": "2026-10-19T13:48:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What Is Gridifcation",
-      "url": "https://musicalform.substack.com/p/what-is-gridifcation",
-      "summary": "436 points · 207 comments",
-      "published": "2026-10-19T09:13:12+00:00"
     },
     {
       "source": "REDDIT",
