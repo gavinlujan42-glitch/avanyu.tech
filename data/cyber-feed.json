@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T23:00:07.208563+00:00",
+  "updated": "2026-10-24T01:27:49.751745+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -28,6 +28,27 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "PYTHON Packages NOW Vulnerable to Node2Shell",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdunkf/python_packages_now_vulnerable_to_node2shell/",
+      "summary": "Turns out that Node2Shell affects more than just Node! Python packages Brotli and brotlicffi are also affected by this vulnerability, but don't have a CVE yet.. submitted by /u/One_Paint8721 [link] [comments]",
+      "published": "2026-10-24T00:28:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+      "summary": "61 points · 16 comments",
+      "published": "2026-10-23T23:30:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Singapore Boffins Weave a GUI Into Fabric",
+      "url": "https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Researchers at the National University of Singapore have developed a machine-washable electronic fabric that can turn clothing into an interactive graphical user interface. The prototype reportedly survived 50 gentle machine washes and 1,000 bending cycles, though it still relies on external batteries and controllers. The Register reports: The development could lead - at some point - to a \"future in which clothing functions as a pervasive, multimodal human-computer interface,\" according to the s",
+      "published": "2026-10-23T23:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "More CVEs in Q3 2026 than in any full year before 2024",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xdrxa7/more_cves_in_q3_2026_than_in_any_full_year_before/",
       "summary": "submitted by /u/PRNG123 [link] [comments]",
@@ -44,7 +65,7 @@
       "source": "HACKER NEWS",
       "title": "CVE Tracker",
       "url": "https://cve.0xosprey.com/",
-      "summary": "42 points · 2 comments",
+      "summary": "96 points · 37 comments",
       "published": "2026-10-23T21:21:47+00:00"
     },
     {
@@ -65,14 +86,14 @@
       "source": "HACKER NEWS",
       "title": "No Source Code? No Problem",
       "url": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "summary": "14 points · 6 comments",
+      "summary": "33 points · 26 comments",
       "published": "2026-10-23T20:38:06+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "A whirlwind tour of systemd-nspawn containers",
+      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
       "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "summary": "18 points · 2 comments",
+      "summary": "32 points · 6 comments",
       "published": "2026-10-23T20:37:12+00:00"
     },
     {
@@ -86,35 +107,28 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
       "url": "https://corgi.computer/",
-      "summary": "4 points · 0 comments",
+      "summary": "32 points · 3 comments",
       "published": "2026-10-23T19:46:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
       "url": "https://rune.build/blog/rune-1-3-release",
-      "summary": "24 points · 3 comments",
+      "summary": "37 points · 7 comments",
       "published": "2026-10-23T19:42:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "We are all living inside of an obscure sci-fi film from 1970",
-      "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
-      "summary": "81 points · 72 comments",
-      "published": "2026-10-23T19:41:59+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
       "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "175 points · 85 comments",
+      "summary": "268 points · 139 comments",
       "published": "2026-10-23T19:34:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Dessa: the most authentic full-duplex speech model ever built",
       "url": "https://block.xyz/dessa",
-      "summary": "149 points · 57 comments",
+      "summary": "222 points · 96 comments",
       "published": "2026-10-23T19:09:54+00:00"
     },
     {
@@ -123,13 +137,6 @@
       "url": "https://it.slashdot.org/story/26/10/23/193208/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The New York Knicks reportedly sent employees a fake offer of complimentary NBA championship rings as part of an internal phishing test, requiring anyone who clicked the link to attend mandatory cybersecurity training. \"Congratulations, your Employee Championship Ring is here,\" the email said. According to The New York Times, Madison Square Garden employees who clicked that link \"were forced to attend a mandatory cybersecurity class to help satisfy some of [owner James] Dolan's growing cybersecu",
       "published": "2026-10-23T19:05:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DNS: A Replacement for Finger",
-      "url": "https://altchan.org/sh/42",
-      "summary": "13 points · 13 comments",
-      "published": "2026-10-23T19:00:04+00:00"
     },
     {
       "source": "OSINT",
@@ -174,18 +181,18 @@
       "published": "2026-10-23T17:50:47+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "summary": "59 points · 93 comments",
+      "published": "2026-10-23T17:28:36+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
       "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
       "published": "2026-10-23T17:05:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Animations for System Builders",
-      "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
-      "summary": "25 points · 3 comments",
-      "published": "2026-10-23T17:02:24+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -198,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "621 points · 388 comments",
+      "summary": "709 points · 452 comments",
       "published": "2026-10-23T16:59:08+00:00"
     },
     {
@@ -212,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://blog.calif.io/p/iphone",
-      "summary": "678 points · 450 comments",
+      "summary": "741 points · 499 comments",
       "published": "2026-10-23T16:21:50+00:00"
     },
     {
@@ -289,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
-      "summary": "470 points · 162 comments",
+      "summary": "582 points · 190 comments",
       "published": "2026-10-23T12:28:47+00:00"
     },
     {
@@ -364,37 +371,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Impossible Machines: declaratively program the physical world",
-      "url": "https://www.impossiblemachines.xyz",
-      "summary": "49 points · 16 comments",
-      "published": "2026-10-22T23:54:28+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Node2Shell: Node.js Brotli vulnerability allows remote code execution (CVE-2026-111497)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xcy96b/node2shell_nodejs_brotli_vulnerability_allows/",
-      "summary": "First PHP. Now NodeJS. submitted by /u/One_Paint8721 [link] [comments]",
-      "published": "2026-10-22T23:32:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "summary": "1171 points · 223 comments",
+      "summary": "1236 points · 225 comments",
       "published": "2026-10-22T23:01:18+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "To Make Way For Data Centers, Google Will Pay Others to Use Less Power",
-      "url": "https://hardware.slashdot.org/story/26/10/22/180226/to-make-way-for-data-centers-google-will-pay-others-to-use-less-power?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google is funding one of the nation's largest \"virtual power plants,\" paying homes and businesses indirectly to reduce electricity consumption during periods of peak demand so more grid capacity can be available for data centers. Under its expanded deal with Voltus, the program could provide up to 1,070 megawatts in the Mid-Atlantic PJM grid -- roughly the output of a large nuclear reactor. The New York Times reports: That electricity won't come from new power plants. Instead, Voltus will sign u",
-      "published": "2026-10-22T23:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Canadians are running out of time to oppose Bill C-22",
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "summary": "271 points · 134 comments",
+      "summary": "322 points · 165 comments",
       "published": "2026-10-22T22:43:19+00:00"
     },
     {
@@ -464,15 +450,29 @@
       "source": "HACKER NEWS",
       "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
       "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-      "summary": "8 points · 2 comments",
+      "summary": "24 points · 8 comments",
       "published": "2026-10-21T08:17:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bringing uv and ty together",
+      "url": "https://astral.sh/blog/uv-ty-integration",
+      "summary": "14 points · 6 comments",
+      "published": "2026-10-20T21:30:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Real Kevin Bacon",
       "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "summary": "201 points · 62 comments",
+      "summary": "236 points · 69 comments",
       "published": "2026-10-20T17:10:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
+      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+      "summary": "13 points · 0 comments",
+      "published": "2026-10-20T15:41:28+00:00"
     },
     {
       "source": "OSINT",
