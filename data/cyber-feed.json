@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T01:27:49.751745+00:00",
+  "updated": "2026-10-24T06:20:49.184082+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,18 +27,46 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "OBS Studio 33",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "summary": "4 points · 0 comments",
+      "published": "2026-10-24T04:49:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How close can pure functional programming get to C?",
+      "url": "https://rtfeldman.com/fp-vs-c",
+      "summary": "44 points · 4 comments",
+      "published": "2026-10-24T03:43:54+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Knicks reportedly duped employees with championship ring email that was actually a phishing test",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdxvpe/knicks_reportedly_duped_employees_with/",
+      "summary": "submitted by /u/Blaaamo [link] [comments]",
+      "published": "2026-10-24T03:15:47+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "[MEGATHREAD] October 2026 Cybersecurity Incidents: PHP2Shell, LiteLLM, eMudhra, GitLab, and more",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdx8k7/megathread_october_2026_cybersecurity_incidents/",
+      "summary": "[MEGATHREAD] PHP2Shell (CVE-2026-109618/109619), LiteLLM, eMudhra, GitLab & Other October Security Incidents AKA Black October We've been getting hammered with posts and questions about the wave of vulnerabilities, compromises, and other security incidents over the past week. A lot are duplicative, and there is a wave of vibe coded crap getting shared that doesn't really do much in this situation. Rather than having a 3 dozen threads covering the same thing, we're going to consolidate the genera",
+      "published": "2026-10-24T02:41:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Twelve years of distributed SQLite",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "summary": "122 points · 13 comments",
+      "published": "2026-10-24T01:16:58+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "PYTHON Packages NOW Vulnerable to Node2Shell",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xdunkf/python_packages_now_vulnerable_to_node2shell/",
       "summary": "Turns out that Node2Shell affects more than just Node! Python packages Brotli and brotlicffi are also affected by this vulnerability, but don't have a CVE yet.. submitted by /u/One_Paint8721 [link] [comments]",
       "published": "2026-10-24T00:28:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "summary": "61 points · 16 comments",
-      "published": "2026-10-23T23:30:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -63,9 +91,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "One Man's Pan Am 747 Replica [video]",
+      "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
+      "summary": "20 points · 1 comments",
+      "published": "2026-10-23T21:46:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "CVE Tracker",
       "url": "https://cve.0xosprey.com/",
-      "summary": "96 points · 37 comments",
+      "summary": "147 points · 59 comments",
       "published": "2026-10-23T21:21:47+00:00"
     },
     {
@@ -83,20 +118,6 @@
       "published": "2026-10-23T20:55:05+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "No Source Code? No Problem",
-      "url": "https://queue.acm.org/doi/10.1145/945131.945155",
-      "summary": "33 points · 26 comments",
-      "published": "2026-10-23T20:38:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "summary": "32 points · 6 comments",
-      "published": "2026-10-23T20:37:12+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "SpaceX In Talks to Access 80,000 Cell Sites For New Network",
       "url": "https://mobile.slashdot.org/story/26/10/23/1916222/spacex-in-talks-to-access-80000-cell-sites-for-new-network?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -107,28 +128,14 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
       "url": "https://corgi.computer/",
-      "summary": "32 points · 3 comments",
+      "summary": "67 points · 16 comments",
       "published": "2026-10-23T19:46:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-      "url": "https://rune.build/blog/rune-1-3-release",
-      "summary": "37 points · 7 comments",
-      "published": "2026-10-23T19:42:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "268 points · 139 comments",
-      "published": "2026-10-23T19:34:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "title": "Dessa: Conversation Model trained only on speech",
       "url": "https://block.xyz/dessa",
-      "summary": "222 points · 96 comments",
+      "summary": "336 points · 128 comments",
       "published": "2026-10-23T19:09:54+00:00"
     },
     {
@@ -181,13 +188,6 @@
       "published": "2026-10-23T17:50:47+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "summary": "59 points · 93 comments",
-      "published": "2026-10-23T17:28:36+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
@@ -205,7 +205,7 @@
       "source": "HACKER NEWS",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "709 points · 452 comments",
+      "summary": "839 points · 494 comments",
       "published": "2026-10-23T16:59:08+00:00"
     },
     {
@@ -219,7 +219,7 @@
       "source": "HACKER NEWS",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://blog.calif.io/p/iphone",
-      "summary": "741 points · 499 comments",
+      "summary": "820 points · 538 comments",
       "published": "2026-10-23T16:21:50+00:00"
     },
     {
@@ -272,13 +272,6 @@
       "published": "2026-10-23T14:24:33+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How do you verify another company during an active security incident?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdfdq3/how_do_you_verify_another_company_during_an/",
-      "summary": "Something I don’t see discussed much is how organizations establish trust with each other after an incident has already started, imagine one of your critical vendors gets compromised. Someone claiming to be their security team contacts you and says credentials need to be rotated immediately, certain integrations should be disabled and all further communication needs to move to a new address because their normal email environment may be affected. Every one of those requests could be completely le",
-      "published": "2026-10-23T14:19:59+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "You gave your AI agent access, but who is giving it orders?",
       "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
@@ -296,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
-      "summary": "582 points · 190 comments",
+      "summary": "702 points · 217 comments",
       "published": "2026-10-23T12:28:47+00:00"
     },
     {
@@ -373,14 +366,14 @@
       "source": "HACKER NEWS",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "summary": "1236 points · 225 comments",
+      "summary": "1334 points · 229 comments",
       "published": "2026-10-22T23:01:18+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Canadians are running out of time to oppose Bill C-22",
       "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "summary": "322 points · 165 comments",
+      "summary": "384 points · 206 comments",
       "published": "2026-10-22T22:43:19+00:00"
     },
     {
@@ -433,6 +426,13 @@
       "published": "2026-10-22T15:49:32+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "The Quake Fan who built the map editor everybody uses",
+      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "summary": "65 points · 4 comments",
+      "published": "2026-10-22T10:55:22+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
       "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
@@ -440,39 +440,39 @@
       "published": "2026-10-21T15:26:07+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "I built a full-chain Chrome exploit in 6 days using only gpt-5.6-sol…Ask Me Anything!",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xbo6o3/i_built_a_fullchain_chrome_exploit_in_6_days/",
-      "summary": "Hi Reddit! I’m Brendan Dolan-Gavitt , XBOW’s native team lead. In August, I used gpt-5.6-sol to see if I could build a full-chain exploit against Google Chrome. Six days later, we had a working chain. The exploit chained three vulnerabilities to achieve remote code execution and escape the Chrome sandbox, ultimately earning a $250,000 reward from Google’s Chrome Vulnerability Reward Program (the first of 2026)! I’m here to answer questions about how we did it: where AI agents helped (and where t",
-      "published": "2026-10-21T14:09:14+00:00"
+      "source": "HACKER NEWS",
+      "title": "C vs. C#: racing VLC's Gaussian blur",
+      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+      "summary": "54 points · 5 comments",
+      "published": "2026-10-21T05:48:12+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "A Bicycle Journey Across Brazil to Find a Vanishing Savanna",
-      "url": "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
-      "summary": "24 points · 8 comments",
-      "published": "2026-10-21T08:17:35+00:00"
+      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
+      "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
+      "summary": "6 points · 2 comments",
+      "published": "2026-10-21T03:30:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Bringing uv and ty together",
       "url": "https://astral.sh/blog/uv-ty-integration",
-      "summary": "14 points · 6 comments",
+      "summary": "92 points · 23 comments",
       "published": "2026-10-20T21:30:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "summary": "27 points · 4 comments",
+      "published": "2026-10-20T19:22:39+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Real Kevin Bacon",
       "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "summary": "236 points · 69 comments",
+      "summary": "278 points · 76 comments",
       "published": "2026-10-20T17:10:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-      "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-      "summary": "13 points · 0 comments",
-      "published": "2026-10-20T15:41:28+00:00"
     },
     {
       "source": "OSINT",
