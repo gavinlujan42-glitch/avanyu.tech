@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T06:20:49.184082+00:00",
+  "updated": "2026-10-24T11:28:08.899448+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -28,16 +28,72 @@
   "items": [
     {
       "source": "HACKER NEWS",
+      "title": "I Don't Understand Quantum Physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "summary": "81 points · 36 comments",
+      "published": "2026-10-24T09:53:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
+      "published": "2026-10-24T09:04:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "published": "2026-10-24T08:45:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Startup Cracks Google's Classified Quantum Cryptography",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xe2z18/startup_cracks_googles_classified_quantum/",
+      "summary": "submitted by /u/donutloop [link] [comments]",
+      "published": "2026-10-24T08:09:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "summary": "19 points · 4 comments",
+      "published": "2026-10-24T08:06:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Node2Shell EVOLVES to HTTP2Shell.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xe28vv/node2shell_evolves_to_http2shell/",
+      "summary": "submitted by /u/One_Paint8721 [link] [comments]",
+      "published": "2026-10-24T07:24:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
+      "published": "2026-10-24T06:25:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+      "summary": "194 points · 49 comments",
+      "published": "2026-10-24T05:49:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "OBS Studio 33",
       "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "summary": "4 points · 0 comments",
+      "summary": "182 points · 55 comments",
       "published": "2026-10-24T04:49:58+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How close can pure functional programming get to C?",
       "url": "https://rtfeldman.com/fp-vs-c",
-      "summary": "44 points · 4 comments",
+      "summary": "137 points · 20 comments",
       "published": "2026-10-24T03:43:54+00:00"
     },
     {
@@ -56,10 +112,24 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Apple Security Research Device",
+      "url": "https://security.apple.com/research-device/",
+      "summary": "78 points · 26 comments",
+      "published": "2026-10-24T02:36:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Twelve years of distributed SQLite",
       "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "summary": "122 points · 13 comments",
+      "summary": "223 points · 33 comments",
       "published": "2026-10-24T01:16:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "summary": "145 points · 28 comments",
+      "published": "2026-10-24T01:15:14+00:00"
     },
     {
       "source": "REDDIT",
@@ -90,20 +160,6 @@
       "published": "2026-10-23T22:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "One Man's Pan Am 747 Replica [video]",
-      "url": "https://www.youtube.com/watch?v=vAFwHGGfPz4",
-      "summary": "20 points · 1 comments",
-      "published": "2026-10-23T21:46:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "summary": "147 points · 59 comments",
-      "published": "2026-10-23T21:21:47+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Greece Enacts Social Media Ban For Kids Under 15",
       "url": "https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -126,16 +182,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "summary": "67 points · 16 comments",
-      "published": "2026-10-23T19:46:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Dessa: Conversation Model trained only on speech",
       "url": "https://block.xyz/dessa",
-      "summary": "336 points · 128 comments",
+      "summary": "398 points · 146 comments",
       "published": "2026-10-23T19:09:54+00:00"
     },
     {
@@ -205,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "839 points · 494 comments",
+      "summary": "933 points · 554 comments",
       "published": "2026-10-23T16:59:08+00:00"
     },
     {
@@ -219,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://blog.calif.io/p/iphone",
-      "summary": "820 points · 538 comments",
+      "summary": "908 points · 590 comments",
       "published": "2026-10-23T16:21:50+00:00"
     },
     {
@@ -244,13 +293,6 @@
       "published": "2026-10-23T16:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Quest Diagnostics reports cyber breach affecting ‘certain patient records’",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdhipg/quest_diagnostics_reports_cyber_breach_affecting/",
-      "summary": "submitted by /u/nbcnews [link] [comments]",
-      "published": "2026-10-23T15:41:09+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
       "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
@@ -265,18 +307,18 @@
       "published": "2026-10-23T15:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdfhuq/hackers_breach_enterprise_firewalls_and_vpns/",
-      "summary": "submitted by /u/DeepCedarShadow [link] [comments]",
-      "published": "2026-10-23T14:24:33+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "You gave your AI agent access, but who is giving it orders?",
       "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
       "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
       "published": "2026-10-23T14:00:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
+      "published": "2026-10-23T13:50:56+00:00"
     },
     {
       "source": "OSINT",
@@ -289,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
-      "summary": "702 points · 217 comments",
+      "summary": "786 points · 237 comments",
       "published": "2026-10-23T12:28:47+00:00"
     },
     {
@@ -335,13 +377,6 @@
       "published": "2026-10-23T08:35:45+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-      "summary": "Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks aim to exploit CVE-2026-109618 and CVE-2026-109619 (CVSS scores: 9.2), which can result in unauthenticated remote",
-      "published": "2026-10-23T07:40:45+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'",
       "url": "https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -366,15 +401,8 @@
       "source": "HACKER NEWS",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "summary": "1334 points · 229 comments",
+      "summary": "1396 points · 236 comments",
       "published": "2026-10-22T23:01:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "summary": "384 points · 206 comments",
-      "published": "2026-10-22T22:43:19+00:00"
     },
     {
       "source": "OSINT",
@@ -399,20 +427,6 @@
     },
     {
       "source": "OSINT",
-      "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-      "url": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-      "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach with that little oversight, you would call it an insider risk. So why do we still call the agent a productivity tool?",
-      "published": "2026-10-22T19:05:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-      "url": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-      "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in to the orchestrator, even with a read-only customer account, gain operator privileges, the top level of control over it. For",
-      "published": "2026-10-22T19:05:17+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
@@ -427,10 +441,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Quake Fan who built the map editor everybody uses",
-      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
-      "summary": "65 points · 4 comments",
-      "published": "2026-10-22T10:55:22+00:00"
+      "title": "How to run a city builder on 16 MHz",
+      "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+      "summary": "24 points · 8 comments",
+      "published": "2026-10-22T12:40:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Chalk and the Airplane",
+      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
+      "summary": "4 points · 0 comments",
+      "published": "2026-10-22T04:41:58+00:00"
     },
     {
       "source": "OSINT",
@@ -441,38 +462,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "C vs. C#: racing VLC's Gaussian blur",
-      "url": "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
-      "summary": "54 points · 5 comments",
-      "published": "2026-10-21T05:48:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Best Monopoly Strategy, Tested on 300M Games [video]",
-      "url": "https://www.youtube.com/watch?v=S_2eVAaw1UM",
-      "summary": "6 points · 2 comments",
-      "published": "2026-10-21T03:30:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Bringing uv and ty together",
       "url": "https://astral.sh/blog/uv-ty-integration",
-      "summary": "92 points · 23 comments",
+      "summary": "168 points · 43 comments",
       "published": "2026-10-20T21:30:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "url": "https://danielball.com/notes/ai_image_generation.html",
-      "summary": "27 points · 4 comments",
+      "summary": "107 points · 30 comments",
       "published": "2026-10-20T19:22:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Real Kevin Bacon",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "summary": "278 points · 76 comments",
-      "published": "2026-10-20T17:10:05+00:00"
     },
     {
       "source": "OSINT",
