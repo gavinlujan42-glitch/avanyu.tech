@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:28:08.899448+00:00",
+  "updated": "2026-10-24T14:46:24.836519+00:00",
   "item_count": 74,
   "sources": [
     "CISA",
@@ -27,10 +27,45 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
+      "published": "2026-10-24T14:17:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "One Must Fall 2097 Remastered",
+      "url": "https://github.com/Jared-woodruff/OMF-2097-Remastered/",
+      "summary": "33 points · 18 comments",
+      "published": "2026-10-24T13:47:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "published": "2026-10-24T11:09:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
+      "published": "2026-10-24T11:03:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
+      "published": "2026-10-24T10:36:33+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "I Don't Understand Quantum Physics (2018)",
       "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "81 points · 36 comments",
+      "summary": "169 points · 111 comments",
       "published": "2026-10-24T09:53:26+00:00"
     },
     {
@@ -39,13 +74,6 @@
       "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
       "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
       "published": "2026-10-24T09:04:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
-      "published": "2026-10-24T08:45:56+00:00"
     },
     {
       "source": "REDDIT",
@@ -58,7 +86,7 @@
       "source": "HACKER NEWS",
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "summary": "19 points · 4 comments",
+      "summary": "107 points · 59 comments",
       "published": "2026-10-24T08:06:39+00:00"
     },
     {
@@ -77,23 +105,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
-      "summary": "194 points · 49 comments",
-      "published": "2026-10-24T05:49:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "OBS Studio 33",
       "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-      "summary": "182 points · 55 comments",
+      "summary": "298 points · 85 comments",
       "published": "2026-10-24T04:49:58+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How close can pure functional programming get to C?",
       "url": "https://rtfeldman.com/fp-vs-c",
-      "summary": "137 points · 20 comments",
+      "summary": "179 points · 39 comments",
       "published": "2026-10-24T03:43:54+00:00"
     },
     {
@@ -112,23 +133,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Apple Security Research Device",
-      "url": "https://security.apple.com/research-device/",
-      "summary": "78 points · 26 comments",
-      "published": "2026-10-24T02:36:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Twelve years of distributed SQLite",
       "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-      "summary": "223 points · 33 comments",
+      "summary": "280 points · 42 comments",
       "published": "2026-10-24T01:16:58+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
       "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-      "summary": "145 points · 28 comments",
+      "summary": "350 points · 91 comments",
       "published": "2026-10-24T01:15:14+00:00"
     },
     {
@@ -184,7 +198,7 @@
       "source": "HACKER NEWS",
       "title": "Dessa: Conversation Model trained only on speech",
       "url": "https://block.xyz/dessa",
-      "summary": "398 points · 146 comments",
+      "summary": "428 points · 161 comments",
       "published": "2026-10-23T19:09:54+00:00"
     },
     {
@@ -254,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
       "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "summary": "933 points · 554 comments",
+      "summary": "990 points · 591 comments",
       "published": "2026-10-23T16:59:08+00:00"
     },
     {
@@ -268,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Today, we hacked what we'd set out to hack: the iPhone",
       "url": "https://blog.calif.io/p/iphone",
-      "summary": "908 points · 590 comments",
+      "summary": "980 points · 624 comments",
       "published": "2026-10-23T16:21:50+00:00"
     },
     {
@@ -331,7 +345,7 @@
       "source": "HACKER NEWS",
       "title": "Apple Music 404 Not Found",
       "url": "https://music.apple.com/this-url-doesnt-exist",
-      "summary": "786 points · 237 comments",
+      "summary": "833 points · 246 comments",
       "published": "2026-10-23T12:28:47+00:00"
     },
     {
@@ -363,20 +377,6 @@
       "published": "2026-10-23T09:36:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-      "url": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-      "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or custom build, by feeding crafted data to the bundled Brotli decoder (CVE-2026-111497). Node.js disclosed the flaw",
-      "published": "2026-10-23T08:40:43+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "url": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August 18 added one. The risk was limited to agents who automatically signed payments and whose apps set",
-      "published": "2026-10-23T08:35:45+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'",
       "url": "https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -401,7 +401,7 @@
       "source": "HACKER NEWS",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "summary": "1396 points · 236 comments",
+      "summary": "1447 points · 238 comments",
       "published": "2026-10-22T23:01:18+00:00"
     },
     {
@@ -433,25 +433,18 @@
       "published": "2026-10-22T17:18:22+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
-      "summary": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
-      "published": "2026-10-22T15:49:32+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "How to run a city builder on 16 MHz",
       "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-      "summary": "24 points · 8 comments",
+      "summary": "56 points · 13 comments",
       "published": "2026-10-22T12:40:56+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Chalk and the Airplane",
-      "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
-      "summary": "4 points · 0 comments",
-      "published": "2026-10-22T04:41:58+00:00"
+      "title": "TornadoVM 7 Enables GPU-Native Workloads from Java Applications",
+      "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
+      "summary": "13 points · 0 comments",
+      "published": "2026-10-22T09:01:10+00:00"
     },
     {
       "source": "OSINT",
@@ -462,16 +455,23 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Appreciating the beauty of all your body's scars and scratches",
+      "url": "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+      "summary": "39 points · 24 comments",
+      "published": "2026-10-21T14:00:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Bringing uv and ty together",
       "url": "https://astral.sh/blog/uv-ty-integration",
-      "summary": "168 points · 43 comments",
+      "summary": "213 points · 68 comments",
       "published": "2026-10-20T21:30:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A practical guide to AI image generation, from diffusion to agents",
       "url": "https://danielball.com/notes/ai_image_generation.html",
-      "summary": "107 points · 30 comments",
+      "summary": "159 points · 51 comments",
       "published": "2026-10-20T19:22:39+00:00"
     },
     {
