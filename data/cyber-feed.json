@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T21:09:00.188149+00:00",
-  "item_count": 75,
+  "updated": "2026-10-25T23:29:17.498673+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,6 +28,27 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xffetk/unpatched_tailscale_ssh_flaws_could_let_a_hacked/",
+      "summary": "submitted by /u/One_Paint8721 [link] [comments]",
+      "published": "2026-10-25T22:13:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "66 points · 87 comments",
+      "published": "2026-10-25T21:11:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+      "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+      "summary": "160 points · 60 comments",
+      "published": "2026-10-25T21:08:28+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "From a decoy log: one scanner posed as 25 different AI and search bots in 12 seconds while hunting for .env files",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xfdc19/from_a_decoy_log_one_scanner_posed_as_25/",
       "summary": "I run decoy files on a few small sites and log what touches them. On Oct 25 one Google Cloud address made 66 requests in 12 seconds. Almost every request used a different bot name: GPTBot, ClaudeBot, GrokBot, DeepSeekBot, PerplexityBot, OAI-SearchBot, Googlebot, bingbot, CCBot and 16 more. Each name asked for a different .env path (/ai/.env, /llm/.env, /agents/.env, /chatbot/.env and so on). My guess is it is trying to slip past sites that allowlist AI crawlers by user agent so they show up in A",
@@ -35,9 +56,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "49 points · 8 comments",
+      "published": "2026-10-25T20:32:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "What goes into making an animated film?",
       "url": "https://www.disneyanimation.com/process/",
-      "summary": "12 points · 3 comments",
+      "summary": "58 points · 26 comments",
       "published": "2026-10-25T20:27:09+00:00"
     },
     {
@@ -51,29 +79,15 @@
       "source": "HACKER NEWS",
       "title": "Eunice is almost here",
       "url": "https://armincat.com/articles/eunice-is-almost-here",
-      "summary": "29 points · 22 comments",
+      "summary": "52 points · 44 comments",
       "published": "2026-10-25T19:40:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
-      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
-      "summary": "81 points · 14 comments",
-      "published": "2026-10-25T19:29:16+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Why I Am a Programmer",
       "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "summary": "29 points · 5 comments",
+      "summary": "91 points · 21 comments",
       "published": "2026-10-25T19:11:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "summary": "20 points · 0 comments",
-      "published": "2026-10-25T19:10:36+00:00"
     },
     {
       "source": "REDDIT",
@@ -84,9 +98,16 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "summary": "29 points · 11 comments",
+      "published": "2026-10-25T18:58:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Dolly Parton's Imagination Library",
       "url": "https://imaginationlibrary.com/",
-      "summary": "205 points · 32 comments",
+      "summary": "305 points · 55 comments",
       "published": "2026-10-25T18:23:54+00:00"
     },
     {
@@ -100,21 +121,14 @@
       "source": "HACKER NEWS",
       "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "summary": "235 points · 59 comments",
+      "summary": "332 points · 84 comments",
       "published": "2026-10-25T18:04:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
-      "published": "2026-10-25T17:44:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "url": "https://talkweb.eu/openweb/4558/",
-      "summary": "272 points · 140 comments",
+      "summary": "349 points · 171 comments",
       "published": "2026-10-25T17:30:55+00:00"
     },
     {
@@ -128,29 +142,15 @@
       "source": "HACKER NEWS",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
-      "summary": "295 points · 147 comments",
+      "summary": "372 points · 182 comments",
       "published": "2026-10-25T17:15:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "UTS #39: Unicode Security Mechanisms",
       "url": "https://unicode.org/reports/tr39/",
-      "summary": "21 points · 1 comments",
+      "summary": "30 points · 7 comments",
       "published": "2026-10-25T16:40:37+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "summary": "147 points · 231 comments",
-      "published": "2026-10-25T16:28:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "JetBrains Thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "summary": "105 points · 66 comments",
-      "published": "2026-10-25T16:27:12+00:00"
     },
     {
       "source": "REDDIT",
@@ -177,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Active incident at Dreamhost forcing password reset",
       "url": "https://www.dreamhoststatus.com/",
-      "summary": "81 points · 31 comments",
+      "summary": "100 points · 36 comments",
       "published": "2026-10-25T13:09:16+00:00"
     },
     {
@@ -209,31 +209,17 @@
       "published": "2026-10-25T06:54:29+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "AI, cybersecurity and growing graduated students entering the job market (France)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xetofv/ai_cybersecurity_and_growing_graduated_students/",
-      "summary": "Hello all. I'm a cybersecurity consultant with ~8 years of experience. Working mostly on threat intelligence and cyber awareness. I am based in France and in 8 years I have seen some huge changes in the cyber job market here. I am also seeing a growing amount of young students who are struggling to find job within the industry, even when they're good because they're isn't enough job opening for the amount of graduated students. Therefore, this creates massive unemployment. I don’t know if this s",
-      "published": "2026-10-25T05:11:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-      "url": "https://huggingface.co/destined/hurston-1",
-      "summary": "24 points · 8 comments",
-      "published": "2026-10-25T01:30:13+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
-      "summary": "712 points · 655 comments",
+      "summary": "733 points · 673 comments",
       "published": "2026-10-24T21:47:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
       "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
-      "summary": "34 points · 11 comments",
+      "summary": "53 points · 12 comments",
       "published": "2026-10-24T17:42:08+00:00"
     },
     {
@@ -333,6 +319,13 @@
       "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
       "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
       "published": "2026-10-23T18:50:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Making the Buddha Head from Merv Whole Again",
+      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+      "summary": "7 points · 0 comments",
+      "published": "2026-10-23T18:46:00+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -462,17 +455,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The U.S. Power Grid",
-      "url": "https://nomagicpill.site/knowledge/powergrid.html",
-      "summary": "21 points · 6 comments",
-      "published": "2026-10-22T15:20:04+00:00"
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "summary": "89 points · 21 comments",
+      "published": "2026-10-22T15:52:21+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Recreate the Apollo Guidance Computer",
-      "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
-      "summary": "30 points · 1 comments",
-      "published": "2026-10-22T14:21:17+00:00"
+      "title": "Amazon's \"digital pacifier\" for toddlers",
+      "url": "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+      "summary": "63 points · 99 comments",
+      "published": "2026-10-21T18:37:48+00:00"
     },
     {
       "source": "OSINT",
