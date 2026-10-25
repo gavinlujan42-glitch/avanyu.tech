@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-25T18:18:21.485614+00:00",
-  "item_count": 76,
+  "updated": "2026-10-25T21:09:00.188149+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,6 +28,69 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "From a decoy log: one scanner posed as 25 different AI and search bots in 12 seconds while hunting for .env files",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfdc19/from_a_decoy_log_one_scanner_posed_as_25/",
+      "summary": "I run decoy files on a few small sites and log what touches them. On Oct 25 one Google Cloud address made 66 requests in 12 seconds. Almost every request used a different bot name: GPTBot, ClaudeBot, GrokBot, DeepSeekBot, PerplexityBot, OAI-SearchBot, Googlebot, bingbot, CCBot and 16 more. Each name asked for a different .env path (/ai/.env, /llm/.env, /agents/.env, /chatbot/.env and so on). My guess is it is trying to slip past sites that allowlist AI crawlers by user agent so they show up in A",
+      "published": "2026-10-25T20:45:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "summary": "12 points · 3 comments",
+      "published": "2026-10-25T20:27:09+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfc4xl/google_says_gmail_and_photos_data_shared_with_ai/",
+      "summary": "Basically if someone somehow gets your ad data, they can theoretically have a good idea of what you email your friends and family about. submitted by /u/East-Experience2862 [link] [comments]",
+      "published": "2026-10-25T19:58:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Eunice is almost here",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "summary": "29 points · 22 comments",
+      "published": "2026-10-25T19:40:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%",
+      "url": "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+      "summary": "81 points · 14 comments",
+      "published": "2026-10-25T19:29:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "summary": "29 points · 5 comments",
+      "published": "2026-10-25T19:11:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "summary": "20 points · 0 comments",
+      "published": "2026-10-25T19:10:36+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfascx/chineselinked_hackers_compromise_connectwise/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-10-25T19:05:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "summary": "205 points · 32 comments",
+      "published": "2026-10-25T18:23:54+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xf9jss/ai_agent_containment_fails_at_every_stack_layer/",
       "summary": "submitted by /u/VectorWireAI [link] [comments]",
@@ -37,57 +100,57 @@
       "source": "HACKER NEWS",
       "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
       "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-      "summary": "13 points · 0 comments",
+      "summary": "235 points · 59 comments",
       "published": "2026-10-25T18:04:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
+      "published": "2026-10-25T17:44:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
       "url": "https://talkweb.eu/openweb/4558/",
-      "summary": "89 points · 11 comments",
+      "summary": "272 points · 140 comments",
       "published": "2026-10-25T17:30:55+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Fuck Nuance (2015)",
-      "url": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
-      "summary": "10 points · 1 comments",
-      "published": "2026-10-25T17:26:08+00:00"
+      "source": "OSINT",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in Europe and within two hours of the initial exploitation they had successfully accessed password hashes and multi-factor",
+      "published": "2026-10-25T17:19:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
       "url": "https://lynchlab.net/llm-skin-cancer",
-      "summary": "85 points · 37 comments",
+      "summary": "295 points · 147 comments",
       "published": "2026-10-25T17:15:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Sabre Wulf Remastered",
-      "url": "https://gp-64.com/swr/",
-      "summary": "32 points · 4 comments",
-      "published": "2026-10-25T17:15:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Mathematician Reads the AI Future",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-      "summary": "30 points · 23 comments",
-      "published": "2026-10-25T16:31:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Jukebox-OS: Deterministic time-travel replay and ACID tool sandbox for AI agents",
-      "url": "https://github.com/socrates6969/jukebox-os",
-      "summary": "8 points · 0 comments",
-      "published": "2026-10-25T16:29:46+00:00"
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "url": "https://unicode.org/reports/tr39/",
+      "summary": "21 points · 1 comments",
+      "published": "2026-10-25T16:40:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
       "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "summary": "51 points · 72 comments",
+      "summary": "147 points · 231 comments",
       "published": "2026-10-25T16:28:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "JetBrains Thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "summary": "105 points · 66 comments",
+      "published": "2026-10-25T16:27:12+00:00"
     },
     {
       "source": "REDDIT",
@@ -104,13 +167,6 @@
       "published": "2026-10-25T15:49:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
-      "url": "https://bigwhalehunting.com/workforce/",
-      "summary": "131 points · 41 comments",
-      "published": "2026-10-25T15:05:39+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "PHP2Shell: Google and Mandiant Warn That PHP Servers May Remain Vulnerable After Installing Patches",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xf3i0w/php2shell_google_and_mandiant_warn_that_php/",
@@ -118,17 +174,10 @@
       "published": "2026-10-25T14:16:06+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How do you guys manage users & phishing sim repeat clickers?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xf3byx/how_do_you_guys_manage_users_phishing_sim_repeat/",
-      "summary": "We're using Knowbe4 and tbf, most of our users are decent. But I haven't quite worked out what the process should be for repeat clickers? submitted by /u/SuperTurtle222 [link] [comments]",
-      "published": "2026-10-25T14:09:15+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Active incident at Dreamhost forcing password reset",
       "url": "https://www.dreamhoststatus.com/",
-      "summary": "34 points · 11 comments",
+      "summary": "81 points · 31 comments",
       "published": "2026-10-25T13:09:16+00:00"
     },
     {
@@ -137,13 +186,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xezxb6/bye_bye_brotli_googles_compression_library_is_a/",
       "summary": "submitted by /u/klaasvanschelven [link] [comments]",
       "published": "2026-10-25T11:25:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "url": "https://github.com/ihhub/fheroes2",
-      "summary": "174 points · 59 comments",
-      "published": "2026-10-25T11:09:12+00:00"
     },
     {
       "source": "REDDIT",
@@ -158,13 +200,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xewwyw/log4j_on_x_i_own_a_relatively_new_2025_samsung_tv/",
       "summary": "submitted by /u/PROXYNAPSE [link] [comments]",
       "published": "2026-10-25T08:25:50+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Google's AI opt-in becomes the legal key to its richest ad data",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xevo3v/googles_ai_optin_becomes_the_legal_key_to_its/",
-      "summary": "submitted by /u/VectorWireAI [link] [comments]",
-      "published": "2026-10-25T07:10:39+00:00"
     },
     {
       "source": "OSINT",
@@ -182,30 +217,23 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "312 points · 112 comments",
-      "published": "2026-10-25T01:33:49+00:00"
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "summary": "24 points · 8 comments",
+      "published": "2026-10-25T01:30:13+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
-      "summary": "646 points · 620 comments",
+      "summary": "712 points · 655 comments",
       "published": "2026-10-24T21:47:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "summary": "526 points · 325 comments",
-      "published": "2026-10-24T19:06:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
       "url": "https://www.youtube.com/watch?v=46wxttvq9qY",
-      "summary": "18 points · 2 comments",
+      "summary": "34 points · 11 comments",
       "published": "2026-10-24T17:42:08+00:00"
     },
     {
@@ -231,24 +259,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "url": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow certain Google services, including services like Search or Gemini Apps, to access data from other Google services you use,",
-      "published": "2026-10-24T10:36:33+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
       "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
       "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
       "published": "2026-10-24T09:04:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Node2Shell EVOLVES to HTTP2Shell.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xe28vv/node2shell_evolves_to_http2shell/",
-      "summary": "submitted by /u/One_Paint8721 [link] [comments]",
-      "published": "2026-10-24T07:24:42+00:00"
     },
     {
       "source": "OSINT",
@@ -256,13 +270,6 @@
       "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
       "published": "2026-10-24T06:25:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Root shell on Samsung TV",
-      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "summary": "618 points · 496 comments",
-      "published": "2026-10-24T05:49:57+00:00"
     },
     {
       "source": "REDDIT",
@@ -412,20 +419,6 @@
       "published": "2026-10-23T12:48:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-      "url": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-      "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an unlikely risk.The project is not issuing an emergency fix for it. Instead, it recommends turning off a feature called",
-      "published": "2026-10-23T11:25:43+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-      "url": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-      "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth Sirrush) obtaining initial access to the target on July 16, 2025, via a spear-phishing email bearing a malware-laced attachment that led to the deployment of",
-      "published": "2026-10-23T11:11:23+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Physicists Trap a Single Antimatter Particle For a Month",
       "url": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -469,17 +462,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Bring Back the Cool Save File Screens",
-      "url": "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
-      "summary": "42 points · 10 comments",
-      "published": "2026-10-22T13:40:05+00:00"
+      "title": "The U.S. Power Grid",
+      "url": "https://nomagicpill.site/knowledge/powergrid.html",
+      "summary": "21 points · 6 comments",
+      "published": "2026-10-22T15:20:04+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "How Japanese Dried Bonito Is Made",
-      "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "summary": "159 points · 41 comments",
-      "published": "2026-10-22T11:31:03+00:00"
+      "title": "Recreate the Apollo Guidance Computer",
+      "url": "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
+      "summary": "30 points · 1 comments",
+      "published": "2026-10-22T14:21:17+00:00"
     },
     {
       "source": "OSINT",
