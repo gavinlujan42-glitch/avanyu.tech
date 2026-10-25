@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:08:18.328300+00:00",
+  "updated": "2026-10-25T15:01:05.882652+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,11 +27,74 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "PHP2Shell: Google and Mandiant Warn That PHP Servers May Remain Vulnerable After Installing Patches",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xf3i0w/php2shell_google_and_mandiant_warn_that_php/",
+      "summary": "Google cloud updated its PHP2Shell security advisory on October 23 with additional guidance from Mandiant Consulting. CVE-2026-109618 and CVE-2026-109619 Both are critical remote-code-execution vulnerabilities affecting PHP. The updated guidance emphasizes that installing patched packages does not necessarily mean the running web application is protected. Older PHP processes may remain active in memory until the relevant web-serving services are restarted. Researchers also recommend preserving v",
+      "published": "2026-10-25T14:16:06+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you guys manage users & phishing sim repeat clickers?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xf3byx/how_do_you_guys_manage_users_phishing_sim_repeat/",
+      "summary": "We're using Knowbe4 and tbf, most of our users are decent. But I haven't quite worked out what the process should be for repeat clickers? submitted by /u/SuperTurtle222 [link] [comments]",
+      "published": "2026-10-25T14:09:15+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
-      "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
-      "summary": "48 points · 34 comments",
-      "published": "2026-10-25T09:56:49+00:00"
+      "title": "R/open source bans all solo projects and projects using LLMs",
+      "url": "https://www.reddit.com/r/opensource/comments/1xelcuf/your_tokens_arent_valuable_no_more_ai",
+      "summary": "38 points · 13 comments",
+      "published": "2026-10-25T14:05:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+      "url": "https://github.com/winnin/farol",
+      "summary": "23 points · 14 comments",
+      "published": "2026-10-25T13:28:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US inequality is getting worse in ways you might not expect",
+      "url": "https://theconversation.com/us-inequality-is-getting-worse-in-ways-you-might-not-expect-294075",
+      "summary": "20 points · 19 comments",
+      "published": "2026-10-25T13:24:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Lego group reveals collaboration with Daft Punk",
+      "url": "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+      "summary": "35 points · 30 comments",
+      "published": "2026-10-25T12:48:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "url": "https://loeffelholz-codex.org/en/",
+      "summary": "74 points · 28 comments",
+      "published": "2026-10-25T12:37:54+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Bye Bye Brotli? Google's Compression Library Is a Security Mess",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xezxb6/bye_bye_brotli_googles_compression_library_is_a/",
+      "summary": "submitted by /u/klaasvanschelven [link] [comments]",
+      "published": "2026-10-25T11:25:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "url": "https://github.com/ihhub/fheroes2",
+      "summary": "94 points · 29 comments",
+      "published": "2026-10-25T11:09:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+      "summary": "179 points · 116 comments",
+      "published": "2026-10-25T10:42:01+00:00"
     },
     {
       "source": "REDDIT",
@@ -42,10 +105,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-      "summary": "178 points · 114 comments",
-      "published": "2026-10-25T09:00:40+00:00"
+      "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "summary": "66 points · 13 comments",
+      "published": "2026-10-25T09:51:17+00:00"
     },
     {
       "source": "REDDIT",
@@ -83,81 +146,39 @@
       "published": "2026-10-25T05:11:50+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "How abliterated models can get you pwned",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xerbtu/how_abliterated_models_can_get_you_pwned/",
-      "summary": "submitted by /u/ni5arga [link] [comments]",
-      "published": "2026-10-25T03:03:54+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "summary": "186 points · 63 comments",
+      "summary": "254 points · 84 comments",
       "published": "2026-10-25T01:33:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "summary": "82 points · 30 comments",
-      "published": "2026-10-24T23:33:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "summary": "375 points · 381 comments",
-      "published": "2026-10-24T23:11:54+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
-      "summary": "454 points · 403 comments",
+      "summary": "559 points · 511 comments",
       "published": "2026-10-24T21:47:31+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Small Programs and Languages",
       "url": "https://ratfactor.com/cards/pl-small",
-      "summary": "120 points · 14 comments",
+      "summary": "145 points · 20 comments",
       "published": "2026-10-24T21:44:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "summary": "78 points · 22 comments",
-      "published": "2026-10-24T21:42:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "SpeedCrunch 1.1",
       "url": "https://www.speedcrunch.org/",
-      "summary": "156 points · 29 comments",
+      "summary": "184 points · 37 comments",
       "published": "2026-10-24T19:19:43+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The Goose Programming Language",
       "url": "https://aardappel.github.io/goose/",
-      "summary": "424 points · 259 comments",
+      "summary": "485 points · 296 comments",
       "published": "2026-10-24T19:06:55+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xedl7r/autonomous_attack_agent_in_skynet_mode_hijacks/",
-      "summary": "submitted by /u/Much_Preparation_832 [link] [comments]",
-      "published": "2026-10-24T16:50:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "summary": "297 points · 82 comments",
-      "published": "2026-10-24T15:20:01+00:00"
     },
     {
       "source": "OSINT",
@@ -188,13 +209,6 @@
       "published": "2026-10-24T10:36:33+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "320 points · 255 comments",
-      "published": "2026-10-24T09:53:26+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
       "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
@@ -212,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
       "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "summary": "328 points · 157 comments",
+      "summary": "353 points · 171 comments",
       "published": "2026-10-24T08:06:39+00:00"
     },
     {
@@ -228,13 +242,6 @@
       "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
       "published": "2026-10-24T06:25:57+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Knicks reportedly duped employees with championship ring email that was actually a phishing test",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xdxvpe/knicks_reportedly_duped_employees_with/",
-      "summary": "submitted by /u/Blaaamo [link] [comments]",
-      "published": "2026-10-24T03:15:47+00:00"
     },
     {
       "source": "REDDIT",
@@ -420,16 +427,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Cannabis legalisation and cardiovascular hospitalisations in the USA",
-      "url": "https://bmjopen.bmj.com/content/16/10/e111050",
-      "summary": "8 points · 6 comments",
-      "published": "2026-10-23T00:23:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
       "url": "https://edjefferson.com/localwiki/",
-      "summary": "1600 points · 247 comments",
+      "summary": "1627 points · 251 comments",
       "published": "2026-10-22T23:01:18+00:00"
     },
     {
@@ -462,16 +462,23 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Rewriting a Commercial Engine in Jai",
-      "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
-      "summary": "27 points · 15 comments",
-      "published": "2026-10-22T12:50:43+00:00"
+      "title": "Reverse engineer of PC-98 Touhou games retires",
+      "url": "https://rec98.nmlgc.net/blog/2026-10-05",
+      "summary": "34 points · 27 comments",
+      "published": "2026-10-22T16:16:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Did it just build.. a clock?",
+      "url": "https://theclock.online/",
+      "summary": "13 points · 14 comments",
+      "published": "2026-10-22T11:45:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "How Japanese Dried Bonito Is Made",
       "url": "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
-      "summary": "50 points · 18 comments",
+      "summary": "115 points · 31 comments",
       "published": "2026-10-22T11:31:03+00:00"
     },
     {
@@ -480,13 +487,6 @@
       "url": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
       "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working exploits for the flaws, and that these critical bugs are already being exploited in the wild.",
       "published": "2026-10-21T15:26:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "summary": "85 points · 15 comments",
-      "published": "2026-10-20T20:45:52+00:00"
     },
     {
       "source": "OSINT",
