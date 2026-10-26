@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26T19:51:05.525154+00:00",
-  "item_count": 73,
+  "updated": "2026-10-26T23:41:44.072466+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,104 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Just Imagining a Workout Can Make You Stronger",
+      "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+      "summary": "22 points · 8 comments",
+      "published": "2026-10-26T23:08:27+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "PHP2Shell Security Flaws Now Successfully Exploited",
+      "url": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The critical PHP2Shell vulnerabilities (CVE-2026-109618 and CVE-2026-109619) have now been successfully exploited in the wild, just days after patches were released and initial exploitation attempts failed. BleepingComputer reports: The malicious activity was caught by Adel Karimi, detection and response lead at Perplexity, whose honeypots recorded evidence of confirmed remote code execution against an Apache mod_php installation running PHP 8.4.26. \"This is now confirmed RCE with usable memory ",
+      "published": "2026-10-26T23:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "PHP2Shell Sentinel — PHP CVE-2026-109618 & CVE-2026-109619 Mitigation Tool & WAF",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgbxp5/php2shell_sentinel_php_cve2026109618/",
+      "summary": "Here's a lighweight, background service & temporary shield for Linux and Windows. Prevents, detects, logs, and mitigates php2shell pre-auth RCE exploits across PHP 5.4–8.5 without requiring application code changes. submitted by /u/ogMasterPloKoon [link] [comments]",
+      "published": "2026-10-26T22:56:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "summary": "27 points · 6 comments",
+      "published": "2026-10-26T22:41:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+      "published": "2026-10-26T22:20:36+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Skydance Offers Buyouts, Gives 5-Day RTO Order",
+      "url": "https://slashdot.org/story/26/10/26/2128235/skydance-offers-buyouts-gives-5-day-rto-order?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Skydance, as it begins integrating Paramount and Warner Bros. Discovery, is offering voluntary buyouts to some employees and imposing a five-day-a-week office requirement. Layoffs are also expected as the company targets more than $6 billion in annualized cost savings within three years. Variety reports: The new program was outlined by chairman and CEO David Ellison and co-CEO Ynon Kreiz in a memo to staffers Monday. \"As we bring our teams together, we recognize that not everyone will see their ",
+      "published": "2026-10-26T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "summary": "96 points · 29 comments",
+      "published": "2026-10-26T21:59:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "summary": "219 points · 91 comments",
+      "published": "2026-10-26T21:35:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "CorridorKey 2.0",
+      "url": "https://corridorkey.com/",
+      "summary": "145 points · 46 comments",
+      "published": "2026-10-26T21:18:05+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+      "published": "2026-10-26T21:08:28+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What's the most useless security metric your company still tracks?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg99hd/whats_the_most_useless_security_metric_your/",
+      "summary": "Someone puts 2 million threats blocked this month on a dashboard and management thinks security is doing amazing. Half of that could be random scanners and bot traffic hitting the firewall Same thing with vulnerability tickets. Closing 500 tickets looks great on paper. Meanwhile the same critical systems have exceptions that keep getting renewed and nobody wants to touch them. You can have an entire dashboard full of green KPIs while the same security problems sit there for months At some point ",
+      "published": "2026-10-26T21:07:55+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Firefox Tries to Bring Back the Internet's 'Good Old Days'",
+      "url": "https://news.slashdot.org/story/26/10/26/1931208/firefox-tries-to-bring-back-the-internets-good-old-days?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Mozilla launched a new ad campaign for Firefox that leverages early internet nostalgia in a bid to win back users who switched browsers. \"Today's internet tracks you, interrupts you, and asks for permissions it already took. But it wasn't always that way, and it's not how it's supposed to work,\" writes Mozilla CEO Anthony Enzor-DeMeo in a post on LinkedIn. \"It's how a few companies decided it should work, because it pays.\" \"We're making a different bet at Firefox. Remember us? Well, we're still ",
+      "published": "2026-10-26T21:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+      "published": "2026-10-26T20:46:49+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Instagram Chases YouTube With a Push For Longer, Widescreen Videos",
+      "url": "https://entertainment.slashdot.org/story/26/10/26/1846258/instagram-chases-youtube-with-a-push-for-longer-widescreen-videos?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Instagram is testing a new longform, horizontal video format called \"Features\" as it pushes further into YouTube territory and expands its presence on TVs. The Verge reports: Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in a six-and-a-half-minute video (here's the widescreen version) with VP of product Tessa Lyons, saying that \"one of my concerns has been, how do we make sure that we keep Instagram not just about entertainment, but ",
+      "published": "2026-10-26T20:00:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Fortinet adds inline AI guardrails to FortiGate firewalls",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xg6ulf/fortinet_adds_inline_ai_guardrails_to_fortigate/",
@@ -41,13 +139,6 @@
       "published": "2026-10-26T19:26:20+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The EPA Is Quietly Killing Its Web Archive",
-      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-      "summary": "47 points · 1 comments",
-      "published": "2026-10-26T19:05:41+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xg5wo7/how_to_intercept_http3_traffic_quic_and_qpack/",
@@ -55,18 +146,11 @@
       "published": "2026-10-26T19:02:18+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Heap overflow in EDK2’s Brotli decompressor: the CVE-2021-28211 fix was applied to LZMA and never to Brotli",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg56p9/heap_overflow_in_edk2s_brotli_decompressor_the/",
-      "summary": "I found a heap buffer overflow in the Brotli glue code in EDK2 ( BrotliDecompress.c ). It has been there since 2017 and it’s still unfixed at HEAD. Some background. CVE-2021-28211 was a heap overflow in EDK2’s LZMA decompressor. GetInfo took a UINT64 decoded size and truncated it to UINT32 with no check, so the decoder could write past the buffer that had been allocated. The fix added a MAX_UINT32 check and bounded the output. The Brotli decompressor was added earlier with the same structure, an",
-      "published": "2026-10-26T18:35:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "US designates helium as a critical material",
-      "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-      "summary": "69 points · 26 comments",
-      "published": "2026-10-26T18:31:39+00:00"
+      "source": "SLASHDOT",
+      "title": "Walter Koenig, Chekov On Original 'Star Trek,' Dies At 90",
+      "url": "https://entertainment.slashdot.org/story/26/10/26/1828230/walter-koenig-chekov-on-original-star-trek-dies-at-90?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader schwit1 shares a report from CBS News: Walter Koenig, the actor who played Pavel Chekov in the original \"Star Trek\" series and several movies, has died, his rep confirmed to CBS News. He was 90. Koenig died Sunday night at his home in the North Hollywood neighborhood of Los Angeles, talent rep Zachery McGinnis said in a statement. He died surrounded by his daughter and niece, McGinnis said. In 'Star Trek,' Ensign Chekov was the sole member of the spaceship Enterprise bri",
+      "published": "2026-10-26T19:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -77,9 +161,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+      "title": "Type Server Protocol",
       "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "summary": "86 points · 37 comments",
+      "summary": "177 points · 130 comments",
       "published": "2026-10-26T18:14:49+00:00"
     },
     {
@@ -93,29 +177,22 @@
       "source": "HACKER NEWS",
       "title": "GPT-6.1 Terra",
       "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "summary": "258 points · 127 comments",
+      "summary": "464 points · 291 comments",
       "published": "2026-10-26T18:01:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Highway Thieves Are Spoofing GPS To Steal Millions In Data Center-Bound Cargo",
+      "url": "https://yro.slashdot.org/story/26/10/26/1759233/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Highway thieves have stolen more than $100 million in data center equipment since June, employing increasingly sophisticated tactics such as forging driver IDs and spoofing GPS tracking systems. NBC News (paywalled) reports that thieves have \"made away with more than $100 million in data center freight.\" Ars Technica reports: Here's how they said thieves get away with it: First, thieves hack freight brokers' accounts on shipment-listing websites and post fake shipments to lure real bids, then se",
+      "published": "2026-10-26T18:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Oldest GUI application that still runs on Windows 11",
       "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "summary": "72 points · 26 comments",
+      "summary": "241 points · 151 comments",
       "published": "2026-10-26T17:56:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-      "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-      "summary": "90 points · 41 comments",
-      "published": "2026-10-26T17:54:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-      "summary": "34 points · 12 comments",
-      "published": "2026-10-26T17:49:55+00:00"
     },
     {
       "source": "OSINT",
@@ -128,8 +205,15 @@
       "source": "HACKER NEWS",
       "title": "Nietzschian Debugger",
       "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-      "summary": "57 points · 25 comments",
+      "summary": "116 points · 37 comments",
       "published": "2026-10-26T17:25:30+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple Updates the iPad Mini With a Larger OLED Display",
+      "url": "https://apple.slashdot.org/story/26/10/26/1549226/apple-updates-the-ipad-mini-with-a-larger-oled-display?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple has unveiled a redesigned iPad Mini with a larger 8.5-inch OLED display, an A20 Pro chip, twice the peak brightness and slimmer bezels while maintaining roughly the same footprint. It starts at $699 ($200 more than its predecessor) and will be available November 6. The Verge reports: Despite having a slightly bigger display than the 8.3-inch screen on its predecessor, Apple says the device maintains the same small footprint thanks to bezels that are 24 percent slimmer. The iPad Mini is 5.4",
+      "published": "2026-10-26T17:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -144,6 +228,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
       "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
       "published": "2026-10-26T16:27:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "summary": "88 points · 21 comments",
+      "published": "2026-10-26T16:12:29+00:00"
     },
     {
       "source": "REDDIT",
@@ -170,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "CSS-Tricks has a new owner",
       "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "summary": "259 points · 59 comments",
+      "summary": "359 points · 82 comments",
       "published": "2026-10-26T15:51:23+00:00"
     },
     {
@@ -184,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "summary": "392 points · 55 comments",
+      "summary": "514 points · 76 comments",
       "published": "2026-10-26T15:11:59+00:00"
     },
     {
@@ -233,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "summary": "1248 points · 1209 comments",
+      "summary": "1430 points · 1396 comments",
       "published": "2026-10-26T13:04:50+00:00"
     },
     {
@@ -256,13 +347,6 @@
       "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
       "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view. SOC teams often first see the shape of an intrusion",
       "published": "2026-10-26T11:23:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pharo 14",
-      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
-      "summary": "189 points · 44 comments",
-      "published": "2026-10-26T11:15:50+00:00"
     },
     {
       "source": "OSINT",
@@ -321,20 +405,6 @@
       "published": "2026-10-26T03:21:56+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research",
-      "url": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"59% of maintainers report growing contribution volume since the rise of GenAI,\" according to a new study published by Linux Foundation Research. But 25% of their incoming pull requests \"are estimated to be low-quality, also known as 'AI slop'.\" And on large projects, 69% see growing contributions — and estimate that 31% are low-quality/AI slop. So what do these results show us? \"Generative AI is fundamentally changing how people participate in open source,\" says the head of Open Source Ecosyste",
-      "published": "2026-10-26T01:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Systemd Merges Support for Rust Programs",
-      "url": "https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C,\" reports Phoronix: Core systemd code like the systemd library doesn't yet support Rust code, but for the various systemd programs / leaf components there is now support for using Rust... The new systemd-keyring-setup utility in Rust is used for provisioning keyrings and enrolling X.509 certificates into the kernel's dm-verity / fs-verity / BPF keyrings dur",
-      "published": "2026-10-26T00:08:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xfhsig/mentorship_monday_post_all_career_education_and/",
@@ -342,46 +412,18 @@
       "published": "2026-10-26T00:00:09+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
-      "url": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "From the student newspaper at the University of California, Berkeley: Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, he felt there was \"no point\" in paying readers to grade for correctness in homework, as AI use is now unavoidable. Borcherds revealed this in a sit-down interview Tuesday, following OpenAI's announcement that AI agents apparently solved one of",
-      "published": "2026-10-25T23:08:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "SIMD-accelerated computer vision on a $2 microcontroller",
       "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
-      "summary": "125 points · 36 comments",
+      "summary": "162 points · 51 comments",
       "published": "2026-10-25T22:29:47+00:00"
     },
     {
-      "source": "REDDIT",
+      "source": "OSINT",
       "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xffetk/unpatched_tailscale_ssh_flaws_could_let_a_hacked/",
-      "summary": "submitted by /u/One_Paint8721 [link] [comments]",
-      "published": "2026-10-25T22:13:38+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "A Newly Proposed Linux Filesystem Can Fix Corrupted Data",
-      "url": "https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "BeamFS creator Aurelien Desbrieres is not calling for a merge, but is requesting feedback on an 18-patch proposal that takes the place of FTRFS, an earlier filesystem he proposed in April. The Linux/Open Source blog It's FOSS reports: Filesystems that can repair damage, like Btrfs and ZFS, usually do it by falling back on a spare copy of the data. BeamFS skips that and stores Reed-Solomon error-correcting codes inside every block. Every read gets checked against those codes, and small amounts of",
-      "published": "2026-10-25T21:56:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
-      "url": "https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Despite massive investments and widespread hype around AI , the technology has delivered zero financial payoff to corporate America outside of tech,\" writes the chief economist at U.S. asset management firm Apollo Global. He adds that \"there are still no signs of AI boosting productivity growth... [M]ainstream corporate America is pulling back and starting to view token spending not as a source of growth but as a cost center that weighs on margins.\" VC-backed companies are spending more and mor",
-      "published": "2026-10-25T20:42:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Says Gmail and Photos Data Shared with AI Search Could Be Used for Targeted Ads",
-      "url": "https://tech.slashdot.org/story/26/10/25/1528213/google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-targeted-ads?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The blog Android Authority offers this TLDR: Google updated its privacy policy to clarify that it could use information shared through Personal Intelligence to personalize ads. Gmail, Drive, and Photos content isn't used for targeted ads by default, but connecting them to eligible Google services could change that. Digital Trends explains: Google has long promised that your Gmail, Drive, and Google Photos content never helps it personalize ads. However, since October 16, 2026, its privacy policy",
-      "published": "2026-10-25T18:34:00+00:00"
+      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
+      "published": "2026-10-25T17:44:09+00:00"
     },
     {
       "source": "OSINT",
@@ -389,13 +431,6 @@
       "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
       "published": "2026-10-25T17:19:46+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Free Software Foundation Hosts Free 'Encryptfest' Event on Sunday",
-      "url": "https://news.slashdot.org/story/26/10/25/0526257/free-software-foundation-hosts-free-encryptfest-event-on-sunday?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Free Software Foundation's \"EncryptFest\" today covers both encryption and privacy. The free two-hour event runs from 13:00-15:00 Eastern Daylight Time (17:00-19:00 UTC), and includes: — A discussion on \"bulk surveillance, and how encryption protects personal privacy\" — A short video from renowned cryptographer Bruce Schneier. — A discussion with Henry Fisher, the founder of Techlore and a digital rights activist — A hands-on workshop on how you can encrypt your email using the FSF's Email Se",
-      "published": "2026-10-25T16:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -422,50 +457,22 @@
       "source": "HACKER NEWS",
       "title": "Birdwatching rewires the brain and slows cognitive decline",
       "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "summary": "437 points · 178 comments",
+      "summary": "492 points · 193 comments",
       "published": "2026-10-23T22:04:55+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-      "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]",
-      "published": "2026-10-23T20:55:05+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-      "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-      "published": "2026-10-23T18:54:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-      "published": "2026-10-23T17:05:07+00:00"
+      "source": "HACKER NEWS",
+      "title": "Native Prometheus Integration with Nginx",
+      "url": "https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/",
+      "summary": "23 points · 6 comments",
+      "published": "2026-10-23T18:38:13+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
-      "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
-      "summary": "7 points · 0 comments",
-      "published": "2026-10-23T16:41:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Diamond Transistor",
-      "url": "https://www.df.com/diamond-transistor",
-      "summary": "74 points · 38 comments",
-      "published": "2026-10-23T14:20:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "summary": "229 points · 117 comments",
-      "published": "2026-10-22T19:52:50+00:00"
+      "title": "A Printer Printing onto Paper",
+      "url": "https://twitter.com/macrofying/status/2112904628509528219",
+      "summary": "23 points · 6 comments",
+      "published": "2026-10-23T05:01:30+00:00"
     },
     {
       "source": "OSINT",
