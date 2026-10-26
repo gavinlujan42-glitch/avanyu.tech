@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T06:51:11.379494+00:00",
+  "updated": "2026-10-26T14:04:49.647625+00:00",
   "item_count": 73,
   "sources": [
     "CISA",
@@ -27,38 +27,150 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "What do you recommend if you think you have a virus but aren't sure?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfncdw/what_do_you_recommend_if_you_think_you_have_a/",
-      "summary": "I used the Windows scanner but I'm not convinced, I've tried learning how to look for viruses but from what comes up it's better to format it, I want to avoid doing that since like I said I'm not sure if I have a virus or not and I want to learn at least a few things about this topic, whether it's tips on how to avoid installing things with viruses, how to scan my PC, if I want to transfer certain things to a flash drive/hard drive what could be infected and what not and therefore would infect m",
-      "published": "2026-10-26T04:33:31+00:00"
+      "source": "OSINT",
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+      "published": "2026-10-26T13:56:44+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
-      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
-      "summary": "39 points · 18 comments",
-      "published": "2026-10-26T04:11:40+00:00"
+      "title": "OLED iPad Mini",
+      "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
+      "summary": "8 points · 1 comments",
+      "published": "2026-10-26T13:47:33+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Node2Shell: Brotli Decoder RCE in Node.js (CVE-2026-111497)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfx6mx/node2shell_brotli_decoder_rce_in_nodejs/",
+      "summary": "submitted by /u/ni5arga [link] [comments]",
+      "published": "2026-10-26T13:42:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The new iPad mini",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "summary": "13 points · 3 comments",
+      "published": "2026-10-26T13:13:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "summary": "357 points · 296 comments",
+      "published": "2026-10-26T13:04:50+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
+      "summary": "27 points · 2 comments",
+      "published": "2026-10-26T12:59:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "url": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to compile a module they control, and one of the flaws affects only ARM64 systems. Fixed versions were released on",
+      "published": "2026-10-26T11:52:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems that can tie all events together into one coordinated view. SOC teams often first see the shape of an intrusion",
+      "published": "2026-10-26T11:23:56+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Can cryptographic execution timing add useful information to latency diagnosis?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfu39k/can_cryptographic_execution_timing_add_useful/",
+      "summary": "I'm developing V-DAP , an experimental Rust engine that measures cryptographic execution timing. I'm trying to determine whether those measurements provide useful diagnostic information beyond conventional observability tools. The practical problem I'm investigating is this: when a service experiences latency spikes, can measurements of cryptographic execution help distinguish between possible sources of delay, or do standard metrics, tracing and profiling already provide the same information? M",
+      "published": "2026-10-26T11:22:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tasks as Code: Move Your Tickets into the Repository",
+      "url": "https://typemill.net/knowledge-hub/tasks-as-code",
+      "summary": "34 points · 29 comments",
+      "published": "2026-10-26T11:15:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Websites Should Be Printable",
+      "url": "https://brennenputh.me/blog/printable-websites/",
+      "summary": "104 points · 97 comments",
+      "published": "2026-10-26T10:32:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "url": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+      "published": "2026-10-26T10:26:52+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "url": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who run WeChat inside the kit makers' own container app. The kit's Telegram part matches Baohuo, a backdoor that Doctor",
+      "published": "2026-10-26T09:54:02+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+      "published": "2026-10-26T09:19:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "url": "https://blocks.manifold3d.ch/",
+      "summary": "306 points · 138 comments",
+      "published": "2026-10-26T08:46:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
+      "published": "2026-10-26T08:35:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
+      "published": "2026-10-26T07:49:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
+      "published": "2026-10-26T06:03:48+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Behind the scenes at the NeXT Computer office",
       "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "summary": "62 points · 28 comments",
+      "summary": "177 points · 96 comments",
       "published": "2026-10-26T03:31:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
       "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "summary": "72 points · 13 comments",
+      "summary": "189 points · 70 comments",
       "published": "2026-10-26T03:29:05+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: TitleArt – Make text like it's 1997",
       "url": "https://titleart.dvy.io/",
-      "summary": "107 points · 18 comments",
+      "summary": "309 points · 54 comments",
       "published": "2026-10-26T03:23:57+00:00"
     },
     {
@@ -67,27 +179,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xfm0eq/anthropics_claude_ai_bypassed_georgia_vote_data/",
       "summary": "submitted by /u/Superb-Molasses-9363 [link] [comments]",
       "published": "2026-10-26T03:21:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
-      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
-      "summary": "31 points · 11 comments",
-      "published": "2026-10-26T03:12:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "IBM CEO says open weight models are now good and cheap on-prem",
-      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-      "summary": "154 points · 90 comments",
-      "published": "2026-10-26T01:47:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Lula wins election after final votes tallied",
-      "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-      "summary": "336 points · 314 comments",
-      "published": "2026-10-26T00:31:07+00:00"
     },
     {
       "source": "REDDIT",
@@ -100,15 +191,8 @@
       "source": "HACKER NEWS",
       "title": "Attention Is Not What You Need (2025)",
       "url": "https://arxiv.org/abs/2512.19428",
-      "summary": "75 points · 27 comments",
+      "summary": "149 points · 53 comments",
       "published": "2026-10-25T23:52:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "F-Zero X on Nintendo 3DS",
-      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
-      "summary": "98 points · 48 comments",
-      "published": "2026-10-25T23:27:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -125,32 +209,11 @@
       "published": "2026-10-25T20:45:41+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The State of Context Engineering",
-      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-      "summary": "145 points · 38 comments",
-      "published": "2026-10-25T20:32:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What goes into making an animated film?",
-      "url": "https://www.disneyanimation.com/process/",
-      "summary": "127 points · 53 comments",
-      "published": "2026-10-25T20:27:09+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xfc4xl/google_says_gmail_and_photos_data_shared_with_ai/",
       "summary": "Basically if someone somehow gets your ad data, they can theoretically have a good idea of what you email your friends and family about. submitted by /u/East-Experience2862 [link] [comments]",
       "published": "2026-10-25T19:58:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why I Am a Programmer",
-      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
-      "summary": "190 points · 59 comments",
-      "published": "2026-10-25T19:11:31+00:00"
     },
     {
       "source": "REDDIT",
@@ -163,22 +226,8 @@
       "source": "HACKER NEWS",
       "title": "Dolly Parton's Imagination Library",
       "url": "https://imaginationlibrary.com/",
-      "summary": "493 points · 88 comments",
+      "summary": "596 points · 99 comments",
       "published": "2026-10-25T18:23:54+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "AI Agent Containment Fails at Every Stack Layer, From Hypervisor to IAM",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xf9jss/ai_agent_containment_fails_at_every_stack_layer/",
-      "summary": "submitted by /u/VectorWireAI [link] [comments]",
-      "published": "2026-10-25T18:15:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Learning to Be Me (1990) [pdf]",
-      "url": "https://gwern.net/doc/fiction/science-fiction/1995-egan.pdf",
-      "summary": "15 points · 3 comments",
-      "published": "2026-10-25T17:43:20+00:00"
     },
     {
       "source": "OSINT",
@@ -226,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: A Truly Modular Keyboard",
       "url": "https://github.com/notaroomba/keybytes",
-      "summary": "86 points · 21 comments",
+      "summary": "213 points · 69 comments",
       "published": "2026-10-25T03:47:56+00:00"
     },
     {
@@ -237,17 +286,10 @@
       "published": "2026-10-24T14:17:32+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Curse of Soldered RAM",
-      "url": "https://blog.hardill.me.uk/2026/10/24/the-curse-of-soldered-ram/",
-      "summary": "20 points · 9 comments",
-      "published": "2026-10-24T14:09:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
       "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory, potentially",
+      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory,",
       "published": "2026-10-24T11:09:29+00:00"
     },
     {
@@ -258,25 +300,18 @@
       "published": "2026-10-24T11:03:33+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "url": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn, an abandoned copy of Popcorn Time, a free app that streamed pirated films and TV over BitTorrent. Popcorn Time was",
-      "published": "2026-10-24T09:04:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "url": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the wild. The critical-severity vulnerabilities are listed below - CVE-2026-110447 (CVSS score: 9.2) - An operating",
-      "published": "2026-10-24T06:25:57+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Singapore Boffins Weave a GUI Into Fabric",
       "url": "https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Researchers at the National University of Singapore have developed a machine-washable electronic fabric that can turn clothing into an interactive graphical user interface. The prototype reportedly survived 50 gentle machine washes and 1,000 bending cycles, though it still relies on external batteries and controllers. The Register reports: The development could lead - at some point - to a \"future in which clothing functions as a pervasive, multimodal human-computer interface,\" according to the s",
       "published": "2026-10-23T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "summary": "213 points · 85 comments",
+      "published": "2026-10-23T22:04:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -321,32 +356,11 @@
       "published": "2026-10-23T18:54:41+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "url": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to be orchestrated by a China-linked state-sponsored hacking group known as APT41, Kaspersky said in a technical report",
-      "published": "2026-10-23T18:50:13+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Left Alone With Nothing To Do, AI Agents Started Playing",
       "url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from TechCrunch: AI agents left to explore a virtual island without a specific task began inventing challenges of their own. MIT researchers say the behavior bears the hallmarks of play. The researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, alone on a simulated desert island for 30 hours. They describe the experiment in a paper posted on arXiv, a site where researchers share studies before peer review. Afterward, they gave the agents sp",
       "published": "2026-10-23T18:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "url": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could corrupt memory while Ruby compiles it, potentially leading to code execution on its own servers. Ruby says any",
-      "published": "2026-10-23T17:54:08+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-      "url": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-      "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain Framework\" referred to as Phantom. The threat actor is assessed to be Russian-speaking and functions both as an intrusion and data-extortion operator, as well as an",
-      "published": "2026-10-23T17:50:47+00:00"
     },
     {
       "source": "OSINT",
@@ -391,18 +405,25 @@
       "published": "2026-10-23T15:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Colorfigures",
+      "url": "https://april-zhu.com/colorfigures",
+      "summary": "15 points · 3 comments",
+      "published": "2026-10-23T14:22:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Growing Trees",
+      "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
+      "summary": "131 points · 18 comments",
+      "published": "2026-10-23T14:07:42+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "You gave your AI agent access, but who is giving it orders?",
       "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
       "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
       "published": "2026-10-23T14:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
-      "url": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. \"Artifacts from this investigation also indicate that operators in this campaign have obtained access to numerous organizations worldwide, and have attempted to further compromise some victims,",
-      "published": "2026-10-23T13:50:56+00:00"
     },
     {
       "source": "OSINT",
@@ -433,38 +454,17 @@
       "published": "2026-10-23T03:30:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Railway warns devs to rotate secrets after potential breach",
-      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
-      "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
-      "published": "2026-10-22T21:25:31+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Iron Age salt-mining complex found beneath Hallstatt in Austria",
-      "url": "https://archaeologymag.com/2026/09/iron-age-salt-mining-complex-beneath-hallstatt/",
-      "summary": "44 points · 7 comments",
-      "published": "2026-10-22T21:00:14+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
-      "published": "2026-10-22T20:22:45+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
-      "published": "2026-10-22T19:12:51+00:00"
+      "title": "One of the Greatest Inventions in the History of Human Transport",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "summary": "41 points · 10 comments",
+      "published": "2026-10-22T19:52:50+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Overgrown, when plants invade your abandoned tabs",
       "url": "https://charliegerard.dev/blog/overgrown-extension/",
-      "summary": "235 points · 74 comments",
+      "summary": "351 points · 120 comments",
       "published": "2026-10-22T15:52:21+00:00"
     },
     {
