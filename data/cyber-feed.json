@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T14:04:49.647625+00:00",
+  "updated": "2026-10-26T19:51:05.525154+00:00",
   "item_count": 73,
   "sources": [
     "CISA",
@@ -27,18 +27,200 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Fortinet adds inline AI guardrails to FortiGate firewalls",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg6ulf/fortinet_adds_inline_ai_guardrails_to_fortigate/",
+      "summary": "Fortinet announced the FortiGuard Inline AI Security Service for FortiGate customers. The company says it inspects prompts, model responses, MCP tool calls and agent actions, and can block or redact sensitive data. Its FortiAIGate product page says the gateway can also set model permissions, budgets and rate limits. There are two deployment paths. The new service is cloud-delivered through existing FortiGate infrastructure, while FortiAIGate can be self-hosted on Kubernetes with NVIDIA GPUs for ",
+      "published": "2026-10-26T19:36:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "DreamHost forces password resets in ongoing \"incident\"",
+      "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+      "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+      "published": "2026-10-26T19:26:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The EPA Is Quietly Killing Its Web Archive",
+      "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+      "summary": "47 points · 1 comments",
+      "published": "2026-10-26T19:05:41+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How to Intercept HTTP/3 Traffic (QUIC and QPACK Explained)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg5wo7/how_to_intercept_http3_traffic_quic_and_qpack/",
+      "summary": "submitted by /u/Ano_F [link] [comments]",
+      "published": "2026-10-26T19:02:18+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Heap overflow in EDK2’s Brotli decompressor: the CVE-2021-28211 fix was applied to LZMA and never to Brotli",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg56p9/heap_overflow_in_edk2s_brotli_decompressor_the/",
+      "summary": "I found a heap buffer overflow in the Brotli glue code in EDK2 ( BrotliDecompress.c ). It has been there since 2017 and it’s still unfixed at HEAD. Some background. CVE-2021-28211 was a heap overflow in EDK2’s LZMA decompressor. GetInfo took a UINT64 decoded size and truncated it to UINT32 with no check, so the decoder could write past the buffer that had been allocated. The fix added a MAX_UINT32 check and bounded the output. The Brotli decompressor was added earlier with the same structure, an",
+      "published": "2026-10-26T18:35:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US designates helium as a critical material",
+      "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+      "summary": "69 points · 26 comments",
+      "published": "2026-10-26T18:31:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The Gentlemen: A closer look at a not-so-gentle ransomware-as-a-service operation",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg4t3k/the_gentlemen_a_closer_look_at_a_notsogentle/",
+      "summary": "Our Threat Research Unit published a breakdown of “The Gentlemen” - a Russian-speaking ransomware-as-a-service group that emerged in mid-2025, reportedly after affiliates split off from established groups like LockBit and Qilin. A few things that stood out from the research: They’re offering affiliates up to 90% of ransom revenue - aggressive even by RaaS standards Claimed 800+ victims across the US and Europe, making them one of the top RaaS groups this year Cross-platform ransomware variants t",
+      "published": "2026-10-26T18:20:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "summary": "86 points · 37 comments",
+      "published": "2026-10-26T18:14:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. \"When you",
+      "published": "2026-10-26T18:12:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "summary": "258 points · 127 comments",
+      "published": "2026-10-26T18:01:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Oldest GUI application that still runs on Windows 11",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "summary": "72 points · 26 comments",
+      "published": "2026-10-26T17:56:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+      "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+      "summary": "90 points · 41 comments",
+      "published": "2026-10-26T17:54:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
+      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
+      "summary": "34 points · 12 comments",
+      "published": "2026-10-26T17:49:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but",
+      "published": "2026-10-26T17:45:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nietzschian Debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "summary": "57 points · 25 comments",
+      "published": "2026-10-26T17:25:30+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Microsoft announces a massive 25% voluntary buyout layoffs program. This is an absolute bombshell in the tech sector",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg2ez2/microsoft_announces_a_massive_25_voluntary_buyout/",
+      "summary": "This is not another 10k layoffs at Amazon which is like not even 3% of its employee This is not 5% of Netflix This is 25% of all employees at Microsoft. Absolute bombshell. submitted by /u/Exact-Advantage-3190 [link] [comments]",
+      "published": "2026-10-26T16:54:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+      "published": "2026-10-26T16:27:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "SBI (one of the big banks in india) had a free pass to their database (CVE-2014-0398)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg11ih/sbi_one_of_the_big_banks_in_india_had_a_free_pass/",
+      "summary": "I Found a vulnerability on an SBI subdomain today , here's what could've gone wrong: Discovered Oracle Discoverer 12.1.12 - an end of life reporting tool - publicly exposed on SBI's data warehouse infrastructure. No authentication. Anyone could access it Oracle Discoverer connects directly to databases . On a bank's data warehouse this means potential unauthenticated access to - customer acc data , transaction records , internal financial reporting structure CVE-2014-0398 documents exactly this ",
+      "published": "2026-10-26T16:05:24+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Offers Mass Buyouts For Roughly a Quarter of Its Workforce",
+      "url": "https://slashdot.org/story/26/10/26/1544243/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The Seattle Times: Microsoft is offering buyouts to about 60,000 employees, or roughly a quarter of its workforce, as the company tries to control its head count while avoiding layoffs. The Redmond-based tech giant announced Monday morning that eligible employees at the vice president level and below in the U.S., Canada, India and the United Kingdom would receive a \"voluntary exit offer\" of a standard severance package, based on their location. In a memo ",
+      "published": "2026-10-26T16:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT",
+      "published": "2026-10-26T15:52:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "CSS-Tricks has a new owner",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "summary": "259 points · 59 comments",
+      "published": "2026-10-26T15:51:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+      "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+      "published": "2026-10-26T15:38:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "summary": "392 points · 55 comments",
+      "published": "2026-10-26T15:11:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Files For IPO",
+      "url": "https://slashdot.org/story/26/10/26/156218/anthropic-files-for-ipo?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Anthropic has filed to go public on the Nasdaq under the ticker ANT, setting the stage for a potentially record-setting IPO that could value the Claude developer at more than $2 trillion. Alongside the extraordinary cost of its AI expansion, Anthropic warned that it \"may not generate sufficient revenue to achieve or sustain profitability in the future.\" \"While we have experienced significant revenue growth in recent periods, our business is highly capital intensive,\" the company said. \"Our reven",
+      "published": "2026-10-26T15:07:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfywmh/php2shell_security_flaws_now_sucessfully/",
+      "summary": "There is an important development in the PHP2Shell story we've been discussing. Until recently, researchers had observed scanning and exploitation attempts, but convincing evidence of successful attacks was limited. That changed today. Security researcher Adel Karimi reported evidence from honeypots showing successful exploitation against an Apache installation running PHP 8.4.26. The evidence included memory disclosure followed by remote command execution. Security researcher Marcus Hutchins in",
+      "published": "2026-10-26T14:48:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And that's not even the full story. A leaked key led to a software supply-chain",
+      "published": "2026-10-26T14:06:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+      "published": "2026-10-26T14:00:10+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
       "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
       "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
       "published": "2026-10-26T13:56:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OLED iPad Mini",
-      "url": "https://www.apple.com/shop/buy-ipad/ipad-mini",
-      "summary": "8 points · 1 comments",
-      "published": "2026-10-26T13:47:33+00:00"
     },
     {
       "source": "REDDIT",
@@ -49,24 +231,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The new iPad mini",
-      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "summary": "13 points · 3 comments",
-      "published": "2026-10-26T13:13:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Anthropic S-1",
       "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "summary": "357 points · 296 comments",
+      "summary": "1248 points · 1209 comments",
       "published": "2026-10-26T13:04:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Fixing Tool-Call Accuracy in vLLM",
-      "url": "https://www.ubicloud.com/blog/fixing-tool-call-accuracy-in-vllm",
-      "summary": "27 points · 2 comments",
-      "published": "2026-10-26T12:59:48+00:00"
     },
     {
       "source": "OSINT",
@@ -76,6 +244,13 @@
       "published": "2026-10-26T11:52:41+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Reddit's Largest Open Source Community Dumbfounded By AI Ban: 'I Guess Linux Is No Longer Allowed?'",
+      "url": "https://tech.slashdot.org/story/26/10/26/0540245/reddits-largest-open-source-community-dumbfounded-by-ai-ban-i-guess-linux-is-no-longer-allowed?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Kotaku reports: r/opensource, Reddit's primary \"subreddit for everything open source related,\" has banned all AI-assisted and AI-related projects.... As reported by The Verge, the subreddit's October 24 post, titled \"Your tokens aren't valuable: No more AI,\" features four new main rules: all projects must now be at least \"1 year old,\" have \"multiple contributors,\" be posted by someone who must \"speak English,\" and cannot be \"made by\" or \"intended for\" AI... [T]he ban on AI is simple; as the subr",
+      "published": "2026-10-26T11:34:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
       "url": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
@@ -83,25 +258,11 @@
       "published": "2026-10-26T11:23:56+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Can cryptographic execution timing add useful information to latency diagnosis?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfu39k/can_cryptographic_execution_timing_add_useful/",
-      "summary": "I'm developing V-DAP , an experimental Rust engine that measures cryptographic execution timing. I'm trying to determine whether those measurements provide useful diagnostic information beyond conventional observability tools. The practical problem I'm investigating is this: when a service experiences latency spikes, can measurements of cryptographic execution help distinguish between possible sources of delay, or do standard metrics, tracing and profiling already provide the same information? M",
-      "published": "2026-10-26T11:22:52+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Tasks as Code: Move Your Tickets into the Repository",
-      "url": "https://typemill.net/knowledge-hub/tasks-as-code",
-      "summary": "34 points · 29 comments",
-      "published": "2026-10-26T11:15:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Websites Should Be Printable",
-      "url": "https://brennenputh.me/blog/printable-websites/",
-      "summary": "104 points · 97 comments",
-      "published": "2026-10-26T10:32:14+00:00"
+      "title": "Pharo 14",
+      "url": "https://pharo.org/news/2026-10-26-Pharo14Release.html",
+      "summary": "189 points · 44 comments",
+      "published": "2026-10-26T11:15:50+00:00"
     },
     {
       "source": "OSINT",
@@ -119,20 +280,6 @@
     },
     {
       "source": "OSINT",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "url": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-      "published": "2026-10-26T09:19:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "url": "https://blocks.manifold3d.ch/",
-      "summary": "306 points · 138 comments",
-      "published": "2026-10-26T08:46:09+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
       "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
       "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed the activity between July 14 and September 22, 2026, said it detected 497 successful Microsoft 365 sign-in events across",
@@ -146,6 +293,13 @@
       "published": "2026-10-26T07:49:46+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "Amazon Deforestation Fell To Lowest Level Since 1988 - And Silva Wins Reelection",
+      "url": "https://news.slashdot.org/story/26/10/26/054248/amazon-deforestation-fell-to-lowest-level-since-1988---and-silva-wins-reelection?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Brazil's 80-year-old president Luiz Inácio Lula da Silva was re-elected Sunday, reports the Guardian, \"defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.\" And the results could impact the climate, suggests the Associated Press, since under da Silva the annual deforestation rate in the Amazon fell to its lowest level since records began in 1988: Official satellite data showed the rainforest lost 3,335 square kilometers (1,300 square miles) from Aug. 2025",
+      "published": "2026-10-26T07:34:00+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
       "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
@@ -153,25 +307,11 @@
       "published": "2026-10-26T06:03:48+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Behind the scenes at the NeXT Computer office",
-      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
-      "summary": "177 points · 96 comments",
-      "published": "2026-10-26T03:31:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "PaperPilot – Zero-Cloud, Pure-Rust PDF Engine with WASM and MCP",
-      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
-      "summary": "189 points · 70 comments",
-      "published": "2026-10-26T03:29:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: TitleArt – Make text like it's 1997",
-      "url": "https://titleart.dvy.io/",
-      "summary": "309 points · 54 comments",
-      "published": "2026-10-26T03:23:57+00:00"
+      "source": "SLASHDOT",
+      "title": "Microsoft Announces Open Source Tool Evaluating Your Software's Optimization For AI Coding Agents",
+      "url": "https://news.slashdot.org/story/26/10/26/0420240/microsoft-announces-open-source-tool-evaluating-your-softwares-optimization-for-ai-coding-agents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The problem? Understanding how AI coding agents interact with the software you build. \"Whether you're maintaining an SDK, building a command-line interface, or publishing an MCP server or skills... you need to understand whether agents can discover and use what you ship, and what your team can change.\" Results can vary, and configurations keep changing, with behaviors influenced by everything from custom instructions and MCP servers to skills and plugins. So after a year of development Microsoft",
+      "published": "2026-10-26T04:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -181,6 +321,20 @@
       "published": "2026-10-26T03:21:56+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "25% of Incoming Pull Requests May Be AI Slop, Finds Study From Linux Foundation Research",
+      "url": "https://news.slashdot.org/story/26/10/26/0131241/25-of-incoming-pull-requests-may-be-ai-slop-finds-study-from-linux-foundation-research?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"59% of maintainers report growing contribution volume since the rise of GenAI,\" according to a new study published by Linux Foundation Research. But 25% of their incoming pull requests \"are estimated to be low-quality, also known as 'AI slop'.\" And on large projects, 69% see growing contributions — and estimate that 31% are low-quality/AI slop. So what do these results show us? \"Generative AI is fundamentally changing how people participate in open source,\" says the head of Open Source Ecosyste",
+      "published": "2026-10-26T01:34:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Systemd Merges Support for Rust Programs",
+      "url": "https://linux.slashdot.org/story/26/10/25/2227243/systemd-merges-support-for-rust-programs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C,\" reports Phoronix: Core systemd code like the systemd library doesn't yet support Rust code, but for the various systemd programs / leaf components there is now support for using Rust... The new systemd-keyring-setup utility in Rust is used for provisioning keyrings and enrolling X.509 certificates into the kernel's dm-verity / fs-verity / BPF keyrings dur",
+      "published": "2026-10-26T00:08:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xfhsig/mentorship_monday_post_all_career_education_and/",
@@ -188,11 +342,18 @@
       "published": "2026-10-26T00:00:09+00:00"
     },
     {
+      "source": "SLASHDOT",
+      "title": "AI Use Convinces California Math Professor There's 'No Point' Grading Homework",
+      "url": "https://news.slashdot.org/story/26/10/25/235241/ai-use-convinces-california-math-professor-theres-no-point-grading-homework?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "From the student newspaper at the University of California, Berkeley: Richard Borcherds, a UC Berkeley professor and Fields medalist, no longer grades his students' homework. After seeing how many of his students used AI to consistently receive top scores, he felt there was \"no point\" in paying readers to grade for correctness in homework, as AI use is now unavoidable. Borcherds revealed this in a sit-down interview Tuesday, following OpenAI's announcement that AI agents apparently solved one of",
+      "published": "2026-10-25T23:08:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Attention Is Not What You Need (2025)",
-      "url": "https://arxiv.org/abs/2512.19428",
-      "summary": "149 points · 53 comments",
-      "published": "2026-10-25T23:52:05+00:00"
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "url": "https://shraiwi.com/blog/simd-fast-esp32s3/",
+      "summary": "125 points · 36 comments",
+      "published": "2026-10-25T22:29:47+00:00"
     },
     {
       "source": "REDDIT",
@@ -202,32 +363,25 @@
       "published": "2026-10-25T22:13:38+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "From a decoy log: one scanner posed as 25 different AI and search bots in 12 seconds while hunting for .env files",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfdc19/from_a_decoy_log_one_scanner_posed_as_25/",
-      "summary": "I run decoy files on a few small sites and log what touches them. On Oct 25 one Google Cloud address made 66 requests in 12 seconds. Almost every request used a different bot name: GPTBot, ClaudeBot, GrokBot, DeepSeekBot, PerplexityBot, OAI-SearchBot, Googlebot, bingbot, CCBot and 16 more. Each name asked for a different .env path (/ai/.env, /llm/.env, /agents/.env, /chatbot/.env and so on). My guess is it is trying to slip past sites that allowlist AI crawlers by user agent so they show up in A",
-      "published": "2026-10-25T20:45:41+00:00"
+      "source": "SLASHDOT",
+      "title": "A Newly Proposed Linux Filesystem Can Fix Corrupted Data",
+      "url": "https://linux.slashdot.org/story/26/10/25/2153202/a-newly-proposed-linux-filesystem-can-fix-corrupted-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BeamFS creator Aurelien Desbrieres is not calling for a merge, but is requesting feedback on an 18-patch proposal that takes the place of FTRFS, an earlier filesystem he proposed in April. The Linux/Open Source blog It's FOSS reports: Filesystems that can repair damage, like Btrfs and ZFS, usually do it by falling back on a spare copy of the data. BeamFS skips that and stores Reed-Solomon error-correcting codes inside every block. Every read gets checked against those codes, and small amounts of",
+      "published": "2026-10-25T21:56:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfc4xl/google_says_gmail_and_photos_data_shared_with_ai/",
-      "summary": "Basically if someone somehow gets your ad data, they can theoretically have a good idea of what you email your friends and family about. submitted by /u/East-Experience2862 [link] [comments]",
-      "published": "2026-10-25T19:58:15+00:00"
+      "source": "SLASHDOT",
+      "title": "AI Delivers 'Zero Financial Payoff' To Most Companies, Economist Says",
+      "url": "https://slashdot.org/story/26/10/25/2040212/ai-delivers-zero-financial-payoff-to-most-companies-economist-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Despite massive investments and widespread hype around AI , the technology has delivered zero financial payoff to corporate America outside of tech,\" writes the chief economist at U.S. asset management firm Apollo Global. He adds that \"there are still no signs of AI boosting productivity growth... [M]ainstream corporate America is pulling back and starting to view token spending not as a source of growth but as a cost center that weighs on margins.\" VC-backed companies are spending more and mor",
+      "published": "2026-10-25T20:42:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Chinese-linked hackers compromise ConnectWise, target hundreds in global attack, Microsoft says",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfascx/chineselinked_hackers_compromise_connectwise/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-25T19:05:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Dolly Parton's Imagination Library",
-      "url": "https://imaginationlibrary.com/",
-      "summary": "596 points · 99 comments",
-      "published": "2026-10-25T18:23:54+00:00"
+      "source": "SLASHDOT",
+      "title": "Google Says Gmail and Photos Data Shared with AI Search Could Be Used for Targeted Ads",
+      "url": "https://tech.slashdot.org/story/26/10/25/1528213/google-says-gmail-and-photos-data-shared-with-ai-search-could-be-used-for-targeted-ads?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The blog Android Authority offers this TLDR: Google updated its privacy policy to clarify that it could use information shared through Personal Intelligence to personalize ads. Gmail, Drive, and Photos content isn't used for targeted ads by default, but connecting them to eligible Google services could change that. Digital Trends explains: Google has long promised that your Gmail, Drive, and Google Photos content never helps it personalize ads. However, since October 16, 2026, its privacy policy",
+      "published": "2026-10-25T18:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -237,11 +391,11 @@
       "published": "2026-10-25T17:19:46+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Is everyone actually that miserable?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xf6al4/is_everyone_actually_that_miserable/",
-      "summary": "I'm about to enter my first cyber security role, moving from a career in network engineering, so I (probably mistakenly) joined this sub. Is everyone really that miserable doing this work ? I was working 2-3 nights a week in network eng. I am hoping taking this role will stop most of the night work. This will be for a small to medium sized business. Am I kidding myself ? Did I make a wrong choice ? submitted by /u/SeniorSimpizen [link] [comments]",
-      "published": "2026-10-25T16:08:22+00:00"
+      "source": "SLASHDOT",
+      "title": "Free Software Foundation Hosts Free 'Encryptfest' Event on Sunday",
+      "url": "https://news.slashdot.org/story/26/10/25/0526257/free-software-foundation-hosts-free-encryptfest-event-on-sunday?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Free Software Foundation's \"EncryptFest\" today covers both encryption and privacy. The free two-hour event runs from 13:00-15:00 Eastern Daylight Time (17:00-19:00 UTC), and includes: — A discussion on \"bulk surveillance, and how encryption protects personal privacy\" — A short video from renowned cryptographer Bruce Schneier. — A discussion with Henry Fisher, the founder of Techlore and a digital rights activist — A hands-on workshop on how you can encrypt your email using the FSF's Email Se",
+      "published": "2026-10-25T16:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -252,31 +406,10 @@
     },
     {
       "source": "REDDIT",
-      "title": "PHP2Shell: Google and Mandiant Warn That PHP Servers May Remain Vulnerable After Installing Patches",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xf3i0w/php2shell_google_and_mandiant_warn_that_php/",
-      "summary": "Google cloud updated its PHP2Shell security advisory on October 23 with additional guidance from Mandiant Consulting. CVE-2026-109618 and CVE-2026-109619 Both are critical remote-code-execution vulnerabilities affecting PHP. The updated guidance emphasizes that installing patched packages does not necessarily mean the running web application is protected. Older PHP processes may remain active in memory until the relevant web-serving services are restarted. Researchers also recommend preserving v",
-      "published": "2026-10-25T14:16:06+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Bye Bye Brotli? Google's Compression Library Is a Security Mess",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xezxb6/bye_bye_brotli_googles_compression_library_is_a/",
-      "summary": "submitted by /u/klaasvanschelven [link] [comments]",
-      "published": "2026-10-25T11:25:58+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "url": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no",
-      "published": "2026-10-25T06:54:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: A Truly Modular Keyboard",
-      "url": "https://github.com/notaroomba/keybytes",
-      "summary": "213 points · 69 comments",
-      "published": "2026-10-25T03:47:56+00:00"
+      "title": "I’m a cybersecurity leader who is neurodivergent or an advocate for those who are. Ask me anything about the successes, failures, and lessons along the way.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xf360c/im_a_cybersecurity_leader_who_is_neurodivergent/",
+      "summary": "The editors at CISO Series present this AMA. This has been a long-term partnership between r/cybersecurity and CISO Series. This month, CISO Series has assembled a panel of security leaders who are neurodivergent or are advocates for neurodivergent people in our field. They're here to talk openly about how ADHD, autism, and other forms of neurodivergence have shaped their careers and leadership. They'll cover the strengths it brings, the challenges it creates, what has helped them succeed, what ",
+      "published": "2026-10-25T14:02:19+00:00"
     },
     {
       "source": "OSINT",
@@ -286,46 +419,11 @@
       "published": "2026-10-24T14:17:32+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed data to overwrite past the end of a buffer and corrupt a program's memory,",
-      "published": "2026-10-24T11:09:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed to the public LiteLLM-Labs/lite-harness repository which inadvertently contained the master key to a deployment of",
-      "published": "2026-10-24T11:03:33+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Singapore Boffins Weave a GUI Into Fabric",
-      "url": "https://tech.slashdot.org/story/26/10/23/2048215/singapore-boffins-weave-a-gui-into-fabric?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Researchers at the National University of Singapore have developed a machine-washable electronic fabric that can turn clothing into an interactive graphical user interface. The prototype reportedly survived 50 gentle machine washes and 1,000 bending cycles, though it still relies on external batteries and controllers. The Register reports: The development could lead - at some point - to a \"future in which clothing functions as a pervasive, multimodal human-computer interface,\" according to the s",
-      "published": "2026-10-23T23:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Birdwatching rewires the brain and slows cognitive decline",
       "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "summary": "213 points · 85 comments",
+      "summary": "437 points · 178 comments",
       "published": "2026-10-23T22:04:55+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "People Are Vibe Coding Their Way to Better TVs",
-      "url": "https://entertainment.slashdot.org/story/26/10/23/2034217/people-are-vibe-coding-their-way-to-better-tvs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Frustrated by intrusive ads, sluggish interfaces, and data tracking, smart TV owners are using AI coding tools and open-source projects to strip unwanted software from their televisions and build customized home screens. The Verge reports: Several vibe-coded TV-debloating projects exploded in popularity over the weekend. Cleanyourtv (known as tv-vibehack until the 19th), tv-detox, and dumbtv all claim to accomplish similar things -- remove sponsored ads, debloat the TV so it runs faster, and blo",
-      "published": "2026-10-23T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Greece Enacts Social Media Ban For Kids Under 15",
-      "url": "https://tech.slashdot.org/story/26/10/23/1928227/greece-enacts-social-media-ban-for-kids-under-15?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Greece has passed a law banning children under 15 from social media platforms beginning January 1, 2027. The legislation requires platforms to implement reliable age verification and parents to use government-backed apps to restrict access, with penalties for noncompliance under the EU's Digital Services Act. Engadget reports: \"It would have been very easy to do absolutely nothing today and wait for the perfect European law. But the challenge is here. Children are sinking into the internet every",
-      "published": "2026-10-23T21:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -335,32 +433,11 @@
       "published": "2026-10-23T20:55:05+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "SpaceX In Talks to Access 80,000 Cell Sites For New Network",
-      "url": "https://mobile.slashdot.org/story/26/10/23/1916222/spacex-in-talks-to-access-80000-cell-sites-for-new-network?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "SpaceX is reportedly seeking access to at least 80,000 cellular tower sites across the U.S. as it prepares to launch Starlink Mobile as a fourth nationwide wireless carrier. \"We will be building out our terrestrial networks so there's broad-based connectivity anywhere that SpaceX and Starlink are allowed to operate,\" Musk said during SpaceX's earnings call this week. Satellite launches plus spectrum acquisition \"will pave the way for Starlink Mobile to become a major mobile carrier in the US,\" h",
-      "published": "2026-10-23T20:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Knicks Sent Employees Fake Offer of Championship Rings In Phishing Test",
-      "url": "https://it.slashdot.org/story/26/10/23/193208/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The New York Knicks reportedly sent employees a fake offer of complimentary NBA championship rings as part of an internal phishing test, requiring anyone who clicked the link to attend mandatory cybersecurity training. \"Congratulations, your Employee Championship Ring is here,\" the email said. According to The New York Times, Madison Square Garden employees who clicked that link \"were forced to attend a mandatory cybersecurity class to help satisfy some of [owner James] Dolan's growing cybersecu",
-      "published": "2026-10-23T19:05:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
       "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
       "published": "2026-10-23T18:54:41+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Left Alone With Nothing To Do, AI Agents Started Playing",
-      "url": "https://slashdot.org/story/26/10/23/1647249/left-alone-with-nothing-to-do-ai-agents-started-playing?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TechCrunch: AI agents left to explore a virtual island without a specific task began inventing challenges of their own. MIT researchers say the behavior bears the hallmarks of play. The researchers put 13 AI agents called Eko, each running on Claude Opus 4.7, alone on a simulated desert island for 30 hours. They describe the experiment in a paper posted on arXiv, a site where researchers share studies before peer review. Afterward, they gave the agents sp",
-      "published": "2026-10-23T18:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -370,102 +447,25 @@
       "published": "2026-10-23T17:05:07+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Microsoft Announces Per-Hour Cost for Xbox Cloud Gaming Service",
-      "url": "https://games.slashdot.org/story/26/10/23/1636239/microsoft-announces-per-hour-cost-for-xbox-cloud-gaming-service?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft has revealed pay-as-you-go pricing for Xbox Cloud Gaming, with introductory packages costing $3.99 for 10 hours, $7.99 for 25 hours, or $11.99 for 50 hours. Starting in November, Game Pass subscribers will receive only 5 to 15 included cloud-gaming hours depending on their tier and will have to buy additional time -- even to stream games they've already purchased. Gizmodo reports: Back in September, before these changes were announced, you paid full purchase price for a game that isn't",
-      "published": "2026-10-23T17:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-      "published": "2026-10-23T16:40:07+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Ukraine Is Wiping Out Data Centers Across the Border",
-      "url": "https://tech.slashdot.org/story/26/10/23/0153232/ukraine-is-wiping-out-data-centers-across-the-border?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ukrainian drone strikes have damaged three major Yandex data centers as well as facilities serving Sberbank and VKontakte (the country's equivalent to Facebook), disrupting cloud services, banking, e-commerce, ride-hailing and other digital services across Russia. The attacks may deal a longer-lasting blow to Russia's AI ambitions: Yandex's affected facilities housed its three top-500 supercomputers, and experts say sanctions and shortages of high-end Nvidia chips could make repairs difficult or",
-      "published": "2026-10-23T16:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-      "published": "2026-10-23T15:38:05+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Comcast Loses More Customers, Claims Other ISPs' Cheap Prices Are 'Irrational'",
-      "url": "https://tech.slashdot.org/story/26/10/23/0143254/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: Comcast reportedly plans significant job cuts in its cable division as the firm continues to lose residential broadband and TV customers. Comcast lost 144,000 residential broadband customers in Q3 2026, up from a 91,000-customer loss in the same quarter a year ago, the company said in its earnings report today. Comcast historically capitalized on a lack of competition for high-speed wired broadband. But now it faces stronger competition from",
-      "published": "2026-10-23T15:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
+      "url": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+      "summary": "7 points · 0 comments",
+      "published": "2026-10-23T16:41:41+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Colorfigures",
-      "url": "https://april-zhu.com/colorfigures",
-      "summary": "15 points · 3 comments",
-      "published": "2026-10-23T14:22:23+00:00"
+      "title": "Diamond Transistor",
+      "url": "https://www.df.com/diamond-transistor",
+      "summary": "74 points · 38 comments",
+      "published": "2026-10-23T14:20:15+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Growing Trees",
-      "url": "https://brashandplucky.com/2026/10/15/growing-trees.html",
-      "summary": "131 points · 18 comments",
-      "published": "2026-10-23T14:07:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "summary": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]",
-      "published": "2026-10-23T14:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "summary": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]",
-      "published": "2026-10-23T12:48:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Physicists Trap a Single Antimatter Particle For a Month",
-      "url": "https://science.slashdot.org/story/26/10/23/021237/physicists-trap-a-single-antimatter-particle-for-a-month?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Physicists at Northwestern University have successfully trapped a single positron for an entire month, allowing researchers to study its quantum properties with unprecedented precision. \"Further investigations using the trap might reveal the secret of why the world around us is made of matter and not antimatter, when things could have presumably gone either way,\" reports Scientific American. From the report: Every normal particle of matter has an antimatter counterpart with equal mass but opposi",
-      "published": "2026-10-23T11:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "UN Says Breaching 1.5C Warming Limit Is 'Imminent and Unavoidable'",
-      "url": "https://news.slashdot.org/story/26/10/23/0031209/un-says-breaching-15c-warming-limit-is-imminent-and-unavoidable?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "For the first time, the UN has declared that exceeding the Paris Agreement's 1.5C warming limit is \"imminent and unavoidable.\" \"We are now saying this window has closed, but we can open it again by making the overshoot as brief as possible,\" UN Environment Program Executive Director Inger Andersen said on a call with reporters. \"This is about how to find a way back as shortly and as quickly as possible with as limited an overshoot as possible.\" CNN reports: Past reports have examined the distanc",
-      "published": "2026-10-23T07:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Unvetted AI Agents Are Accessing US Bank Accounts",
-      "url": "https://news.slashdot.org/story/26/10/23/0023257/unvetted-ai-agents-are-accessing-us-bank-accounts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Axios: Major U.S. banks are detecting unauthorized third-party AI agents operating inside customer accounts, with some agents attempting to take actions that appear to be independent of user instructions, sources tell Axios. The difficulty in distinguishing between a human and an unauthorized bot is forcing banks to block the technology and rapidly rewrite their terms of service. [...] This presents significant security risks: banking executives fear the ",
-      "published": "2026-10-23T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "One of the Greatest Inventions in the History of Human Transport",
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
       "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "summary": "41 points · 10 comments",
+      "summary": "229 points · 117 comments",
       "published": "2026-10-22T19:52:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Overgrown, when plants invade your abandoned tabs",
-      "url": "https://charliegerard.dev/blog/overgrown-extension/",
-      "summary": "351 points · 120 comments",
-      "published": "2026-10-22T15:52:21+00:00"
     },
     {
       "source": "OSINT",
