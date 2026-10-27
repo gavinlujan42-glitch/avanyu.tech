@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T04:40:01.713697+00:00",
+  "updated": "2026-10-27T10:19:21.251553+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,95 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+      "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next steps that we took were to disconnect that Amadey controller from all those",
+      "published": "2026-10-27T09:33:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+      "published": "2026-10-27T09:25:50+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Cybercx Academy (Aus )- oct invitation round.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgnrg4/cybercx_academy_aus_oct_invitation_round/",
+      "summary": "Hey all, Can anyone here shed some light on what to expect for the cybercx academy written test? I got an invite for psychometric test and a written test. Wanted to understand what to expect in the written test. Please help 🥹 submitted by /u/Serious_Ant_8568 [link] [comments]",
+      "published": "2026-10-27T09:21:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI is ruining haunted houses",
+      "url": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+      "summary": "8 points · 5 comments",
+      "published": "2026-10-27T08:50:33+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+      "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
+      "published": "2026-10-27T08:22:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+      "published": "2026-10-27T08:20:54+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Industry Executives Knew For Decades That Microplastics Were Infiltrating the Human Body",
+      "url": "https://science.slashdot.org/story/26/10/27/0232248/industry-executives-knew-for-decades-that-microplastics-were-infiltrating-the-human-body?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Susanne Rust of the Los Angeles Times reports (paywalled) that industry executives knew for decades that microplastics were infiltrating the human body. Slashdot reader joshuark shares an excerpt from the report: Scientists today say we're just beginning to understand the harm that the tiny bits of plastic we drink, eat and breathe are doing to the human body. Internal memos among company scientists and executives obtained by The Times reveal that for at least half a century, the plastics indust",
+      "published": "2026-10-27T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
+      "published": "2026-10-27T06:34:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Mythical Man-Month in the Age of AI",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "summary": "141 points · 110 comments",
+      "published": "2026-10-27T06:25:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Writing about pratt parsing so I remember it",
+      "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+      "summary": "32 points · 1 comments",
+      "published": "2026-10-27T06:02:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
+      "published": "2026-10-27T04:37:59+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "US Designates Helium As a Critical Material",
       "url": "https://news.slashdot.org/story/26/10/26/227203/us-designates-helium-as-a-critical-material?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from the Associated Press: The U.S. designated helium as a critical material on Friday because it's indispensable for making semiconductors that are essential to energy generation, and the global supply is at risk of disruption, according to the Energy Department. The designation by the Energy Department means that more federal financing will be available for helium producers and that the government will monitor it more closely. Helium is primarily produced as",
       "published": "2026-10-27T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I still teach OpenGL ES 3.0",
+      "url": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+      "summary": "64 points · 41 comments",
+      "published": "2026-10-27T02:15:10+00:00"
     },
     {
       "source": "REDDIT",
@@ -44,7 +128,7 @@
       "source": "HACKER NEWS",
       "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
       "url": "https://github.com/otya128/winevdm",
-      "summary": "42 points · 3 comments",
+      "summary": "90 points · 22 comments",
       "published": "2026-10-27T01:15:04+00:00"
     },
     {
@@ -72,7 +156,7 @@
       "source": "HACKER NEWS",
       "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
       "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "summary": "99 points · 32 comments",
+      "summary": "137 points · 45 comments",
       "published": "2026-10-26T22:41:48+00:00"
     },
     {
@@ -93,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "The Exponential Time Hypothesis Is False [pdf]",
       "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "summary": "431 points · 166 comments",
+      "summary": "626 points · 226 comments",
       "published": "2026-10-26T21:59:15+00:00"
     },
     {
@@ -107,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Three new discoveries in mathematics, computer science, and physics",
       "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "summary": "643 points · 275 comments",
+      "summary": "910 points · 438 comments",
       "published": "2026-10-26T21:35:28+00:00"
     },
     {
@@ -146,13 +230,6 @@
       "published": "2026-10-26T20:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Fortinet adds inline AI guardrails to FortiGate firewalls",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg6ulf/fortinet_adds_inline_ai_guardrails_to_fortigate/",
-      "summary": "Fortinet announced the FortiGuard Inline AI Security Service for FortiGate customers. The company says it inspects prompts, model responses, MCP tool calls and agent actions, and can block or redact sensitive data. Its FortiAIGate product page says the gateway can also set model permissions, budgets and rate limits. There are two deployment paths. The new service is cloud-delivered through existing FortiGate infrastructure, while FortiAIGate can be self-hosted on Kubernetes with NVIDIA GPUs for ",
-      "published": "2026-10-26T19:36:55+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "DreamHost forces password resets in ongoing \"incident\"",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
@@ -170,7 +247,7 @@
       "source": "HACKER NEWS",
       "title": "Type Server Protocol",
       "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "summary": "212 points · 145 comments",
+      "summary": "243 points · 163 comments",
       "published": "2026-10-26T18:14:49+00:00"
     },
     {
@@ -179,13 +256,6 @@
       "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
       "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. \"When you",
       "published": "2026-10-26T18:12:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "summary": "549 points · 342 comments",
-      "published": "2026-10-26T18:01:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -198,15 +268,8 @@
       "source": "HACKER NEWS",
       "title": "Oldest GUI application that still runs on Windows 11",
       "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "summary": "342 points · 206 comments",
+      "summary": "430 points · 247 comments",
       "published": "2026-10-26T17:56:55+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Man from the Future: Why Johnny Can't Stop Abstracting",
-      "url": "http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html",
-      "summary": "142 points · 70 comments",
-      "published": "2026-10-26T17:49:55+00:00"
     },
     {
       "source": "OSINT",
@@ -214,13 +277,6 @@
       "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
       "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but",
       "published": "2026-10-26T17:45:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nietzschian Debugger",
-      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
-      "summary": "149 points · 50 comments",
-      "published": "2026-10-26T17:25:30+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -268,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "CSS-Tricks has a new owner",
       "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "summary": "407 points · 93 comments",
+      "summary": "481 points · 105 comments",
       "published": "2026-10-26T15:51:23+00:00"
     },
     {
@@ -282,14 +338,14 @@
       "source": "HACKER NEWS",
       "title": "Solar power is becoming bigger than nuclear",
       "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-      "summary": "194 points · 311 comments",
+      "summary": "324 points · 481 comments",
       "published": "2026-10-26T15:26:17+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
       "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "summary": "618 points · 87 comments",
+      "summary": "711 points · 99 comments",
       "published": "2026-10-26T15:11:59+00:00"
     },
     {
@@ -331,15 +387,8 @@
       "source": "HACKER NEWS",
       "title": "New iPad mini",
       "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-      "summary": "160 points · 438 comments",
+      "summary": "210 points · 517 comments",
       "published": "2026-10-26T13:13:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "summary": "1529 points · 1487 comments",
-      "published": "2026-10-26T13:04:50+00:00"
     },
     {
       "source": "OSINT",
@@ -384,25 +433,11 @@
       "published": "2026-10-26T08:35:51+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-      "url": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-      "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise environments, according to an analysis by cloud security company Wiz. A GitHub safeguard that pauses",
-      "published": "2026-10-26T07:49:46+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Amazon Deforestation Fell To Lowest Level Since 1988 - And Silva Wins Reelection",
-      "url": "https://news.slashdot.org/story/26/10/26/054248/amazon-deforestation-fell-to-lowest-level-since-1988---and-silva-wins-reelection?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Brazil's 80-year-old president Luiz Inácio Lula da Silva was re-elected Sunday, reports the Guardian, \"defeating his far-right opponent, Flávio Bolsonaro, to claim a historic fourth term in power.\" And the results could impact the climate, suggests the Associated Press, since under da Silva the annual deforestation rate in the Amazon fell to its lowest level since records began in 1988: Official satellite data showed the rainforest lost 3,335 square kilometers (1,300 square miles) from Aug. 2025",
-      "published": "2026-10-26T07:34:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-      "url": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-      "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and stopped the agent before any code ran. It could not determine how the file got into the folder. The file",
-      "published": "2026-10-26T06:03:48+00:00"
+      "source": "HACKER NEWS",
+      "title": "How to grow a cacao tree at home (2024)",
+      "url": "https://www.cocoterra.com/guide-on-how-to-grow-chocolate-at-home/",
+      "summary": "76 points · 25 comments",
+      "published": "2026-10-26T07:50:17+00:00"
     },
     {
       "source": "REDDIT",
@@ -419,34 +454,6 @@
       "published": "2026-10-26T00:00:09+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "APC says let there be light, with standards to speed up photonics manufacturing",
-      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-      "summary": "19 points · 1 comments",
-      "published": "2026-10-25T18:43:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-      "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-      "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker who already controls one device that the network's access rules permit to connect to the target. The findings were",
-      "published": "2026-10-25T17:44:09+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-      "url": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-      "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government agency executed in the context of a vulnerable PHP application,\" a spokesperson for the company told The Hacker News via",
-      "published": "2026-10-25T17:19:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "url": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-      "published": "2026-10-25T15:49:38+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "I’m a cybersecurity leader who is neurodivergent or an advocate for those who are. Ask me anything about the successes, failures, and lessons along the way.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xf360c/im_a_cybersecurity_leader_who_is_neurodivergent/",
@@ -455,31 +462,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "LISPy things you can do in 64K bytes of core (2019)",
-      "url": "https://t3x.org/lisp64k/index.html",
-      "summary": "40 points · 7 comments",
-      "published": "2026-10-25T12:53:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Virtual and Real World Combine at LAN Party (1998)",
-      "url": "https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html",
-      "summary": "28 points · 3 comments",
-      "published": "2026-10-25T00:07:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-      "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]",
-      "published": "2026-10-24T14:17:32+00:00"
+      "title": "Show HN: Encarta 95 Web",
+      "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+      "summary": "23 points · 10 comments",
+      "published": "2026-10-24T07:18:37+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A Printer Printing onto Paper",
       "url": "https://twitter.com/macrofying/status/2112904628509528219",
-      "summary": "86 points · 22 comments",
+      "summary": "132 points · 29 comments",
       "published": "2026-10-23T05:01:30+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients",
+      "url": "https://www.sciencealert.com/researchers-identify-new-circadian-subtype-of-depression-affecting-1-in-4-patients",
+      "summary": "57 points · 26 comments",
+      "published": "2026-10-22T14:50:22+00:00"
     },
     {
       "source": "OSINT",
