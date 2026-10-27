@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T15:58:42.367266+00:00",
-  "item_count": 76,
+  "updated": "2026-10-27T20:33:16.520496+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,18 +27,158 @@
   ],
   "items": [
     {
-      "source": "HACKER NEWS",
-      "title": "My video has unit tests",
-      "url": "https://pertiller.tech/blog/my-video-written-in-code/",
-      "summary": "3 points · 0 comments",
-      "published": "2026-10-27T15:15:32+00:00"
+      "source": "SLASHDOT",
+      "title": "Google's Genie 4 World Model Adds Audio, More Realistic Worlds",
+      "url": "https://tech.slashdot.org/story/26/10/27/1841227/googles-genie-4-world-model-adds-audio-more-realistic-worlds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TechCrunch: Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday. The latest model generates the most photorealistic and interactive worlds yet, allowing users to type prompts mid-simulation to change the scene. The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue. [...] Google released its predecessor, Genie 3, as a research preview a littl",
+      "published": "2026-10-27T20:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-      "url": "https://spec-first.dev/",
-      "summary": "4 points · 0 comments",
-      "published": "2026-10-27T15:12:20+00:00"
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "summary": "44 points · 7 comments",
+      "published": "2026-10-27T19:55:21+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "summary": "32 points · 11 comments",
+      "published": "2026-10-27T19:55:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anduril Partners With Qualcomm to Build Laptops On US Soil",
+      "url": "https://news.slashdot.org/story/26/10/27/1833240/anduril-partners-with-qualcomm-to-build-laptops-on-us-soil?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader fadethepolice writes: Anduril, arguing that its manufacturing capabilities are directly applicable to laptop manufacturing, is starting a project for a fully 100% U.S.-sourced laptop. The computer will use a Qualcomm Snapdragon SoC. I did not see any information about the OS, but I'm assuming that, given the type of processor, this will be Linux-based? \"Other companies might design their computers in the U.S., Anduril makes them here,â the Anduril founder Palmer Luckey s",
+      "published": "2026-10-27T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Three TLS Bugs in GoAhead",
+      "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "summary": "30 points · 2 comments",
+      "published": "2026-10-27T18:33:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
+      "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which analyzed three exposed server environments used by threat actors to conduct the malicious cyber operations, described them as distinct from previously published",
+      "published": "2026-10-27T18:26:46+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+      "published": "2026-10-27T18:20:28+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
+      "url": "https://hardware.slashdot.org/story/26/10/27/1630226/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Apple has acknowledged an inner-display defect affecting a small number of its new $1,999 iPhone Duo foldables after customers reported hearing a crunch while unfolding the device before cracks, lines and other display failures appeared along the crease. Apple is replacing affected phones and investigating the problem. iFixit believes a failing hinge component may be pressing into and cracking the display rather than the panel itself being defective. Bloomberg reports: Reports of the problem fir",
+      "published": "2026-10-27T18:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgywlp/cisa_confirms_php2shell_vulnerabilities_now/",
+      "summary": "CISA has added CVE-2026-109618 and CVE-2026-109619 to its Known Exploited Vulnerabilities catalog. Federal civilian agencies have been directed to remediate the vulnerabilities by October 29. There is an important correction to earlier reporting. Palo Alto Networks Unit 42 retracted its claim that PHP2Shell caused a European government agency compromise. Researchers confirmed that an attack occurred against a vulnerable PHP application, but could not establish that either PHP2Shell CVE provided ",
+      "published": "2026-10-27T17:28:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "url": "https://www.liquid.ai/blog/lfm3",
+      "summary": "66 points · 24 comments",
+      "published": "2026-10-27T17:04:50+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
+      "url": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from ProPublica: A Florida man who was the subject of a 2019 investigation by ProPublica was indicted last month on federal charges that he defrauded clients of his ransomware data recovery firm. According to the Justice Department, the man, Zohar Pinhasi, told customers he could recover their encrypted files without having to pay hackers, when, in reality, he paid the ransom and charged victims a hefty fee on top. The indictment mirrors the findings from ProP",
+      "published": "2026-10-27T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ghostty 1.4.0",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "summary": "421 points · 130 comments",
+      "published": "2026-10-27T16:51:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Classification of Finite Simple Groups Formalized in Lean",
+      "url": "https://cfsg.axiommath.ai/",
+      "summary": "108 points · 25 comments",
+      "published": "2026-10-27T16:29:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
+      "url": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
+      "summary": "36 points · 1 comments",
+      "published": "2026-10-27T16:25:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "NIST Report Provides Guidelines for Transition to Post-Quantum Cryptography Standards",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgx4fl/nist_report_provides_guidelines_for_transition_to/",
+      "summary": "submitted by /u/donutloop [link] [comments]",
+      "published": "2026-10-27T16:24:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+      "url": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+      "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+      "published": "2026-10-27T16:15:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "New 14‑inch MacBook Pro with M6",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "summary": "170 points · 181 comments",
+      "published": "2026-10-27T16:08:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "summary": "495 points · 296 comments",
+      "published": "2026-10-27T16:06:01+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple Updates MacBook Pro With M6 Chips",
+      "url": "https://apple.slashdot.org/story/26/10/27/1541235/apple-updates-macbook-pro-with-m6-chips?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Ahead of the touchscreen MacBook Pro expected to debut tomorrow, Apple has refreshed its standard 14-inch MacBook Pro with the new M6 processor, promising up to 20% faster multithreaded performance, improved power efficiency, and more powerful on-device AI capabilities. The Verge reports: Announced this morning through a press release, the new 14-inch MacBook Pro features three Thunder 4 USB-C ports that all support charging and DisplayPort connectivity, a MagSafe 3 charging port, full-size HDMI",
+      "published": "2026-10-27T16:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Kali 2026.3 adds packaged tools",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgwadt/kali_20263_adds_packaged_tools/",
+      "summary": "Looked like some nifty goodies to me. Have fun. submitted by /u/MountainDadwBeard [link] [comments]",
+      "published": "2026-10-27T15:53:50+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Why are so many mid-level cyber jobs getting 100+ applicants?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgw9xm/why_are_so_many_midlevel_cyber_jobs_getting_100/",
+      "summary": "I've been looking around at the job market again and this has been pretty discouraging. I've been working in a SOC for over 5 years and have moved up a few times since starting as an Analyst I, so I'm definitely not looking at entry-level roles. I'm looking at jobs asking for 3–5+ years of experience where I match most, if not all, of what they're looking for. Yet so many of them have 100+ applicants, sometimes several hundred. What I don't understand is the disconnect. Cybersecurity workforce r",
+      "published": "2026-10-27T15:53:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "summary": "294 points · 160 comments",
+      "published": "2026-10-27T15:28:26+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -48,25 +188,11 @@
       "published": "2026-10-27T15:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Viral Polls Are Not Representative Polls",
-      "url": "https://kevinreuning.com/blog/polling_virality.html",
-      "summary": "23 points · 20 comments",
-      "published": "2026-10-27T14:49:30+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "FortiBleed 2.0: 975 New Domains & 40,573 Exposed Secrets",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xgu57x/fortibleed_20_975_new_domains_40573_exposed/",
       "summary": "Newly obtained FortiGate configuration reports reveal 40,573 records containing cleartext secrets , including 37,076 local-user records and 1,576 Active Directory LDAP bind records . The analysis also identifies 975 domain labels absent from FortiBleed 1.0 . The configuration material dates to around February 2026, earlier than the likely May/June material examined in the first investigation. submitted by /u/Malwarebeasts [link] [comments]",
       "published": "2026-10-27T14:32:23+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How do you decide what’s worth reading when new threats and CVEs show up every day?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgtv63/how_do_you_decide_whats_worth_reading_when_new/",
-      "summary": "I’m a student in Sweden researching how people in security keep up with the flow of news, advisories and research. I’ve read a lot of older threads here, and the common answer seems to be “you can’t, so you pick a few sources”. What does your setup look like right now (feeds, newsletters, podcasts, work briefings)? And what’s the most annoying part: too much noise, duplicates, or missing things that mattered? submitted by /u/Candidate-Senior [link] [comments]",
-      "published": "2026-10-27T14:21:31+00:00"
     },
     {
       "source": "OSINT",
@@ -77,9 +203,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The US Government Is Hiding Secret Court Ruling About How It Spies on Americans",
+      "title": "US Government is hiding a secret court ruling about how it spies on Americans",
       "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
-      "summary": "218 points · 48 comments",
+      "summary": "591 points · 202 comments",
       "published": "2026-10-27T14:06:42+00:00"
     },
     {
@@ -90,31 +216,31 @@
       "published": "2026-10-27T14:01:11+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Giving chat feedback gives Anthropic your data",
-      "url": "https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training",
-      "summary": "105 points · 54 comments",
-      "published": "2026-10-27T13:56:15+00:00"
+      "source": "OSINT",
+      "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+      "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+      "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds that use the OpenSSL backend with mutual-TLS, where the server checks a client certificate and vice versa, and a revocation list is configured to block revoked",
+      "published": "2026-10-27T13:59:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+      "url": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+      "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that could result in arbitrary code execution when processing a maliciously crafted file. Patches for the flaw were released last month by Apple in",
+      "published": "2026-10-27T13:59:09+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
-      "url": "https://www.wiz.io/blog/php2shell-exploitation-so-far",
-      "summary": "115 points · 41 comments",
-      "published": "2026-10-27T13:52:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
       "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-      "summary": "72 points · 17 comments",
+      "summary": "120 points · 51 comments",
       "published": "2026-10-27T13:23:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "New iMac with M6",
       "url": "https://www.apple.com/imac/",
-      "summary": "117 points · 100 comments",
+      "summary": "244 points · 299 comments",
       "published": "2026-10-27T13:02:02+00:00"
     },
     {
@@ -154,31 +280,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Software may be getting worse, but it used to be horrible",
-      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-      "summary": "213 points · 168 comments",
-      "published": "2026-10-27T11:30:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Python's experimental JIT to be removed",
       "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "summary": "237 points · 120 comments",
+      "summary": "379 points · 199 comments",
       "published": "2026-10-27T11:17:57+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Wikipedia's Cleanup of AI-Generated Content",
       "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "summary": "231 points · 92 comments",
+      "summary": "381 points · 173 comments",
       "published": "2026-10-27T11:08:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI promised less work. I've never worked more",
-      "url": "https://oioannou.com/blog/ai-promised-less-work/",
-      "summary": "474 points · 418 comments",
-      "published": "2026-10-27T11:08:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -202,13 +314,6 @@
       "published": "2026-10-27T10:27:38+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Gforth 1.0",
-      "url": "https://gforth.org/manual/1.0/NEWS.html",
-      "summary": "97 points · 6 comments",
-      "published": "2026-10-27T10:23:21+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
       "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
@@ -230,13 +335,6 @@
       "published": "2026-10-27T08:22:43+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-      "published": "2026-10-27T08:20:54+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Industry Executives Knew For Decades That Microplastics Were Infiltrating the Human Body",
       "url": "https://science.slashdot.org/story/26/10/27/0232248/industry-executives-knew-for-decades-that-microplastics-were-infiltrating-the-human-body?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -249,13 +347,6 @@
       "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
       "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
       "published": "2026-10-27T06:34:47+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Mythical Man-Month in the Age of AI",
-      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-      "summary": "341 points · 216 comments",
-      "published": "2026-10-27T06:25:37+00:00"
     },
     {
       "source": "OSINT",
@@ -286,13 +377,6 @@
       "published": "2026-10-27T00:56:58+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Cyberattack forces University of New Mexico Health to divert ambulances, cancel appointments",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgdms8/cyberattack_forces_university_of_new_mexico/",
-      "summary": "A cyberattack forced the University of New Mexico Health System to divert ambulances and cancel clinic appointments Monday, interrupting care at the state’s only Level I trauma center. submitted by /u/DysruptionHub [link] [comments]",
-      "published": "2026-10-27T00:08:43+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "PHP2Shell Security Flaws Now Successfully Exploited",
       "url": "https://yro.slashdot.org/story/26/10/26/2150206/php2shell-security-flaws-now-successfully-exploited?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -314,32 +398,11 @@
       "published": "2026-10-26T22:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "summary": "735 points · 265 comments",
-      "published": "2026-10-26T21:59:15+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "summary": "1062 points · 604 comments",
-      "published": "2026-10-26T21:35:28+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
       "url": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
       "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
       "published": "2026-10-26T21:08:28+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What's the most useless security metric your company still tracks?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xg99hd/whats_the_most_useless_security_metric_your/",
-      "summary": "Someone puts 2 million threats blocked this month on a dashboard and management thinks security is doing amazing. Half of that could be random scanners and bot traffic hitting the firewall Same thing with vulnerability tickets. Closing 500 tickets looks great on paper. Meanwhile the same critical systems have exceptions that keep getting renewed and nobody wants to touch them. You can have an entire dashboard full of green KPIs while the same security problems sit there for months At some point ",
-      "published": "2026-10-26T21:07:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -356,25 +419,11 @@
       "published": "2026-10-26T20:46:49+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Instagram Chases YouTube With a Push For Longer, Widescreen Videos",
-      "url": "https://entertainment.slashdot.org/story/26/10/26/1846258/instagram-chases-youtube-with-a-push-for-longer-widescreen-videos?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Instagram is testing a new longform, horizontal video format called \"Features\" as it pushes further into YouTube territory and expands its presence on TVs. The Verge reports: Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in a six-and-a-half-minute video (here's the widescreen version) with VP of product Tessa Lyons, saying that \"one of my concerns has been, how do we make sure that we keep Instagram not just about entertainment, but ",
-      "published": "2026-10-26T20:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "DreamHost forces password resets in ongoing \"incident\"",
       "url": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
       "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
       "published": "2026-10-26T19:26:20+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Walter Koenig, Chekov On Original 'Star Trek,' Dies At 90",
-      "url": "https://entertainment.slashdot.org/story/26/10/26/1828230/walter-koenig-chekov-on-original-star-trek-dies-at-90?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader schwit1 shares a report from CBS News: Walter Koenig, the actor who played Pavel Chekov in the original \"Star Trek\" series and several movies, has died, his rep confirmed to CBS News. He was 90. Koenig died Sunday night at his home in the North Hollywood neighborhood of Los Angeles, talent rep Zachery McGinnis said in a statement. He died surrounded by his daughter and niece, McGinnis said. In 'Star Trek,' Ensign Chekov was the sole member of the spaceship Enterprise bri",
-      "published": "2026-10-26T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -384,31 +433,10 @@
       "published": "2026-10-26T18:12:22+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Highway Thieves Are Spoofing GPS To Steal Millions In Data Center-Bound Cargo",
-      "url": "https://yro.slashdot.org/story/26/10/26/1759233/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Highway thieves have stolen more than $100 million in data center equipment since June, employing increasingly sophisticated tactics such as forging driver IDs and spoofing GPS tracking systems. NBC News (paywalled) reports that thieves have \"made away with more than $100 million in data center freight.\" Ars Technica reports: Here's how they said thieves get away with it: First, thieves hack freight brokers' accounts on shipment-listing websites and post fake shipments to lure real bids, then se",
-      "published": "2026-10-26T18:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-      "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-      "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP says the flaw can be reached through the cURL extension when the extension decompresses HTTP responses automatically. cURL leaves that off by default, but",
-      "published": "2026-10-26T17:45:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Apple Updates the iPad Mini With a Larger OLED Display",
-      "url": "https://apple.slashdot.org/story/26/10/26/1549226/apple-updates-the-ipad-mini-with-a-larger-oled-display?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple has unveiled a redesigned iPad Mini with a larger 8.5-inch OLED display, an A20 Pro chip, twice the peak brightness and slimmer bezels while maintaining roughly the same footprint. It starts at $699 ($200 more than its predecessor) and will be available November 6. The Verge reports: Despite having a slightly bigger display than the 8.3-inch screen on its predecessor, Apple says the device maintains the same small footprint thanks to bezels that are 24 percent slimmer. The iPad Mini is 5.4",
-      "published": "2026-10-26T17:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Microsoft announces a massive 25% voluntary buyout layoffs program. This is an absolute bombshell in the tech sector",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xg2ez2/microsoft_announces_a_massive_25_voluntary_buyout/",
-      "summary": "This is not another 10k layoffs at Amazon which is like not even 3% of its employee This is not 5% of Netflix This is 25% of all employees at Microsoft. Absolute bombshell. submitted by /u/Exact-Advantage-3190 [link] [comments]",
+      "summary": "This is not another 10k layoffs at Amazon which is like not even 3% of its employee This is not 5% of Netflix This is 25% of all employees at Microsoft. Absolute bombshell. While I personally support parts of the H1B program, as someone who works in FAANG, it's kind of sad to see that citizens are being let go while companies abuse the H1B. They were supposed to use this program because they can't find the talent in America and now they abuse it for more money submitted by /u/Exact-Advantage-319",
       "published": "2026-10-26T16:54:47+00:00"
     },
     {
@@ -419,53 +447,11 @@
       "published": "2026-10-26T16:27:57+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Microsoft Offers Mass Buyouts For Roughly a Quarter of Its Workforce",
-      "url": "https://slashdot.org/story/26/10/26/1544243/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Seattle Times: Microsoft is offering buyouts to about 60,000 employees, or roughly a quarter of its workforce, as the company tries to control its head count while avoiding layoffs. The Redmond-based tech giant announced Monday morning that eligible employees at the vice president level and below in the U.S., Canada, India and the United Kingdom would receive a \"voluntary exit offer\" of a standard severance package, based on their location. In a memo ",
-      "published": "2026-10-26T16:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
-      "url": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
-      "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deliver malware. \"A consistent pattern of attacker behavior has emerged across these incidents: the use of the same throwaway tenants, the same 'IT",
-      "published": "2026-10-26T15:52:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
-      "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
-      "published": "2026-10-26T15:38:24+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Why Micron Is Suddenly Ditching 4F² DRAM as Rivals Double Down",
       "url": "https://hothardware.com/news/why-micron-is-suddenly-ditching-4f-dram",
-      "summary": "43 points · 2 comments",
+      "summary": "105 points · 15 comments",
       "published": "2026-10-26T15:05:04+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xfywmh/php2shell_security_flaws_now_sucessfully/",
-      "summary": "There is an important development in the PHP2Shell story we've been discussing. Until recently, researchers had observed scanning and exploitation attempts, but convincing evidence of successful attacks was limited. That changed today. Security researcher Adel Karimi reported evidence from honeypots showing successful exploitation against an Apache installation running PHP 8.4.26. The evidence included memory disclosure followed by remote command execution. Security researcher Marcus Hutchins in",
-      "published": "2026-10-26T14:48:43+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-      "url": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-      "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and security teams have more urgent patches than they can keep up with. And that's not even the full story. A leaked key led to a software supply-chain",
-      "published": "2026-10-26T14:06:13+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-      "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-      "published": "2026-10-26T14:00:10+00:00"
     },
     {
       "source": "REDDIT",
@@ -476,10 +462,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "A Stackless Floodfill Automaton",
-      "url": "https://t3x.org/files/floodfill.pdf",
-      "summary": "17 points · 5 comments",
-      "published": "2026-10-25T20:18:57+00:00"
+      "title": "Microsoft and others tell crypto platform not to tokenize their stocks",
+      "url": "https://gizmodo.com/microsoft-mcdonalds-verizon-and-others-tell-crypto-platform-not-to-tokenize-their-stocks-2000830368",
+      "summary": "77 points · 61 comments",
+      "published": "2026-10-25T15:28:40+00:00"
     },
     {
       "source": "REDDIT",
@@ -487,6 +473,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xf360c/im_a_cybersecurity_leader_who_is_neurodivergent/",
       "summary": "The editors at CISO Series present this AMA. This has been a long-term partnership between r/cybersecurity and CISO Series. This month, CISO Series has assembled a panel of security leaders who are neurodivergent or are advocates for neurodivergent people in our field. They're here to talk openly about how ADHD, autism, and other forms of neurodivergence have shaped their careers and leadership. They'll cover the strengths it brings, the challenges it creates, what has helped them succeed, what ",
       "published": "2026-10-25T14:02:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "An examination of lost firefly species of the US and Canada",
+      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+      "summary": "15 points · 0 comments",
+      "published": "2026-10-24T19:04:42+00:00"
     },
     {
       "source": "OSINT",
