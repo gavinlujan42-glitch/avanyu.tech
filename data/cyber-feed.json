@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T05:13:40.518317+00:00",
-  "item_count": 75,
+  "updated": "2026-10-28T11:32:06.550960+00:00",
+  "item_count": 63,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -15,6 +15,11 @@
       "error": "HTTPError"
     },
     {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "TimeoutError"
+    },
+    {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
       "error": "HTTPError"
@@ -27,6 +32,104 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+      "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.",
+      "published": "2026-10-28T11:15:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+      "published": "2026-10-28T10:46:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Barcelona unrest: how to fabricate a protest in the age of TikTok",
+      "url": "https://theconversation.com/barcelona-unrest-how-to-fabricate-a-protest-in-the-age-of-tiktok-295263",
+      "summary": "22 points · 8 comments",
+      "published": "2026-10-28T10:41:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations",
+      "published": "2026-10-28T10:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Japan's GMO Internet Group Faces Daily Leak Threats After Refusing Ransom, Purported Customer Data Appears Online",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xhjwpe/japans_gmo_internet_group_faces_daily_leak/",
+      "summary": "submitted by /u/Superb-Molasses-9363 [link] [comments]",
+      "published": "2026-10-28T10:01:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+      "published": "2026-10-28T09:43:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xhj9yg/anthropics_unreleased_ai_model_chains_flaws_into/",
+      "summary": "submitted by /u/One_Paint8721 [link] [comments]",
+      "published": "2026-10-28T09:21:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Wealth Inequality in America drawn to scale",
+      "url": "https://dreamagainusa.org/",
+      "summary": "191 points · 140 comments",
+      "published": "2026-10-28T08:48:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+      "url": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the advertisement of sexually explicit images of minors, the intentional disclosure of nonconsensual intimate visual depictions",
+      "published": "2026-10-28T07:37:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+      "url": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+      "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an arrest or an international wanted notice. The service hosts Windows desktops used for FX trading,",
+      "published": "2026-10-28T07:13:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+      "url": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+      "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the Tailscale background process carries out with root privileges. To use them, an attacker must",
+      "published": "2026-10-28T06:20:37+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+      "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that reaches an internal management interface because PeopleSoft trusts its own loopback address",
+      "published": "2026-10-28T06:04:58+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xhg1fl/codeexecution_flaw_in_uefi_firmware_affects_most/",
+      "summary": "submitted by /u/ni5arga [link] [comments]",
+      "published": "2026-10-28T05:53:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+      "url": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-111497 (CVSS score: 9.2) - An unchecked return value vulnerability in",
+      "published": "2026-10-28T05:42:26+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Hacking Attempt Disrupts FEC Campaign Finance Filings Ahead of Midterms",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xhekxb/hacking_attempt_disrupts_fec_campaign_finance/",
@@ -34,17 +137,10 @@
       "published": "2026-10-28T04:28:09+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Greenhouse Gas Levels Set Records In 2025, UN Says",
-      "url": "https://news.slashdot.org/story/26/10/27/2325218/greenhouse-gas-levels-set-records-in-2025-un-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from CBS News: Greenhouse gas concentrations in the atmosphere rose to record highs in 2025, locking in climate impacts that will persist for centuries, the United Nations said on Tuesday. Levels of the three main greenhouse gases -- the climate-warming carbon dioxide, methane and nitrous oxide -- all rose to unprecedented figures in 2025, the U.N.'s weather and climate agency said. The World Meteorological Organization said the rise would lead to more long-te",
-      "published": "2026-10-28T03:30:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Git for US Legislation",
+      "title": "Git for the US Code",
       "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "summary": "134 points · 62 comments",
+      "summary": "296 points · 142 comments",
       "published": "2026-10-28T01:47:50+00:00"
     },
     {
@@ -62,20 +158,6 @@
       "published": "2026-10-27T23:35:51+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "New Kerberos Abuse Path Discovery - Constrained Delegation without Protocol Transition against SPN-less accounts",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xh7we9/new_kerberos_abuse_path_discovery_constrained/",
-      "summary": "I've recently released a blog covering how I discovered a new Kerberos delegation abuse path! By combining Elad Shamir's Reflective RBCD with James Forshaw's U2U sacrificial user technique, Constrained Delegation without Protocol Transition can now be abused against SPN-less accounts. I also had to add S4U2Proxy + U2U support to Impacket to get this working. :) Blog: https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts Impacket PR: https",
-      "published": "2026-10-27T23:10:54+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Ford's Most Affordable EV Will Offer Built-In Bidirectional Home Charging",
-      "url": "https://hardware.slashdot.org/story/26/10/27/2151204/fords-most-affordable-ev-will-offer-built-in-bidirectional-home-charging?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ford's upcoming $28,350 Fathom electric truck will include a built-in inverter capable of supplying up to 10 kW of AC power to a home, bringing bidirectional charging to a significantly cheaper EV. Owners will still need additional Ford home hardware for features like outage backup and peak-rate energy management, but the company expects the necessary equipment to cost substantially less than its previous-generation system. CNET reports: The upcoming Fathom will be based on what Ford calls its U",
-      "published": "2026-10-27T23:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
@@ -83,32 +165,11 @@
       "published": "2026-10-27T22:43:27+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
-      "summary": "94 points · 77 comments",
-      "published": "2026-10-27T22:31:15+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "UNM Health ransomware attack disrupts patient care, surgeries",
       "url": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
       "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
       "published": "2026-10-27T22:07:34+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Growing List of Firms Object to OKX-ICE Tokenized Stock Plans",
-      "url": "https://news.slashdot.org/story/26/10/27/2130245/growing-list-of-firms-object-to-okx-ice-tokenized-stock-plans?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Intel, Oracle, IBM and IonQ have joined a growing list of companies objecting to having tokenized versions of their shares traded through OKX and Intercontinental Exchange's blockchain venture, bringing the total number of objections to 26. About 37% of the companies on OKXICE's original list have now opted out, according to CoinDesk. From the report: The four companies were named in an updated public notice (PDF) dated Monday, Oct. 26, from OKXICE, the two firms' joint venture. They join earlie",
-      "published": "2026-10-27T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Code-Execution Flaw In UEFI Firmware Threatens Most Servers On Planet Earth",
-      "url": "https://it.slashdot.org/story/26/10/27/2121232/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ars Technica's Dan Goodin reports: Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world's server vendors and data centers. The vulnerability, with a severity rating of 9.5 out of 10, resides in the TianoCore EDK II, an open source codebase that hardware makers and cloud providers use to create the UEFI firmware that runs during the boot-up sequence. Last year, a representative of th",
-      "published": "2026-10-27T21:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -121,43 +182,36 @@
       "source": "HACKER NEWS",
       "title": "Early progress on accelerating drug development with Claude",
       "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "summary": "182 points · 165 comments",
+      "summary": "239 points · 234 comments",
       "published": "2026-10-27T20:50:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
       "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "summary": "128 points · 59 comments",
+      "summary": "175 points · 95 comments",
       "published": "2026-10-27T20:48:49+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Google's Genie 4 World Model Adds Audio, More Realistic Worlds",
-      "url": "https://tech.slashdot.org/story/26/10/27/1841227/googles-genie-4-world-model-adds-audio-more-realistic-worlds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TechCrunch: Google DeepMind released its newest world model, Genie 4, in research preview on Tuesday. The latest model generates the most photorealistic and interactive worlds yet, allowing users to type prompts mid-simulation to change the scene. The model also generates real-time audio that matches the simulated world, including music, ambient noises, and interactive dialogue. [...] Google released its predecessor, Genie 3, as a research preview a littl",
-      "published": "2026-10-27T20:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Code-execution flaw in UEFI firmware threatens most servers on planet Earth",
+      "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+      "summary": "164 points · 91 comments",
+      "published": "2026-10-27T20:35:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tailscale SSH: Investigation and remediation update",
       "url": "https://tailscale.com/ssh-investigation-update",
-      "summary": "242 points · 122 comments",
+      "summary": "298 points · 154 comments",
       "published": "2026-10-27T19:55:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
       "url": "https://www.brangus.io/survival-llm",
-      "summary": "255 points · 120 comments",
+      "summary": "377 points · 145 comments",
       "published": "2026-10-27T19:55:06+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Anduril Partners With Qualcomm to Build Laptops On US Soil",
-      "url": "https://news.slashdot.org/story/26/10/27/1833240/anduril-partners-with-qualcomm-to-build-laptops-on-us-soil?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader fadethepolice writes: Anduril, arguing that its manufacturing capabilities are directly applicable to laptop manufacturing, is starting a project for a fully 100% U.S.-sourced laptop. The computer will use a Qualcomm Snapdragon SoC. I did not see any information about the OS, but I'm assuming that, given the type of processor, this will be Linux-based? \"Other companies might design their computers in the U.S., Anduril makes them here,â the Anduril founder Palmer Luckey s",
-      "published": "2026-10-27T19:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -174,13 +228,6 @@
       "published": "2026-10-27T18:20:28+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Apple's Foldable iPhone Duo Draws Early Complaints of the Screen Cracking",
-      "url": "https://hardware.slashdot.org/story/26/10/27/1630226/apples-foldable-iphone-duo-draws-early-complaints-of-the-screen-cracking?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple has acknowledged an inner-display defect affecting a small number of its new $1,999 iPhone Duo foldables after customers reported hearing a crunch while unfolding the device before cracks, lines and other display failures appeared along the crease. Apple is replacing affected phones and investigating the problem. iFixit believes a failing hinge component may be pressing into and cracking the display rather than the panel itself being defective. Bloomberg reports: Reports of the problem fir",
-      "published": "2026-10-27T18:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xgywlp/cisa_confirms_php2shell_vulnerabilities_now/",
@@ -188,25 +235,11 @@
       "published": "2026-10-27T17:28:23+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Cybersecurity CEO Indicted For Allegedly Scamming Millions From Ransomware Victims",
-      "url": "https://it.slashdot.org/story/26/10/27/1550230/cybersecurity-ceo-indicted-for-allegedly-scamming-millions-from-ransomware-victims?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from ProPublica: A Florida man who was the subject of a 2019 investigation by ProPublica was indicted last month on federal charges that he defrauded clients of his ransomware data recovery firm. According to the Justice Department, the man, Zohar Pinhasi, told customers he could recover their encrypted files without having to pay hackers, when, in reality, he paid the ransom and charged victims a hefty fee on top. The indictment mirrors the findings from ProP",
-      "published": "2026-10-27T17:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Ghostty 1.4",
       "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "summary": "871 points · 275 comments",
+      "summary": "1072 points · 341 comments",
       "published": "2026-10-27T16:51:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "url": "https://cfsg.axiommath.ai/",
-      "summary": "190 points · 52 comments",
-      "published": "2026-10-27T16:29:02+00:00"
     },
     {
       "source": "REDDIT",
@@ -226,22 +259,15 @@
       "source": "HACKER NEWS",
       "title": "New 14‑inch MacBook Pro with M6",
       "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "summary": "317 points · 410 comments",
+      "summary": "376 points · 512 comments",
       "published": "2026-10-27T16:08:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Genie 4",
       "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "summary": "804 points · 489 comments",
+      "summary": "917 points · 529 comments",
       "published": "2026-10-27T16:06:01+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Apple Updates MacBook Pro With M6 Chips",
-      "url": "https://apple.slashdot.org/story/26/10/27/1541235/apple-updates-macbook-pro-with-m6-chips?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Ahead of the touchscreen MacBook Pro expected to debut tomorrow, Apple has refreshed its standard 14-inch MacBook Pro with the new M6 processor, promising up to 20% faster multithreaded performance, improved power efficiency, and more powerful on-device AI capabilities. The Verge reports: Announced this morning through a press release, the new 14-inch MacBook Pro features three Thunder 4 USB-C ports that all support charging and DisplayPort connectivity, a MagSafe 3 charging port, full-size HDMI",
-      "published": "2026-10-27T16:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -256,20 +282,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xgw9xm/why_are_so_many_midlevel_cyber_jobs_getting_100/",
       "summary": "I've been looking around at the job market again and this has been pretty discouraging. I've been working in a SOC for over 5 years and have moved up a few times since starting as an Analyst I, so I'm definitely not looking at entry-level roles. I'm looking at jobs asking for 3–5+ years of experience where I match most, if not all, of what they're looking for. Yet so many of them have 100+ applicants, sometimes several hundred. What I don't understand is the disconnect. Cybersecurity workforce r",
       "published": "2026-10-27T15:53:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "In China, the AI Bubble Has Already Burst",
-      "url": "https://slashdot.org/story/26/10/27/0218203/in-china-the-ai-bubble-has-already-burst?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Reuters: While global tech stocks teeter, in China they have already crashed as lofty valuations collapse under worries about AI demand and curbs on Chinese exports. The meltdown, tanking the mainland STAR50 index of AI and semiconductor leaders by 40% in less than four months and vaporizing some $480 billion in market value, is an ill omen for wobbly world markets and a dampener on China's efforts at encouraging its savers into stocks to fund the AI boom",
-      "published": "2026-10-27T15:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "FortiBleed 2.0: 975 New Domains & 40,573 Exposed Secrets",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgu57x/fortibleed_20_975_new_domains_40573_exposed/",
-      "summary": "Newly obtained FortiGate configuration reports reveal 40,573 records containing cleartext secrets , including 37,076 local-user records and 1,576 Active Directory LDAP bind records . The analysis also identifies 975 domain labels absent from FortiBleed 1.0 . The configuration material dates to around February 2026, earlier than the likely May/June material examined in the first investigation. submitted by /u/Malwarebeasts [link] [comments]",
-      "published": "2026-10-27T14:32:23+00:00"
     },
     {
       "source": "OSINT",
@@ -303,7 +315,7 @@
       "source": "HACKER NEWS",
       "title": "New iMac with M6",
       "url": "https://www.apple.com/imac/",
-      "summary": "322 points · 398 comments",
+      "summary": "342 points · 430 comments",
       "published": "2026-10-27T13:02:02+00:00"
     },
     {
@@ -314,46 +326,11 @@
       "published": "2026-10-27T12:09:50+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Onamae.com Desktop Cloud breach: GMO virtual desktop service hacked, FX trading accounts compromised, $50M extortion demand",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xgqpjt/onamaecom_desktop_cloud_breach_gmo_virtual/",
-      "summary": "Oct 21: First unauthorized FX trades reported by customers Oct 25: CEO admits internal white-hat staff had flagged issues beforehand Oct 27: Attacker publishes data claimed to be GMO and customer information Tldr; everyone’s getting pwned submitted by /u/DoggoProfessor959 [link] [comments]",
-      "published": "2026-10-27T12:05:34+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
-      "url": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
-      "summary": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26. Someone with that key could build counterfeit devices that pass the online check owners use to verify a Keystone. A buyer who trusted a counterfeit could have their crypto stolen, but the incident did not involve",
-      "published": "2026-10-27T11:46:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-      "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
-      "summary": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. Some fake login pages go beyond stealing passwords. They can also capture MFA codes or hijack authenticated sessions, allowing attackers to gain",
-      "published": "2026-10-27T11:32:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
-      "url": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
-      "summary": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturing sectors. According to Russian cybersecurity company Kaspersky, the campaign has been active since at least July 2025. It's assessed to pick up",
-      "published": "2026-10-27T11:32:31+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Python's experimental JIT to be removed",
       "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "summary": "469 points · 253 comments",
+      "summary": "522 points · 282 comments",
       "published": "2026-10-27T11:17:57+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Denmark Gives Up On Replacing Microsoft Office With Collabora",
-      "url": "https://tech.slashdot.org/story/26/10/26/2222246/denmark-gives-up-on-replacing-microsoft-office-with-collabora?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Denmark's Ministry of Digitization reportedly abandoned a pilot to replace Microsoft Office with the open-source Collabora suite less than six months after it began. Tom's Hardware reports: According to Danish publication Computerworld, the pilot project was launched in 2025 and involved 38 employees, all of whom would start using the British open-source Collabora office suite instead of Word, PowerPoint, and Excel. The experiment was initiated by the then Digitization Minister Caroline Stage, w",
-      "published": "2026-10-27T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -364,59 +341,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-      "url": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-      "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal's operation's backend and cut it off from those computers. \"The next steps that we took were to disconnect that Amadey controller from all those",
-      "published": "2026-10-27T09:33:06+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Energy giant ENGIE discloses data breach affecting customers",
       "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
       "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
       "published": "2026-10-27T09:25:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-      "url": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-      "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem before answering, and the service normally returns only the raw reasoning as an encrypted item the user cannot read. The method got past",
-      "published": "2026-10-27T08:22:43+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Industry Executives Knew For Decades That Microplastics Were Infiltrating the Human Body",
-      "url": "https://science.slashdot.org/story/26/10/27/0232248/industry-executives-knew-for-decades-that-microplastics-were-infiltrating-the-human-body?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Susanne Rust of the Los Angeles Times reports (paywalled) that industry executives knew for decades that microplastics were infiltrating the human body. Slashdot reader joshuark shares an excerpt from the report: Scientists today say we're just beginning to understand the harm that the tiny bits of plastic we drink, eat and breathe are doing to the human body. Internal memos among company scientists and executives obtained by The Times reveal that for at least half a century, the plastics indust",
-      "published": "2026-10-27T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-      "url": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video stream, changing the device configuration and creating third-party accounts have been recorded,\" the State Special Communications Service of Ukraine (SSSCIP)",
-      "published": "2026-10-27T06:34:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-      "url": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities, both rated 9.2 on the CVSS scoring system, facilitate unauthenticated remote code execution on affected deployments - CVE-2026-109618 - An out-of-memory",
-      "published": "2026-10-27T04:37:59+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "University of Copenhagen data breach exposes data of 525,000 people",
-      "url": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-      "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-      "published": "2026-10-26T22:20:36+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
-      "url": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
-      "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of code to the store's pages that, when visited by unsuspecting users, serves malicious JavaScript loader code through Magento CMS blocks. \"When you",
-      "published": "2026-10-26T18:12:22+00:00"
     },
     {
       "source": "REDDIT",
@@ -427,16 +355,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "81 Jokes for the ZX81",
-      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
-      "summary": "55 points · 5 comments",
-      "published": "2026-10-26T12:45:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "SS United States to be sunk as largest artificial reef",
       "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-      "summary": "111 points · 79 comments",
+      "summary": "154 points · 127 comments",
       "published": "2026-10-26T04:41:15+00:00"
     },
     {
@@ -450,7 +371,7 @@
       "source": "HACKER NEWS",
       "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
       "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "summary": "138 points · 24 comments",
+      "summary": "256 points · 43 comments",
       "published": "2026-10-25T18:49:48+00:00"
     },
     {
@@ -462,24 +383,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Assembly Nights",
-      "url": "https://ratfactor.com/assembly-nights",
-      "summary": "34 points · 8 comments",
-      "published": "2026-10-25T12:35:37+00:00"
+      "title": "MacOS Extensions Pack for the Apple Network Server v1.0",
+      "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
+      "summary": "57 points · 0 comments",
+      "published": "2026-10-25T01:39:51+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "An examination of lost firefly species of the US and Canada",
-      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-      "summary": "105 points · 27 comments",
-      "published": "2026-10-24T19:04:42+00:00"
+      "title": "Decompiling Fast Food Tycoon 2: Drawing the World",
+      "url": "https://healeycodes.com/decompiling-fast-food-tycoon-2-drawing-the-world",
+      "summary": "65 points · 11 comments",
+      "published": "2026-10-24T18:17:57+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "A Love Letter to the Super Dimension Fortress",
-      "url": "https://brennan.day/a-love-letter-to-the-super-dimension-fortress/",
-      "summary": "30 points · 3 comments",
-      "published": "2026-10-24T08:30:32+00:00"
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "summary": "116 points · 10 comments",
+      "published": "2026-10-23T13:49:50+00:00"
     },
     {
       "source": "OSINT",
