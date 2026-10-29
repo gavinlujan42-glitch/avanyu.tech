@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T08:18:10.651439+00:00",
+  "updated": "2026-10-29T15:27:59.447659+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,17 +27,248 @@
   ],
   "items": [
     {
+      "source": "SLASHDOT",
+      "title": "'Please Let the Internet Die'",
+      "url": "https://tech.slashdot.org/story/26/10/29/052237/please-let-the-internet-die?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Slashdot reader fjo3 shares an article from Wired: The internet must be put out of its misery. Any rational observer can admit that the current iteration of the web -- and the social fabric woven there -- is not what they signed up for. Symptoms of advanced cultural decay can no longer be ignored. This thing is eating itself. Giants including Meta and Google have been forced to settle massive consumer lawsuits brought over privacy violations and mental health harms allegedly caused by the addict",
+      "published": "2026-10-29T15:00:00+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
-      "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
-      "summary": "8 points · 1 comments",
-      "published": "2026-10-29T07:52:32+00:00"
+      "title": "Finland investigate Google over destruction of 250k trees",
+      "url": "https://yle.fi/a/74-20254086",
+      "summary": "38 points · 10 comments",
+      "published": "2026-10-29T14:57:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "React.lazy, Suspense and the Hidden 300 ms Delay",
+      "url": "https://tabwidgets.com/blog/react-lazy-suspense-delay",
+      "summary": "16 points · 4 comments",
+      "published": "2026-10-29T14:50:17+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Lessons from building AI vishing simulations: help desk resets are the soft spot. What have your vishing tests turned up?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xily3g/lessons_from_building_ai_vishing_simulations_help/",
+      "summary": "Disclosure: I work on the security team at a security vendor (Fable). No link or pitch here; I’m curious about practitioner experience. As email filtering gets better, more social engineering is moving to the phone. The pattern we keep seeing is someone calling the help desk, saying they lost their phone, and asking for an MFA or password reset. AI voice makes it cheap to try that at scale, so attackers just keep calling until they reach someone who’s undertrained. A few things that surprised us",
+      "published": "2026-10-29T14:44:37+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "DoorDash is acquiring Instacart for $17B",
+      "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+      "summary": "46 points · 26 comments",
+      "published": "2026-10-29T14:40:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+      "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+      "published": "2026-10-29T14:35:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "EMBRACE: How We Hacked the Browsers Embedded in Top Five Desktop AI Assistants · Forever Secur",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xiln2a/embrace_how_we_hacked_the_browsers_embedded_in/",
+      "summary": "submitted by /u/Content-Winter5328 [link] [comments]",
+      "published": "2026-10-29T14:32:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Keplearn: Extract Equations from Data in Seconds",
+      "url": "https://github.com/owls-on-wires/keplearn",
+      "summary": "9 points · 0 comments",
+      "published": "2026-10-29T14:22:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "summary": "335 points · 75 comments",
+      "published": "2026-10-29T14:13:21+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "TightVNC Viewer Pre-auth RCE",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xil3eh/tightvnc_viewer_preauth_rce/",
+      "summary": "What if a VNC server could make your viewer believe it had a ~4 GB framebuffer… while actually allocating only 128 KB? That’s the core of this TightVNC vulnerability. A malicious server can announce a crafted 32768 × 32769 screen at 32bpp, causing the framebuffer size calculation to overflow. The allocation wraps down to 128 KB, but the viewer continues using the original, much larger dimensions when calculating pixel writes. The result is a server-controlled out-of-bounds write in the viewer. I",
+      "published": "2026-10-29T14:11:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "3 Ways AI Agents Already Operate in Your Browser",
+      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+      "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users. [...]",
+      "published": "2026-10-29T14:00:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
+      "published": "2026-10-29T13:59:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Request are hitting my site from https://leakix.net/ Who are they ?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xikl3v/request_are_hitting_my_site_from_httpsleakixnet/",
+      "summary": "Are they friend or foe ? submitted by /u/leibnizcocoa [link] [comments]",
+      "published": "2026-10-29T13:52:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+      "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+      "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key capabilities critical for cybersecurity defense, landing a firm lead in SEC-bench Pro (88.2%) for finding vulnerabilities, ExploitGym (54.8%) for exploitation, and",
+      "published": "2026-10-29T13:42:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+      "summary": "250 points · 147 comments",
+      "published": "2026-10-29T13:40:04+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "AI in pentest? How?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xik0tl/ai_in_pentest_how/",
+      "summary": "Hi everyone, Everybody is using ai everywhere and even in cybersec and pentest and I’m ok with that but: - how do you actually use it? - how much do you spend ish? - how come everyone is able to avoid cybersec restrictions? That’s a lot to talk about and I’m eager to read your opinions submitted by /u/Secret-Tumbleweed-13 [link] [comments]",
+      "published": "2026-10-29T13:30:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "summary": "228 points · 170 comments",
+      "published": "2026-10-29T12:41:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hackers expose the identities of more than 40k DHS employees",
+      "url": "https://text.npr.org/nx-s1-6021497",
+      "summary": "146 points · 25 comments",
+      "published": "2026-10-29T12:31:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
+      "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
+      "published": "2026-10-29T12:00:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google determines the names for bodies of water in Google Earth (2008)",
+      "url": "https://publicpolicy.googleblog.com/2008/04/how-google-determines-names-for-bodies.html",
+      "summary": "133 points · 102 comments",
+      "published": "2026-10-29T11:41:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+      "url": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+      "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through weaknesses faster than traditional security processes were built to handle. The challenge is no longer just finding another vulnerability or",
+      "published": "2026-10-29T11:39:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+      "url": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+      "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app, released in late September, and NebuSec disclosed it on October 29. The flaw can be triggered in every version from",
+      "published": "2026-10-29T11:39:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+      "url": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+      "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems can perform on their own. As these capabilities mature, security operations centers (SOCs) will see major changes in how work is organized, how",
+      "published": "2026-10-29T11:33:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+      "url": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+      "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann found them by scanning 7.25 million public Gitee repositories and reported the results on October 28. Most were keys for cloud and AI services, led by",
+      "published": "2026-10-29T11:33:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Where do you get reliable detection rules from?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xihfoe/where_do_you_get_reliable_detection_rules_from/",
+      "summary": "I’ve been experimenting with detection engineering in my home lab, and I’m curious how others approach building and maintaining high-quality detections. I recently migrated a large number of detection rules from Sigma and Splunk SPL into Wazuh syntax, primarily using Falco and Sysmon for Linux as telemetry sources. After setting everything up, I started executing real malware samples from MalwareBazaar and similar sources in an isolated lab to test how well the detections actually work. Also, ma",
+      "published": "2026-10-29T11:31:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
+      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
+      "published": "2026-10-29T11:10:13+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google Struggling to Make AI Mode Searches Pay",
+      "url": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Alphabet shares fell nearly 10% after Google disclosed that searches through its AI Mode generate less revenue than traditional search, even as overall search revenue grew 12% year over year to $63.25 billion. The Register reports: Alphabet on Wednesday reported its Q3 results, which included news that its year-over-year search query growth rate is the highest it's been in the last five years. Some of that growth comes from users adopting \"AI Mode\" -- Google's latest LLM-powered search system. G",
+      "published": "2026-10-29T11:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "summary": "200 points · 125 comments",
+      "published": "2026-10-29T10:44:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+      "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+      "summary": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated 8.6 on the CVSS scoring system. Successful exploitation could allow an unauthenticated, remote attacker to cause the",
+      "published": "2026-10-29T10:44:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+      "summary": "106 points · 45 comments",
+      "published": "2026-10-29T10:42:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+      "url": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+      "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of malicious activity, acting as an install-time policy gate,\" GitHub said. The feature, which currently supports only npm packages, is available in public preview",
+      "published": "2026-10-29T10:26:33+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Anyone else recently feeling kinda burnt out lately?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xig60o/anyone_else_recently_feeling_kinda_burnt_out/",
+      "summary": "Anyone feeling burnt out lately? Especially with the rate in which AI is coming out with these vulnerabilities amongst other things. Just feel like everyday is an uphill battle, I work in CTI and its getting tiring trying to keep up. Patching is also ridiculously hard to keep up with since i work in such a large traditional firm (banking). And everything seems to go wrong all at the same time, coinciding with our public holidays and weekends. On top of being tired from actual critical cases and ",
+      "published": "2026-10-29T10:24:08+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+      "url": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+      "summary": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October. The flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run code on a GitLab server through a crafted regular expression in a CI configuration. Alpine found no evidence that the attack worked but",
+      "published": "2026-10-29T09:05:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+      "url": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+      "summary": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network. The malware, called KeyDrift, is designed to copy the keys that encrypt traffic between sites and store them for later use, Cisco Talos said on October 28. Talos calls the attacks historical but does not specify when they",
+      "published": "2026-10-29T08:24:22+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Zero click, silent, remote Android DoS",
       "url": "https://smsofdeath.com/",
-      "summary": "6 points · 3 comments",
+      "summary": "234 points · 125 comments",
       "published": "2026-10-29T07:08:50+00:00"
     },
     {
@@ -51,7 +282,7 @@
       "source": "HACKER NEWS",
       "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
       "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-      "summary": "6 points · 0 comments",
+      "summary": "180 points · 30 comments",
       "published": "2026-10-29T06:47:28+00:00"
     },
     {
@@ -62,32 +293,11 @@
       "published": "2026-10-29T06:22:33+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "BCIT CIT -> Digital Forensics & Cybersecurity degree or SFU CS for cyber?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xibvac/bcit_cit_digital_forensics_cybersecurity_degree/",
-      "summary": "I'm a high school senior in Vancouver trying to decide between: BCIT CIT diploma → Digital Forensics and Cybersecurity degree SFU Computing Science → possibly a cybersecurity master's later I'm interested in SOC, incident response and digital forensics. I like understanding how systems work and get attacked, but I don't really see myself as a software developer. I'm also interested in Engineering/designing as well. I'm taking AP CS A and have already been exposed to/experimented with different a",
-      "published": "2026-10-29T05:55:55+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "100+ cloned GitHub repos pushing Remus Botnet via password-protected releases, and a registrar that wants a trademark before it will act",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xibso1/100_cloned_github_repos_pushing_remus_botnet_via/",
-      "summary": "TL;DR: Someone is mass-producing fake repos on GitHub (game mods, Windows utils) that lead to a Remus Botnet payload. The archive is password-protected, so GitHub's scanners can't look inside. The gateway domain's registrar (Openprovider) said no to takedown without a trademark/power of attorney or a court order. I've reported it to ICANN, the .art registry, GitHub and Google. IOCs below. What I found Disposable accounts create repos that look like mods for games like Project Zomboid 3D, Minecra",
-      "published": "2026-10-29T05:51:22+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
       "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
       "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto Networks management interface exposed to the internet,\" the network security company said in an update to its advisory. The vulnerabilities, tracked as",
       "published": "2026-10-29T05:50:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Claude Code regularly sends each background agent’s transcript to its model",
-      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-      "summary": "314 points · 98 comments",
-      "published": "2026-10-29T03:33:42+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -97,32 +307,11 @@
       "published": "2026-10-29T03:30:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Today I spotted, investigated, and remediated my first legitimate attack",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xi8b3y/today_i_spotted_investigated_and_remediated_my/",
-      "summary": "I’m an engineer with about a YOE, this morning I was combing thru logs for something completely unrelated, and stumbled upon some logs that looked funny to me, and ended up going to the SIEM and finding the issue was much larger. It flew under all our alerting systems, bypassed multiple security controls, and was going on for many hours before I found what was going on. Our AI didn’t find it, our firewall didn’t stop it, and our rules couldn’t alert us to it, just an engineer who knew the normal",
-      "published": "2026-10-29T02:41:27+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
       "url": "https://divagr.com/blog/qwenputer",
-      "summary": "387 points · 81 comments",
+      "summary": "625 points · 131 comments",
       "published": "2026-10-29T00:25:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-      "summary": "166 points · 76 comments",
-      "published": "2026-10-28T23:45:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "StackOverflow now gets fewer than 1000 questions a month",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-      "summary": "371 points · 310 comments",
-      "published": "2026-10-28T23:35:02+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -137,20 +326,6 @@
       "url": "https://yro.slashdot.org/story/26/10/28/2158201/massive-leak-exposes-41000-homeland-security-workers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "A massive leak has exposed records tied to more than 41,000 DHS employees and contractors, including roughly 10,000 ICE personnel. The data, reportedly taken from DHS's Okta login system, reveals phone numbers, email and office addresses, reporting relationships, and permission groups associated with undercover operations, wiretapping and surveillance tools. Wired reports: In all, the leak provides a map of how DHS is organized and how it operates. The records, which span DHS itself as well as s",
       "published": "2026-10-28T22:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Formlabs Studio 1 $699 Resin Printer",
-      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
-      "summary": "173 points · 111 comments",
-      "published": "2026-10-28T21:19:30+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A Health Update",
-      "url": "https://furbo.org/2026/10/28/a-health-update/",
-      "summary": "226 points · 35 comments",
-      "published": "2026-10-28T21:13:21+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -212,22 +387,8 @@
       "source": "HACKER NEWS",
       "title": "Why is this fingerprinting script creating bioweapons?",
       "url": "https://nullpt.rs/fingerprinting-bioweapons",
-      "summary": "1120 points · 220 comments",
+      "summary": "1462 points · 270 comments",
       "published": "2026-10-28T17:13:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-      "url": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-      "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with every new app and update, for ongoing malware scanning. Approved stores get the features from December 1, but only on",
-      "published": "2026-10-28T17:08:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Gemini 4 Carbon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-      "summary": "906 points · 737 comments",
-      "published": "2026-10-28T17:01:23+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -242,27 +403,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
       "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
       "published": "2026-10-28T16:45:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-      "url": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-      "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain won $175,000 at the Pwn2Own Berlin contest in May. Microsoft fixed the Edge bugs the day after the contest,",
-      "published": "2026-10-28T16:23:34+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-      "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-      "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was observed on October 25, 2026, involved an attacker combining PHP2Shell with a kernel privilege escalation exploit to root",
-      "published": "2026-10-28T16:02:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Tailscale Releases Emergency Fix for “Tailworm” SSH Flaws",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xhs4wr/tailscale_releases_emergency_fix_for_tailworm_ssh/",
-      "summary": "Tailscale released version 1.104.4 after researchers demonstrated privilege-escalation vulnerabilities in Tailscale SSH. An attacker with access to an already-authorized device could potentially gain elevated privileges on reachable systems. A compromised machine could become a stepping stone into other servers permitted by SSH policy. This is not an unauthenticated Internet-wide worm. Update Tailscale SSH systems and review SSH access permissions. submitted by /u/BTC-brother2018 [link] [comment",
-      "published": "2026-10-28T16:01:53+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -286,25 +426,11 @@
       "published": "2026-10-28T15:48:56+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Google Begins Certifying Registered App Stores For Android",
-      "url": "https://tech.slashdot.org/story/26/10/28/0313217/google-begins-certifying-registered-app-stores-for-android?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: Running an app ecosystem has gotten a lot more complex for Google after its loss in the Epic Games antitrust case. While U.S. users can access app stores in Google Play by court order, international users will use Google's voluntary Registered App Stores program. Google has announced that stores wishing to be part of that program are now free to apply, and support will roll out to some Android devices later this year. App stores accepted int",
-      "published": "2026-10-28T15:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
       "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
       "published": "2026-10-28T14:48:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "CNC Stone Carving",
-      "url": "https://carmelitegothic.com/cnc-stone-carving/",
-      "summary": "461 points · 128 comments",
-      "published": "2026-10-28T14:38:22+00:00"
     },
     {
       "source": "OSINT",
@@ -321,25 +447,11 @@
       "published": "2026-10-28T13:58:29+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "😲 An operator stole 68 GB from a Philippine government agency, then left the evidence open on the internet",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xhosqd/an_operator_stole_68_gb_from_a_philippine/",
-      "summary": "Researchers found an operator’s staging server open over HTTP, with the operator’s own rclone log inside it: a completed 68.837 GiB copy of 27 database backups from a Philippine overseas-employment agency (POEA, now under the DMW). The findings worth knowing: The agency link is confirmed, not inferred. The download servers present a *.dmw.gov.ph certificate issued to POEA. The privilege-escalation payload is a rebranded GodPotato (“Wrqsnx”) that reaches SYSTEM with no CVE, just SeImpersonate abu",
-      "published": "2026-10-28T13:57:37+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
       "url": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
       "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]",
       "published": "2026-10-28T13:50:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The largest cyber attack on the Republic of Moldova: over 750,000 ID numbers compromised, public services paralyzed and major fraud risks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xholu8/the_largest_cyber_attack_on_the_republic_of/",
-      "summary": "submitted by /u/Difficult_Layer_666 [link] [comments]",
-      "published": "2026-10-28T13:50:07+00:00"
     },
     {
       "source": "REDDIT",
@@ -349,137 +461,25 @@
       "published": "2026-10-28T13:26:41+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-      "url": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-      "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the Oracle Application Object Library of Oracle E-Business Suite. It was patched by Oracle last week as part of its Critical",
-      "published": "2026-10-28T12:48:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-      "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-      "published": "2026-10-28T12:19:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-      "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-      "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the software that runs first when a computer is switched on, before the operating system. An attacker who can reach the machine",
-      "published": "2026-10-28T11:50:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Wazuh and AI for Enhanced SOC Workflows",
-      "url": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "published": "2026-10-28T11:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-      "url": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-      "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight vulnerabilities is as follows - CVE-2026-104351 (CVSS score: 9.9) - A code injection vulnerability that could lead to arbitrary code execution.",
-      "published": "2026-10-28T11:15:51+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Astronomers May Have Just Discovered Our Solar System's Sixth Dwarf Planet",
-      "url": "https://science.slashdot.org/story/26/10/28/035218/astronomers-may-have-just-discovered-our-solar-systems-sixth-dwarf-planet?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Astronomers using the Vera C. Rubin Observatory have discovered 2026 ED138, a large object beyond Neptune that could become the solar system's sixth recognized dwarf planet if further observations confirm it is massive enough to be round. Located about 46 times farther from the Sun than Earth, the object is estimated to be 600 to 1,500 kilometers wide and had remained hidden because it lies against a particularly crowded field of Milky Way stars. Scientific American reports: The discovery was ma",
-      "published": "2026-10-28T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-      "published": "2026-10-28T10:46:23+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious signs behind. ANY.RUN's analysis of Skyw4lker, a device code phishing campaign primarily targeting U.S. organizations",
-      "published": "2026-10-28T10:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-      "published": "2026-10-28T09:43:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any real attack, and Anthropic reported every flaw to the vendor first, so all of them are already patched. One proof of",
-      "published": "2026-10-28T08:15:07+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xhg1fl/codeexecution_flaw_in_uefi_firmware_affects_most/",
-      "summary": "submitted by /u/ni5arga [link] [comments]",
-      "published": "2026-10-28T05:53:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-      "published": "2026-10-27T23:35:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-      "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
-      "published": "2026-10-27T22:43:27+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "A new faster algorithm to compute 64-bit signed floor division",
-      "url": "https://www.benjoffe.com/fast-floordiv",
-      "summary": "46 points · 4 comments",
-      "published": "2026-10-27T09:13:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI's agents talked to each other through the CPU Cache",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-      "summary": "90 points · 33 comments",
-      "published": "2026-10-26T21:24:18+00:00"
+      "title": "Open Sound Connect – Control Sony Headphones from Your Mac",
+      "url": "https://opensoundconnect.app",
+      "summary": "12 points · 5 comments",
+      "published": "2026-10-26T17:23:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Getting debug access on a Brother printer over Telnet",
       "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
-      "summary": "9 points · 1 comments",
+      "summary": "132 points · 36 comments",
       "published": "2026-10-26T13:54:39+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
-      "url": "https://www.circuithub.com/post/unveiling-the-grid",
-      "summary": "492 points · 219 comments",
-      "published": "2026-10-26T13:13:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Human-enhanced tsunami hazard in large lakes",
-      "url": "https://www.nature.com/articles/s41467-026-78272-8",
-      "summary": "31 points · 2 comments",
-      "published": "2026-10-26T13:00:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Treap (Cartesian Tree)",
-      "url": "https://cp-algorithms.com/data_structures/treap.html",
-      "summary": "18 points · 2 comments",
-      "published": "2026-10-26T11:19:31+00:00"
+      "title": "Java's new AOT cache feature is in a rough state",
+      "url": "https://xpipe.io/blog/java-aot-cache",
+      "summary": "32 points · 14 comments",
+      "published": "2026-10-26T12:27:44+00:00"
     },
     {
       "source": "REDDIT",
