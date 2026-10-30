@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T20:28:55.322462+00:00",
+  "updated": "2026-10-30T00:10:22.113873+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,6 +27,153 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Custom PHP2Shell Exploit Chained with Kernel LPE to Root Versions of Palo Alto Networks PAN-OS Firewalls in the Wild",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xj0jec/custom_php2shell_exploit_chained_with_kernel_lpe/",
+      "summary": "submitted by /u/BigPoppaPump36 [link] [comments]",
+      "published": "2026-10-30T00:03:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+      "published": "2026-10-29T23:35:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "summary": "7 points · 1 comments",
+      "published": "2026-10-29T23:25:46+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Trump's CTFC Steps In to Defend Kalshi As Utah Brings Criminal Charges Against Execs",
+      "url": "https://yro.slashdot.org/story/26/10/29/193242/trumps-ctfc-steps-in-to-defend-kalshi-as-utah-brings-criminal-charges-against-execs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Commodity Futures Trading Commission (CFTC) has sued Utah to defend its claimed exclusive authority over federally registered prediction markets, as the state files (PDF) 14 criminal charges against Kalshi and its co-founders for allegedly violating anti-gambling laws. The Verge reports: On Wednesday, Utah's Attorney General Derek Brown filed charges against Kalshi co-founders Tarek Mansour and Luana Lopes Lara, including 12 counts of online gambling promotion, a third-degree felony, one cou",
+      "published": "2026-10-29T23:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Binance probes potential $5.8 billion crypto-theft hack",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+      "published": "2026-10-29T22:45:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "summary": "25 points · 1 comments",
+      "published": "2026-10-29T22:26:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "url": "https://claremontreviewofbooks.com/the-great-american-rascal/",
+      "summary": "25 points · 6 comments",
+      "published": "2026-10-29T22:14:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
+      "published": "2026-10-29T22:09:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+      "published": "2026-10-29T22:08:04+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Multi-Billion Binance Hack Hitting Crypto Markets",
+      "url": "https://slashdot.org/story/26/10/29/2143222/multi-billion-binance-hack-hitting-crypto-markets?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Binance is investigating a potential hack after more than $2 billion in crypto was drained from one of its wallets into a new external account, with Blockaid estimating nearly $3.3 billion was moved. \"Our teams are aware of reports of a potential security issue and are actively investigating,\" said Binance on X. \"User funds are safe,\" said Binance founder CZ. \"It does look like a hack on Binance. Appreciate the quick freeze from Tether (~$971m) and Circle (~$823m). I don't manage Binance anymore",
+      "published": "2026-10-29T22:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Abliterated models for blue-team work: what they fix, what they break, and one we’re hosting",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xixi5y/abliterated_models_for_blueteam_work_what_they/",
+      "summary": "Disclosure up front: I’m a cofounder of Hopper, which hosts the model linked at the bottom. If you’ve used LLMs for defensive work, you’ve probably hit refusals on routine tasks: asking what an obfuscated PowerShell one-liner from your logs actually does, writing Sigma or YARA rules for a known malware family, or getting a PoC to confirm a vuln in your own codebase before you patch it. Abliteration is one way around this. Research showed that refusal behavior in many LLMs is mediated by a single",
+      "published": "2026-10-29T21:56:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Proton goes all in on using AI",
+      "url": "https://convo.casa/@b/117525936178835007",
+      "summary": "31 points · 10 comments",
+      "published": "2026-10-29T21:49:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
+      "url": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
+      "summary": "38 points · 8 comments",
+      "published": "2026-10-29T21:48:35+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]",
+      "published": "2026-10-29T21:47:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "107 points · 39 comments",
+      "published": "2026-10-29T21:40:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "summary": "551 points · 318 comments",
+      "published": "2026-10-29T21:38:59+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Get PBCs job, crack interviews.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xiwz8i/get_pbcs_job_crack_interviews/",
+      "summary": "Hello All, I am trying for cyber security engineer / consultant role(4 YOE in Threat Modeling, Vulnerability Assessment, Cloud Security) not getting calls from companies which I applied in the company websites but from the Naukri and interviews get scheduled. So, interview sometimes go well, sometimes not, for the interviews which went well no further updates. In addition to this, how I should prepare technical interviews completely ( how many months it takes) and HR interview to get placed in P",
+      "published": "2026-10-29T21:35:41+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Patrick Stewart, 'Star Trek' Captain and 'X-Men' Superhero, Dies At 86",
+      "url": "https://entertainment.slashdot.org/story/26/10/29/2059216/patrick-stewart-star-trek-captain-and-x-men-superhero-dies-at-86?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Slashdot readers Cpt_Kirks, eklektic, sconeu, and Vrallis share the unfortunate news of Patrick Stewart's passing. Longtime spokesperson Kelly Bush Novak said Stewart died Wednesday at the age of 86 at his home in Los Angeles following \"a brief and poignant journey with Alzheimer's disease and Lewy body dementia.\" \"He has been held in the warm embrace of family and friends, surrounded by live music, prayer, tears, laughter and the kind of profound emotion that only he could inspire after a lifet",
+      "published": "2026-10-29T21:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sylphide OS: a general-purpose OS for microcontroller-based computers",
+      "url": "https://projects.freehackers.org/sylphide-os/",
+      "summary": "28 points · 6 comments",
+      "published": "2026-10-29T20:59:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ElementaryUI – Swift, in the Browser",
+      "url": "https://elementary.codes",
+      "summary": "44 points · 8 comments",
+      "published": "2026-10-29T20:56:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "summary": "84 points · 7 comments",
+      "published": "2026-10-29T20:32:28+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Nvidia Chief Seen As Target of Chinese Spy Plot",
       "url": "https://slashdot.org/story/26/10/29/189230/nvidia-chief-seen-as-target-of-chinese-spy-plot?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -37,29 +184,15 @@
       "source": "HACKER NEWS",
       "title": "Patrick Stewart has died",
       "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-      "summary": "699 points · 123 comments",
+      "summary": "2194 points · 446 comments",
       "published": "2026-10-29T19:41:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The importance of communities around software",
-      "url": "https://lumi.codeberg.page/blog/software-community.html",
-      "summary": "31 points · 24 comments",
-      "published": "2026-10-29T19:27:47+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
       "url": "https://github.com/johncassil/dontallow",
-      "summary": "35 points · 24 comments",
+      "summary": "87 points · 68 comments",
       "published": "2026-10-29T19:27:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
-      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
-      "summary": "15 points · 5 comments",
-      "published": "2026-10-29T19:25:48+00:00"
     },
     {
       "source": "OSINT",
@@ -97,27 +230,6 @@
       "published": "2026-10-29T18:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-      "summary": "95 points · 37 comments",
-      "published": "2026-10-29T17:43:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "After 28 years walking across the globe, he's almost home",
-      "url": "https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html",
-      "summary": "51 points · 21 comments",
-      "published": "2026-10-29T17:42:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Duet is the future of chatbot interaction",
-      "url": "https://fig.blue/posts/duet-is-the-future/",
-      "summary": "20 points · 13 comments",
-      "published": "2026-10-29T17:24:25+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "For production environments, when do paid SSL certificates actually make sense over Let's Encrypt?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xipyys/for_production_environments_when_do_paid_ssl/",
@@ -153,13 +265,6 @@
       "published": "2026-10-29T16:10:31+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Hackers Leak Personal Data of 40,000 DHS Employees",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xio8jn/hackers_leak_personal_data_of_40000_dhs_employees/",
-      "summary": "A hacker claimed they obtained the data from an Okta single sign-on system used by Homeland Security, but Okta says it has no evidence its systems were compromised. Who exactly is responsible? submitted by /u/timio-ttt [link] [comments]",
-      "published": "2026-10-29T16:10:02+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Reddit Is Getting a 'For You' Feed",
       "url": "https://tech.slashdot.org/story/26/10/29/0518249/reddit-is-getting-a-for-you-feed?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -168,24 +273,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "summary": "33 points · 12 comments",
-      "published": "2026-10-29T15:56:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "H.264 Is Magic (2016)",
       "url": "https://sidbala.com/h-264-is-magic/",
-      "summary": "217 points · 103 comments",
+      "summary": "308 points · 118 comments",
       "published": "2026-10-29T15:53:03+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "url": "https://skypilot.ai/blog/grace-blackwell-needs-a-new-scheduler",
-      "summary": "102 points · 18 comments",
-      "published": "2026-10-29T15:45:05+00:00"
     },
     {
       "source": "OSINT",
@@ -193,13 +284,6 @@
       "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
       "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves creating fake GitHub projects that claim to be desktop applications like GPT-5.6 Sol, GPT-6 Astra, and Claude Opus, only to deliver a malware family called",
       "published": "2026-10-29T15:20:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "summary": "115 points · 55 comments",
-      "published": "2026-10-29T15:06:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -212,7 +296,7 @@
       "source": "HACKER NEWS",
       "title": "LLM Voice",
       "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "summary": "231 points · 132 comments",
+      "summary": "321 points · 165 comments",
       "published": "2026-10-29T14:57:55+00:00"
     },
     {
@@ -240,7 +324,7 @@
       "source": "HACKER NEWS",
       "title": "We're releasing the weights of Mistral Large 4",
       "url": "https://mistral.ai/news/mistral-large-4-oss/",
-      "summary": "921 points · 259 comments",
+      "summary": "1145 points · 327 comments",
       "published": "2026-10-29T14:13:21+00:00"
     },
     {
@@ -275,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "DoorDash to acquire Instacart",
       "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-      "summary": "328 points · 529 comments",
+      "summary": "402 points · 588 comments",
       "published": "2026-10-29T12:33:05+00:00"
     },
     {
@@ -314,20 +398,6 @@
       "published": "2026-10-29T11:33:15+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Where do you get reliable detection rules from?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xihfoe/where_do_you_get_reliable_detection_rules_from/",
-      "summary": "I’ve been experimenting with detection engineering in my home lab, and I’m curious how others approach building and maintaining high-quality detections. I recently migrated a large number of detection rules from Sigma and Splunk SPL into Wazuh syntax, primarily using Falco and Sysmon for Linux as telemetry sources. After setting everything up, I started executing real malware samples from MalwareBazaar and similar sources in an isolated lab to test how well the detections actually work. Also, ma",
-      "published": "2026-10-29T11:31:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-      "published": "2026-10-29T11:10:13+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Google Struggling to Make AI Mode Searches Pay",
       "url": "https://tech.slashdot.org/story/26/10/29/0444201/google-struggling-to-make-ai-mode-searches-pay?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -345,7 +415,7 @@
       "source": "HACKER NEWS",
       "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
       "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "summary": "226 points · 100 comments",
+      "summary": "272 points · 136 comments",
       "published": "2026-10-29T10:42:41+00:00"
     },
     {
@@ -391,69 +461,6 @@
       "published": "2026-10-29T03:30:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Anthropic Engineer Declares the Coding Interview Dead",
-      "url": "https://slashdot.org/story/26/10/28/2222217/anthropic-engineer-declares-the-coding-interview-dead?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An Anthropic engineering manager says he has stopped using traditional coding interviews because AI can now outperform candidates on the kinds of programming challenges they typically contain. \"There's no more point in giving you a little React challenge than there is in quizzing people about assembly; Claude is now better at both,\" said Felix Rieseberg in a blog post. \"Our most impactful builders are successful regardless of how good they are at these tests.\" The Register reports: \"I don't thin",
-      "published": "2026-10-28T23:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Massive Leak Exposes 41,000 Homeland Security Workers",
-      "url": "https://yro.slashdot.org/story/26/10/28/2158201/massive-leak-exposes-41000-homeland-security-workers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A massive leak has exposed records tied to more than 41,000 DHS employees and contractors, including roughly 10,000 ICE personnel. The data, reportedly taken from DHS's Okta login system, reveals phone numbers, email and office addresses, reporting relationships, and permission groups associated with undercover operations, wiretapping and surveillance tools. Wired reports: In all, the leak provides a map of how DHS is organized and how it operates. The records, which span DHS itself as well as s",
-      "published": "2026-10-28T22:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Amazon Puts a Camera In Its Echo Studio So Alexa Can See",
-      "url": "https://yro.slashdot.org/story/26/10/28/191236/amazon-puts-a-camera-in-its-echo-studio-so-alexa-can-see?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Amazon has added a camera to its Echo Studio speaker, allowing Alexa to visually identify objects, help with tasks and remotely monitor a room. For those concerned about privacy, Amazon is keeping a camera-free version available. The Next Web reports: The camera speaker ships today for $249.99. Hold up a board game box and Alexa can explain the rules, or show it a box of cereal and it can help you reorder it, according to Amazon. Owners can also check in on the room from the Alexa app while they",
-      "published": "2026-10-28T21:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-      "published": "2026-10-28T20:47:22+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "If-statement that caused HTTP2Shell was itself undisclosed patch of vulnerability",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xhzm7k/ifstatement_that_caused_http2shell_was_itself/",
-      "summary": "submitted by /u/klaasvanschelven [link] [comments]",
-      "published": "2026-10-28T20:30:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Discord to let search engines index public server messages",
-      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-      "published": "2026-10-28T18:44:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
-      "url": "https://github.com/emmilco/us-tax-model",
-      "summary": "23 points · 3 comments",
-      "published": "2026-10-28T18:30:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-      "url": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-      "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-      "published": "2026-10-28T16:45:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-      "url": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-      "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-      "published": "2026-10-28T16:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "AMA: I spent eight months investigating the cybersecurity bootcamp IronCircle (formerly ThriveDX)",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xhotle/ama_i_spent_eight_months_investigating_the/",
@@ -462,17 +469,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "One reviewer per layer: splitting code review by the way code is read",
-      "url": "https://djordjepuzic.com/blog/posts/2026-10-27-one-reviewer-per-layer/",
-      "summary": "10 points · 4 comments",
-      "published": "2026-10-27T14:33:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Edit an SQLite database in your browser",
-      "url": "https://editsqlite.com/",
-      "summary": "38 points · 13 comments",
-      "published": "2026-10-27T05:59:07+00:00"
+      "title": "Scattered thoughts on how doing math feels these days",
+      "url": "https://dynomight.net/math/",
+      "summary": "48 points · 35 comments",
+      "published": "2026-10-26T15:15:11+00:00"
     },
     {
       "source": "REDDIT",
