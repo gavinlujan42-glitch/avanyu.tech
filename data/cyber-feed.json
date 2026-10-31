@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T15:14:16.565921+00:00",
+  "updated": "2026-10-31T19:29:15.532850+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,17 +28,136 @@
   "items": [
     {
       "source": "REDDIT",
-      "title": "Someone added all 8 of my Gmail addresses as recovery emails to random accounts, and others report seeing this recently too",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xkcler/someone_added_all_8_of_my_gmail_addresses_as/",
-      "summary": "I'm trying to figure out whether this is a known abuse pattern, a new attack surface, or something relatively harmless that just looks suspicious. Over a short period, all 8 of my Gmail addresses received legitimate Google security notifications saying they had been added as recovery email addresses for other Google Accounts. The accounts are completely unknown to me and have random/gibberish-looking Gmail addresses . I understand the important distinction here: these accounts do not have access",
-      "published": "2026-10-31T15:07:10+00:00"
+      "title": "How do you integrate threat intelligence in your SIEM?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xkiumv/how_do_you_integrate_threat_intelligence_in_your/",
+      "summary": "Hi, I have a question regarding threat intelligence and how it integrates with a SIEM solution. Do you feed threat intelligence data directly into the SIEM, or do you use detection rules that query external APIs? If you use API queries, when are these typically triggered? For example, is an API request made every time a new IP address appears in a firewall log, or does the process work differently? I'm currently running Elastic SIEM and would be interested in understanding how threat intelligenc",
+      "published": "2026-10-31T19:18:39+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
-      "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
-      "summary": "5 points · 0 comments",
-      "published": "2026-10-31T14:57:33+00:00"
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "summary": "13 points · 2 comments",
+      "published": "2026-10-31T19:07:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "summary": "17 points · 5 comments",
+      "published": "2026-10-31T18:50:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The AO3 situation, thoughts on what may be going on",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xki5kj/the_ao3_situation_thoughts_on_what_may_be_going_on/",
+      "summary": "AO3 Down for Maintenance Update - Earlier today, we detected evidence of a security incident on AO3. We are still in the early stages of response to this security incident and determining its scope. AO3 will remain down while we continue investigating and addressing what has been found so far. However, we want to make some things clear: First, no AO3 data has been deleted. All your works, bookmarks, kudos, etc., are safe. Second, while we currently don't believe that the user database was stolen",
+      "published": "2026-10-31T18:50:10+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "NASA Seeks Proposals for Reboosting the Hubble Space Telescope",
+      "url": "https://science.slashdot.org/story/26/10/31/1817218/nasa-seeks-proposals-for-reboosting-the-hubble-space-telescope?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Hubble Space Telescope \"will plunge back into the atmosphere in the early-to-mid-2030s,\" reports Ars Technica. So now NASA has released a Request For Information (RFI) \"asking commercial companies for ideas on how to reboost, service, or a controlled disposal of Hubble.\" Specifically, NASA is looking for information about companies' current and near-term capabilities for capturing Hubble and boosting it to an altitude of at least 373 miles (600 km), enhancing the telescope's performance, or ",
+      "published": "2026-10-31T18:50:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Published a blog/guide to build Red-teaming homelab in 16GB RAM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xki2j2/published_a_blogguide_to_build_redteaming_homelab/",
+      "summary": "Published a Blog (or you can say \"guide\") for setting up a homelab in 16GB RAM to practice Malware development, Initial access, phishing, persistence, and purple teaming (or whatever you can in this setup), with AdaptixC2, and Elastic EDR. The biggest constraint for setting up homelab is the hardware, especially RAM, so I set up the server for both on WSL. Do give it a read if you're planning to set up one (even if you're not lol) Read the blog here submitted by /u/adocrox [link] [comments]",
+      "published": "2026-10-31T18:46:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "It's the Memory Latency, Stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "summary": "8 points · 0 comments",
+      "published": "2026-10-31T18:38:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I post trained a model on Demoscenes",
+      "url": "https://datavorous.com/writing/demoscener/",
+      "summary": "23 points · 10 comments",
+      "published": "2026-10-31T18:08:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Impact of Generative AI on Critical Thinking: Self-Reported (2025)",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "summary": "51 points · 35 comments",
+      "published": "2026-10-31T18:02:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+      "published": "2026-10-31T18:01:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "William Nordhaus has died",
+      "url": "https://news.yale.edu/2026/10/31/william-nordhaus-nobel-laureate-who-integrated-economics-and-climate-change-devoted-yale",
+      "summary": "17 points · 1 comments",
+      "published": "2026-10-31T17:59:41+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Dozens of Unexplained Drones Have Buzzed America's Nuclear Plants Since 2024",
+      "url": "https://news.slashdot.org/story/26/10/31/1742209/dozens-of-unexplained-drones-have-buzzed-americas-nuclear-plants-since-2024?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Slashdot reader ElectricVs shares this report from American Buildout, a new site covering \"the intersection of data centers, energy and power, finance, and Main Street.\" Dozens of unexplained drones flew over and near U.S. nuclear facilities between February 2024 and March 2026, according to records the Nuclear Regulatory Commission made public this week. In all, facility operators filed 67 reports of drones over or near 28 sites in 17 states. They include the Three Mile Island site near Middlet",
+      "published": "2026-10-31T17:50:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "url": "https://www.cairoreport.org/p/egypt-brazil-iraq-billboard-hack",
+      "summary": "14 points · 7 comments",
+      "published": "2026-10-31T17:36:05+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Flock Reinstalled Its Cameras After Another City Canceled Its Contract",
+      "url": "https://yro.slashdot.org/story/26/10/31/0238210/flock-reinstalled-its-cameras-after-another-city-canceled-its-contract?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Earlier The Drive reported a police chief \"had to direct his staff to disconnect the power cords from Flock cameras in Plymouth, Minnesota after Flock Safety ignored and failed to respond to the department's notice the city was canceling its service. \"But in other instances Flock's gone and reinstalled cameras without permission,\" The Drive reported this week: On September 29th the city of Dayton, Minnesota posted a community update on its Facebook page alerting residents that Flock had installe",
+      "published": "2026-10-31T16:50:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The App Hacker’s Playbook: How Reverse Engineering Actually Works",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xkexqi/the_app_hackers_playbook_how_reverse_engineering/",
+      "summary": "submitted by /u/derjanni [link] [comments]",
+      "published": "2026-10-31T16:42:06+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Casio Watches of the 1980s",
+      "url": "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+      "summary": "147 points · 69 comments",
+      "published": "2026-10-31T16:00:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor | Microsoft Security Blog",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xkdwm8/inside_a_malicious_claude_codebranded_extension/",
+      "summary": "submitted by /u/0xdevbot [link] [comments]",
+      "published": "2026-10-31T16:00:33+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google's AI Overviews Lowered Reddit's Traffic. Its Stock Dropped 29%",
+      "url": "https://tech.slashdot.org/story/26/10/31/0458218/googles-ai-overviews-lowered-reddits-traffic-its-stock-dropped-29?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Reddit's stock plunged 29.22% on Friday, reports CNBC, its worst drop since becoming a public company in 2024. Thursday Reddit reported a sales growth that was weaker than previous quarters, and also forecast weak sales for the quarter to come (below analysts expectations): The report comes as the company has seen a shift in its search referral traffic with the rise of Google's AI Overview. In an interview with CNBC, Reddit CEO Steve Huffman said search-referral traffic from Google went \"down me",
+      "published": "2026-10-31T15:50:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
+      "published": "2026-10-31T15:35:11+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -56,10 +175,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
-      "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
-      "summary": "35 points · 4 comments",
-      "published": "2026-10-31T13:39:57+00:00"
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "summary": "90 points · 44 comments",
+      "published": "2026-10-31T13:39:52+00:00"
     },
     {
       "source": "REDDIT",
@@ -72,7 +191,7 @@
       "source": "OSINT",
       "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
       "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "summary": "[...]",
+      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
       "published": "2026-10-31T13:10:19+00:00"
     },
     {
@@ -90,13 +209,6 @@
       "published": "2026-10-31T12:01:56+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "url": "https://nullprogram.com/blog/2026/10/31/",
-      "summary": "73 points · 48 comments",
-      "published": "2026-10-31T11:54:59+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Supersonic Airliner In Doubt As Company Shifts to Powering AI Data Centers",
       "url": "https://hardware.slashdot.org/story/26/10/30/2355244/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -105,23 +217,23 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "We Took over ChatGPT Accounts",
+      "title": "Do the math: How we took over ChatGPT accounts",
       "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "summary": "145 points · 65 comments",
+      "summary": "267 points · 122 comments",
       "published": "2026-10-31T10:30:11+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
       "url": "https://piefed.world/post/1503394",
-      "summary": "134 points · 85 comments",
+      "summary": "254 points · 153 comments",
       "published": "2026-10-31T10:23:41+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Serbia just elected the world's brainiest parliament",
       "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-      "summary": "518 points · 313 comments",
+      "summary": "710 points · 409 comments",
       "published": "2026-10-31T10:21:30+00:00"
     },
     {
@@ -142,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Switch Lowering in GCC",
       "url": "https://xoranth.net/gcc-switch/",
-      "summary": "120 points · 22 comments",
+      "summary": "173 points · 33 comments",
       "published": "2026-10-31T08:02:26+00:00"
     },
     {
@@ -156,7 +268,7 @@
       "source": "HACKER NEWS",
       "title": "Digital minimalism",
       "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-      "summary": "147 points · 115 comments",
+      "summary": "251 points · 187 comments",
       "published": "2026-10-31T06:16:36+00:00"
     },
     {
@@ -181,20 +293,6 @@
       "published": "2026-10-31T03:30:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Tell HN: Scribd Breached",
-      "url": "https://news.ycombinator.com/item?id=50312756",
-      "summary": "286 points · 105 comments",
-      "published": "2026-10-31T02:46:36+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "honeypot stuff with bots",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xjy6hc/honeypot_stuff_with_bots/",
-      "summary": "hello! i'm a student running a honeypot with the intent of collecting data on attacker behavior when certain variables are present. as you might expect, i've gotten a lot of bot logins, all of which seem to be running 'echo xsec' in noninteractive mode. i'm guessing that the purpose of that is just to identify IP addresses with weak credentials; does anyone know the reason for 'xsec'? submitted by /u/Spriy [link] [comments]",
-      "published": "2026-10-31T02:05:52+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Shivay Lamba on X: \"And now @NVIDIAAI Brev also got a security breach. At this point in time, every major tech",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xjv8y4/shivay_lamba_on_x_and_now_nvidiaai_brev_also_got/",
@@ -209,25 +307,11 @@
       "published": "2026-10-30T23:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Are the days over for “passionately” finding bugs and CVEs?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xjtkli/are_the_days_over_for_passionately_finding_bugs/",
-      "summary": "I don’t know about most of you here but I personally love reading code and finding bugs, particularly security related flaws and reporting them to either responsible vulnerability programs or bug bounty programs. However, with the explosion of AI in its ability to assist and even in some situations automate the process of finding said vulnerabilities; it has definitely blown my little hobby out of its niche. It now feels like the area is no longer being respected and human researchers should nee",
-      "published": "2026-10-30T22:36:27+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Meta Settles Another Social Media Addiction Case Just Before Trial",
       "url": "https://yro.slashdot.org/story/26/10/30/213231/meta-settles-another-social-media-addiction-case-just-before-trial?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Meta has reached an undisclosed settlement in another social media addiction lawsuit, avoiding a trial scheduled for next month and leaving Snap as the sole remaining defendant. Engadget reports: The lawsuit was brought by an 18-year-old woman from Mississippi known as K.D.B who, according to Reuters, has \"described staying awake for hours scrolling social media, losing focus in class and engaging in self-harm using methods shown in social media videos.\" Jury selection kicked off earlier this we",
       "published": "2026-10-30T22:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Been a fun last two weeks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xjs1br/been_a_fun_last_two_weeks/",
-      "summary": "submitted by /u/vennemp [link] [comments]",
-      "published": "2026-10-30T21:31:51+00:00"
     },
     {
       "source": "OSINT",
@@ -251,20 +335,6 @@
       "published": "2026-10-30T20:07:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "US Tech Stocks See Sharp Falls As AI Spending Nears $1 Trillion",
-      "url": "https://news.slashdot.org/story/26/10/30/1843213/us-tech-stocks-see-sharp-falls-as-ai-spending-nears-1-trillion?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "U.S. technology stocks plunged for a second consecutive day on Friday as investors grew increasingly concerned about the enormous cost of artificial intelligence development and whether those investments will pay off. The Nasdaq fell more than 3.5%, while Intel shares dropped as much as 30%, Reddit fell 26%, and Alphabet extended its losses after shedding more than $500 billion in market value Thursday. The BBC notes that Meta, Alphabet, Oracle, Amazon, and Microsoft have collectively committed ",
-      "published": "2026-10-30T19:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "GM Reaches $220 Million Settlement Over Selling Drivers' Private Data",
-      "url": "https://yro.slashdot.org/story/26/10/30/168202/gm-reaches-220-million-settlement-over-selling-drivers-private-data?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from TechCrunch: General Motors will pay $220 million to 36 states to settle allegations that it illegally sold private driving behavior and location information to data brokers. As part of the settlement, GM must get drivers' express consent before it collects or shares their driving and location data -- terms that are in line with separate agreements it previously reached with California and the Federal Trade Commission (FTC). This settlement does contain a ",
-      "published": "2026-10-30T18:00:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "North Korea Steals USD 6.36 Billion From Binance in the Largest Hack in History | TRM Labs",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xjlqm6/north_korea_steals_usd_636_billion_from_binance/",
@@ -272,32 +342,11 @@
       "published": "2026-10-30T17:29:33+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "summary": "342 points · 104 comments",
-      "published": "2026-10-30T17:25:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "UK Social Media Ban May Lock Out More Than 100,000 Teens Without ID",
-      "url": "https://news.slashdot.org/story/26/10/30/160254/uk-social-media-ban-may-lock-out-more-than-100000-teens-without-id?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Under the UK's planned social media ban, more than 100,000 British teenagers aged 16 and 17 could initially be locked out of social media because they lack a passport or driving license that may be needed as a fallback for age verification. The Guardian reports: Ofcom, the UK's online watchdog, said about 150,000 16- to 17-year-olds do not own a passport or driving licence, which are likely to be needed to access age-restricted platforms. The Australia-style ban on under-16s accessing social med",
-      "published": "2026-10-30T17:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
       "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
       "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in",
       "published": "2026-10-30T16:58:44+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Reddit Will Force Everyone to Log In",
-      "url": "https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Reddit plans to require users to log in to browse the platform, ending its longstanding practice of allowing anonymous visitors to access posts and discussions. According to CEO Steve Huffman, a key reason behind the decision is to curb unauthorized scraping and automated traffic. \"This is a big change for Reddit, where we've allowed logged-out access to basically all of Reddit for the last two decades,\" Huffman says. \"And I don't know about you, but as someone whose life has been defined by the",
-      "published": "2026-10-30T16:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -312,20 +361,6 @@
       "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
       "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can exploit the flaw to crash the viewer's TeamViewer and, depending on the platform, may also run",
       "published": "2026-10-30T15:17:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "summary": "460 points · 334 comments",
-      "published": "2026-10-30T15:10:31+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Northflank breached - Rotate environment variables immediately",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xjhoby/northflank_breached_rotate_environment_variables/",
-      "summary": "Assume all environment variables have been decrypted. Disable/rotate all keys. submitted by /u/luc122c [link] [comments]",
-      "published": "2026-10-30T14:59:44+00:00"
     },
     {
       "source": "OSINT",
@@ -354,13 +389,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
       "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
       "published": "2026-10-30T13:00:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "summary": "522 points · 365 comments",
-      "published": "2026-10-30T12:50:01+00:00"
     },
     {
       "source": "OSINT",
@@ -406,66 +434,38 @@
     },
     {
       "source": "OSINT",
-      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-      "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-      "published": "2026-10-30T09:18:13+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
       "url": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
       "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from 3.0.0 to 3.3.13. \"This module enables you to sell goods and services to customers through an included shopping cart",
       "published": "2026-10-30T07:45:30+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-      "published": "2026-10-29T23:35:52+00:00"
+      "source": "HACKER NEWS",
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "summary": "14 points · 5 comments",
+      "published": "2026-10-29T18:33:40+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Hunting 'Zombie Accounts' in Active Directory",
-      "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
-      "summary": "10 points · 1 comments",
-      "published": "2026-10-29T21:56:31+00:00"
+      "title": "Redox: Ring Buffers Project Summary",
+      "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
+      "summary": "22 points · 2 comments",
+      "published": "2026-10-28T14:27:12+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-      "summary": "108 points · 25 comments",
-      "published": "2026-10-29T15:29:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "summary": "266 points · 89 comments",
-      "published": "2026-10-28T17:29:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Breaking the open web won't stop the bad bots",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "summary": "295 points · 128 comments",
-      "published": "2026-10-27T18:42:55+00:00"
+      "title": "Reading and writing are less symmetric than you (probably) think",
+      "url": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+      "summary": "50 points · 15 comments",
+      "published": "2026-10-28T09:38:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Simple circuits can create complex behaviors",
       "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "summary": "49 points · 4 comments",
+      "summary": "157 points · 48 comments",
       "published": "2026-10-27T16:01:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "url": "https://zebra.rodeo/en/blog/marelleo/",
-      "summary": "128 points · 36 comments",
-      "published": "2026-10-27T15:24:36+00:00"
     },
     {
       "source": "REDDIT",
