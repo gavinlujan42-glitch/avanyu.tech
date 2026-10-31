@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-31T02:12:23.489180+00:00",
-  "item_count": 74,
+  "updated": "2026-10-31T08:44:58.363253+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,10 +27,66 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "Black October for AI Developer Platforms: nine incidents, more to come",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xk4vbz/black_october_for_ai_developer_platforms_nine/",
+      "summary": "submitted by /u/ramimac [link] [comments]",
+      "published": "2026-10-31T08:31:27+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Switch Lowering in GCC",
+      "url": "https://xoranth.net/gcc-switch/",
+      "summary": "5 points · 0 comments",
+      "published": "2026-10-31T08:02:26+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Google's First Data Center Satellite Is Online and Writing Poetry",
+      "url": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Google's first experimental space-based data center is operational after launching earlier this month, successfully running its Gemma 4 AI model aboard a satellite and generating a haiku about being in orbit. TechCrunch reports: The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TP",
+      "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty program on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.",
+      "published": "2026-10-31T05:33:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
+      "published": "2026-10-31T04:56:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Cisco Gives Engineer Unlimited AI Tokens To Rewrite Legacy Code",
+      "url": "https://developers.slashdot.org/story/26/10/30/2339234/cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Fortune: Gen Z can't catch a break. Entry-level jobs are vanishing; some 40% of bosses say they plan to hire fewer grads because AI can do the job cheaper, and young workers are routinely slammed for showing up late and refusing to put in overtime for free. Cisco's president and chief product officer Jeetu Patel isn't buying it -- he's just handed one of the company's biggest jobs to a 27-year-old he found hidden in the org chart \"five levels\" below him. ",
+      "published": "2026-10-31T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tell HN: Scribd Breached",
+      "url": "https://news.ycombinator.com/item?id=50312756",
+      "summary": "184 points · 72 comments",
+      "published": "2026-10-31T02:46:36+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "honeypot stuff with bots",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xjy6hc/honeypot_stuff_with_bots/",
+      "summary": "hello! i'm a student running a honeypot with the intent of collecting data on attacker behavior when certain variables are present. as you might expect, i've gotten a lot of bot logins, all of which seem to be running 'echo xsec' in noninteractive mode. i'm guessing that the purpose of that is just to identify IP addresses with weak credentials; does anyone know the reason for 'xsec'? submitted by /u/Spriy [link] [comments]",
+      "published": "2026-10-31T02:05:52+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
       "url": "https://tng.episodle.com/",
-      "summary": "59 points · 21 comments",
+      "summary": "188 points · 50 comments",
       "published": "2026-10-30T23:51:24+00:00"
     },
     {
@@ -70,9 +126,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
       "url": "https://www.firezone.dev/blog/introducing-sanstun",
-      "summary": "63 points · 14 comments",
+      "summary": "126 points · 22 comments",
       "published": "2026-10-30T21:30:00+00:00"
     },
     {
@@ -90,13 +146,6 @@
       "published": "2026-10-30T21:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "summary": "218 points · 130 comments",
-      "published": "2026-10-30T20:23:30+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Thousands of 'Ghost Students' Use AI to Steal Millions In Student Loans, DOJ Says",
       "url": "https://yro.slashdot.org/story/26/10/30/204230/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -105,23 +154,16 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Jules Verne's Lost Novel",
-      "url": "https://blue-continuum.com/verne-paris",
-      "summary": "83 points · 19 comments",
-      "published": "2026-10-30T19:55:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The oldest ice disappears and the Stone Age emerges from it",
       "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "summary": "94 points · 34 comments",
+      "summary": "143 points · 56 comments",
       "published": "2026-10-30T19:51:33+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Infinite Mac: BeOS",
       "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "summary": "106 points · 40 comments",
+      "summary": "150 points · 59 comments",
       "published": "2026-10-30T19:30:09+00:00"
     },
     {
@@ -149,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "My favourite PowerMac is a Nintendo Wii",
       "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "summary": "250 points · 65 comments",
+      "summary": "304 points · 83 comments",
       "published": "2026-10-30T17:25:15+00:00"
     },
     {
@@ -170,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
       "url": "https://github.com/dbreunig/nesformer",
-      "summary": "196 points · 112 comments",
+      "summary": "245 points · 121 comments",
       "published": "2026-10-30T16:40:22+00:00"
     },
     {
@@ -191,14 +233,14 @@
       "source": "HACKER NEWS",
       "title": "Florilegium: Procedural Flowers in LaTeX",
       "url": "https://github.com/kevinraymond/florilegium",
-      "summary": "220 points · 36 comments",
+      "summary": "266 points · 45 comments",
       "published": "2026-10-30T15:48:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "The federated code forge",
       "url": "https://tangled.org/blog/forge/",
-      "summary": "236 points · 78 comments",
+      "summary": "278 points · 84 comments",
       "published": "2026-10-30T15:44:29+00:00"
     },
     {
@@ -219,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Northflank Breached",
       "url": "https://status.northflank.com",
-      "summary": "366 points · 275 comments",
+      "summary": "426 points · 314 comments",
       "published": "2026-10-30T15:10:31+00:00"
     },
     {
@@ -251,13 +293,6 @@
       "published": "2026-10-30T14:21:47+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "summary": "112 points · 117 comments",
-      "published": "2026-10-30T14:08:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
       "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
@@ -282,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
       "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "summary": "325 points · 220 comments",
+      "summary": "435 points · 292 comments",
       "published": "2026-10-30T12:50:01+00:00"
     },
     {
@@ -314,13 +349,6 @@
       "published": "2026-10-30T11:20:26+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "First Wired XR Glasses Powered By Android XR",
-      "url": "https://tech.slashdot.org/story/26/10/29/1839246/first-wired-xr-glasses-powered-by-android-xr?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "XREAL has launched the AURA, its first wired augmented reality glasses powered by Google's Android XR platform. They feature transparent Micro-OLED displays, a 70-degree field of view, Gemini AI integration, and a Snapdragon Reality Elite processor. TechPowerUp reports: The device is built around a simple idea: your apps, screens, entertainment, and AI assistant should be able to come with you wherever you go. On day-one, users have access to millions of familiar mobile apps and games from Googl",
-      "published": "2026-10-30T11:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
       "url": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
@@ -333,13 +361,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
       "summary": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]",
       "published": "2026-10-30T10:16:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "summary": "268 points · 53 comments",
-      "published": "2026-10-30T10:06:15+00:00"
     },
     {
       "source": "OSINT",
@@ -366,15 +387,8 @@
       "source": "HACKER NEWS",
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
       "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "summary": "786 points · 491 comments",
+      "summary": "883 points · 522 comments",
       "published": "2026-10-30T07:09:12+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Proton CEO Is In 'Full AI Psychosis'",
-      "url": "https://slashdot.org/story/26/10/30/0126236/proton-ceo-is-in-full-ai-psychosis?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "According to 404 Media, Proton CEO Andy Yen is aggressively pushing AI adoption while fostering what workers describe as a culture of fear that discourages raising security concerns or challenging leadership. The investigation is based on interviews with eight current and one former Proton employees, as well as internal Slack chats, meeting recordings, and an AI manifesto written by the company's CTO. Longtime Slashdot reader devnulljapan summarizes the findings: Engineers at Proton, which makes",
-      "published": "2026-10-30T07:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -389,13 +403,6 @@
       "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
       "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The",
       "published": "2026-10-30T04:14:59+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Custom PHP2Shell Exploit Chained with Kernel LPE to Root Versions of Palo Alto Networks PAN-OS Firewalls in the Wild",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xj0jec/custom_php2shell_exploit_chained_with_kernel_lpe/",
-      "summary": "submitted by /u/BigPoppaPump36 [link] [comments]",
-      "published": "2026-10-30T00:03:50+00:00"
     },
     {
       "source": "OSINT",
@@ -426,39 +433,39 @@
       "published": "2026-10-29T22:08:04+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are borrowing trust from familiar apps, websites, and AI tools. Some are using AI to speed things up. Others are leaving their",
-      "published": "2026-10-29T19:11:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Turning a solar power system into its own backup",
-      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "summary": "32 points · 12 comments",
-      "published": "2026-10-29T18:10:33+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xipflj/linux_kernel_tcp_flaw_with_98_cvss_score_affects/",
-      "summary": "submitted by /u/One_Paint8721 [link] [comments]",
-      "published": "2026-10-29T16:53:10+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Cloudflare Turnstile solver library (no headless browser required)",
       "url": "https://github.com/chris124567/cfsolve",
-      "summary": "94 points · 30 comments",
+      "summary": "186 points · 55 comments",
       "published": "2026-10-28T17:29:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
+      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+      "summary": "27 points · 13 comments",
+      "published": "2026-10-28T15:04:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Breaking the open web won't stop the bad bots",
       "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "summary": "195 points · 81 comments",
+      "summary": "257 points · 107 comments",
       "published": "2026-10-27T18:42:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "summary": "9 points · 2 comments",
+      "published": "2026-10-27T15:24:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Samosa – Linter for Math Derivations",
+      "url": "https://samosa-math.vercel.app",
+      "summary": "13 points · 1 comments",
+      "published": "2026-10-27T13:06:34+00:00"
     },
     {
       "source": "REDDIT",
