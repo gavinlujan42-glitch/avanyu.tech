@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T08:44:58.363253+00:00",
+  "updated": "2026-10-31T15:14:16.565921+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,16 +28,121 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Someone added all 8 of my Gmail addresses as recovery emails to random accounts, and others report seeing this recently too",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xkcler/someone_added_all_8_of_my_gmail_addresses_as/",
+      "summary": "I'm trying to figure out whether this is a known abuse pattern, a new attack surface, or something relatively harmless that just looks suspicious. Over a short period, all 8 of my Gmail addresses received legitimate Google security notifications saying they had been added as recovery email addresses for other Google Accounts. The accounts are completely unknown to me and have random/gibberish-looking Gmail addresses . I understand the important distinction here: these accounts do not have access",
+      "published": "2026-10-31T15:07:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ex-Meta Researcher Torrented Pirated Books, Deleted It 'Due to Litigation'",
+      "url": "https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/",
+      "summary": "5 points · 0 comments",
+      "published": "2026-10-31T14:57:33+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Two US Senators Raise Privacy Concerns About Meta's 'Pervert Glasses'",
+      "url": "https://yro.slashdot.org/story/26/10/31/0553218/two-us-senators-raise-privacy-concerns-about-metas-pervert-glasses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Meta's smart glasses face new questions from two U.S. Senators, reports Gizmodo. Oregon Sen. Ron Wyden and Massachusetts Sen. Edward Markey \"are requesting that Meta provide more information before Thanksgiving on whether it conducted detailed human rights due diligence and safety testing on the product before releasing it,\" reports Gizmodo. The Senators also requested information from Meta about \" how it evaluated the privacy risks posed by the glasses, and what kinds of safeguards are currentl",
+      "published": "2026-10-31T14:50:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+      "published": "2026-10-31T14:05:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Retired professor arrested for blocking delivery robot. Will do it again",
+      "url": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+      "summary": "35 points · 4 comments",
+      "published": "2026-10-31T13:39:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Claude Code helped me hunt ScreenConnect abuse. Two signed clients were on the same host.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xk9v3z/claude_code_helped_me_hunt_screenconnect_abuse/",
+      "summary": "I used Claude Code to help hunt two signed ScreenConnect clients on one lab host, with every result checked by hand. Video: https://youtu.be/JBEj3hSuWng Claude Code ran the provenance and signer queries across archived Defender telemetry in ADX (KQL) and Elastic (ES|QL). I checked the returned rows and investigated the relays and operator activity by hand. The operator used the first client to install the second, which called a server they controlled. Each had its own service. Both were validly ",
+      "published": "2026-10-31T13:11:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+      "summary": "[...]",
+      "published": "2026-10-31T13:10:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+      "published": "2026-10-31T12:50:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. \"This month, Chainalysis detected an external actor using offensive agentic",
+      "published": "2026-10-31T12:01:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "url": "https://nullprogram.com/blog/2026/10/31/",
+      "summary": "73 points · 48 comments",
+      "published": "2026-10-31T11:54:59+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Supersonic Airliner In Doubt As Company Shifts to Powering AI Data Centers",
+      "url": "https://hardware.slashdot.org/story/26/10/30/2355244/supersonic-airliner-in-doubt-as-company-shifts-to-powering-ai-data-centers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Boom Supersonic's plans to launch its Overture passenger jet by 2029 are facing growing doubts as the company pivots toward manufacturing natural gas turbines for AI data centers. Ars Technica reports: One of the company's first customers, United Airlines CEO Scott Kirby, has expressed doubts about Boom's original plan to deliver the first Overture supersonic airliner in 2029. Kirby's latest frank assessment came during an interview with the Office Hours: Business Edition podcast that appeared o",
+      "published": "2026-10-31T11:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "We Took over ChatGPT Accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "summary": "145 points · 65 comments",
+      "published": "2026-10-31T10:30:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "summary": "134 points · 85 comments",
+      "published": "2026-10-31T10:23:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "summary": "518 points · 313 comments",
+      "published": "2026-10-31T10:21:30+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "Black October for AI Developer Platforms: nine incidents, more to come",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xk4vbz/black_october_for_ai_developer_platforms_nine/",
       "summary": "submitted by /u/ramimac [link] [comments]",
       "published": "2026-10-31T08:31:27+00:00"
     },
     {
+      "source": "OSINT",
+      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a",
+      "published": "2026-10-31T08:27:43+00:00"
+    },
+    {
       "source": "HACKER NEWS",
       "title": "Switch Lowering in GCC",
       "url": "https://xoranth.net/gcc-switch/",
-      "summary": "5 points · 0 comments",
+      "summary": "120 points · 22 comments",
       "published": "2026-10-31T08:02:26+00:00"
     },
     {
@@ -46,6 +151,13 @@
       "url": "https://science.slashdot.org/story/26/10/30/2344228/googles-first-data-center-satellite-is-online-and-writing-poetry?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Google's first experimental space-based data center is operational after launching earlier this month, successfully running its Gemma 4 AI model aboard a satellite and generating a haiku about being in orbit. TechCrunch reports: The satellite, which carries four Google Tensor Processing Units (TPUs) and generates up to 1 kW of electricity, is intended to pave the way for future networks of close-flying satellites performing large inference workloads in orbit. However, the power demands of the TP",
       "published": "2026-10-31T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "summary": "147 points · 115 comments",
+      "published": "2026-10-31T06:16:36+00:00"
     },
     {
       "source": "OSINT",
@@ -72,7 +184,7 @@
       "source": "HACKER NEWS",
       "title": "Tell HN: Scribd Breached",
       "url": "https://news.ycombinator.com/item?id=50312756",
-      "summary": "184 points · 72 comments",
+      "summary": "286 points · 105 comments",
       "published": "2026-10-31T02:46:36+00:00"
     },
     {
@@ -81,13 +193,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xjy6hc/honeypot_stuff_with_bots/",
       "summary": "hello! i'm a student running a honeypot with the intent of collecting data on attacker behavior when certain variables are present. as you might expect, i've gotten a lot of bot logins, all of which seem to be running 'echo xsec' in noninteractive mode. i'm guessing that the purpose of that is just to identify IP addresses with weak credentials; does anyone know the reason for 'xsec'? submitted by /u/Spriy [link] [comments]",
       "published": "2026-10-31T02:05:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
-      "summary": "188 points · 50 comments",
-      "published": "2026-10-30T23:51:24+00:00"
     },
     {
       "source": "REDDIT",
@@ -125,13 +230,6 @@
       "published": "2026-10-30T21:31:51+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "url": "https://www.firezone.dev/blog/introducing-sanstun",
-      "summary": "126 points · 22 comments",
-      "published": "2026-10-30T21:30:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
       "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
@@ -151,20 +249,6 @@
       "url": "https://yro.slashdot.org/story/26/10/30/204230/thousands-of-ghost-students-use-ai-to-steal-millions-in-student-loans-doj-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The Justice Department has charged five people in a crackdown on \"ghost student\" fraud, in which scammers allegedly use stolen identities and AI to enroll fake students in colleges, complete coursework, and collect federal student loan funds. Ars Technica reports: In a press release Thursday, the Department of Justice said it had uncovered a large-scale scheme relying partly on AI. The DOJ seized more than $750,000 in cryptocurrency from \"a network associated with Kenyan nationals\" after data an",
       "published": "2026-10-30T20:07:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "summary": "143 points · 56 comments",
-      "published": "2026-10-30T19:51:33+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Infinite Mac: BeOS",
-      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "summary": "150 points · 59 comments",
-      "published": "2026-10-30T19:30:09+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -191,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "My favourite PowerMac is a Nintendo Wii",
       "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "summary": "304 points · 83 comments",
+      "summary": "342 points · 104 comments",
       "published": "2026-10-30T17:25:15+00:00"
     },
     {
@@ -209,13 +293,6 @@
       "published": "2026-10-30T16:58:44+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "summary": "245 points · 121 comments",
-      "published": "2026-10-30T16:40:22+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Reddit Will Force Everyone to Log In",
       "url": "https://tech.slashdot.org/story/26/10/30/0155237/reddit-will-force-everyone-to-log-in?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -230,27 +307,6 @@
       "published": "2026-10-30T15:58:20+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "summary": "266 points · 45 comments",
-      "published": "2026-10-30T15:48:12+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The federated code forge",
-      "url": "https://tangled.org/blog/forge/",
-      "summary": "278 points · 84 comments",
-      "published": "2026-10-30T15:44:29+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Binance Suffers Biggest Crypto Hack In History With $6.3 Billion Affected [UPDATE]",
-      "url": "https://slashdot.org/story/26/10/29/2143222/binance-suffers-biggest-crypto-hack-in-history-with-63-billion-affected-update?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "UPDATE 10/30/26: Binance has temporarily suspended customer withdrawals after suffering what investigators say is the biggest crypto hack in history. According to Binance CEO Yi He, the company estimates roughly $6.3 billion in funds were impacted, with roughly $3 billion in assets frozen on-chain so far. Rest assured, \"your money is safe, and we're covering every loss,\" said co-CEO Richard Teng in a LinkedIn post. \"This was a complex attack,\" said Teng. \"The attacker also used a self-destruct m",
-      "published": "2026-10-30T15:30:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
       "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
@@ -261,15 +317,8 @@
       "source": "HACKER NEWS",
       "title": "Northflank Breached",
       "url": "https://status.northflank.com",
-      "summary": "426 points · 314 comments",
+      "summary": "460 points · 334 comments",
       "published": "2026-10-30T15:10:31+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "The Tragedy of Losing Your Wikipedia Page",
-      "url": "https://news.slashdot.org/story/26/10/30/0142219/the-tragedy-of-losing-your-wikipedia-page?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes an excerpt from a Wired article that explores the often-contentious process of nominating pages for deletion when their subjects fail to meet the encyclopedia's notability standards: What do you need to know -- need to know -- about Xavier Trudeau? The eldest son of former Canadian prime minister Justin, the teenage Trudeau has recently begun performing R&B under the mononym Xav. But, with all due respect to Xav, do those facts make him a person of note? Should you exp",
-      "published": "2026-10-30T15:00:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -284,13 +333,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
       "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
       "published": "2026-10-30T14:36:54+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon's 'Silent Train' Network",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xjgpk3/cisco_sdwan_zeroday_exploitation_tied_to_volt/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-10-30T14:21:47+00:00"
     },
     {
       "source": "OSINT",
@@ -317,7 +359,7 @@
       "source": "HACKER NEWS",
       "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
       "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-      "summary": "435 points · 292 comments",
+      "summary": "522 points · 365 comments",
       "published": "2026-10-30T12:50:01+00:00"
     },
     {
@@ -378,94 +420,52 @@
     },
     {
       "source": "OSINT",
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "url": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229 (CVSS score: 10.0) - An integer overflow or wraparound vulnerability in GitLab Community Edition and Enterprise",
-      "published": "2026-10-30T07:27:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "summary": "883 points · 522 comments",
-      "published": "2026-10-30T07:09:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Cursor marketplace Powned",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xj6zlw/cursor_marketplace_powned/",
-      "summary": "We got hit by this one today, thankfully crowstrike alerted us on the reverse shell. XAI / Cursor took down their marketplace as a result but they are trying to hide the real reason why it’s down. https://status.x.ai/ submitted by /u/Intelg [link] [comments]",
-      "published": "2026-10-30T05:29:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. Tether and Circle said they have frozen more than 1.567 billion USDT and 800 million USDC related to the incident, respectively. The",
-      "published": "2026-10-30T04:14:59+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
       "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
       "published": "2026-10-29T23:35:52+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Binance probes potential $5.8 billion crypto-theft hack",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-      "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-      "published": "2026-10-29T22:45:23+00:00"
+      "source": "HACKER NEWS",
+      "title": "Hunting 'Zombie Accounts' in Active Directory",
+      "url": "https://www.fabian.fyi/2026/10/zombie-hunt.html",
+      "summary": "10 points · 1 comments",
+      "published": "2026-10-29T21:56:31+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-      "url": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-      "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI coding agents into installing a NetSupport RAT. [...]",
-      "published": "2026-10-29T22:09:24+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-      "url": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-      "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-      "published": "2026-10-29T22:08:04+00:00"
+      "source": "HACKER NEWS",
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "summary": "108 points · 25 comments",
+      "published": "2026-10-29T15:29:48+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Cloudflare Turnstile solver library (no headless browser required)",
       "url": "https://github.com/chris124567/cfsolve",
-      "summary": "186 points · 55 comments",
+      "summary": "266 points · 89 comments",
       "published": "2026-10-28T17:29:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Longitudinal Changes InWearable-Captured PhysiologyBefore Sudden Cardiac Death",
-      "url": "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
-      "summary": "27 points · 13 comments",
-      "published": "2026-10-28T15:04:12+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Breaking the open web won't stop the bad bots",
       "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "summary": "257 points · 107 comments",
+      "summary": "295 points · 128 comments",
       "published": "2026-10-27T18:42:55+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "summary": "49 points · 4 comments",
+      "published": "2026-10-27T16:01:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
       "url": "https://zebra.rodeo/en/blog/marelleo/",
-      "summary": "9 points · 2 comments",
+      "summary": "128 points · 36 comments",
       "published": "2026-10-27T15:24:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Samosa – Linter for Math Derivations",
-      "url": "https://samosa-math.vercel.app",
-      "summary": "13 points · 1 comments",
-      "published": "2026-10-27T13:06:34+00:00"
     },
     {
       "source": "REDDIT",
