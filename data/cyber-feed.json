@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T15:27:03.825371+00:00",
+  "updated": "2026-11-02T23:10:50.088940+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,25 +27,242 @@
   ],
   "items": [
     {
-      "source": "REDDIT",
-      "title": "I made a practical Arabic walkthrough of UNION-Based SQL Injection (3 PortSwigger Labs)",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlzpzo/i_made_a_practical_arabic_walkthrough_of/",
-      "summary": "Hey everyone! I've published the seventh episode of my PortSwigger learning journey. This time, I focused on UNION-Based SQL Injection and the methodology behind it, rather than simply showing ready-made payloads. The video covers three practical labs: Determining the number of columns returned by the original query. Finding a column that accepts text. Retrieving data from other tables using UNION SELECT. I also included: Practical testing using Burp Suite Repeater. A quick Speedrun covering the",
-      "published": "2026-11-02T15:09:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
-      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
-      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
-      "published": "2026-11-02T15:03:07+00:00"
+      "source": "SLASHDOT",
+      "title": "Study Claims Vizio Simply Ignores 'Smart' TV Spying Opt Out Requests",
+      "url": "https://entertainment.slashdot.org/story/26/11/02/2043259/study-claims-vizio-simply-ignores-smart-tv-spying-opt-out-requests?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Techdirt: Recently, reports emerged that LG TVs are sniffing around your local network, and even listening to your local environment, even when the TV is purportedly \"off.\" Some of those voice commands were then stored in plain text and uploaded to the internet. LG's response? To deny everything. [...] That latter point is central to a new study out of Northeastern that conducted 5,943 experiments across twelve commercial \"smart\" TV devices. The researche",
+      "published": "2026-11-02T23:00:00+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
-      "url": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1",
-      "summary": "20 points · 7 comments",
-      "published": "2026-11-02T15:01:15+00:00"
+      "title": "Anthropic's growth just flattened",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "summary": "29 points · 2 comments",
+      "published": "2026-11-02T22:33:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "summary": "59 points · 18 comments",
+      "published": "2026-11-02T22:30:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple reports fourth quarter results",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+      "summary": "35 points · 12 comments",
+      "published": "2026-11-02T22:13:42+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Apple HomeView Ultra, Drone and Laundry-Folding Robot Reportedly In Development",
+      "url": "https://hardware.slashdot.org/story/26/11/02/2033238/apple-homeview-ultra-drone-and-laundry-folding-robot-reportedly-in-development?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "According to The Information, Apple is developing a $1,000 HomeView Ultra smart home hub with a 9-inch touchscreen mounted on a motorized arm that can follow users around a room and autonomously respond to its surroundings. It's also said to be experimenting with more ambitious home robots, including a wheeled robot that follows people, a smart home drone and a machine capable of folding laundry. Notebookcheck reports: According to the report, HomeView Ultra will feature a larger 9-inch touchscr",
+      "published": "2026-11-02T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Can’t fish Ethernet? Use “invisible” fiber instead",
+      "url": "https://momandpop.network/2026/11/02/cant-fish-ethernet-use-invisible-fiber-instead/",
+      "summary": "29 points · 28 comments",
+      "published": "2026-11-02T21:42:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
+      "published": "2026-11-02T21:40:14+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "SpaceX Is Reportedly Looking At Buying Boost Mobile",
+      "url": "https://mobile.slashdot.org/story/26/11/02/205252/spacex-is-reportedly-looking-at-buying-boost-mobile?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "SpaceX has reportedly held talks with EchoStar about acquiring Boost Mobile or gaining access to its network, potentially giving Starlink a shortcut toward becoming a full-fledged U.S. mobile carrier. Engadget reports: According to Washington Post's sources, the deal could look like SpaceX acquiring Boost Mobile outright or gaining access to its cell network, which is leased from AT&T and T-Mobile. There could be a major hitch with the deal though, since SpaceX's potential mobile service would n",
+      "published": "2026-11-02T21:00:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI Might Rebrand Its Data Centers As 'AI Compute Campuses'",
+      "url": "https://slashdot.org/story/26/11/02/1940254/openai-might-rebrand-its-data-centers-as-ai-compute-campuses?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TechCrunch: Data centers are deeply unpopular. But what if we called them something else? Axios reports that OpenAI is preparing a \"PR blitz\" for after the midterm elections on Tuesday, as Democrats seem likely to win back the House of Representatives, and possibly the Senate, too. The company's chief global affairs officer Chris Lehane told Axios that the midterms will be \"a bit of a movie trailer for what you're going to see in 2028,\" when he expects AI",
+      "published": "2026-11-02T20:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "PHP2Shell Investigation Identifies Palo Alto Firewall Compromises",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xm6qsz/php2shell_investigation_identifies_palo_alto/",
+      "summary": "Follow-up reporting identifies Palo Alto Networks firewalls as targets in the PHP2Shell exploit-chain investigation. Researchers describe attackers combining PHP vulnerabilities with a Linux kernel privilege-escalation flaw to obtain root access. This adds important product-specific context to the Dream Research findings we've discussed. Administrators of exposed firewall management interfaces should review vendor advisories and investigate possible compromise. Palo Alto acknowledges limited exp",
+      "published": "2026-11-02T19:22:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
+      "published": "2026-11-02T19:00:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "The New York Times Sues Brave Web Browser For AI Scraping, Bypassing Paywalls",
+      "url": "https://yro.slashdot.org/story/26/11/02/1829212/the-new-york-times-sues-brave-web-browser-for-ai-scraping-bypassing-paywalls?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The New York Times and several other publishers have sued (PDF) Brave Software, accusing the browser maker of scraping their websites without permission and helping users bypass paywalls. The Verge reports: According to a complaint (PDF) filed by the companies that run New York Daily News, the Chicago Tribune, and the Orlando Sentinel, Brave Software has monetized its index of scraped websites by, in part, providing AI companies with paid access to \"real-time online content from the Brave Index.",
+      "published": "2026-11-02T19:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "summary": "89 points · 68 comments",
+      "published": "2026-11-02T18:54:44+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyberattacks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xm5yks/hackers_claim_to_have_stolen_23tb_of_data_from/",
+      "summary": "submitted by /u/Firecracker048 [link] [comments]",
+      "published": "2026-11-02T18:54:40+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
+      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
+      "summary": "236 points · 39 comments",
+      "published": "2026-11-02T18:39:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "summary": "1571 points · 508 comments",
+      "published": "2026-11-02T18:21:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
+      "url": "https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/",
+      "summary": "Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate revenue through cybercrime activities. [...]",
+      "published": "2026-11-02T18:16:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
+      "summary": "84 points · 29 comments",
+      "published": "2026-11-02T18:12:48+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft's Canada Timezone Troubles Leave Admins Fixing Calendars, Pretending They're In Bogota",
+      "url": "https://news.slashdot.org/story/26/11/02/1538237/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft is scrambling to fix time-zone problems across Outlook, Power Automate, Fabric, SharePoint and other products after parts of Canada stopped observing seasonal clock changes on November 1. \"The company has confirmed problems across a chunk of its software estate, leaving some customers facing incorrect times, broken schedules and a collection of workarounds while Redmond catches up,\" reports The Register. From the report: Outlook users have been left with the most homework. Switching to",
+      "published": "2026-11-02T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+      "summary": "49 points · 14 comments",
+      "published": "2026-11-02T17:47:40+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Lovable: Many Apps Built on the Platform Expose Sensitive Data",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xm3hgg/lovable_many_apps_built_on_the_platform_expose/",
+      "summary": "AI makes it easier to build your own web applications, but handling sensitive data still requires special care. We examined 159,041 Lovable projects and found many cases where personal and confidential information was accessible without logging in. submitted by /u/neathack [link] [comments]",
+      "published": "2026-11-02T17:27:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Polyend releases the Tracker firmware source code",
+      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
+      "summary": "54 points · 9 comments",
+      "published": "2026-11-02T17:20:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Subvocal – Talk to your computer without making noise",
+      "url": "https://news.ycombinator.com/item?id=50340088",
+      "summary": "464 points · 257 comments",
+      "published": "2026-11-02T17:16:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "summary": "104 points · 70 comments",
+      "published": "2026-11-02T17:05:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bitmovin (YC S15) Is Hiring Technical Graduates in Denver (Engineering/CS Focus)",
+      "url": "https://bitmovin.com/careers/8660599002/",
+      "summary": "1 points · 0 comments",
+      "published": "2026-11-02T17:00:41+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Marvell to Buy Lumentum In $115 Billion Bet On AI Connectivity",
+      "url": "https://slashdot.org/story/26/11/02/1527241/marvell-to-buy-lumentum-in-115-billion-bet-on-ai-connectivity?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Marvell has agreed to acquire optical components maker Lumentum in an all-stock deal with an implied enterprise value of $115 billion. \"AI infrastructure is undergoing a fundamental architectural shift toward optical connectivity, creating an opportunity that comes along once in a generation,\" said Marvell Chairman and CEO Matt Murphy. \"The companies that move first and help define this transition will set the standard for decades to come.\" CNBC reports: Through the acquisition, Marvell said it ",
+      "published": "2026-11-02T17:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "summary": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions stolen, hidden networks of hacked devices, poisoned software, and attackers finding new ways to turn normal tools against",
+      "published": "2026-11-02T16:57:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "summary": "239 points · 261 comments",
+      "published": "2026-11-02T16:34:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "summary": "188 points · 33 comments",
+      "published": "2026-11-02T16:25:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: Who is hiring? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50338728",
+      "summary": "158 points · 129 comments",
+      "published": "2026-11-02T16:01:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Supermarket Freezers Across Europe Hit By Second Suspected Cyberattack",
+      "url": "https://it.slashdot.org/story/26/11/02/1522249/supermarket-freezers-across-europe-hit-by-second-suspected-cyberattack?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from The Guardian: Supermarket chains in Sweden, Belgium and Luxembourg have said the temperatures of their refrigerators and freezers in dozens of stores rose overnight, prompting fears of a cyber-attack similar to one that caused millions of euros of food losses in France. Sweden's Coop chain told the daily Aftonbladet on Monday that six of its stores had been affected, while ICA said it was \"aware that a limited number of stores were affected by an incident",
+      "published": "2026-11-02T16:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Security professionals, how often have you ran into attackers taking advantage of layer 2 vulnerabilities?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xm11z8/security_professionals_how_often_have_you_ran/",
+      "summary": "submitted by /u/WordTimely8559 [link] [comments]",
+      "published": "2026-11-02T15:59:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+      "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+      "summary": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google. Google says it is highly confident that device maker Videostrong intentionally put a backdoor in the boxes and sold access to criminals. They used the boxes for ad fraud and to pass other people's internet traffic through owners' home",
+      "published": "2026-11-02T15:50:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "BTCPay Server warns of hot wallet crypto thefts on outdated instances",
+      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+      "published": "2026-11-02T15:03:07+00:00"
     },
     {
       "source": "OSINT",
@@ -58,7 +275,7 @@
       "source": "HACKER NEWS",
       "title": "WTF Ubuntu?",
       "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "summary": "209 points · 85 comments",
+      "summary": "1228 points · 567 comments",
       "published": "2026-11-02T14:52:00+00:00"
     },
     {
@@ -74,13 +291,6 @@
       "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
       "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
       "published": "2026-11-02T14:46:05+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
-      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
-      "summary": "44 points · 9 comments",
-      "published": "2026-11-02T14:38:45+00:00"
     },
     {
       "source": "OSINT",
@@ -104,6 +314,13 @@
       "published": "2026-11-02T13:57:29+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "If you love a website, back it up",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "summary": "333 points · 83 comments",
+      "published": "2026-11-02T13:25:35+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
       "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
@@ -118,25 +335,11 @@
       "published": "2026-11-02T12:34:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Never Complain, Never Explain",
-      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
-      "summary": "97 points · 33 comments",
-      "published": "2026-11-02T11:55:48+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Supermarkets in Belgian and Sweden Report New Suspected Freezer Hack",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xlv4i8/supermarkets_in_belgian_and_sweden_report_new/",
       "summary": "submitted by /u/NISMO1968 [link] [comments]",
       "published": "2026-11-02T11:51:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
-      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
-      "summary": "142 points · 153 comments",
-      "published": "2026-11-02T11:50:13+00:00"
     },
     {
       "source": "OSINT",
@@ -167,13 +370,6 @@
       "published": "2026-11-02T11:08:45+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlubrq/drupal_commerce_core_vulnerability_exploited/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-11-02T11:06:39+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
       "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
@@ -195,13 +391,6 @@
       "published": "2026-11-02T09:33:26+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I've updated my Linux System Call website and API",
-      "url": "https://syscall.sh/",
-      "summary": "127 points · 41 comments",
-      "published": "2026-11-02T09:29:16+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It",
       "url": "https://yro.slashdot.org/story/26/11/01/1832251/bad-flock-info-leads-police-to-tow-wrong-car-then-towing-company-totals-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -214,20 +403,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xlrjtp/safe_to_say_ai_isnt_replacing_us_anytime_soon/",
       "summary": "This month has been crazy at work with all the new incidents and zero-day vulnerabilities. Working so much overtime every day was definitely a new experience. Now that I reflect on it, it gives me a little glimmer of hope that AI can’t fully replace us. Major stakeholders just told our managers that they like what our team is doing and have increased our budget. Life is good! submitted by /u/Equivalent-Name9838 [link] [comments]",
       "published": "2026-11-02T08:12:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
-      "summary": "125 points · 65 comments",
-      "published": "2026-11-02T07:27:28+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
-      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
-      "summary": "56 points · 7 comments",
-      "published": "2026-11-02T06:39:42+00:00"
     },
     {
       "source": "OSINT",
@@ -244,46 +419,11 @@
       "published": "2026-11-02T05:04:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Could this have been prevented with a firewall? Like opnsense?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlo62w/could_this_have_been_prevented_with_a_firewall/",
-      "summary": "submitted by /u/PROXYNAPSE [link] [comments]",
-      "published": "2026-11-02T04:48:24+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Experts Expect 'Security Reckoning' As AI Tools Find And Exploit Software Bugs",
       "url": "https://it.slashdot.org/story/26/11/02/033200/experts-expect-security-reckoning-as-ai-tools-find-and-exploit-software-bugs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "The Washington Post reports: Tens of thousands of South Koreans had their financial data exposed online in recent weeks after at least nine major banks there suffered cyberattacks that suggested a dark future for online security. One man, a 26-year-old living in southern China, was allegedly behind the attacks, according to an investigation by cybersecurity company CrowdStrike. Traces left online and failure to secure his own systems allowed investigators to piece together the man's name, age, l",
       "published": "2026-11-02T03:04:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Binance Reopens to $3.64 in Net Outflows. '98% Choose to Stay', Says Its Founder",
-      "url": "https://news.slashdot.org/story/26/11/02/0159222/binance-reopens-to-364-in-net-outflows-98-choose-to-stay-says-its-founder?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Binance now says it's replenished 90% of assets stolen last week in a $6.3 billion security breach, its customers still \"rushed to move funds off the platform\" when it reopened Sunday, CNBC reports, and Binance \"said it recorded $3.64 billion in net outflows after reopening withdrawals on Sunday.\" The exchange processed $4.65 billion in withdrawals and $1.01 billion in deposits between 6 a.m. and 3:30 p.m. UTC on Nov. 1, Binance said in a post on X. The resulting net outflows represented 2.1% of",
-      "published": "2026-11-02T02:02:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
-      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "summary": "175 points · 23 comments",
-      "published": "2026-11-02T01:59:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bones may release proteins that slow aging and extend life span",
-      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
-      "summary": "223 points · 78 comments",
-      "published": "2026-11-02T01:31:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Trigger.dev customer environment variables exposed",
-      "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "summary": "145 points · 72 comments",
-      "published": "2026-11-02T01:09:16+00:00"
     },
     {
       "source": "REDDIT",
@@ -293,46 +433,11 @@
       "published": "2026-11-02T00:54:22+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Stack Overflow: 'Reports of Our Death are Greatly Exaggerated'",
-      "url": "https://developers.slashdot.org/story/26/11/02/0026255/stack-overflow-reports-of-our-death-are-greatly-exaggerated?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Stack Overflow's senior VP of community says predictions of their demise \"make for compelling headlines, but they confuse a change in how people access knowledge with the disappearance of the knowledge — and the company — behind it. AI has changed developer behavior. In our recently released 2026 Developer Survey, 64% of respondents said they visit Stack Overflow less frequently for simple questions. But developers also report asking more advanced questions and visiting the site to verify AI-gen",
-      "published": "2026-11-02T00:34:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xlifej/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-11-02T00:00:14+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Toyota's EV Sales More Than Doubled In a Year, While Its Gas Car Sales Dropped 20% In China",
-      "url": "https://tech.slashdot.org/story/26/11/01/2333233/toyotas-ev-sales-more-than-doubled-in-a-year-while-its-gas-car-sales-dropped-20-in-china?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Toyota's EV sales have jumped 127% through September, reports Electrek: Including Lexus, Toyota sold 309,766 battery electric vehicles (BEVs) globally through the first nine months of 2026, up 127.4% from the same period last year. Except for January (+87.5%), Toyota's EV sales have more than doubled every month this year compared with 2025... While its EVs are catching on, Toyota Motor's global sales fell for the third straight month in September. Toyota sold 860,107 vehicles in September, down",
-      "published": "2026-11-01T23:36:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "SystemD's Creator Opens Signups for Private Preview of Amutable's Cryptographically Verified Linux Systems",
-      "url": "https://tech.slashdot.org/story/26/11/01/229250/systemds-creator-opens-signups-for-private-preview-of-amutables-cryptographically-verified-linux-systems?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "SystemD creator Lennart Poettering left Red Hat for Microsoft in 2022, but 10 months ago left to co-found Amutable a company that aims to build cryptographically verified Linux systems that stay trusted over time. It's FOSS calls it \"a read-only, image-based system where every machine produces signed reports of its own state\" — and signups are now open for a private preview: Before announcing this Linux-based implementation, Amutable had released two open source tools. tine, a Buck2-based build ",
-      "published": "2026-11-01T22:33:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Religious Exemption from Using AI in Workplace Granted to Humanist",
-      "url": "https://slashdot.org/story/26/11/01/2130258/religious-exemption-from-using-ai-in-workplace-granted-to-humanist?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"David Durman, a nontheistic humanist, recently secured a religious exemption from using AI in the workplace,\" reports TechCrunch. Durman, a University of Kentucky administrator, told TechCrunch that humanism centers on \"human well-being and flourishing, both individually and collectively ... and implores a person to try to improve both their well-being and their flourishing as well as the others around them.\" He believes that using the technology runs counter to his beliefs. \"The way we become ",
-      "published": "2026-11-01T21:33:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "AI Makes Linux 7.4 Merge Window the Largest in Kernel History",
-      "url": "https://linux.slashdot.org/story/26/11/01/2012246/ai-makes-linux-74-merge-window-the-largest-in-kernel-history?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"On a Git commit basis, the Linux 7.4 merge window has been the busiest on record,\" writes Phoronix,\" with 19,671 commits since Linux 7.3: As of this morning in Linux Git ahead of v7.4-rc1, the kernel source tree is up to 41,605,120 lines. That's from 5,193,578 blank lines, 4,993,604 lines of comments, and 31,417,938 lines of detected code. Or nearly half a million lines of code added during the Linux 7.4 merge window, ignoring comments and blank lines [as detected by cloc ]. A historical graph ",
-      "published": "2026-11-01T20:14:00+00:00"
     },
     {
       "source": "OSINT",
@@ -342,53 +447,11 @@
       "published": "2026-11-01T19:57:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: Which TV do you recommend for privacy?",
-      "url": "https://news.ycombinator.com/item?id=50328896",
-      "summary": "568 points · 682 comments",
-      "published": "2026-11-01T19:35:27+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Which Tech Companies Started Using Trump's Phrase 'Super Intelligence'?",
-      "url": "https://tech.slashdot.org/story/26/10/31/0615204/which-tech-companies-started-using-trumps-phrase-super-intelligence?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "CNBC reports: A month after President Donald Trump ordered that \"super intelligence\" replace the term artificial intelligence within executive branch departments and agencies, his leading tech allies, Elon Musk and Mark Zuckerberg, followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same... SpaceX and Tesla adhered to Trump's wishes on earnings calls last week after Musk, earlier in October, changed the name of his rocket company's AI division to SpaceXSI. Speaking ",
-      "published": "2026-11-01T17:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "College Students are Pushing Colleges to 'De-Flock'",
-      "url": "https://yro.slashdot.org/story/26/10/31/0250246/college-students-are-pushing-colleges-to-de-flock?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Inside Higher Ed reports: In September, Emory University removed a dozen license plate-reading cameras from its campus in Atlanta and declined to renew its contract with Flock Safety, the company that sells and operates the automatic license plate readers and other mass-surveillance technology. For the coalition of Emory students and employees who had spent months pushing the university to \"de-Flock,\" this was a victory... \"We made it very clear that these cameras were unneeded surveillance cons",
-      "published": "2026-11-01T16:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "My experience with Varonis: Offer rescinded three business days before my start date following the Proofpoint merger announcement",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xl75ai/my_experience_with_varonis_offer_rescinded_three/",
-      "summary": "Hello, I wanted to share my experience with Varonis, which has been ongoing since July 2026. I received an employment offer on October 14 and signed it on October 15. My scheduled start date was November 2. EDIT - recruiter extended the offer on Oct 14 around 5:30Pm. HR sent me the Docusign to sign on Oct 15 On October 27, just three business days before my expected start date, Varonis rescinded my offer. By that point, I had completed the entire onboarding process, including my background check",
-      "published": "2026-11-01T16:18:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-      "url": "https://hackerbooks.org",
-      "summary": "1713 points · 281 comments",
-      "published": "2026-11-01T15:58:28+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
       "url": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
       "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]",
       "published": "2026-11-01T15:11:21+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-      "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
-      "published": "2026-11-01T13:53:11+00:00"
     },
     {
       "source": "OSINT",
@@ -417,69 +480,6 @@
       "url": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
       "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government entities in Asia and involves the deployment of a previously undocumented .NET assembly-loading framework codenamed",
       "published": "2026-11-01T07:02:58+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "2743 points · 604 comments",
-      "published": "2026-10-31T19:56:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Northflank security breach leads to abuse of customers' AI API keys",
-      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-      "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-      "published": "2026-10-31T18:01:12+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-      "url": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-      "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]",
-      "published": "2026-10-31T15:35:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-      "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-      "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. \"This month, Chainalysis detected an external actor using offensive agentic",
-      "published": "2026-10-31T12:01:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "summary": "214 points · 90 comments",
-      "published": "2026-10-31T11:53:47+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-      "url": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The vulnerabilities are listed below - CVE-2026-111357 (CVSS score: 8.8) - A missing authentication for a critical function vulnerability that could allow a",
-      "published": "2026-10-31T08:27:43+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "summary": "686 points · 416 comments",
-      "published": "2026-10-31T01:38:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nibnib: Image compression with extreme decompression speed",
-      "url": "https://github.com/raphlinus/nibnib",
-      "summary": "173 points · 31 comments",
-      "published": "2026-10-30T04:17:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tips for more effective fuzz testing with AFL++",
-      "url": "https://nullprogram.com/blog/2025/02/05/",
-      "summary": "144 points · 26 comments",
-      "published": "2026-10-28T09:46:12+00:00"
     },
     {
       "source": "OSINT",
