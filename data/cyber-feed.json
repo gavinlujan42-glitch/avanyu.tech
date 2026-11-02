@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-02T05:37:43.561562+00:00",
-  "item_count": 74,
+  "updated": "2026-11-02T15:27:03.825371+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,216 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "I made a practical Arabic walkthrough of UNION-Based SQL Injection (3 PortSwigger Labs)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlzpzo/i_made_a_practical_arabic_walkthrough_of/",
+      "summary": "Hey everyone! I've published the seventh episode of my PortSwigger learning journey. This time, I focused on UNION-Based SQL Injection and the methodology behind it, rather than simply showing ready-made payloads. The video covers three practical labs: Determining the number of columns returned by the original query. Finding a column that accepts text. Retrieving data from other tables using UNION SELECT. I also included: Practical testing using Burp Suite Repeater. A quick Speedrun covering the",
+      "published": "2026-11-02T15:09:47+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "summary": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]",
+      "published": "2026-11-02T15:03:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Why are Soviet math textbooks so hardcore in comparison to US textbooks? (2017)",
+      "url": "https://www.quora.com/Why-are-Soviet-mathematics-physics-textbooks-so-insanely-hardcore-in-comparison-to-US-textbooks/answer/Scott-Miller-307?share=1",
+      "summary": "20 points · 7 comments",
+      "published": "2026-11-02T15:01:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "summary": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]",
+      "published": "2026-11-02T15:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "WTF Ubuntu?",
+      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
+      "summary": "209 points · 85 comments",
+      "published": "2026-11-02T14:52:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlz4b6/fake_warnings_of_nuclear_attack_posted_on_hacked/",
+      "summary": "submitted by /u/OEAXTAIL_SOUP [link] [comments]",
+      "published": "2026-11-02T14:46:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+      "url": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026. According to a report published by Dream Research Labs, the campaign has led to the compromise of a high-profile individual in Israel, along with additional compromises affecting a government cloud",
+      "published": "2026-11-02T14:46:05+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Anthropic releases amended IPO prospectus with third-quarter financials",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "summary": "44 points · 9 comments",
+      "published": "2026-11-02T14:38:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "summary": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]",
+      "published": "2026-11-02T14:28:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The PHP2Shell Vulnerability Heralds Cybersecurity Hell: AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlyfhu/the_php2shell_vulnerability_heralds_cybersecurity/",
+      "summary": "“One of the things we’re witnessing now is that all the legacy software that was written by humans over the last 40 years is being exposed.” submitted by /u/IEEESpectrum [link] [comments]",
+      "published": "2026-11-02T14:19:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "summary": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]",
+      "published": "2026-11-02T13:57:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Over 1,000 GitLab servers vulnerable to ongoing RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/",
+      "summary": "Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]",
+      "published": "2026-11-02T12:47:00+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Itch Is Being Flooded By AI-Generated Garbage",
+      "url": "https://games.slashdot.org/story/26/11/02/0354237/itch-is-being-flooded-by-ai-generated-garbage?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The number of game pages being created per-day on Itch has doubled, the indie games site announced Saturday on Bluesky. When asked why, they responded: \"take a guess.\" As the gaming news site Aftermath puts it, \"the surge has been almost entirely down to AI-created garbage racing onto the platform as the popularity of vibe-coded theft, copycats and machine-built slop explodes.\" Back in 2024, when the spectre of AI-'created' video games was still in its infancy, indie platform itch.io decided tha",
+      "published": "2026-11-02T12:34:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Never Complain, Never Explain",
+      "url": "https://en.wikipedia.org/wiki/Never_complain,_never_explain",
+      "summary": "97 points · 33 comments",
+      "published": "2026-11-02T11:55:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Supermarkets in Belgian and Sweden Report New Suspected Freezer Hack",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlv4i8/supermarkets_in_belgian_and_sweden_report_new/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-11-02T11:51:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "summary": "142 points · 153 comments",
+      "published": "2026-11-02T11:50:13+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+      "url": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+      "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM. Every release from 1.0.0 through 1.12.8 has the flaws, and the only fix is version 1.13.0. Neither flaw is in CISA's Known",
+      "published": "2026-11-02T11:50:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+      "url": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+      "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practitioners. For the teams still testing, the next decision is whether their own SOC is ready. AI SOC readiness has two parts: whether a SOC has the",
+      "published": "2026-11-02T11:30:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
+      "url": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
+      "summary": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]",
+      "published": "2026-11-02T11:28:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+      "url": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+      "summary": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, including one for a domain controller. Microsoft said in a report that it investigated two such intrusions, one of which resulted in company",
+      "published": "2026-11-02T11:08:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlubrq/drupal_commerce_core_vulnerability_exploited/",
+      "summary": "submitted by /u/NISMO1968 [link] [comments]",
+      "published": "2026-11-02T11:06:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+      "url": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure. The activity, observed by Palo Alto Networks Unit 42 between October 2025 and April 2026, has been tracked under the moniker CL-UNK-1211, where \"CL\" refers to cluster and \"UNK\" stands for unknown",
+      "published": "2026-11-02T10:49:59+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Fake alerts warn of nuclear danger as Ukraine and Russia report emergency app hacks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlttbz/fake_alerts_warn_of_nuclear_danger_as_ukraine_and/",
+      "summary": "submitted by /u/nbcnews [link] [comments]",
+      "published": "2026-11-02T10:36:50+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
+      "summary": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
+      "published": "2026-11-02T09:33:26+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: I've updated my Linux System Call website and API",
+      "url": "https://syscall.sh/",
+      "summary": "127 points · 41 comments",
+      "published": "2026-11-02T09:29:16+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Bad Flock Info Leads Police To Tow Wrong Car, Then Towing Company Totals It",
+      "url": "https://yro.slashdot.org/story/26/11/01/1832251/bad-flock-info-leads-police-to-tow-wrong-car-then-towing-company-totals-it?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"Police continue to blindly trust Flock cameras above and beyond the evidence in front of their own eyes,\" reports Jalopnik.com. \"After incorrectly connecting Rosalyn Crump's car to a shooting that had occurred the previous day, police had her car towed and impounded as evidence, reports Moneywise...\" According to WWBT 12 On Your Side, Richmond, Virginia, police didn't have a license plate number for the suspect's car, making it impossible to search Flock's records for that plate. Flock cameras ",
+      "published": "2026-11-02T08:34:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Safe to say 😝 AI isn’t replacing us anytime soon",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlrjtp/safe_to_say_ai_isnt_replacing_us_anytime_soon/",
+      "summary": "This month has been crazy at work with all the new incidents and zero-day vulnerabilities. Working so much overtime every day was definitely a new experience. Now that I reflect on it, it gives me a little glimmer of hope that AI can’t fully replace us. Major stakeholders just told our managers that they like what our team is doing and have increased our budget. Life is good! submitted by /u/Equivalent-Name9838 [link] [comments]",
+      "published": "2026-11-02T08:12:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2/",
+      "summary": "125 points · 65 comments",
+      "published": "2026-11-02T07:27:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "From Charlemagne to the Kitchen Boy: Reading the Hamburg Rathaus",
+      "url": "https://alsterrunde.com/from-charlemagne-to-the-kitchen-boy-reading-the-hamburg-rathaus/",
+      "summary": "56 points · 7 comments",
+      "published": "2026-11-02T06:39:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+      "url": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+      "summary": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to harvest passwords and cookies from Chromium-based web browsers; data from Outlook profiles and Slack workspaces;",
+      "published": "2026-11-02T05:51:07+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Rocky Linux Creator Built a New 'Not Linux' Kernel in 11 Days Using AI",
       "url": "https://tech.slashdot.org/story/26/11/02/0317207/rocky-linux-creator-built-a-new-not-linux-kernel-in-11-days-using-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -39,13 +249,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xlo62w/could_this_have_been_prevented_with_a_firewall/",
       "summary": "submitted by /u/PROXYNAPSE [link] [comments]",
       "published": "2026-11-02T04:48:24+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Labs vs Certs skill comparison",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xlmvu5/labs_vs_certs_skill_comparison/",
-      "summary": "In pure technical skill (not hiring or resume)... How does someone who only does serious lab practice compare to someone who has multiple cybersecurity certifications? who actually comes out stronger in real technical ability? submitted by /u/Ayolol965 [link] [comments]",
-      "published": "2026-11-02T03:39:12+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -65,21 +268,21 @@
       "source": "HACKER NEWS",
       "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
       "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
-      "summary": "59 points · 5 comments",
+      "summary": "175 points · 23 comments",
       "published": "2026-11-02T01:59:38+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
-      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-      "summary": "56 points · 29 comments",
-      "published": "2026-11-02T01:47:07+00:00"
+      "title": "Bones may release proteins that slow aging and extend life span",
+      "url": "https://www.science.org/content/article/bones-may-release-proteins-slow-aging-and-extend-life-span",
+      "summary": "223 points · 78 comments",
+      "published": "2026-11-02T01:31:07+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Trigger.dev customer environment variables exposed",
       "url": "https://trigger.dev/blog/security-incident-nov-2026",
-      "summary": "45 points · 14 comments",
+      "summary": "145 points · 72 comments",
       "published": "2026-11-02T01:09:16+00:00"
     },
     {
@@ -90,25 +293,11 @@
       "published": "2026-11-02T00:54:22+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Finally Taking on the CISSP After Years of Putting It Off.. Really Need Some Study Advice!",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xljc9o/finally_taking_on_the_cissp_after_years_of/",
-      "summary": "Hey everyone! I'm finally starting my CISSP journey and could really use some advice from those who have already passed. A little about me: I have 4 years of experience as a Security Engineer across two organizations, where I was essentially the sole security engineer handling most security responsibilities. I also have a Master's in Cybersecurity and Information Assurance and hold the CEH certification. Despite my background, the CISSP has always intimidated me, mainly because of the amount of ",
-      "published": "2026-11-02T00:43:01+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Stack Overflow: 'Reports of Our Death are Greatly Exaggerated'",
       "url": "https://developers.slashdot.org/story/26/11/02/0026255/stack-overflow-reports-of-our-death-are-greatly-exaggerated?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Stack Overflow's senior VP of community says predictions of their demise \"make for compelling headlines, but they confuse a change in how people access knowledge with the disappearance of the knowledge — and the company — behind it. AI has changed developer behavior. In our recently released 2026 Developer Survey, 64% of respondents said they visit Stack Overflow less frequently for simple questions. But developers also report asking more advanced questions and visiting the site to verify AI-gen",
       "published": "2026-11-02T00:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OccupySaaS",
-      "url": "https://occupysaas.com/",
-      "summary": "158 points · 105 comments",
-      "published": "2026-11-02T00:17:27+00:00"
     },
     {
       "source": "REDDIT",
@@ -156,15 +345,8 @@
       "source": "HACKER NEWS",
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "url": "https://news.ycombinator.com/item?id=50328896",
-      "summary": "236 points · 405 comments",
+      "summary": "568 points · 682 comments",
       "published": "2026-11-01T19:35:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Mathematics has changed. Let's act like it",
-      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "summary": "259 points · 283 comments",
-      "published": "2026-11-01T18:28:42+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -172,13 +354,6 @@
       "url": "https://tech.slashdot.org/story/26/10/31/0615204/which-tech-companies-started-using-trumps-phrase-super-intelligence?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "CNBC reports: A month after President Donald Trump ordered that \"super intelligence\" replace the term artificial intelligence within executive branch departments and agencies, his leading tech allies, Elon Musk and Mark Zuckerberg, followed suit on earnings calls. Their fellow tech CEOs were less eager to do the same... SpaceX and Tesla adhered to Trump's wishes on earnings calls last week after Musk, earlier in October, changed the name of his rocket company's AI division to SpaceXSI. Speaking ",
       "published": "2026-11-01T17:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "SASE vendors ?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xl7lo2/sase_vendors/",
-      "summary": "Just want to know which ones you're using, from the likes of Cato, Netskope, etc. Share your experiences. submitted by /u/Gold_Support4687 [link] [comments]",
-      "published": "2026-11-01T16:36:56+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -198,15 +373,8 @@
       "source": "HACKER NEWS",
       "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
       "url": "https://hackerbooks.org",
-      "summary": "1138 points · 207 comments",
+      "summary": "1713 points · 281 comments",
       "published": "2026-11-01T15:58:28+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Amid AI Bans, Microsoft and OpenAI Plan a 'Joyful' Hour of AI for Kids",
-      "url": "https://news.slashdot.org/story/26/11/01/0211213/amid-ai-bans-microsoft-and-openai-plan-a-joyful-hour-of-ai-for-kids?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Generative AI was recently banned in America's two largest school districts, just weeks after OpenAI launched ChatGPT for Teens. But forging ahead, tech-backed nonprofit Code.org — now renamed CodeAI — has named OpenAI the \"Lead Partner\" for its 2026 Hour of AI (which last year replaced its signature event, \"the Hour of Code\"). Long-time Slashdot reader theodp explains: In August, OpenAI announced a new signature partnership with CodeAI to \"prepare the first AI generation\", explaining that \"thro",
-      "published": "2026-11-01T15:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -221,34 +389,6 @@
       "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
       "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
       "published": "2026-11-01T13:53:11+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Difference between cyber risk management standard vs. framework",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xl3l71/difference_between_cyber_risk_management_standard/",
-      "summary": "Apologies in advance if this is the wrong place to ask or if this is a stupid question. I’m currently in school for cybersecurity and I’m taking a cyber risk management course. My professor is asking for me to discuss risk standards, but when researching it seems they’re used interchangeably. submitted by /u/Goodbyebluesky33 [link] [comments]",
-      "published": "2026-11-01T13:52:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "url": "https://arxiv.org/abs/2610.39302",
-      "summary": "124 points · 66 comments",
-      "published": "2026-11-01T13:24:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "url": "https://github.com/ivankovic/omnidiff",
-      "summary": "196 points · 46 comments",
-      "published": "2026-11-01T13:02:30+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Meta Discussed 'Whisper Strategy' to Discredit Social Media Critic Jonathan Haidt, Files Show",
-      "url": "https://tech.slashdot.org/story/26/10/31/0559203/meta-discussed-whisper-strategy-to-discredit-social-media-critic-jonathan-haidt-files-show?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Guardian reports: Meta staff discussed deploying a \"whisper strategy\" to undermine the influential US academic whose work has inspired a global social media crackdown, according to court documents. Employees at the parent group of Facebook and Instagram sought to discredit Jonathan Haidt, the social psychologist and author of The Anxious Generation, a book that helped tip the debate about online safety towards more stringent measures such as the under-16 ban in Australia. Minutes of internal",
-      "published": "2026-11-01T11:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -268,7 +408,7 @@
       "source": "OSINT",
       "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
       "url": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI), said it",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI, along with the U.S. Secret Service (USSS) and the Internal Revenue Service Criminal Investigation (IRS-CI),",
       "published": "2026-11-01T07:03:00+00:00"
     },
     {
@@ -280,38 +420,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "summary": "336 points · 257 comments",
-      "published": "2026-11-01T06:06:19+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "6 Years in Cybersecurity, but Rejected by Almost Every GRC Job I Apply For. What Am I Missing?🥺☹️",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xkuv55/6_years_in_cybersecurity_but_rejected_by_almost/",
-      "summary": "I have around 6 years of experience in cybersecurity, primarily in security operations and SOC. I've also had previous experience as a Security Team Leader, handling quality assurance, process compliance, and team operations. Recently, I've been trying to transition into Cybersecurity GRC. I've started applying for GRC Analyst, IT Risk, and Compliance roles, but unfortunately, most of my applications have been rejected. One of the common gaps seems to be my lack of hands-on experience with forma",
-      "published": "2026-11-01T05:17:47+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Loss of interest in the field",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xkt6kq/loss_of_interest_in_the_field/",
-      "summary": "Been feeling this for a while… ever since AI inserted itself into every aspect of the industry it just became less interesting I got introduced to security from CTFs back when I was in public school and played consistently all the way through my academic life. I still occasionally play and I used that experience to get a job as an analyst which I enjoyed and thought I’d do this for life. People tell me all the time I have to embrace AI or otherwise I’d be left behind. To be become an “expert in ",
-      "published": "2026-11-01T03:39:23+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "summary": "2416 points · 553 comments",
+      "summary": "2743 points · 604 comments",
       "published": "2026-10-31T19:56:53+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "The AO3 situation, thoughts on what may be going on",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xki5kj/the_ao3_situation_thoughts_on_what_may_be_going_on/",
-      "summary": "AO3 Down for Maintenance Update - Earlier today, we detected evidence of a security incident on AO3. We are still in the early stages of response to this security incident and determining its scope. AO3 will remain down while we continue investigating and addressing what has been found so far. However, we want to make some things clear: First, no AO3 data has been deleted. All your works, bookmarks, kudos, etc., are safe. Second, while we currently don't believe that the user database was stolen",
-      "published": "2026-10-31T18:50:10+00:00"
     },
     {
       "source": "OSINT",
@@ -329,27 +441,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Reddit to lock content behind logins to fight scrapers",
-      "url": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-      "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-      "published": "2026-10-31T14:05:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-      "url": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-      "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible findings that stand up to scrutiny. [...]",
-      "published": "2026-10-31T13:10:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-      "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
-      "published": "2026-10-31T12:50:09+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
       "url": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
       "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized access to its investigation content, authentication credentials, or session tokens. \"This month, Chainalysis detected an external actor using offensive agentic",
@@ -359,7 +450,7 @@
       "source": "HACKER NEWS",
       "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
       "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-      "summary": "64 points · 18 comments",
+      "summary": "214 points · 90 comments",
       "published": "2026-10-31T11:53:47+00:00"
     },
     {
@@ -370,108 +461,24 @@
       "published": "2026-10-31T08:27:43+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-      "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-      "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI's bug bounty program on October 18, and OpenAI fixed it eight days later and rated it P1, its most serious category.",
-      "published": "2026-10-31T05:33:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-      "url": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-      "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion HTTP DDoS requests in the third quarter of 2026. That amounts to 197,400 attacks per day, or one attack every 0.44",
-      "published": "2026-10-31T04:56:12+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Postgres 19 is late because so many more bugs are being found now",
       "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "summary": "215 points · 134 comments",
+      "summary": "686 points · 416 comments",
       "published": "2026-10-31T01:38:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Copper – A minimal low-level programming language with OOP and generics",
-      "url": "https://tibleiz.net/copper/",
-      "summary": "152 points · 82 comments",
-      "published": "2026-10-30T19:09:33+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-      "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-      "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based \"targeted intrusion adversary\" it tracks under the moniker Vapor Panda (previously VexatiousTemper). First identified in",
-      "published": "2026-10-30T16:58:44+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-      "url": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-      "published": "2026-10-30T15:58:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-      "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-      "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or compromised host can exploit the flaw to crash the viewer's TeamViewer and, depending on the platform, may also run",
-      "published": "2026-10-30T15:17:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-      "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]",
-      "published": "2026-10-30T14:36:54+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-      "url": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-      "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7 through 7.1.3. It carries a CVSS score of 8.1 on the CVSS scoring system. Patches for the flaw were released on October",
-      "published": "2026-10-30T14:08:14+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]",
-      "published": "2026-10-30T14:00:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Keeping Up Appearances – The women taking over the funeral industry",
-      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
-      "summary": "38 points · 20 comments",
-      "published": "2026-10-30T12:40:08+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-      "url": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-      "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis since March 2026 to move their funds to a new wallet with a new recovery phrase. Trezor said in a blog post",
-      "published": "2026-10-30T12:21:56+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nibnib: Image compression with extreme decompression speed",
       "url": "https://github.com/raphlinus/nibnib",
-      "summary": "122 points · 19 comments",
+      "summary": "173 points · 31 comments",
       "published": "2026-10-30T04:17:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-      "summary": "61 points · 32 comments",
-      "published": "2026-10-30T03:06:52+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Tips for more effective fuzz testing with AFL++",
       "url": "https://nullprogram.com/blog/2025/02/05/",
-      "summary": "97 points · 16 comments",
+      "summary": "144 points · 26 comments",
       "published": "2026-10-28T09:46:12+00:00"
     },
     {
