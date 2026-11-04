@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T06:54:37.949892+00:00",
-  "item_count": 83,
+  "updated": "2026-11-04T15:17:58.182351+00:00",
+  "item_count": 84,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -22,11 +22,235 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Debian apt security update (man-in-the-middle)",
+      "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+      "summary": "15 points · 0 comments",
+      "published": "2026-11-04T15:04:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]",
+      "published": "2026-11-04T15:00:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+      "published": "2026-11-04T14:42:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+      "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
+      "published": "2026-11-04T14:27:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "US voters roundly reject data centers in ballot measures",
+      "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "summary": "130 points · 146 comments",
+      "published": "2026-11-04T14:27:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+      "summary": "90 points · 50 comments",
+      "published": "2026-11-04T14:09:55+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "One challenge of phishing detection that doesn't get enough attention: false positives",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnp3z3/one_challenge_of_phishing_detection_that_doesnt/",
+      "summary": "I'm a co-founder of a form-building platform, and one thing I've learned from looking at phishing activity on the platform is that detecting malicious content is only half the challenge. Avoiding false positives is just as important. Between April 1 and October 19, 2026, our security systems flagged 34,492 forms. Of those, 22,286 were banned, while 9,229 were identified as legitimate. Another 2,977 weren't banned or added to our allowlist. What stood out to me is how much care this process requi",
+      "published": "2026-11-04T14:08:04+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "[Academic Research] Help collect data for ransomware research",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnohfs/academic_research_help_collect_data_for/",
+      "summary": "Help me collect data about ransomware for my PhD. I'm a CISSP, CISM, Sec+, & doctoral candidate at Capitol Technology University, MD. I'm researching which security controls actually enable recovery and resilience, compared to cyber frameworks. Takes 15–25 minutes. Anonymous. No compensation. IRB-approved. Would deeply appreciate your help. Please share. Thank you! https://techstudy.limesurvey.net/748327?lang=en&newtest=Y (Safe link: I built the survey on Limesurvey dot net. It's open source, cl",
+      "published": "2026-11-04T13:41:36+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "US charges two Canadians accused of hacking US universities",
+      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
+      "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
+      "published": "2026-11-04T13:13:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Masters GRC/Audit",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnnqdg/masters_grcaudit/",
+      "summary": "I currently work as a broad Cybersecurity Analyst, occasionally on call to handle incidents, a little bit of engineering of SIEM tools, policy management . I have a decent background in more GRC focused work. There has finally been a shift to make my role a bit more focused on GRC currently. Which is great because that is what I enjoy. I want to pursue a Masters in Cybersecurity with a GRC focus. I would like to get another masters after, but I’m not sure what would yield best for my path for pu",
+      "published": "2026-11-04T13:06:25+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "NASA's Swift Observatory Is Falling to Earth",
+      "url": "https://science.slashdot.org/story/26/11/04/0616201/nasas-swift-observatory-is-falling-to-earth?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "joshuark shares a report from Wired: After 22 years in orbit and a failed rescue mission this summer, it is highly likely that the Neil Gehrels Swift Observatory will crash into Earth sometime next week. It is not known where on the planet the spacecraft -- which is roughly as big as a large elevator -- will fall. Despite its size, experts say the risk to the public is relatively low. The observatory was designed to operate for a few years in low Earth orbit, but it far exceeded its expected lif",
+      "published": "2026-11-04T13:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+      "published": "2026-11-04T12:11:05+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
+      "published": "2026-11-04T12:07:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "summary": "391 points · 280 comments",
+      "published": "2026-11-04T11:52:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory on November 3. All Xen versions from 4.6 onward are vulnerable,",
+      "published": "2026-11-04T11:46:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation",
+      "published": "2026-11-04T11:34:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and",
+      "published": "2026-11-04T11:24:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Synaptics Appears to Use Legal Threats to Block Open-Source DisplayLink Driver",
+      "url": "https://www.phoronix.com/news/Synaptics-Blocks-Vino-Driver",
+      "summary": "81 points · 29 comments",
+      "published": "2026-11-04T11:14:12+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Bank hit by botnet on OTP SMS endpoint. Motivation + defense ideas?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnlkjg/bank_hit_by_botnet_on_otp_sms_endpoint_motivation/",
+      "summary": "I had a call with a colleague who works at a bank, and he said they faced a sophisticated botnet attack on their OTP endpoint. The main challenge was the huge number of different IP addresses (and other fingerprints), which ended up draining their budget for sending SMS codes. What I’m curious about is the motivation behind such an attack. I’d also like to ask: how would you recommend defending against something like this? submitted by /u/vasiliydronov [link] [comments]",
+      "published": "2026-11-04T11:12:27+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "GitHub - kamehameha-ctrl/sniperscope: SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnli2w/github_kamehamehactrlsniperscope_sniperscope_is_a/",
+      "summary": "submitted by /u/esskike [link] [comments]",
+      "published": "2026-11-04T11:08:28+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "https://news.ycombinator.com/item?id=50363461",
+      "summary": "317 points · 86 comments",
+      "published": "2026-11-04T10:10:27+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Help us feedback for our project",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnkero/help_us_feedback_for_our_project/",
+      "summary": "So basically our college professor want us to have at least 25 people sign up for a form for our project. Which is cybersecurity related so your feedback might help a lot. Thanks submitted by /u/Slow_Distribution236 [link] [comments]",
+      "published": "2026-11-04T10:01:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "summary": "167 points · 83 comments",
+      "published": "2026-11-04T10:00:06+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Dinosaur Blood Found In Fossils For the First Time",
+      "url": "https://science.slashdot.org/story/26/11/04/066209/dinosaur-blood-found-in-fossils-for-the-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Researchers have confirmed the presence of intact biomolecules and mineralized red blood cells inside the 115-million-year-old fossilized bones of a juvenile Aratasaurus museunacionali from Brazil. The discovery challenges assumptions about how long blood-related biomolecules can survive and could help scientists study dinosaur metabolism, blood evolution and even how traces of ancient life might be preserved on other worlds. Popular Science reports: The evidence exists inside the fossilized lim",
+      "published": "2026-11-04T10:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+      "published": "2026-11-04T09:39:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "summary": "135 points · 81 comments",
+      "published": "2026-11-04T09:01:58+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Kitty 0.50",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "summary": "267 points · 165 comments",
+      "published": "2026-11-04T08:57:10+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "summary": "321 points · 166 comments",
+      "published": "2026-11-04T08:46:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are \"suspected of embezzling funds from the",
+      "published": "2026-11-04T08:17:11+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules. As of November 4, Google's bulletin did not report",
+      "published": "2026-11-04T07:46:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The lost malloc()",
+      "url": "https://napcakes.nekoweb.org/posts/malloc/",
+      "summary": "104 points · 39 comments",
+      "published": "2026-11-04T07:37:30+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Democrats Take Control of US Congress As Voters Reject Trump's Republicans",
       "url": "https://politics.slashdot.org/story/26/11/04/0629214/democrats-take-control-of-us-congress-as-voters-reject-trumps-republicans?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Tuesday, November 3, was Election Day in the United States, and the results are (mostly) in: Democrats are projected to win control of both the House and Senate in the 2026 midterms. The blue wave turned out to be more of a blue tsunami, ending Republican control of Congress for the final two years of President Donald Trump's second term. Democrats flipped seven Republican-held Senate seats in the 2026 midterms, including surprise victories in traditionally Republican strongholds such as Texas, ",
       "published": "2026-11-04T06:30:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
+      "published": "2026-11-04T05:43:11+00:00"
     },
     {
       "source": "REDDIT",
@@ -46,7 +270,7 @@
       "source": "HACKER NEWS",
       "title": "Jelly Sheet",
       "url": "https://mrdoob.github.io/codevember-2026/01/",
-      "summary": "111 points · 22 comments",
+      "summary": "347 points · 91 comments",
       "published": "2026-11-04T03:40:50+00:00"
     },
     {
@@ -58,31 +282,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
-      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
-      "summary": "50 points · 1 comments",
-      "published": "2026-11-04T03:20:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Arrows to arrows, categories to queries (2025)",
-      "url": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
-      "summary": "27 points · 1 comments",
-      "published": "2026-11-04T03:11:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Giant canyon on Mars is still tectonically active",
       "url": "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
-      "summary": "66 points · 5 comments",
+      "summary": "121 points · 26 comments",
       "published": "2026-11-04T01:40:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "C++26 Disapproved",
-      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-      "summary": "220 points · 117 comments",
-      "published": "2026-11-04T00:33:22+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -116,22 +319,8 @@
       "source": "HACKER NEWS",
       "title": "The Internals of PostgreSQL",
       "url": "https://www.interdb.jp/pg/index.html",
-      "summary": "228 points · 13 comments",
+      "summary": "329 points · 24 comments",
       "published": "2026-11-03T21:51:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "summary": "389 points · 211 comments",
-      "published": "2026-11-03T21:39:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "INC Ransoware",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xn5wwu/inc_ransoware/",
-      "summary": "Hello guys, this happened to my best friend’s company yesterday, he got hacked by INC and they stole and encrypted every file the company had and now he doesn’t know what to do, any advice and experiences with this guys? submitted by /u/ImmediateMinute6016 [link] [comments]",
-      "published": "2026-11-03T21:34:19+00:00"
     },
     {
       "source": "OSINT",
@@ -144,7 +333,7 @@
       "source": "HACKER NEWS",
       "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
       "url": "https://uncracked.city",
-      "summary": "22 points · 9 comments",
+      "summary": "100 points · 49 comments",
       "published": "2026-11-03T21:20:03+00:00"
     },
     {
@@ -153,13 +342,6 @@
       "url": "https://news.slashdot.org/story/26/11/03/214205/firefoxs-new-mini-window-is-every-multitaskers-dream?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Mozilla is testing a new Firefox Nightly feature called Mini Window that lets users pop an entire webpage into a small, always-on-top window stripped of most browser controls. \"The idea behind the Firefox Mini Window feature is simple: allow users to move a currently open tab (or a section of a tab) into a separate mini window,\" writes ZDNet's Jack Wallen. \"Think of it as moving a tab from one window to what appears like a web app.\" From the report: At first blush, there's no address bar, contro",
       "published": "2026-11-03T21:05:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Senior Analyst considering going back to a Tier 2 role because I’m miserable at my current MSSP. Am I making a mistake?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xn3xfl/senior_analyst_considering_going_back_to_a_tier_2/",
-      "summary": "I'm currently working as a Senior Security Analyst at an MSSP, and lately, I've been unhappy with the work environment, company culture, and overall stress of the role. At my previous employer, I also worked as a Senior Security Analyst, but the job wasn't nearly as stressful or something I dreaded as much as my current role. I'm considering going back because I'm already familiar with the company, its culture, and what to expect. The only issue is that the position currently available is an ana",
-      "published": "2026-11-03T20:18:17+00:00"
     },
     {
       "source": "OSINT",
@@ -204,32 +386,11 @@
       "published": "2026-11-03T18:16:19+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "summary": "137 points · 119 comments",
-      "published": "2026-11-03T18:11:11+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Google Will Turn Off Search For Schools That Reject AI",
       "url": "https://news.slashdot.org/story/26/11/03/1711242/google-will-turn-off-search-for-schools-that-reject-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Google will disable AI tools by default for K-12 students early next year unless school administrators explicitly enable them, but schools that choose to block AI entirely will also lose student access to Google Search. The New York Times reports: Executives at the tech giant said they wanted to be responsive to educators and parents who have asked for more control in how children interact with A.I. But there is a catch: Schools that choose to restrict A.I. entirely will also lose access to Goog",
       "published": "2026-11-03T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "summary": "569 points · 171 comments",
-      "published": "2026-11-03T17:40:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "summary": "1176 points · 388 comments",
-      "published": "2026-11-03T17:22:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -249,7 +410,7 @@
       "source": "HACKER NEWS",
       "title": "Stringman, an $800 open-source room scale gripper robot",
       "url": "https://neufangled.com/",
-      "summary": "510 points · 176 comments",
+      "summary": "699 points · 216 comments",
       "published": "2026-11-03T16:47:29+00:00"
     },
     {
@@ -260,13 +421,6 @@
       "published": "2026-11-03T16:29:27+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "MIT Researchers Used GPT-6 Astra To Edit Qwen's Open Weights Directly, Boosting Math Scores",
-      "url": "https://science.slashdot.org/story/26/11/03/0537252/mit-researchers-used-gpt-6-astra-to-edit-qwens-open-weights-directly-boosting-math-scores?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from VentureBeat: Researchers from the Massachusetts Institute of Technology (MIT) Computer Science & Artificial Intelligence Laboratory (CSAIL) reported today that they used OpenAI's GPT-6 Astra language model to raise a small, open source Qwen model's math score roughly sixfold by directly editing its weights -- the numerical parameters that govern its behavior. Rikiya Takehi, Jayden Teoh, Alex Zhang and Omar Khattab described their work in a research blog p",
-      "published": "2026-11-03T16:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
       "url": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
@@ -274,25 +428,11 @@
       "published": "2026-11-03T15:59:19+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-      "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-      "summary": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services. The tactic is called LLMjacking, a form of resource hijacking adapted for the LLM era, where an attacker obtains an API key through phishing, source code leaks, misconfigured environments, or exposed client-side code",
-      "published": "2026-11-03T15:41:53+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xmw0vl/selfemployed_solopreneur_nist_has_a_cybersecurity/",
       "summary": "submitted by /u/LogicalDirect [link] [comments]",
       "published": "2026-11-03T15:30:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
-      "url": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
-      "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files from servers that ran it, cPGuard maker OPSSHIELD said in an advisory. The attacker has since taken some of that data. cPGuard 5.88.25 and later versions",
-      "published": "2026-11-03T15:16:32+00:00"
     },
     {
       "source": "REDDIT",
@@ -316,46 +456,11 @@
       "published": "2026-11-03T15:00:10+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Hybrid AI ransomware attack on UK schools",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xmunw1/hybrid_ai_ransomware_attack_on_uk_schools/",
-      "summary": "Disclosure: I work at Bitdefender, and this is our research. We investigated a 3AM (ThreeAM) affiliate intrusion where the hands-on phase looked like a hybrid: some activity at human pace, and other parts behaving like an agentic loop. This is IMHO a more realistic preview of real attacks that we can expect than the headline cases. It didn’t cost millions or need first-class infrastructure, and an attack like this is easily executable with a local model. It follows the standard ransomware sequen",
-      "published": "2026-11-03T14:39:13+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
       "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
       "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
       "published": "2026-11-03T14:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Police seizes over 100 servers in investment scam crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-      "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-      "published": "2026-11-03T13:33:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why Clip Art Was Everywhere Until It Wasn't [video]",
-      "url": "https://www.youtube.com/watch?v=XfLlpxE6AYM",
-      "summary": "30 points · 10 comments",
-      "published": "2026-11-03T12:40:06+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Pass-ta-key Golden Attack: Stealing Google Password Manager Synced Passkeys for Offline Account Takeover",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xmrq4i/passtakey_golden_attack_stealing_google_password/",
-      "summary": "I just published my research on a new variant of the golden Pass-ta-key attack exploiting an architectural flaw in Google Password Manager (GPM) synced passkeys. Unlike the previous variants that leaked the Security Domain Secret (SDS) through Chrome debug logs, this attack targets the CBOR buffers in Chrome process memory to extract the SDS. Once extracted, the SDS allows decrypting all synced GPM passkeys and forging valid WebAuthn assertions entirely offline, leading to a full Account Takeove",
-      "published": "2026-11-03T12:31:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-      "url": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-      "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-      "published": "2026-11-03T12:05:52+00:00"
     },
     {
       "source": "CISA",
@@ -373,69 +478,6 @@
     },
     {
       "source": "OSINT",
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tracked as CVE-2026-98432, can be reached by a remote, unauthenticated attacker and can",
-      "published": "2026-11-03T11:23:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-      "url": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-      "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s report on exposure prioritization states that fewer than 10% of vulnerabilities are exploited, yet most are treated as urgent. The report also argues",
-      "published": "2026-11-03T11:18:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-      "url": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-      "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with a clear preference for law enforcement and justice entities, local administrations near the front line, and the defense sector,\" ESET researcher",
-      "published": "2026-11-03T11:00:45+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Cops Bust Botnet of 1.3 Million Android TV Boxes",
-      "url": "https://it.slashdot.org/story/26/11/03/0558219/cops-bust-botnet-of-13-million-android-tv-boxes?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A coalition of security firms working with Japan's National Police Agency has disrupted a botnet of more than 1.3 million Android devices across 200+ countries. \"We assess with high confidence that the backdoor and botnet were intentionally developed, deployed, and operated for financial gain by Videostrong Technology,\" the Google Threat Intelligence Group (GTIG) said in a blog post. The Register reports: Videostrong Technology is a hardware manufacturer based in Shenzhen, China. It builds Andro",
-      "published": "2026-11-03T11:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Harvard University data breach exposed info of 851,000 accounts",
-      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-      "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-      "published": "2026-11-03T10:53:25+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Never gonna print you up! RCE on Prusa Buddy Firmware <7.0.0",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xmp3b2/never_gonna_print_you_up_rce_on_prusa_buddy/",
-      "summary": "submitted by /u/Keta_Thunberg [link] [comments]",
-      "published": "2026-11-03T10:04:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-      "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions. \"Our investigation found that these attacks targeted servers running BTCPay Server 2.4.1 (released on 23 July 2026) or earlier,\" BTCPay Server",
-      "published": "2026-11-03T08:31:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-      "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-      "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability patched in December 2024 to target devices running outdated versions of DSM. \"These attacks aim to encrypt data and extort ransom,\" it said in a statement",
-      "published": "2026-11-03T07:43:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-      "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-      "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several dozen affected stores, and some had to throw away chilled and frozen food or take it off the shelf. Danfoss, a Danish maker of refrigeration controls,",
-      "published": "2026-11-03T07:27:07+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
       "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices ",
@@ -445,43 +487,15 @@
       "source": "HACKER NEWS",
       "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
       "url": "https://hackertv.org",
-      "summary": "275 points · 57 comments",
+      "summary": "405 points · 75 comments",
       "published": "2026-11-03T01:18:09+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-      "summary": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
-      "published": "2026-11-02T21:40:14+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
-      "summary": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]",
-      "published": "2026-11-02T19:00:45+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hackers claim to have stolen 23TB of data from Russian statistics body, including Ukraine war casualty figures — Russian Federal State Statistics Service admits its servers were hit by coordinated cyberattacks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xm5yks/hackers_claim_to_have_stolen_23tb_of_data_from/",
-      "summary": "submitted by /u/Firecracker048 [link] [comments]",
-      "published": "2026-11-02T18:54:40+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Jailbreaking my car's navigation system just so I can change the time",
       "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "summary": "731 points · 297 comments",
+      "summary": "897 points · 337 comments",
       "published": "2026-11-02T16:29:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "summary": "165 points · 27 comments",
-      "published": "2026-11-02T04:31:20+00:00"
     },
     {
       "source": "REDDIT",
@@ -489,13 +503,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xlifej/mentorship_monday_post_all_career_education_and/",
       "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
       "published": "2026-11-02T00:00:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "We're training a Figma-fluent editing model",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "summary": "104 points · 46 comments",
-      "published": "2026-11-01T04:05:23+00:00"
     },
     {
       "source": "CISA",
@@ -573,13 +580,6 @@
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
       "published": "2026-10-10T00:17:42+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
-      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
-      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
-      "published": "2026-10-07T13:48:45+00:00"
     }
   ]
 }
