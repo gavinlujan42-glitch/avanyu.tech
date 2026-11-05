@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T01:43:14.026777+00:00",
-  "item_count": 75,
+  "updated": "2026-11-05T09:17:31.734511+00:00",
+  "item_count": 74,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -28,6 +28,83 @@
   "items": [
     {
       "source": "REDDIT",
+      "title": "Do there exist any UEFI-level rootkits that can thwart their removal by interfering with a BIOS re-flashing?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xodwji/do_there_exist_any_uefilevel_rootkits_that_can/",
+      "summary": "And if so, how would one remove such a beast, short of taking the firmware chip out of the board and using an external programmer? submitted by /u/esotechnica [link] [comments]",
+      "published": "2026-11-05T08:57:29+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What does \"Weaponized\" mean in this report?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xocsyq/what_does_weaponized_mean_in_this_report/",
+      "summary": "I'm currently reading through the 2026 VulnCheck Exploit Intelligence Report and found the graphic on page 4 about exploited and weaponized CVEs. It talks about around 250 2025-CVEs (or CVEs with exploits?) being weaponized and around 420 2025-CVEs being exploited throughout the year 2025. Sorry for not providing a screenshot. I don't think I'm allowed to post the contents of the report directly. I can't make sense of what the difference between that should be. I'd greatly appreciate any and all",
+      "published": "2026-11-05T07:43:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
+      "published": "2026-11-05T07:06:33+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "3M To Pay Over $7 Billion To Settle 'Forever Chemical' Groundwater Claims",
+      "url": "https://yro.slashdot.org/story/26/11/05/052220/3m-to-pay-over-7-billion-to-settle-forever-chemical-groundwater-claims?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "3M has agreed to pay up to $7.35 billion over nine years to settle claims from as many as 120,000 people who say they were sickened by PFAS-contaminated groundwater near military bases, airports and other locations where firefighting foam was used. The Associated Press reports that 3M \"did not admit liability,\" noting that the settlement comes on top of the more than $10 billion the company previously agreed to pay U.S. public drinking water systems over PFAS contamination. From the report: 3M c",
+      "published": "2026-11-05T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "summary": "53 points · 9 comments",
+      "published": "2026-11-05T05:59:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "url": "https://www.altera.com/newsroom/agilex-2x",
+      "summary": "25 points · 10 comments",
+      "published": "2026-11-05T05:47:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in question is CVE-2024-27834 (CVSS score: 5.5), a case of improper authentication that could allow an attacker with",
+      "published": "2026-11-05T05:17:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Lemmings CSS Animation",
+      "url": "https://markblah.github.io/lemmings/",
+      "summary": "150 points · 33 comments",
+      "published": "2026-11-05T04:54:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+      "published": "2026-11-05T04:31:16+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Vietnam Jails Pirate Football Streamers For Up To a Year",
+      "url": "https://yro.slashdot.org/story/26/11/05/0322258/vietnam-jails-pirate-football-streamers-for-up-to-a-year?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TorrentFreak: A Vietnamese court has sentenced 14 people who worked on the pirate football streaming site Bun Cha TV, handing out the first prison terms we've seen since the country's piracy crackdown began earlier this year. [...] Four defendants, including the heads of the content, programming and operations teams, were sentenced to 12 months in prison. Five others received ten months, and two were sentenced to eight months. Notably, three of the site's",
+      "published": "2026-11-05T03:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Any Cybersecurity seminar or convention in PH?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo7vq6/any_cybersecurity_seminar_or_convention_in_ph/",
+      "summary": "Hi just would like to know if there are any seminars and cybersecurity in the philippines and which group is more okay when it comes to exposure? I am exploring cybersecurity path and would like to pursue this career. ☺️ Looking forward to your feedback and suggestions. submitted by /u/Budget-Permission-32 [link] [comments]",
+      "published": "2026-11-05T03:02:36+00:00"
+    },
+    {
+      "source": "REDDIT",
       "title": "CVE-2026-109518: Critical APT Vulnerability Allows Attackers to Bypass Package Verification and Execute Malicious Code as Root on Linux",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xo63qk/cve2026109518_critical_apt_vulnerability_allows/",
       "summary": "Debian and Ubuntu APT Flaw Enables Remote Root Code Execution Through Malicious HTTP Traffic. Fixes are available for CVE-2026-109518, a High severity vulnerability in APT, the package manager used in Debian, Ubuntu, and derivative Linux distributions. The CVE has a CVSS 4.0 score of 7.7. submitted by /u/i-shekhar [link] [comments]",
@@ -35,31 +112,10 @@
     },
     {
       "source": "REDDIT",
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo6008/expanding_the_cyber_verification_program/",
-      "summary": "submitted by /u/israelavila [link] [comments]",
-      "published": "2026-11-05T01:30:09+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Starfall – Affordable, routine access to microgravity",
-      "url": "https://www.spacex.com/starfall",
-      "summary": "53 points · 21 comments",
-      "published": "2026-11-05T00:18:18+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "\"Under attack\" services - has anyone ever used them?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xo43qc/under_attack_services_has_anyone_ever_used_them/",
       "summary": "Most cyber vendors have an \"under attack?\" or \"experience a breach?\" button on their website to schedule a call with an incident response team (or so they say). I'm wondering if anyone has ever worked with a vendor's incidence response team, and what that experience is like? And what are the alternatives that you previously tried (and potentially didn't work)? submitted by /u/Current_Doubt_8584 [link] [comments]",
       "published": "2026-11-05T00:01:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "You'll need nerves of steel to work with AI agents",
-      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
-      "summary": "16 points · 7 comments",
-      "published": "2026-11-05T00:01:30+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -72,14 +128,14 @@
       "source": "HACKER NEWS",
       "title": "Images 2.6",
       "url": "https://openai.com/index/introducing-images-2-6/",
-      "summary": "85 points · 70 comments",
+      "summary": "284 points · 168 comments",
       "published": "2026-11-04T23:35:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "summary": "82 points · 54 comments",
+      "summary": "317 points · 226 comments",
       "published": "2026-11-04T23:33:14+00:00"
     },
     {
@@ -93,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
       "url": "https://icode4.coffee/?p=1746",
-      "summary": "61 points · 2 comments",
+      "summary": "111 points · 10 comments",
       "published": "2026-11-04T22:01:49+00:00"
     },
     {
@@ -135,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "Residential proxies detected on White House network",
       "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "summary": "634 points · 208 comments",
+      "summary": "1017 points · 312 comments",
       "published": "2026-11-04T20:45:18+00:00"
     },
     {
@@ -154,16 +210,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "summary": "100 points · 42 comments",
-      "published": "2026-11-04T19:55:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Insects don't swarm at LED lights",
       "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "summary": "164 points · 93 comments",
+      "summary": "250 points · 127 comments",
       "published": "2026-11-04T19:50:23+00:00"
     },
     {
@@ -184,15 +233,8 @@
       "source": "HACKER NEWS",
       "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
       "url": "https://www.ricursive.com/ripple",
-      "summary": "220 points · 78 comments",
+      "summary": "289 points · 104 comments",
       "published": "2026-11-04T18:53:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
-      "url": "https://fireflyk64.github.io/wcmulti/",
-      "summary": "104 points · 13 comments",
-      "published": "2026-11-04T18:51:27+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -212,7 +254,7 @@
       "source": "HACKER NEWS",
       "title": "Conductor is joining Meta",
       "url": "https://www.conductor.build/announcement",
-      "summary": "106 points · 141 comments",
+      "summary": "173 points · 182 comments",
       "published": "2026-11-04T18:22:40+00:00"
     },
     {
@@ -226,22 +268,8 @@
       "source": "HACKER NEWS",
       "title": "A new Go API for JSON",
       "url": "https://go.dev/blog/jsonv2",
-      "summary": "227 points · 95 comments",
+      "summary": "307 points · 141 comments",
       "published": "2026-11-04T17:52:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "url": "https://news.ycombinator.com/item?id=50368804",
-      "summary": "70 points · 26 comments",
-      "published": "2026-11-04T17:31:53+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "summary": "174 points · 84 comments",
-      "published": "2026-11-04T17:17:46+00:00"
     },
     {
       "source": "OSINT",
@@ -303,7 +331,7 @@
       "source": "HACKER NEWS",
       "title": "Kimi K3.1 Pro model weights are out",
       "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "summary": "372 points · 101 comments",
+      "summary": "518 points · 144 comments",
       "published": "2026-11-04T15:30:30+00:00"
     },
     {
@@ -312,13 +340,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xnqw4a/attackers_are_scanning_the_internet_for_linux/",
       "summary": "submitted by /u/i-shekhar [link] [comments]",
       "published": "2026-11-04T15:20:18+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-      "summary": "257 points · 186 comments",
-      "published": "2026-11-04T15:01:44+00:00"
     },
     {
       "source": "OSINT",
@@ -335,10 +356,17 @@
       "published": "2026-11-04T14:42:25+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "summary": "315 points · 333 comments",
+      "published": "2026-11-04T14:37:22+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-      "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
+      "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service called Plerdy SEO Tracker. \"The injected JavaScript code collects browser and device attributes,\" Sekoia researchers Amaury-Jacques Garçon and",
       "published": "2026-11-04T14:27:52+00:00"
     },
     {
@@ -356,6 +384,13 @@
       "published": "2026-11-04T13:00:00+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "So my ISP was hijacking my DNS",
+      "url": "https://www.karthihegde.dev/posts/dns_tampering",
+      "summary": "67 points · 42 comments",
+      "published": "2026-11-04T12:51:51+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
       "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
@@ -368,13 +403,6 @@
       "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
       "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
       "published": "2026-11-04T12:07:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "summary": "1063 points · 633 comments",
-      "published": "2026-11-04T11:52:17+00:00"
     },
     {
       "source": "OSINT",
@@ -398,20 +426,6 @@
       "published": "2026-11-04T11:24:31+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Bank hit by botnet on OTP SMS endpoint. Motivation + defense ideas?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnlkjg/bank_hit_by_botnet_on_otp_sms_endpoint_motivation/",
-      "summary": "I had a call with a colleague who works at a bank, and he said they faced a sophisticated botnet attack on their OTP endpoint. The main challenge was the huge number of different IP addresses (and other fingerprints), which ended up draining their budget for sending SMS codes. What I’m curious about is the motivation behind such an attack. I’d also like to ask: how would you recommend defending against something like this? submitted by /u/vasiliydronov [link] [comments]",
-      "published": "2026-11-04T11:12:27+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Dinosaur Blood Found In Fossils For the First Time",
-      "url": "https://science.slashdot.org/story/26/11/04/066209/dinosaur-blood-found-in-fossils-for-the-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Researchers have confirmed the presence of intact biomolecules and mineralized red blood cells inside the 115-million-year-old fossilized bones of a juvenile Aratasaurus museunacionali from Brazil. The discovery challenges assumptions about how long blood-related biomolecules can survive and could help scientists study dinosaur metabolism, blood evolution and even how traces of ancient life might be preserved on other worlds. Popular Science reports: The evidence exists inside the fossilized lim",
-      "published": "2026-11-04T10:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
@@ -427,45 +441,24 @@
     },
     {
       "source": "OSINT",
-      "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-      "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch level 2026-11-01 or later, which phone makers and carriers send on their own schedules. As of November 4, Google's bulletin did not report",
-      "published": "2026-11-04T07:46:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Democrats Take Control of US Congress As Voters Reject Trump's Republicans",
-      "url": "https://politics.slashdot.org/story/26/11/04/0629214/democrats-take-control-of-us-congress-as-voters-reject-trumps-republicans?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Tuesday, November 3, was Election Day in the United States, and the results are (mostly) in: Democrats are projected to win control of both the House and Senate in the 2026 midterms. The blue wave turned out to be more of a blue tsunami, ending Republican control of Congress for the final two years of President Donald Trump's second term. Democrats flipped seven Republican-held Senate seats in the 2026 midterms, including surprise victories in traditionally Republican strongholds such as Texas, ",
-      "published": "2026-11-04T06:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-      "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability, tracked as CVE-2026-119977 (CVSS score: 8.1), is a case of Time-of-check Time-of-use (TOCTOU) race condition that could be exploited to achieve arbitrary code",
-      "published": "2026-11-04T05:43:11+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
       "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
       "published": "2026-11-03T22:18:50+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-      "url": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-      "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning came in an email sent on November 3 in the name of developer mSeven Software. It says the company recently learned of suspicious activity linked to the app but",
-      "published": "2026-11-03T18:46:38+00:00"
+      "source": "HACKER NEWS",
+      "title": "Chip Art",
+      "url": "https://en.wikipedia.org/wiki/Chip_art",
+      "summary": "20 points · 0 comments",
+      "published": "2026-11-03T09:51:39+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Cops bust botnet of 1.3M infected Android TV boxes",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xmxlv4/cops_bust_botnet_of_13m_infected_android_tv_boxes/",
-      "summary": "submitted by /u/Major-Ferret5689 [link] [comments]",
-      "published": "2026-11-03T16:29:27+00:00"
+      "source": "HACKER NEWS",
+      "title": "Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "summary": "35 points · 7 comments",
+      "published": "2026-11-03T07:39:05+00:00"
     },
     {
       "source": "OSINT",
@@ -476,10 +469,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
-      "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
-      "summary": "6 points · 0 comments",
-      "published": "2026-11-02T19:23:48+00:00"
+      "title": "Spreading Liquid with Three.js",
+      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
+      "summary": "86 points · 14 comments",
+      "published": "2026-11-02T18:45:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Partial Operator Precedence",
+      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
+      "summary": "28 points · 9 comments",
+      "published": "2026-11-02T17:22:20+00:00"
     },
     {
       "source": "REDDIT",
@@ -543,13 +543,6 @@
       "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
       "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
       "published": "2026-09-25T21:44:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "url": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "summary": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey privacy law that provides for hefty fines against data brokers that publish personal information on state law enforcement officials. In the face of repeated stonewalling and prevarication by attorneys for Radaris, the judge i",
-      "published": "2026-09-16T18:14:22+00:00"
     }
   ]
 }
