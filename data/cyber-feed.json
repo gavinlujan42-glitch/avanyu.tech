@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05T09:17:31.734511+00:00",
-  "item_count": 74,
+  "updated": "2026-11-05T17:35:21.189707+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -27,6 +27,244 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "summary": "9 points · 1 comments",
+      "published": "2026-11-05T17:17:42+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xoo0nf/hackers_backdoor_linux_servers_using_trojanized/",
+      "summary": "Attackers distribute a malicious updater that replaces CWP's legitimate cwpsrv web-server binary with a trojanized version. The backdoor remains dormant until attackers activate it through specially crafted HTTP requests containing encrypted commands. What makes this particularly dangerous is its stealth. CWPdoor suppresses logging of malicious requests, restores file timestamps, deletes evidence of installation, and encrypts communications to make detection more difficult. Researchers identifie",
+      "published": "2026-11-05T17:03:53+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
+      "url": "https://www.ycombinator.com/companies/bild-ai/jobs",
+      "summary": "1 points · 0 comments",
+      "published": "2026-11-05T17:01:23+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Major Digital Bank In Paraguay Collapses With Half of Population's Savings",
+      "url": "https://news.slashdot.org/story/26/11/05/1655231/major-digital-bank-in-paraguay-collapses-with-half-of-populations-savings?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Paraguayan President Santiago Pena resigned Thursday amid mass protests and impeachment threats following the collapse of Ueno Bank, a major digital lender with close ties to his administration and more than 60% of the country's adults as customers. Regulators seized the bank after uncovering risky insider lending and accounting irregularities that left its capital below legal requirements, locking millions of customers out of their savings. The Associated Press reports: Soon after winning its b",
+      "published": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Window Sweaters",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "summary": "9 points · 0 comments",
+      "published": "2026-11-05T16:50:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "My psychophysics as a bilateral cochlear implant user",
+      "url": "https://claude.ai/artifact/L8qsMc3SorytGW3LA81nYf",
+      "summary": "52 points · 10 comments",
+      "published": "2026-11-05T16:21:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Stacks Project, Formalized in Lean",
+      "url": "https://axiommath.ai/research/the-stacks-project-formalized/",
+      "summary": "15 points · 2 comments",
+      "published": "2026-11-05T16:16:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+      "published": "2026-11-05T16:12:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "url": "https://motorolanews.com/motorola-signature-27-2/",
+      "summary": "109 points · 38 comments",
+      "published": "2026-11-05T16:01:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft's Imagine Cup 'Evolves' From Student Competition To AI Startup Contest",
+      "url": "https://news.slashdot.org/story/26/11/05/057254/microsofts-imagine-cup-evolves-from-student-competition-to-ai-startup-contest?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "theodp writes: That Was Then: The Imagine Cup competition, Microsoft explained in a 2003 press release, \"seeks to provide students [aged 16-and-up] around the world with resources to use technology and Web services to solve everyday problems [...] Imagine Cup is about empowering students to apply their creativity and knowledge toward making the world a more-connected place.\" This Is Now: \"Building is Hard. Selling is Harder.\" begins the \"Why Imagine Cup?\" promo video for the 2027 Imagine Cup com",
+      "published": "2026-11-05T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Building a Multi-Agent System from Scratch: Architecture Patterns",
+      "url": "https://kadhar.dev/blog/multi-agent-systems-from-scratch",
+      "summary": "21 points · 8 comments",
+      "published": "2026-11-05T15:51:57+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Critical OpenSSH Flaw Lets Attackers Bypass Long Passwords on Alpine Linux",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xolwkc/critical_openssh_flaw_lets_attackers_bypass_long/",
+      "summary": "The bug is like a joke. On Alpine Linux, type 257 to 1024 characters of anything and you get root. submitted by /u/i-shekhar [link] [comments]",
+      "published": "2026-11-05T15:42:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "We can do better than line-buffered output",
+      "url": "https://nullprogram.com/blog/2026/11/05/",
+      "summary": "33 points · 0 comments",
+      "published": "2026-11-05T15:25:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
+      "published": "2026-11-05T15:00:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Scrapping botnet of 400 000 IPs from 200 countries, normal?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xokh9f/scrapping_botnet_of_400_000_ips_from_200/",
+      "summary": "One of our client sites is being scrapped, which is nothing unusual, except that logs show an insane amount of source IP addresses..... over 400k distributed across 200 countries. Is this the new normal? Browser challenge seems to stop them for a while, but they are relentless. What techniques do you employ to combat such attacks? submitted by /u/Mountain_Pepper_4272 [link] [comments]",
+      "published": "2026-11-05T14:47:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "summary": "257 points · 21 comments",
+      "published": "2026-11-05T14:44:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
+      "published": "2026-11-05T14:41:10+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "ThisBash Escape: Claude Dispatch Flaw Enables Browser Extensions RCE on the OS · Forever Security",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xokbzm/thisbash_escape_claude_dispatch_flaw_enables/",
+      "summary": "submitted by /u/Content-Winter5328 [link] [comments]",
+      "published": "2026-11-05T14:41:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "September in Servo: <progress>, rounded rectangles, and more",
+      "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
+      "summary": "87 points · 19 comments",
+      "published": "2026-11-05T14:34:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "summary": "151 points · 74 comments",
+      "published": "2026-11-05T14:08:35+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "openssh on musl linux has been letting people into password-less accounts since 2016",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xojiq8/openssh_on_musl_linux_has_been_letting_people/",
+      "summary": "submitted by /u/ThisMachineIs4 [link] [comments]",
+      "published": "2026-11-05T14:07:14+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "India's CERT-In warns of AI-assisted hacking campaign targeting financial firms",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xoixrc/indias_certin_warns_of_aiassisted_hacking/",
+      "summary": "A cybersecurity development worth paying attention to today. According to a Reuters report published on November 5, India's CERT-In has identified an active hacking campaign called Crafty Falcon, targeting non-bank lenders, fintech companies, and cryptocurrency exchanges. What's interesting is how the attackers are reportedly using publicly available AI tools to automate parts of their operations. What do we know? CERT-In identified four tools associated with the campaign: - ARTEX - PentAGI - Ca",
+      "published": "2026-11-05T13:41:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I wish tech companies knew more about me",
+      "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+      "summary": "78 points · 63 comments",
+      "published": "2026-11-05T13:40:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Download your favourite YouTube videos",
+      "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+      "summary": "126 points · 60 comments",
+      "published": "2026-11-05T13:00:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Obscure audio codec is a perfect fit for the N64",
+      "url": "https://phoboslab.org/log/2026/11/n64-ulc-codec",
+      "summary": "104 points · 7 comments",
+      "published": "2026-11-05T12:51:48+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates",
+      "published": "2026-11-05T12:25:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "summary": "1389 points · 371 comments",
+      "published": "2026-11-05T12:19:02+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
+      "published": "2026-11-05T12:08:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
+      "url": "https://www.openssh.org/releasenotes.html#10.6p2",
+      "summary": "159 points · 7 comments",
+      "published": "2026-11-05T11:40:30+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "url": "https://science.slashdot.org/story/26/11/05/0527244/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "NASA has unveiled the X-70 Fractal, a new crewed experimental aircraft \"designed to accelerate the development and testing of advanced aviation technologies.\" From a press release: The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a w",
+      "published": "2026-11-05T11:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How to improve the cybersecurity review process",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xofs1l/how_to_improve_the_cybersecurity_review_process/",
+      "summary": "Hey guys, Ive recently joined a cybersecurity analysis team where we handle many different request types, project assessments , operational tasks, approvals etc for a very large healthcare corporation my main problem is that there isnt really a process outlined for anyone who wants to submit a project or an approval request , so it ends up being passed around until it hits our team who has to deal with explaining things and we're always getting blamed and escalations blah blah... we're just the ",
+      "published": "2026-11-05T10:58:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
+      "published": "2026-11-05T10:06:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+      "published": "2026-11-05T09:18:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+      "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
+      "published": "2026-11-05T09:13:28+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Do there exist any UEFI-level rootkits that can thwart their removal by interfering with a BIOS re-flashing?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xodwji/do_there_exist_any_uefilevel_rootkits_that_can/",
@@ -34,11 +272,11 @@
       "published": "2026-11-05T08:57:29+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What does \"Weaponized\" mean in this report?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xocsyq/what_does_weaponized_mean_in_this_report/",
-      "summary": "I'm currently reading through the 2026 VulnCheck Exploit Intelligence Report and found the graphic on page 4 about exploited and weaponized CVEs. It talks about around 250 2025-CVEs (or CVEs with exploits?) being weaponized and around 420 2025-CVEs being exploited throughout the year 2025. Sorry for not providing a screenshot. I don't think I'm allowed to post the contents of the report directly. I can't make sense of what the difference between that should be. I'd greatly appreciate any and all",
-      "published": "2026-11-05T07:43:28+00:00"
+      "source": "OSINT",
+      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
+      "published": "2026-11-05T08:42:03+00:00"
     },
     {
       "source": "OSINT",
@@ -55,20 +293,6 @@
       "published": "2026-11-05T07:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Want to Rent an Internet Address at the White House?",
-      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-      "summary": "53 points · 9 comments",
-      "published": "2026-11-05T05:59:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
-      "url": "https://www.altera.com/newsroom/agilex-2x",
-      "summary": "25 points · 10 comments",
-      "published": "2026-11-05T05:47:14+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
       "url": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
@@ -76,18 +300,11 @@
       "published": "2026-11-05T05:17:04+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Lemmings CSS Animation",
-      "url": "https://markblah.github.io/lemmings/",
-      "summary": "150 points · 33 comments",
-      "published": "2026-11-05T04:54:10+00:00"
-    },
-    {
       "source": "OSINT",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
-      "published": "2026-11-05T04:31:16+00:00"
+      "title": "Want to Rent an Internet Address at the White House?",
+      "url": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+      "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web hosting business was ground zero for cyberattacks against election systems in Arizona and Illinois in 2016.",
+      "published": "2026-11-05T04:36:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -98,24 +315,10 @@
     },
     {
       "source": "REDDIT",
-      "title": "Any Cybersecurity seminar or convention in PH?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo7vq6/any_cybersecurity_seminar_or_convention_in_ph/",
-      "summary": "Hi just would like to know if there are any seminars and cybersecurity in the philippines and which group is more okay when it comes to exposure? I am exploring cybersecurity path and would like to pursue this career. ☺️ Looking forward to your feedback and suggestions. submitted by /u/Budget-Permission-32 [link] [comments]",
-      "published": "2026-11-05T03:02:36+00:00"
-    },
-    {
-      "source": "REDDIT",
       "title": "CVE-2026-109518: Critical APT Vulnerability Allows Attackers to Bypass Package Verification and Execute Malicious Code as Root on Linux",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xo63qk/cve2026109518_critical_apt_vulnerability_allows/",
       "summary": "Debian and Ubuntu APT Flaw Enables Remote Root Code Execution Through Malicious HTTP Traffic. Fixes are available for CVE-2026-109518, a High severity vulnerability in APT, the package manager used in Debian, Ubuntu, and derivative Linux distributions. The CVE has a CVSS 4.0 score of 7.7. submitted by /u/i-shekhar [link] [comments]",
       "published": "2026-11-05T01:35:04+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "\"Under attack\" services - has anyone ever used them?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo43qc/under_attack_services_has_anyone_ever_used_them/",
-      "summary": "Most cyber vendors have an \"under attack?\" or \"experience a breach?\" button on their website to schedule a call with an incident response team (or so they say). I'm wondering if anyone has ever worked with a vendor's incidence response team, and what that experience is like? And what are the alternatives that you previously tried (and potentially didn't work)? submitted by /u/Current_Doubt_8584 [link] [comments]",
-      "published": "2026-11-05T00:01:42+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -125,20 +328,6 @@
       "published": "2026-11-05T00:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6/",
-      "summary": "284 points · 168 comments",
-      "published": "2026-11-04T23:35:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
-      "summary": "317 points · 226 comments",
-      "published": "2026-11-04T23:33:14+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
       "url": "https://tech.slashdot.org/story/26/11/04/207222/openai-says-chatgpt-is-catching-up-to-google-in-search?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -146,25 +335,11 @@
       "published": "2026-11-04T23:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
-      "url": "https://icode4.coffee/?p=1746",
-      "summary": "111 points · 10 comments",
-      "published": "2026-11-04T22:01:49+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
       "url": "https://entertainment.slashdot.org/story/26/11/04/2034237/netflix-launches-first-ai-branded-content-recommendations-feature-on-tvs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Netflix is testing its first consumer-facing feature explicitly branded as AI-powered. Called \"AI Discover,\" the feature generates personalized TV and movie recommendations in real time based on viewing history, preferences, trending content and selectable themes like \"Something Light\" or \"Quick Watches.\" Variety reports: The streamer will begin rolling out AI Discover in the U.S. to customers who use Netflix in English on supported smart TVs. If you have access to it, you will see a \"Discover\" ",
       "published": "2026-11-04T22:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "MTTR/MTTD does it still matter",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo13pi/mttrmttd_does_it_still_matter/",
-      "summary": "If most people are using third party Managed Detection and Response do these metrics still matter. With MDR everything is triaged and if malicious isolated and blocked before the managed service contacts you. In those instances do these two metrics even matter? submitted by /u/juiceybaybee [link] [comments]",
-      "published": "2026-11-04T21:53:28+00:00"
     },
     {
       "source": "OSINT",
@@ -188,32 +363,11 @@
       "published": "2026-11-04T20:58:19+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Residential proxies detected on White House network",
-      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "summary": "1017 points · 312 comments",
-      "published": "2026-11-04T20:45:18+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "UK warned of AI cyberattacks on critical infrastructure by 2028",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnyjkj/uk_warned_of_ai_cyberattacks_on_critical/",
-      "summary": "Britain's National Cyber Security Centre warns that AI-enabled malware is highly likely to be used in ransomware attacks against critical infrastructure by 2028. AI could make existing attacks faster and easier to scale. Organizations need to strengthen patching, administrator access controls, monitoring and backups rather than relying on defenses against traditional malware alone. The NCSC warning. This is a forward-looking threat assessment, not confirmation that a particular AI-powered infras",
-      "published": "2026-11-04T20:12:14+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "OpenAI Acquires Pierre Computer to Supercharge Codex",
       "url": "https://developers.slashdot.org/story/26/11/04/1957217/openai-acquires-pierre-computer-to-supercharge-codex?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "OpenAI has acquired developer tools startup Pierre Computer Company to strengthen Codex. \"The deal, announced today, signals OpenAI's aggressive push into the developer tools market as the AI arms race intensifies,\" reports The Tech Buzz. Financial terms weren't disclosed. From the report: Pierre Computer Company had been building specialized tools for code analysis and review, capabilities that complement Codex's existing strength in code generation. For developers, this could mean a more seaml",
       "published": "2026-11-04T20:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Insects don't swarm at LED lights",
-      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "summary": "250 points · 127 comments",
-      "published": "2026-11-04T19:50:23+00:00"
     },
     {
       "source": "OSINT",
@@ -230,32 +384,11 @@
       "published": "2026-11-04T19:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "summary": "289 points · 104 comments",
-      "published": "2026-11-04T18:53:29+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "AMD Expects To Outsell Intel For the First Time",
       "url": "https://news.slashdot.org/story/26/11/04/1825235/amd-expects-to-outsell-intel-for-the-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "AMD expects its fourth-quarter revenue to reach roughly $17 billion, potentially surpassing Intel's projected $15 billion to $16 billion and putting AMD ahead of its longtime rival in quarterly sales for the first time. The milestone is being driven largely by booming demand for Epyc server processors and Instinct AI accelerators, with AMD's data center business already accounting for 64% of revenue and expected to exceed 80% in 2027. Tom's Hardware reports: For those of our readers who have bee",
       "published": "2026-11-04T18:30:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnvu5j/debian_and_ubuntu_apt_flaw_lets_mitm_attackers/",
-      "summary": "submitted by /u/MentalGlance [link] [comments]",
-      "published": "2026-11-04T18:28:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Conductor is joining Meta",
-      "url": "https://www.conductor.build/announcement",
-      "summary": "173 points · 182 comments",
-      "published": "2026-11-04T18:22:40+00:00"
     },
     {
       "source": "OSINT",
@@ -265,11 +398,11 @@
       "published": "2026-11-04T18:02:56+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "A new Go API for JSON",
-      "url": "https://go.dev/blog/jsonv2",
-      "summary": "307 points · 141 comments",
-      "published": "2026-11-04T17:52:11+00:00"
+      "source": "OSINT",
+      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+      "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+      "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November 4. The attack needs APT to retry failed downloads, which it does by default from Debian 12 and",
+      "published": "2026-11-04T17:00:46+00:00"
     },
     {
       "source": "OSINT",
@@ -277,13 +410,6 @@
       "url": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
       "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An unauthenticated file read vulnerability that could allow an attacker with network access to read internal GMS files,",
       "published": "2026-11-04T17:00:38+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Japanese Bank to Stop Allowing ATM Cards, PCs For Account Access",
-      "url": "https://news.slashdot.org/story/26/11/04/0656220/japanese-bank-to-stop-allowing-atm-cards-pcs-for-account-access?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Mitsubishi UFJ Financial Group plans to launch Emut Bank in early 2027 as the first digital bank affiliated with a major Japanese financial institution to eliminate ATM cards, \"instead having customers confirm identities using the bank's smartphone app for additional security amid a rising tide of cyberattacks,\" reports Nikkei Asia Review. The smartphone app will also be the only way to manage deposits, with no PC-based banking. From the report: Security has become a greater concern recently. As",
-      "published": "2026-11-04T17:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -300,6 +426,13 @@
       "published": "2026-11-04T16:51:15+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "summary": "23 points · 2 comments",
+      "published": "2026-11-04T16:45:11+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
       "url": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
@@ -312,27 +445,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
       "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
       "published": "2026-11-04T16:00:18+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Canva To Cut Or Relocate 22% of Global Workforce",
-      "url": "https://slashdot.org/story/26/11/04/0644204/canva-to-cut-or-relocate-22-of-global-workforce?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Guardian: Canva is cutting or relocating more than 1,200 jobs, representing 22% of its global workforce, as part of a major restructure that includes laying off staff who helped build the Australian-founded design platform. The changes mirror a trend across the technology sector, where software companies are fighting to stay competitive against cheaper artificial intelligence disrupters while aggressively embedding AI tools themselves. [...] The restr",
-      "published": "2026-11-04T16:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Good security conferences in Europe?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnrw3z/good_security_conferences_in_europe/",
-      "summary": "I’m based in Serbia and looking for good security conferences, either locally or elsewhere in Europe. Any recommendations? submitted by /u/vasiliydronov [link] [comments]",
-      "published": "2026-11-04T15:59:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "summary": "518 points · 144 comments",
-      "published": "2026-11-04T15:30:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -356,13 +468,6 @@
       "published": "2026-11-04T14:42:25+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "summary": "315 points · 333 comments",
-      "published": "2026-11-04T14:37:22+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
       "url": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
@@ -370,95 +475,11 @@
       "published": "2026-11-04T14:27:52+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "US charges two Canadians accused of hacking US universities",
-      "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-      "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-      "published": "2026-11-04T13:13:20+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "NASA's Swift Observatory Is Falling to Earth",
-      "url": "https://science.slashdot.org/story/26/11/04/0616201/nasas-swift-observatory-is-falling-to-earth?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "joshuark shares a report from Wired: After 22 years in orbit and a failed rescue mission this summer, it is highly likely that the Neil Gehrels Swift Observatory will crash into Earth sometime next week. It is not known where on the planet the spacecraft -- which is roughly as big as a large elevator -- will fall. Despite its size, experts say the risk to the public is relatively low. The observatory was designed to operate for a few years in low Earth orbit, but it far exceeded its expected lif",
-      "published": "2026-11-04T13:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "So my ISP was hijacking my DNS",
-      "url": "https://www.karthihegde.dev/posts/dns_tampering",
-      "summary": "67 points · 42 comments",
-      "published": "2026-11-04T12:51:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-      "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-      "published": "2026-11-04T12:11:05+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-      "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-      "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and fixed it in versions 8.1.4.1 and 8.0.5.2. The flaw is in Active Storage, the part of Rails that handles file uploads. Some apps store",
-      "published": "2026-11-04T12:07:04+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-      "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-      "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches are out, and there is no known mitigation, the Xen Project said in an advisory on November 3. All Xen versions from 4.6 onward are vulnerable,",
-      "published": "2026-11-04T11:46:27+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-      "url": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-      "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one. One recent case shows what that gap looks like in practice. An employee asked an AI assistant to trigger a mass-email automation. The automation",
-      "published": "2026-11-04T11:34:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-      "url": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-      "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to deploy an implant called DarkVigil (aka FDMTP). The campaign, observed starting July 1, 2026, is assessed to have targeted organizations and",
-      "published": "2026-11-04T11:24:31+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-      "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-      "published": "2026-11-04T09:39:54+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-      "url": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-      "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies since 2016. The Ministry of Internal Affairs of the Russian Federation (MVD) said members of the group are \"suspected of embezzling funds from the",
-      "published": "2026-11-04T08:17:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-      "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-      "published": "2026-11-03T22:18:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Chip Art",
-      "url": "https://en.wikipedia.org/wiki/Chip_art",
-      "summary": "20 points · 0 comments",
-      "published": "2026-11-03T09:51:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Future Maintenance of Mbed TLS",
-      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
-      "summary": "35 points · 7 comments",
-      "published": "2026-11-03T07:39:05+00:00"
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "url": "https://javahippie.net/programming/llm/2026/03/05/the-lisp-curse-coming-to-your-ecosystem.html",
+      "summary": "52 points · 30 comments",
+      "published": "2026-11-03T08:59:31+00:00"
     },
     {
       "source": "OSINT",
@@ -466,20 +487,6 @@
       "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices ",
       "published": "2026-11-03T02:24:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Spreading Liquid with Three.js",
-      "url": "https://mofu-dev.com/en/blog/fluid-foundation/",
-      "summary": "86 points · 14 comments",
-      "published": "2026-11-02T18:45:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Partial Operator Precedence",
-      "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-      "summary": "28 points · 9 comments",
-      "published": "2026-11-02T17:22:20+00:00"
     },
     {
       "source": "REDDIT",
