@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T21:27:04.865856+00:00",
+  "updated": "2026-11-05T01:43:14.026777+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -27,11 +27,95 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "CVE-2026-109518: Critical APT Vulnerability Allows Attackers to Bypass Package Verification and Execute Malicious Code as Root on Linux",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo63qk/cve2026109518_critical_apt_vulnerability_allows/",
+      "summary": "Debian and Ubuntu APT Flaw Enables Remote Root Code Execution Through Malicious HTTP Traffic. Fixes are available for CVE-2026-109518, a High severity vulnerability in APT, the package manager used in Debian, Ubuntu, and derivative Linux distributions. The CVE has a CVSS 4.0 score of 7.7. submitted by /u/i-shekhar [link] [comments]",
+      "published": "2026-11-05T01:35:04+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo6008/expanding_the_cyber_verification_program/",
+      "summary": "submitted by /u/israelavila [link] [comments]",
+      "published": "2026-11-05T01:30:09+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Everything is an AI scam now",
-      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
-      "summary": "21 points · 1 comments",
-      "published": "2026-11-04T21:05:19+00:00"
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "url": "https://www.spacex.com/starfall",
+      "summary": "53 points · 21 comments",
+      "published": "2026-11-05T00:18:18+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "\"Under attack\" services - has anyone ever used them?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo43qc/under_attack_services_has_anyone_ever_used_them/",
+      "summary": "Most cyber vendors have an \"under attack?\" or \"experience a breach?\" button on their website to schedule a call with an incident response team (or so they say). I'm wondering if anyone has ever worked with a vendor's incidence response team, and what that experience is like? And what are the alternatives that you previously tried (and potentially didn't work)? submitted by /u/Current_Doubt_8584 [link] [comments]",
+      "published": "2026-11-05T00:01:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "You'll need nerves of steel to work with AI agents",
+      "url": "https://orchidfiles.com/youll-need-nerves-of-steel-to-work-with-ai-agents/",
+      "summary": "16 points · 7 comments",
+      "published": "2026-11-05T00:01:30+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Axon Sued Over AI-Powered License Plate Reader Network",
+      "url": "https://yro.slashdot.org/story/26/11/04/2319208/axon-sued-over-ai-powered-license-plate-reader-network?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Axon has been sued in a proposed class action accusing the Taser and police body-camera maker of illegally collecting and storing license plate data on millions of California drivers through its AI-powered surveillance network. Reuters reports the details: - The lawsuit (PDF), filed on Tuesday in federal court in San Francisco by law firms Hausfeld and Gibbs Mura, alleges Axon has failed to comply with a California privacy provision by not disclosing how it collects, uses and shares plate data g",
+      "published": "2026-11-05T00:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "summary": "85 points · 70 comments",
+      "published": "2026-11-04T23:35:44+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "summary": "82 points · 54 comments",
+      "published": "2026-11-04T23:33:14+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "OpenAI Says ChatGPT Is Catching Up to Google In Search",
+      "url": "https://tech.slashdot.org/story/26/11/04/207222/openai-says-chatgpt-is-catching-up-to-google-in-search?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Adam Fry, OpenAI's consumer product lead for ChatGPT, says the number of searches performed through ChatGPT has grown to roughly 20% of Google's search volume. The company defines a search as a ChatGPT query that triggers a web search, suggesting the chatbot is becoming an increasingly significant competitor to traditional search engines. The Verge reports: Having one-fifth as many searches as Google is still a long way from overtaking it, but for comparison, Microsoft CEO Satya Nadella said dur",
+      "published": "2026-11-04T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "summary": "61 points · 2 comments",
+      "published": "2026-11-04T22:01:49+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Netflix Launches First AI-Branded Content Recommendations Feature on TVs",
+      "url": "https://entertainment.slashdot.org/story/26/11/04/2034237/netflix-launches-first-ai-branded-content-recommendations-feature-on-tvs?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Netflix is testing its first consumer-facing feature explicitly branded as AI-powered. Called \"AI Discover,\" the feature generates personalized TV and movie recommendations in real time based on viewing history, preferences, trending content and selectable themes like \"Something Light\" or \"Quick Watches.\" Variety reports: The streamer will begin rolling out AI Discover in the U.S. to customers who use Netflix in English on supported smart TVs. If you have access to it, you will see a \"Discover\" ",
+      "published": "2026-11-04T22:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "MTTR/MTTD does it still matter",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo13pi/mttrmttd_does_it_still_matter/",
+      "summary": "If most people are using third party Managed Detection and Response do these metrics still matter. With MDR everything is triaged and if malicious isolated and blocked before the managed service contacts you. In those instances do these two metrics even matter? submitted by /u/juiceybaybee [link] [comments]",
+      "published": "2026-11-04T21:53:28+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+      "published": "2026-11-04T21:31:18+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -49,16 +133,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "AR guitar with just a laptop and scissors",
-      "url": "https://www.arguitar.com/",
-      "summary": "6 points · 2 comments",
-      "published": "2026-11-04T20:54:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Residential Proxies Detected on White House Network",
+      "title": "Residential proxies detected on White House network",
       "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
-      "summary": "137 points · 30 comments",
+      "summary": "634 points · 208 comments",
       "published": "2026-11-04T20:45:18+00:00"
     },
     {
@@ -79,14 +156,14 @@
       "source": "HACKER NEWS",
       "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
       "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "summary": "42 points · 17 comments",
+      "summary": "100 points · 42 comments",
       "published": "2026-11-04T19:55:14+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Insects Don't Swarm at LED Lights",
+      "title": "Insects don't swarm at LED lights",
       "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-      "summary": "71 points · 40 comments",
+      "summary": "164 points · 93 comments",
       "published": "2026-11-04T19:50:23+00:00"
     },
     {
@@ -107,22 +184,15 @@
       "source": "HACKER NEWS",
       "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
       "url": "https://www.ricursive.com/ripple",
-      "summary": "124 points · 46 comments",
+      "summary": "220 points · 78 comments",
       "published": "2026-11-04T18:53:29+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
       "url": "https://fireflyk64.github.io/wcmulti/",
-      "summary": "32 points · 4 comments",
+      "summary": "104 points · 13 comments",
       "published": "2026-11-04T18:51:27+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Have I Befriended a Murderer?",
-      "url": "https://longreads.com/2026/11/03/murder-friendship-doubt/",
-      "summary": "71 points · 32 comments",
-      "published": "2026-11-04T18:40:54+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -140,9 +210,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Conductor Is Joining Meta",
+      "title": "Conductor is joining Meta",
       "url": "https://www.conductor.build/announcement",
-      "summary": "38 points · 21 comments",
+      "summary": "106 points · 141 comments",
       "published": "2026-11-04T18:22:40+00:00"
     },
     {
@@ -156,21 +226,21 @@
       "source": "HACKER NEWS",
       "title": "A new Go API for JSON",
       "url": "https://go.dev/blog/jsonv2",
-      "summary": "141 points · 54 comments",
+      "summary": "227 points · 95 comments",
       "published": "2026-11-04T17:52:11+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
       "url": "https://news.ycombinator.com/item?id=50368804",
-      "summary": "45 points · 24 comments",
+      "summary": "70 points · 26 comments",
       "published": "2026-11-04T17:31:53+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Progress on provable inference for large language models",
       "url": "https://www.anthropic.com/research/provable-inference",
-      "summary": "142 points · 70 comments",
+      "summary": "174 points · 84 comments",
       "published": "2026-11-04T17:17:46+00:00"
     },
     {
@@ -231,17 +301,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "summary": "366 points · 121 comments",
-      "published": "2026-11-04T15:38:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "summary": "113 points · 44 comments",
-      "published": "2026-11-04T15:21:21+00:00"
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "372 points · 101 comments",
+      "published": "2026-11-04T15:30:30+00:00"
     },
     {
       "source": "REDDIT",
@@ -249,6 +312,13 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xnqw4a/attackers_are_scanning_the_internet_for_linux/",
       "summary": "submitted by /u/i-shekhar [link] [comments]",
       "published": "2026-11-04T15:20:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "summary": "257 points · 186 comments",
+      "published": "2026-11-04T15:01:44+00:00"
     },
     {
       "source": "OSINT",
@@ -272,39 +342,11 @@
       "published": "2026-11-04T14:27:52+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Tencent Hy4",
-      "url": "https://hy.tencent.ai/research/hy4",
-      "summary": "145 points · 43 comments",
-      "published": "2026-11-04T14:11:26+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
-      "summary": "500 points · 301 comments",
-      "published": "2026-11-04T14:09:55+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "[Academic Research] Help collect data for ransomware research",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnohfs/academic_research_help_collect_data_for/",
-      "summary": "Help me collect data about ransomware for my PhD. I'm a CISSP, CISM, Sec+, & doctoral candidate at Capitol Technology University, MD. I'm researching which security controls actually enable recovery and resilience, compared to cyber frameworks. Takes 15–25 minutes. Anonymous. No compensation. IRB-approved. Would deeply appreciate your help. Please share. Thank you! https://techstudy.limesurvey.net/748327?lang=en&newtest=Y (Safe link: I built the survey on Limesurvey dot net. It's open source, cl",
-      "published": "2026-11-04T13:41:36+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "US charges two Canadians accused of hacking US universities",
       "url": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
       "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
       "published": "2026-11-04T13:13:20+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Masters GRC/Audit",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnnqdg/masters_grcaudit/",
-      "summary": "I currently work as a broad Cybersecurity Analyst, occasionally on call to handle incidents, a little bit of engineering of SIEM tools, policy management . I have a decent background in more GRC focused work. There has finally been a shift to make my role a bit more focused on GRC currently. Which is great because that is what I enjoy. I want to pursue a Masters in Cybersecurity with a GRC focus. I would like to get another masters after, but I’m not sure what would yield best for my path for pu",
-      "published": "2026-11-04T13:06:25+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -331,7 +373,7 @@
       "source": "HACKER NEWS",
       "title": "AI is forcing us to pay off 40 years of technical debt",
       "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "summary": "945 points · 576 comments",
+      "summary": "1063 points · 633 comments",
       "published": "2026-11-04T11:52:17+00:00"
     },
     {
@@ -363,13 +405,6 @@
       "published": "2026-11-04T11:12:27+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "GitHub - kamehameha-ctrl/sniperscope: SniperScope is a high-performance External Attack Surface Management (EASM), passive/active OSINT intelligence, and forensic reporting workstation designed for cybersecurity auditors, SOC analysts, and penetration testers.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnli2w/github_kamehamehactrlsniperscope_sniperscope_is_a/",
-      "summary": "submitted by /u/esskike [link] [comments]",
-      "published": "2026-11-04T11:08:28+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Dinosaur Blood Found In Fossils For the First Time",
       "url": "https://science.slashdot.org/story/26/11/04/066209/dinosaur-blood-found-in-fossils-for-the-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -382,13 +417,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
       "summary": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
       "published": "2026-11-04T09:39:54+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "summary": "549 points · 252 comments",
-      "published": "2026-11-04T08:46:29+00:00"
     },
     {
       "source": "OSINT",
@@ -419,46 +447,11 @@
       "published": "2026-11-04T05:43:11+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Supply Chain Attack targeting the Goddess of Victory: NIKKE PC launcher.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xnepum/supply_chain_attack_targeting_the_goddess_of/",
-      "summary": "This compromise was first identified ~12 hours ago and has since been confirmed by SHIFT UP, the developers of NIKKE. There is a realistic possibility that other game launchers supported by Level Infinite have similar vulnerabilities. Compromised .js files appear to have been first identified within Level Infinite as far back as 27th September 2026 before being delivered to end users through game launcher updates when it runs. Between 31st October and 3rd November 2026, users report having malwa",
-      "published": "2026-11-04T04:18:18+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Ukraine's Drone Strikes Spur Hasty Russian Plans For Underground Data Centers",
-      "url": "https://tech.slashdot.org/story/26/11/03/2354228/ukraines-drone-strikes-spur-hasty-russian-plans-for-underground-data-centers?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: [S]tate-owned telecommunications company Rostelcom has raised the possibility of moving some Russian data centers underground in talks with the nickel and palladium mining company Norilsk, according to Russian newspaper Vedomosti. The industry publication Data Center Dynamics also pointed to a recent proposal by a Russian regional governor to build data centers within open-pit coal mines while planting green public parks above as camouflage.",
-      "published": "2026-11-04T03:30:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "iOS 27.3 Adds Vertical Tabs, Adaptive Dark Mode to Safari",
-      "url": "https://tech.slashdot.org/story/26/11/03/2347212/ios-273-adds-vertical-tabs-adaptive-dark-mode-to-safari?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Apple is adding vertical tabs and an Adaptive Dark Mode to Safari with iOS 27.3, iPadOS 27.3 and macOS Golden Gate 27.3. The December updates will also expand Siri's browser controls, including organizing tabs and clearing site-specific history, with a later feature allowing Siri to understand and answer questions about content across multiple open webpages. MacRumors reports: Vertical Tabs are located on the left side of the display and use icons by default to save space, but there is an option",
-      "published": "2026-11-04T00:00:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "EU Court Advisor Warns Google AI Chatbot May Breach Copyright Rules",
-      "url": "https://yro.slashdot.org/story/26/11/03/2144244/eu-court-advisor-warns-google-ai-chatbot-may-breach-copyright-rules?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An adviser to the EU's highest court says Google's Gemini may violate publishers' copyright when it reproduces recognizable portions of their articles or circumvents paywalls and other technical protections to generate answers. Reuters reports: The case before the Luxembourg-based Court of Justice of the European Union pitted Hungarian website operator Like Company against US-based Google's artificial intelligence chatbot Gemini. A ruling against Google, which could force the tech giant to pay f",
-      "published": "2026-11-03T23:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
       "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
       "published": "2026-11-03T22:18:50+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-      "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
-      "published": "2026-11-03T21:28:44+00:00"
     },
     {
       "source": "OSINT",
@@ -480,6 +473,13 @@
       "url": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
       "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and conducts advertising fraud. Experts involved in the takedown say the action is likely to sever the botnet's access to more than 10 million additional compromised systems, including other Internet of Things (IoT) products such as Android-based healthcare devices ",
       "published": "2026-11-03T02:24:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
+      "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
+      "summary": "6 points · 0 comments",
+      "published": "2026-11-02T19:23:48+00:00"
     },
     {
       "source": "REDDIT",
