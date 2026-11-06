@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T11:23:34.928466+00:00",
+  "updated": "2026-11-06T18:17:57.719189+00:00",
   "item_count": 81,
   "sources": [
     "CISA",
@@ -22,6 +22,209 @@
   ],
   "items": [
     {
+      "source": "REDDIT",
+      "title": "The Port That Does Not Exist - Port 0 is the port you are not supposed to use, so nobody looks there. So we put an IRC network on it. Then I got curious if anyone else had, & scanned all of IPv4 for port 0. Turns out we weren't alone, & some of our neighbors really shouldn't be there.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xpjtma/the_port_that_does_not_exist_port_0_is_the_port/",
+      "summary": "submitted by /u/acidvegas [link] [comments]",
+      "published": "2026-11-06T18:11:49+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Tesla to Wind Down Cybertruck Production",
+      "url": "https://tech.slashdot.org/story/26/11/06/1736259/tesla-to-wind-down-cybertruck-production?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Elon Musk says Tesla will be \"winding down\" Cybertruck production at its Texas Gigafactory around mid-2027 to free up capacity for increased production of its Cybercab robotaxi. CNBC reports: The Cybertruck is exclusively produced at the company's plant in Texas alongside the Tesla Model Y and two-seat Cybercab, which Musk has touted as a crucial product for the automaker moving forward. Musk did not say whether the company would produce the Cybertruck at a different facility, but he later respo",
+      "published": "2026-11-06T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Size-It-Up (Game)",
+      "url": "https://magnitudle.com/size-it-up",
+      "summary": "5 points · 0 comments",
+      "published": "2026-11-06T17:59:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Anthropic IPO valuation talks drop to $1.3T",
+      "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+      "summary": "50 points · 27 comments",
+      "published": "2026-11-06T17:21:15+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+      "published": "2026-11-06T17:04:23+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+      "url": "https://up.codes/careers?utm_source=HN",
+      "summary": "1 points · 0 comments",
+      "published": "2026-11-06T17:03:33+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How are security teams handling Shadow AI and AI agents?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xphye5/how_are_security_teams_handling_shadow_ai_and_ai/",
+      "summary": "AI adoption is making it harder for security teams to maintain visibility into what employees are actually using. I'm particularly interested in Shadow AI, AI agents, MCP servers, and AI enabled developers tools running on employee endpoints. How are security teams getting visibility into these tools and assessing the security risks around them? Are you using existing endpoint, DLP, proxy or identity controls or have you added something specifically for AI governance? I'd be interested in what h",
+      "published": "2026-11-06T17:00:32+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Britain to Make Salary Disclosure In Job Ads Mandatory",
+      "url": "https://news.slashdot.org/story/26/11/06/1640241/britain-to-make-salary-disclosure-in-job-ads-mandatory?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Britain plans to require employers to disclose salaries in job advertisements. \"Whether you're a young person starting out or a parent trying to support your family, you should know what a job pays before spending your time and effort applying for it,\" Prime Minister Andy Burnham said in a statement. Reuters reports: The government said requiring companies to disclose pay in job ads would help young people applying for their first jobs, while boosting pay transparency and helping tackle disparit",
+      "published": "2026-11-06T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "summary": "59 points · 3 comments",
+      "published": "2026-11-06T16:50:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Rune: A native GPU-rendered Rust UI framework for macOS, Windows, Linux and web",
+      "url": "https://github.com/anomalyco/rune",
+      "summary": "44 points · 21 comments",
+      "published": "2026-11-06T16:31:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Scriptable GeoDNS: Leaving AWS for Bunny",
+      "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+      "summary": "27 points · 13 comments",
+      "published": "2026-11-06T16:15:03+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+      "url": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+      "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site's old, unpatched code, so an attacker who strikes at the right moment can run code on the server. The researcher advises blocking web access to the",
+      "published": "2026-11-06T16:08:38+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Sony Revives the Original Walkman Headphones, Adds USB-C",
+      "url": "https://entertainment.slashdot.org/story/26/11/06/0711224/sony-revives-the-original-walkman-headphones-adds-usb-c?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: Sony has brought back the MDR-3-series headphones that debuted in 1979 alongside the Walkman TPS-L2 cassette player. [...] The new MDR-3R (originally called the \"MDR-3L2\") headphones look just like the originals and come with orange and blue ear cushions. New headphones are often wireless these days, but the MDR-3R continues the wired tradition of the MDR-3, with an essential twist: a USB-C connector. For better or worse, the new headphones ",
+      "published": "2026-11-06T16:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xpg7ot/openssh_flaw_lets_attackers_log_into/",
+      "summary": "Researcher Ozgun Kultekin disclosed a vulnerability nicknamed sshole that can allow unauthorized SSH logins to certain accounts whose password authentication was deliberately disabled. The flaw affects specific configurations of musl-based Linux systems, including Alpine Linux, OpenWrt and Buildroot. It requires several conditions, including enabled SSH password authentication and particular account password-hash settings. Administrators may believe an account cannot accept password logins when ",
+      "published": "2026-11-06T15:52:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "summary": "219 points · 101 comments",
+      "published": "2026-11-06T15:44:36+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+      "url": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+      "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+      "published": "2026-11-06T15:25:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+      "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+      "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole), impacts Linux systems that run OpenSSH on the musl C library with Pluggable Authentication Modules (PAM) disabled,",
+      "published": "2026-11-06T15:21:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+      "url": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+      "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+      "published": "2026-11-06T15:00:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+      "url": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+      "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more capable at finding and fixing vulnerabilities, and far more reliable staying within the boundaries researchers set,\" OpenAI said. It has classified the model as",
+      "published": "2026-11-06T14:58:32+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Lippitt-Knoster in Practice (Field Notes for Managing Complex Projects)",
+      "url": "https://sharedphysics.com/lippitt-knoster-in-practice-field-notes-for-managing-complex-projects/",
+      "summary": "31 points · 1 comments",
+      "published": "2026-11-06T14:57:16+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "CPython 0-Day Vulnerabilities Threaten the AI Supply Chain",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xpef3v/cpython_0day_vulnerabilities_threaten_the_ai/",
+      "summary": "submitted by /u/ni5arga [link] [comments]",
+      "published": "2026-11-06T14:39:41+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "MTG-I2 First Images",
+      "url": "https://www.eumetsat.int/mtg-i2-first-images",
+      "summary": "38 points · 7 comments",
+      "published": "2026-11-06T14:35:29+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Chainalysis says breach exposed credentials for all customers",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+      "published": "2026-11-06T14:17:07+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "summary": "218 points · 167 comments",
+      "published": "2026-11-06T13:35:27+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+      "published": "2026-11-06T12:37:22+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+      "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+      "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint build in all ten countries The Hacker News checked today. The flaw is an out-of-bounds read that could let an attacker run code over a network. Microsoft rates",
+      "published": "2026-11-06T12:06:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+      "url": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+      "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature that lets people send tasks from their phone to Claude Desktop. The flaw that makes this possible can still be exploited, the researchers said earlier this",
+      "published": "2026-11-06T12:06:35+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Is anyone else worried that AI is expanding the attack surface faster than we can defend it?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xpaw2h/is_anyone_else_worried_that_ai_is_expanding_the/",
+      "summary": "I believe we’re going to see a lot more security vulnerabilities in the coming years because of AI, and I want to hear if others see it the same way. Here’s my reasoning: 1. AI-generated code ships faster than it gets reviewed. More people are shipping code they didn’t fully write and don’t fully understand. Even when the code works, subtle issues like weak input validation, hardcoded secrets, and insecure defaults can slip through. 2. AI agents have real access. Models are being connected to em",
+      "published": "2026-11-06T11:51:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "The Flood is Coming And The Pipes Were Already Full",
+      "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+      "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models find, and the gap he describes between what they can do and what the rest of us are ready for is the one I've been staring at since May. The hardest piece of his",
+      "published": "2026-11-06T11:30:00+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Blue Origin Announces New Glenn Third Stage, New Booster Engine",
       "url": "https://science.slashdot.org/story/26/11/06/0648255/blue-origin-announces-new-glenn-third-stage-new-booster-engine?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -29,31 +232,17 @@
       "published": "2026-11-06T11:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Cyber Security",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xp9m2a/cyber_security/",
-      "summary": "Hello everyone, I am a high school graduate, and I am very about Cyber Security. Should I enter computer science then specialize in cyber security? I have seen some bachelor majors in cyber security, but some people told me that I should do computer science first. What should I do first? Thanks for the advice. submitted by /u/isaa-ch [link] [comments]",
-      "published": "2026-11-06T10:32:29+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
       "url": "https://jhr.pensoft.net/articles.php?id=9096",
-      "summary": "29 points · 5 comments",
+      "summary": "133 points · 43 comments",
       "published": "2026-11-06T10:21:15+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Invalid SSL Certificate when using Cellular Data",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xp8m5f/invalid_ssl_certificate_when_using_cellular_data/",
-      "summary": "I was entering a site to go on about my day, using my cellular data on IPhone 15 pro. When I was about to enter the site it said “SSL Certificate Invaild”, showing the certificate is expired and mismatched. But when I connect to wifi and try the same site, it works and the certificate is secure. What should I do, need urgent help. submitted by /u/Good-Scholar-1183 [link] [comments]",
-      "published": "2026-11-06T09:28:35+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
       "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
-      "summary": "80 points · 49 comments",
+      "summary": "561 points · 350 comments",
       "published": "2026-11-06T09:27:12+00:00"
     },
     {
@@ -71,13 +260,6 @@
       "published": "2026-11-06T09:01:23+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "threat model check on an open firmware fido2 key with keys in a secure element",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xp7ojm/threat_model_check_on_an_open_firmware_fido2_key/",
-      "summary": "I'm working on a fido2 key where the MCU firmware is open and user replaceable but all credentials are generated and stored in an SE050. firmware can request signatures but cant extract keys. the trade off is a malicious firmware could misuse keys during a session but not clone them Is \"can't be cloned but firmware is your choice\" a reasonable line to draw or does that break it for you? submitted by /u/Other-Obligation3096 [link] [comments]",
-      "published": "2026-11-06T08:26:15+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
       "url": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
@@ -86,38 +268,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
-      "url": "https://obelisk.club/research/app-store-2026",
-      "summary": "43 points · 37 comments",
-      "published": "2026-11-06T07:59:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
-      "url": "https://worldstrike.fun/",
-      "summary": "59 points · 38 comments",
-      "published": "2026-11-06T07:55:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Kugelblitz – Mac-Native Google Earth Alternative",
       "url": "https://apps.metaebene.me/en/kugelblitz",
-      "summary": "90 points · 18 comments",
+      "summary": "222 points · 56 comments",
       "published": "2026-11-06T07:47:38+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Blender's UI and Runtime: Much Faster Than GPUI",
       "url": "https://github.com/ppmpreetham/BUI",
-      "summary": "226 points · 96 comments",
+      "summary": "558 points · 225 comments",
       "published": "2026-11-06T07:40:35+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Hardcoded credentials and other issues in Tata Motors App",
-      "url": "https://www.cert-in.org.in/s2cMainServlet?pageid=PUBVLNOTES01&VLCODE=CIVN-2026-0537",
-      "summary": "33 points · 7 comments",
-      "published": "2026-11-06T07:28:39+00:00"
+      "source": "REDDIT",
+      "title": "Learning Hardening/Blue Team",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xp6krd/learning_hardeningblue_team/",
+      "summary": "Greetings community. I am relatively new to the IT scene. Have been working as a SysAdmin for around 2-3 years at my last company, where i was able to work with different MSP's on different fronts. One of them was responsible for Hardening where we would have 2 meetings every month to implement different Hardening policies. *MSP was split in to Blue,Red team and hunting. Where i was working only with Blue Team. I was fascinated on the knowledge of those people. They had their own dashboard of po",
+      "published": "2026-11-06T07:13:01+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -141,13 +309,6 @@
       "published": "2026-11-06T05:39:10+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "I struggle to believe that AI R&D is ingenious",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "summary": "110 points · 89 comments",
-      "published": "2026-11-06T05:19:04+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Pushing the Limits with getaddrinfo - An IPv4 address is just a 32-bit number, and glibc will accept it in forms you would never recognize.\"⁰𝑋⁴5．🯰３₆。⁵₂₈𝟲🯶\" is one of them.Anything that judges an address by how it looks can be walked around.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xp431h/pushing_the_limits_with_getaddrinfo_an_ipv4/",
@@ -156,10 +317,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-      "summary": "106 points · 38 comments",
-      "published": "2026-11-06T04:17:49+00:00"
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "summary": "70 points · 82 comments",
+      "published": "2026-11-06T04:00:28+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -167,20 +328,6 @@
       "url": "https://news.slashdot.org/story/26/11/05/2236227/the-great-pacific-garbage-patch-is-changing-the-color-of-the-ocean?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Scientific American: The Great Pacific Garbage Patch, an area in the Pacific Ocean where debris naturally accumulates, is full of tiny bits of plastic -- so full, in fact, that it seems to be changing the color of the ocean. [...] To better understand how microplastics may have influenced the ocean's color, [Daniel Koestner, a postdoctoral fellow at the University of Bergen in Norway] and his colleagues looked at 20 years of satellite data from the spot i",
       "published": "2026-11-06T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pwn.college",
-      "url": "https://pwn.college/",
-      "summary": "167 points · 21 comments",
-      "published": "2026-11-06T03:27:14+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nvidia Kubernetes Engine (NVKE)",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "summary": "84 points · 22 comments",
-      "published": "2026-11-06T03:16:26+00:00"
     },
     {
       "source": "REDDIT",
@@ -195,13 +342,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
       "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
       "published": "2026-11-06T00:56:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Inkling 2 Small",
-      "url": "https://thinkingmachines.ai/news/inkling-2-small/",
-      "summary": "212 points · 70 comments",
-      "published": "2026-11-06T00:00:24+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -221,15 +361,8 @@
       "source": "HACKER NEWS",
       "title": "Claude Code sends your email address to websites",
       "url": "https://github.com/anthropics/claude-code/issues/107757",
-      "summary": "1196 points · 382 comments",
+      "summary": "1502 points · 470 comments",
       "published": "2026-11-05T22:17:15+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "OpenSSH Flaw Lets Attackers Log Into Password-Disabled Linux Accounts",
-      "url": "https://it.slashdot.org/story/26/11/05/2140208/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A newly disclosed OpenSSH flaw dubbed \"*sshole\" can allow attackers to log in to password-disabled accounts on certain musl-based Linux systems simply by submitting a password longer than 256 bytes. \"Apparently certain varieties of musl Linux (Alpine, OpenWrt, Buildroot, Yocto, etc.) have had this OpenSSH vulnerability for about a decade,\" writes longtime Slashdot reader AlteredEgg. \"Upgrade now!\" BleepingComputer reports: Security researcher Ozgun Kultekin, who discovered and released details o",
-      "published": "2026-11-05T22:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -244,13 +377,6 @@
       "url": "https://apple.slashdot.org/story/26/11/05/203200/apple-is-putting-employees-on-an-ai-budget?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "According to Bloomberg, Apple is cutting employee AI spending limits to reduce costs, lowering some engineers from $300 to $200 per day and considering limits as low as $100, with some teams capped at $25. Employees are also being encouraged to use cheaper models or on-device AI. MacRumors reports: Engineers at Apple have the largest budgets because using AI for coding can consume a large number of tokens. Apple lets employees use Claude, ChatGPT, Gemini, and other models. Some Apple employees t",
       "published": "2026-11-05T21:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "summary": "563 points · 203 comments",
-      "published": "2026-11-05T20:43:42+00:00"
     },
     {
       "source": "OSINT",
@@ -274,13 +400,6 @@
       "published": "2026-11-05T19:24:26+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The Hackintosh Reborn",
-      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
-      "summary": "320 points · 181 comments",
-      "published": "2026-11-05T19:08:22+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Discord Is Ditching Electron For Rust",
       "url": "https://tech.slashdot.org/story/26/11/05/193239/discord-is-ditching-electron-for-rust?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -288,39 +407,11 @@
       "published": "2026-11-05T19:05:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Motorola's Ultra Premium Smartphone Is Its First With GrapheneOS Support",
-      "url": "https://hardware.slashdot.org/story/26/11/05/1732222/motorolas-ultra-premium-smartphone-is-its-first-with-grapheneos-support?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Motorola's $1,600 Signature 27 will become the company's first smartphone to support the security- and privacy-focused GrapheneOS that completely strips out native Google services and telemetry at the OS level. To help justify the price, Motorola equipped the Signature 27 with top-of-the-line specs, including a tandem OLED display, Qualcomm's Snapdragon 8 Elite Extreme Gen 6, up to 16GB of LPDDR5X RAM and 512GB of UFS 4.1 storage (up from a base configuration of 12GB and 256GB), and a 200-megapi",
-      "published": "2026-11-05T18:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xoo84b/researchers_bypass_chatgpt_lockdown_mode_to/",
-      "summary": "submitted by /u/MentalGlance [link] [comments]",
-      "published": "2026-11-05T17:11:55+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xoo0nf/hackers_backdoor_linux_servers_using_trojanized/",
-      "summary": "Attackers distribute a malicious updater that replaces CWP's legitimate cwpsrv web-server binary with a trojanized version. The backdoor remains dormant until attackers activate it through specially crafted HTTP requests containing encrypted commands. What makes this particularly dangerous is its stealth. CWPdoor suppresses logging of malicious requests, restores file timestamps, deletes evidence of installation, and encrypts communications to make detection more difficult. Researchers identifie",
-      "published": "2026-11-05T17:03:53+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Major Digital Bank In Paraguay Collapses With Half of Population's Savings",
-      "url": "https://news.slashdot.org/story/26/11/05/1655231/major-digital-bank-in-paraguay-collapses-with-half-of-populations-savings?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Paraguayan President Santiago Pena resigned Thursday amid mass protests and impeachment threats following the collapse of Ueno Bank, a major digital lender with close ties to his administration and more than 60% of the country's adults as customers. Regulators seized the bank after uncovering risky insider lending and accounting irregularities that left its capital below legal requirements, locking millions of customers out of their savings. The Associated Press reports: Soon after winning its b",
-      "published": "2026-11-05T17:00:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "Window Sweaters",
-      "url": "https://github.com/saragordic/window-sweaters",
-      "summary": "363 points · 110 comments",
-      "published": "2026-11-05T16:50:14+00:00"
+      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+      "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+      "summary": "58 points · 2 comments",
+      "published": "2026-11-05T18:59:37+00:00"
     },
     {
       "source": "OSINT",
@@ -331,17 +422,17 @@
     },
     {
       "source": "OSINT",
-      "title": "DigiCert data breach exposes customer information, identity documents",
-      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-      "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-      "published": "2026-11-05T16:12:46+00:00"
+      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. \"The flaw could enable silent chat data theft, phishing,",
+      "published": "2026-11-05T16:42:32+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Microsoft's Imagine Cup 'Evolves' From Student Competition To AI Startup Contest",
-      "url": "https://news.slashdot.org/story/26/11/05/057254/microsofts-imagine-cup-evolves-from-student-competition-to-ai-startup-contest?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "theodp writes: That Was Then: The Imagine Cup competition, Microsoft explained in a 2003 press release, \"seeks to provide students [aged 16-and-up] around the world with resources to use technology and Web services to solve everyday problems [...] Imagine Cup is about empowering students to apply their creativity and knowledge toward making the world a more-connected place.\" This Is Now: \"Building is Hard. Selling is Harder.\" begins the \"Why Imagine Cup?\" promo video for the 2027 Imagine Cup com",
-      "published": "2026-11-05T16:00:00+00:00"
+      "source": "OSINT",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+      "published": "2026-11-05T16:24:26+00:00"
     },
     {
       "source": "REDDIT",
@@ -349,13 +440,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xolwkc/critical_openssh_flaw_lets_attackers_bypass_long/",
       "summary": "The bug is like a joke. On Alpine Linux, type 257 to 1024 characters of anything and you get root. submitted by /u/i-shekhar [link] [comments]",
       "published": "2026-11-05T15:42:38+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Closing the Identity Gap at the Service Desk",
-      "url": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
-      "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]",
-      "published": "2026-11-05T15:00:10+00:00"
     },
     {
       "source": "OSINT",
@@ -372,34 +456,6 @@
       "published": "2026-11-05T14:07:14+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Firenook – Firebase emulators in Rust: 40× faster writes, 10× less RAM",
-      "url": "https://firenook.dev/",
-      "summary": "124 points · 17 comments",
-      "published": "2026-11-05T13:07:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
-      "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
-      "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can reach it, what protection exists, and how a change could affect the business. Each missing detail creates",
-      "published": "2026-11-05T12:25:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "sshole",
-      "url": "https://sshhole.com",
-      "summary": "2737 points · 664 comments",
-      "published": "2026-11-05T12:19:02+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate Linux kernel findings, dynamically reproduced 1,724 vulnerabilities, and produced 948 local privilege escalation (LPE)",
-      "published": "2026-11-05T12:08:54+00:00"
-    },
-    {
       "source": "CISA",
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
@@ -412,62 +468,6 @@
       "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
       "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation",
       "published": "2026-11-05T12:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-      "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-      "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents, increasing the risk of financial losses, data breaches, and costly operational disruption. Below, we examine five",
-      "published": "2026-11-05T10:06:19+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-      "url": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-      "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-      "published": "2026-11-05T09:18:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-      "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-      "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files in iCloud Drive, by sharing a link and making it accessible to \"Anyone with the link.\" When users choose this option,",
-      "published": "2026-11-05T09:13:28+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-      "url": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the threat as active and ongoing, the activity involves the use of publicly-available AI-driven offensive security tools",
-      "published": "2026-11-05T08:42:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-      "url": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-      "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without logging in. Zyxel has released new firmware for 10 GS1900 models that closes the hole. The earlier fix is the 2.90",
-      "published": "2026-11-05T07:06:33+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CVE-2026-109518: Critical APT Vulnerability Allows Attackers to Bypass Package Verification and Execute Malicious Code as Root on Linux",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xo63qk/cve2026109518_critical_apt_vulnerability_allows/",
-      "summary": "Debian and Ubuntu APT Flaw Enables Remote Root Code Execution Through Malicious HTTP Traffic. Fixes are available for CVE-2026-109518, a High severity vulnerability in APT, the package manager used in Debian, Ubuntu, and derivative Linux distributions. The CVE has a CVSS 4.0 score of 7.7. submitted by /u/i-shekhar [link] [comments]",
-      "published": "2026-11-05T01:35:04+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Vercel rolls out new protection against stolen session cookie attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-      "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-      "published": "2026-11-04T21:31:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-      "url": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-      "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-      "published": "2026-11-04T20:58:19+00:00"
     },
     {
       "source": "CISA",
