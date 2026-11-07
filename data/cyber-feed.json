@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T03:05:14.124565+00:00",
+  "updated": "2026-11-07T09:55:11.790173+00:00",
   "item_count": 81,
   "sources": [
     "CISA",
@@ -22,25 +22,74 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+      "url": "https://bong.glendalab.com",
+      "summary": "15 points · 4 comments",
+      "published": "2026-11-07T07:48:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "[ Removed by Reddit ]",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xq0tfg/removed_by_reddit/",
+      "summary": "[ Removed by Reddit on account of violating the content policy . ] submitted by /u/Adorable_Reading_735 [link] [comments]",
+      "published": "2026-11-07T07:47:40+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Vibrating Mattress Helps Clear Alzheimer's Protein From the Brain",
+      "url": "https://science.slashdot.org/story/26/11/07/0216257/vibrating-mattress-helps-clear-alzheimers-protein-from-the-brain?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A vibrating mattress combined with two pills that release nitric oxide enhanced the brain's ability to clear an Alzheimer's-related protein. According to New Scientist, the experiment \"caused the brain's blood vessels to swell and constrict more strongly, which enhanced the glymphatic system's clearance of [the protein].\" From the report: [Kesa Kiviniemi at the University of Oulu in Finland] and his colleagues recruited 29 adults who hadn't been diagnosed with Alzheimer's disease or any other co",
+      "published": "2026-11-07T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+      "published": "2026-11-07T06:44:17+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "summary": "38 points · 20 comments",
+      "published": "2026-11-07T06:39:04+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Asahi Linux Progress Linux 7.3",
+      "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+      "summary": "169 points · 120 comments",
+      "published": "2026-11-07T05:20:18+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Feeling frustration in the fight with AI to give a good SECURE tool all with what feels like little guidance - anyone else?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xpy1kw/feeling_frustration_in_the_fight_with_ai_to_give/",
+      "summary": "I’m in a regulated sector and there’s little guidance on AI use. Because of that, we’ve really restricted use and advise no uploading of NPI/PII until we know what the expectations are on risk assessments, policies, etc. Basically, it’s great for research, some guidance, and drafting, but shouldn’t be run on sensitive data in any form. Any decisions that are made should be your decisions and not the decision of AI. Users are trained on this. They’ve accepted the terms in our Acceptable Use Polic",
+      "published": "2026-11-07T05:01:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+      "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+      "summary": "95 points · 53 comments",
+      "published": "2026-11-07T04:54:36+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Mexico's Senate Approves ISP Rules To Disconnect Persistent Online Pirates",
+      "url": "https://yro.slashdot.org/story/26/11/07/025259/mexicos-senate-approves-isp-rules-to-disconnect-persistent-online-pirates?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TorrentFreak: On Tuesday, Mexico's Senate approved (PDF) a reform of the Federal Copyright Law that ties ISP liability to having a policy to terminate repeat infringers. [This policy has to be published permanently on their website and in their terms of service, and it must include a basic way to notify users. In other words, what can be terminated is the Internet connection itself, not just an account. According to Mexican business outlet EL CEO, this me",
+      "published": "2026-11-07T03:30:00+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Agentic soc",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xpva4z/agentic_soc/",
       "summary": "Hey everyone I have been basically tasked with the impossible of trying to create an agentic soc for our environment that basically will triage alerts. I work for a small business and was dabbling into some vendors that support this ask and from what I’ve seen it all looks the same type of slop that I just don’t see myself trusting yet. It looks like you have this product that the company promises can triage alerts for you yet you still have to be looking at alerts to make sure the ai is doing i",
       "published": "2026-11-07T02:33:40+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Would a data-quality project be more useful than another LLM chatbot portfolio project?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xpv6fy/would_a_dataquality_project_be_more_useful_than/",
-      "summary": "Would a data-quality project be more useful than another LLM chatbot portfolio project? The USDA plans to add AI-assisted validation after errors in crop production estimates. It seems like a useful example for students learning data engineering or machine learning. Suppose you build a pipeline that ingests public agricultural data, validates category totals, identifies anomalous changes and produces a report for review. You could compare deterministic validation rules against statistical anomal",
-      "published": "2026-11-07T02:28:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "url": "https://josef.cn/blog/unitree",
-      "summary": "36 points · 23 comments",
-      "published": "2026-11-07T01:05:16+00:00"
     },
     {
       "source": "OSINT",
@@ -60,22 +109,15 @@
       "source": "HACKER NEWS",
       "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
       "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "summary": "35 points · 9 comments",
+      "summary": "122 points · 59 comments",
       "published": "2026-11-06T23:37:19+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Libghostty 1.0",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
-      "summary": "263 points · 42 comments",
+      "summary": "634 points · 98 comments",
       "published": "2026-11-06T23:30:52+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Sodium-ion batteries approach cost parity with LFP",
-      "url": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-      "summary": "140 points · 61 comments",
-      "published": "2026-11-06T23:00:46+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -123,7 +165,7 @@
       "source": "HACKER NEWS",
       "title": "AI is dramatically accelerating AI research",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "summary": "216 points · 166 comments",
+      "summary": "302 points · 248 comments",
       "published": "2026-11-06T20:27:23+00:00"
     },
     {
@@ -132,13 +174,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
       "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
       "published": "2026-11-06T20:24:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "summary": "44 points · 8 comments",
-      "published": "2026-11-06T20:09:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -151,36 +186,15 @@
       "source": "HACKER NEWS",
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
       "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "summary": "360 points · 81 comments",
+      "summary": "471 points · 109 comments",
       "published": "2026-11-06T19:48:51+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Firecracker VM Escape: PwnEscape Part 2",
       "url": "https://pwn.ai/blog/firecracker-escape",
-      "summary": "182 points · 81 comments",
+      "summary": "236 points · 105 comments",
       "published": "2026-11-06T19:33:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "GitHub's new Git storage architecture",
-      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "summary": "79 points · 13 comments",
-      "published": "2026-11-06T19:24:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "summary": "99 points · 45 comments",
-      "published": "2026-11-06T19:19:27+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "What should the roadmap and requirements for the Blue Team be?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xplfc1/what_should_the_roadmap_and_requirements_for_the/",
-      "summary": "Hello everyone, This is my first post here, and I’d really appreciate hearing your thoughts and insights on something I’ve been thinking about. I work in backend development, and one of the biggest challenges in my region is the highly competitive job market. There are a significant number of web developers, making it increasingly difficult for people to stand out and secure new opportunities. Finding a new job has become a time-consuming and challenging process. On top of that, the rapid advanc",
-      "published": "2026-11-06T19:13:55+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -219,10 +233,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Devvm.dev: One VM for every project",
-      "url": "https://devvm.dev/",
-      "summary": "124 points · 53 comments",
-      "published": "2026-11-06T17:30:22+00:00"
+      "title": "Notes on San Marino",
+      "url": "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+      "summary": "64 points · 21 comments",
+      "published": "2026-11-06T17:12:05+00:00"
     },
     {
       "source": "OSINT",
@@ -249,7 +263,7 @@
       "source": "HACKER NEWS",
       "title": "First steps in bare-metal programming using UEFI",
       "url": "https://kevinboone.me/efitest_index.html",
-      "summary": "196 points · 35 comments",
+      "summary": "220 points · 42 comments",
       "published": "2026-11-06T16:50:29+00:00"
     },
     {
@@ -365,13 +379,6 @@
       "published": "2026-11-06T08:04:49+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "FAA Phases Out Floppy Disks From Air Traffic Control",
-      "url": "https://hardware.slashdot.org/story/26/11/05/2239227/faa-phases-out-floppy-disks-from-air-traffic-control?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The FAA announced today that it is finally phasing out floppy disks from air traffic control systems at more than 400 facilities. Engadget reports: They'll be replaced by a more modern system called Enterprise -- Information Display System (E-IDS), which is comprised of a digital display for relaying status information, updates and other alerts to air traffic teams. The FAA plans to have E-IDS installed in 435 sites by the end of 2028; the first five locations to receive the upgrades are the Atl",
-      "published": "2026-11-06T07:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
       "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
@@ -389,15 +396,8 @@
       "source": "HACKER NEWS",
       "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
       "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "summary": "290 points · 229 comments",
+      "summary": "337 points · 273 comments",
       "published": "2026-11-06T04:00:28+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "The Great Pacific Garbage Patch Is Changing the Color of the Ocean",
-      "url": "https://news.slashdot.org/story/26/11/05/2236227/the-great-pacific-garbage-patch-is-changing-the-color-of-the-ocean?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Scientific American: The Great Pacific Garbage Patch, an area in the Pacific Ocean where debris naturally accumulates, is full of tiny bits of plastic -- so full, in fact, that it seems to be changing the color of the ocean. [...] To better understand how microplastics may have influenced the ocean's color, [Daniel Koestner, a postdoctoral fellow at the University of Bergen in Norway] and his colleagues looked at 20 years of satellite data from the spot i",
-      "published": "2026-11-06T03:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -428,13 +428,6 @@
       "published": "2026-11-05T16:42:32+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-      "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find security holes faster, some important systems are still taking months, sometimes over a year, to get patched. Not exactly a",
-      "published": "2026-11-05T14:41:10+00:00"
-    },
-    {
       "source": "CISA",
       "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
       "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
@@ -457,31 +450,38 @@
     },
     {
       "source": "HACKER NEWS",
+      "title": "The great butter and cheese fire of 1991",
+      "url": "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+      "summary": "28 points · 9 comments",
+      "published": "2026-11-05T00:44:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "8088 Domination Post-Mortem",
+      "url": "https://trixter.oldskool.org/2014/06/19/8088-domination-post-mortem-part-1/",
+      "summary": "11 points · 2 comments",
+      "published": "2026-11-04T18:06:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PostgreSQL Internals [pdf]",
+      "url": "https://edu.postgrespro.com/postgresql_internals-14_en.pdf",
+      "summary": "19 points · 1 comments",
+      "published": "2026-11-04T05:22:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
       "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
-      "summary": "33 points · 2 comments",
+      "summary": "100 points · 8 comments",
       "published": "2026-11-04T02:19:16+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Panthera: Ampere's CPU Performance Model",
-      "url": "https://github.com/AmpereComputing/panthera",
-      "summary": "10 points · 0 comments",
-      "published": "2026-11-03T19:12:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
-      "url": "https://github.com/andrewboldi/tmux-restore",
-      "summary": "7 points · 1 comments",
-      "published": "2026-11-03T17:25:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Can GROUP BY still be optimized after all these years?",
-      "url": "https://pivotlake.io/blog/know-your-limit-faster-top-k-aggregation/",
-      "summary": "49 points · 2 comments",
-      "published": "2026-11-03T16:30:23+00:00"
+      "title": "The Flash C Compiler",
+      "url": "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+      "summary": "50 points · 5 comments",
+      "published": "2026-11-03T14:49:42+00:00"
     },
     {
       "source": "CISA",
