@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T01:52:54.761916+00:00",
-  "item_count": 83,
+  "updated": "2026-11-09T09:33:29.592850+00:00",
+  "item_count": 72,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -9,6 +9,11 @@
     "OSINT"
   ],
   "errors": [
+    {
+      "source": "SLASHDOT",
+      "url": "https://rss.slashdot.org/Slashdot/slashdotMainatom",
+      "error": "ParseError"
+    },
     {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
@@ -22,17 +27,80 @@
   ],
   "items": [
     {
-      "source": "SLASHDOT",
-      "title": "Can CrowdStrike's New 'AI Kill Switch' Shut Down Rogue AI Agents?",
-      "url": "https://it.slashdot.org/story/26/11/09/0020217/can-crowdstrikes-new-ai-kill-switch-shut-down-rogue-ai-agents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "CrowdStrike's \"Falcon Guardian\" protects Windows systems by enforcing policy, restricting unauthorized applications and blocking USB devices, notes Gartner. And now CrowdStrike says they're giving security teams \"the ultimate human control over AI agents\" with — an \"AI Kill Switch... a defender can terminate it where it runs, block it from launching again, and cut off its enterprise network access.\" \"When you deploy agents with a kill switch, you stay in control,\" said George Kurtz, CEO and foun",
-      "published": "2026-11-09T00:21:00+00:00"
+      "source": "REDDIT",
+      "title": "Why would we turn off debug logs in production?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrmfwj/why_would_we_turn_off_debug_logs_in_production/",
+      "summary": "If you have an issue in production that you cannot replicate locally, it is easy to understand why you want to have debug logs enabled. You will want to know more information about what is happening. But why would someone turn them off? You have an issue with email OTPs for a few users. You enable higher logging so you can see if the request is getting through to the mail provider and what is being returned. You work it out, deploy a fix and close the ticket. The application is working as expect",
+      "published": "2026-11-09T08:32:03+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PixelOS",
+      "url": "https://pixelos.net/",
+      "summary": "16 points · 7 comments",
+      "published": "2026-11-09T07:31:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "summary": "58 points · 5 comments",
+      "published": "2026-11-09T07:20:37+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+      "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
+      "published": "2026-11-09T07:05:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "summary": "93 points · 57 comments",
+      "published": "2026-11-09T07:04:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+      "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
+      "published": "2026-11-09T06:15:10+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
+      "published": "2026-11-09T06:05:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Need ways to guardrail my agents",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrit5q/need_ways_to_guardrail_my_agents/",
+      "summary": "I’m looking to give my ai more permissions to play around with reading online documents and doing some investing through Robinhood’s mcp connection. What do people use to protect against prompt injection or potential mishaps while it is running? TLDR: Scared of AI going off prompt, looking for solutions submitted by /u/GLStops [link] [comments]",
+      "published": "2026-11-09T04:55:33+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+      "url": "https://github.com/OmniJev/Flide",
+      "summary": "25 points · 4 comments",
+      "published": "2026-11-09T04:43:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "RIP, Harvest",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "summary": "343 points · 101 comments",
+      "published": "2026-11-09T01:58:21+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Unlocking any car from X brand in most of the world",
       "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
-      "summary": "48 points · 19 comments",
+      "summary": "334 points · 128 comments",
       "published": "2026-11-09T00:10:50+00:00"
     },
     {
@@ -51,101 +119,52 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "I'm Not Convinced the AI Bubble Exists",
+      "title": "I'm not convinced the AI bubble exists",
       "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
-      "summary": "7 points · 2 comments",
+      "summary": "265 points · 432 comments",
       "published": "2026-11-08T23:44:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-      "summary": "60 points · 38 comments",
-      "published": "2026-11-08T23:28:01+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Chimera Vocal Synth",
       "url": "https://chimera-vocal-synth.vercel.app/",
-      "summary": "80 points · 14 comments",
+      "summary": "217 points · 29 comments",
       "published": "2026-11-08T22:36:03+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
       "url": "https://ketchup3d.github.io/app/",
-      "summary": "196 points · 48 comments",
+      "summary": "476 points · 132 comments",
       "published": "2026-11-08T22:35:35+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened",
-      "url": "https://hardware.slashdot.org/story/26/11/08/2125219/nvidia-ceo-admits-affair-with-alleged-chinese-spy-investigation-opened?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "CNBC reports new details about the relationship of alleged Chinese spy with Nvidia CEO Jensen Huang: Huang told Nvidia staff in a email on Sunday that he had an affair with the woman and that Nvidia's board of directors had opened an independent investigation into the spying allegations. \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did,\" Huang wrote in the message. \"I am deeply sorry.\" Nvidia's board \"said an independent committee, assisted by",
-      "published": "2026-11-08T21:34:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": "653 points · 697 comments",
+      "published": "2026-11-08T22:20:09+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Ask HN: What are you working on? (November 2026)",
       "url": "https://news.ycombinator.com/item?id=50417407",
-      "summary": "125 points · 459 comments",
+      "summary": "210 points · 694 comments",
       "published": "2026-11-08T21:20:20+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
-      "url": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The New York Times reports: After chatting for months with Google's artificial intelligence on a school-issued Chromebook laptop, a 13-year-old student made plans to end her life, according to a lawsuit filed in California Superior Court on Monday, the latest in a wave of litigation over Big Tech's effects on young people. The lawsuit, which refers to the girl as Emma, said that her parents first learned she had access to Google's AI in mid-March after their daughter's school sent a message warn",
-      "published": "2026-11-08T20:34:00+00:00"
-    },
-    {
       "source": "HACKER NEWS",
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "summary": "74 points · 37 comments",
-      "published": "2026-11-08T19:48:32+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Salon, One of the Web's Pioneering News Outlets, Shuts Down After 31 Years",
-      "url": "https://news.slashdot.org/story/26/11/08/1849210/salon-one-of-the-webs-pioneering-news-outlets-shuts-down-after-31-years?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"It has been an extraordinary privilege,\" says the subheading on Thursday's announcement. After 31 years Salon.com will stop publishing, according to an announcement which appeared on the site under the byline \"Salon\". It remembers that Salon \"was an idea about what journalism could be, born at a moment when the internet was still a largely unexplored frontier.\" When Salon launched in November 1995, the web was a very different place. A small group of journalists set out to create something orig",
-      "published": "2026-11-08T19:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "title": "Outlook.com is rejecting email from domains without DMARC",
       "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "summary": "245 points · 188 comments",
+      "summary": "401 points · 284 comments",
       "published": "2026-11-08T19:20:32+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
       "url": "https://duxlabs.dev/",
-      "summary": "197 points · 61 comments",
+      "summary": "284 points · 92 comments",
       "published": "2026-11-08T19:08:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Playing with the STM32MP2",
-      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-      "summary": "37 points · 24 comments",
-      "published": "2026-11-08T19:04:07+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "url": "https://it.slashdot.org/story/26/11/08/1758242/claude-codes-dont-ask-again-file-exposes-passwords-and-keys-in-1122-public-copies-on-github?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Be careful with the file .claude/settings.local.json, warns The Hacker News: Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said that 1,122 public copies of that file hold at least one sec",
-      "published": "2026-11-08T18:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "summary": "600 points · 358 comments",
-      "published": "2026-11-08T18:16:07+00:00"
     },
     {
       "source": "REDDIT",
@@ -153,20 +172,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xr4z49/could_you_actually_prove_a_human_reviewed_an_ai/",
       "summary": "something ive been chewing on from the audit side. most orgs i talk to have a policy that says human review happens for AI assisted decisions. fine. but if an auditor picked one specific decision from three months ago and said show me the review, who did it, what did they see.. could most places actually produce that? suspect the honest answer is no more often than anyone admits the reviewer part bothers me more tbh. say the review does happen. does that person have time to think, anything to ch",
       "published": "2026-11-08T18:14:27+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Do Data Centers Have a Smaller Effect on Electricity Prices Than We Think?",
-      "url": "https://hardware.slashdot.org/story/26/11/07/0412226/do-data-centers-have-a-smaller-effect-on-electricity-prices-than-we-think?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"According to a new study by researchers at Harvard University and the University of Pennsylvania, data centers are probably having only a small effect on residential electricity prices,\" reports the Washington Post. \"The researchers calculated that these operations were responsible for just 4% of the utility rate increases over the last five years...\" There are certainly some areas — like in Pennsylvania, Virginia, Ohio and other states covered by grid operator PJM — where data centers have sky",
-      "published": "2026-11-08T17:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Norwegians Release FOSS GNOME Software for Music Recording, Internet Radio, and Cameras",
-      "url": "https://entertainment.slashdot.org/story/26/11/08/039242/norwegians-release-foss-gnome-software-for-music-recording-internet-radio-and-cameras?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "ole (Slashdot reader #19,909) writes in about his free, Norwegian open-source music recording studio for GNOME called GarageJam, which he says allows musicians to compose, record, and share original music seamlessly on the Internet. The latest release, GarageJam 8.0.1, is available in C and Python. It records audio immediately to Ogg Vorbis (.ogg) files in the current working directory and lets you edit metadata in .gjxml XML files from a GTK/GNOME wizard — all built on the Gingerblue Recording ",
-      "published": "2026-11-08T16:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -181,13 +186,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
       "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
       "published": "2026-11-08T15:43:08+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Python's CVEs Triple. Anthropic Funds a New Security Developer",
-      "url": "https://developers.slashdot.org/story/26/11/08/0558256/pythons-cves-triple-anthropic-funds-a-new-security-developer?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "In the last year CVEs have increased 3x for Python and its package manager Pip, according to Python's security developer in residence Seth Larson. \"And the amount of malware published and removed from the Python Package Index (PyPI) is up 60%.\" Securing Python's ecosystem is getting more complex, he writes, especially given \"the evolving role of AI in both security risks and security response.\" Their response includes bringing on a new Security Developer \"to address the increasingly demanding sc",
-      "published": "2026-11-08T15:34:00+00:00"
     },
     {
       "source": "REDDIT",
@@ -211,31 +209,10 @@
       "published": "2026-11-08T12:54:55+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Aaron Swartz Would've Been 40 Today. His 'Legacy Lives On' Says FSF",
-      "url": "https://yro.slashdot.org/story/26/11/07/0825245/aaron-swartz-wouldve-been-40-today-his-legacy-lives-on-says-fsf?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"Aaron Swartz would have turned forty this year,\" writes FSF deputy director Sean O'Brien. \"November 8 is Aaron Swartz Day, when we remember a pioneer of free software and information sharing whose contributions helped shape the modern internet.\" The Internet Archive will host a hackathon Sunday in San Francisco celebrating Aaron's Swartz's life \"and the projects he worked on, many of which are still going strong today,\" including SecureDrop, OpenLibrary, and Creative Commons. \"We are also sprea",
-      "published": "2026-11-08T12:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Black Hat Trainings",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xqxds8/black_hat_trainings/",
-      "summary": "Does anyone have experience with Black Hat trainings taking place during their gatherings? I am talking about these 2 or 4 day trainings happening during the event. Is it worth the money and time? submitted by /u/Kindly-Cream9098 [link] [comments]",
-      "published": "2026-11-08T12:32:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "summary": "278 points · 83 comments",
-      "published": "2026-11-08T10:41:52+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
       "url": "https://github.com/synchopate/llama-modchip",
-      "summary": "365 points · 156 comments",
+      "summary": "419 points · 191 comments",
       "published": "2026-11-08T10:22:04+00:00"
     },
     {
@@ -246,27 +223,6 @@
       "published": "2026-11-08T08:44:12+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "NASA Announces It's Looking for New Astronauts",
-      "url": "https://science.slashdot.org/story/26/11/08/0629226/nasa-announces-its-looking-for-new-astronauts?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Saturday NASA officials announced it's accepting applications for a new astronaut class, reports the Associated Press: With only 32 active astronauts, the space agency needs more recruits as it looks to expand humanity's presence beyond low-Earth orbit as quickly as possible... \"We have far more work than we have astronauts,\" Artemis III commander Randy Bresnik told The Associated Press on Saturday. Aspiring astronauts have between now and Dec. 3 to submit their applications... [They'll begin th",
-      "published": "2026-11-08T08:03:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Scifi Magazine 'Starlog' Relaunches, and Back Issues Return to Internet Archive",
-      "url": "https://entertainment.slashdot.org/story/26/11/08/041209/scifi-magazine-starlog-relaunches-and-back-issues-return-to-internet-archive?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Slashdot reader sandbagger brings news about the classic science ficdtion magazine Starlog. It's 33-year run from 1976 to 2009 is now available on the Internet Archive. And 17 years after publishing its final issue, Starlog is relaunching, publishing one issue a year starting November 13, according to The Hollywood Reporter: The magazine launched in 1976 and gained a fanbase for being one of the few places to get reliable news and interviews about geek culture. It launched with a cover focusing ",
-      "published": "2026-11-08T04:03:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "summary": "702 points · 434 comments",
-      "published": "2026-11-08T03:11:48+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "ARTEX GitHub attack",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xqmfsz/artex_github_attack/",
@@ -274,18 +230,11 @@
       "published": "2026-11-08T01:28:41+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "AlpineBSD Announced - an AI-free FOSS OS",
-      "url": "https://bsd.slashdot.org/story/26/11/08/0044219/alpinebsd-announced---an-ai-free-foss-os?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Lproven (Slashdot reader #6,030) shares his article about a new OS in the BSD family \"combining NetBSD's kernel and libc with a port of the Alpine Linux userland\" — and promising it won't use AI-generated code: AlpineBSD is so new that it barely exists yet. There are no installation media available, though it's possible to manually bootstrap an installation. What AlpineBSD does already have is an AI policy, and the plan is to avoid \"the output of generative AI models (e.g. LLMs)\" as far as possi",
-      "published": "2026-11-08T00:46:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xq9okc/hackers_use_nday_exploits_in_zeroclick_attacks_on/",
-      "summary": "Sekoia researchers documented a watering-hole campaign in which compromised legitimate websites and convincing imitation portals delivered device-specific exploit chains. Some attacks could run without additional user interaction after a vulnerable device visited a malicious page. The campaign targeted known vulnerabilities in iOS and Chrome for Android, potentially exposing browser cookies, credentials, messages, and other sensitive information. Researchers attributed the activity to APT29 with",
-      "published": "2026-11-07T15:57:28+00:00"
+      "source": "HACKER NEWS",
+      "title": "Psalm 7 release: PHP security&static analysis software",
+      "url": "https://psalm.dev/articles/psalm-7",
+      "summary": "8 points · 3 comments",
+      "published": "2026-11-07T17:06:18+00:00"
     },
     {
       "source": "OSINT",
@@ -293,13 +242,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
       "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
       "published": "2026-11-07T15:25:35+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
-      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
-      "summary": "20 points · 3 comments",
-      "published": "2026-11-07T14:51:40+00:00"
     },
     {
       "source": "REDDIT",
@@ -314,6 +256,20 @@
       "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
       "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
       "published": "2026-11-07T14:10:19+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "summary": "26 points · 1 comments",
+      "published": "2026-11-07T13:35:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
+      "published": "2026-11-07T06:44:17+00:00"
     },
     {
       "source": "OSINT",
@@ -442,27 +398,6 @@
       "published": "2026-11-06T05:58:54+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-      "url": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-      "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm watchTowr detailed the attack chain on Thursday. One flaw, CVE-2026-116606, is an authorization bypass. An unauthenticated attacker can use it to restore a",
-      "published": "2026-11-06T05:39:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-      "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-      "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1,024 bytes long. OpenSSH, which rates the flaw critical, released version 10.6p2 today to block it. Alpine has published fixed packages for every",
-      "published": "2026-11-05T16:42:46+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-      "url": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as an optional setting to minimize data exfiltration risks arising from prompt injections. \"The flaw could enable silent chat data theft, phishing,",
-      "published": "2026-11-05T16:42:32+00:00"
-    },
-    {
       "source": "CISA",
       "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
       "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
@@ -485,24 +420,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-      "summary": "69 points · 25 comments",
-      "published": "2026-11-04T23:23:08+00:00"
+      "title": "Quasi-Logarithmic Kitchen Timer",
+      "url": "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
+      "summary": "24 points · 3 comments",
+      "published": "2026-11-05T01:15:15+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Declarative Dragging",
       "url": "https://declarative-dragging.github.io/",
-      "summary": "349 points · 42 comments",
+      "summary": "537 points · 66 comments",
       "published": "2026-11-04T17:05:07+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The History of Djgpp (1998)",
-      "url": "https://www.delorie.com/djgpp/history.html",
-      "summary": "45 points · 14 comments",
-      "published": "2026-11-03T16:10:37+00:00"
     },
     {
       "source": "CISA",
@@ -580,6 +508,27 @@
       "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
       "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
       "published": "2026-10-10T00:17:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
+      "published": "2026-10-07T13:48:45+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation",
+      "url": "https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/",
+      "summary": "Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect's arrest, remaining ShinyHunters members dramatically escalated their attacks, stealing highly sensitive data from the FBI and extorting the Russian ransomware group Cl0p.",
+      "published": "2026-09-28T15:08:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions",
+      "url": "https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/",
+      "summary": "A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in restitution to victims.",
+      "published": "2026-09-25T21:44:40+00:00"
     }
   ]
 }
