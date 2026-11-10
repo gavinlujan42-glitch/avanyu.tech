@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-09T19:58:42.255904+00:00",
-  "item_count": 84,
+  "updated": "2026-11-10T02:38:05.195838+00:00",
+  "item_count": 85,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -22,18 +22,137 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Locating the source of a mysterious beep",
+      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+      "summary": "20 points · 8 comments",
+      "published": "2026-11-10T00:10:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Horible public key tricks",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "summary": "38 points · 13 comments",
+      "published": "2026-11-10T00:07:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Took 31 Years to Let You Kill Windows 11's Sticky Keys Popup",
+      "url": "https://build.slashdot.org/story/26/11/09/2224257/microsoft-took-31-years-to-let-you-kill-windows-11s-sticky-keys-popup?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft is testing a Windows 11 option that lets users permanently disable the Sticky Keys and Filter Keys activation prompts directly from the pop-ups themselves, ending a 31-year-old annoyance without requiring a trip into Settings. Windows Latest reports: Sadly, the dialog is still the same aging Win32 window, but we spotted Microsoft's design boss replying under an X post reply about this, saying he is working on modernizing legacy dialogs. The popup might be annoying, but did you know tha",
+      "published": "2026-11-10T00:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "summary": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+      "published": "2026-11-09T23:52:12+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "summary": "179 points · 126 comments",
+      "published": "2026-11-09T23:08:13+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Trump Backs Nvidia CEO Jensen Huang Amid Chinese Spy Affair Investigation",
+      "url": "https://yro.slashdot.org/story/26/11/09/2253208/trump-backs-nvidia-ceo-jensen-huang-amid-chinese-spy-affair-investigation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "President Donald Trump says the FBI is investigating Nvidia CEO Jensen Huang's affair with a woman alleged by U.S. intelligence to have gathered information for Beijing. \"I know the FBI is looking into it in terms of something else, and I think that he'll be in good shape,\" Trump said at a White House briefing. The Associated Press reports: Trump suggested the extraordinary step of directly involving himself in a counterintelligence investigation, a sign of his friendly relationship with Huang a",
+      "published": "2026-11-09T23:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Exact – a new cross platform UI framework",
+      "url": "https://github.com/expo/exact",
+      "summary": "53 points · 24 comments",
+      "published": "2026-11-09T22:59:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Vanderbilt University shuts down devices after cyber attack",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xs63qm/vanderbilt_university_shuts_down_devices_after/",
+      "summary": "submitted by /u/HorsePecker [link] [comments]",
+      "published": "2026-11-09T22:38:38+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "summary": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+      "published": "2026-11-09T22:09:33+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Epic Games Comments On Planned Linux Distribution Support",
+      "url": "https://games.slashdot.org/story/26/11/09/2154207/epic-games-comments-on-planned-linux-distribution-support?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Epic Games says it plans to support its new Linux launcher on as many distributions as possible, specifically naming Fedora, SteamOS, CachyOS and Omarchy. GamingOnLinux's Liam Squires-Hand reports: Speaking to Jake Jones, Communications Director at Epic Games, they said: \"Hey Liam! The new Epic Games Launcher is still in Preview and we plan to support as many Linux distributions as possible, including Fedora, SteamOS, Cachy, Omarchy, and more. We're testing and evaluating packaging formats for d",
+      "published": "2026-11-09T22:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "TPU 8tx and TPU 8i Max",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "summary": "214 points · 63 comments",
+      "published": "2026-11-09T21:56:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "summary": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]",
+      "published": "2026-11-09T21:26:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "York University breach exposed personal information dating to 2007",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+      "published": "2026-11-09T21:22:31+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "France Accuses Iran of Supermarket Fridge Hacking",
+      "url": "https://it.slashdot.org/story/26/11/09/2032202/france-accuses-iran-of-supermarket-fridge-hacking?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "France has accused Iran's Islamic Revolutionary Guard Corps of being behind last month's cyberattacks on fridges and freezers across the country. French Foreign Minister Jean-Noel Barrot said the attack was \"unprecedented in both its scale and its level of aggression,\" adding those who were responsible would be hit with sanctions \"at the European level.\" The BBC reports: The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up, which spoilt fresh a",
+      "published": "2026-11-09T21:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "What makes a security dashboard useful, and which providers are worth looking at?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xs2z3x/what_makes_a_security_dashboard_useful_and_which/",
+      "summary": "I've used enough security dashboards now to realise that having more information doesn't necessarily make things easier. Some of them show absolutely everything. Vulnerabilities, alerts, endpoints, logs, compliance stuff, threat intel, the lot. And somehow I still end up asking, ok, but what do I actually need to deal with today? For people managing security across multiple clients or environments, what do you look for in a security dashboard? Do you prefer having vulnerability management, monit",
+      "published": "2026-11-09T20:36:24+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
+      "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Anthropic has released Claude Mythos 5.2 and Fable 5.2 with \"improvements in areas like coding, reasoning, and vision,\" while cutting Fable's input price and claiming 30% faster responses. TechCrunch reports: It's Anthropic's first model release since the arrival of a third-party report from the assessment group METR, which suggested the lab might be approaching recursive self-improvement (RSI) -- or the ability for AI models to carry on model training independently. The METR report found intern",
+      "published": "2026-11-09T20:20:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "summary": "494 points · 259 comments",
+      "published": "2026-11-09T19:58:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "url": "https://parkgraph.com/parking-app-fees",
+      "summary": "60 points · 36 comments",
+      "published": "2026-11-09T19:55:53+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Searching for Wally/Waldo around the world, using unsecured cameras and AI.",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xs1j8d/searching_for_wallywaldo_around_the_world_using/",
       "summary": "3x GPU's are monitoring 450+ unsecured cameras around the world constantly looking for one person with red-and-white stripes. On the website you can find the results. The server is using the opensource model Qwen3-VL. submitted by /u/driesdep [link] [comments]",
       "published": "2026-11-09T19:41:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "CUI – Native UI components for C",
-      "url": "https://yappologistic.github.io/CUI/",
-      "summary": "9 points · 1 comments",
-      "published": "2026-11-09T19:35:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -44,16 +163,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "summary": "410 points · 171 comments",
-      "published": "2026-11-09T18:56:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "E-means: 10x faster k-means at equal loss",
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "url": "https://e-means.github.io/",
-      "summary": "28 points · 0 comments",
+      "summary": "279 points · 20 comments",
       "published": "2026-11-09T18:45:43+00:00"
     },
     {
@@ -64,32 +176,11 @@
       "published": "2026-11-09T18:45:09+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "url": "https://meowdisplay.app/",
-      "summary": "30 points · 13 comments",
-      "published": "2026-11-09T18:39:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "url": "https://www.eetimes.com/deepx-tapes-out-second-gen-chip-projects-6-7x-performance-gain-with-lpddr5x-pim/",
-      "summary": "45 points · 4 comments",
-      "published": "2026-11-09T18:33:58+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
       "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
       "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
       "published": "2026-11-09T18:32:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Too many men suffering in silence, national health report finds (Canada)",
-      "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
-      "summary": "240 points · 211 comments",
-      "published": "2026-11-09T18:27:58+00:00"
     },
     {
       "source": "REDDIT",
@@ -100,10 +191,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
       "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "summary": "43 points · 13 comments",
+      "summary": "104 points · 62 comments",
       "published": "2026-11-09T18:25:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "summary": "444 points · 102 comments",
+      "published": "2026-11-09T18:24:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "summary": "183 points · 596 comments",
+      "published": "2026-11-09T18:01:10+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -114,17 +219,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "title": "Muse Ember: Our smallest, most efficient model",
       "url": "https://research.meta.ai/blog/muse-ember",
-      "summary": "113 points · 49 comments",
+      "summary": "255 points · 105 comments",
       "published": "2026-11-09T17:58:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "summary": "56 points · 14 comments",
-      "published": "2026-11-09T17:51:31+00:00"
     },
     {
       "source": "OSINT",
@@ -139,13 +237,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
       "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
       "published": "2026-11-09T17:50:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-      "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-      "summary": "166 points · 138 comments",
-      "published": "2026-11-09T17:42:55+00:00"
     },
     {
       "source": "OSINT",
@@ -169,13 +260,6 @@
       "published": "2026-11-09T17:11:16+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Y/N (YC S23) is hiring a growth lead to distribute superhuman A.I. storytelling",
-      "url": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-      "summary": "1 points · 0 comments",
-      "published": "2026-11-09T17:00:06+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Huawei Says It's Made a 100% Chinese PC",
       "url": "https://hardware.slashdot.org/story/26/11/09/056241/huawei-says-its-made-a-100-chinese-pc?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -183,25 +267,11 @@
       "published": "2026-11-09T17:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Show HN: DBDelve – Open-Source DB Client Made with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=50427934",
-      "summary": "62 points · 21 comments",
-      "published": "2026-11-09T16:36:38+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Binance denies data breach after alleged ShinyHunters claims",
       "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
       "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
       "published": "2026-11-09T16:12:39+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Your mail gateway's blocklist check can fail open or fail closed without logging anything. It depends on your DNS resolver",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrvqxx/your_mail_gateways_blocklist_check_can_fail_open/",
-      "summary": "Most mail gateways and spam filters check sender IPs against DNS blocklists (Spamhaus ZEN, SpamCop, Barracuda). The lookup is plain DNS, so it goes through whatever resolver the box is using. That makes it a security control that can switch itself off, or start blocking everything, with nothing in the logs. Spamhaus refuses to answer queries that come through big public resolvers. Ask it about its own test entry, which RFC 5782 says is always listed: dig +short 2.0.0.127.zen.spamhaus.org @8.8.8.",
-      "published": "2026-11-09T16:11:02+00:00"
     },
     {
       "source": "OSINT",
@@ -214,7 +284,7 @@
       "source": "HACKER NEWS",
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "summary": "332 points · 181 comments",
+      "summary": "476 points · 261 comments",
       "published": "2026-11-09T16:00:45+00:00"
     },
     {
@@ -240,9 +310,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "summary": "170 points · 85 comments",
+      "summary": "285 points · 181 comments",
       "published": "2026-11-09T14:31:39+00:00"
     },
     {
@@ -289,9 +359,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Fold Epic Paper Airplanes",
+      "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://www.foldableflight.com",
-      "summary": "664 points · 120 comments",
+      "summary": "861 points · 140 comments",
       "published": "2026-11-09T12:19:22+00:00"
     },
     {
@@ -309,11 +379,11 @@
       "published": "2026-11-09T12:04:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "What is malloc doing, anyway?",
-      "url": "https://benmandrew.com/articles/what-is-malloc-doing-anyway",
-      "summary": "176 points · 38 comments",
-      "published": "2026-11-09T11:31:05+00:00"
+      "source": "CISA",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability CVE-2026-123218 IBM Aspera Faspex Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cy",
+      "published": "2026-11-09T12:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -354,7 +424,7 @@
       "source": "SLASHDOT",
       "title": "Surprise for Cast of 'Return of the Living Dead' Sequel. They Were Replaced by AI",
       "url": "https://entertainment.slashdot.org/story/26/11/09/0625231/surprise-for-cast-of-return-of-the-living-dead-sequel-they-were-replaced-by-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A crowdfunded sequel to the movie Return of the Living Dead was uploaded last weekend — but producer Richard Driscoll is drawing criticism for what he did to the 1985 punk/zombie classic. Kotaku reports: [The release of the movie] came to the surprise to the original cast, who were attached to star in the follow-up. Instead it seems Driscoll opted to use AI to generate the film... In 2024, Driscoll, who operates his own no-budget streaming service \"DragonFLIX,\" launched an Indiegogo page for \"TR",
+      "summary": "A crowdfunded sequel to the movie Return of the Living Dead was uploaded last weekend — but producer Richard Driscoll is drawing criticism for what he did to the 1985 punk/zombie classic. Kotaku reports: [The release of the movie came as a] surprise to the original cast, who were attached to star in the follow-up. Instead it seems Driscoll opted to use AI to generate the film... In 2024, Driscoll, who operates his own no-budget streaming service \"DragonFLIX,\" launched an Indiegogo page for \"TRAS",
       "published": "2026-11-09T08:34:00+00:00"
     },
     {
@@ -363,13 +433,6 @@
       "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
       "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
       "published": "2026-11-09T07:05:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "summary": "538 points · 385 comments",
-      "published": "2026-11-09T07:04:25+00:00"
     },
     {
       "source": "OSINT",
@@ -393,20 +456,6 @@
       "published": "2026-11-09T05:35:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Electric Cars Are Close to Overtaking Petrol In the UK, Data Shows",
-      "url": "https://hardware.slashdot.org/story/26/11/09/0226229/electric-cars-are-close-to-overtaking-petrol-in-the-uk-data-shows?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "69 million people people live in the United Kingdom. And now >Electrek reports: Battery-electric cars took 32% of the UK's new car market in October, while petrol cars fell to just 37.2%, according to new data from the SMMT. That's the closest the two have been. At the current pace, electric cars will outsell petrol in the UK within a year. And it could happen as soon as this December. The UK registered 152,730 new cars in October, up 5.4% year-over-year and the 11th straight month of growth for",
-      "published": "2026-11-09T02:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Can CrowdStrike's New 'AI Kill Switch' Shut Down Rogue AI Agents?",
-      "url": "https://it.slashdot.org/story/26/11/09/0020217/can-crowdstrikes-new-ai-kill-switch-shut-down-rogue-ai-agents?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "CrowdStrike's \"Falcon Guardian\" protects Windows systems by enforcing policy, restricting unauthorized applications and blocking USB devices, notes Gartner. And now CrowdStrike says they're giving security teams \"the ultimate human control over AI agents\" with — an \"AI Kill Switch... a defender can terminate it where it runs, block it from launching again, and cut off its enterprise network access.\" \"When you deploy agents with a kill switch, you stay in control,\" said George Kurtz, CEO and foun",
-      "published": "2026-11-09T00:21:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xrd080/mentorship_monday_post_all_career_education_and/",
@@ -414,53 +463,11 @@
       "published": "2026-11-09T00:00:27+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Nvidia CEO Admits Affair With Alleged Chinese Spy. Investigation Opened",
-      "url": "https://hardware.slashdot.org/story/26/11/08/2125219/nvidia-ceo-admits-affair-with-alleged-chinese-spy-investigation-opened?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "CNBC reports new details about the relationship of alleged Chinese spy with Nvidia CEO Jensen Huang: Huang told Nvidia staff in a email on Sunday that he had an affair with the woman and that Nvidia's board of directors had opened an independent investigation into the spying allegations. \"I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did,\" Huang wrote in the message. \"I am deeply sorry.\" Nvidia's board \"said an independent committee, assisted by",
-      "published": "2026-11-08T21:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Parents Sue Google Over AI Safety Risks On School Chromebooks",
-      "url": "https://tech.slashdot.org/story/26/11/08/1936228/parents-sue-google-over-ai-safety-risks-on-school-chromebooks?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The New York Times reports: After chatting for months with Google's artificial intelligence on a school-issued Chromebook laptop, a 13-year-old student made plans to end her life, according to a lawsuit filed in California Superior Court on Monday, the latest in a wave of litigation over Big Tech's effects on young people. The lawsuit, which refers to the girl as Emma, said that her parents first learned she had access to Google's AI in mid-March after their daughter's school sent a message warn",
-      "published": "2026-11-08T20:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Salon, One of the Web's Pioneering News Outlets, Shuts Down After 31 Years",
-      "url": "https://news.slashdot.org/story/26/11/08/1849210/salon-one-of-the-webs-pioneering-news-outlets-shuts-down-after-31-years?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"It has been an extraordinary privilege,\" says the subheading on Thursday's announcement. After 31 years Salon.com will stop publishing, according to an announcement which appeared on the site under the byline \"Salon\". It remembers that Salon \"was an idea about what journalism could be, born at a moment when the internet was still a largely unexplored frontier.\" When Salon launched in November 1995, the web was a very different place. A small group of journalists set out to create something orig",
-      "published": "2026-11-08T19:34:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-      "url": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-      "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...]",
-      "published": "2026-11-08T15:43:08+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "I just woke up to someone remote controlling my desktop",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xqxs69/i_just_woke_up_to_someone_remote_controlling_my/",
-      "summary": "I’m so unbelievably stunned that this just happened. Around 5:15AM I went to put my pc back to sleep because I assumed my cat stepped on my keyboard and woke it up. I was fidgeting with my mouse because it wouldn’t work and then realized that someone was controlling my desktop. The only thing I actually witnessed them do was go into my google profile/settings and copy my phone number, then I think they noticed I was trying to click and spam my keyboard so they left. I went to my search history a",
-      "published": "2026-11-08T12:54:55+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers pull off $133 million French bank heist via service provider",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-      "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-      "published": "2026-11-07T15:25:35+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-      "url": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-      "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate revenue without delivering the promised rewards. [...]",
-      "published": "2026-11-07T14:10:19+00:00"
+      "source": "HACKER NEWS",
+      "title": "Never Gonna Print You Up",
+      "url": "https://dixken.de/blog/never-gonna-print-you-up",
+      "summary": "13 points · 0 comments",
+      "published": "2026-11-08T07:15:32+00:00"
     },
     {
       "source": "OSINT",
@@ -468,13 +475,6 @@
       "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
       "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
       "published": "2026-11-07T06:44:17+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
-      "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
-      "published": "2026-11-07T00:00:55+00:00"
     },
     {
       "source": "CISA",
@@ -487,21 +487,28 @@
       "source": "HACKER NEWS",
       "title": "A primer on GPUs and kernel optimization",
       "url": "https://www.nabo.dev/blogs/kernel-primer",
-      "summary": "19 points · 0 comments",
+      "summary": "96 points · 11 comments",
       "published": "2026-11-05T23:48:04+00:00"
     },
     {
-      "source": "CISA",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation",
-      "published": "2026-11-05T12:00:00+00:00"
+      "source": "HACKER NEWS",
+      "title": "An Aggregate Is a Function, Not a Sum",
+      "url": "https://alnovis.io/blog/aggregate-is-a-function",
+      "summary": "6 points · 0 comments",
+      "published": "2026-11-05T19:01:11+00:00"
     },
     {
       "source": "CISA",
       "title": "Post-Quantum Questions to Ask Your Vendors",
       "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
       "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizat",
+      "published": "2026-11-05T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation",
       "published": "2026-11-05T12:00:00+00:00"
     },
     {
@@ -534,9 +541,9 @@
     },
     {
       "source": "CISA",
-      "title": "Hitachi Energy CoreTec Product",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
-      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/ CoreTec4 ve",
+      "title": "Hitachi Energy TRO600 series products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
+      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to the Recommended Immediate Actions section for information about the mitigation/remediation. The following versions of Hitachi Energy TRO600 series products are affected: TRO600 vers:TRO600/ CVSS Vendor",
       "published": "2026-10-29T12:00:00+00:00"
     },
     {
@@ -548,9 +555,9 @@
     },
     {
       "source": "CISA",
-      "title": "Hitachi Energy TRO600 series products",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02",
-      "summary": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further attacks and disclosure of sensitive information. Please refer to the Recommended Immediate Actions section for information about the mitigation/remediation. The following versions of Hitachi Energy TRO600 series products are affected: TRO600 vers:TRO600/ CVSS Vendor",
+      "title": "Hitachi Energy CoreTec Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03",
+      "summary": "View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy CoreTec Product are affected: CoreTec5 vers:CoreTec5/ CoreTec4 ve",
       "published": "2026-10-29T12:00:00+00:00"
     },
     {
@@ -573,13 +580,6 @@
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
       "published": "2026-10-14T14:22:49+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Patches More Than 1,400 Security Flaws",
-      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
-      "published": "2026-10-13T23:24:53+00:00"
     }
   ]
 }
