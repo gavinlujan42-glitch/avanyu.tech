@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-10T02:38:05.195838+00:00",
-  "item_count": 85,
+  "updated": "2026-11-10T10:56:23.469293+00:00",
+  "item_count": 84,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -23,16 +23,198 @@
   "items": [
     {
       "source": "HACKER NEWS",
+      "title": "Meet the Sad Wives of AI",
+      "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
+      "summary": "14 points · 1 comments",
+      "published": "2026-11-10T10:40:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+      "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+      "published": "2026-11-10T10:10:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+      "url": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+      "summary": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+      "published": "2026-11-10T10:04:32+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+      "url": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+      "summary": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score. Three are in the SAP NetWeaver application server, the software SAP systems run on, and one is in the Web Dispatcher, which receives web requests from the internet and passes them on to that server. The flaws in the Web",
+      "published": "2026-11-10T10:02:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+      "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+      "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires. The unit",
+      "published": "2026-11-10T09:08:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Queens Public library under ransomware attack e-borrowing suspended",
+      "url": "https://connect.queenslibrary.org/",
+      "summary": "32 points · 11 comments",
+      "published": "2026-11-10T09:04:39+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "summary": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+      "published": "2026-11-10T08:51:25+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Are all CTFs just AI slop now?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xshhbr/are_all_ctfs_just_ai_slop_now/",
+      "summary": "Last CTF I did a year ago was by SANS where the winner was in the cafeteria tearing down the buffet while his 6 AI agents won the entire thing for him. Now I am going to another CTF that is more of a regional-scope and I don't even know how it works anymore since I haven't really gone deep with AI Agents in my work especially not in CTF activities. So is it all AFK AI slop or could there be more to them? submitted by /u/Every-Earth-1193 [link] [comments]",
+      "published": "2026-11-10T08:17:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+      "url": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+      "summary": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision. During pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-infeasible software migrations, designed three working electronic devices from scratch, solved two open problems in the physics of black holes, made",
+      "published": "2026-11-10T08:16:14+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "summary": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
+      "published": "2026-11-10T07:49:58+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsgwwh/nable_takes_ncentral_cloud_offline_after/",
+      "summary": "submitted by /u/nerdicd3v [link] [comments]",
+      "published": "2026-11-10T07:40:36+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fireworks AI security breach impacts Notion and their customers",
+      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+      "summary": "47 points · 13 comments",
+      "published": "2026-11-10T07:19:38+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How are you triaging an AI-sized vulnerability backlog?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsgfpx/how_are_you_triaging_an_aisized_vulnerability/",
+      "summary": "Our org ran an AI code scan across every repo in September and my team of three now owns a little over 4k findings that we’ve been told to close by the end of December. Leadership saw that BOA brought in 1,000 contractors last month and their first idea was a smaller version of that. Last week I grabbed 100 at random and spent an afternoon going through them with one of our seniors. I think we agreed on about 20 that really need fixing soon. A lot of the others were just old library versions. My",
+      "published": "2026-11-10T07:10:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Boston Dynamics Adds Wheels to Atlas Humanoid",
+      "url": "https://hardware.slashdot.org/story/26/11/09/2317206/boston-dynamics-adds-wheels-to-atlas-humanoid?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Boston Dynamics has equipped its Atlas humanoid with wheels, allowing the robot to rapidly roll across flat terrain while still using its articulated legs to navigate obstacles and uneven surfaces. \"The 'experiment' combined classical model-based motor control with whole-body reinforcement learning to maintain dynamic stability across unstructured, real-world terrain,\" reports The Robot Report. From the report: In addition to learning how to move with wheels for feet, Atlas also performs pirouet",
+      "published": "2026-11-10T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "url": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+      "summary": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been described as a use-after-free bug in the XML component. Use-after-free bugs typically occur when a program attempts to access a memory location after",
+      "published": "2026-11-10T06:52:54+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability",
+      "published": "2026-11-10T06:31:42+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ClickHouse Acquires Xata",
+      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
+      "summary": "36 points · 6 comments",
+      "published": "2026-11-10T06:14:51+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "summary": "311 points · 108 comments",
+      "published": "2026-11-10T06:01:08+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Career path ideas",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsf0kl/career_path_ideas/",
+      "summary": "Looking for advice on which roles to look for I have my AS in computer science, BS in cybersecurity next month, A+, Network+, Security+, CySA+, soon to be pentest+, 2.5 years of help desk experience but damn it seems impossible to get a SOC job Of course I’ll love a cybersecurity role but it doesn’t seem so entry level Which roles do you think I should apply for or what path would you have taken if you’re in a cyber/security role ATP where I have the knowledge so thought about tweaking my job ti",
+      "published": "2026-11-10T05:45:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Your TV can see through walls",
+      "url": "https://maurycyz.com/projects/fading/",
+      "summary": "129 points · 49 comments",
+      "published": "2026-11-10T05:24:45+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How have tattoos and facial piercings affected your career?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsecik/how_have_tattoos_and_facial_piercings_affected/",
+      "summary": "submitted by /u/Crazy_Calendar_8366 [link] [comments]",
+      "published": "2026-11-10T05:07:29+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ultorg: The User Interface for Relational Databases",
+      "url": "https://www.ultorg.com/",
+      "summary": "75 points · 22 comments",
+      "published": "2026-11-10T03:59:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Is it worth it to join the military as a SIGINT for Top Secret clearance to further my career in cybersecurity?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xscpa3/is_it_worth_it_to_join_the_military_as_a_sigint/",
+      "summary": "Hello, so i am newly transitioned into the tech field, and I dont have much experience in Cybersecurity, but I was able to get my CySA+ certificate through hard work and studying. I have been applying to hundreds of cyber jobs, but I have been rejected from most if not all since I do not have ANY experience working as a SOC analyst or as a Cybersecurity analyst. After 6 months of rejections, I am thinking of maybe joining the army national guard to get top secret clearance and hopefully further ",
+      "published": "2026-11-10T03:39:57+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "FDA Warns GLP-1s May Increase Risk of Sudden Blindness",
+      "url": "https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from NBC News: The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness. The condition, called nonarteritic anterior ischemic optic neuropathy, or NAION, affects the optic nerve, which carries signals from the eye to the brain. When blood flow to the nerve is reduced or blocked, it can cause sudden vision loss. The condition is permanent with no known treatment. The F",
+      "published": "2026-11-10T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Formalizing CPython",
+      "url": "https://broyojo.com/python-formalization/",
+      "summary": "79 points · 31 comments",
+      "published": "2026-11-10T01:56:48+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsa0os/anthropics_super_bugfinding_mythos_model_is_going/",
+      "summary": "Does this not create an increased risk for threat actors to gain access to Mythos? I'm confused as to how this is a good idea with \"end users\" (not specified if it's developers or public) gaining access to this? submitted by /u/thanguan [link] [comments]",
+      "published": "2026-11-10T01:29:08+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Locating the source of a mysterious beep",
       "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "summary": "20 points · 8 comments",
+      "summary": "207 points · 92 comments",
       "published": "2026-11-10T00:10:46+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Horible public key tricks",
       "url": "https://maurycyz.com/projects/badcert/",
-      "summary": "38 points · 13 comments",
+      "summary": "173 points · 54 comments",
       "published": "2026-11-10T00:07:17+00:00"
     },
     {
@@ -50,25 +232,11 @@
       "published": "2026-11-09T23:52:12+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "summary": "179 points · 126 comments",
-      "published": "2026-11-09T23:08:13+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Trump Backs Nvidia CEO Jensen Huang Amid Chinese Spy Affair Investigation",
       "url": "https://yro.slashdot.org/story/26/11/09/2253208/trump-backs-nvidia-ceo-jensen-huang-amid-chinese-spy-affair-investigation?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "President Donald Trump says the FBI is investigating Nvidia CEO Jensen Huang's affair with a woman alleged by U.S. intelligence to have gathered information for Beijing. \"I know the FBI is looking into it in terms of something else, and I think that he'll be in good shape,\" Trump said at a White House briefing. The Associated Press reports: Trump suggested the extraordinary step of directly involving himself in a counterintelligence investigation, a sign of his friendly relationship with Huang a",
       "published": "2026-11-09T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Exact – a new cross platform UI framework",
-      "url": "https://github.com/expo/exact",
-      "summary": "53 points · 24 comments",
-      "published": "2026-11-09T22:59:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -92,13 +260,6 @@
       "published": "2026-11-09T22:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "TPU 8tx and TPU 8i Max",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "summary": "214 points · 63 comments",
-      "published": "2026-11-09T21:56:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
@@ -120,13 +281,6 @@
       "published": "2026-11-09T21:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "What makes a security dashboard useful, and which providers are worth looking at?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xs2z3x/what_makes_a_security_dashboard_useful_and_which/",
-      "summary": "I've used enough security dashboards now to realise that having more information doesn't necessarily make things easier. Some of them show absolutely everything. Vulnerabilities, alerts, endpoints, logs, compliance stuff, threat intel, the lot. And somehow I still end up asking, ok, but what do I actually need to deal with today? For people managing security across multiple clients or environments, what do you look for in a security dashboard? Do you prefer having vulnerability management, monit",
-      "published": "2026-11-09T20:36:24+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Anthropic Launches New Claude Fable and Mythos 5.2 Models",
       "url": "https://slashdot.org/story/26/11/09/2018231/anthropic-launches-new-claude-fable-and-mythos-52-models?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -137,22 +291,8 @@
       "source": "HACKER NEWS",
       "title": "USPS now offers official ZIP Code boundary polygons",
       "url": "https://postalpro.usps.com/zcb",
-      "summary": "494 points · 259 comments",
+      "summary": "624 points · 319 comments",
       "published": "2026-11-09T19:58:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-      "url": "https://parkgraph.com/parking-app-fees",
-      "summary": "60 points · 36 comments",
-      "published": "2026-11-09T19:55:53+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Searching for Wally/Waldo around the world, using unsecured cameras and AI.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xs1j8d/searching_for_wallywaldo_around_the_world_using/",
-      "summary": "3x GPU's are monitoring 450+ unsecured cameras around the world constantly looking for one person with red-and-white stripes. On the website you can find the results. The server is using the opensource model Qwen3-VL. submitted by /u/driesdep [link] [comments]",
-      "published": "2026-11-09T19:41:56+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -165,15 +305,8 @@
       "source": "HACKER NEWS",
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
       "url": "https://e-means.github.io/",
-      "summary": "279 points · 20 comments",
+      "summary": "406 points · 42 comments",
       "published": "2026-11-09T18:45:43+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "74 of 1051 extensions we flagged as malicious are still up",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrzz57/74_of_1051_extensions_we_flagged_as_malicious_are/",
-      "summary": "We report malicious VS Code extensions to Open VSX and the VS Code Marketplace when we find them. This week I ran our blocklist back against the registry: 1,051 IDs flagged 977 no longer resolve 74 still download 31 of those have 10k+ downloads The 74 needs a caveat - our list is wider than our reports since anything published was read by hand. With this, the rest of our output uses an LLM reviewer which marks capability as well as intent. Review at install time can't catch a compromised publish",
-      "published": "2026-11-09T18:45:09+00:00"
     },
     {
       "source": "OSINT",
@@ -191,23 +324,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The first 300-millimeter power silicon carbide (SiC) wafer",
-      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "summary": "104 points · 62 comments",
-      "published": "2026-11-09T18:25:01+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "summary": "444 points · 102 comments",
-      "published": "2026-11-09T18:24:38+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "summary": "183 points · 596 comments",
+      "summary": "625 points · 823 comments",
       "published": "2026-11-09T18:01:10+00:00"
     },
     {
@@ -216,13 +335,6 @@
       "url": "https://tech.slashdot.org/story/26/11/09/1721229/google-unveils-two-new-specialized-ai-chips-to-widen-its-challenge-to-nvidia?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Google is expanding its AI chip lineup with two specialized TPUs arriving next year: the TPU 8tx, which encrypts sensitive data at the chip level for confidential computing, and the TPU 8i Max, which combines two TPU chips to provide more processing power and memory for long-context workloads. The move broadens Google's challenge to Nvidia as demand outstrips supply, with Google saying every TPU it currently has is already committed to customers. Quartz reports: The 8tx is designed for sensitive",
       "published": "2026-11-09T18:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "summary": "255 points · 105 comments",
-      "published": "2026-11-09T17:58:46+00:00"
     },
     {
       "source": "OSINT",
@@ -244,13 +356,6 @@
       "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
       "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
       "published": "2026-11-09T17:36:28+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Any tips on getting back into the workforce after a year long career break?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xry23a/any_tips_on_getting_back_into_the_workforce_after/",
-      "summary": "submitted by /u/RareReporter9106 [link] [comments]",
-      "published": "2026-11-09T17:35:11+00:00"
     },
     {
       "source": "REDDIT",
@@ -284,7 +389,7 @@
       "source": "HACKER NEWS",
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
       "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "summary": "476 points · 261 comments",
+      "summary": "532 points · 289 comments",
       "published": "2026-11-09T16:00:45+00:00"
     },
     {
@@ -295,24 +400,10 @@
       "published": "2026-11-09T16:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-      "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]",
-      "published": "2026-11-09T15:05:15+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
-      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
-      "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
-      "published": "2026-11-09T14:34:03+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
       "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "summary": "285 points · 181 comments",
+      "summary": "317 points · 215 comments",
       "published": "2026-11-09T14:31:39+00:00"
     },
     {
@@ -321,27 +412,6 @@
       "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
       "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
       "published": "2026-11-09T14:31:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Remus Stealer Markets Persistent Gmail Access: Hudson Rock Investigates",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrs1yc/remus_stealer_markets_persistent_gmail_access/",
-      "summary": "Hudson Rock questioned the Remus developer and a person who vouched for its new mailbox feature. Their accounts suggest access established through an infected device. The stronger claim, that newly arriving mail remains readable after account recovery, is still unverified. submitted by /u/Malwarebeasts [link] [comments]",
-      "published": "2026-11-09T13:46:25+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Career question on offensive security and CTI",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrrq1c/career_question_on_offensive_security_and_cti/",
-      "summary": "Hi all, I would like to have some opinion from people working in these fields. I’m 23 and I am currently working as Junior Pentester (~3 month) with a previous 5month internship in a CTI role. I enjoy the offensive work but my original goal was CTI, ideally in government or defence. I’m unsure which path to commit to. A few questions: For those in CTI, what does a typical day actually look like? Is it as investigative as it sounds? Does 1–2 years of offensive experience help when moving into CTI",
-      "published": "2026-11-09T13:31:36+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
-      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
-      "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
-      "published": "2026-11-09T13:28:56+00:00"
     },
     {
       "source": "OSINT",
@@ -361,15 +431,8 @@
       "source": "HACKER NEWS",
       "title": "Foldable Flight: The Best Paper Airplanes",
       "url": "https://www.foldableflight.com",
-      "summary": "861 points · 140 comments",
+      "summary": "1042 points · 151 comments",
       "published": "2026-11-09T12:19:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Ukraine dismantles crypto scam network that stole €4.3 million",
-      "url": "https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/",
-      "summary": "Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]",
-      "published": "2026-11-09T12:16:13+00:00"
     },
     {
       "source": "REDDIT",
@@ -400,62 +463,6 @@
       "published": "2026-11-09T10:56:25+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-      "url": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-      "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be careful until they are out. One operator said new accounts used an exploit to withdraw 2,285,545 satoshis, about 0.023 bitcoin, from his server before he could",
-      "published": "2026-11-09T10:01:21+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "AppSec",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrnlcb/appsec/",
-      "summary": "Do you guys think AppSec is gonna be more important because of lots of Vibe coded code, or is AI gonna be that good so AppSec is not relevant anymore? submitted by /u/Double-Trade-9240 [link] [comments]",
-      "published": "2026-11-09T09:47:05+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-      "url": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-      "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient data from 2018, including ECG readings and ambulance video footage, without a login. The researchers are highly confident that the attacker is a single person",
-      "published": "2026-11-09T09:01:50+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Surprise for Cast of 'Return of the Living Dead' Sequel. They Were Replaced by AI",
-      "url": "https://entertainment.slashdot.org/story/26/11/09/0625231/surprise-for-cast-of-return-of-the-living-dead-sequel-they-were-replaced-by-ai?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A crowdfunded sequel to the movie Return of the Living Dead was uploaded last weekend — but producer Richard Driscoll is drawing criticism for what he did to the 1985 punk/zombie classic. Kotaku reports: [The release of the movie came as a] surprise to the original cast, who were attached to star in the follow-up. Instead it seems Driscoll opted to use AI to generate the film... In 2024, Driscoll, who operates his own no-budget streaming service \"DragonFLIX,\" launched an Indiegogo page for \"TRAS",
-      "published": "2026-11-09T08:34:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-      "url": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-      "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made an appearance in San Francisco federal court on Friday, where he entered the plea. His next hearing is scheduled for November 17, 2026. If proven guilty, the",
-      "published": "2026-11-09T07:05:48+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-      "url": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-      "summary": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory. \"The actors may exploit vulnerabilities or weaknesses in unpatched or internet-accessible controllers to remotely alter settings and force units into continuous heating",
-      "published": "2026-11-09T06:15:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-      "url": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-world attacks. The vulnerability, tracked as CVE-2026-19868 (CVSS score: 7.1 / 7.5), has been described as an authentication reinforcement",
-      "published": "2026-11-09T06:05:24+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Asahi Linux Drops MIT and Goes Full GPL After Spotting LLM-Assisted License Laundering",
-      "url": "https://news.slashdot.org/story/26/11/09/0440238/asahi-linux-drops-mit-and-goes-full-gpl-after-spotting-llm-assisted-license-laundering?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "It's FOSS reports: Asahi Linux is the reason you can run Linux on an Apple Silicon Mac today. For years, the project put most of its own code under the MIT license so that anyone, including the BSDs, could reuse it as needed... They have announced that Asahi is moving all of its repositories to the GNU General Public License version 2 or later. Going forward, all Asahi Linux code will be under strong copyleft licenses only. Asahi Linux compares their dilemma to the 1990s, when \"permissively lice",
-      "published": "2026-11-09T05:35:00+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xrd080/mentorship_monday_post_all_career_education_and/",
@@ -464,17 +471,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Never Gonna Print You Up",
-      "url": "https://dixken.de/blog/never-gonna-print-you-up",
-      "summary": "13 points · 0 comments",
-      "published": "2026-11-08T07:15:32+00:00"
+      "title": "Billion Watts in the Speaker [video]",
+      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
+      "summary": "9 points · 5 comments",
+      "published": "2026-11-07T21:45:50+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-      "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-      "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word, including the secret, in a project settings file. Software security company Apiiro said yesterday that 1,122 public",
-      "published": "2026-11-07T06:44:17+00:00"
+      "source": "HACKER NEWS",
+      "title": "How hard is it to check for whitespace?",
+      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+      "summary": "33 points · 4 comments",
+      "published": "2026-11-06T14:31:22+00:00"
     },
     {
       "source": "CISA",
@@ -482,20 +489,6 @@
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
       "published": "2026-11-06T12:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "A primer on GPUs and kernel optimization",
-      "url": "https://www.nabo.dev/blogs/kernel-primer",
-      "summary": "96 points · 11 comments",
-      "published": "2026-11-05T23:48:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "An Aggregate Is a Function, Not a Sum",
-      "url": "https://alnovis.io/blog/aggregate-is-a-function",
-      "summary": "6 points · 0 comments",
-      "published": "2026-11-05T19:01:11+00:00"
     },
     {
       "source": "CISA",
@@ -580,6 +573,13 @@
       "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
       "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
       "published": "2026-10-14T14:22:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "published": "2026-10-13T23:24:53+00:00"
     }
   ]
 }
