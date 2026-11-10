@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T10:56:23.469293+00:00",
+  "updated": "2026-11-10T18:33:39.709358+00:00",
   "item_count": 84,
   "sources": [
     "CISA",
@@ -22,11 +22,235 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+      "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
+      "published": "2026-11-10T18:33:26+00:00"
+    },
+    {
       "source": "HACKER NEWS",
-      "title": "Meet the Sad Wives of AI",
-      "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai/",
-      "summary": "14 points · 1 comments",
-      "published": "2026-11-10T10:40:51+00:00"
+      "title": "Work at the Frontier: AI's effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "summary": "9 points · 3 comments",
+      "published": "2026-11-10T18:02:54+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "summary": "12 points · 0 comments",
+      "published": "2026-11-10T18:02:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "summary": "13 points · 2 comments",
+      "published": "2026-11-10T18:01:15+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Blender 5.3 Released With Nvidia DLSS 4.5 Ray Reconstruction, Vulkan Default",
+      "url": "https://tech.slashdot.org/story/26/11/10/178254/blender-53-released-with-nvidia-dlss-45-ray-reconstruction-vulkan-default?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Blender 5.3 has been released with support for 3D Gaussian Splats, Nvidia DLSS 4.5 Ray Reconstruction and Vulkan as the default graphics backend on Linux. Phoronix reports: Blender now allows importing Gaussian Splats from PLY, SPZ, and glTF files. Also new to Blender 5.3 is NVIDIA DLSS 4.5 Ray Reconstruction support as a new denoiser. Blender 5.3 also brings support for NVIDIA RTX Spark devices. For the Cycles code in Blender 5.3 the Principled BSDF for shader nodes now supports dispersion. Ano",
+      "published": "2026-11-10T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "summary": "53 points · 8 comments",
+      "published": "2026-11-10T17:31:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "summary": "51 points · 14 comments",
+      "published": "2026-11-10T17:02:32+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Reddit Is Turning User Conversations Into AI-Powered Product Reviews",
+      "url": "https://tech.slashdot.org/story/26/11/10/1654224/reddit-is-turning-user-conversations-into-ai-powered-product-reviews?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Reddit is rolling out an AI-powered shopping feature called \"Reddit Reviews\" that summarizes user conversations about products and turns them into dedicated reviews. TechCrunch reports: Reddit's announcement points to its rules and its latest measures to combat automated abuse and spam, as well as its practice involving community moderators, as tools it will use to keep the reviews on the site legit. The Reddit Reviews feature itself taps into AI to organize the conversations people are having w",
+      "published": "2026-11-10T17:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "summary": "294 points · 52 comments",
+      "published": "2026-11-10T16:37:44+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "i went through the manifests of ~290k chrome extensions. 28.7% can read and change data on every website",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsrejn/i_went_through_the_manifests_of_290k_chrome/",
+      "summary": "been tracking the chrome web store for a side project and parsed the manifest of every live extension i could get, about 291k of them (themes and apps left out). 83,709 of them (28.7%) request access to read and change your data on every website. 18,106 have that plus some other sensitive permission on top, and between them they have at least 1.3 billion users. 15,374 ask for the cookies permission. to be fair a lot of this is legit. ad blockers, password managers and vpns cant do their job with",
+      "published": "2026-11-10T16:29:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+      "summary": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+      "published": "2026-11-10T16:17:16+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "url": "https://www.blender.org/download/releases/5-3/",
+      "summary": "257 points · 34 comments",
+      "published": "2026-11-10T16:15:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+      "url": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in October 2026, involves the exploitation of a chain comprising CVE-2026-105133 and CVE-2026-105134 to bypass authentication and execute arbitrary commands on affected systems. Patches for the two",
+      "published": "2026-11-10T16:00:55+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Europe Must Rethink Security As Big Tech Power Grows, EU Says",
+      "url": "https://it.slashdot.org/story/26/11/09/2329214/europe-must-rethink-security-as-big-tech-power-grows-eu-says?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Reuters: The European Union must rethink security to take into account challenges and risks posed by the growing power of major technology companies that go beyond traditional competition concerns, European Commission Executive Vice-President Teresa Ribera said on Monday. \"We need to review and to deepen our concept of security, including cybersecurity,\" Ribera told reporters in Lisbon, arguing that testing and monitoring devices connected to critical inf",
+      "published": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "summary": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+      "published": "2026-11-10T15:59:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+      "url": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+      "summary": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT and DCRat. \"The campaign uses Portuguese and Spanish lures that resemble court notifications, fiscalía notices, tutela proceedings, and",
+      "published": "2026-11-10T15:58:44+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+      "url": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+      "summary": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for a \"limited set of accounts.\" In a notice published on October 10, 2026, the company said it detected unauthorized use of internal Fireworks",
+      "published": "2026-11-10T15:33:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "summary": "187 points · 90 comments",
+      "published": "2026-11-10T15:25:20+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "summary": "71 points · 24 comments",
+      "published": "2026-11-10T15:12:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Ransomware recovery is now a client retention metric",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "summary": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]",
+      "published": "2026-11-10T15:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Hardest Tarball?",
+      "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+      "summary": "120 points · 13 comments",
+      "published": "2026-11-10T15:00:39+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "A New AI Tool From Google DeepMind Proved the Signal Protocol Is Secure",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsnsj0/a_new_ai_tool_from_google_deepmind_proved_the/",
+      "summary": "Additional Reading : Deepmind.google : Introducing AlphaProof Code: a breakthrough in verifying complex software at depth submitted by /u/TylerFortier_Photo [link] [comments]",
+      "published": "2026-11-10T14:07:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "summary": "176 points · 211 comments",
+      "published": "2026-11-10T12:58:04+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Are immutable backups enough or is recovery testing still the bigger challenge?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsliwy/are_immutable_backups_enough_or_is_recovery/",
+      "summary": "Been thinking about how much attention goes into making backups immutable but less about whether they can actually be recovered when something goes wrong. How often are you testing actual restores? Do you keep backup environments isolated from production credentials? Also, What’s been the bigger challenge in practice: protecting the backups themselves or making sure recovery actually works? submitted by /u/NoVast9348 [link] [comments]",
+      "published": "2026-11-10T12:22:35+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What's new in the .NET 11 runtime",
+      "url": "https://learn.microsoft.com/en-us/dotnet/core/whats-new/dotnet-11/runtime",
+      "summary": "143 points · 90 comments",
+      "published": "2026-11-10T12:20:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+      "url": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+      "summary": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates for iOS 26 and 27, released yesterday, do not list a fix. A researcher who goes by forcequit, in collaboration with 0xjohnny,",
+      "published": "2026-11-10T12:15:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "summary": "472 points · 153 comments",
+      "published": "2026-11-10T12:11:12+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+      "summary": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+      "published": "2026-11-10T12:07:03+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Beyond the Alert: The Case for Rich Network Data",
+      "url": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+      "summary": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arrive at an interdiction strategy: finding and disrupting what got in. After the alert The alert tells you something happened. However, gaining",
+      "published": "2026-11-10T11:38:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "a guy in one of the \"Big Three\" auditing firms says they don't use cloud despite having o365",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xska1s/a_guy_in_one_of_the_big_three_auditing_firms_says/",
+      "summary": "As a part of regulatory obligations this local branch for this company which shall not be named told me that the cloud controls don't apply to them because they don't use any CSPs and that it is all \"privately hosted by the mothership (i,e HQ)\". So their branch is exempt for any cloud-related controls that we impose. I asked him what about office365, surely that means you use microsoft cloud services but he told me that even o365 is entirely hosted in their private data center. Now correct me if",
+      "published": "2026-11-10T11:14:13+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "How do you decide which security findings actually deserve attention?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsk9zy/how_do_you_decide_which_security_findings/",
+      "summary": "I've been thinking about a challenge in security testing. Modern security tools can identify a lot of vulnerabilities and potential issues. But having a long list of findings doesn't necessarily make security assessment easier. Some findings need immediate attention, some require further validation, and others might not be as important as they initially appear. I'm curious about how security professionals and developers approach this. How do you prioritize findings when a security scan produces ",
+      "published": "2026-11-10T11:14:07+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Uber Is Launching Its Own Parking Reservation Service",
+      "url": "https://tech.slashdot.org/story/26/11/09/2239245/uber-is-launching-its-own-parking-reservation-service?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Uber is launching Uber Parking, integrating technology from its SpotHero acquisition to let users find and reserve parking garages and lots directly through the Uber app. \"You can also filter your results based on criteria like whether you want to self-park or use a valet, or other specific amenities,\" adds Engadget. From the report: To book a spot, you'll need to provide the make and model of your car and a license plate number. Depending on your lot, Uber will then provide a QR code or you'll ",
+      "published": "2026-11-10T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+      "url": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+      "summary": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages sent before they joined. As of today, other updates released yesterday for the iPhone XS, XS Max and XR, the iPad (7th generation) and some Apple",
+      "published": "2026-11-10T10:16:51+00:00"
     },
     {
       "source": "OSINT",
@@ -34,6 +258,13 @@
       "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
       "summary": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
       "published": "2026-11-10T10:10:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+      "url": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+      "summary": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collect emails. According to an ESET report shared with The Hacker News ahead of publication, the sophisticated and modular tool is designed for",
+      "published": "2026-11-10T10:07:29+00:00"
     },
     {
       "source": "OSINT",
@@ -55,13 +286,6 @@
       "url": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
       "summary": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday. The attackers broke into controllers on the night of October 11 and changed their defrost settings to high temperatures. That caused food losses and, in at least 15 cases, fires. The unit",
       "published": "2026-11-10T09:08:20+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Queens Public library under ransomware attack e-borrowing suspended",
-      "url": "https://connect.queenslibrary.org/",
-      "summary": "32 points · 11 comments",
-      "published": "2026-11-10T09:04:39+00:00"
     },
     {
       "source": "OSINT",
@@ -99,13 +323,6 @@
       "published": "2026-11-10T07:40:36+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Fireworks AI security breach impacts Notion and their customers",
-      "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
-      "summary": "47 points · 13 comments",
-      "published": "2026-11-10T07:19:38+00:00"
-    },
-    {
       "source": "REDDIT",
       "title": "How are you triaging an AI-sized vulnerability backlog?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xsgfpx/how_are_you_triaging_an_aisized_vulnerability/",
@@ -127,39 +344,11 @@
       "published": "2026-11-10T06:52:54+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-      "url": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-123218 (CVSS score: 9.8) - An incorrect authorization vulnerability",
-      "published": "2026-11-10T06:31:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "ClickHouse Acquires Xata",
-      "url": "https://xata.io/blog/xata-is-joining-clickhouse",
-      "summary": "36 points · 6 comments",
-      "published": "2026-11-10T06:14:51+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
       "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-      "summary": "311 points · 108 comments",
+      "summary": "624 points · 218 comments",
       "published": "2026-11-10T06:01:08+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Career path ideas",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsf0kl/career_path_ideas/",
-      "summary": "Looking for advice on which roles to look for I have my AS in computer science, BS in cybersecurity next month, A+, Network+, Security+, CySA+, soon to be pentest+, 2.5 years of help desk experience but damn it seems impossible to get a SOC job Of course I’ll love a cybersecurity role but it doesn’t seem so entry level Which roles do you think I should apply for or what path would you have taken if you’re in a cyber/security role ATP where I have the knowledge so thought about tweaking my job ti",
-      "published": "2026-11-10T05:45:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Your TV can see through walls",
-      "url": "https://maurycyz.com/projects/fading/",
-      "summary": "129 points · 49 comments",
-      "published": "2026-11-10T05:24:45+00:00"
     },
     {
       "source": "REDDIT",
@@ -167,13 +356,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xsecik/how_have_tattoos_and_facial_piercings_affected/",
       "summary": "submitted by /u/Crazy_Calendar_8366 [link] [comments]",
       "published": "2026-11-10T05:07:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Ultorg: The User Interface for Relational Databases",
-      "url": "https://www.ultorg.com/",
-      "summary": "75 points · 22 comments",
-      "published": "2026-11-10T03:59:39+00:00"
     },
     {
       "source": "REDDIT",
@@ -188,34 +370,6 @@
       "url": "https://science.slashdot.org/story/26/11/09/231215/fda-warns-glp-1s-may-increase-risk-of-sudden-blindness?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from NBC News: The Food and Drug Administration said Monday that GLP-1 drugmakers must add a warning label about a rare eye condition that can cause sudden blindness. The condition, called nonarteritic anterior ischemic optic neuropathy, or NAION, affects the optic nerve, which carries signals from the eye to the brain. When blood flow to the nerve is reduced or blocked, it can cause sudden vision loss. The condition is permanent with no known treatment. The F",
       "published": "2026-11-10T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Formalizing CPython",
-      "url": "https://broyojo.com/python-formalization/",
-      "summary": "79 points · 31 comments",
-      "published": "2026-11-10T01:56:48+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xsa0os/anthropics_super_bugfinding_mythos_model_is_going/",
-      "summary": "Does this not create an increased risk for threat actors to gain access to Mythos? I'm confused as to how this is a good idea with \"end users\" (not specified if it's developers or public) gaining access to this? submitted by /u/thanguan [link] [comments]",
-      "published": "2026-11-10T01:29:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Locating the source of a mysterious beep",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-      "summary": "207 points · 92 comments",
-      "published": "2026-11-10T00:10:46+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Horible public key tricks",
-      "url": "https://maurycyz.com/projects/badcert/",
-      "summary": "173 points · 54 comments",
-      "published": "2026-11-10T00:07:17+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -246,6 +400,13 @@
       "published": "2026-11-09T22:38:38+00:00"
     },
     {
+      "source": "HACKER NEWS",
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "summary": "19 points · 8 comments",
+      "published": "2026-11-09T22:30:41+00:00"
+    },
+    {
       "source": "OSINT",
       "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
       "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
@@ -267,13 +428,6 @@
       "published": "2026-11-09T21:26:25+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "York University breach exposed personal information dating to 2007",
-      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-      "summary": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-      "published": "2026-11-09T21:22:31+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "France Accuses Iran of Supermarket Fridge Hacking",
       "url": "https://it.slashdot.org/story/26/11/09/2032202/france-accuses-iran-of-supermarket-fridge-hacking?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -288,13 +442,6 @@
       "published": "2026-11-09T20:20:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "summary": "624 points · 319 comments",
-      "published": "2026-11-09T19:58:59+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Commerce Dept. Chip Inquiry Was Halted After Nvidia Intervention",
       "url": "https://tech.slashdot.org/story/26/11/09/1758238/commerce-dept-chip-inquiry-was-halted-after-nvidia-intervention?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -303,143 +450,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "url": "https://e-means.github.io/",
-      "summary": "406 points · 42 comments",
-      "published": "2026-11-09T18:45:43+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-      "summary": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]",
-      "published": "2026-11-09T18:32:42+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Google nuked 16,482 chrome themes extension on Nov 5",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrzfky/google_nuked_16482_chrome_themes_extension_on_nov/",
-      "summary": "On Nov 5 about 16.5k theme extension were gone in one go for policy violation from the Google chrome store. 4,300 of them share same names batches. “bana hill” alone shows 213 times and they come from 1863 unique publisher accounts. I unpacked all of them they have no js, no permissions, nothing that runs. Just the theme manifest and images. So low risk on their own. My guess is these publishers would wait for an extension to gain a lot of followers and then push malicious changes to them and hi",
-      "published": "2026-11-09T18:25:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Claude Fable 5.2 and Mythos 5.2",
       "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "summary": "625 points · 823 comments",
+      "summary": "841 points · 960 comments",
       "published": "2026-11-09T18:01:10+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Unveils Two New Specialized AI Chips to Widen Its Challenge to Nvidia",
-      "url": "https://tech.slashdot.org/story/26/11/09/1721229/google-unveils-two-new-specialized-ai-chips-to-widen-its-challenge-to-nvidia?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google is expanding its AI chip lineup with two specialized TPUs arriving next year: the TPU 8tx, which encrypts sensitive data at the chip level for confidential computing, and the TPU 8i Max, which combines two TPU chips to provide more processing power and memory for long-context workloads. The move broadens Google's challenge to Nvidia as demand outstrips supply, with Google saying every TPU it currently has is already committed to customers. Quartz reports: The 8tx is designed for sensitive",
-      "published": "2026-11-09T18:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-      "summary": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today. The attacker used credentials for an AWS account that Qubole's platform uses to reach those customers. How the attacker got those credentials has not been disclosed. Qubole, a data lake platform owned by Idera,",
-      "published": "2026-11-09T17:51:21+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
-      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
-      "summary": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]",
-      "published": "2026-11-09T17:50:32+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-      "url": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-      "summary": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2. Both releases download and run code built to steal the wallet key that Swarm Desktop keeps for its node, along with the stored password that unlocks it. The code is also built to install a backdoor",
-      "published": "2026-11-09T17:36:28+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Hired only to do sec questionnaires",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrxenh/hired_only_to_do_sec_questionnaires/",
-      "summary": "What would you do if you get hired under the title “cybersecurity specialist” with multiple other tasks but have been forced and made to do sec questionnaires? This has been happening for months. I feel like I am literally losing my technical skills. I am so upset. submitted by /u/ViIIy_ [link] [comments]",
-      "published": "2026-11-09T17:11:16+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Huawei Says It's Made a 100% Chinese PC",
-      "url": "https://hardware.slashdot.org/story/26/11/09/056241/huawei-says-its-made-a-100-chinese-pc?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Huawei has unveiled the Qingyun HM650, a desktop PC it claims is made entirely from Chinese-manufactured components, including its own 10-core Kirin X90 processor and an enterprise version of HarmonyOS. \"While Huawei has reportedly claimed local companies manufactured 100 percent of the components in the machine, it is unclear if all those components use Chinese designs,\" notes The Register. From the report: A single Chinese government agency has reportedly signed up for 600 of the machines. Tha",
-      "published": "2026-11-09T17:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Binance denies data breach after alleged ShinyHunters claims",
-      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-      "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
-      "published": "2026-11-09T16:12:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-      "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
-      "published": "2026-11-09T16:04:57+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "summary": "532 points · 289 comments",
-      "published": "2026-11-09T16:00:45+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Reddit Founder Says Building Social Media Apps Is 'Not Cool Anymore'",
-      "url": "https://tech.slashdot.org/story/26/11/09/050235/reddit-founder-says-building-social-media-apps-is-not-cool-anymore?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Wired: Alexis Ohanian wants to figure out the future of user-generated content. According to the Reddit cofounder, building social media apps is \"not cool anymore\" and so much of the internet has been compromised. \"I'm expecting some better version of the group chat to be that new version of UGC,\" Ohanian told WIRED senior correspondent Lauren Goode at the inaugural WIRED World Fair. [...] Ohanian is a proponent of the \"Dead Internet Theory\"—the idea that",
-      "published": "2026-11-09T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "summary": "317 points · 215 comments",
-      "published": "2026-11-09T14:31:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-      "url": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-      "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT. \"PapRAT has both C++ and Rust implementations,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"Its capabilities include command execution, file",
-      "published": "2026-11-09T14:31:29+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-      "url": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-      "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the attack. Elsewhere, attackers are hiding inside normal web traffic, stealing credentials from network devices, and finding new uses for exposed",
-      "published": "2026-11-09T13:28:25+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Orbiter Detects Signs of Possible Volcanic Activity on Mars",
-      "url": "https://science.slashdot.org/story/26/11/09/0516221/orbiter-detects-signs-of-possible-volcanic-activity-on-mars?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Futurism reports: While many scientists have long held that Mars is \"geologically dead\" inside, new research is adding to the growing body of evidence to the contrary. As detailed in a new paper published in the journal Science Advances, an international team of researchers examined data collected by the European and Russian ExoMars Trace Gas Orbiter in 2021, which found that Mars is slowly belching hydrogen chloride gas. The researchers suggest this gas is being released from hot magma deep ben",
-      "published": "2026-11-09T12:34:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "summary": "1042 points · 151 comments",
-      "published": "2026-11-09T12:19:22+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xrpyb2/chainalysis_says_hackers_stole_credentials_and/",
-      "summary": "submitted by /u/NISMO1968 [link] [comments]",
-      "published": "2026-11-09T12:04:53+00:00"
     },
     {
       "source": "CISA",
@@ -447,20 +461,6 @@
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability CVE-2026-123218 IBM Aspera Faspex Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cy",
       "published": "2026-11-09T12:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-      "url": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-      "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine. Both apps signed customers in through ForgeRock, an identity platform now part of Ping Identity, and on those servers the researchers reached an",
-      "published": "2026-11-09T11:27:53+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-      "url": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-      "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to reach the wallets, both companies said late last week. Web3Auth then used the attacker's own route to empty other at-risk wallets before the attacker",
-      "published": "2026-11-09T10:56:25+00:00"
     },
     {
       "source": "REDDIT",
@@ -471,17 +471,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Billion Watts in the Speaker [video]",
-      "url": "https://www.youtube.com/watch?v=PHOcTXYaMfg",
-      "summary": "9 points · 5 comments",
-      "published": "2026-11-07T21:45:50+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "How hard is it to check for whitespace?",
-      "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-      "summary": "33 points · 4 comments",
-      "published": "2026-11-06T14:31:22+00:00"
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+      "summary": "97 points · 52 comments",
+      "published": "2026-11-08T12:07:17+00:00"
     },
     {
       "source": "CISA",
@@ -489,6 +482,13 @@
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
       "published": "2026-11-06T12:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I deleted all my SSH keys",
+      "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+      "summary": "83 points · 25 comments",
+      "published": "2026-11-05T18:17:51+00:00"
     },
     {
       "source": "CISA",
