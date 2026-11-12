@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T02:26:01.468811+00:00",
+  "updated": "2026-11-12T10:08:59.632522+00:00",
   "item_count": 84,
   "sources": [
     "CISA",
@@ -22,18 +22,109 @@
   ],
   "items": [
     {
+      "source": "OSINT",
+      "title": "Hackers plant GSocket on Linux servers for persistent access",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
+      "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
+      "published": "2026-11-12T09:38:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "The Italian school bomb threats were sent using accounts compromised by Infostealers years ago. Here is the telemetry.",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xu8daq/the_italian_school_bomb_threats_were_sent_using/",
+      "summary": "You might have seen the news about the bomb threats that disrupted over 6,000 schools in Italy this week. Hudson Rock pulled the two university email addresses reported as the senders (one Egyptian, one Taiwanese) and found both of them already sitting in our stolen-credential holdings at Hudson Rock. Instead of a sophisticated infrastructure breach, this looks like threat actors hijacking long-exposed, unremediated identities to bypass outbound spam filters and cause massive public chaos. Here ",
+      "published": "2026-11-12T09:26:41+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+      "url": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+      "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the company that makes the database, released fixed versions earlier this week. The affected servers are members of a replica",
+      "published": "2026-11-12T09:25:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+      "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+      "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other connections. Fixed versions were released for all three supported lines: 22.23.5, 24.22.3, and 26.13.1. The crash",
+      "published": "2026-11-12T08:20:37+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Power Grids On 5 Continents Pulse Every 60s. Scientists Think They Know Why",
+      "url": "https://hardware.slashdot.org/story/26/11/11/2347221/power-grids-on-5-continents-pulse-every-60s-scientists-think-they-know-why?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"ScienceAlert is reporting that researchers may have finally determined why, for many years, power grids around the world have been pulsing every 60 seconds,\" writes longtime Slashdot reader fahrbot-bot. The likely culprit? Uninterruptible power supplies running routine battery checks. From the report: Every minute, some uninterruptible power supplies perform routine battery checks, creating small but measurable surges in electricity demand. And it's like clockwork. \"Even benign control routines",
+      "published": "2026-11-12T07:00:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "8,000 gitbub repos got a credential stealer pushed with stolen tokens and the attacker reverted the commits afterwards",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xu5sxz/8000_gitbub_repos_got_a_credential_stealer_pushed/",
+      "summary": "Payload steals repo secrets, scans runner memory for API keys and requests OIDC tokens for AWS, Azure and GCP. It also plants backdoors that survive secret rotation. submitted by /u/BattleRemote3157 [link] [comments]",
+      "published": "2026-11-12T06:45:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
+      "url": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
+      "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that a repository's CI workflows can reach. It ran in at least 1,806 repositories, where the attacker has likely collected",
+      "published": "2026-11-12T06:42:47+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+      "url": "https://www.getlazarus.org/forums/topic/17/",
+      "summary": "41 points · 11 comments",
+      "published": "2026-11-12T05:49:34+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Windows SignDrop Zero-Day Bypasses CLFS Kernel Driver for SYSTEM Access",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xu4dka/windows_signdrop_zeroday_bypasses_clfs_kernel/",
+      "summary": "Serious Vulnerability! submitted by /u/TheoryEcstatic4275 [link] [comments]",
+      "published": "2026-11-12T05:22:25+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+      "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+      "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday. Only servers with HTTP/2 enabled are affected, according to Red Hat, which ships the server as part of Red Hat Enterprise Linux. An attacker who can reach the",
+      "published": "2026-11-12T05:12:26+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+      "url": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+      "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the incident involves a compromise of its infrastructure or a vulnerability in the ScreenConnect software. \"Our initial assessment suggests the activity may involve",
+      "published": "2026-11-12T04:39:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Darling Development Update – Q4 2026",
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "summary": "27 points · 5 comments",
+      "published": "2026-11-12T04:32:31+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Sunken SS United States Set To Become World's Largest Artificial Reef",
+      "url": "https://news.slashdot.org/story/26/11/11/238236/sunken-ss-united-states-set-to-become-worlds-largest-artificial-reef?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from PBS: The historic ocean liner SS United States will be intentionally sunk Wednesday off the coast of the Florida panhandle. Live coverage of the sinking of the SS United States is expected to start at 1 p.m. EST, with the sinking expected at 2 p.m. EST. Watch live in the video player above. In its heyday, the SS United States crushed the trans-Atlantic speed record, which it still holds. The luxury ocean liner took only three days to cross from New York t",
+      "published": "2026-11-12T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "summary": "202 points · 88 comments",
+      "published": "2026-11-12T02:11:11+00:00"
+    },
+    {
       "source": "REDDIT",
       "title": "Best uncensored models to use for cyber?",
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xu0cmi/best_uncensored_models_to_use_for_cyber/",
       "summary": "A uncensored models available on hf and other providers are broken, how do you guys choose which one works best? submitted by /u/Ontopoftheworld_ay [link] [comments]",
       "published": "2026-11-12T01:57:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Adversary emulation",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xtyum7/adversary_emulation/",
-      "summary": "Hi Team, anyone still using Mitre Caldera for adversary emulation? I find it to be outdated for current landscape, any alternative you might suggest where price will not be excessive or if there is any free alternative. submitted by /u/joe210565 [link] [comments]",
-      "published": "2026-11-12T00:46:18+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -46,7 +137,7 @@
       "source": "HACKER NEWS",
       "title": "A general purpose Apple Silicon layer for x86-64 PCs",
       "url": "https://github.com/tylertms/Stela",
-      "summary": "59 points · 19 comments",
+      "summary": "109 points · 43 comments",
       "published": "2026-11-11T23:02:38+00:00"
     },
     {
@@ -74,29 +165,22 @@
       "source": "HACKER NEWS",
       "title": "93% of paint splatters are valid Perl programs (2019)",
       "url": "https://www.mcmillen.dev/sigbovik/",
-      "summary": "173 points · 26 comments",
+      "summary": "428 points · 56 comments",
       "published": "2026-11-11T22:34:23+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Nvidia is preparing to oust Jensen Huang",
       "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-      "summary": "553 points · 802 comments",
+      "summary": "1023 points · 1380 comments",
       "published": "2026-11-11T22:31:06+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Lock Your GitHub Actions",
       "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-      "summary": "143 points · 23 comments",
+      "summary": "253 points · 51 comments",
       "published": "2026-11-11T22:16:41+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "summary": "236 points · 232 comments",
-      "published": "2026-11-11T22:03:58+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -104,13 +188,6 @@
       "url": "https://yro.slashdot.org/story/26/11/11/2154252/nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Charlotte Web shares a report from the Associated Press: A shareholder has sued Nvidia and its CEO, Jensen Huang, accusing them of deceiving investors in their responses to media reports about Huang's affair with a purported Chinese spy that threatens national security. [...] The news reports said that the Commerce Department was investigating Alice Huang's company, Singapore-based Megaspeed, on suspicions that it was helping to sidestep U.S. export restrictions blocking Nvidia chips from being ",
       "published": "2026-11-11T22:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "KnowBe4 PAB Delays",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xtuy3o/knowbe4_pab_delays/",
-      "summary": "Anyone experiencing delays between the report time and the time a message actually appears in the PhishER inbox? We have had an open ticket for months with no fix. submitted by /u/OrderCandid5159 [link] [comments]",
-      "published": "2026-11-11T21:57:35+00:00"
     },
     {
       "source": "OSINT",
@@ -137,15 +214,8 @@
       "source": "HACKER NEWS",
       "title": "Emacs in the Age of Magic",
       "url": "https://commandlinesystems.com/magic.txt",
-      "summary": "148 points · 53 comments",
+      "summary": "230 points · 105 comments",
       "published": "2026-11-11T20:26:32+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "url": "https://github.com/huawei-csl/MACaQ",
-      "summary": "61 points · 20 comments",
-      "published": "2026-11-11T20:23:57+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -165,15 +235,8 @@
       "source": "HACKER NEWS",
       "title": "The Utah Teapot",
       "url": "https://graphics.cs.utah.edu/teapot/",
-      "summary": "86 points · 19 comments",
+      "summary": "139 points · 33 comments",
       "published": "2026-11-11T19:45:10+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "url": "https://termsheetplease.com/",
-      "summary": "182 points · 76 comments",
-      "published": "2026-11-11T19:12:16+00:00"
     },
     {
       "source": "REDDIT",
@@ -200,14 +263,14 @@
       "source": "HACKER NEWS",
       "title": "Gemini Decisions API",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "summary": "286 points · 87 comments",
+      "summary": "433 points · 130 comments",
       "published": "2026-11-11T18:32:42+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "AWS emulator",
       "url": "https://github.com/aws/aws-emulator",
-      "summary": "687 points · 219 comments",
+      "summary": "849 points · 236 comments",
       "published": "2026-11-11T18:21:38+00:00"
     },
     {
@@ -233,16 +296,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "summary": "161 points · 29 comments",
-      "published": "2026-11-11T16:57:45+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-      "summary": "418 points · 215 comments",
+      "summary": "494 points · 236 comments",
       "published": "2026-11-11T16:38:44+00:00"
     },
     {
@@ -316,20 +372,6 @@
       "published": "2026-11-11T14:01:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "url": "https://av.github.io/safe-sand/",
-      "summary": "316 points · 64 comments",
-      "published": "2026-11-11T13:39:29+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "the Government Wants to Go Digital, But Can't Even Keep Its Websites Secure? 🫪🥴",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xth45s/the_government_wants_to_go_digital_but_cant_even/",
-      "summary": "Government websites getting hacked, data breaches, sensitive information allegedly leaked. At this point, shouldn't we be asking some serious questions? We talk about digital transformation, but what about security? Where are the proper controls, continuous monitoring, vulnerability management, incident response, and accountability? I work in security operations supporting APAC clients, and honestly, it makes me wonder how seriously cybersecurity is being prioritized here in the Philippines. We ",
-      "published": "2026-11-11T12:59:54+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "N-able releases security hotfixes for zero-day vulnerabilities",
       "url": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
@@ -342,13 +384,6 @@
       "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
       "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most of the open apps were games, landing pages, and calculators, but about 1 in 10 contained internal business or",
       "published": "2026-11-11T12:19:40+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "summary": "932 points · 339 comments",
-      "published": "2026-11-11T12:05:22+00:00"
     },
     {
       "source": "OSINT",
@@ -407,53 +442,11 @@
       "published": "2026-11-11T08:17:53+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-      "url": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-      "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not refund them. The company builds and runs apps for its customers and stores their secrets, such as API keys and database",
-      "published": "2026-11-11T07:49:04+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-      "url": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-      "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which an agent using that model would run with the agent's own permissions. The attacker must be able to change the model's weights. The team tested the method on",
-      "published": "2026-11-11T07:21:05+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Tim Peters has died",
       "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
-      "summary": "884 points · 94 comments",
+      "summary": "1200 points · 134 comments",
       "published": "2026-11-11T07:03:17+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "US and Rest of World Must Follow China's Lead On Green Energy, Says John Kerry",
-      "url": "https://news.slashdot.org/story/26/11/11/0126232/us-and-rest-of-world-must-follow-chinas-lead-on-green-energy-says-john-kerry?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Longtime Slashdot reader AmiMoJo shares a report from The Guardian: China is leading the world in moving away from fossil fuels, and the rest of the globe -- including the US -- must now follow, the former US secretary of state John Kerry has told the Guardian, as Cop watchers wonder exactly how China is going to approach this year's climate summit. As Cop31 opens -- this year the climate conference is in Turkey -- there is plenty of speculation about whether China will finally step into the lea",
-      "published": "2026-11-11T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-      "url": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Details of the vulnerabilities are below - CVE-2026-20320 (CVSS score: 7.5) - An improper restriction of XML external entity",
-      "published": "2026-11-11T06:04:02+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "M John Harrison Becomes First Sci-Fi Author To Win Booker Prize",
-      "url": "https://news.slashdot.org/story/26/11/10/2227217/m-john-harrison-becomes-first-sci-fi-author-to-win-booker-prize?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The Guardian: Eighty-one-year-old M John Harrison has won the Booker prize for The End of Everything, a postapocalyptic novel set on a near-future Kent coast, becoming the oldest winner in the award's history. Gaby Wood, chief executive of the Booker Prize Foundation, said that while plenty of previous winners had dabbled in science fiction, Harrison's was \"the first Booker winner to have emerged from the bona fide SF world.\" She called it \"a historic win",
-      "published": "2026-11-11T03:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-      "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-      "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]",
-      "published": "2026-11-10T22:20:19+00:00"
     },
     {
       "source": "OSINT",
@@ -463,25 +456,32 @@
       "published": "2026-11-10T21:55:03+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-      "url": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-      "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1 and 2.55.1. The flaw, tracked as CVE-2026-111760, is an integer truncation in how Git handles its index. An",
-      "published": "2026-11-10T19:23:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-      "url": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-      "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that day, including requests sent in confidential mode, the company said earlier this week. That mode processes requests inside a trusted execution environment (TEE",
-      "published": "2026-11-10T19:19:39+00:00"
-    },
-    {
       "source": "CISA",
       "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability CVE-2026-116606 Barracuda Networks Email Security G",
       "published": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Legocam: My Lego webcam from 2000, working on a modern Mac",
+      "url": "https://blog.benjamin.ie/legocam",
+      "summary": "13 points · 5 comments",
+      "published": "2026-11-10T11:46:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Jane Street: Socratic Tutor",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "summary": "196 points · 47 comments",
+      "published": "2026-11-10T10:18:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "A live tree of systemd jobs on the boot console",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "summary": "49 points · 5 comments",
+      "published": "2026-11-09T13:02:44+00:00"
     },
     {
       "source": "CISA",
@@ -499,10 +499,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "How to make a CNC plasma cutter with high-frequency start",
-      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
-      "summary": "11 points · 2 comments",
-      "published": "2026-11-08T12:34:04+00:00"
+      "title": "I gave an agent a lakehouse and control of my garden",
+      "url": "https://jatorre.github.io/garden/",
+      "summary": "79 points · 38 comments",
+      "published": "2026-11-08T17:19:06+00:00"
     },
     {
       "source": "CISA",
