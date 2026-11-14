@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-13T23:31:37.304856+00:00",
+  "generated_at": "2026-11-14T06:19:35.397271+00:00",
   "source": "GitHub Actions public HTTP/TLS probes",
   "results": [
     {
       "url": "https://avanyu.tech/",
       "status": "down",
       "http_status": null,
-      "latency_ms": 107,
+      "latency_ms": 94,
       "tls_days_remaining": null,
       "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
     },
@@ -14,7 +14,7 @@
       "url": "https://avanyu.tech/shadowwatch/",
       "status": "down",
       "http_status": null,
-      "latency_ms": 106,
+      "latency_ms": 93,
       "tls_days_remaining": null,
       "error": "URLError: <urlopen error [Errno -5] No address associated with hostname>"
     },
@@ -22,7 +22,7 @@
       "url": "https://avanyu.cloud/",
       "status": "up",
       "http_status": 200,
-      "latency_ms": 202,
+      "latency_ms": 112,
       "tls_days_remaining": 48,
       "error": null
     },
@@ -30,7 +30,7 @@
       "url": "https://ziatec.cloud/",
       "status": "up",
       "http_status": 200,
-      "latency_ms": 142,
+      "latency_ms": 123,
       "tls_days_remaining": 49,
       "error": null
     },
@@ -38,7 +38,7 @@
       "url": "https://ziawolf.com/",
       "status": "up",
       "http_status": 200,
-      "latency_ms": 137,
+      "latency_ms": 151,
       "tls_days_remaining": 53,
       "error": null
     },
@@ -46,7 +46,7 @@
       "url": "https://gavinlujan.com/",
       "status": "up",
       "http_status": 200,
-      "latency_ms": 241,
+      "latency_ms": 106,
       "tls_days_remaining": 60,
       "error": null
     },
@@ -54,7 +54,7 @@
       "url": "https://shadowloft.wordpress.com/",
       "status": "up",
       "http_status": 200,
-      "latency_ms": 440,
+      "latency_ms": 46,
       "tls_days_remaining": 79,
       "error": null
     },
@@ -62,7 +62,7 @@
       "url": "https://gavinlujan.wordpress.com/",
       "status": "up",
       "http_status": 200,
-      "latency_ms": 303,
+      "latency_ms": 42,
       "tls_days_remaining": 79,
       "error": null
     },
@@ -70,8 +70,8 @@
       "url": "https://gavinlujan42-glitch.github.io/ShadowLoft/",
       "status": "up",
       "http_status": 200,
-      "latency_ms": 178,
-      "tls_days_remaining": 46,
+      "latency_ms": 87,
+      "tls_days_remaining": 45,
       "error": null
     }
   ]
