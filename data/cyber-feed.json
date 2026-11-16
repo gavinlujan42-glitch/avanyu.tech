@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T07:09:05.248557+00:00",
+  "updated": "2026-11-16T17:19:38.901225+00:00",
   "item_count": 84,
   "sources": [
     "CISA",
@@ -23,6 +23,237 @@
   "items": [
     {
       "source": "SLASHDOT",
+      "title": "US Closes Loophole That Allowed China To Remotely Access Nvidia Chips",
+      "url": "https://hardware.slashdot.org/story/26/11/16/1645203/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Forbes: In a statement published on Monday, the Commerce Department said a new interim rule will address \"rapid advancements in cloud computing\" that have made it easier for countries like China to access advanced AI chips under export controls, including by accessing them remotely in data centers located in countries not under U.S. export controls. The new rule will require an additional license to export, reexport or transfer chips to companies in Indon",
+      "published": "2026-11-16T17:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
+      "published": "2026-11-16T16:43:24+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Optimizely.com loading malicious scripts?",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxu717/optimizelycom_loading_malicious_scripts/",
+      "summary": "EDIT: I mean cookielaw[.]org, after taking another second to look I can see the script is from Cookie Law and just hosted on optimizely. Does anyone with better JS and threat hunting skills know if Optimizely has been compromised? We had users who went to both gitlab.com and foxnews.com who set off alerts for malicious and newly registered domains. When analyzing the indicator, it appears to be a legitimate malicious script meant to steal crypto and credit card information ( https://urlscan.io/r",
+      "published": "2026-11-16T16:42:33+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Microsoft Blames Monster Email Outage On Software Defect Introduced In July Fix",
+      "url": "https://tech.slashdot.org/story/26/11/16/1628256/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Microsoft says last week's massive Microsoft 365 outage was caused by a software defect introduced in a July update that remained dormant until a Teams failover and a simultaneous 14% reduction in gateway capacity triggered a cascading failure. More than 80% of the affected gateway servers became unresponsive at the outage's worst point, and because the months-old change could not simply be rolled back, engineers spent roughly 15 hours developing and deploying a patch that restored the previous ",
+      "published": "2026-11-16T16:30:00+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "FBI warns AI hacking framework ARTEX is being used in real cyberattacks",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxsqfz/fbi_warns_ai_hacking_framework_artex_is_being/",
+      "summary": "The FBI warns that multiple threat actors have abused ARTEX, an AI-powered penetration-testing framework, since at least August 2026. The agency says it has been used against organizations in finance, government, technology, healthcare and other sectors. ARTEX can automate reconnaissance, vulnerability exploitation and privilege escalation. The FBI connects it to attacks involving ConnectWise cloud backup integrations and Microsoft 365 environments, with some intrusions progressing to privileged",
+      "published": "2026-11-16T15:46:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
+      "published": "2026-11-16T15:44:21+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "GTIG found a fully automated patch-to-exploit pipeline (exploit_agent) — no human in the loop",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxsccl/gtig_found_a_fully_automated_patchtoexploit/",
+      "summary": "Google's Threat Intelligence Group reports the first observed case of a multi-agent framework that automates vulnerability discovery and exploitation end to end without human intervention. The framework, found on an exposed staging server and dubbed exploit_agent, runs continuous differential analysis on popular web application software: Compares code before and after a patch announcement Identifies the likely vulnerability from the diff Drafts an exploit Executes it automatically The same serve",
+      "published": "2026-11-16T15:31:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+      "url": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "summary": "90 points · 61 comments",
+      "published": "2026-11-16T15:24:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
+      "published": "2026-11-16T15:01:11+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "NvRoot aka from rent to root - new LPE vulnerability for NVIDIA GPU driver (CVE-2026-47591)",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxr1nm/nvroot_aka_from_rent_to_root_new_lpe/",
+      "summary": "In a nutshell: A GPU driver call incorrectly trusts the CPU permission field, enabling write where only read should exist. Then consequences roll on from there. What's it need: a CUDA-capable NVIDIA GPU and an unprivileged local account (no special group, no CAP_SYS_ADMIN ). Aka, what you rent from a neocloud. Affected range: this one's present in every open-source driver release from 515.43.04 (2022-05-09) Fixed in 610.57.04, 595.91.07 (and 595.44.14 on the 595.44.x line), 580.178.04, and later",
+      "published": "2026-11-16T14:41:15+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxqhrp/google_warns_that_fullyautomated_ai_attacks_are/",
+      "summary": "submitted by /u/Doug24 [link] [comments]",
+      "published": "2026-11-16T14:18:31+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Active Directory Era Is Finally Over",
+      "url": "https://infisical.com/blog/active-directory-machine-identity",
+      "summary": "37 points · 11 comments",
+      "published": "2026-11-16T14:15:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
+      "published": "2026-11-16T14:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "url": "https://jack.cab/blog/siterate",
+      "summary": "268 points · 113 comments",
+      "published": "2026-11-16T13:51:38+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Many of Amazon’s Black Friday and Cyber Monday “Deals” Offered No Savings",
+      "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
+      "summary": "418 points · 235 comments",
+      "published": "2026-11-16T13:39:07+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+      "url": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+      "summary": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job. Meanwhile, AI is making bug hunting faster, old flaws are still paying off, and attackers keep finding easy ways in. Some attacks take real skill. Others barely",
+      "published": "2026-11-16T13:27:20+00:00"
+    },
+    {
+      "source": "REDDIT",
+      "title": "\"Next-Gen\" Index-free SIEM vs traditional SIEM",
+      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxp29c/nextgen_indexfree_siem_vs_traditional_siem/",
+      "summary": "Does anyone have experience comparing \"next-gen\" SIEM solutions like Crowdstrike or SentinelOne against traiditonal index-based SIEMs like Splunk or MS Sentinel? I'm mostly interested in performance, time from ingestion to detection, search speed etc. but also any other experiences in comparing the two architecture types. submitted by /u/Equivalent-Toe-623 [link] [comments]",
+      "published": "2026-11-16T13:15:17+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+      "published": "2026-11-16T12:53:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+      "url": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+      "summary": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week. No patch is available, and the researchers say the newest firmware, version 5.4.0, does not fix the flaws. Government cybersecurity agencies in Belgium, Ireland and Germany told operators this week to",
+      "published": "2026-11-16T12:34:21+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "AI-Assisted Coders Run Windows on iPhone Duo, Build a Floppy Disk-Based AI Chatbot for MS-DOS",
+      "url": "https://tech.slashdot.org/story/26/11/16/0848255/ai-assisted-coders-run-windows-on-iphone-duo-build-a-floppy-disk-based-ai-chatbot-for-ms-dos?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The blog XDA Developers reports that a Claude enthusiast used the AI assistant to make a language model that runs off a floppy disk. \"And you can stick it on a DOS computer to boot.\" The language models \"runs at a respectable speed, given that it's running off a CPU that was designed decades before LLMs were even a thing.\" Over on the ClaudeAI subreddit, user wollymonjak showed off this really impressive feat... [I]t's not going to be a particularly powerful AI; in fact, wollymonjak notes that i",
+      "published": "2026-11-16T12:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+      "url": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary directory and ran it through rundll32.exe,\" Kaspersky said in an analysis published today. \"The '7z.dll' file was a patched version of the",
+      "published": "2026-11-16T12:33:18+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "summary": "208 points · 83 comments",
+      "published": "2026-11-16T11:39:31+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Australian retail giant Coles investigates cybersecurity incident",
+      "url": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+      "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+      "published": "2026-11-16T11:18:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Coffeehouses and the Rise of Science [pdf]",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "summary": "147 points · 84 comments",
+      "published": "2026-11-16T11:03:16+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+      "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+      "published": "2026-11-16T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+      "url": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+      "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a toolkit called SANSAR, a Rust-based orchestrator that receives commands over the TOR anonymity network to manage CPU and GPU miners. The activity was observed in",
+      "published": "2026-11-16T09:32:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+      "url": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+      "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+      "published": "2026-11-16T09:30:04+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Purism Announces 'Librem 5 v2' Linux Phone with RISC-V SoC",
+      "url": "https://mobile.slashdot.org/story/26/11/16/0742226/purism-announces-librem-5-v2-linux-phone-with-risc-v-soc?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "From the Linux-news blog OMG Ubuntu: Purism is crowdfunding a new version of its Librem 5 Linux smartphone, this one powered by RISC-V rather than Arm. Librem 5 v2 will use an octa-core SpacemiT K1 RISC-V SoC, replacing the quad-core Arm64 NXP CPU. This processor shift will provide better performance and longer battery life than the original Librem 5 and not run as hot in use. Memory is bumped to 8 GB RAM, up from 3 GB, and storage leaps to 128 GB from 32 GB. Librem 5 v2 will run PureOS, Purism'",
+      "published": "2026-11-16T08:34:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+      "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+      "published": "2026-11-16T08:26:52+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Winudf – DVD / BluRay driver for DOS, Windows 1.x – 3x / 95 / 98 / ME",
+      "url": "https://github.com/ages2001/WINUDF",
+      "summary": "64 points · 8 comments",
+      "published": "2026-11-16T08:00:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+      "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+      "summary": "205 points · 79 comments",
+      "published": "2026-11-16T07:38:19+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this",
+      "published": "2026-11-16T07:34:21+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,",
+      "published": "2026-11-16T06:53:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
       "title": "ULA Vulcan Rocket Failure Destroys 40 Amazon Leo Satellites",
       "url": "https://science.slashdot.org/story/26/11/16/0550239/ula-vulcan-rocket-failure-destroys-40-amazon-leo-satellites?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "United Launch Alliance's new heavy-lift Vulcan rocket \"malfunctioned while climbing into space yesterday,\" writes Engadget, \"destroying its payload of 40 Amazon Leo internet satellites...\" Launch failures are always a risk, but amazingly, United Launch Alliance had never experienced one previously. Since the company formed in 2006 as a partnership between Boeing and Lockheed Martin, its Atlas V rocket has been famously dependable. Now, the company's more powerful, more complex Vulcan will be und",
@@ -32,7 +263,7 @@
       "source": "HACKER NEWS",
       "title": "How to make almost anything",
       "url": "https://pub.cba.mit.edu/863.26/site/",
-      "summary": "76 points · 8 comments",
+      "summary": "668 points · 110 comments",
       "published": "2026-11-16T05:50:37+00:00"
     },
     {
@@ -41,20 +272,6 @@
       "url": "https://www.reddit.com/r/cybersecurity/comments/1xxgzys/a_new_aipowered_criminal_marketplace_turns/",
       "summary": "Instead of just browsing stolen credentials, buyers can now use AI-generated descriptions to find compromised computers based on who owns them, what they do, and what kind of information they might have access to. Looking for an AI researcher? A government employee? Someone working in defense? The marketplace makes these types of searches possible. We also examined several listings and were able to match the advertised stolen data to records in Hudson Rock's own database. This is an interesting ",
       "published": "2026-11-16T05:15:34+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "La Poste's Maileva unit confirms a breach of 22 million recipients' names and addresses",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxgkkf/la_postes_maileva_unit_confirms_a_breach_of_22/",
-      "summary": "La Poste told AFP on Saturday that Maileva, its business-mail unit, was breached in mid-September. Names and postal addresses of 22 million people were taken. The specialist sites FrenchBreaches and cyberattaque.org reported it first. Maileva prints and mails payslips and invoices for about 70,000 business users (180 million documents in 2024). The 22 million are recipients of those clients' letters, so most of them never had an account anywhere near Maileva. Per cyberattaque.org, affected clien",
-      "published": "2026-11-16T04:52:39+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Stop Filming in Log",
-      "url": "https://digitalfilms.wordpress.com/2026/11/15/stop-filming-in-log/",
-      "summary": "27 points · 16 comments",
-      "published": "2026-11-16T04:37:03+00:00"
     },
     {
       "source": "REDDIT",
@@ -74,14 +291,14 @@
       "source": "HACKER NEWS",
       "title": "Qwen4-Max",
       "url": "https://qwen.ai/blog?id=qwen4-max",
-      "summary": "374 points · 126 comments",
+      "summary": "786 points · 405 comments",
       "published": "2026-11-16T02:14:44+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
       "url": "https://iter.ca/post/ubo-uxss/",
-      "summary": "268 points · 68 comments",
+      "summary": "548 points · 157 comments",
       "published": "2026-11-16T02:04:48+00:00"
     },
     {
@@ -97,13 +314,6 @@
       "url": "https://tech.slashdot.org/story/26/11/16/0059214/faa-router-in-middle-of-nowhere-arkansas-identified-as-cause-of-nationwide-flight-chaos?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Though the nationwide flight-grounding ended Friday, \"Nearly 2,300 flights in the U.S. have been cancelled Sunday in the aftermath...\" reports ABC News. \"Additionally, some 18,689 flights were delayed, per FlightAware.\" But \"a single malfunctioning FAA router in rural Arkansas appears to have caused the air travel chaos,\" reports the New York Post: The problem originated at an FAA radio site in El Dorado, Arkansas, where a newly installed router flooded the network with excessive data traffic, d",
       "published": "2026-11-16T01:02:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-      "summary": "118 points · 29 comments",
-      "published": "2026-11-16T00:21:54+00:00"
     },
     {
       "source": "REDDIT",
@@ -123,7 +333,7 @@
       "source": "HACKER NEWS",
       "title": "What's Next for Nvidia?",
       "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "summary": "194 points · 257 comments",
+      "summary": "407 points · 517 comments",
       "published": "2026-11-15T23:55:55+00:00"
     },
     {
@@ -135,16 +345,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Preserving 30 years of Salon journalism",
-      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "summary": "134 points · 37 comments",
-      "published": "2026-11-15T23:00:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Old Bitly links are being hijacked",
       "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "summary": "252 points · 133 comments",
+      "summary": "356 points · 184 comments",
       "published": "2026-11-15T22:11:43+00:00"
     },
     {
@@ -153,34 +356,6 @@
       "url": "https://apple.slashdot.org/story/26/11/15/2151238/siri-glitches-ruin-reviewers-test-of-apples-new-homeview-smart-speaker?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "Apple has started selling its new HomeView smart speaker, a 7-inch square-with-rounded-corners screen equipped with a built-in camera. It pairs with your iPhone or iPad to offer personalized content from your email or text messages, using facial recognition to identify each family member. But in a video report, one Wall Street Journal reviewer discovered an issue while testing its smart home feature: WSJ REVIEWER: I've spent the last few years turning my home into a smart home that I can boss ar",
       "published": "2026-11-15T21:53:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "url": "https://baron.by.dai.studio/",
-      "summary": "121 points · 23 comments",
-      "published": "2026-11-15T20:20:05+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Final year project",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xx5mv2/final_year_project/",
-      "summary": "Im thinking about doing a detection and prevention system for data exfiltration over DNS but I also read about DNS over HTTPS and rn I feel like im confused about which one to pick or which one is better or stronger at the same time I want something achievable Besides this I dont feel like this is enough even tho I dont have that experience at all since im still a student but I wanna build something interesting within this area like maybe connect the ML with Wazuh or anything that sounds interes",
-      "published": "2026-11-15T20:19:29+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Handwriting, as a Font",
-      "url": "https://ductus.sorenblank.com",
-      "summary": "226 points · 45 comments",
-      "published": "2026-11-15T19:42:13+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "summary": "277 points · 53 comments",
-      "published": "2026-11-15T19:26:22+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -197,46 +372,11 @@
       "published": "2026-11-15T18:29:53+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "summary": "217 points · 94 comments",
-      "published": "2026-11-15T18:23:21+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Crows make decisions faster than we can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "summary": "220 points · 149 comments",
-      "published": "2026-11-15T17:53:31+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Huawei Set To Challenge Tesla Powerwall with New, 20 kW Home Battery",
       "url": "https://hardware.slashdot.org/story/26/11/15/1028237/huawei-set-to-challenge-tesla-powerwall-with-new-20-kw-home-battery?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"Huawei believes its new Luterra S2 is more than just a home backup battery,\" reports Electrek: This high-tech Huawei home battery pack hopes to hold back Tesla's latest Powerwall with silicon carbide technology, AI-powered energy management baked in, and enough modular storage to keep even large homes bright and warm when the rest of the block goes dark... The Chinese tech firm is calling it an \"all-in-one residential energy system\" that combines a hybrid inverter, modular battery storage, and ",
       "published": "2026-11-15T17:34:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Bill Gates Has Earned Billions Investing in Climate-Polluting Landfills, Reports ProPublica",
-      "url": "https://news.slashdot.org/story/26/11/15/0957227/bill-gates-has-earned-billions-investing-in-climate-polluting-landfills-reports-propublica?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Environmental activist Bill Gates has \"quietly accumulated a $29 billion stake in America's No. 2 landfill operator, Republic Services,\" reports ProPublica, in a new 5,000-word investigation. But inspectors from America's Environmental Protection Agency \"have repeatedly found methane — a highly potent greenhouse gas — escaping from Republic landfills at levels above federal limits. Republic has lobbied against regulations that could make the waste industry cleaner, including by keeping organic g",
-      "published": "2026-11-15T16:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "FortiClient, FortiShield_74.sys kernel driver oob",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xwzs0l/forticlient_fortishield_74sys_kernel_driver_oob/",
-      "summary": "hi, this is my new research repo, support pls submitted by /u/nanaynunay [link] [comments]",
-      "published": "2026-11-15T16:29:28+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Rust Leaves Top 10 in TIOBE Index, Making Room for Go",
-      "url": "https://developers.slashdot.org/story/26/11/15/0710240/rust-leaves-top-10-in-tiobe-index-making-room-for-go?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "\"In November's edition of the TIOBE Index, Rust has dropped out of Top 10,\" writes I-Programmer, noting that Rust ceded the #10 position to Go. \"At the same time, another Google-originated language, Dart, has entered the top 20 ousting Julia after only one month.\" TIOBE explains Dart's popularity is mainly being driven by Flutter, Google's framework for building cross-platform mobile applications. In fact, Flutter has become one of the major technologies for cross-platform mobile app development",
-      "published": "2026-11-15T15:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -253,46 +393,11 @@
       "published": "2026-11-15T14:53:43+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "summary": "466 points · 257 comments",
-      "published": "2026-11-15T13:15:22+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "How Will AI Affect Open Source Development?",
-      "url": "https://news.slashdot.org/story/26/11/15/0615219/how-will-ai-affect-open-source-development?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "This week the Linux Foundation's Open Source Security Foundation (OpenSSF) announced it would broaden its AI security resources, including a new guide to finding and fixing vulnerabilities using AI, \"from preparing and sandboxing AI to validating, fixing, and preventing issues.\" The guide \"stresses that AI-generated patches should never be trusted without automated tests and human review. An online course (LFD126) is planned for the coming months.\" OpenSSF also released the State of AI Impact on",
-      "published": "2026-11-15T12:34:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Is red teaming really serving its purpose, or has it become just another compliance checkbox?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xwtxk6/is_red_teaming_really_serving_its_purpose_or_has/",
-      "summary": "Considering the number of attacks happening today, I honestly feel purple teaming deserves much more attention. Companies are conducting red team exercises, but how many are actually using them to improve their security posture? In many cases, it feels like the focus is more on completing the assessment, delivering the report, and satisfying compliance requirements than on understanding the actual security gaps. The real value of red teaming isn’t just demonstrating that an attack is possible. I",
-      "published": "2026-11-15T12:08:57+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
       "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
       "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to",
       "published": "2026-11-15T11:27:31+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "How Cairn, an Open-Source AI penetration testing tool, Was Weaponized for Autonomous Cyberattacks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xwrwfs/how_cairn_an_opensource_ai_penetration_testing/",
-      "summary": "As explained in https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/ article Chinese hackers used autonomous AI agents to breach 10 major organizations, including US defense programs and chipmakers - by tricking the AI into thinking it was a legitimate security test. Cairn weaponized for autonomous Cyberattacks with DeepSeek & GLM. So open source in terms of security is like a box of chocolates... submitted by /u/Prestigious-Bank2145 [link] [comments]",
-      "published": "2026-11-15T10:06:19+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Italy Fines Meta €805m Over Accessing Android Users' Photos with Facebook App",
-      "url": "https://tech.slashdot.org/story/26/11/15/0823213/italy-fines-meta-805m-over-accessing-android-users-photos-with-facebook-app?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Associated Press reports: Italy announced an €805 million ($887 million) fine against Meta on Saturday for using photos and videos from Android users' galleries on Facebook without specific consent or adequate disclosure... Investigators found that the feature was enabled by default and that Facebook requested gallery access through a single permission covering multiple app functions with different purposes. The authority gave Meta 60 days to disable the feature and seek separate consent for",
-      "published": "2026-11-15T08:34:00+00:00"
     },
     {
       "source": "OSINT",
@@ -302,13 +407,6 @@
       "published": "2026-11-15T08:22:04+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xw8lfa/check_point_gateways_hacked_via_php2shell_to/",
-      "summary": "Check Point researchers documented attacks beginning October 30 in which hackers exploited PHP2Shell vulnerabilities CVE-2026-109618 and CVE-2026-109619 through vulnerable Mobile Access gateways. They then used another vulnerability, CVE-2026-123039, to obtain root privileges, install backdoors and move into VMware ESXi systems. In some incidents, attackers deployed destructive malware that deleted server data. The attacks affected organizations in Israel and other countries. Attribution remains",
-      "published": "2026-11-14T17:50:32+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Cursor confirms security breach led to malicious Claude Code extension",
       "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
@@ -316,11 +414,11 @@
       "published": "2026-11-14T17:27:25+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "US disrupts North Korean campaign behind $400 million crypto theft",
-      "url": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
-      "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
-      "published": "2026-11-14T15:15:49+00:00"
+      "source": "HACKER NEWS",
+      "title": "Smallest possible nopert polyhedra: the Septopert",
+      "url": "https://github.com/tom7/noperts/blob/main/septopert.md",
+      "summary": "7 points · 0 comments",
+      "published": "2026-11-14T15:22:30+00:00"
     },
     {
       "source": "OSINT",
@@ -330,18 +428,25 @@
       "published": "2026-11-14T12:38:35+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-      "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]",
-      "published": "2026-11-13T19:38:36+00:00"
+      "source": "HACKER NEWS",
+      "title": "Nature-Based Sanitation. Cihuatlán: A Large-Scale Artificial Wetland",
+      "url": "https://revista.unaminternacional.unam.mx/en/nota/12/saneamiento-basado-en-la-naturaleza-cihuatlan-un-humedal-construido-de-gran-escala",
+      "summary": "7 points · 3 comments",
+      "published": "2026-11-14T08:58:31+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "German military drone operations disrupted by cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-      "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-      "published": "2026-11-13T17:31:56+00:00"
+      "source": "HACKER NEWS",
+      "title": "OOS – an open operating system for the Rigol Scopes",
+      "url": "https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/",
+      "summary": "81 points · 29 comments",
+      "published": "2026-11-13T21:36:59+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Researchers track whole body movement with just a smartwatch",
+      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "summary": "155 points · 51 comments",
+      "published": "2026-11-13T17:29:49+00:00"
     },
     {
       "source": "OSINT",
@@ -351,13 +456,6 @@
       "published": "2026-11-13T16:53:08+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Do we still have to denormalize? Have your schema and search it too",
-      "url": "https://www.paradedb.com/blog/joins",
-      "summary": "59 points · 6 comments",
-      "published": "2026-11-13T15:31:50+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
       "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
@@ -365,102 +463,11 @@
       "published": "2026-11-13T15:27:05+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "How one AI agent exposed five critical enterprise security gaps",
-      "url": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-      "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]",
-      "published": "2026-11-13T15:01:11+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-      "url": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering scheme codenamed FaceStealer in the last 18 months. As part of a coordinated set of actions announced by the U.S. government, the cloud-based",
-      "published": "2026-11-13T14:28:58+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-      "url": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-      "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's screen and sends it over the mobile network to a server controlled by the attackers. The company examined one of the wallets in its lab, identified the other",
-      "published": "2026-11-13T13:54:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft says November security updates cause printing issues",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-      "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-      "published": "2026-11-13T12:27:40+00:00"
-    },
-    {
       "source": "CISA",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive ",
       "published": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-      "url": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-      "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the records and its connected tools allow the action. That kind of scenario raises a response question: what does “stop the agent” actually mean? A",
-      "published": "2026-11-13T11:52:31+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-      "url": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-      "summary": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group's attack sources in at least six Asian countries and named it SilentAir this week. It assessed with high confidence that SilentAir is a state-level actor,",
-      "published": "2026-11-13T11:10:40+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-      "url": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-      "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized about 6.4 million stolen logins belonging to more than 40,000 victims, according to Germany's Federal Criminal Police Office (BKA). Gootloader is a loader:",
-      "published": "2026-11-13T10:55:03+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Check Point warns of zero-day flaw exploited for root access",
-      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-      "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-      "published": "2026-11-13T10:44:22+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft confirms Windows activation failures after November updates",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
-      "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
-      "published": "2026-11-13T09:36:18+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-      "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-      "published": "2026-11-13T08:34:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-      "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity, detailed by Check Point, began on October 30, 2026, and targeted Israeli organizations, with a broader follow-up",
-      "published": "2026-11-13T08:05:49+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Miracle Cure: In 1977, a drug rejected by doctors became a sensation",
-      "url": "https://slate.com/technology/2026/11/doctor-medicine-cancer-cure-pill-history.html",
-      "summary": "37 points · 21 comments",
-      "published": "2026-11-13T06:58:41+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-      "url": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-      "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures may affect some functionality, but we believe taking additional precautions while remediation is completed is the",
-      "published": "2026-11-13T05:43:28+00:00"
     },
     {
       "source": "CISA",
@@ -491,25 +498,18 @@
       "published": "2026-11-12T12:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "summary": "410 points · 198 comments",
-      "published": "2026-11-12T05:29:24+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Lasting Influence of John Berger",
-      "url": "https://www.newyorker.com/magazine/2026/11/16/john-berger-a-life-tom-overton-book-review",
-      "summary": "5 points · 0 comments",
-      "published": "2026-11-12T03:44:33+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Who Runs the Ransomware Group Qilin?",
       "url": "https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/",
       "summary": "The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a few key missteps over the last decade that all point to a 36-year-old man living in St. Petersburg, Russia.",
       "published": "2026-11-11T18:06:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+      "url": "https://thingstudio.net/",
+      "summary": "29 points · 3 comments",
+      "published": "2026-11-11T11:39:15+00:00"
     },
     {
       "source": "OSINT",
