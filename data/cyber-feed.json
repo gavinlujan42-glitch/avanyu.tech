@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T08:57:44.574879+00:00",
-  "item_count": 84,
+  "updated": "2026-11-17T18:22:07.619604+00:00",
+  "item_count": 75,
   "sources": [
     "CISA",
     "HACKER NEWS",
@@ -9,6 +9,11 @@
     "OSINT"
   ],
   "errors": [
+    {
+      "source": "REDDIT",
+      "url": "https://www.reddit.com/r/cybersecurity/.rss",
+      "error": "HTTPError"
+    },
     {
       "source": "REDDIT",
       "url": "https://www.reddit.com/r/netsec/.rss",
@@ -21,6 +26,265 @@
     }
   ],
   "items": [
+    {
+      "source": "OSINT",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/",
+      "summary": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
+      "published": "2026-11-17T18:21:24+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "summary": "[...]",
+      "published": "2026-11-17T18:04:15+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Jensen Huang Says He'd Be 'Honored' to Return As Nvidia CEO",
+      "url": "https://tech.slashdot.org/story/26/11/17/1748231/jensen-huang-says-hed-be-honored-to-return-as-nvidia-ceo?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "In a post on X today, former Nvidia CEO Jensen Huang says he would be \"honored\" to return to the company if its board gives the approval. \"I did not live up to the standards expected of everyone at NVIDIA, and I have made serious mistakes in my personal life,\" he says. \"I created problems for the Board that I deeply regret. I own my mistakes completely, and I am committed to cooperating with the Board's independent investigation.\" Huang resigned from the company last week after acknowledging mul",
+      "published": "2026-11-17T18:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Apple Services Down",
+      "url": "https://downdetector.com/status/apple-support/",
+      "summary": "51 points · 13 comments",
+      "published": "2026-11-17T17:47:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "summary": "295 points · 125 comments",
+      "published": "2026-11-17T17:46:43+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Who Builds the Machines That Build the Machines?",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "summary": "3 points · 0 comments",
+      "published": "2026-11-17T17:45:39+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "BugMeNot Calls It Quits",
+      "url": "https://tech.slashdot.org/story/26/11/17/1729243/bugmenot-calls-it-quits?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "BugMeNot, the password-sharing service launched in 2003 to help users bypass website registration requirements, has shut down without explanation after more than two decades. All that's left on the website is a farewell message that reads: \"Thanks to everyone who envisioned a better internet.\" heise online reports: Founded by Guy King, the service had been online since 2003: BugMeNot was a collection of login credentials for various online services. Volunteers submitted credentials they had crea",
+      "published": "2026-11-17T17:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+      "summary": "58 points · 7 comments",
+      "published": "2026-11-17T17:13:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+      "url": "https://news.ycombinator.com/item?id=50534429",
+      "summary": "1 points · 0 comments",
+      "published": "2026-11-17T17:00:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "summary": "17 points · 1 comments",
+      "published": "2026-11-17T16:01:04+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Uber Says Hackers Stole Info On Nearly 150K Driver's Licenses During Data Breach",
+      "url": "https://it.slashdot.org/story/26/11/17/0016257/uber-says-hackers-stole-info-on-nearly-150k-drivers-licenses-during-data-breach?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from TechCrunch: Uber is notifying close to 150,000 drivers that their personal and driver's license information was stolen during an October data breach at one of the company's tech providers. In notices filed this week with several U.S. attorneys general, including California and Iowa, the ride-hailing giant said it was notified on October 9 by the provider that hackers broke in and stole internal credentials, which were used to access Uber's data. The compa",
+      "published": "2026-11-17T16:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
+      "url": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
+      "summary": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
+      "published": "2026-11-17T16:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "NSA Internal Network Down",
+      "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+      "summary": "186 points · 122 comments",
+      "published": "2026-11-17T15:50:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Antfly learned to stop worrying and love Apache 2.0",
+      "url": "https://antfly.io/thoughts/how-antfly-learned-to-stop-worrying-and-love-apache-2",
+      "summary": "26 points · 9 comments",
+      "published": "2026-11-17T15:33:15+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "url": "https://alloyhtml.com/example.html",
+      "summary": "108 points · 14 comments",
+      "published": "2026-11-17T15:07:09+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
+      "url": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
+      "summary": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them. [...]",
+      "published": "2026-11-17T15:01:11+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "summary": "203 points · 80 comments",
+      "published": "2026-11-17T14:53:43+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+      "url": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+      "summary": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it. In March 2026, the hackers who hijacked Trivy, a widely used open-source security scanner, planted malicious code that looked like it came from GitHub's official checkout tool. They even labeled it a",
+      "published": "2026-11-17T12:25:06+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+      "url": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+      "summary": "A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped \"Don't Allow\" on the microphone prompt. The first security updates with the fix came out on August 17. Neither Apple nor the two researchers who found the flaw report that it was used in attacks. Nik Tsytsarkin of Meta Red Team X published the technical details last week. Mustafa",
+      "published": "2026-11-17T12:14:36+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens Mendix Studio Pro",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05",
+      "summary": "View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution, or system compromise. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix Studio Pro are affected: M",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens .NET Client Library for SIMATIC S7 Webserver API",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02",
+      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version. The following versions of Siemens .NET Client Library for SIMATIC S7 Webserver API are affected: .NET Client Library for SIMATIC S7 Webs",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens meta-iot2050",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
+      "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens meta-iot2050 are affected: meta-iot2050 vers:intdot/>=01.03.01 (CVE-2026-109830)",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens SIMATIC WinCC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09",
+      "summary": "View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.0 vers:all/* (CVE-2026-59082) SI",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens RUGGEDCOM APE1808",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
+      "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support to receive detailed information The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-106175) CVSS Vendor Equipment v3 2.3 Siemens RUGGEDCOM APE1808 1",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Dorsett Controls InfoScan",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Controls InfoScan are affected: InfoScan CVSS Vendor Equipment v3 8.1 Dorsett Controls InfoScan 5 Vulnerabilities Improper Certificate Validation, Exposure of Sensitive System Information to an Unauthorized",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens Industrial Software Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Please also have a look on following Softw",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens Industrial Automation Software Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03",
+      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens products. Siemens has released new versions for several affec",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens SIMATIC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08",
+      "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC are affected: SIMATIC BATCH V9.1 vers:all/* (CVE-2026-58114) SIMATIC Information Server 2020 vers:a",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens ROS#",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
+      "summary": "View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/ CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Generation of Code ('Code ",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "CISA",
+      "title": "Siemens Simcenter Femap",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10",
+      "summary": "View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version. The following versions of Siemens Simcenter Femap are affected: Simcenter Femap vers:intdot/ CVSS Vendor Equipment v3 7.8 Siemens Simcenter Femap 1 Vulnerabili",
+      "published": "2026-11-17T12:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+      "summary": "888 points · 458 comments",
+      "published": "2026-11-17T11:45:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+      "url": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+      "summary": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed Operation ShadowCloud by Kaspersky. The Russian cybersecurity company said it identified the campaign in early 2026.",
+      "published": "2026-11-17T11:20:18+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+      "summary": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+      "published": "2026-11-17T11:19:51+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+      "url": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+      "summary": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents. The changes, currently previewed in macOS 27.3 beta 2, relate to increased transparency and more options for two of its APIs: Device Control and Data Access, and Full Disk Access. \"Before granting an app such",
+      "published": "2026-11-17T11:07:31+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "'123456' Has Been the World's Most Popular Password for 7 of the Last 8 Years",
+      "url": "https://it.slashdot.org/story/26/11/17/006235/123456-has-been-the-worlds-most-popular-password-for-7-of-the-last-8-years?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "\"123456\" is once again the world's most commonly used password, topping NordPass's annual ranking for the seventh time in eight years. The Register reports: Even when 123456 wasn't number one, it was still near the top of the heap, as the top three passwords in the list remain unchanged in the eight years NordPass has published its list: 123456, admin, and 12345678. It's not like the rest of the most common passwords are showing any variety either. According to NordPass, the only real shuffling ",
+      "published": "2026-11-17T11:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "summary": "177 points · 152 comments",
+      "published": "2026-11-17T10:20:40+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "summary": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+      "published": "2026-11-17T09:44:22+00:00"
+    },
     {
       "source": "OSINT",
       "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
@@ -50,13 +314,6 @@
       "published": "2026-11-17T07:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Microsoft outage blocks chlorine warnings, sending hotel guests to hospital.",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xydlyt/microsoft_outage_blocks_chlorine_warnings_sending/",
-      "summary": "submitted by /u/Ordner [link] [comments]",
-      "published": "2026-11-17T06:51:48+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
       "url": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
@@ -71,46 +328,11 @@
       "published": "2026-11-17T05:00:34+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "New Talkback.sh Release - Keep up with Infosec News, Research, and Trends",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xybe9k/new_talkbacksh_release_keep_up_with_infosec_news/",
-      "summary": "New Talkback.sh release with a fresh UI, and several new features to drill into trending vulnerabilities and research. submitted by /u/Human-Youth3707 [link] [comments]",
-      "published": "2026-11-17T04:45:44+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
       "url": "https://news.slashdot.org/story/26/11/16/2137223/just-400-us-data-centers-use-more-electricity-than-michigan?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Wired: Just 400 hyperscale data centers connected in the US used as much electricity as the state of Michigan in a single year, new Harvard research has found. The study, published Monday in Nature Sustainability, also finds that the majority of that electricity was generated using fossil fuels, and data center emissions are three times higher than they were before the AI boom. Federal and state governments do not track data center use separate from the r",
       "published": "2026-11-17T03:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "url": "https://support.apple.com/en-us/149699",
-      "summary": "113 points · 59 comments",
-      "published": "2026-11-17T02:17:04+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-      "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-      "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency and payment information and exploit vulnerabilities in iOS devices. [...]",
-      "published": "2026-11-17T02:12:17+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Running coding agents without handing them my credentials",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
-      "summary": "110 points · 68 comments",
-      "published": "2026-11-17T01:18:56+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "summary": "109 points · 28 comments",
-      "published": "2026-11-17T00:16:24+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -120,17 +342,10 @@
       "published": "2026-11-17T00:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Client requiring security certifications for peripherals?",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xy4r1d/client_requiring_security_certifications_for/",
-      "summary": "We're starting a new project with a client who has a petty unusual security requirement. They want us to provide security certifications or security test results for all peripherals, including keyboards, mice, Logitech headsets, etc. I'm honestly not sure what they expect here. Are we supposed to perform penetration tests on these devices? How would you even approach pentesting something like a Logitech headset or a regular mouse? Do manufacturers provide any kind of security certification for t",
-      "published": "2026-11-16T23:28:23+00:00"
-    },
-    {
       "source": "HACKER NEWS",
       "title": "Optimizely compromised, served malware on Zoom, GitLab",
       "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "summary": "317 points · 136 comments",
+      "summary": "600 points · 240 comments",
       "published": "2026-11-16T23:00:34+00:00"
     },
     {
@@ -141,25 +356,11 @@
       "published": "2026-11-16T23:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "summary": "578 points · 412 comments",
-      "published": "2026-11-16T22:58:20+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
       "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
       "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live systems. [...]",
       "published": "2026-11-16T22:54:00+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Poisoned Scripts on BBC, Zoom and Other Major Websites Linked to iPhone Exploit Loaders",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xy2ofi/poisoned_scripts_on_bbc_zoom_and_other_major/",
-      "summary": "Major websites including BBC, Zoom, CNN, Salesforce, and HSBC were found loading malicious JavaScript through trusted third-party services. The malicious code wasn't just designed to steal cryptocurrency and payment card information. It also contained delivery paths linked to Coruna and DarkSword, sophisticated iPhone exploit kits. Our research identified: 1️⃣ 21 major websites linked to verified poisoned script responses. 2️⃣ Malicious code delivered through Optimizely, Kissmetrics, StorifyMe, ",
-      "published": "2026-11-16T22:01:49+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -169,39 +370,11 @@
       "published": "2026-11-16T22:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "Infoblox customer and staff data exposed in Sharepoint breach",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xy2mcz/infoblox_customer_and_staff_data_exposed_in/",
-      "summary": "Register has the scoop - blame third-party migration vendor's access to an internal SharePoint instance... submitted by /u/Much_Preparation_832 [link] [comments]",
-      "published": "2026-11-16T21:59:39+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "CNN, Zoom, Fox News Served Visitors a Crypto-Stealing Skimmer",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xy2k7s/cnn_zoom_fox_news_served_visitors_a/",
-      "summary": "Some men just want to watch the world burn submitted by /u/eigilak [link] [comments]",
-      "published": "2026-11-16T21:57:11+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "summary": "510 points · 231 comments",
-      "published": "2026-11-16T21:32:17+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
       "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
       "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
       "published": "2026-11-16T21:31:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "OpenCode Browse",
-      "url": "https://opencode.ai/product/browse",
-      "summary": "239 points · 126 comments",
-      "published": "2026-11-16T21:20:37+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -219,24 +392,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "summary": "139 points · 111 comments",
-      "published": "2026-11-16T20:48:08+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
       "url": "https://www.cs.cmu.edu/learn/",
-      "summary": "1433 points · 194 comments",
+      "summary": "2150 points · 288 comments",
       "published": "2026-11-16T20:43:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Chemistry is Actually Geometry",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "summary": "217 points · 108 comments",
-      "published": "2026-11-16T20:22:18+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -246,20 +405,6 @@
       "published": "2026-11-16T20:00:00+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-      "summary": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-      "published": "2026-11-16T19:57:13+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Customers at some of the nation's largest banks are reporting difficulty accessing accounts online",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxxxiq/customers_at_some_of_the_nations_largest_banks/",
-      "summary": "submitted by /u/GregWilson23 [link] [comments]",
-      "published": "2026-11-16T19:01:11+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Corporations Are Using Trump's Tariff Refunds On Bonuses Rather Than Reimbursing",
       "url": "https://news.slashdot.org/story/26/11/16/1745238/corporations-are-using-trumps-tariff-refunds-on-bonuses-rather-than-reimbursing?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -267,102 +412,18 @@
       "published": "2026-11-16T19:00:00+00:00"
     },
     {
-      "source": "REDDIT",
-      "title": "NoisyTCP Linux kernel flaw lets remote attackers crash servers without credentials",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxxfpg/noisytcp_linux_kernel_flaw_lets_remote_attackers/",
-      "summary": "submitted by /u/Potential-Couple-745 [link] [comments]",
-      "published": "2026-11-16T18:42:15+00:00"
+      "source": "HACKER NEWS",
+      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
+      "url": "https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664",
+      "summary": "81 points · 19 comments",
+      "published": "2026-11-16T15:02:20+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "SpaceX Catches Starship On the First Try",
-      "url": "https://science.slashdot.org/story/26/11/16/1721247/spacex-catches-starship-on-the-first-try?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Over the weekend, SpaceX successfully caught a Starship upper stage returning from orbit for the first time, demonstrating a key piece of its plan for a fully and rapidly reusable launch system. The achievement means SpaceX has now demonstrated tower catches of both Starship stages, though not yet on the same flight. \"Many small fixes are needed to achieve immediate reusability (like an airplane),\" noted SpaceX's Elon Musk. The Register reports: Flight 15 began well, with the 33 Raptor engines o",
-      "published": "2026-11-16T18:00:00+00:00"
-    },
-    {
-      "source": "REDDIT",
+      "source": "OSINT",
       "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxvr4p/google_finds_hackers_using_ai_agents_to_build_and/",
-      "summary": "submitted by /u/SoftAmberRidge [link] [comments]",
-      "published": "2026-11-16T17:39:43+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Robert Pattinson Named As New 007",
-      "url": "https://entertainment.slashdot.org/story/26/11/16/173246/robert-pattinson-named-as-new-007?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Robert Pattinson has officially been cast as the next James Bond, succeeding Daniel Craig as 007 and ending months of speculation over actors including Callum Turner, Nicholas Hoult and Jack Lowden. Denis Villeneuve will direct the new Amazon MGM film, with Steven Knight writing the screenplay. \"James Bond is one of the most legendary characters in cinema, and to be entrusted with 007 is the honor of a lifetime,\" Pattinson said in a statement. \"I'm deeply grateful to Denis, Amy, David, Tanya and",
-      "published": "2026-11-16T17:30:00+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "US Closes Loophole That Allowed China To Remotely Access Nvidia Chips",
-      "url": "https://hardware.slashdot.org/story/26/11/16/1645203/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Forbes: In a statement published on Monday, the Commerce Department said a new interim rule will address \"rapid advancements in cloud computing\" that have made it easier for countries like China to access advanced AI chips under export controls, including by accessing them remotely in data centers located in countries not under U.S. export controls. The new rule will require an additional license to export, reexport or transfer chips to companies in Indon",
-      "published": "2026-11-16T17:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "url": "https://burntsushi.net/jiff/",
-      "summary": "373 points · 81 comments",
-      "published": "2026-11-16T16:53:39+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-      "summary": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-      "published": "2026-11-16T16:43:24+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Microsoft Blames Monster Email Outage On Software Defect Introduced In July Fix",
-      "url": "https://tech.slashdot.org/story/26/11/16/1628256/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Microsoft says last week's massive Microsoft 365 outage was caused by a software defect introduced in a July update that remained dormant until a Teams failover and a simultaneous 14% reduction in gateway capacity triggered a cascading failure. More than 80% of the affected gateway servers became unresponsive at the outage's worst point, and because the months-old change could not simply be rolled back, engineers spent roughly 15 hours developing and deploying a patch that restored the previous ",
-      "published": "2026-11-16T16:30:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Frame – 31.5\" color ePaper display",
-      "url": "https://trmnl.com/blog/introducing-frame",
-      "summary": "400 points · 280 comments",
-      "published": "2026-11-16T16:23:22+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "FBI warns AI hacking framework ARTEX is being used in real cyberattacks",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxsqfz/fbi_warns_ai_hacking_framework_artex_is_being/",
-      "summary": "The FBI warns that multiple threat actors have abused ARTEX, an AI-powered penetration-testing framework, since at least August 2026. The agency says it has been used against organizations in finance, government, technology, healthcare and other sectors. ARTEX can automate reconnaissance, vulnerability exploitation and privilege escalation. The FBI connects it to attacks involving ConnectWise cloud backup integrations and Microsoft 365 environments, with some intrusions progressing to privileged",
-      "published": "2026-11-16T15:46:57+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Fandango says hackers stole payment card details from checkout pages",
-      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-      "summary": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-      "published": "2026-11-16T15:44:21+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-      "summary": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]",
-      "published": "2026-11-16T15:01:11+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Google warns that fully-automated AI attacks are coming soon",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxqhrp/google_warns_that_fullyautomated_ai_attacks_are/",
-      "summary": "submitted by /u/Doug24 [link] [comments]",
-      "published": "2026-11-16T14:18:31+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "What is w2rt6byl5nf1opmc-a.com?",
-      "url": "https://jack.cab/blog/siterate",
-      "summary": "341 points · 150 comments",
-      "published": "2026-11-16T13:51:38+00:00"
+      "url": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+      "summary": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-stage intrusions at greater operational velocity. In tandem, threat actors are leveraging the power and capabilities of large language models (LLMs)",
+      "published": "2026-11-16T14:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -372,11 +433,11 @@
       "published": "2026-11-16T13:27:20+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
-      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
-      "summary": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
-      "published": "2026-11-16T12:53:18+00:00"
+      "source": "HACKER NEWS",
+      "title": "Exploiting Replay Protected Monotonic Counters to Brute-Force Windows Hello PINs",
+      "url": "https://arxiv.org/abs/2611.18126",
+      "summary": "21 points · 2 comments",
+      "published": "2026-11-16T13:25:17+00:00"
     },
     {
       "source": "OSINT",
@@ -400,74 +461,18 @@
       "published": "2026-11-16T09:32:57+00:00"
     },
     {
-      "source": "OSINT",
-      "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-      "url": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-      "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat intelligence team captured with decoy servers, describe stolen keys being used to run the AI models that powered the search for more keys. The team said this",
-      "published": "2026-11-16T07:34:21+00:00"
+      "source": "HACKER NEWS",
+      "title": "Elephant-Goldfish Model",
+      "url": "https://egm.dev/",
+      "summary": "22 points · 13 comments",
+      "published": "2026-11-16T08:23:28+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Test/verification technique effectiveness with Astra",
-      "url": "https://danluu.com/astra-testing/",
-      "summary": "35 points · 6 comments",
-      "published": "2026-11-16T07:33:51+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-      "url": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-      "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's ICS CERT team after it was contacted by the affected developer in June 2025, has been attributed to a threat actor named BO Team (aka Black Owl, Hoody Hyena,",
-      "published": "2026-11-16T06:53:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nimony: A New Compiler for Nim",
-      "url": "https://nimony.org/",
-      "summary": "35 points · 9 comments",
-      "published": "2026-11-16T01:05:22+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The Fossils That Haunted Lovecraft",
-      "url": "https://paleonerdish.wordpress.com/2026/10/30/halloween-special-xiv-the-fossils-that-haunted-lovecraft/",
-      "summary": "30 points · 3 comments",
-      "published": "2026-11-16T00:38:12+00:00"
-    },
-    {
-      "source": "REDDIT",
-      "title": "Mentorship Monday - Post All Career, Education and Job questions here!",
-      "url": "https://www.reddit.com/r/cybersecurity/comments/1xxaqc2/mentorship_monday_post_all_career_education_and/",
-      "summary": "This is the weekly thread for career and education questions and advice. There are no stupid questions; so, what do you want to know about certs/degrees, job requirements, and any other general cybersecurity career questions? Ask away! Interested in what other people are asking, or think your question has been asked before? Have a look through prior weeks of content - though we're working on making this more easily searchable for the future. submitted by /u/AutoModerator [link] [comments]",
-      "published": "2026-11-16T00:00:10+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-      "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was enabled by default and that the app accessed Italian users' photos, videos, and related metadata without their explicit consent. The company has 60 days to",
-      "published": "2026-11-15T11:27:31+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-      "url": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-      "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access key we had issued to Fireworks,\" Cursor said in a Friday update. \"The key was exposed by Fireworks, and the attacker used it to copy data from a read-only",
-      "published": "2026-11-15T08:22:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Formal Verification Is Not Verifiable",
-      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
-      "summary": "114 points · 40 comments",
-      "published": "2026-11-14T15:07:48+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Zigzag, a native Mac browser for people leaving Arc",
-      "url": "https://github.com/ZigaoWang/zigzag",
-      "summary": "34 points · 15 comments",
-      "published": "2026-11-14T13:17:10+00:00"
+      "title": "VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012",
+      "url": "https://visualbasic.world/",
+      "summary": "179 points · 66 comments",
+      "published": "2026-11-15T23:08:30+00:00"
     },
     {
       "source": "CISA",
@@ -475,34 +480,6 @@
       "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive ",
       "published": "2026-11-13T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "Siemens Desigo, Gridscale",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
-      "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Siemens has released new versions for the ",
-      "published": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "Siemens RUGGEDCOM APE1808",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
-      "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are advised to consult and implement the workarounds provided in Palo Alto Networks' upstream security notifications. The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-109618, CVE-2026-109619) CVSS Vendor Equip",
-      "published": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "Siemens Building Automation and Energy Products",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
-      "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618 and CVE-2026-109619). This advisory covers the status of impact of various Siemens software products. As a general security measure, Siemens strongly recommends to protect network access to devices with appropriate mechanisms. In order to operate the devices i",
-      "published": "2026-11-12T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "Siemens Industrial Edge Management",
-      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
-      "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Although the affected Brotli library is included in the IEM software stack, the affected functionality is not used or exposed. The same applies to IEDK. - Management Applications installed: Follow the specific mitigations until a fix is available. - Device Applicatio",
-      "published": "2026-11-12T12:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -517,41 +494,6 @@
       "url": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
       "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including a zero-day in Microsoft Outlook -- and comes amid important security updates from other software makers, including Adobe, Apple, Google and Mozilla.",
       "published": "2026-11-10T21:55:03+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability CVE-2026-116606 Barracuda Networks Email Security G",
-      "published": "2026-11-10T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-102895 GPUStack Improper Authentication Vulnerability CVE-2026-116779 SignalWire FreeSwitch Code Injection Vulnerability CVE-2026-123158 OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability CVE-2026-123218 IBM Aspera Faspex Incorrect Authorization Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cy",
-      "published": "2026-11-09T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
-      "published": "2026-11-06T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-      "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation",
-      "published": "2026-11-05T12:00:00+00:00"
-    },
-    {
-      "source": "CISA",
-      "title": "Post-Quantum Questions to Ask Your Vendors",
-      "url": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-      "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizat",
-      "published": "2026-11-05T12:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -580,6 +522,34 @@
       "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
       "summary": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity has learned. Sources close to the investigation say one of the executives in the United States even helped ShinyHunters operate a website that pressured victims into paying a ransom.",
       "published": "2026-10-19T13:48:56+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+      "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+      "summary": "The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime services that are helping Russia circumvent existing financial restrictions.",
+      "published": "2026-10-14T14:22:49+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "url": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "summary": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from Redmond.",
+      "published": "2026-10-13T23:24:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
+      "url": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
+      "summary": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple sources tell KrebsOnSecurity.",
+      "published": "2026-10-10T00:17:42+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "ShinyHunters Extorted Boeing Spin-off Prior to Arrests",
+      "url": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
+      "summary": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the hacker handle \"Rey,\" was detained as ShinyHunters was in the process of extorting a business unit recently divested by the global aerospace company Boeing, which manufactures the fleet of planes used by the employer of Rey's ",
+      "published": "2026-10-07T13:48:45+00:00"
     }
   ]
 }
