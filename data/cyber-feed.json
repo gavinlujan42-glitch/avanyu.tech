@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T23:44:11.002764+00:00",
+  "updated": "2026-11-20T06:51:07.590039+00:00",
   "item_count": 76,
   "sources": [
     "CISA",
@@ -27,6 +27,97 @@
   ],
   "items": [
     {
+      "source": "HACKER NEWS",
+      "title": "Jujutsu Primer",
+      "url": "https://ethanlowman.com/posts/jj-primer/",
+      "summary": "21 points · 3 comments",
+      "published": "2026-11-20T05:46:01+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
+      "published": "2026-11-20T05:30:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "summary": "167 points · 26 comments",
+      "published": "2026-11-20T05:21:02+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html#release_9.1",
+      "summary": "42 points · 9 comments",
+      "published": "2026-11-20T04:02:39+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "GIMP now has UI tests",
+      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "summary": "74 points · 73 comments",
+      "published": "2026-11-20T04:00:24+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "PostgreSQL 19",
+      "url": "https://www.postgresql.org/docs/release/19.0/",
+      "summary": "74 points · 2 comments",
+      "published": "2026-11-20T03:45:45+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up",
+      "url": "https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from Ars Technica: In an unprecedented move, Amazon is using its app and website to try to convince shoppers to not support a New York City bill. When I log into Amazon today, I'm met with a vertical banner that reads: \"ATTENTION NYC Council could add up to $5 per order\" with a button that says \"Act now.\" The message is delivered as a pop-up for users of the Amazon app, Bloomberg reported. Amazon hasn't specified whether the messaging targets NYC residents bas",
+      "published": "2026-11-20T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+      "summary": "54 points · 7 comments",
+      "published": "2026-11-20T02:43:49+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "summary": "141 points · 75 comments",
+      "published": "2026-11-20T02:01:09+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "summary": "79 points · 24 comments",
+      "published": "2026-11-20T01:06:12+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Iowans Brace For Lead Dust Cloud As Army Plans to Detonate 5 Tons of Bomb-Making Chemicals",
+      "url": "https://tech.slashdot.org/story/26/11/19/2353250/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The U.S. Army plans to detonate roughly five tons of unstable lead azide explosives at the Iowa Army Ammunition Plant on Friday. \"The detonation will result in an air plume with some lead-containing particles which will disperse in the air and deposit on the ground,\" an advisory states. \"Lead is toxic to humans and animals. The goal of this advisory is to provide the public with actionable information out of an abundance of caution to minimize lead exposure.\" PBS reports: Officials have released",
+      "published": "2026-11-20T01:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+      "published": "2026-11-20T00:26:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ChatGPT for SNES",
+      "url": "https://www.bxfoundry.com/chatgpt_snes/",
+      "summary": "49 points · 14 comments",
+      "published": "2026-11-20T00:25:59+00:00"
+    },
+    {
       "source": "SLASHDOT",
       "title": "Nvidia Approaches Arm Boss Rene Haas In Search For New CEO",
       "url": "https://slashdot.org/story/26/11/19/2212215/nvidia-approaches-arm-boss-rene-haas-in-search-for-new-ceo?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -34,25 +125,11 @@
       "published": "2026-11-19T23:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "RegExr: Temporarily Offline",
-      "url": "https://regexr.com/",
-      "summary": "21 points · 14 comments",
-      "published": "2026-11-19T22:27:07+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
       "url": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
       "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
       "published": "2026-11-19T22:25:42+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Synology Security Advisory",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "summary": "65 points · 27 comments",
-      "published": "2026-11-19T22:13:40+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -74,13 +151,6 @@
       "url": "https://developers.slashdot.org/story/26/11/19/2049222/php-readies-critical-security-updates-to-patch-another-rce-flaw?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "PHP has released security updates addressing seven critical remote code execution (RCE) vulnerabilities across its supported versions, just four weeks after patches for the widely exploited PHP2Shell flaws. SecurityWeek reports: One of the security defects expected to be resolved is CVE-2026-115560, a remote code execution (RCE) defect in the file-upload progress tracking functionality. The vulnerability was publicly disclosed two days after PHP2Shell made headlines. PHP's maintainers warned at ",
       "published": "2026-11-19T21:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Rebuilding my local voice assistant pipeline",
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "summary": "35 points · 2 comments",
-      "published": "2026-11-19T20:57:14+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -105,16 +175,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "summary": "60 points · 105 comments",
-      "published": "2026-11-19T18:47:16+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
       "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "summary": "164 points · 84 comments",
+      "summary": "252 points · 139 comments",
       "published": "2026-11-19T18:35:17+00:00"
     },
     {
@@ -135,15 +198,8 @@
       "source": "HACKER NEWS",
       "title": "Claude solves two open problems in the physics of black holes",
       "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "summary": "339 points · 153 comments",
+      "summary": "458 points · 218 comments",
       "published": "2026-11-19T17:30:44+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "summary": "448 points · 64 comments",
-      "published": "2026-11-19T17:25:33+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -156,7 +212,7 @@
       "source": "HACKER NEWS",
       "title": "Anthropic’s Nasdaq debut",
       "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "summary": "809 points · 1547 comments",
+      "summary": "1042 points · 2058 comments",
       "published": "2026-11-19T17:02:40+00:00"
     },
     {
@@ -170,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
       "url": "https://github.com/onlook-dev/onlook/",
-      "summary": "78 points · 66 comments",
+      "summary": "106 points · 73 comments",
       "published": "2026-11-19T16:34:04+00:00"
     },
     {
@@ -181,25 +237,11 @@
       "published": "2026-11-19T16:28:23+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "summary": "457 points · 196 comments",
-      "published": "2026-11-19T16:21:03+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Microsoft Testing Remote Lock For Lost Or Stolen Windows Devices",
       "url": "https://mobile.slashdot.org/story/26/11/19/0058259/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "joshuark quotes a report from BleepingComputer: Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. Named Remote Lock, this new feature is shipping to devices upgraded to Windows 11 Insider Preview builds in the Beta (Build 26320.10003) and Experimental (Build 26340.10013) channels. Admins can use Microsoft Intune custom configuration profiles to lock Microsoft Entra-joined, hybrid-joined, or MDM-enrolled dev",
       "published": "2026-11-19T16:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "url": "https://cornholenews.news",
-      "summary": "175 points · 86 comments",
-      "published": "2026-11-19T15:38:32+00:00"
     },
     {
       "source": "OSINT",
@@ -210,7 +252,7 @@
     },
     {
       "source": "OSINT",
-      "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+      "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
       "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
       "summary": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no workaround. vCenter is the central console for managing an organization's ESX hosts and virtual machines. The",
       "published": "2026-11-19T15:11:06+00:00"
@@ -235,13 +277,6 @@
       "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
       "summary": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable configurations as uncommon. Fixed releases for all supported branches shipped yesterday. The Drupal Security Team disclosed",
       "published": "2026-11-19T14:33:06+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "summary": "226 points · 50 comments",
-      "published": "2026-11-19T13:18:11+00:00"
     },
     {
       "source": "OSINT",
@@ -282,7 +317,7 @@
       "source": "HACKER NEWS",
       "title": "Someone reported java4shell bug in September 2026",
       "url": "https://github.com/openjdk/jdk/pull/32781",
-      "summary": "340 points · 90 comments",
+      "summary": "408 points · 111 comments",
       "published": "2026-11-19T11:47:03+00:00"
     },
     {
@@ -349,13 +384,6 @@
       "published": "2026-11-19T07:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "summary": "374 points · 159 comments",
-      "published": "2026-11-19T05:09:11+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
       "url": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
@@ -363,39 +391,11 @@
       "published": "2026-11-19T04:33:46+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "New Study Shows How Young People Feel About AI Companions",
-      "url": "https://slashdot.org/story/26/11/19/0054258/new-study-shows-how-young-people-feel-about-ai-companions?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from 404 Media: A new study from Gallup looked at how young people across the world are making friends, both digitally and in person. The good news is that around 93% of the young people surveyed reported having at least one strong in-person friendship. The weird news is that 33% said they had an AI companion. Gallup's study is lengthy and nuanced. It partnered with the Boston Children's Digital Wellness Lab to conduct the study and used online surveys of more",
-      "published": "2026-11-19T03:30:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
       "url": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
       "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
       "published": "2026-11-18T23:08:33+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "US Bankruptcy Judge Approves Spirit Airlines Data Sale to Google",
-      "url": "https://yro.slashdot.org/story/26/11/18/2224242/us-bankruptcy-judge-approves-spirit-airlines-data-sale-to-google?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "A federal bankruptcy judge has approved Google's $10 million purchase of internal business data from defunct Spirit Airlines during a hearing on Tuesday. Reuters reports: US Bankruptcy Judge Sean Lane, ruling from the bench, cleared the deal after Alphabet's Google agreed last week to implement additional privacy protections for the data, following concerns from labor unions and more than 120 US lawmakers. Discount carrier Spirit halted operations in May. As part of its closure and asset liquida",
-      "published": "2026-11-18T23:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-      "summary": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-      "published": "2026-11-18T20:49:32+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-      "url": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-      "summary": "A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in. The decade-old flaw, CVE-2026-123007, dubbed \"nginx2root,\" has been present in NGINX's open-source code since version 1.9.5, released on September 22, 2015. Fixed versions 1.31.9 and 1.30.7 came out today. F5, the company behind NGINX, says attackers can run code where",
-      "published": "2026-11-18T18:31:17+00:00"
     },
     {
       "source": "CISA",
@@ -413,10 +413,10 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Computer Graphics from Scratch (2021)",
-      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
-      "summary": "34 points · 9 comments",
-      "published": "2026-11-17T20:37:53+00:00"
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "summary": "55 points · 3 comments",
+      "published": "2026-11-17T22:11:46+00:00"
     },
     {
       "source": "CISA",
@@ -478,22 +478,22 @@
       "source": "HACKER NEWS",
       "title": "How to CAD Almost Anything",
       "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "summary": "56 points · 9 comments",
+      "summary": "217 points · 62 comments",
       "published": "2026-11-17T06:29:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Bit Shifting in Basic",
+      "url": "https://subethasoftware.com/2020/06/11/bit-shifting-in-basic/",
+      "summary": "17 points · 0 comments",
+      "published": "2026-11-16T19:04:36+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "Garage Door Spam",
       "url": "https://blog.harrison.page/garage-door-spam/",
-      "summary": "720 points · 304 comments",
+      "summary": "824 points · 347 comments",
       "published": "2026-11-16T16:13:36+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
-      "summary": "22 points · 0 comments",
-      "published": "2026-11-16T13:58:56+00:00"
     },
     {
       "source": "OSINT",
