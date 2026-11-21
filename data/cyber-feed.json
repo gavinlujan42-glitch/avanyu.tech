@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T03:24:19.489394+00:00",
+  "updated": "2026-11-21T11:38:31.151330+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,6 +28,90 @@
   "items": [
     {
       "source": "OSINT",
+      "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+      "url": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+      "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released fixed versions. The bug, tracked as CVE-2026-129975, affects all software that uses GPGME before version 2.3.0,",
+      "published": "2026-11-21T11:05:53+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+      "url": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+      "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account to write files outside the server's storage folder, and it affects MONAI Label 0.8.5 and earlier in the default setup,",
+      "published": "2026-11-21T11:03:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Mercury-Bound X-Ray Telescope Delivers First Images After Eight Years In Space",
+      "url": "https://science.slashdot.org/story/26/11/21/0224236/mercury-bound-x-ray-telescope-delivers-first-images-after-eight-years-in-space?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "A British-built X-ray telescope aboard the European-Japanese BepiColombo spacecraft has captured its first astronomical images after eight years in space and roughly 6.2 billion miles of travel. Phys.org reports: A team led by the University of Leicester has been making calibration measurements with the Mercury Imaging X-ray Spectrometer (MIXS), one of the instruments on the two-spacecraft BepiColombo mission to Mercury, which begins its orbital insertion tomorrow (Nov. 21) in preparation for th",
+      "published": "2026-11-21T11:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "summary": "29 points · 6 comments",
+      "published": "2026-11-21T10:33:57+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to agentic systems built into iOS 27 and on Android versions where the encrypted messaging platform can detect an AI assistant attempting to read the Signal",
+      "published": "2026-11-21T08:49:20+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-129448 (CVSS score: 9.8) - A deserialization of untrusted data vulnerability in",
+      "published": "2026-11-21T08:49:13+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "summary": "29 points · 3 comments",
+      "published": "2026-11-21T08:32:58+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Anthropic Mathematician Claims to Prove Riemann Hypothesis",
+      "url": "https://science.slashdot.org/story/26/11/21/028221/anthropic-mathematician-claims-to-prove-riemann-hypothesis?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Slashdot has been covering the Riemann Hypothesis for years. 2000: Prove The Riemann Hypothesis And Make.Money.Fast 2002: More on Riemann Hypothesis 2008: Claimed Proof of Riemann Hypothesis 2008: Prominent Mathematicians Rebuke Recent Riemann Hypothesis Proof Add a new headline to the list... 2026: Using AI, mathematician claims to have solved one of math's great mysteries joshuark shares a report from Scientific American: Levent Alpoge, a mathematician at Anthropic, has claimed to have solved ",
+      "published": "2026-11-21T07:00:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Surprisingly Adorable Insect Portraits",
+      "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+      "summary": "55 points · 13 comments",
+      "published": "2026-11-21T06:44:14+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "ClawDOS – An AI coding agent for DOS",
+      "url": "http://ricapar.net/ClawDOS/",
+      "summary": "78 points · 21 comments",
+      "published": "2026-11-21T05:38:01+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "FCC Backs AT&T's Plan To Remove Copper Landlines In California",
+      "url": "https://slashdot.org/story/26/11/20/2357248/fcc-backs-atts-plan-to-remove-copper-landlines-in-california?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "An anonymous reader quotes a report from PCMag: On Friday, the FCC announced that it was preempting \"specific requirements in California law that prevent consumers from transitioning off of unreliable, slow copper lines,\" even as some residents fear they'll be saddled with spotty cell service as an alternative. AT&T argues that California's \"Carrier of the Last Resort\" (COLR) rules prevent it from removing the old-school copper network that currently serves only 3% of California households, a nu",
+      "published": "2026-11-21T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Clojure will affect the way you think about programming (2017)",
+      "url": "https://eli.thegreenplace.net/2017/clojure-the-perfect-language-to-expand-your-brain/",
+      "summary": "107 points · 33 comments",
+      "published": "2026-11-21T02:40:39+00:00"
+    },
+    {
+      "source": "OSINT",
       "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
       "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply paying the attackers for a decryption key and charging victims a markup for work that was never performed.",
@@ -42,17 +126,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Re: Riemann",
-      "url": "https://borretti.me/article/re-riemann",
-      "summary": "153 points · 142 comments",
-      "published": "2026-11-20T23:42:44+00:00"
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "summary": "119 points · 26 comments",
+      "published": "2026-11-20T23:19:44+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "Sir Brian May adds new dimension to Hera asteroid",
-      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
-      "summary": "46 points · 11 comments",
-      "published": "2026-11-20T23:19:44+00:00"
+      "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+      "url": "https://news.ycombinator.com/item?id=50583761",
+      "summary": "235 points · 187 comments",
+      "published": "2026-11-20T23:18:32+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -65,7 +149,7 @@
       "source": "HACKER NEWS",
       "title": "NINLIVE: The Nine Inch Nails live archive",
       "url": "https://ninlive.com/",
-      "summary": "150 points · 36 comments",
+      "summary": "270 points · 70 comments",
       "published": "2026-11-20T22:30:47+00:00"
     },
     {
@@ -86,29 +170,15 @@
       "source": "HACKER NEWS",
       "title": "Inkling 2 Mini",
       "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "summary": "755 points · 129 comments",
+      "summary": "1047 points · 195 comments",
       "published": "2026-11-20T20:12:19+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "And yet, it moves",
-      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
-      "summary": "110 points · 53 comments",
-      "published": "2026-11-20T20:07:55+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
       "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
-      "summary": "128 points · 24 comments",
+      "summary": "228 points · 76 comments",
       "published": "2026-11-20T20:03:59+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
-      "url": "https://scottaaronson.blog/?p=10344",
-      "summary": "224 points · 204 comments",
-      "published": "2026-11-20T20:03:07+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -116,13 +186,6 @@
       "url": "https://yro.slashdot.org/story/26/11/20/1929255/trump-admin-still-wont-let-tp-link-sell-routers-in-us?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "An anonymous reader quotes a report from Ars Technica: TP-Link, which may be the top provider of wireless routers for US homes and small businesses, isn't allowed to sell its latest Wi-Fi routers in the US. The Trump administration imposed a sweeping ban on foreign-made consumer routers in March 2026, and TP-Link hasn't been able to obtain an exemption. The rules prevent the import or sale of all new router models that are manufactured, assembled, designed, or developed outside the US. The Trump",
       "published": "2026-11-20T20:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Winedroid – run Android apps without Android (WASM demo)",
-      "url": "https://winedroid.soham.sh/demo/",
-      "summary": "110 points · 35 comments",
-      "published": "2026-11-20T19:30:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -142,22 +205,15 @@
       "source": "HACKER NEWS",
       "title": "Hurried Announcement: Alessandro Masullo GRH",
       "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "summary": "1681 points · 748 comments",
+      "summary": "2147 points · 992 comments",
       "published": "2026-11-20T18:33:14+00:00"
     },
     {
       "source": "HACKER NEWS",
       "title": "We promoted developers into architects without informing them",
       "url": "https://manidoraisamy.com/developer-to-architect.html",
-      "summary": "330 points · 192 comments",
+      "summary": "453 points · 250 comments",
       "published": "2026-11-20T18:17:51+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Vibecoding an inference chip",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
-      "summary": "119 points · 44 comments",
-      "published": "2026-11-20T18:15:16+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -170,7 +226,7 @@
       "source": "OSINT",
       "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
       "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4. The issue could",
+      "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of incomplete validation of external ad-reply URLs in WhatsApp for Android and WhatsApp Business for Android before 2.26.17.4.",
       "published": "2026-11-20T17:57:20+00:00"
     },
     {
@@ -184,7 +240,7 @@
       "source": "HACKER NEWS",
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
       "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-      "summary": "363 points · 147 comments",
+      "summary": "458 points · 191 comments",
       "published": "2026-11-20T17:21:36+00:00"
     },
     {
@@ -205,7 +261,7 @@
       "source": "HACKER NEWS",
       "title": "Language Models Can Rewrite Their Own Weights",
       "url": "https://arxiv.org/abs/2611.21885",
-      "summary": "353 points · 113 comments",
+      "summary": "420 points · 123 comments",
       "published": "2026-11-20T16:29:06+00:00"
     },
     {
@@ -223,13 +279,6 @@
       "published": "2026-11-20T15:58:06+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Finite-time blow-up for the Navier–Stokes equations",
-      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
-      "summary": "261 points · 84 comments",
-      "published": "2026-11-20T15:34:31+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
       "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
@@ -240,7 +289,7 @@
       "source": "HACKER NEWS",
       "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
       "url": "https://alpo.ge/remark.pdf",
-      "summary": "2418 points · 1631 comments",
+      "summary": "2677 points · 1854 comments",
       "published": "2026-11-20T14:16:21+00:00"
     },
     {
@@ -279,13 +328,6 @@
       "published": "2026-11-20T12:00:00+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Intuit Sells Mailchimp At About a Third of Its 2021 Purchase Price",
-      "url": "https://tech.slashdot.org/story/26/11/20/0121230/intuit-sells-mailchimp-at-about-a-third-of-its-2021-purchase-price?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Intuit has agreed to sell Mailchimp to Bending Spoons for $3.68 billion in cash and stock, less than one-third of the $12 billion it paid to acquire the email-marketing platform in 2021. The deal is set to close in early 2027. CNBC reports: In August Intuit started running Mailchimp as a distinct operating segment. The move was meant to give investors more transparency as the company tried to manage the unit for profitability, Sandeep Aujla, Intuit's finance chief, said at a September company br",
-      "published": "2026-11-20T11:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
       "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
@@ -307,13 +349,6 @@
       "published": "2026-11-20T10:32:50+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-      "url": "https://signal.org/blog/protecting-your-privacy/",
-      "summary": "524 points · 310 comments",
-      "published": "2026-11-20T09:42:16+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
       "url": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
@@ -333,27 +368,6 @@
       "url": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
       "summary": "Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. \"ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and Legion Loader through separate chains while retaining ClickFix and signed binary sideloading techniques,\" Blackpoint",
       "published": "2026-11-20T07:11:39+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Google Signs Deal With Blue Origin to Send Satellite Data Centers Into Orbit",
-      "url": "https://science.slashdot.org/story/26/11/20/0010255/google-signs-deal-with-blue-origin-to-send-satellite-data-centers-into-orbit?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "Google has partnered with Jeff Bezos' Blue Origin to launch satellite-based AI data centers into orbit as part of its experimental Project Suncatcher initiative. \"Engadget reports: Each of these satellites will be equipped with \"roughly the capacity of a data center rack\" and will enter into a sun-synchronous orbit via heavy-lift New Glenn rockets. The rocket will carry several Google tensor processing units, the company's proprietary AI chips, along with data center servers. The first launch is",
-      "published": "2026-11-20T07:00:00+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-      "url": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-      "summary": "A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted yesterday by a researcher who uses the handles MSNightmare and Nightmare Eclipse, and the endpoint-security firm ThreatLocker",
-      "published": "2026-11-20T05:30:01+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Amazon Fights the Delivery Protection Act With Homepage Banner, In-App Pop-Up",
-      "url": "https://politics.slashdot.org/story/26/11/20/006220/amazon-fights-the-delivery-protection-act-with-homepage-banner-in-app-pop-up?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from Ars Technica: In an unprecedented move, Amazon is using its app and website to try to convince shoppers to not support a New York City bill. When I log into Amazon today, I'm met with a vertical banner that reads: \"ATTENTION NYC Council could add up to $5 per order\" with a button that says \"Act now.\" The message is delivered as a pop-up for users of the Amazon app, Bloomberg reported. Amazon hasn't specified whether the messaging targets NYC residents bas",
-      "published": "2026-11-20T03:30:00+00:00"
     },
     {
       "source": "OSINT",
@@ -378,31 +392,10 @@
     },
     {
       "source": "OSINT",
-      "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-      "url": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-      "summary": "The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that's the problem. This week's stories show how ordinary things are being used to steal data, spread malware, and get people to hand over access. There's another shift worth watching. AI is making some attacks easier",
-      "published": "2026-11-19T18:47:58+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Transport for London breach exposes 265,000 Oyster card users' data",
       "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
       "summary": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
       "published": "2026-11-19T18:20:01+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-      "url": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-      "summary": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the server. Today's PHP releases fix the flaw, called phpAfterShell. The flaw is tracked as CVE-2026-126714 and rated",
-      "published": "2026-11-19T16:59:56+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-      "url": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-      "summary": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project maintainers alerted users to multiple critical vulnerabilities affecting all supported PHP versions under specific",
-      "published": "2026-11-19T15:18:07+00:00"
     },
     {
       "source": "CISA",
@@ -427,10 +420,17 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "How to Bypass Rust's Orphan Rule",
-      "url": "https://edvong.com/bypass-orphan-rule/",
-      "summary": "21 points · 3 comments",
-      "published": "2026-11-18T20:22:06+00:00"
+      "title": "Engineer's Guide to Career Growth – Advice from My Time at Stripe and Facebook",
+      "url": "https://review.firstround.com/the-engineers-guide-to-career-growth-advice-from-my-time-at-stripe-and-facebook/",
+      "summary": "13 points · 2 comments",
+      "published": "2026-11-19T07:25:57+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Fewer slides, more dragons",
+      "url": "https://www.breakingchange.blog/p/fewer-slides-more-dragons",
+      "summary": "39 points · 15 comments",
+      "published": "2026-11-19T05:46:36+00:00"
     },
     {
       "source": "OSINT",
@@ -443,7 +443,7 @@
       "source": "HACKER NEWS",
       "title": "Valkey kills the skiplist, cuts sorted set overhead by up to 43%",
       "url": "https://valkey.io/blog/from-skiplist-to-b+tree/",
-      "summary": "59 points · 27 comments",
+      "summary": "145 points · 48 comments",
       "published": "2026-11-17T16:58:30+00:00"
     },
     {
