@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:44:30.710283+00:00",
+  "updated": "2026-11-26T12:09:00.075385+00:00",
   "item_count": 75,
   "sources": [
     "CISA",
@@ -28,10 +28,122 @@
   "items": [
     {
       "source": "HACKER NEWS",
+      "title": "Head of Software Engineering – NOX Metals",
+      "url": "https://news.ycombinator.com/item?id=50654353",
+      "summary": "1 points · 0 comments",
+      "published": "2026-11-26T12:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+      "published": "2026-11-26T11:50:17+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "Physicists Send an Unblockable Message Using Gravity",
+      "url": "https://science.slashdot.org/story/26/11/25/2217235/physicists-send-an-unblockable-message-using-gravity?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader fahrbot-bot shares a report from Phys.org: University of Queensland researchers have used gravity to transmit a message through a brick wall using an elevator and a sensitive gravimeter. The unusual experiment took place in UQ's Parnell Building, where the team of physicists sent the elevator back and forth between two levels, moving its 1.8 metric ton (4,000 pound) counterweight between positions representing binary 0 and 1. A gravimeter in an adjacent bathroom detected",
+      "published": "2026-11-26T11:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "url": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as breakthrough rate: The share of attacks that get past email security, web gateways, and safe browsing to reach the user. How an",
+      "published": "2026-11-26T10:57:55+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we took immediate steps to contain the incident, the attacker gained access to some of our backend systems and accessed a",
+      "published": "2026-11-26T10:57:25+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Intel One Mono font",
+      "url": "https://github.com/intel/intel-one-mono",
+      "summary": "100 points · 59 comments",
+      "published": "2026-11-26T10:11:01+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "summary": "60 points · 48 comments",
+      "published": "2026-11-26T09:44:23+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions. It also relates to CVE-2026-132165 aka Fail2Install in that it addresses remaining vulnerable installation states",
+      "published": "2026-11-26T07:02:34+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "SpaceX Wins FCC Approval To Deploy 1 Million Orbital Data Center Satellites",
+      "url": "https://tech.slashdot.org/story/26/11/25/1936200/spacex-wins-fcc-approval-to-deploy-1-million-orbital-data-center-satellites?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "The Federal Communications Commission (FCC) has authorized SpaceX to deploy one million AI computing satellites into orbit as part of its solar-powered Starmind data center constellation. The approval comes despite opposition from Amazon, Viasat and the American Astronomical Society. CNBC reports: The FCC, in its authorization filing (PDF), noted that SpaceX's application \"received a substantial number of comments from the public, including petitions to deny filed by Kuiper Systems LLC (Amazon L",
+      "published": "2026-11-26T07:00:00+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "url": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities are listed below - CVE-2026-133275 (CVSS score: 5.3) - An arbitrary file upload vulnerability in the Audio, Web and",
+      "published": "2026-11-26T06:44:46+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "summary": "101 points · 71 comments",
+      "published": "2026-11-26T06:32:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "summary": "119 points · 17 comments",
+      "published": "2026-11-26T05:12:59+00:00"
+    },
+    {
+      "source": "OSINT",
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "url": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket security researcher Kush Pandya said in a technical write-up. \"In the versions we analyzed, building or running a",
+      "published": "2026-11-26T03:48:52+00:00"
+    },
+    {
+      "source": "SLASHDOT",
+      "title": "World Has Six Consecutive Days 2C Above Preindustrial Levels For First Time",
+      "url": "https://news.slashdot.org/story/26/11/25/2227252/world-has-six-consecutive-days-2c-above-preindustrial-levels-for-first-time?utm_source=atom1.0mainlinkanon&utm_medium=feed",
+      "summary": "Longtime Slashdot reader AmiMoJo shares a report from The Guardian: For the first time, the world has experienced six consecutive days of temperatures 2C warmer than preindustrial levels, the Guardian has learned. This record hot streak, which is continuing, is too brief to signify that the upper range of the Paris climate agreement target has been breached, but scientists said it was an early indication of what is to come unless fossil fuel emissions are rapidly eliminated. It is also likely to",
+      "published": "2026-11-26T03:30:00+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Minipg: PostgreSQL as a Single Executable",
+      "url": "https://progrium.github.io/minipg/",
+      "summary": "157 points · 24 comments",
+      "published": "2026-11-26T03:00:48+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
       "title": "Tell HN: Lots of Ask HNs again",
       "url": "https://news.ycombinator.com/item?id=50649864",
-      "summary": "95 points · 41 comments",
+      "summary": "287 points · 111 comments",
       "published": "2026-11-26T00:43:34+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Collection of preserved UI style guides",
+      "url": "https://aresluna.org/ui-style-guides/",
+      "summary": "240 points · 25 comments",
+      "published": "2026-11-26T00:40:00+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -46,27 +158,6 @@
       "url": "https://tech.slashdot.org/story/26/11/25/069227/suspected-chinese-agents-are-trying-to-dupe-americans-with-fake-listings-on-job-platforms?utm_source=atom1.0mainlinkanon&utm_medium=feed",
       "summary": "\"LinkedIn is probably the greatest intelligence tool that's ever been created,\" CNN heard from Holden Triplett, director of counterintelligence at the National Security Council in the first Trump administration. A LinkedIn spokesperson responded that \"Creating a fake account or misrepresenting your identity is a clear violation of our terms of service.\" (And they also told CNN that LinkedIn remains \"focused on detecting state-sponsored abuse and will continue to enforce our policies against fake",
       "published": "2026-11-25T23:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Jev is probably Qwen3.5-35B-A3B",
-      "url": "https://modaic.dev/blog/latency-doesnt-lie",
-      "summary": "233 points · 68 comments",
-      "published": "2026-11-25T22:57:04+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Bare Metal Qwen",
-      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
-      "summary": "68 points · 10 comments",
-      "published": "2026-11-25T22:15:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Deploying a payphone on a tiny Pacific Island",
-      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
-      "summary": "44 points · 4 comments",
-      "published": "2026-11-25T22:12:25+00:00"
     },
     {
       "source": "OSINT",
@@ -86,7 +177,7 @@
       "source": "HACKER NEWS",
       "title": "Much shorter version of GRH Lean verification from Anthropic",
       "url": "https://github.com/lsernau/grh-lean",
-      "summary": "299 points · 136 comments",
+      "summary": "473 points · 255 comments",
       "published": "2026-11-25T21:48:10+00:00"
     },
     {
@@ -100,7 +191,7 @@
       "source": "HACKER NEWS",
       "title": "The New York Times warns photographers not to update Photoshop over AI features",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "216 points · 181 comments",
+      "summary": "424 points · 353 comments",
       "published": "2026-11-25T21:18:02+00:00"
     },
     {
@@ -114,15 +205,8 @@
       "source": "HACKER NEWS",
       "title": "Slow Ubuntu security response times",
       "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-      "summary": "156 points · 69 comments",
+      "summary": "326 points · 156 comments",
       "published": "2026-11-25T20:38:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
-      "url": "https://opensec.in/blog/nfs2root-cve-2026-99362",
-      "summary": "90 points · 28 comments",
-      "published": "2026-11-25T20:35:50+00:00"
     },
     {
       "source": "SLASHDOT",
@@ -142,7 +226,7 @@
       "source": "HACKER NEWS",
       "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
       "url": "https://scottaaronson.blog/?p=10379",
-      "summary": "957 points · 805 comments",
+      "summary": "1633 points · 1442 comments",
       "published": "2026-11-25T19:11:27+00:00"
     },
     {
@@ -153,13 +237,6 @@
       "published": "2026-11-25T19:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Multiagent coding is the future",
-      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
-      "summary": "41 points · 25 comments",
-      "published": "2026-11-25T18:20:11+00:00"
-    },
-    {
       "source": "SLASHDOT",
       "title": "Huawei Is Guilty of Conspiracy To Steal Trade Secrets, a US Jury Finds",
       "url": "https://yro.slashdot.org/story/26/11/25/0742222/huawei-is-guilty-of-conspiracy-to-steal-trade-secrets-a-us-jury-finds?utm_source=atom1.0mainlinkanon&utm_medium=feed",
@@ -168,16 +245,9 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "The polynomial Hirsch conjecture is false [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
-      "summary": "126 points · 35 comments",
-      "published": "2026-11-25T17:34:34+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
       "title": "1Password Security Incident",
       "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "summary": "1197 points · 509 comments",
+      "summary": "1479 points · 639 comments",
       "published": "2026-11-25T17:18:26+00:00"
     },
     {
@@ -202,13 +272,6 @@
       "published": "2026-11-25T16:00:00+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "summary": "445 points · 109 comments",
-      "published": "2026-11-25T15:14:32+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
       "url": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
@@ -221,13 +284,6 @@
       "url": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
       "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors themselves. [...]",
       "published": "2026-11-25T15:00:00+00:00"
-    },
-    {
-      "source": "HACKER NEWS",
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "summary": "450 points · 336 comments",
-      "published": "2026-11-25T13:33:07+00:00"
     },
     {
       "source": "OSINT",
@@ -258,13 +314,6 @@
       "published": "2026-11-25T11:51:48+00:00"
     },
     {
-      "source": "HACKER NEWS",
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
-      "summary": "321 points · 178 comments",
-      "published": "2026-11-25T11:34:25+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
       "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
@@ -277,13 +326,6 @@
       "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
       "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
       "published": "2026-11-25T11:16:32+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "Is Nvidia's Legal Trouble Over - Or Just Beginning?",
-      "url": "https://hardware.slashdot.org/story/26/11/25/0923237/is-nvidias-legal-trouble-over---or-just-beginning?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "America's Justice Department \"is still investigating Nvidia,\" reports the New York Post, adding that Monday President Trump posted on Truth Social that Nvidia should also \"continue its thorough internal investigation of the Company's compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security.\" But President Trump also told The New York Post Monday in an exclusive interview \"that he's willing to pardon J",
-      "published": "2026-11-25T11:00:00+00:00"
     },
     {
       "source": "OSINT",
@@ -321,13 +363,6 @@
       "published": "2026-11-25T07:45:03+00:00"
     },
     {
-      "source": "SLASHDOT",
-      "title": "Amazon Drone Crashes On Garage After Delivering Shampoo, Draws FAA Probe",
-      "url": "https://tech.slashdot.org/story/26/11/25/056210/amazon-drone-crashes-on-garage-after-delivering-shampoo-draws-faa-probe?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "The Federal Aviation Administration (FAA) has opened an investigation into an Amazon Prime Air delivery drone that struck a fiber-optic cable and crashed onto a residential garage in Michigan after delivering shampoo. The drone lost a propeller and became entangled in power lines, prompting Amazon and local utility workers to coordinate its removal. Amazon offered to help repair the damaged roof and gave the homeowner a $100 gift card. Ars Technica reports: Amazon Prime Air currently operates a ",
-      "published": "2026-11-25T07:00:00+00:00"
-    },
-    {
       "source": "OSINT",
       "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
       "url": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
@@ -336,59 +371,10 @@
     },
     {
       "source": "OSINT",
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "url": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "summary": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts. The attacks have targeted financial services, healthcare, and legal services located in the U.S., the U.K., and Australia. Other targets include construction,",
-      "published": "2026-11-25T06:37:06+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-      "url": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-      "summary": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account. The WordPress plugins team has proactively detected and blocked the threat before it could be officially released. Visiting each plugin listing now",
-      "published": "2026-11-25T06:21:12+00:00"
-    },
-    {
-      "source": "SLASHDOT",
-      "title": "US Spy Agencies Suffer Breach of Some Unclassified Information",
-      "url": "https://it.slashdot.org/story/26/11/25/0056232/us-spy-agencies-suffer-breach-of-some-unclassified-information?utm_source=atom1.0mainlinkanon&utm_medium=feed",
-      "summary": "An anonymous reader quotes a report from The New York Times: The Central Intelligence Agency and the Office of the Director of National Intelligence recently discovered a cybersecurity breach that exposed some of their unclassified information, according to U.S. officials and other people familiar with the matter. The intrusions affected an open-source intelligence analysis system, a computer network that looks for intelligence insights in public, unclassified material, the people familiar with ",
-      "published": "2026-11-25T03:30:00+00:00"
-    },
-    {
-      "source": "OSINT",
       "title": "Rackspace shuts down Spot cloud platform after security breach",
       "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
       "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
       "published": "2026-11-24T21:37:30+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "New Inception extortion gang launches large-scale vishing campaign",
-      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-      "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-      "published": "2026-11-24T20:21:20+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-      "url": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-      "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called KuboShell that uses the InterPlanetary File System (IPFS) for command-and-control (C2) and deploys Homa, a post-compromise framework that's a reimplementation of",
-      "published": "2026-11-24T16:54:07+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-      "url": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-      "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability, tracked as CVE-2026-123903, is rated 9.8 out of 10.0 on the CVSS scoring system. It resides in the VMware Directory Service (\"vmdir\"). \"A malicious actor with",
-      "published": "2026-11-24T13:28:26+00:00"
-    },
-    {
-      "source": "OSINT",
-      "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-      "url": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-      "summary": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of voice phishing (aka vishing) attacks to trick targets into entering credentials in phishing pages and approving",
-      "published": "2026-11-24T13:28:21+00:00"
     },
     {
       "source": "CISA",
@@ -420,10 +406,24 @@
     },
     {
       "source": "HACKER NEWS",
-      "title": "Hacking radiators",
-      "url": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
-      "summary": "38 points · 13 comments",
-      "published": "2026-11-24T02:56:41+00:00"
+      "title": "What VP ≠ VNP Means (In 3 Minutes)",
+      "url": "https://www.friedgil.com/vpvnp",
+      "summary": "149 points · 44 comments",
+      "published": "2026-11-24T10:56:56+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Show HN: Synth Patch Hero",
+      "url": "https://swarkentin.github.io/synth-patch-hero/",
+      "summary": "65 points · 11 comments",
+      "published": "2026-11-24T03:24:22+00:00"
+    },
+    {
+      "source": "HACKER NEWS",
+      "title": "Training on Documents About Monitoring Leads to Cot Obfuscation",
+      "url": "https://arxiv.org/abs/2605.15257",
+      "summary": "14 points · 0 comments",
+      "published": "2026-11-24T00:19:50+00:00"
     },
     {
       "source": "CISA",
@@ -436,15 +436,15 @@
       "source": "HACKER NEWS",
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
       "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "summary": "260 points · 76 comments",
+      "summary": "397 points · 113 comments",
       "published": "2026-11-22T16:44:48+00:00"
     },
     {
       "source": "HACKER NEWS",
-      "title": "SSH is a GUI framework",
-      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
-      "summary": "140 points · 73 comments",
-      "published": "2026-11-21T14:52:41+00:00"
+      "title": "The Great Automatic Grammatizator (By Roald Dahl), 1954 [pdf]",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "summary": "102 points · 34 comments",
+      "published": "2026-11-22T11:29:44+00:00"
     },
     {
       "source": "OSINT",
